@@ -1,4 +1,5 @@
 name: Daily News Aggregator
+description: 自動抓取 RSS、進行 AI 摘要並發布至 GitHub Pages 的每日工作流。
 
 on:
   schedule:
@@ -7,28 +8,25 @@ on:
 
 jobs:
   aggregate-news:
+    name: 執行新聞彙整與總結
     runs-on: self-hosted
     steps:
-      - name: Checkout code
+      - name: 1. 檢出程式碼 (Checkout)
         uses: actions/checkout@v4
 
-      - name: Install dependencies
+      - name: 2. 安裝 Python 相依套件 (Install dependencies)
         run: |
-          # 假設 self-hosted runner 已有 python3
           python3 -m pip install --upgrade pip
           python3 -m pip install -r requirements.txt
 
-      - name: Run Pipeline
+      - name: 3. 執行主 Pipeline (Fetch -> AI Summary -> Build)
+        description: 依序執行抓取、AI 總結與靜態頁面產生。
         run: |
-          # 建立虛擬環境並安裝 (在 Action 中可以直接跑 pip，但為了保持腳本一致性，我們稍微調整 run_pipeline.sh)
           chmod +x run_pipeline.sh summarize.sh
           ./run_pipeline.sh
-        env:
-          # 這裡需要解決 Gemini CLI 的登入問題
-          # 如果您有 API Key，可以傳入，或是在這一步執行登入動作
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
-      - name: Deploy to GitHub Pages
+      - name: 4. 更新結果至 GitHub Pages (Deploy)
+        description: 將產出的 index.html 與 rss.xml commit 並 push 回倉庫。
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
