@@ -16,15 +16,18 @@ jobs:
       - name: 1. 檢出程式碼 (Checkout)
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # 獲取完整歷史以利 commit & push
+          fetch-depth: 0
 
       - name: 2. 安裝 Python 相依套件 (Install dependencies)
+        shell: bash -l {0} # 使用 login shell 以載入使用者環境設定
         run: |
-          # 僅安裝必要的相依套件，避免動到系統級別的 pip
           python3 -m pip install -r requirements.txt --break-system-packages
 
       - name: 3. 執行主 Pipeline (Fetch -> AI Summary -> Build)
+        shell: bash -l {0} # 使用 login shell 以確保能找到 gemini 指令
         run: |
+          echo "Current User: $(whoami)"
+          echo "Current PATH: $PATH"
           chmod +x run_pipeline.sh summarize.sh
           ./run_pipeline.sh
 
