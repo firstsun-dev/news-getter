@@ -1,45 +1,41 @@
 
 ---
 
-# 📰 每日新聞總結：2026年5月4日
+# 📅 每日新聞摘要：2026年5月4日
 
-## 🤖 AI 科技與創新應用
-*   **醫療突破**：哈佛大學研究顯示，OpenAI 的 o1-preview 模型在急診室病例診斷準確率上超越了人類醫師。[原文連結](https://www.therundown.ai/p/ai-shows-its-skills-in-the-emergency-room)
-*   **天文進展**：新款 AI 工具在舊有的 TESS 衛星數據中一次辨識出超過萬顆候選系外行星。[原文連結](https://technews.tw/2026/05/04/ai-exoplanet-tess-satellite-raven/)
-*   **影視規範**：奧斯卡金像獎主辦單位修訂評審規則，明確規定 AI 演員與 AI 撰寫的劇本不得獲得提名。[原文連結](https://technews.tw/2026/05/04/oscars-says-ai-actors-and-writing-cannot-win-awards/)
-*   **企業開發工具**：IBM 發布企業級 AI 開發平臺「Bob」，將 AI 代理功能擴展至軟體開發全生命週期。[原文連結](https://www.ithome.com.tw/news/175534)
-*   **生醫研發**：字節跳動旗下的 Anew Labs 亮相，展示透過 AI 設計的小分子抑制劑，有望取代注射療法。[原文連結](https://technews.tw/2026/05/04/bytedance_anew-labs_il17/)
-*   **硬體供應鏈**：Anthropic 傳出正與倫敦新創公司 Fractile 洽談採購新型推理晶片，以降低運算成本。[原文連結](https://www.ithome.com.tw/news/175527)
+## 🤖 人工智慧與技術創新
+*   **AI 醫療突破**：哈佛大學研究顯示，OpenAI 的 o1-preview 模型在 76 例急診案例中，診斷準確率已超越兩位高階急診醫師。[原文連結](https://www.therundown.ai/p/ai-shows-its-skills-in-the-emergency-room)
+*   **軍事 AI 轉型**：美國戰爭部與 SpaceX、OpenAI、Nvidia 等 8 家科技巨頭簽署協議，將 AI 能力部署於機密軍事網路，打造「AI 優先戰力」。[原文連結](https://www.ithome.com.tw/news/175535)
+*   **企業開發工具**：IBM 推出代理式 AI 開發平台「Bob」，支援自然語言操作，將 AI 輔助範圍從單純寫程式擴展至整個軟體開發生命週期。[原文連結](https://www.ithome.com.tw/news/175534)
+*   **影視界抵制 AI**：奧斯卡主辦單位修訂評選規則，明確規定 AI 演出的演員與 AI 撰寫的劇本不得獲得提名。[原文連結](https://technews.tw/2026/05/04/oscars-says-ai-actors-and-writing-cannot-win-awards/)
+*   **晶片供應鏈**：Anthropic 傳出計畫向英國新創 Fractile 採購推理晶片，試圖降低對主流硬體商的依賴並削減成本。[原文連結](https://technews.tw/2026/05/04/anthropic-in-early-talks-with-fractile-for-ai-chip-purchase/)
+*   **天文觀測**：研究人員開發新型 AI 工具，從舊數據庫中單次識別出逾萬顆候選系外行星，大幅加速天文研究速度。[原文連結](https://technews.tw/2026/05/04/ai-exoplanet-tess-satellite-raven/)
 
-## 🛡️ 全球資安威脅與防禦
-*   **Linux 高危漏洞**：Linux 核心被發現存在長達 9 年的高風險漏洞「Copy Fail」，本機使用者可藉此奪取 root 權限。[原文連結](https://www.ithome.com.tw/news/175531)
-*   **電子郵件威脅**：微軟報告指出，2026 第一季攔截逾 83 億封釣魚郵件，QR Code 與假驗證成為駭客新型武器。[原文連結](https://infosecu.technews.tw/2026/05/04/microsoft-q126-security/)
-*   **行動支付陷阱**：Android 惡意程式 NGate 出現新變種，偽裝成行動支付工具竊取用戶信用卡 NFC 資料。[原文連結](https://www.ithome.com.tw/news/175533)
-*   **地緣政治攻擊**：中國駭客組織被揭露利用 ProxyLogon 等已知漏洞滲透 Linux 主機，目標鎖定亞洲與北約國家。[原文連結](https://www.ithome.com.tw/news/175506)
-*   **資安併購**：Palo Alto Networks 宣布將收購 AI 閘道管理平台 Portkey，強化其 AI 代理人的安全布局。[原文連結](https://www.ithome.com.tw/news/175532)
+## 🛡️ 網路資安與系統風險
+*   **Linux 高風險漏洞**：資安專家揭露 Linux 核心存在長達 9 年的「Copy Fail」漏洞，本機使用者可藉此奪取 root 權限。[原文連結](https://www.ithome.com.tw/news/175531)
+*   **電子郵件威脅**：微軟報告指出，2026 年第一季擋下 83 億封釣魚郵件，QR Code 與假驗證成為駭客入侵的新型主要武器。[原文連結](https://infosecu.technews.tw/2026/05/04/microsoft-q126-security/)
+*   **硬體防護技術**：英國 NCSC 授權推出「SilentGlass」硬體，旨在阻擋透過 HDMI 或 DisplayPort 連線進行的非預期惡意行為。[原文連結](https://www.ithome.com.tw/news/175487)
+*   **cPanel 重大災情**：駭客利用 cPanel 漏洞滲透多個東南亞國家政府系統，資安機構警告管理軟體風險正迅速增加。[原文連結](https://www.ithome.com.tw/news/175524)
+*   **Android 惡意程式**：NGate 出現新變種，能透過偽造行動支付工具竊取用戶信用卡 NFC 資料進行盜刷。[原文連結](https://www.ithome.com.tw/news/175533)
 
-## 📈 財經、市場與產業動態
-*   **台股創歷史**：台股今日狂飆 1,778 點，正式突破 4 萬點大關，寫下史上最大單日漲點紀錄。[原文連結](https://finance.technews.tw/2026/05/04/taiwan-stock-index-takes-an-amazing-flight/)
-*   **台積電擴產**：市場傳出台積電將在龍潭三期建置埃米世代廠房，公司表示不排除任何可能性。[原文連結](https://technews.tw/2026/05/04/tsmc-angstrom-plant-rumor/)
-*   **航空業危機**：精神航空（Spirit Airlines）決定結束營運，目前正處於退款與結業準備階段。[原文連結](https://technews.tw/2026/05/04/spirit-airlines-prepares-to-shut-down/)
-*   **地緣政治貿易戰**：川普政府宣布將歐盟進口汽車關稅調升至 25%，理由是歐盟未履行既有貿易協議。[原文連結](https://technews.tw/2026/05/04/trump-says-he-will-raise-tariff-on-autos-from-european-union-to-25-percent/)
-*   **人力市場觀察**：主計總處數據顯示台灣正湧現「無正職全職族」，反映非典型就業比例提升。[原文連結](https://finance.technews.tw/2026/05/04/worky/)
+## 📈 金融趨勢與產業動態
+*   **台股史上最強**：台股今日大漲 1778 點，收在 40705 點，正式突破四萬點大關，創下收盤與漲點等多項歷史紀錄。[原文連結](https://finance.technews.tw/2026/05/04/taiwan-stock-market-40000-points/)
+*   **台積電埃米廠傳聞**：市場傳出台積電將於龍科三期建置埃米世代廠房，台積電回應不排除任何可能性。[原文連結](https://technews.tw/2026/05/04/tsmc-angstrom-plant-rumor/)
+*   **廉航結束營運**：美國精神航空（Spirit Airlines）宣布結束營運，並表示大多數受影響旅客已完成退款流程。[原文連結](https://technews.tw/2026/05/04/spirit-airlines-prepares-to-shut-down/)
+*   **美歐貿易磨擦**：川普政府宣布將歐盟進口汽車關稅調升至 25%，理由是歐盟未履行既有貿易協議。[原文連結](https://technews.tw/2026/05/04/trump-says-he-will-raise-tariff-on-autos-from-european-union-to-25-percent/)
+*   **遊戲業衰退**：Roblox 預警產品策略調整將影響用戶成長，下調全年財測後股價重挫 19%。[原文連結](https://finance.technews.tw/2026/05/04/roblox-1q26-highlights/)
 
-## 🌍 國際局勢與區域安全
-*   **俄烏戰爭延伸**：烏克蘭利用無人機攻擊俄羅斯「影子艦隊」油輪；瑞典隨後攔截一艘掛假旗的貨輪並逮捕中國籍船長。[原文連結](https://news.ltn.com.tw/news/world/breakingnews/5425122)
-*   **台海局勢**：國防部報告指出共機去年擾台達 3,760 架次，中共演訓趨於常態化，並試圖將台海「內海化」。[原文連結](https://news.ltn.com.tw/news/politics/breakingnews/5425128)
-*   **軍事 AI 化**：美國戰爭部與 SpaceX、Google、微軟等 8 大巨頭簽署協議，將 AI 能力部署於軍事機密網路。[原文連結](https://www.ithome.com.tw/news/175491)
-*   **中東衝突影響**：荷姆茲海峽目前有 1,600 艘船舶滯留，其中包括 8 艘台灣業者的貨輪。[原文連結](https://news.ltn.com.tw/news/life/breakingnews/5425140)
-*   **南韓西海警訊**：數據顯示去年中國航母 8 次侵入南韓管轄西海，引起韓方對北京「內海化」意圖的擔憂。[原文連結](https://news.ltn.com.tw/news/def/breakingnews/5425149)
+## 🌍 國際與兩岸局勢
+*   **烏俄戰爭動態**：烏克蘭利用無人機擊中俄羅斯「影子艦隊」油輪，俄羅斯則以飛彈還擊造成烏方 10 人死亡。[原文連結](https://www.bbc.com/news/articles/clyp41v1n1go)
+*   **台非關係**：賴清德總統訪問史瓦帝尼，國王恩史瓦帝三世強烈呼籲聯合國納入台灣，讓台灣為全人類貢獻。[原文連結](https://news.ltn.com.tw/news/politics/breakingnews/5425129)
+*   **海上領權擴張**：南韓數據顯示，中國航母去年 8 度侵入其管轄海域，專家憂慮北京意圖將黃海「內海化」。[原文連結](https://news.ltn.com.tw/news/def/breakingnews/5425149)
+*   **制裁反制**：美制裁採購伊朗原油的中國公司，北京首度下令中企對該制裁採「不承認、不執行」態度。[原文連結](https://news.ltn.com.tw/news/world/breakingnews/5425134)
 
-## 🏥 健康、民生與社會動態
-*   **安鼠之亂**：台北市爆發嚴重鼠患危機，醫師提醒民眾處理鼠糞時需謹慎，避免感染漢他病毒。[原文連結](https://health.ltn.com.tw/article/breakingnews/5425076)
-*   **手部衛生日**：5月5日世界衛生日，WHO 強調落實洗手可有效防止抗藥性威脅並救命。[原文連結](https://health.ltn.com.tw/article/breakingnews/5425161)
-*   **重大火警**：雲林虎尾發生民宅火警，一名 20 歲女子受困獲救但意識不清。[原文連結](https://news.ltn.com.tw/news/society/breakingnews/5425136)
-*   **社會安全**：彰化清晨發生重大毒駕車禍，刑事局強調將推動修法加強「連坐罰」與「預防性羈押」。[原文連結](https://news.ltn.com.tw/news/society/breakingnews/5425082)
-
-## ⚾ 運動快訊
-*   **旅日球星動態**：效力軟銀鷹的徐若熙重返一軍首場先發失利，首局即失 4 分核爆，目前在日職面臨考驗。[原文連結](https://sports.ltn.com.tw/news/breakingnews/5425142)
+## 🏥 公共衛生與社會民生
+*   **病毒與鼠患**：台北市因漢他病毒病例引發大規模「安鼠之亂」，市府加強投放老鼠藥，醫師警告處理排泄物應謹記 4 步驟防感染。[原文連結](https://health.ltn.com.tw/article/breakingnews/5425076)
+*   **洗手救命**：響應 5/5 世界手部衛生日，WHO 強烈要求醫護與大眾落實手部衛生以對抗抗藥性細菌威脅。[原文連結](https://health.ltn.com.tw/article/breakingnews/5425161)
+*   **精準治癌**：台北榮總「硼中子捕獲治療（BNCT）」加速器今日安座，未來將能提供比傳統放射線更精準、副作用更低的療法。[原文連結](https://health.ltn.com.tw/article/breakingnews/5425175)
+*   **智慧環保**：宜蘭縣啟動「蘭陽智慧千里眼」計畫，於重要道路節點設置 AI 監控，攔截非法跨縣市棄置廢棄物。[原文連結](https://news.ltn.com.tw/news/life/breakingnews/5425108)
 
 ---
-**編輯提示**：點擊各標題後方的「原文連結」即可查看更完整的報導內容。電子紙使用者建議在連網環境下點擊。
+*編輯備註：以上內容經自動匯整與編輯優化，旨在提供快速且深入的資訊掌握。*
