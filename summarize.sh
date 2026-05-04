@@ -58,7 +58,7 @@ PROMPT="你是一位專業且嚴謹的新聞編輯。請將以下從 RSS 抓取�
 # 呼叫 Gemini CLI
 echo "正在呼叫 AI 進行總結..."
 # 對於 root 使用者執行，可能需要確保能讀取到 tianyao 的設定，或是直接跑
-(echo "$PROMPT"; echo "內容如下："; cat raw_content.txt) | "$GEMINI_BIN" -p "" > summary_raw.md
+(echo "$PROMPT"; echo "內容如下："; cat raw_content.txt) | "$GEMINI_BIN" -p "" --skip-trust > summary_raw.md
 
 # 清理輸出
 grep -v "MCP issues detected\|Ripgrep is not available\|Tool with name\|Skill .* is overriding" summary_raw.md > summary.md
