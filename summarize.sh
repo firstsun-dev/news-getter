@@ -10,39 +10,41 @@ if [ ! -f "raw_content.txt" ]; then
 fi
 
 # --- 智慧路徑搜尋 ---
-# 優先順序：目前的 PATH > 使用者家目錄下的常見位置 > Homebrew 位置
 echo "正在搜尋 gemini 指令..."
-GEMINI_BIN=$(which gemini 2>/dev/null || true)
+
+# 嘗試從 PATH 中直接尋找
+GEMINI_BIN=$(command -v gemini || true)
 
 if [ -z "$GEMINI_BIN" ]; then
-    # 搜尋可能包含 gemini 的路徑，排除虛擬環境
-    # 增加更多常見的 nvm/npm 路徑
+    # 手動指定多個可能的安裝路徑
     SEARCH_LOCATIONS=(
+        "/opt/homebrew/bin/gemini"
+        "/usr/local/bin/gemini"
+        "/Users/claudia.fang/.nvm/versions/node/v22.21.1/bin/gemini"
+        "/Users/tianyao/.nvm/versions/node/v22.21.1/bin/gemini"
         "$HOME/.nvm/versions/node/*/bin/gemini"
         "$HOME/.npm-global/bin/gemini"
         "$HOME/bin/gemini"
-        "/opt/homebrew/bin/gemini"
-        "/usr/local/bin/gemini"
-        "/Users/tianyao/.nvm/versions/node/*/bin/gemini"
     )
     
     for loc in "${SEARCH_LOCATIONS[@]}"; do
-        # 使用 ls 展開通配符並過濾掉錯誤訊息
-        found=$(ls $loc 2>/dev/null | head -n 1)
-        if [ -n "$found" ] && [ -x "$found" ]; then
-            GEMINI_BIN="$found"
-            break
-        fi
+        # 處理通配符
+        for found in $loc; do
+            if [ -x "$found" ]; then
+                GEMINI_BIN="$found"
+                break 2
+            fi
+        done
     done
 fi
 
 if [ -z "$GEMINI_BIN" ]; then
-    echo "錯誤: 在常見路徑中找不到 gemini 指令。"
-    echo "請確認 gemini 是否已正確安裝，或手動在腳本中指定正確的路徑。"
+    echo "❌ 錯誤: 找不到 gemini 指令。"
+    echo "目前的 PATH 為: $PATH"
     exit 1
 fi
 
-echo "確認使用 gemini 路徑: $GEMINI_BIN"
+echo "✅ 確認使用 gemini 路徑: $GEMINI_BIN"
 
 # 定義 Prompt
 PROMPT="你是一位專業且嚴謹的新聞編輯。請將以下從 RSS 抓取的文章內容進行分類總結。
@@ -51,10 +53,9 @@ PROMPT="你是一位專業且嚴謹的新聞編輯。請將以下從 RSS 抓取�
 
 # 呼叫 Gemini CLI
 echo "正在呼叫 AI 進行總結..."
-# 使用 -p "" 確保以非互動模式執行
 (echo "$PROMPT"; echo "內容如下："; cat raw_content.txt) | "$GEMINI_BIN" -p "" > summary_raw.md
 
-# 清理輸出 (移除可能的系統警告雜訊)
+# 清理輸出 (移除系統警告雜訊)
 grep -v "MCP issues detected\|Ripgrep is not available\|Tool with name\|Skill .* is overriding" summary_raw.md > summary.md
 rm summary_raw.md
 
