@@ -61,12 +61,23 @@ def save_for_summarization(articles):
             f.write(f"Content: {art['content']}\n")
             f.write("-" * 40 + "\n\n")
 
+import sys
+
+# ... (keep existing imports and functions)
+
 if __name__ == "__main__":
-    articles = fetch_feeds()
-    if articles:
-        save_for_summarization(articles)
-        print(f"Successfully fetched {len(articles)} articles and saved to raw_content.txt")
-    else:
-        print("No new articles found in the last 24 hours.")
-        if os.path.exists("raw_content.txt"):
-            os.remove("raw_content.txt")
+    try:
+        articles = fetch_feeds()
+        if articles:
+            save_for_summarization(articles)
+            print(f"Successfully fetched {len(articles)} articles and saved to raw_content.txt")
+        else:
+            print("No new articles found in the last 24 hours.")
+            if os.path.exists("raw_content.txt"):
+                os.remove("raw_content.txt")
+            # 這裡我們選擇退出 code 0 因為「沒新聞」通常不視為系統錯誤
+            # 但如果您希望沒新聞也算失敗，可以改為 sys.exit(1)
+            sys.exit(0)
+    except Exception as e:
+        print(f"Error during fetching: {e}")
+        sys.exit(1)
