@@ -1,0 +1,45 @@
+name: Daily News Aggregator
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天 UTC 00:00 (台北時間 08:00) 執行
+  workflow_dispatch: # 允許手動觸發
+
+jobs:
+  aggregate-news:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Gemini CLI
+        run: |
+          brew install google-gemini
+
+      - name: Run Pipeline
+        run: |
+          # 建立虛擬環境並安裝 (在 Action 中可以直接跑 pip，但為了保持腳本一致性，我們稍微調整 run_pipeline.sh)
+          chmod +x run_pipeline.sh summarize.sh
+          ./run_pipeline.sh
+        env:
+          # 這裡需要解決 Gemini CLI 的登入問題
+          # 如果您有 API Key，可以傳入，或是在這一步執行登入動作
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Deploy to GitHub Pages
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add index.html rss.xml summary.md
+          git commit -m "Auto-update news: $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push origin main
