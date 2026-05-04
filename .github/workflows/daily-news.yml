@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: 1. 檢出程式碼 (Checkout)
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 獲取完整歷史以利 commit & push
 
       - name: 2. 安裝 Python 相依套件 (Install dependencies)
         run: |
