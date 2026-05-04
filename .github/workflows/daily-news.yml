@@ -20,13 +20,11 @@ jobs:
           python3 -m pip install -r requirements.txt
 
       - name: 3. 執行主 Pipeline (Fetch -> AI Summary -> Build)
-        description: 依序執行抓取、AI 總結與靜態頁面產生。
         run: |
           chmod +x run_pipeline.sh summarize.sh
           ./run_pipeline.sh
 
       - name: 4. 更新結果至 GitHub Pages (Deploy)
-        description: 將產出的 index.html 與 rss.xml commit 並 push 回倉庫。
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"

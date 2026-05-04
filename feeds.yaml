@@ -16,7 +16,16 @@ feeds:
     url: "https://www.pewresearch.org/topic/international-affairs/feed/"
     category: "Global"
 
-  # --- 科技與專業 ---
+  # --- 科技、專業與 AI 趨勢 ---
+  - name: "Lenny's Newsletter"
+    url: "https://www.lennysnewsletter.com/feed"
+    category: "Product/Growth"
+  - name: "The Rundown AI"
+    url: "https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml"
+    category: "AI"
+  - name: "Ben's Bites"
+    url: "https://www.bensbites.com/feed"
+    category: "AI"
   - name: "MIT Tech Review"
     url: "https://www.technologyreview.com/feed/"
     category: "Technology"
