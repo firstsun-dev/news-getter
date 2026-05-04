@@ -10,6 +10,8 @@ jobs:
   aggregate-news:
     name: 執行新聞彙整與總結
     runs-on: self-hosted
+    permissions:
+      contents: write
     steps:
       - name: 1. 檢出程式碼 (Checkout)
         uses: actions/checkout@v4
