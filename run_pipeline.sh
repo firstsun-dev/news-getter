@@ -1,17 +1,26 @@
 #!/bin/bash
 
-# 切換到專案目錄
+# 啟用嚴格模式：任一指令失敗、變數未定義、或管線中途失敗，即刻停止執行
+set -euo pipefail
+
+# 切換到腳本所在的絕對路徑
 cd "$(dirname "$0")"
 
 echo "=== [$(date)] 啟動新聞總結 Pipeline ==="
 
-# 1. 啟動虛擬環境並抓取新聞
-echo "Step 1: 抓取 RSS..."
+# 1. 檢查並啟動虛擬環境
+if [ ! -d "venv" ]; then
+    echo "正在建立 Python 虛擬環境..."
+    python3 -m venv venv
+fi
+
+echo "Step 1: 啟動環境並抓取 RSS..."
 source venv/bin/activate
+pip install -r requirements.txt --quiet
 python3 fetch.py
 
 if [ ! -f "raw_content.txt" ]; then
-    echo "沒有新文章，Pipeline 提早結束。"
+    echo "沒有新文章，Pipeline 正常結束。"
     exit 0
 fi
 
@@ -22,12 +31,5 @@ bash summarize.sh
 # 3. 建立網頁與 RSS
 echo "Step 3: 生成 HTML 與 RSS..."
 python3 build_site.py
-
-# 4. (選用) 自動部署到 GitHub Pages
-# 註：這部分假設您已設定好 Git remote 並有權限 push
-# echo "Step 4: 部署至 GitHub Pages..."
-# git add index.html rss.xml summary.md feeds.yaml
-# git commit -m "Auto-update news: $(date +'%Y-%m-%d')"
-# git push origin gh-pages
 
 echo "=== Pipeline 執行完成 ==="
