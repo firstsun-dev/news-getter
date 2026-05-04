@@ -9,22 +9,19 @@ if [ ! -f "raw_content.txt" ]; then
     exit 1
 fi
 
-# --- 智慧路徑搜尋 ---
+# --- 智慧路徑搜尋 (考慮 root 使用者與 tianyao 的路徑) ---
 echo "正在搜尋 gemini 指令..."
 
-# 嘗試從 PATH 中直接尋找
+# 1. 嘗試直接從目前的 PATH 中尋找
 GEMINI_BIN=$(command -v gemini || true)
 
+# 2. 如果是 root，嘗試強制指向 tianyao 使用者的安裝路徑
 if [ -z "$GEMINI_BIN" ]; then
-    # 手動指定多個可能的安裝路徑
     SEARCH_LOCATIONS=(
+        "/Users/tianyao/.nvm/versions/node/v22.21.1/bin/gemini"
+        "/Users/claudia.fang/.nvm/versions/node/v22.21.1/bin/gemini"
         "/opt/homebrew/bin/gemini"
         "/usr/local/bin/gemini"
-        "/Users/claudia.fang/.nvm/versions/node/v22.21.1/bin/gemini"
-        "/Users/tianyao/.nvm/versions/node/v22.21.1/bin/gemini"
-        "$HOME/.nvm/versions/node/*/bin/gemini"
-        "$HOME/.npm-global/bin/gemini"
-        "$HOME/bin/gemini"
     )
     
     for loc in "${SEARCH_LOCATIONS[@]}"; do
@@ -38,8 +35,15 @@ if [ -z "$GEMINI_BIN" ]; then
     done
 fi
 
+# 3. 終極手段：使用 find 搜尋
+if [ -z "$GEMINI_BIN" ]; then
+    echo "警告: 在預設路徑找不到 gemini，嘗試在 /Users 目錄下搜尋..."
+    GEMINI_BIN=$(find /Users -name "gemini" -type f -perm +111 2>/dev/null | grep ".nvm" | head -n 1 || true)
+fi
+
 if [ -z "$GEMINI_BIN" ]; then
     echo "❌ 錯誤: 找不到 gemini 指令。"
+    echo "目前的 User 為: $(whoami)"
     echo "目前的 PATH 為: $PATH"
     exit 1
 fi
@@ -53,9 +57,10 @@ PROMPT="你是一位專業且嚴謹的新聞編輯。請將以下從 RSS 抓取�
 
 # 呼叫 Gemini CLI
 echo "正在呼叫 AI 進行總結..."
+# 對於 root 使用者執行，可能需要確保能讀取到 tianyao 的設定，或是直接跑
 (echo "$PROMPT"; echo "內容如下："; cat raw_content.txt) | "$GEMINI_BIN" -p "" > summary_raw.md
 
-# 清理輸出 (移除系統警告雜訊)
+# 清理輸出
 grep -v "MCP issues detected\|Ripgrep is not available\|Tool with name\|Skill .* is overriding" summary_raw.md > summary.md
 rm summary_raw.md
 
