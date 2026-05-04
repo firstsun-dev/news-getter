@@ -16,7 +16,7 @@ jobs:
 
       - name: 2. 安裝 Python 相依套件 (Install dependencies)
         run: |
-          python3 -m pip install --upgrade pip --break-system-packages
+          # 僅安裝必要的相依套件，避免動到系統級別的 pip
           python3 -m pip install -r requirements.txt --break-system-packages
 
       - name: 3. 執行主 Pipeline (Fetch -> AI Summary -> Build)
