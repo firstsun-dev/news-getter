@@ -1,5 +1,5 @@
 name: Daily News Aggregator
-description: 以 tianyao 使用者身份在隔離環境中執行自動抓取與 AI 摘要。
+description: 自動抓取 RSS、進行 AI 摘要並發布至 GitHub Pages。
 
 on:
   schedule:
@@ -18,30 +18,22 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: 2. 診斷環境 (Diagnosis)
+      - name: 2. 執行主 Pipeline
         run: |
-          echo "=== 系統資訊 ==="
-          id
-          whoami
-          echo "=== 所有使用者列表 ==="
-          dscl . -list /Users | tail -n 10
-          echo "=== 家目錄列表 ==="
-          ls /Users
-          echo "=== 環境變數 ==="
-          env | grep -E "USER|HOME|PATH"
+          # 輸出 Debug 資訊協助排錯
+          echo "Debug: Current User = $(whoami)"
+          echo "Debug: PATH = $PATH"
+          
+          # 給予執行權限
           chmod +x run_pipeline.sh summarize.sh
-
-      - name: 3. 執行 Pipeline (偵測模式)
-        run: |
-          # 嘗試直接執行，如果不成再考慮切換使用者
+          
+          # 直接執行 Pipeline，run_pipeline.sh 內部會處理 .venv
           ./run_pipeline.sh
 
-      - name: 4. 更新結果至 GitHub Pages (Deploy)
+      - name: 3. 更新結果至 GitHub Pages (Deploy)
         run: |
-          # 拿回權限以利 GitHub Action Bot 執行 git commit
-          sudo chown -R root:root . || true
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add index.html rss.xml summary.md history/
-          git commit -m "Auto-update news (by tianyao): $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
+          git commit -m "Auto-update news: $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
           git push origin main
