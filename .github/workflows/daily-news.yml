@@ -18,23 +18,24 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: 2. 安裝 Python 相依套件 (Install dependencies)
-        shell: bash -l {0} # 使用 login shell 以載入使用者環境設定
+      - name: 2. 修正檔案權限與安裝依賴 (Fix permissions & Install)
         run: |
-          python3 -m pip install -r requirements.txt --break-system-packages
+          # 確保 tianyao 使用者擁有該目錄的存取權
+          chown -R tianyao:staff . || true
+          # 以 tianyao 身份安裝相依套件
+          sudo -u tianyao bash -l -c "python3 -m pip install -r requirements.txt --break-system-packages"
 
-      - name: 3. 執行主 Pipeline (Fetch -> AI Summary -> Build)
-        shell: bash -l {0} # 使用 login shell 以確保能找到 gemini 指令
+      - name: 3. 以 tianyao 身份執行主 Pipeline
         run: |
-          echo "Current User: $(whoami)"
-          echo "Current PATH: $PATH"
-          chmod +x run_pipeline.sh summarize.sh
-          ./run_pipeline.sh
+          # 以 tianyao 身份執行，這會載入該使用者的完整環境變數與 Gemini 登入資訊
+          sudo -u tianyao bash -l -c "chmod +x run_pipeline.sh summarize.sh && ./run_pipeline.sh"
 
       - name: 4. 更新結果至 GitHub Pages (Deploy)
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          # 修正權限以利 commit
+          chown -R root:root . || true 
           git add index.html rss.xml summary.md history/
           git commit -m "Auto-update news and archive history: $(date +'%Y-%m-%d')" || echo "No changes to commit"
           git push origin main
