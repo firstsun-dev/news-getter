@@ -5,6 +5,14 @@
 #   category: "分類"
 
 feeds:
+  # --- 策略、管理與深度報告 ---
+  - name: "McKinsey Featured Insights"
+    url: "https://www.mckinsey.com/rss.aspx"
+    category: "Strategy"
+  - name: "Harvard Business Review"
+    url: "http://feeds.harvardbusiness.org/harvardbusiness?format=xml"
+    category: "Strategy"
+
   # --- 全球政經與金融市場 ---
   - name: "BBC News"
     url: "https://feeds.bbci.co.uk/news/world/rss.xml"
@@ -39,12 +47,26 @@ feeds:
     url: "https://news.google.com/rss/search?q=台達電"
     category: "Investments"
 
-  # --- 科技、專業與 AI 趨勢 ---
+  # --- 台灣能源與綠電趨勢 ---
+  - name: "Google News: 台灣綠能 RE100"
+    url: "https://news.google.com/rss/search?q=%E5%8F%B0%E7%81%A3%E7%B6%A0%E8%83%BD+RE100&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+    category: "Energy"
+  - name: "Google News: 離岸風電 太陽能"
+    url: "https://news.google.com/rss/search?q=%E9%9B%A2%E5%B2%B8%E9%A2%A8%E9%9B%BB+%E5%A4%AA%E9%99%BD%E8%83%BD&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+    category: "Energy"
+  - name: "EnergyTrend (TrendForce)"
+    url: "https://news.google.com/rss/search?q=EnergyTrend+TrendForce&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+    category: "Energy"
+
+  # --- AI 技術、論文與產業前線 ---
   - name: "OpenAI News"
     url: "https://openai.com/news/rss.xml"
     category: "AI"
   - name: "Hugging Face"
     url: "https://huggingface.co/blog/feed.xml"
+    category: "AI"
+  - name: "ArXiv AI Papers"
+    url: "https://rss.arxiv.org/rss/cs.AI"
     category: "AI"
   - name: "The Rundown AI"
     url: "https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml"
@@ -64,20 +86,31 @@ feeds:
   - name: "iThome 最新新聞"
     url: "https://www.ithome.com.tw/rss"
     category: "Technology"
+  - name: "Digitimes TW"
+    url: "https://www.digitimes.com.tw/rss/news.xml"
+    category: "Technology"
   - name: "TechOrange"
     url: "https://techorange.com/feed"
     category: "Technology"
   - name: "數位時代 BNext"
     url: "https://feeds.feedburner.com/bnext"
     category: "Technology"
-  - name: "Kubernetes Blog"
-    url: "https://kubernetes.io/feed.xml"
-    category: "SRE/DevOps"
-  - name: "SRE Weekly"
-    url: "https://sreweekly.com/feed/"
-    category: "SRE/DevOps"
 
-  # --- 台灣社群與在地新聞 ---
+  # --- 社群情緒與熱門討論 (Reddit & Social Search) ---
+  - name: "Reddit r/technology"
+    url: "https://www.reddit.com/r/technology/hot/.rss"
+    category: "Social Sentiment"
+  - name: "Reddit r/artificial"
+    url: "https://www.reddit.com/r/artificial/hot/.rss"
+    category: "Social Sentiment"
+  - name: "Reddit r/stocks"
+    url: "https://www.reddit.com/r/stocks/hot/.rss"
+    category: "Social Sentiment"
+  - name: "X/FB Social Trends (via Google)"
+    url: "https://news.google.com/rss/search?q=site:twitter.com+OR+site:facebook.com+trending+AI+economy&hl=en-US&gl=US&ceid=US:en"
+    category: "Social Sentiment"
+
+  # --- 台灣在地社群 ---
   - name: "PTT Gossiping"
     url: "http://rss.ptt.cc/Gossiping.xml"
     category: "TW Social"

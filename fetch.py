@@ -3,6 +3,9 @@ import yaml
 import datetime
 from bs4 import BeautifulSoup
 import os
+import sys
+import json
+import requests
 
 def clean_html(html):
     if not html:
@@ -18,22 +21,30 @@ def fetch_feeds():
     all_articles = []
     
     now = datetime.datetime.now(datetime.timezone.utc)
-    # 配合一天兩次更新，抓取過去 13 小時內的文章 (留 1 小時 buffer)
-    fetch_window = now - datetime.timedelta(hours=13)
+    fetch_window = now - datetime.timedelta(hours=15)
+    
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 news-getter/1.0'
+    }
     
     for feed_info in feeds:
         print(f"Fetching: {feed_info['name']}...")
-        parsed = feedparser.parse(feed_info["url"])
+        try:
+            response = requests.get(feed_info["url"], headers=headers, timeout=15)
+            parsed = feedparser.parse(response.content)
+            if not parsed.entries:
+                parsed = feedparser.parse(feed_info["url"])
+        except Exception as e:
+            print(f"Error fetching {feed_info['name']}: {e}")
+            continue
         
         for entry in parsed.entries:
-            # Parse published date
             published = None
             if hasattr(entry, "published_parsed") and entry.published_parsed:
                 published = datetime.datetime(*entry.published_parsed[:6], tzinfo=datetime.timezone.utc)
             elif hasattr(entry, "updated_parsed") and entry.updated_parsed:
                 published = datetime.datetime(*entry.updated_parsed[:6], tzinfo=datetime.timezone.utc)
             
-            # Filter by date
             if published and published < fetch_window:
                 continue
                 
@@ -48,36 +59,32 @@ def fetch_feeds():
                 "category": feed_info["category"],
                 "title": entry.title,
                 "link": entry.link,
-                "content": clean_html(content)[:1000] # Limit content for summarization
+                "content": clean_html(content)[:1200]
             })
             
     return all_articles
 
-def save_for_summarization(articles):
-    with open("raw_content.txt", "w") as f:
-        for art in articles:
-            f.write(f"Source: {art['source']} ({art['category']})\n")
-            f.write(f"Title: {art['title']}\n")
-            f.write(f"Link: {art['link']}\n")
-            f.write(f"Content: {art['content']}\n")
-            f.write("-" * 40 + "\n\n")
-
-import sys
-
-# ... (keep existing imports and functions)
+def save_structured_data(articles):
+    categorized = {}
+    for art in articles:
+        cat = art["category"]
+        if cat not in categorized:
+            categorized[cat] = []
+        categorized[cat].append(art)
+    
+    with open("raw_data.json", "w", encoding="utf-8") as f:
+        json.dump(categorized, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
     try:
         articles = fetch_feeds()
         if articles:
-            save_for_summarization(articles)
-            print(f"Successfully fetched {len(articles)} articles and saved to raw_content.txt")
+            save_structured_data(articles)
+            print(f"Successfully fetched {len(articles)} articles and saved to raw_data.json")
         else:
-            print("No new articles found in the last 24 hours.")
-            if os.path.exists("raw_content.txt"):
-                os.remove("raw_content.txt")
-            # 這裡我們選擇退出 code 0 因為「沒新聞」通常不視為系統錯誤
-            # 但如果您希望沒新聞也算失敗，可以改為 sys.exit(1)
+            print("No new articles found.")
+            if os.path.exists("raw_data.json"):
+                os.remove("raw_data.json")
             sys.exit(0)
     except Exception as e:
         print(f"Error during fetching: {e}")
