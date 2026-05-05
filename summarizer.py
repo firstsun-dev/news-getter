@@ -106,11 +106,12 @@ def summarize_all():
 請幫我撰寫一份『首頁精華摘要』，目的是讓忙碌的讀者在 2 分鐘內掌握全局。
 
 要求：
-1. **極度精簡**：每個分類僅保留 2-3 個「最高信號」的重點。
-2. **單句要點**：每個重點請濃縮成 1-2 句話，不要寫長篇大論。
-3. **保留來源**：每個重點末尾仍需附上 [原文連結](網址)。
-4. 語氣：乾脆、果斷、專業。
-5. 輸出為純 Markdown 格式。
+1. **格式要求**：每個分類必須以 `## 🔍 分類名稱` 作為標題。
+2. **極度精簡**：每個分類僅保留 2-3 個「最高信號」的重點。
+3. **單句要點**：每個重點請濃縮成 1-2 句話，不要寫長篇大論。
+4. **保留來源**：每個重點末尾仍需附上 [原文連結](網址)。
+5. 語氣：乾脆、果斷、專業。
+6. 輸出為純 Markdown 格式。
 
 深度報告內容如下：
 {all_deep_text[:15000]}
@@ -122,13 +123,18 @@ def summarize_all():
         f.write(f"# 📅 每日情報精選 ({timestamp.replace('_', ' ')})\n\n")
         f.write("> 💡 首頁僅顯示最核心重點。如需深入分析，請點擊各分類下方的『完整深度報告』連結。\n\n")
         
-        # 我們解析 AI 產出的精簡內容，並在每個分類下補上跳轉連結
-        # 簡單做法：假設 AI 輸出的標題格式符合，或我們手動依分類組合
-        f.write(executive_overview)
-        f.write("\n\n---\n\n## 🔍 完整情報存檔 (Deep Analysis)\n\n")
-        for cat in deep_summaries.keys():
-            file_cat = cat.replace("/", "_").replace(" ", "_")
-            f.write(f"*   [{cat} 完整深度報告](./history/{timestamp}/{file_cat}.md)\n")
+        # 我們解析 AI 產出的內容，並確保格式正確
+        # 注意：我們在每個分類標題下補上連結
+        lines = executive_overview.splitlines()
+        for line in lines:
+            f.write(line + "\n")
+            if line.startswith("## 🔍 "):
+                cat_name = line.replace("## 🔍 ", "").strip()
+                # 尋找對應的 md 檔案路徑
+                matched_cat = next((c for c in deep_summaries.keys() if c in cat_name), None)
+                if matched_cat:
+                    file_cat = matched_cat.replace("/", "_").replace(" ", "_")
+                    f.write(f"[查看此分類的獨立存檔頁面](./history/{timestamp}/{file_cat}.md)\n")
 
 if __name__ == "__main__":
     summarize_all()

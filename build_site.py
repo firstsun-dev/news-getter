@@ -69,10 +69,16 @@ def build_site():
         for line in lines:
             if line.startswith("# "):
                 title_line = line.strip("# \n")
-            elif line.startswith("## 🔍 "):
-                current_cat = line.strip("# 🔍 \n")
+            elif line.startswith("## ") or line.startswith("### "):
+                header_text = line.lstrip("# ").strip()
+                # 排除一些非分類的標題
+                if "完整情報存檔" in header_text or "Deep Analysis" in header_text or "快速索引" in header_text:
+                    current_cat = None
+                    continue
+
+                current_cat = header_text.replace("🔍", "").strip()
                 categories[current_cat] = {"content": "", "md_path": ""}
-            elif current_cat and "[查看" in line and "獨立存檔頁面]" in line:
+            elif current_cat and ("獨立深度存檔頁面" in line or "獨立存檔頁面" in line) and "(" in line and ")" in line:
                 # 提取 md 路徑
                 path_part = line.split("(")[-1].split(")")[0]
                 categories[current_cat]["md_path"] = path_part.replace(".md", ".html")
@@ -80,6 +86,7 @@ def build_site():
                 categories[current_cat]["content"] += line
             elif not current_cat and line.strip() and not line.startswith(">"):
                 intro += line
+
 
         # 3. 建立 Table of Contents (ToC) 與 內容 HTML
         toc_html = "<h2>📌 快速索引 (ToC)</h2><ul>"
