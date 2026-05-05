@@ -18,7 +18,8 @@ def fetch_feeds():
     all_articles = []
     
     now = datetime.datetime.now(datetime.timezone.utc)
-    one_day_ago = now - datetime.timedelta(days=1)
+    # 配合一天兩次更新，抓取過去 13 小時內的文章 (留 1 小時 buffer)
+    fetch_window = now - datetime.timedelta(hours=13)
     
     for feed_info in feeds:
         print(f"Fetching: {feed_info['name']}...")
@@ -32,8 +33,8 @@ def fetch_feeds():
             elif hasattr(entry, "updated_parsed") and entry.updated_parsed:
                 published = datetime.datetime(*entry.updated_parsed[:6], tzinfo=datetime.timezone.utc)
             
-            # Filter by date (last 24 hours)
-            if published and published < one_day_ago:
+            # Filter by date
+            if published and published < fetch_window:
                 continue
                 
             content = ""
