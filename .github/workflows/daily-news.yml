@@ -1,6 +1,5 @@
 name: Daily News Aggregator
-description: 自動抓取 RSS、進行 AI 摘要並發布至 GitHub Pages。
-# 僅在具備 gemini 環境的特定 Runner 執行
+description: 使用已登入的 Gemini 訂閱方案執行自動化摘要。
 
 on:
   schedule:
@@ -10,8 +9,8 @@ on:
 jobs:
   aggregate-news:
     name: 執行新聞彙整與總結
-    # 強制指定到您那台成功的 M1 Pro 機器 (Runner 名稱為 MBPR-M1-Pro.local)
-    runs-on: [self-hosted, MBPR-M1-Pro.local]
+    # 使用正確的標籤鎖定您的 macOS Runner
+    runs-on: [self-hosted, macOS]
     permissions:
       contents: write
     steps:
@@ -22,7 +21,11 @@ jobs:
 
       - name: 2. 執行主 Pipeline
         run: |
-          # 確保權限與執行
+          # 輸出 Debug 資訊確認環境
+          echo "Debug - User: $(whoami)"
+          echo "Debug - Home: $HOME"
+          
+          # 給予執行權限並啟動
           chmod +x run_pipeline.sh summarize.sh
           ./run_pipeline.sh
 
