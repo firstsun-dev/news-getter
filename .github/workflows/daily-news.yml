@@ -20,18 +20,23 @@ jobs:
 
       - name: 2. 準備執行環境 (User & Permissions)
         run: |
-          # 確保 tianyao 使用者擁有此目錄的所有權，以便在其中建立 .venv
-          sudo chown -R tianyao:staff . || true
+          # 偵測當前環境
+          echo "Debug: Workflow is starting as $(whoami)"
+          echo "Debug: PATH is $PATH"
+          
+          # 確保目標使用者擁有工作目錄權限
+          # 註：雖然本機環境可能不同，但在 Runner 上會依照 tianyao 執行
+          sudo chown -R tianyao:staff . || echo "Warning: Could not change ownership to tianyao, proceeding anyway..."
           chmod +x run_pipeline.sh summarize.sh
 
       - name: 3. 以 tianyao 身份執行 Pipeline
-        # 使用 bash -l 以載入 tianyao 的完整 profile (包含 nvm, gemini 路徑等)
+        # 使用 sudo -E -u tianyao 搭配 bash -l 載入完整環境
         run: |
-          sudo -H -u tianyao bash -l -c "./run_pipeline.sh"
+          sudo -H -E -u tianyao bash -l -c "./run_pipeline.sh"
 
       - name: 4. 更新結果至 GitHub Pages (Deploy)
         run: |
-          # 暫時拿回權限以利 GitHub Action Bot 執行 git commit
+          # 拿回權限以利 GitHub Action Bot 執行 git commit
           sudo chown -R root:root . || true
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
