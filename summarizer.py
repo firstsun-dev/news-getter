@@ -25,7 +25,6 @@ def run_gemini(prompt):
             continue
             
     if not gemini_bin:
-        # 嘗試全域搜尋作為最後手段
         try:
             result = subprocess.run(["find", "/Users", "/opt", "-name", "gemini", "-type", "f", "-perm", "+111"], capture_output=True, text=True)
             if result.stdout:
@@ -37,7 +36,6 @@ def run_gemini(prompt):
         print("❌ 錯誤: 找不到 gemini 指令")
         return ""
 
-    # 執行總結
     process = subprocess.Popen(
         [gemini_bin, "-p", "", "--skip-trust"],
         stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True
@@ -48,10 +46,14 @@ def run_gemini(prompt):
         print(f"Gemini 執行出錯: {stderr}")
         return ""
     
-    # 清理輸出雜訊
     lines = stdout.splitlines()
     cleaned = [l for l in lines if not any(noise_term in l for noise_term in ["MCP issues", "Ripgrep is not available", "Tool with name", "overriding"])]
-    return "\n".join(cleaned).strip()
+    content = "\n".join(cleaned).strip()
+    
+    # 清理 AI 加上去的 code block
+    if content.startswith("```"):
+        content = "\n".join(content.splitlines()[1:-1]) if content.endswith("```") else "\n".join(content.splitlines()[1:])
+    return content
 
 def summarize_all():
     if not os.path.exists("raw_data.json"):
@@ -65,54 +67,68 @@ def summarize_all():
     base_dir = f"history/{timestamp}"
     os.makedirs(base_dir, exist_ok=True)
     
-    summaries = {}
+    deep_summaries = {}
     
-    # 按照特定順序排序分類
     cat_order = ["Strategy", "Global", "Finance", "Investments", "AI", "Energy", "Technology", "TW Social", "TW News"]
     sorted_categories = sorted(categorized_data.keys(), key=lambda x: cat_order.index(x) if x in cat_order else 999)
 
+    # 第一階段：針對每個分類產出極其詳盡的內容
     for category in sorted_categories:
         articles = categorized_data[category]
-        print(f"正在深度總結分類: {category} ({len(articles)} 篇文章)...")
+        print(f"正在產出詳細專報: {category} ({len(articles)} 篇文章)...")
         
         content_text = ""
         for art in articles:
             content_text += f"Source: {art['source']}\nTitle: {art['title']}\nLink: {art['link']}\nContent: {art['content']}\n{'-'*20}\n"
             
-        prompt = f"""你是一位資深的產業分析師。請針對以下『{category}』分類的新聞內容進行【極其詳盡】的深度總結。
-
-【輸出規範】：
-1. **純 Markdown 格式**：僅輸出內容，不要包含任何開場白、結尾語、或 ```markdown 程式碼塊包裝。
-2. **不限篇幅**：挖掘大量細節，針對每個重要事件產出 3-5 句的深度摘要。
-3. **多維度分析**：解釋事件背景、對產業的衝擊、以及未來的觀察重點。
-4. **強制來源連結**：在每個要點末尾，必須精確附上對應的 [原文連結](網址)。
-5. **使用 H3 標題**：區分不同的新聞事件或主題。
+        prompt_deep = f"""你是一位資深的產業分析師。請針對以下『{category}』分類的新聞內容進行【極其詳盡】的深度總結。
+要求：
+1. **不限篇幅**：挖掘大量細節，針對每個重要事件產出 3-5 句的深度摘要。
+2. **多維度分析**：解釋事件背景、對產業的衝擊、以及未來的觀察重點。
+3. **強制來源連結**：在每個要點末尾，必須精確附上對應的 [原文連結](網址)。
+4. 輸出必須是純 Markdown 格式。
 
 待處理內容：
 {content_text}
 """
-        summary = run_gemini(prompt)
-        
-        # 強制清理可能存在的 code block 標籤 (AI 有時會手癢加上去)
-        if summary.startswith("```"):
-            summary = "\n".join(summary.splitlines()[1:-1]) if summary.endswith("```") else "\n".join(summary.splitlines()[1:])
-
+        summary = run_gemini(prompt_deep)
         if summary:
-            summaries[category] = summary
-            # 存入個別分類檔案
+            deep_summaries[category] = summary
             file_cat = category.replace("/", "_").replace(" ", "_")
             with open(f"{base_dir}/{file_cat}.md", "w", encoding="utf-8") as f:
                 f.write(f"# {category} 深度專報 ({timestamp.replace('_', ' ')})\n\n{summary}")
-    print("正在產生主頁摘要...")
+
+    # 第二階段：產出首頁專用的精簡版 (Executive Summary)
+    print("正在產出首頁精簡版摘要...")
+    all_deep_text = "\n\n".join([f"### {cat}\n{summ}" for cat, summ in deep_summaries.items()])
+    
+    prompt_concise = f"""你是一位高級主編。以下是今日各領域的深度報告。
+請幫我撰寫一份『首頁精華摘要』，目的是讓忙碌的讀者在 2 分鐘內掌握全局。
+
+要求：
+1. **極度精簡**：每個分類僅保留 2-3 個「最高信號」的重點。
+2. **單句要點**：每個重點請濃縮成 1-2 句話，不要寫長篇大論。
+3. **保留來源**：每個重點末尾仍需附上 [原文連結](網址)。
+4. 語氣：乾脆、果斷、專業。
+5. 輸出為純 Markdown 格式。
+
+深度報告內容如下：
+{all_deep_text[:15000]}
+"""
+    executive_overview = run_gemini(prompt_concise)
+
+    # 產生主頁 summary.md
     with open("summary.md", "w", encoding="utf-8") as f:
-        f.write(f"# 📅 每日新聞深度總結 ({timestamp.replace('_', ' ')})\n\n")
-        f.write("> 這是一份由 AI 彙整全球 300+ 權威來源產出的深度情報。\n\n")
+        f.write(f"# 📅 每日情報精選 ({timestamp.replace('_', ' ')})\n\n")
+        f.write("> 💡 首頁僅顯示最核心重點。如需深入分析，請點擊各分類下方的『完整深度報告』連結。\n\n")
         
-        for cat, summ in summaries.items():
+        # 我們解析 AI 產出的精簡內容，並在每個分類下補上跳轉連結
+        # 簡單做法：假設 AI 輸出的標題格式符合，或我們手動依分類組合
+        f.write(executive_overview)
+        f.write("\n\n---\n\n## 🔍 完整情報存檔 (Deep Analysis)\n\n")
+        for cat in deep_summaries.keys():
             file_cat = cat.replace("/", "_").replace(" ", "_")
-            f.write(f"## 🔍 {cat}\n")
-            f.write(f"{summ}\n\n")
-            f.write(f"[查看 {cat} 獨立存檔頁面](./history/{timestamp}/{file_cat}.md)\n\n---\n\n")
+            f.write(f"*   [{cat} 完整深度報告](./history/{timestamp}/{file_cat}.md)\n")
 
 if __name__ == "__main__":
     summarize_all()
