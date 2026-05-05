@@ -80,24 +80,29 @@ def summarize_all():
             content_text += f"Source: {art['source']}\nTitle: {art['title']}\nLink: {art['link']}\nContent: {art['content']}\n{'-'*20}\n"
             
         prompt = f"""你是一位資深的產業分析師。請針對以下『{category}』分類的新聞內容進行【極其詳盡】的深度總結。
-要求：
-1. **不限篇幅**：請盡可能挖掘細節，針對每個重要事件產出 3-5 句的深度摘要。
-2. **多維度分析**：解釋事件背景、對產業的衝擊、以及未來的觀察重點。
-3. **強制附上來源**：在每個要點末尾，必須精確附上對應的 [原文連結](網址)。
-4. 輸出必須是高品質的 Markdown 格式，使用 H3 標題區分不同事件。
+
+【輸出規範】：
+1. **純 Markdown 格式**：僅輸出內容，不要包含任何開場白、結尾語、或 ```markdown 程式碼塊包裝。
+2. **不限篇幅**：挖掘大量細節，針對每個重要事件產出 3-5 句的深度摘要。
+3. **多維度分析**：解釋事件背景、對產業的衝擊、以及未來的觀察重點。
+4. **強制來源連結**：在每個要點末尾，必須精確附上對應的 [原文連結](網址)。
+5. **使用 H3 標題**：區分不同的新聞事件或主題。
 
 待處理內容：
 {content_text}
 """
         summary = run_gemini(prompt)
+        
+        # 強制清理可能存在的 code block 標籤 (AI 有時會手癢加上去)
+        if summary.startswith("```"):
+            summary = "\n".join(summary.splitlines()[1:-1]) if summary.endswith("```") else "\n".join(summary.splitlines()[1:])
+
         if summary:
             summaries[category] = summary
             # 存入個別分類檔案
             file_cat = category.replace("/", "_").replace(" ", "_")
             with open(f"{base_dir}/{file_cat}.md", "w", encoding="utf-8") as f:
                 f.write(f"# {category} 深度專報 ({timestamp.replace('_', ' ')})\n\n{summary}")
-
-    # 產生主頁 summary.md
     print("正在產生主頁摘要...")
     with open("summary.md", "w", encoding="utf-8") as f:
         f.write(f"# 📅 每日新聞深度總結 ({timestamp.replace('_', ' ')})\n\n")

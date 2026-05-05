@@ -116,33 +116,59 @@ def build_site():
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>AI 新聞深度情報中心</title>
             <style>
-                body {{ font-family: -apple-system, "Noto Sans TC", "Microsoft JhengHei", serif; line-height: 1.8; max-width: 1000px; margin: 0 auto; padding: 40px 20px; background: #f8f9fa; color: #1a1a1a; }}
-                .container {{ background: white; padding: 40px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }}
-                h1 {{ font-size: 2.2em; border-bottom: 3px solid #333; padding-bottom: 10px; }}
-                h2 {{ font-size: 1.5em; margin-top: 2em; color: #2c3e50; }}
-                a {{ color: #0366d6; text-decoration: none; }}
+                :root {{ --primary-blue: #0366d6; --bg-gray: #f8f9fa; --text-main: #1a1a1a; }}
+                body {{ font-family: -apple-system, "Noto Sans TC", "Microsoft JhengHei", serif; line-height: 1.8; margin: 0; padding: 0; background: var(--bg-gray); color: var(--text-main); }}
+                
+                .header-banner {{ background: #333; color: white; padding: 40px 20px; text-align: center; }}
+                .header-banner h1 {{ margin: 0; font-size: 2em; }}
+                
+                .main-wrapper {{ display: flex; max-width: 1200px; margin: 40px auto; gap: 40px; padding: 0 20px; }}
+                
+                .sidebar {{ width: 280px; position: sticky; top: 20px; height: fit-content; max-height: 90vh; overflow-y: auto; background: white; padding: 25px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }}
+                .sidebar h2 {{ font-size: 1.2em; margin-top: 0; border-bottom: 2px solid #eee; padding-bottom: 10px; }}
+                .sidebar ul {{ list-style: none; padding: 0; margin: 0; }}
+                .sidebar li {{ margin-bottom: 12px; }}
+                .sidebar a {{ color: #555; text-decoration: none; font-size: 0.95em; transition: color 0.2s; }}
+                .sidebar a:hover {{ color: var(--primary-blue); }}
+                
+                .content-area {{ flex: 1; background: white; padding: 40px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); min-width: 0; }}
+                h2 {{ font-size: 1.8em; margin-top: 0; color: #2c3e50; border-bottom: 2px solid #f1f3f5; padding-bottom: 10px; }}
+                h3 {{ margin-top: 35px; border-left: 5px solid #333; padding-left: 15px; border-bottom: 1px solid #eee; padding-bottom: 5px; }}
+                a {{ color: var(--primary-blue); text-decoration: none; }}
                 a:hover {{ text-decoration: underline; }}
-                .toc {{ background: #f1f3f5; padding: 20px; border-radius: 5px; margin: 30px 0; }}
-                .toc ul {{ margin: 0; }}
-                .history {{ margin-top: 60px; padding-top: 30px; border-top: 2px solid #eee; font-size: 0.9em; }}
-                @media (prefers-color-scheme: dark) {{ body {{ background: #f8f9fa; color: #1a1a1a; }} }}
+                
+                .history {{ margin-top: 60px; padding-top: 30px; border-top: 2px solid #eee; font-size: 0.9em; color: #666; }}
+                
+                @media (max-width: 900px) {{
+                    .main-wrapper {{ flex-direction: column; }}
+                    .sidebar {{ width: auto; position: static; max-height: none; }}
+                    .content-area {{ padding: 25px; }}
+                }}
+                
+                @media (prefers-color-scheme: dark) {{
+                    /* For e-ink compatibility, we keep light mode mostly, but can adjust here */
+                }}
             </style>
         </head>
         <body>
-            <div class="container">
+            <div class="header-banner">
                 <h1>{title_line}</h1>
-                <p class="meta">最後更新時間: {now.strftime('%Y-%m-%d %H:%M')}</p>
+                <p>最後更新時間: {now.strftime('%Y-%m-%d %H:%M')}</p>
+            </div>
+            
+            <div class="main-wrapper">
+                <nav class="sidebar">
+                    {toc_html.replace("📌 快速索引 (ToC)", "📂 內容導覽")}
+                </nav>
                 
-                <div class="toc">{toc_html}</div>
-                
-                <div class="main-content">
+                <main class="content-area">
                     {content_html}
-                </div>
-                
-                <div class="history">
-                    <h3>📚 歷史情報存檔 (Archive)</h3>
-                    <ul>{history_links}</ul>
-                </div>
+                    
+                    <div class="history">
+                        <h3>📚 歷史情報存檔 (Archive)</h3>
+                        <ul>{history_links}</ul>
+                    </div>
+                </main>
             </div>
         </body>
         </html>
