@@ -6,9 +6,7 @@ set -euo pipefail
 # 切換到腳本所在的絕對路徑
 cd "$(dirname "$0")"
 
-echo "=== [$(date)] 啟動新聞總結 Pipeline ==="
-echo "Debug: Current User = $(whoami)"
-echo "Debug: Current PATH = $PATH"
+echo "=== [$(date)] 啟動新聞深度總結 Pipeline ==="
 
 # 1. 檢查並建立隔離的虛擬環境 (.venv)
 if [ ! -d ".venv" ]; then
@@ -18,21 +16,20 @@ fi
 
 echo "Step 1: 啟動環境並抓取 RSS..."
 source .venv/bin/activate
-pip install --upgrade pip --quiet
 pip install -r requirements.txt --quiet
 python3 fetch.py
 
-if [ ! -f "raw_content.txt" ]; then
+if [ ! -f "raw_data.json" ]; then
     echo "沒有新文章，Pipeline 正常結束。"
     exit 0
 fi
 
-# 2. 呼叫 Gemini CLI 進行總結
-echo "Step 2: AI 總結中..."
-bash summarize.sh
+# 2. 執行深度總結
+echo "Step 2: 執行各領域深度總結 (AI 分析中)..."
+python3 summarizer.py
 
-# 3. 建立網頁與 RSS
-echo "Step 3: 生成 HTML 與 RSS..."
+# 3. 建立多頁面網頁與 RSS
+echo "Step 3: 生成 HTML 結構與 RSS..."
 python3 build_site.py
 
 echo "=== Pipeline 執行完成 ==="
