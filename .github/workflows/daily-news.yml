@@ -1,5 +1,5 @@
 name: Daily News Aggregator
-description: 自動抓取 RSS、進行 AI 摘要並發布至 GitHub Pages 的每日工作流。
+description: 以 tianyao 使用者身份在隔離環境中執行自動抓取與 AI 摘要。
 
 on:
   schedule:
@@ -18,24 +18,23 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: 2. 修正檔案權限與安裝依賴 (Fix permissions & Install)
+      - name: 2. 準備執行環境 (User & Permissions)
         run: |
-          # 確保 tianyao 使用者擁有該目錄的存取權
-          chown -R tianyao:staff . || true
-          # 以 tianyao 身份安裝相依套件
-          sudo -u tianyao bash -l -c "python3 -m pip install -r requirements.txt --break-system-packages"
+          # 確保 tianyao 使用者擁有此目錄的所有權，以便在其中建立 .venv
+          sudo chown -R tianyao:staff . || true
+          chmod +x run_pipeline.sh summarize.sh
 
-      - name: 3. 以 tianyao 身份執行主 Pipeline
+      - name: 3. 以 tianyao 身份執行 Pipeline
+        # 使用 bash -l 以載入 tianyao 的完整 profile (包含 nvm, gemini 路徑等)
         run: |
-          # 以 tianyao 身份執行，這會載入該使用者的完整環境變數與 Gemini 登入資訊
-          sudo -u tianyao bash -l -c "chmod +x run_pipeline.sh summarize.sh && ./run_pipeline.sh"
+          sudo -H -u tianyao bash -l -c "./run_pipeline.sh"
 
       - name: 4. 更新結果至 GitHub Pages (Deploy)
         run: |
+          # 暫時拿回權限以利 GitHub Action Bot 執行 git commit
+          sudo chown -R root:root . || true
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          # 修正權限以利 commit
-          chown -R root:root . || true 
           git add index.html rss.xml summary.md history/
-          git commit -m "Auto-update news and archive history: $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git commit -m "Auto-update news (by tianyao): $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
           git push origin main

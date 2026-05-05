@@ -1,21 +1,24 @@
 #!/bin/bash
 
-# 啟用嚴格模式：任一指令失敗、變數未定義、或管線中途失敗，即刻停止執行
+# 啟用嚴格模式
 set -euo pipefail
 
 # 切換到腳本所在的絕對路徑
 cd "$(dirname "$0")"
 
 echo "=== [$(date)] 啟動新聞總結 Pipeline ==="
+echo "Debug: Current User = $(whoami)"
+echo "Debug: Current PATH = $PATH"
 
-# 1. 檢查並啟動虛擬環境
-if [ ! -d "venv" ]; then
-    echo "正在建立 Python 虛擬環境..."
-    python3 -m venv venv
+# 1. 檢查並建立隔離的虛擬環境 (.venv)
+if [ ! -d ".venv" ]; then
+    echo "正在建立隔離的 Python 虛擬環境 (.venv)..."
+    python3 -m venv .venv
 fi
 
 echo "Step 1: 啟動環境並抓取 RSS..."
-source venv/bin/activate
+source .venv/bin/activate
+pip install --upgrade pip --quiet
 pip install -r requirements.txt --quiet
 python3 fetch.py
 
