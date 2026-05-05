@@ -16,6 +16,7 @@ fi
 
 echo "Step 1: 啟動環境並抓取 RSS..."
 source .venv/bin/activate
+pip install --upgrade pip --quiet
 pip install -r requirements.txt --quiet
 python3 fetch.py
 
