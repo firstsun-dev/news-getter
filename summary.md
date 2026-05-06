@@ -1,49 +1,26 @@
-# 📅 每日情報精選 (2026-05-05 15-34)
+# 📅 每日情報精選 (2026-05-06 10-20)
 
-> 💡 首頁僅顯示最核心重點。
+> 💡 首頁僅顯示最核心重點。如需深入分析，請點擊各分類下方的『完整深度報告』連結。
 
-## 🔍 🏛️ 戰略與投資 (Strategy & Investments)
-[查看此分類的獨立存檔頁面](./history/2026-05-05_15-34/Strategy.md)
-* **波克夏權力交棒**：繼任者 Greg Abel 展現強大掌控力，成功穩定市場信心；保險部門由 Charlie Shamieh 接手，承接「後巴菲特時代」最核心的利潤引擎。 [原文連結](https://www.cnbc.com/2026/05/04/berkshire-shares-trade-higher-as-buffett-successor-abel-scores-good-marks-at-meeting-earnings-jump.html)
-* **印度銀行業攻防**：憑藉強勁內需展現韌性，但正面臨流動性趨緊與獲利瓶頸；領先機構正加速數位轉型，透過 AI 精準定價與生態圈建構重塑競爭力。 [原文連結](https://www.mckinsey.com/industries/financial-services/our-insights/indian-banks-navigating-through-the-turbulence)
+## 🔍 Strategy
+[查看此分類的獨立存檔頁面](./history/2026-05-06_10-20/Strategy.md)
+*   **高層提問應對術**：面對突擊式提問應採用「承認並轉向」技術，識別問題背後的跨部門關聯性，建立戰略信任。 [原文連結](https://hbr.org/2026/05/when-an-executive-asks-you-an-unexpected-question)
+*   **持續變革新領導力**：卓越領導者需將「不適感常態化」，打破盲目崇拜忙碌等隱形規範，投資建立透明的溝通環境。 [原文連結](https://hbr.org/podcast/2026/05/new-skills-to-navigate-continuous-change)
+*   **後 AI 時代的角色轉換**：領導者應從「英雄主角」轉向「配角」身分，專注於團隊賦能與共情，提升組織心理安全感。 [原文連結](https://hbr.org/2026/05/the-best-leaders-embrace-the-role-of-supporting-character)
 
-## 🔍 🌍 全球動態 (Global)
-[查看此分類的獨立存檔頁面](./history/2026-05-05_15-34/Global.md)
-* **俄烏衝突心理升級**：烏克蘭無人機精準襲擊莫斯科高樓，突破俄國防空網並直擊政治象徵地，象徵混合戰爭進入心理威懾新階段。 [原文連結](https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss)
-* **東航墜機調查定調**：報告指出 2022 年失事原因為「燃油切斷」，排除自然故障可能，引發全球對波音 737 系列人機介面安全與操作規範的高度關注。 [原文連結](https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&at_campaign=rss)
-* **公共衛生考驗**：郵輪爆發漢他病毒致 3 人死亡，引發國際對封閉式環境生物安全的嚴肅檢討，可能導致航運保險費率與衛生監管趨嚴。 [原文連結](https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss)
+## 🔍 Global
+[查看此分類的獨立存檔頁面](./history/2026-05-06_10-20/Global.md)
+*   **霍姆茲海峽轉機**：川普宣布暫停「自由行動」武裝護航，反映美伊外交談判取得進展，國際油價隨之回落。 [原文連結](https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss)
+*   **郵輪漢他病毒預警**：WHO 警告郵輪出現疑似漢他病毒人際傳播案例，若病毒發生變異，全球旅遊規範恐再度收緊。 [原文連結](https://www.bbc.com/news/articles/cm2p186gyp2o?at_medium=RSS&at_campaign=rss)
+*   **蘋果 AI 廣告和解**：蘋果同意支付 2.5 億美元解決 Apple Intelligence 廣告誤導訴訟，為 AI 時代的誠實行銷立下法律標竿。 [原文連結](https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss)
 
-## 🔍 💰 金融市場 (Finance)
-[查看此分類的獨立存檔頁面](./history/2026-05-05_15-34/Finance.md)
-* **霍爾木茲危機爆發**：美伊直接交火導致關鍵航道癱瘓，油價飆升 6% 突破 115 美元，避險資金重新湧入金市。 [原文連結](https://www.investing.com/news/commodities-news/oil-falls-after-trump-says-us-would-help-free-ships-stranded-in-strait-of-hormuz-4654909)
-* **能源安全優先於綠能**：戰爭威脅促使各國優先考慮「能源主權」，政府可能增加化石燃料投資以確保電力安全，對短期能源轉型路徑造成衝擊。 [原文連結](https://www.ft.com/content/2dc28c0c-ff06-4eea-bd19-60939c0da9bb)
+## 🔍 Finance
+[查看此分類的獨立存檔頁面](./history/2026-05-06_10-20/Finance.md)
+*   **全球能源安全危機**：原油庫存逼近 8 年低點，多國因地緣政治優先保障化石燃料供應，導致能源轉型進程停滯。 [原文連結](https://www.ft.com/content/3beeb26f-6c35-46a9-b116-42edbe6552fd)
+*   **財報制度重大改革**：美國 SEC 研議將季度報告改為半年報，旨在減輕企業負擔並引導長期投資，但引發揭露透明度疑慮。 [原文連結](https://www.ft.com/content/3560d1e3-8271-453f-84d6-4a875b9efd98)
+*   **英債收益率飆升**：英國 30 年期國債收益率創 28 年新高，市場預期強烈緊縮；同時愛爾蘭與阿根廷分別釋出衰退訊號。 [原文連結](https://www.ft.com/content/755ebf5e-566a-4209-811e-f277a456fa6f)
 
-## 🔍 🤖 人工智慧 (AI)
-[查看此分類的獨立存檔頁面](./history/2026-05-05_15-34/AI.md)
-* **AI 轉向協作系統**：OpenAI 與 PwC 合作重塑 CFO 職能，標誌 AI 進入高價值決策圈；技術重心正從「單體大模型」轉向「多智能體協作系統 (Multi-Agent)」。 [原文連結](https://openai.com/index/openai-pwc-finance-collaboration)
-* **安全與防禦前線**：ARMOR 2025 軍事安全基準發布，標誌軍事 AI 正從黑盒測試轉向教條對齊，強化《戰爭法》與《交戰規則》的自動化合規。 [原文連結](https://arxiv.org/abs/2605.00245)
-
-## 🔍 💻 科技產業 (Technology)
-[查看此分類的獨立存檔頁面](./history/2026-05-05_15-34/Technology.md)
-* **晶片供應鏈風險分散**：蘋果傳出探討英特爾或三星代工可能性，尋求台積電外的第二來源；DDR6 規格競賽啟動，記憶體成 AI 運算核心瓶頸。 [原文連結](https://technews.tw/2026/05/05/apple-explores-using-intel-samsung-to-build-device-processors/)
-* **邊緣 AI 爆發**：2026 年被視為邊緣 AI 爆發起點，NVIDIA 推動亞洲供應鏈佔比達 90%，實體 AI (Physical AI) 與機器人商機成為新戰場。 [原文連結](https://techorange.com/2026/05/05/edge-ai-advantech/)
-
-## 🔍 🇹🇼 台灣新聞 (TW News)
-[查看此分類的獨立存檔頁面](./history/2026-05-05_15-34/TW_News.md)
-* **半導體代工轉型**：世界先進新加坡廠新增矽中介層代工，正式打入 CoWoS 供應鏈；熙特爾儲能系統獲日本資安雙認證，搶攻國際綠能商機。 [原文連結](https://ec.ltn.com.tw/article/breakingnews/5426145)
-* **外交與政經形勢**：賴清德出訪史瓦帝尼展現主權韌性；國內則因國防預算案僵局與台北「安鼠之亂」引發政黨攻防。 [原文連結](https://news.ltn.com.tw/news/politics/breakingnews/5426141)
-
-## 🔍 👥 台灣社會 (TW Social)
-[查看此分類的獨立存檔頁面](./history/2026-05-05_15-34/TW_Social.md)
-* **台股站上四萬點**：由台積電領軍帶動半導體族群噴發，但金控業海外投資大幅虧損形成強烈對比；證券端收緊質押借貸，流動性風險升溫。 [原文連結](https://www.ptt.cc/bbs/Stock/M.1777950762.A.30F.html)
-* **職場倫理與法律**：工程師因諧音辱罵同事遭判刑，提醒科技從業人員內部溝通紀錄亦具法律效力；職場霸禮防範成企業人資管理新重點。 [原文連結](https://www.ptt.cc/bbs/Tech_Job/M.1777950718.A.69B.html)
-
-## 🔍 📉 經濟趨勢 (Economics)
-[查看此分類的獨立存檔頁面](./history/2026-05-05_15-34/Economics.md)
-* **歐盟經濟鬆綁**：歐盟政策重心從「控風險」轉向「求增長」，試圖減少繁文縟節以因應美中競爭，釋放單一市場經濟活力。 [原文連結](https://www.economist.com/finance-and-economics/2026/05/04/the-eu-wants-unshackle-its-economy-for-real-this-time)
-* **統計數據失真成本**：研究指出錯誤的政府統計數據正導致全球經濟承受億萬級損失，國家統計數據的現代化成為高回報的基礎設施投資。 [原文連結](https://www.economist.com/finance-and-economics/2026/05/04/bad-government-statistics-can-cost-the-economy-billions)
-
-## 🔍 🎭 社會情緒 (Social Sentiment)
-[查看此分類的獨立存檔頁面](./history/2026-05-05_15-34/Social_Sentiment.md)
-* **AI 監管前哨戰**：白宮考慮對 AI 模型實施「強制審查」機制，標誌快速破壞時代終結；Palantir 營收飆升證明「國防科技 + AI」強大變現力。 [原文連結](https://www.reddit.com/r/technology/comments/1t3tg64/white_house_considers_vetting_ai_models_before/)
-* **能源與技術邊界**：Peter Thiel 支持波浪動力數據中心以解決算力能源缺口；YouTube 介面漏洞導致系統癱瘓，暴露快速開發下的軟體工程質量問題。 [原文連結](https://www.reddit.com/r/technology/comments/1t3ycwq/peter_thiel_backs_1bn_ocean_data_centre_startup/)
+## 🔍 Investments
+[查看此分類的獨立存檔頁面](./history/2026-05-06_10-20/Investments.md)
+*   **波克夏 4,000 億現金警訊**：巴菲特持續拋售美股並累積史上最高現金水位，被視為對當前市場高估值的「不信任票」。 [原文連結](https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDRwZWprZ19tQnpnemlpUlBySkE1bWl3U0R1bmwtUTlqVEFPX285UXVOeGgyNjFMc3R0MmxGbm9QbGw4WWZ6YVFUNG5tTGlPXzZoVGZCVDkwOWxEd19NcVJsOU5LT0hCejFWQWtUN281VVprSGtrM2F4V3BURmJ6V1ptWEtiay1mOFRQZVg4X25mWEpqSU5TUg?oc=5)
+*   **保險帝國接班啟動**：Charlie Shamieh 接掌波克夏保險部門，如何在後巴菲特時代維持嚴格核保紀律將是獲利關鍵。 [原文連結](https://news.google.com/rss/articles/CBMirwFBVV95cUxOYWd2eHkzOE5mdmNlSkNHWnNSOE9vQl80VXJKOG9DY3lCb25WbC1XY2w0WUNMWUtDZnlGZzA2N2cyTnZqUG1jc3lIdTdyWFU1OXJGdS04ajRTNVE2dHdFNVBEc3FwT19SMmtkWnR6LWpmS0tDRnlvMU5LazctcDd0VlNvLTc2MEc2X2ZxQ0FFWWRfeUZDR1JtYkFVeGd5by11N2VvRnhoWllUd0F4U3pN?oc=5)
