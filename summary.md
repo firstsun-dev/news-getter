@@ -1,25 +1,28 @@
-# 📅 每日情報精選 (2026-05-07 10-13)
+# 📅 每日情報精選 (2026-05-07 21-50)
 
 > 💡 首頁僅顯示最核心重點。如需深入分析，請點擊各分類下方的『完整深度報告』連結。
 
-*   **打破長期客戶的「僵化陷阱」**：銷售團隊應停止與老客戶的「自動駕駛」模式，將對話從單純續約轉向策略轉型，以重奪議價權與利潤空間。[原文連結](https://hbr.org/2026/05/how-sales-teams-undercut-themselves-with-longtime-clients)
-*   **拒絕將 AI 代理人擬人化**：企業不應將 AI Agent 視為「員工」，應從「系統優化」而非「績效管理」的角度切入，並確保責任歸屬 100% 回歸人類編排者。[原文連結](https://hbr.org/2026/05/research-why-you-shouldnt-treat-ai-agents-like-employees)
+* **企業 AI 規模化困境**：多數企業仍陷於「試點煉獄」，應將 AI 從單純技術插件轉向深度的營運模式重塑，方能將野心轉化為獲利。[原文連結](https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewiring-for-ai-from-ambition-to-advantage)
+* **解構遺留工作流**：AI 的核心潛力在於重新定義「工作如何完成」，透過打破過往成功經驗形成的組織慣性，釋放人力投入高價值戰略空間。[原文連結](https://hbr.org/2026/05/3-ways-ai-can-free-organizations-from-legacy-workflows)
+* **極壓下的溝通韌性**：面對變革壓力，領導者需具備「先調節情緒、後傳遞訊息」的能力，確保指令精簡精準且能建立團隊信任感。[原文連結](https://hbr.org/podcast/2026/05/communicating-with-confidence-when-youre-under-pressure)
 
 ## 🔍 Global
-[查看此分類的獨立存檔頁面](./history/2026-05-07_10-13/Global.md)
+[查看此分類的獨立存檔頁面](./history/2026-05-07_21-50/Global.md)
 
-*   **美伊和平協議曙光**：白宮傳出與伊朗接近達成 14 點諒解備忘錄，國際油價隨即重挫，市場地緣政治風險溢價大幅重新評估。[原文連結](https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss)
-*   **機器人戰爭時代開啟**：烏克蘭軍方宣稱成功僅利用機器人與無人機收復失地，預示未來國防產業將全面轉向軟體定義與自動化協作。[原文連結](https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss)
-*   **郵輪漢他病毒爆發**：MV Hondius 郵輪爆發罕見病毒疫情，凸顯封閉交通工具在跨境防疫與高致死率病毒反應機制上的系統性漏洞。[原文連結](https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss)
+* **郵輪漢他病毒疫情**：探險郵輪 MV Hondius 爆發罕見病毒疫情並導致死亡案例，各國正展開全球乘客追蹤以防堵潛在傳播鏈。[原文連結](https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss)
+* **中東停火曙光**：伊朗正審慎考慮美國提出的和平提案，若衝突終結將顯著調降全球供應鏈的風險溢價與物流不確定性。[原文連結](https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss)
+* **中國軍方反腐清洗**：前國防部長遭判處死緩，顯示北京當局正徹底整肅軍工採購體系，以確保解放軍的絕對忠誠與戰備效能。[原文連結](https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss)
 
 ## 🔍 Finance
-[查看此分類的獨立存檔頁面](./history/2026-05-07_10-13/Finance.md)
+[查看此分類的獨立存檔頁面](./history/2026-05-07_21-50/Finance.md)
 
-*   **能源市場「戰爭溢價」消退**：美伊和談預期導致原油價格暴跌，市場情緒正從恐懼供應中斷轉向供給增加的預期。[原文連結](https://www.investing.com/news/commodities-news/oil-extends-losses-after-trump-halts-hormuz-operation-eyes-iran-deal-4661581)
-*   **私人信貸「槓桿疊疊樂」風險**：匯豐銀行遭受 4 億美元損失，揭露了私人信貸市場中複雜的層疊槓桿與隱藏的系統性違約風險。[原文連結](https://www.ft.com/content/8117fa35-d89e-4fb9-a94b-48257bd6229b)
-*   **主流金融擁抱加密貨幣**：摩根士丹利計畫在 E*Trade 推出比特幣與以太幣現貨交易，象徵數位資產正式進入大型銀行核心服務。[原文連結](https://www.ft.com/content/ce292294-3f04-4ac8-971b-2f45877b8e65)
+* **能源市場劇烈回調**：美伊和平協議轉機促使布蘭特原油跌破 100 美元大關，大幅緩解全球通膨壓力，但能源巨頭「戰爭意外財」恐面臨縮減。[原文連結](https://www.investing.com/news/commodities-news/us-oil-prices-rebound-as-investors-assess-prospects-for-a-middle-east-peace-deal-4665898)
+* **美國生產力警訊**：第一季生產力放緩且失業救濟申領人數超預期，顯示勞動力市場正逐漸降溫，經濟面臨單位人工成本上升的壓力。[原文連結](https://www.investing.com/news/economic-indicators/us-productivity-slows-further-in-first-quarter-4667969)
+* **私人資本市場估值危機**：私募股權巨頭紛紛下調持股估值，業界警告非公開交易資產定價不透明，隱藏系統性交叉槓桿風險。[原文連結](https://www.ft.com/content/70a07eca-b575-4f30-ad50-b0b6a785b80f)
 
 ## 🔍 Investments
-[查看此分類的獨立存檔頁面](./history/2026-05-07_10-13/Investments.md)
+[查看此分類的獨立存檔頁面](./history/2026-05-07_21-50/Investments.md)
 
-*   **波克夏推動物流自動化**：旗下 McLane 與 Aurora 合作，在美國陽光地帶部署無人駕駛重型卡車，透過科技整合鞏固傳統物流護城河。[原文連結](https://news.google.com/rss/articles/CBMingFBVV95cUxQQWNSX213TEVUQUVqWk5sSlN4X1VITkxjbWd4b3V6UUNhTlBiZThCbzNHckViRFd1NlRObm5QbG5YX2V2N2MtN3VmaEZtcnJMNXVWN0k5cnlBTnZGNUw0c0JUUGhocnFlM2tfb0RGRUM2OGZHZmxBWUtLb1Bza0hvcnBiYmtOYW1mSmRVR2gzTE9GTU4wRGlSVENCdDNNQdIBowFBVV95cUxPS0xBWF9FQWJyZ28zelhmSmN2WnFtN6JOUDYxS0wxU21xQkJrTGdzb3JqTXNydXo2MXYzRUEzZENRbkNhUERwSTdfWWphVkNYN3Sa2R3?oc=5)
+* **波克夏深耕日本**：巴菲特將日本五大商社持股比例正式提升至 10% 以上，旨在利用日圓低借貸成本布局具壟斷優勢的資產。[原文連結](https://news.google.com/rss/articles/CBMiswFBVV95cUxOU1B0enVISXB2VEVLdzJSbDZPLU9QX2xrT0JzUFB3MHZSVEdoYTJXLXlobWNIWThGUVQ0WkVNc09aSXV2ak1UMVFaREwzUFJyNklaOE9VMGpYTXFDeVpuekdsMnNZLW5FRXpnVTNWMnZRaUxBVHBvX1BCMXp0Q0FDY0k4a2ZwSVpJLTBlbEllRFVrcWJ0Z255R1VmX3NUTi1xOHJJaGNQWlBFLS04cWhQT0xsWQ?oc=5)
+* **接班人策略異動**：準接班人 Greg Abel 持續減持美國銀行股份，而波克夏內部高層則大手筆購入 B 類股，顯示管理層對公司估值的強烈認可。[原文連結](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcWRPWDVzTnZJbzlvRUZMRm9hZFphc0poVDcxU21JdXlENFNEbnZhM19wajdSZjFlb0NNTklKY2RtVmVHTUYtbGJ1aXJ5Y3p2cklTSWlXaWJ5Rlk3MzJPejBJdHRmZ1Z4NDJoNEZqZVprUy04QmFtRE9tWFVDOUJpYkx6eGhEdmI2YkdLT2w5ajNZMnpPd09idg?oc=5)
+* **品牌護城河防禦力**：Apple 與可口可樂在波動環境中持續展現獲利韌性，驗證了長期持有高品質消費性龍頭股的投資邏輯。[原文連結](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTF94cUZjaEhlUVdZSnFrQnNrRnlXd3lpYkIwRXp4cUpVTUhLQTdoRFI1Z3hJZnFIWmhJRl9oVVVTaTA1NTNjd0lTUGgzb3lPQ29xN09Oamd5cHhPQ2xZY084Z3ZhODRFUm15eEZRMmNEenhuamF1d0ZrZlF4cDU4VlAyV3BqSUhmQXVrUGNQZi1CYURVRkhMd0JaMS1PSF9pd3R0d0pjNHlobVFQYy1j?oc=5)
