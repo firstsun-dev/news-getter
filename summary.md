@@ -1,27 +1,25 @@
-# 📅 每日情報精選 (2026-05-06 21-52)
+# 📅 每日情報精選 (2026-05-07 10-13)
 
 > 💡 首頁僅顯示最核心重點。如需深入分析，請點擊各分類下方的『完整深度報告』連結。
 
-* **AI 戰略警示**：企業若過度依賴 AI 取代初階工作，將面臨「人才管線斷裂」風險，導致未來高階領導力因缺乏培訓溫床而枯竭。[原文連結](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/ai-strategy-and-the-future-of-work-oxford-economist-jean-paul-carvalho)
-* **避免 AI 擬人化**：研究證實將 AI 視為「同事」會誘發員工「社交懈怠」，導致審核品質下降並降低個人的責任感。[原文連結](https://hbr.org/2026/05/research-why-you-shouldnt-treat-ai-agents-like-employees)
-* **重塑客戶忠誠度**：銷售團隊應警惕長期關係中的「自動導航」模式，透過六步法重啟戰略對話，避免價值侵蝕。[原文連結](https://hbr.org/2026/05/how-sales-teams-undercut-themselves-with-longtime-clients)
+*   **打破長期客戶的「僵化陷阱」**：銷售團隊應停止與老客戶的「自動駕駛」模式，將對話從單純續約轉向策略轉型，以重奪議價權與利潤空間。[原文連結](https://hbr.org/2026/05/how-sales-teams-undercut-themselves-with-longtime-clients)
+*   **拒絕將 AI 代理人擬人化**：企業不應將 AI Agent 視為「員工」，應從「系統優化」而非「績效管理」的角度切入，並確保責任歸屬 100% 回歸人類編排者。[原文連結](https://hbr.org/2026/05/research-why-you-shouldnt-treat-ai-agents-like-employees)
 
 ## 🔍 Global
-[查看此分類的獨立存檔頁面](./history/2026-05-06_21-52/Global.md)
+[查看此分類的獨立存檔頁面](./history/2026-05-07_10-13/Global.md)
 
-* **能源局勢降溫**：美伊達成和平框架協議曙光，帶動原油價格大跌，全球能源物流壓力預期將大幅緩解。[原文連結](https://www.investing.com/news/commodities-news/oil-extends-losses-after-trump-halts-hormuz-operation-eyes-iran-deal-4661581)
-* **機器人戰爭革命**：烏克蘭證實僅靠機器人與無人機便奪回領土，標誌著「無人化戰爭」已進入大規模實戰階段。[原文連結](https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss)
-* **科技法律風險**：蘋果因「Apple Intelligence」廣告涉嫌誤導賠償 95 美元，為 AI 行銷承諾與交付的一致性敲響警鐘。[原文連結](https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss)
+*   **美伊和平協議曙光**：白宮傳出與伊朗接近達成 14 點諒解備忘錄，國際油價隨即重挫，市場地緣政治風險溢價大幅重新評估。[原文連結](https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss)
+*   **機器人戰爭時代開啟**：烏克蘭軍方宣稱成功僅利用機器人與無人機收復失地，預示未來國防產業將全面轉向軟體定義與自動化協作。[原文連結](https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss)
+*   **郵輪漢他病毒爆發**：MV Hondius 郵輪爆發罕見病毒疫情，凸顯封閉交通工具在跨境防疫與高致死率病毒反應機制上的系統性漏洞。[原文連結](https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss)
 
 ## 🔍 Finance
-[查看此分類的獨立存檔頁面](./history/2026-05-06_21-52/Finance.md)
+[查看此分類的獨立存檔頁面](./history/2026-05-07_10-13/Finance.md)
 
-* **私募信用隱憂**：影子銀行體系脆弱性浮現，匯豐與阿波羅受英國抵押貸款機構倒閉波及，暴露私募市場未經測試的風險。[原文連結](https://www.ft.com/content/33dd60c4-aba7-45ec-b25c-92f143a25f3d)
-* **AI 硬體霸權**：三星市值突破 1 兆美元大關，記憶體晶片需求撐起半邊天，顯示資金高度集中於 AI 算力供應鏈。[原文連結](https://www.ft.com/content/4239a9e1-854d-4ae1-9792-a4a11d7ae5e8)
-* **OPEC 結構裂解**：阿聯酋（UAE）退出 OPEC 追求產量自主，象徵傳統卡特爾對全球油價定價權的進一步削弱。[原文連結](https://www.ft.com/content/77f79126-bbf5-4343-90ea-c403c04c5640)
+*   **能源市場「戰爭溢價」消退**：美伊和談預期導致原油價格暴跌，市場情緒正從恐懼供應中斷轉向供給增加的預期。[原文連結](https://www.investing.com/news/commodities-news/oil-extends-losses-after-trump-halts-hormuz-operation-eyes-iran-deal-4661581)
+*   **私人信貸「槓桿疊疊樂」風險**：匯豐銀行遭受 4 億美元損失，揭露了私人信貸市場中複雜的層疊槓桿與隱藏的系統性違約風險。[原文連結](https://www.ft.com/content/8117fa35-d89e-4fb9-a94b-48257bd6229b)
+*   **主流金融擁抱加密貨幣**：摩根士丹利計畫在 E*Trade 推出比特幣與以太幣現貨交易，象徵數位資產正式進入大型銀行核心服務。[原文連結](https://www.ft.com/content/ce292294-3f04-4ac8-971b-2f45877b8e65)
 
 ## 🔍 Investments
-[查看此分類的獨立存檔頁面](./history/2026-05-06_21-52/Investments.md)
+[查看此分類的獨立存檔頁面](./history/2026-05-07_10-13/Investments.md)
 
-* **波克夏接班啟動**：格雷格·阿貝爾時代以創紀錄經營業績開幕，證明其在能源與工業運營上的卓越管理能力。[原文連結](https://simplywall.st/stocks/us/diversified-financials/nyse-brk.a/berkshire-hathaway/news/greg-abel-era-at-berkshire-hathaway-what-record-results-mean-for-valuation)
-* **防守型現金策略**：波克夏持有歷史性巨額現金，反映出巴菲特對當前市場估值的謹慎，以及對大型投資標的的極高門檻。[原文連結](https://www.bloomberg.com/news/articles/2024-05-04/buffett-s-big-bets-will-haunt-the-abel-era-at-berkshire)
+*   **波克夏推動物流自動化**：旗下 McLane 與 Aurora 合作，在美國陽光地帶部署無人駕駛重型卡車，透過科技整合鞏固傳統物流護城河。[原文連結](https://news.google.com/rss/articles/CBMingFBVV95cUxQQWNSX213TEVUQUVqWk5sSlN4X1VITkxjbWd4b3V6UUNhTlBiZThCbzNHckViRFd1NlRObm5QbG5YX2V2N2MtN3VmaEZtcnJMNXVWN0k5cnlBTnZGNUw0c0JUUGhocnFlM2tfb0RGRUM2OGZHZmxBWUtLb1Bza0hvcnBiYmtOYW1mSmRVR2gzTE9GTU4wRGlSVENCdDNNQdIBowFBVV95cUxPS0xBWF9FQWJyZ28zelhmSmN2WnFtN6JOUDYxS0wxU21xQkJrTGdzb3JqTXNydXo2MXYzRUEzZENRbkNhUERwSTdfWWphVkNYN3Sa2R3?oc=5)
