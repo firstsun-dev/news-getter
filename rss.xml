@@ -1,24 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Intelligence Digest</title><link>https://firstsun-dev.github.io/news-getter/</link><description>Deep AI-summarized intelligence from global sources.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>zh-TW</language><lastBuildDate>Fri, 08 May 2026 13:23:32 +0000</lastBuildDate><item><title>AI 新聞深度摘要 - 2026-05-08 21:23</title><link>https://firstsun-dev.github.io/news-getter/</link><description>&lt;h1 id="2026-05-08-21-18"&gt;📅 每日情報精選 (2026-05-08 21-18)&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI News Intelligence Digest</title><link>https://firstsun-dev.github.io/news-getter/</link><description>Deep AI-summarized intelligence from global sources.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>zh-TW</language><lastBuildDate>Sat, 09 May 2026 02:21:46 +0000</lastBuildDate><item><title>AI 新聞深度摘要 - 2026-05-09 10:21</title><link>https://firstsun-dev.github.io/news-getter/</link><description>&lt;h1 id="2026-05-09-10-13"&gt;📅 每日情報精選 (2026-05-09 10-13)&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;💡 首頁僅顯示最核心重點。如需深入分析，請點擊各分類下方的『完整深度報告』連結。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;太空數據中心崛起&lt;/strong&gt;：軌道數據中心成為緩解 AI 算力瓶頸的新前線，利用太空天然低溫與太陽能解決地球能源與冷卻壓力。&lt;a href="https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-case-for-data-centers-in-space"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;營銷轉向代理人時代&lt;/strong&gt;：企業需從「觸及消費者」轉向「與 AI 代理溝通」，重新設計行銷組織以應對自動化決策主導的新商務模式。&lt;a href="https://hbr.org/2026/05/redesigning-your-marketing-organization-for-the-agentic-age"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;私募基金平台化策略&lt;/strong&gt;：PE 巨頭正透過深度營運整合與併購（M&amp;amp;A）創造價值，取代傳統財務槓桿以化解全球經濟逆風。&lt;a href="https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-private-equity-is-using-m-and-a-integrations-to-overcome-headwinds"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;網路安全速度競賽&lt;/strong&gt;：網路防禦已轉為「AI 對抗 AI」的策略競爭，企業必須建立自動化防禦系統以應對微秒級的自動化攻擊浪潮。&lt;a href="https://hbr.org/2026/05/cyber-defense-has-to-move-at-the-speed-of-ai"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;結構化賦能決策&lt;/strong&gt;：快速成長的企業應建立清晰的決策框架，讓基層擁有透明資訊與獨立權限，以破解創辦人帶來的管理瓶頸。&lt;a href="https://hbr.org/2026/05/how-fast-growing-companies-can-make-better-decisions"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;代理人行銷時代&lt;/strong&gt;：未來行銷將由 AI 代理人主導購買決策，企業必須重構組織以優化「代理人體驗」（AXO）而非傳統廣告。&lt;a href="https://hbr.org/2026/05/redesigning-your-marketing-organization-for-the-agentic-age"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="global"&gt;🔍 Global&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://firstsun-dev.github.io/news-getter/history/2026-05-08_21-18/Global.html"&gt;查看此分類的獨立存檔頁面&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://firstsun-dev.github.io/news-getter/history/2026-05-09_10-13/Global.html"&gt;查看此分類的獨立存檔頁面&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;荷姆茲海峽衝突升溫&lt;/strong&gt;：美伊在關鍵水道直接交火導致風險溢價飆升，全球能源供應鏈面臨實質中斷威脅。&lt;a href="https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&amp;amp;at_campaign=rss"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;跨大西洋貿易壓力&lt;/strong&gt;：川普對歐盟發出談判最後通牒，試圖透過外交手段迫使歐盟在關稅與貿易協議上做出重大讓步。&lt;a href="https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&amp;amp;at_campaign=rss"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;學術基礎設施遭駭&lt;/strong&gt;：全美教學系統 Canvas 遭大規模網路攻擊，引發對教育科技安全性與大規模個資外洩的深度憂慮。&lt;a href="https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&amp;amp;at_campaign=rss"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;漢他病毒郵輪爆發&lt;/strong&gt;：MV Hondius 郵輪爆發漢他病毒疫情已致 1 人死亡，引發 12 國乘客跨國追蹤與港口檢疫恐慌。&lt;a href="https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&amp;amp;at_campaign=rss"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;匈牙利政權更迭&lt;/strong&gt;：佩特·馬格亞終結了奧班 16 年的統治，標誌著中歐政治格局將從非自由民主轉向親歐立場。&lt;a href="https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&amp;amp;at_campaign=rss"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;俄烏戰爭風險溢出&lt;/strong&gt;：希臘海域發現攜帶炸藥的無人機，顯示黑海戰火的不對稱威脅已擴散至 NATO 成員國領海。&lt;a href="https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&amp;amp;at_campaign=rss"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="finance"&gt;🔍 Finance&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://firstsun-dev.github.io/news-getter/history/2026-05-08_21-18/Finance.html"&gt;查看此分類的獨立存檔頁面&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://firstsun-dev.github.io/news-getter/history/2026-05-09_10-13/Finance.html"&gt;查看此分類的獨立存檔頁面&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;歐洲能源韌性預警&lt;/strong&gt;：巴克萊警告原油庫存水平過低，儘管 AI 推動股市走高，潛在的能源衝擊仍是歐洲經濟的緊箍咒。&lt;a href="https://www.investing.com/news/commodities-news/barclays-warns-oil-shock-still-caps-europe-despite-aifueled-market-highs-4671535"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;微型交通重返資本市場&lt;/strong&gt;：Uber 支持的 Lime 正式提交 20 億美元 IPO 申請，驗證共享經濟在當前高利率環境下的獲利潛力。&lt;a href="https://www.ft.com/content/6622a3fa-5dbf-4790-90c3-618a70f7f11c"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;全球糧食通膨危機&lt;/strong&gt;：全球糧價創三年多來新高，連續三個月的上揚加劇了新興市場的社會不穩與貨幣政策收緊壓力。&lt;a href="https://www.investing.com/news/economic-indicators/world-food-prices-extend-rise-in-april-for-a-third-month-fao-says-4671282"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><guid isPermaLink="false">2026-05-08_21-23</guid><pubDate>Fri, 08 May 2026 13:23:32 +0000</pubDate></item></channel></rss>
+&lt;li&gt;&lt;strong&gt;能源航道安全危機&lt;/strong&gt;：美伊於霍爾木茲海峽頻繁交換火力導致 LNG 運送受阻，全美汽油均價面臨衝破 5 美元的通膨風險。&lt;a href="https://www.ft.com/content/ee5b1b48-3e10-47ad-bde0-b7a8c384ba0d"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;美歐貿易戰通牒&lt;/strong&gt;：美國對歐盟發出 7 月 4 日最後期限，若談判未果將恢復高額關稅，跨大西洋貿易關係降至冰點。&lt;a href="https://www.investing.com/news/economic-indicators/us-says-it-will-revert to-higher-tariffs-on-eu-goods-if-brussels-misses-july-4-deadline-4673540"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;美經濟數據分歧&lt;/strong&gt;：4 月非農就業雖強勁，但消費者信心指數因通膨壓力下滑，市場對「停滯性通膨」的憂慮加劇。&lt;a href="https://www.investing.com/news/economic-indicators/consumer-sentiment-dips-as-michigan-index-falls-below-expectations-93CH-4673055"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="investments"&gt;🔍 Investments&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://firstsun-dev.github.io/news-getter/history/2026-05-09_10-13/Investments.html"&gt;查看此分類的獨立存檔頁面&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;波克夏權力交接&lt;/strong&gt;：巴菲特公開背書繼任者格雷格·阿貝爾，將資本配置權全權託付，旨在穩定後巴菲特時代的投資信心。&lt;a href="https://news.google.com/rss/articles/CBMijAJBVV95cUxPWDExZXNnOVJCZ3kwYmY4TzNZaGxkUWRBRlhxWnE1Nzk3d1pVRkVLcEw2Y0Q5RlY5ZXZoTFpSVUxQN05Gdk1KRWtJZmhIa0c0VWZpUzRkMHZEOHk4b3lxcFh3bV9NZ2xRSndNTWU5ckRTNzk3LVpSVFV4SmZNbmpSWFRubFFscDFDVTBHajZidFl3NXdOX2w2YkxtSjhoUE9idlZYWERPZVZ3Qzl2TlB2bjViclRYZUpaVVB2ekhMMi1PZVJ5c2tUZy15MkFUQWlfRE5OXzUwZXo3cnFsaG8xZG9BTGY1YjVLRTAxdVdWMUlHRHN3aUliNm9xR0x5aGF2aUZId2lYWk9BbEtn?oc=5"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;高管薪酬結構調整&lt;/strong&gt;：波克夏新任 CFO 年薪高達 800 萬美元，顯示該公司正從傳統儉約轉向以優渥福利吸引現代頂尖人才。&lt;a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGJxYjNDNTdDV3pKWHlmeTlwMEI0OU9GMGhmU096T2JwdERKcmRoZzZVdzBGRlhqNzhxZmh5X1I2N05FbFNGRkVfZERvOGdsSFdlOFBrR0x2ck1JbE5MTGEzdlZMOG5OaHBFQTUwUEptWjctOWZHekVYOG5YNmZpWUFtXzRrV2ZaejQxbWpMdVBvNmREeFR5ZlVlYklLWmVSNjVlaw?oc=5"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;巨額資產配置挑戰&lt;/strong&gt;：阿貝爾時代需面對巴菲特遺留的龐大現金儲備與集中投資風險，其決策透明度將是未來觀察重點。&lt;a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNTnpmSTJiMkZ6cUhkMy0xRFZMSjBuSDlvYWhBVGJmQXQ0UkVFQ3NJcTV2OGx2cTBCeG84TWJaek56VEo5NURJVEwwVEMwNHFfWEN4aEtrSVUzSnViMnBKTldnMUJDeU9aMFVHa19hNzY5eGw3VW1BQ0NubFlWX05nS0duM1U2dkx6ekIyRm9yQ1ZsQXdlaEh5d3RFVFJQemtlMG1qMEVBcjdMaldTbHc5eG9IY01TRTJzNndPR2F4Yw?oc=5"&gt;原文連結&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><guid isPermaLink="false">2026-05-09_10-21</guid><pubDate>Sat, 09 May 2026 02:21:46 +0000</pubDate></item></channel></rss>

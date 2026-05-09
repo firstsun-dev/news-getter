@@ -1,21 +1,28 @@
-# 📅 每日情報精選 (2026-05-08 21-18)
+# 📅 每日情報精選 (2026-05-09 10-13)
 
 > 💡 首頁僅顯示最核心重點。如需深入分析，請點擊各分類下方的『完整深度報告』連結。
 
-*   **太空數據中心崛起**：軌道數據中心成為緩解 AI 算力瓶頸的新前線，利用太空天然低溫與太陽能解決地球能源與冷卻壓力。[原文連結](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-case-for-data-centers-in-space)
-*   **營銷轉向代理人時代**：企業需從「觸及消費者」轉向「與 AI 代理溝通」，重新設計行銷組織以應對自動化決策主導的新商務模式。[原文連結](https://hbr.org/2026/05/redesigning-your-marketing-organization-for-the-agentic-age)
-*   **私募基金平台化策略**：PE 巨頭正透過深度營運整合與併購（M&A）創造價值，取代傳統財務槓桿以化解全球經濟逆風。[原文連結](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-private-equity-is-using-m-and-a-integrations-to-overcome-headwinds)
+*   **網路安全速度競賽**：網路防禦已轉為「AI 對抗 AI」的策略競爭，企業必須建立自動化防禦系統以應對微秒級的自動化攻擊浪潮。[原文連結](https://hbr.org/2026/05/cyber-defense-has-to-move-at-the-speed-of-ai)
+*   **結構化賦能決策**：快速成長的企業應建立清晰的決策框架，讓基層擁有透明資訊與獨立權限，以破解創辦人帶來的管理瓶頸。[原文連結](https://hbr.org/2026/05/how-fast-growing-companies-can-make-better-decisions)
+*   **代理人行銷時代**：未來行銷將由 AI 代理人主導購買決策，企業必須重構組織以優化「代理人體驗」（AXO）而非傳統廣告。[原文連結](https://hbr.org/2026/05/redesigning-your-marketing-organization-for-the-agentic-age)
 
 ## 🔍 Global
-[查看此分類的獨立存檔頁面](./history/2026-05-08_21-18/Global.md)
+[查看此分類的獨立存檔頁面](./history/2026-05-09_10-13/Global.md)
 
-*   **荷姆茲海峽衝突升溫**：美伊在關鍵水道直接交火導致風險溢價飆升，全球能源供應鏈面臨實質中斷威脅。[原文連結](https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss)
-*   **跨大西洋貿易壓力**：川普對歐盟發出談判最後通牒，試圖透過外交手段迫使歐盟在關稅與貿易協議上做出重大讓步。[原文連結](https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss)
-*   **學術基礎設施遭駭**：全美教學系統 Canvas 遭大規模網路攻擊，引發對教育科技安全性與大規模個資外洩的深度憂慮。[原文連結](https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss)
+*   **漢他病毒郵輪爆發**：MV Hondius 郵輪爆發漢他病毒疫情已致 1 人死亡，引發 12 國乘客跨國追蹤與港口檢疫恐慌。[原文連結](https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss)
+*   **匈牙利政權更迭**：佩特·馬格亞終結了奧班 16 年的統治，標誌著中歐政治格局將從非自由民主轉向親歐立場。[原文連結](https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss)
+*   **俄烏戰爭風險溢出**：希臘海域發現攜帶炸藥的無人機，顯示黑海戰火的不對稱威脅已擴散至 NATO 成員國領海。[原文連結](https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss)
 
 ## 🔍 Finance
-[查看此分類的獨立存檔頁面](./history/2026-05-08_21-18/Finance.md)
+[查看此分類的獨立存檔頁面](./history/2026-05-09_10-13/Finance.md)
 
-*   **歐洲能源韌性預警**：巴克萊警告原油庫存水平過低，儘管 AI 推動股市走高，潛在的能源衝擊仍是歐洲經濟的緊箍咒。[原文連結](https://www.investing.com/news/commodities-news/barclays-warns-oil-shock-still-caps-europe-despite-aifueled-market-highs-4671535)
-*   **微型交通重返資本市場**：Uber 支持的 Lime 正式提交 20 億美元 IPO 申請，驗證共享經濟在當前高利率環境下的獲利潛力。[原文連結](https://www.ft.com/content/6622a3fa-5dbf-4790-90c3-618a70f7f11c)
-*   **全球糧食通膨危機**：全球糧價創三年多來新高，連續三個月的上揚加劇了新興市場的社會不穩與貨幣政策收緊壓力。[原文連結](https://www.investing.com/news/economic-indicators/world-food-prices-extend-rise-in-april-for-a-third-month-fao-says-4671282)
+*   **能源航道安全危機**：美伊於霍爾木茲海峽頻繁交換火力導致 LNG 運送受阻，全美汽油均價面臨衝破 5 美元的通膨風險。[原文連結](https://www.ft.com/content/ee5b1b48-3e10-47ad-bde0-b7a8c384ba0d)
+*   **美歐貿易戰通牒**：美國對歐盟發出 7 月 4 日最後期限，若談判未果將恢復高額關稅，跨大西洋貿易關係降至冰點。[原文連結](https://www.investing.com/news/economic-indicators/us-says-it-will-revert to-higher-tariffs-on-eu-goods-if-brussels-misses-july-4-deadline-4673540)
+*   **美經濟數據分歧**：4 月非農就業雖強勁，但消費者信心指數因通膨壓力下滑，市場對「停滯性通膨」的憂慮加劇。[原文連結](https://www.investing.com/news/economic-indicators/consumer-sentiment-dips-as-michigan-index-falls-below-expectations-93CH-4673055)
+
+## 🔍 Investments
+[查看此分類的獨立存檔頁面](./history/2026-05-09_10-13/Investments.md)
+
+*   **波克夏權力交接**：巴菲特公開背書繼任者格雷格·阿貝爾，將資本配置權全權託付，旨在穩定後巴菲特時代的投資信心。[原文連結](https://news.google.com/rss/articles/CBMijAJBVV95cUxPWDExZXNnOVJCZ3kwYmY4TzNZaGxkUWRBRlhxWnE1Nzk3d1pVRkVLcEw2Y0Q5RlY5ZXZoTFpSVUxQN05Gdk1KRWtJZmhIa0c0VWZpUzRkMHZEOHk4b3lxcFh3bV9NZ2xRSndNTWU5ckRTNzk3LVpSVFV4SmZNbmpSWFRubFFscDFDVTBHajZidFl3NXdOX2w2YkxtSjhoUE9idlZYWERPZVZ3Qzl2TlB2bjViclRYZUpaVVB2ekhMMi1PZVJ5c2tUZy15MkFUQWlfRE5OXzUwZXo3cnFsaG8xZG9BTGY1YjVLRTAxdVdWMUlHRHN3aUliNm9xR0x5aGF2aUZId2lYWk9BbEtn?oc=5)
+*   **高管薪酬結構調整**：波克夏新任 CFO 年薪高達 800 萬美元，顯示該公司正從傳統儉約轉向以優渥福利吸引現代頂尖人才。[原文連結](https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGJxYjNDNTdDV3pKWHlmeTlwMEI0OU9GMGhmU096T2JwdERKcmRoZzZVdzBGRlhqNzhxZmh5X1I2N05FbFNGRkVfZERvOGdsSFdlOFBrR0x2ck1JbE5MTGEzdlZMOG5OaHBFQTUwUEptWjctOWZHekVYOG5YNmZpWUFtXzRrV2ZaejQxbWpMdVBvNmREeFR5ZlVlYklLWmVSNjVlaw?oc=5)
+*   **巨額資產配置挑戰**：阿貝爾時代需面對巴菲特遺留的龐大現金儲備與集中投資風險，其決策透明度將是未來觀察重點。[原文連結](https://news.google.com/rss/articles/CBMivwFBVV95cUxNTnpmSTJiMkZ6cUhkMy0xRFZMSjBuSDlvYWhBVGJmQXQ0UkVFQ3NJcTV2OGx2cTBCeG84TWJaek56VEo5NURJVEwwVEMwNHFfWEN4aEtrSVUzSnViMnBKTldnMUJDeU9aMFVHa19hNzY5eGw3VW1BQ0NubFlWX05nS0duM1U2dkx6ekIyRm9yQ1ZsQXdlaEh5d3RFVFJQemtlMG1qMEVBcjdMaldTbHc5eG9IY01TRTJzNndPR2F4Yw?oc=5)
