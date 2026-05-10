@@ -1,0 +1,19 @@
+# AI 深度專報 (2026-05-10 10-25)
+
+#### 1. 雙層多智能體架構與分級診療模型 (Dual-Tier Multi-Agent Architecture)
+* **事件背景**：OncoAgent 是一款專為腫瘤學臨床決策支援（CDSS）打造的開源系統，其核心技術採用了由 LangGraph 協調的雙層多智能體架構。第一層（Triage）部署針對速度優化的 9B 參數模型（如 Qwen3.5-9B），專責處理常規病例；第二層（Deep Reasoning）則啟用 27B 參數模型，專門應對複雜、多重共病的臨床推理。系統更內建「複雜度評分機制」，能像分診護理師一樣，智慧地將臨床查詢路由至最適合的處理層級。
+* **產業衝擊**：這種分層架構精準地解決了醫療領域中「算力成本」與「推理質量」難以兼顧的矛盾，使醫療機構能以最低的運算開銷處理日常問診，同時保留強大的重症分析能力。將大型語言模型依據複雜度進行任務分流，不僅大幅降低了常規任務的算力浪費，更為未來醫院全面導入 AI 輔助系統提供了極具經濟效益的參考範本。
+* **未來觀察重點**：後續應密切關注此智慧分流機制在真實醫院高壓環境下的分類準確率，以及小型與大型模型在面對邊緣案例（Edge cases）時，兩者協同推論的交接是否會產生資訊遺漏。
+* [https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper)
+
+#### 2. 嚴謹的修正型檢索增強生成 (CRAG) 與指南校準系統
+* **事件背景**：為解決醫療 AI 最具風險的「幻覺」問題，該框架首創了四階段的「修正型檢索增強生成（CRAG）」管線。此管線直接對接並檢索超過 70 份來自美國國家綜合癌症網絡（NCCN）與歐洲腫瘤學學會（ESMO）的醫師級臨床權威指南，並結合了嚴格的文件分級過濾機制，確保只有最高臨床關聯性的數據會被用於生成最終醫療建議。
+* **產業衝擊**：傳統通用型 AI 若應用於腫瘤學，往往因缺乏權威醫學依據而難以獲得醫師信任，CRAG 管線的引入將 AI 的生成結果強制錨定在國際公認的腫瘤治療標準上。這項技術賦予了 AI 自我審視與權威參照的能力，不僅大幅提升了臨床醫師採納 AI 建議的意願，也為醫療 AI 軟體醫材（SaMD）的合規化樹立了新的技術標竿。
+* **未來觀察重點**：未來的觀察核心在於系統如何自動化追蹤並更新這些頻繁變動的國際醫療指南，以及當不同地區（如北美 NCCN 與歐洲 ESMO）的治療準則出現分歧時，模型將如何進行權重取捨與決策呈現。
+* [https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper)
+
+#### 3. 突破性的 AMD 硬體加速與地端部署隱私保障
+* **事件背景**：OncoAgent 採用了包含 26.6 萬筆真實與合成腫瘤案例的 OncoCoT 語料庫，並利用 QLoRA 與 Unsloth 框架在 AMD Instinct MI300X 硬體上進行深度優化，僅耗時約 50 分鐘即完成微調，吞吐量高達傳統雲端 API 的 56 倍。此外，系統專為本地端（On-premises）環境設計，並實施「零受保護健康資訊（Zero-PHI）」政策與三層 Reflexion 驗證系統，在資料送入模型前徹底抹除病患隱私。
+* **產業衝擊**：高度優化的本地化部署能力打破了醫院對封閉式雲端巨頭的依賴，徹底解決了醫療數據主權與病患個資無法上雲的法規痛點。結合 AMD 最新高性價比算力與開源軟體棧（ROCm 與 vLLM PagedAttention），這套方案證明了中小型醫療機構也能以極低成本，安全且合規地建構企業級的私有 AI 醫療輔助系統。
+* **未來觀察重點**：可持續觀察 AMD ROCm 生態系在醫療開源領域市佔率的後續發酵，以及 OncoAgent 「Human-in-the-Loop」的強制人工審核機制在導入臨床工作流後，對醫師看診效率的實際提升幅度。
+* [https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper)

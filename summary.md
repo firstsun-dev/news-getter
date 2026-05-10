@@ -1,28 +1,29 @@
-# 📅 每日情報精選 (2026-05-09 21-02)
+# 📅 每日情報精選 (2026-05-10 10-25)
 
 > 💡 首頁僅顯示最核心重點。如需深入分析，請點擊各分類下方的『完整深度報告』連結。
 
-*   **匈牙利政權更迭**：維克多·歐爾班 16 年統治宣告終結，新總理馬札爾勝選預計將改善與歐盟關係並解凍關鍵建設資金。[原文連結](https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss)
-*   **俄羅斯閱兵縮減**：勝利日閱兵規模大減反映前線物資補給壓力，普丁演說則顯示地緣政治對抗將持續處於高度警戒狀態。[原文連結](https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss)
-*   **Canvas 全球網攻**：大型教學管理平台遭駭導致哈佛等數千所大學運作中斷，揭示教育科技基礎設施在數位主權上的極度脆弱。[原文連結](https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss)
+* **以黎停火協議脆弱**：儘管宣佈停火，以軍行動仍造成 39 人死亡，顯示中東地區風險溢價將長期維持高位。 [原文連結](https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss)
+* **普丁釋放談判訊號**：普丁稱衝突「接近尾聲」並試探談判可能，旨在分化西方聯盟對烏克蘭的援助決心。 [原文連結](https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss)
+* **海事安全新威脅**：希臘水域發現攜帶炸藥的無人艦艇，顯示非對稱武器技術正外溢至民用航道與觀光區。 [原文連結](https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss)
 
 ## 🔍 Finance
-[查看此分類的獨立存檔頁面](./history/2026-05-09_21-02/Finance.md)
-
-*   **中國貿易強勁反彈**：4 月出口增長 14.1% 遠超預期，受 AI 供應鏈需求與地緣避險囤貨推動，為「川習會」增添談判籌碼。[原文連結](https://www.investing.com/news/economic-indicators/china-april-exports-rebound-strongly-trade-surplus-widens-ahead-of-trump-visit-4674595)
-*   **能源與電力轉嫁風險**：儘管油價維持在 110 美元，但 AI 數據中心激增的能源需求迫使公用事業轉向用戶收取未完工專案費用。[原文連結](https://www.investing.com/news/commodities-news/citi-explains-why-oil-prices-havent-gone-even-higher-4674631)
-*   **資本配置合規警訊**：貝萊德警告歐洲 14 兆歐元閒置現金錯失增長紅利，而愛荷華州養老金醜聞引發全美對投資透明度的審查。[原文連結](https://www.ft.com/content/fa0042b7-029c-46bb-a961-193777fe7d40)
+[查看此分類的獨立存檔頁面](./history/2026-05-10_10-25/Finance.md)
+* **匈牙利政局變天**：新總理馬格雅就職並推動「去奧班化」，有望解凍 170 億歐元歐盟資金並修補與布魯塞爾的關係。 [原文連結](https://www.investing.com/news/economic-indicators/magyar-sworn-in-as-hungarys-prime-minister-on-promises-of-change-4674631)
+* **阿聯酋退出 OPEC**：阿聯酋結束 60 年成員身份轉向優先產能擴張，大幅削弱沙烏地阿拉伯對全球油價的控制力。 [原文連結](https://www.investing.com/news/commodities-news/is-uaes-exit-actually-the-birth-of-an-antiopec-club-4674677)
+* **油價緩衝機制生效**：花旗指出全球約 8 億桶的原油庫存與中國需求疲軟，有效抑制了地緣政治引發的極端油價飆升。 [原文連結](https://www.investing.com/news/commodities-news/citi-explains-why-oil-prices-havent-gone-even-higher-4674631)
 
 ## 🔍 Investments
-[查看此分類的獨立存檔頁面](./history/2026-05-09_21-02/Investments.md)
-
-*   **波克夏阿貝爾時代**：執行長葛雷格·阿貝爾展現極高技術熟稔度，標誌著波克夏正式從「傳奇偶像」領導轉向「專業體制」轉型。[原文連結](https://www.cnbc.com/2026/05/09/greg-abel-knows-berkshire-cold-but-some-miss-the-buffett-magic.html)
-*   **治理體系現代化**：新任 CFO 高達 800 萬美元的年薪反映波克夏被迫接軌華爾街標準以留才，淡化傳統的極簡成本文化。[原文連結](https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGJxYjNDNTdDV3pKWHlmeTlwMEI0OU9GMGhmU096T2JwdERKcmRoZzZVdzBGRlhqNzhxZmh5X1I2N05FbFNGRkVfZERvOGdsSFdlOFBrR0x2ck1JbE5MTGEzdlZMOG5OaHBFQTUwUEptWjctOWZHekVYOG5YNmZpWUFtXzRrV2ZaejQxbWpMdVBvNmREeFR5ZlVlYklLWmVSNjVlaw?oc=5)
-*   **物流技術戰略轉型**：子公司 McLane 大規模投資無人駕駛重型卡車，顯示波克夏在傳統產業中正尋求技術驅動的利潤增長。[原文連結](https://news.google.com/rss/articles/CBMingFBVV95cUxNOVBwWVB5YkJvZF9QWXJ0eDlMeGhxUy1RMGgxdXA3NG9zSGQtZnIxUFMtZkNHUFA4ekxhX0N2S2MtQ25ZUnVqSUQ2dmozUDhCQzl2MVF1eWRTdzBCN3RaRGlodHRrb0pQQUxJUnVxcE1JWmdObzlIRW5ud2RMNlpyWF9Nc1F6TGVGd09LT05XZGlqaElwNXRyVGFpZS1NQQ?oc=5)
+[查看此分類的獨立存檔頁面](./history/2026-05-10_10-25/Investments.md)
+* **波克夏領導層轉型**：Greg Abel 正式接手營運，波克夏由「巴菲特大師魔力」驅動轉向高度制度化的專業體系。 [原文連結](https://www.cnbc.com/2026/05/09/greg-abel-knows-berkshire-cold-but-some-miss-the-buffett-magic.html)
+* **6,360 億美元的警示**：波克夏積累歷史級現金儲備並保持淨賣出，釋放對目前美股高估值與宏觀環境的強烈防禦訊號。 [原文連結](https://news.google.com/rss/articles/CBMihgFBVV95cUxQc25aa1h4S255T296eFp6WFdLaXF4SVAwRE1GWndwWjFZSE51aVB5WUVLWEg4V1NRbnluY2NEZ3ZKNW8wSmdxSUlBakJsWUtJUjNDZXBXUWdjN19mY1NPOF9kdkJmX1llcDJ6a2J0QWt6NXpadWh2M0lYdlEzVzFMTzFtckpWQQ?oc=5)
 
 ## 🔍 AI
-[查看此分類的獨立存檔頁面](./history/2026-05-09_21-02/AI.md)
+[查看此分類的獨立存檔頁面](./history/2026-05-10_10-25/AI.md)
+* **臨床 AI 分級診療**：OncoAgent 採用雙層多智能體架構，透過智慧分流在處理日常問診與深度推理間取得算力平衡。 [原文連結](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper)
+* **消除 AI 醫療幻覺**：CRAG 技術將生成內容強制錨定於國際權威指南，確保醫療建議的嚴謹性與合規化。 [原文連結](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper)
+* **地端部署與隱私**：透過 AMD 硬體優化實現高效本地化部署，解決醫療數據主權與病患個資無法上雲的痛點。 [原文連結](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper)
 
-*   **推理模型範式轉移**：ZAYA1-8B 證明透過優化運算方法，小規模模型能在數學與編程推理上超越參數大得多的對手。[原文連結](https://arxiv.org/abs/2605.05365)
-*   **思維鏈安全盲點**：研究揭示推理模型的思維軌跡可能隱藏違規內容，現有的最終輸出過濾機制已不足以應對新型安全風險。[原文連結](https://arxiv.org/abs/2605.05678)
-*   **智能體授權危機**：企業級 AI 面臨「權限意識」缺失，若無法在資訊不足時報告失敗，將在合規審計等場景產生災難性誤導。[原文連結](https://arxiv.org/abs/2605.05379)
+## 🔍 Technology
+[查看此分類的獨立存檔頁面](./history/2026-05-10_10-25/Technology.md)
+* **台灣通路格局劇變**：統一集團投資日系超市 LOPIA，聯手改造家樂福生鮮鏈，正面對決全聯與大潤發體系。 [原文連結](https://finance.technews.tw/2026/05/10/june-restriction-lifting-major-moves-uni-president-lopia-investment-carrefour-transformation-plan/)
+* **AI 記憶體霸權爭奪**：三星電子全力投入 HBM4E 研發，試圖利用垂直整合優勢反攻，打破 SK 海力士的市場壟斷。
