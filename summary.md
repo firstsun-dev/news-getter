@@ -1,29 +1,21 @@
-# 📅 每日情報精選 (2026-05-10 10-25)
+# 📅 每日情報精選 (2026-05-10 21-04)
 
 > 💡 首頁僅顯示最核心重點。如需深入分析，請點擊各分類下方的『完整深度報告』連結。
 
-* **以黎停火協議脆弱**：儘管宣佈停火，以軍行動仍造成 39 人死亡，顯示中東地區風險溢價將長期維持高位。 [原文連結](https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss)
-* **普丁釋放談判訊號**：普丁稱衝突「接近尾聲」並試探談判可能，旨在分化西方聯盟對烏克蘭的援助決心。 [原文連結](https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss)
-* **海事安全新威脅**：希臘水域發現攜帶炸藥的無人艦艇，顯示非對稱武器技術正外溢至民用航道與觀光區。 [原文連結](https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss)
+* MV Hondius 郵輪在特內里費島爆發嚴重病毒感染導致 3 人死亡，西班牙政府已啟動緊急撤離，此事件引發對郵輪防疫標準與緊急醫療應變能力的檢討。[原文連結](https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss)
+* 普丁公開釋放俄烏戰爭「接近尾聲」的訊號並對談判持潛在開放態度，國際分析家正密切關注俄方是否正調整外交戰略或僅為資訊戰陷阱。[原文連結](https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss)
+* 氣象專家警告 2026 世界盃足球賽面臨熱浪與颶風等極端氣候威脅，FIFA 與各主辦城市正緊急檢視應變方案以確保賽事順利進行。[原文連結](https://www.bbc.com/weather/articles/ce9p8m9xz13o?at_medium=RSS&at_campaign=rss)
 
 ## 🔍 Finance
-[查看此分類的獨立存檔頁面](./history/2026-05-10_10-25/Finance.md)
-* **匈牙利政局變天**：新總理馬格雅就職並推動「去奧班化」，有望解凍 170 億歐元歐盟資金並修補與布魯塞爾的關係。 [原文連結](https://www.investing.com/news/economic-indicators/magyar-sworn-in-as-hungarys-prime-minister-on-promises-of-change-4674631)
-* **阿聯酋退出 OPEC**：阿聯酋結束 60 年成員身份轉向優先產能擴張，大幅削弱沙烏地阿拉伯對全球油價的控制力。 [原文連結](https://www.investing.com/news/commodities-news/is-uaes-exit-actually-the-birth-of-an-antiopec-club-4674677)
-* **油價緩衝機制生效**：花旗指出全球約 8 億桶的原油庫存與中國需求疲軟，有效抑制了地緣政治引發的極端油價飆升。 [原文連結](https://www.investing.com/news/commodities-news/citi-explains-why-oil-prices-havent-gone-even-higher-4674631)
+[查看此分類的獨立存檔頁面](./history/2026-05-10_21-04/Finance.md)
+
+* 沙烏地阿美 Q1 獲利激增 25%，成功透過陸路管道規避霍爾木茲海峽的軍事風險，展現極端地緣政治壓力下的供應鏈韌性。[原文連結](https://www.investing.com/news/commodities-news/aramco-q1-profit-jumps-25-as-hormuz-risks-push-pipeline-to-full-capacity-4674761)
+* 全球貿易航道正發生永久性重組，受中東局勢動盪影響，避開蘇伊士運河的趨勢導致巴拿馬運河營收異常增長 15%。[原文連結](https://www.ft.com/content/0dd9368e-33e5-488e-a0b3-c7ad1f7953d3)
+* 高盛支持的 Lendable 計劃進軍美國市場，其在英國個人貸款規模已超越傳統銀行，顯示 Fintech 正在核心貸款業務中取代傳統金融機構。[原文連結](https://www.ft.com/content/82da8449-7672-4d9c-a0c3-bccfa90b5a2c)
 
 ## 🔍 Investments
-[查看此分類的獨立存檔頁面](./history/2026-05-10_10-25/Investments.md)
-* **波克夏領導層轉型**：Greg Abel 正式接手營運，波克夏由「巴菲特大師魔力」驅動轉向高度制度化的專業體系。 [原文連結](https://www.cnbc.com/2026/05/09/greg-abel-knows-berkshire-cold-but-some-miss-the-buffett-magic.html)
-* **6,360 億美元的警示**：波克夏積累歷史級現金儲備並保持淨賣出，釋放對目前美股高估值與宏觀環境的強烈防禦訊號。 [原文連結](https://news.google.com/rss/articles/CBMihgFBVV95cUxQc25aa1h4S255T296eFp6WFdLaXF4SVAwRE1GWndwWjFZSE51aVB5WUVLWEg4V1NRbnluY2NEZ3ZKNW8wSmdxSUlBakJsWUtJUjNDZXBXUWdjN19mY1NPOF9kdkJmX1llcDJ6a2J0QWt6NXpadWh2M0lYdlEzVzFMTzFtckpWQQ?oc=5)
+[查看此分類的獨立存檔頁面](./history/2026-05-10_21-04/Investments.md)
 
-## 🔍 AI
-[查看此分類的獨立存檔頁面](./history/2026-05-10_10-25/AI.md)
-* **臨床 AI 分級診療**：OncoAgent 採用雙層多智能體架構，透過智慧分流在處理日常問診與深度推理間取得算力平衡。 [原文連結](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper)
-* **消除 AI 醫療幻覺**：CRAG 技術將生成內容強制錨定於國際權威指南，確保醫療建議的嚴謹性與合規化。 [原文連結](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper)
-* **地端部署與隱私**：透過 AMD 硬體優化實現高效本地化部署，解決醫療數據主權與病患個資無法上雲的痛點。 [原文連結](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper)
-
-## 🔍 Technology
-[查看此分類的獨立存檔頁面](./history/2026-05-10_10-25/Technology.md)
-* **台灣通路格局劇變**：統一集團投資日系超市 LOPIA，聯手改造家樂福生鮮鏈，正面對決全聯與大潤發體系。 [原文連結](https://finance.technews.tw/2026/05/10/june-restriction-lifting-major-moves-uni-president-lopia-investment-carrefour-transformation-plan/)
-* **AI 記憶體霸權爭奪**：三星電子全力投入 HBM4E 研發，試圖利用垂直整合優勢反攻，打破 SK 海力士的市場壟斷。
+* Greg Abel 正式接掌波克夏投資決策權，象徵後巴菲特時代正式開啟，首張成績單顯示這台「複利機器」運作依然穩定。[原文連結](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdHExLVhMZTRrdTFlZ3ozeGdhTFlJOVVVMjhSV1lLNXN4b3BLUVlXRVBVV3ItMjZLTTBiS3lKME9BZmJiWmNJZlNqbHJiSy1uUnBFVGZOVURvbE1JTVFVdGN4MEN4N1ByMnZ0UGVGY01vd05iaHRscE9NSUI2Ni14RE5zejExREJNMEZwXzJXWW1rbzU3cnVQOHRvQkcyWWZHeVNIZjRJbFdrM3l2eFFZR0JIcDh3RG8?oc=5)
+* 波克夏現金儲備達到歷史性的 3,970 億美元，反映管理層對當前美股高估值的防禦姿態，正靜待市場系統性修正後的買入良機。[原文連結](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMnJWbUdzcFFZX2lMWlc2ckk2WnFiZmpXSXllVGpPZFJiWmdGYWNsWHpQUDRZRnVDWlNjNjRpN0I0WG9ZcWRzM003cWFPMlVrclV6Mnlzd2RkZm9paDFveU1SUnFyLVc0a1l6bG9DWDliNXVPV2Q5bUQ3aEYzY0xOc3dSQ2lpVDhnam53YXI3amx5cVZGb3pfUnpvVVVacDh3a0ZFRWw5a2JvVzNrcXIwbThHdndMNnlDWGxDWDRwU1Bfc3J0SHBubFJ0ejhFejdnV2E1eHJPVW03a0dmS3pyTTZkMA?oc=5)
+* 延續深耕日本市場策略，波克夏進一步加碼住友與丸紅等商社持股，旨在透過低估值且具備穩定現金流的資產規避單一市場風險。[原文連結](https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQ3JpMDJMbU5vUTFsMURuT2c5RjEtTFhId0k1YjI3Y1Z3TmlXLXUzSElGSWVrVnpFOWN1a292eW0wUElwVXhjUE1KUEAyUG1nUXY1S2ZBS1lEdVdwZHgwWnJpOVpLVDMtVXY3WmcwOFpSdHlpQk9RRWNXQXZvQXVGang4R1FobXRBNHJWd1JUMTVNVmV0Y2piR0FCWWljQXc3b1dBNGpsb1Z2VXpvSTVTLWFpS2w1dC1ucWNqcE9xVExOMVZmLTZlMlhPVmZoWmtQbHoyTnJUSGR5VmpZT1BvNHZhLUFoMlVIcW1TdVdjRXd5YlBDUWUzaU9qLTVHSWZjeXdaYkVsMFI?oc=5)
