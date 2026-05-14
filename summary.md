@@ -1,20 +1,26 @@
-# 📅 每日情報精選 (2026-05-13 22-14)
+# 📅 每日情報精選 (2026-05-14 10-34)
 
 > 💡 首頁僅顯示最核心重點。如需深入分析，請點擊各分類下方的『完整深度報告』連結。
 
-* **波克夏重啟股票回購，宣告股價已具吸引力**：在坐擁近 2,000 億美元現金下，巴菲特重啟回購，釋出當前股價低於內在價值的強烈信號，並以此緩解投資者對「現金拖累收益」的焦慮。[原文連結](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOK2RyeHhfWEd1bEUyMVd2UzFQSlhLbng0Q1YwU2tQdFA2VTVWaUtXejhpZU9uaHFEamxoay9RUWprV0FNcHQ4dWp5LVVwYTlpMVJIT214VGZRb1hLcGVVV1FFVXdpQjdKUmxtS3NxaXdjZlBVRXZud0l6ZWRhSEI3TnlMMWgwUGw2VnNR?oc=5)
-* **巴菲特嚴厲警告美股「賭博情緒」升溫**：直指投機行為與數位交易平台使市場日益短視，泡沫化風險增加，呼籲投資者遠離過度估值的科技股，回歸具備護城河的現金流企業。[原文連結](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkNKVTdReWd0b3Q3emdwTUNKSEFLbFhYdmVudzZ1OFlTaTFlOHNiZmQyY1JMWEx0ejNjUURsc2w1VU1yN2dzUkthaFJoVUYySHc0U0FXTzJTb0MtRFc3XzVBUDV1eWUzNnVwRWVGd1BtNXJUVGM4UnYwbWU4aFc4b0FZcXg2bEU4YjBCSW9KTGVmSlBxZThvRjZVVU9mNWVoY2Raa3NXZGlWQk10ZFdj?oc=5)
-* **缺乏「大象級」獵物，維持現狀以待市場崩潰**：巴菲特解釋投資組合靜止是因為優質企業估值過高，波克夏選擇將資金鎖定蘋果等核心持股，保留現金以換取未來的「選擇權價值」。[原文連結](https://news.google.com/rss/articles/CBMimAFBVV95cUxNNTBRVEVnNG9PeUJxcm1Cc2dfT2pIYy1fMDlkV0dwTnBjZUtGYmRhZG1BNE9EUnE4STJ5X1hmbmZvX1hXV3I1UHZDdW5WTllpeVA0dWh5aXpVNXJWZVZ0NFVJWkZOSkpCN3J5SzlkbnU3YV9YNWliZk9Lb2FLUWpVenlBMTY3WFE0eG4zRF9kRE0yTG5TTVV0SA?oc=5)
+*   **效率重新定義**：在 AI 時代，效率應從產出速度轉向「認知協作」，重點在於調整大腦認知狀態以應對高階決策與創意任務。[原文連結](https://hbr.org/podcast/2026/05/redefining-what-efficiency-means-in-the-age-of-ai)
+*   **警惕代理收斂陷阱**：過度依賴主流 AI 模型會導致企業策略同質化，喪失獨特性，應加強私有模型投資與人類洞察。[原文連結](https://hbr.org/2026/05/beware-the-agentic-convergence-trap)
+*   **領導力範式轉移**：優秀領導者需具備「需求共感」能力，精準感應員工在不同階段的心理與資源需求，而非僅靠個人魅力。[原文連結](https://hbr.org/2026/05/are-you-meeting-the-needs-of-the-people-you-lead)
 
-## 🔍 Technology
-[查看此分類的獨立存檔頁面](./history/2026-05-13_22-14/Technology.md)
+## 🔍 Global
+[查看此分類的獨立存檔頁面](./history/2026-05-14_10-34/Global.md)
 
-* **AI 代理人革命：企業軟體進入「自主營運」時代**：SAP 與 Salesforce 推出自主代理，將 AI 從單純對話轉向自動執行財務、供應鏈等核心決策，改寫 SaaS 計費與人力結構。[原文連結](https://techorange.com/2026/05/13/sap-autonomous-enterprise/)
-* **地緣政治下的算力博弈：輝達晶片走私與外交斡旋**：美司法部揭露輝達晶片規避出口管制走私中俄，與此同時黃仁勳隨川普訪中，反映國家安全與企業營利間的角力。[原文連結](https://technews.tw/2026/05/13/encrypted-texts-reveal-how-nvidia-chips-and-u-s-tech-are-being-smuggled-to-china-and-russia/)
-* **資安重大警訊：鴻海 8TB 檔案外洩與影子 AI 風險**：駭客組織 Nitrogen 宣稱竊取鴻海北美廠機密檔案，包含蘋果與輝達設計圖；同時影子 AI 成為企業轉型中最難管理的「人性漏洞」。[原文連結](https://www.ithome.com.tw/news/175765)
+*   **美中新博弈**：川普訪華聚焦貿易逆差與台灣議題，此次會晤為全球科技供應鏈脫鉤與再平衡過程中的關鍵談判點。[原文連結](https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss)
+*   **地緣衝突升級**：俄羅斯在停火失效後發動大規模無人機襲擊，同時以色列空襲擴張至貝魯特南郊，區域戰爭風險持續攀升。[原文連結](https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss)
+*   **自動駕駛挑戰**：Waymo 因車輛無法應對極端洪水環境宣布召回數千輛車，暴露了當前算法在極端氣候下的安全冗餘不足。[原文連結](https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss)
 
-## 🔍 TW Social
-[查看此分類的獨立存檔頁面](./history/2026-05-13_22-14/TW_Social.md)
+## 🔍 Finance
+[查看此分類的獨立存檔頁面](./history/2026-05-14_10-34/Finance.md)
 
-* **森崴能源（6806）淨值轉負面臨下市危機**：上市僅 4 年半便因財務崩潰遭列變更交易，此事件重創綠能供應鏈信心，引發市場對風電國產化政策成效的劇烈質疑。[原文連結](https://www.ptt.cc/bbs/Stock/M.1778676621.A.88A.html)
-* **台美無人機聯盟成形，台廠搶攻全球國防供應鏈**：雷虎科技與 Shield AI 結盟導入自主駕駛系統，透過國際認證與台美合作，力求降低對地緣政治的依賴並切入美方市場。[原文連結](https://technews.tw/2026/05/13/thunder-tiger_shield-ai_hivemind-integration-with-seashark/)
+*   **通膨與債市震盪**：美國 4 月 PPI 漲幅遠超預期，導致 30 年期國債收益率自 2007 年來首破 5%，降息預期受挫。[原文連結](https://www.investing.com/news/economic-indicators/ppi-surges-outpacing-forecasts-and-previous-figures-93CH-4684518)
+*   **能源供應風險**：沙烏地對伊朗發動防禦性打擊，加劇荷姆茲海峽封鎖風險，石油市場避險情緒推升價格溢價。[原文連結](https://www.ft.com/content/bbab4ea7-bb54-47fd-98c9-bb66fb52c78f)
+*   **AI 資本熱潮持續**：芯片廠 Cerebras 調高 IPO 定價，估值上看 400 億美元，顯示市場對 AI 基礎設施的投資熱度未減。[原文連結](https://www.ft.com/content/4848fbef-d9af-46ee-b6ef-ad344a7a3814)
+
+## 🔍 Investments
+[查看此分類的獨立存檔頁面](./history/2026-05-14_10-34/Investments.md)
+
+*   **市場估值警告**：阿波羅共同創辦人 Marc Rowan 警告公共市場估值已達危險水平，資金正流向具備穩定現金流與私人信貸特質的標的。[原文連結](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRTBDQ0QtZHRFaERkMUhlLW1ySk1EYlhtU0NNaHJQUE5SaEpzT2JMaXR3bU1iZnpBWHVGTnFtZEpMN3Nzcm5hSUJxeUoxbUpEWkJ3ODQ1M3Y5QnJHT181dnlkVGJIaWdmYkx2QkZmcFViQ1p6YkNEMUh5SkRVSlVkSHlIOU5SNUlQMXRVa3dHUHFpUnhfX3VJ?oc=5)
