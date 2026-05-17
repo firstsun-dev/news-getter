@@ -1,24 +1,20 @@
-# 📅 每日情報精選 (2026-05-17 10-32)
+# 📅 每日情報精選 (2026-05-17 21-05)
 
 > 💡 首頁僅顯示最核心重點。如需深入分析，請點擊各分類下方的『完整深度報告』連結。
 
-* **真主黨實戰光纖無人機**：武裝組織首度運用「抗電子干擾」的光纖導引無人機，成功打破現代防禦系統盲區，標誌不對稱戰爭的重大技術演進。[原文連結](https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss)
-* **川普施壓引發台海新局**：川普警告台灣不得宣布獨立以換取對中談判籌碼，為依賴美國支持的台海現狀帶來變數，恐加速企業「Taiwan+1」的供應鏈轉移。[原文連結](https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss)
-* **IS 全球活躍領袖遭擊斃**：美、尼聯合軍事行動成功斬首 IS 高層阿爾·米努基，短期內重挫恐怖組織指揮鏈，有助穩定非洲薩赫勒地區的外資安全環境。[原文連結](https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss)
+*   **烏克蘭無人機直擊莫斯科**：烏軍展現穿透莫斯科防禦網的技術突破，將戰爭代價推向俄國腹地，直接帶動全球反無人機（C-UAS）產業的爆發性需求。[原文連結](https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss)
+*   **真主黨部署抗干擾光纖無人機**：非國家武裝首度應用免疫傳統電子戰的光纖導引技術，不僅挑戰以色列防空體系，更迫使全球電戰反制產業尋求物理攔截新解方。[原文連結](https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss)
+*   **WHO 宣布伊波拉為全球緊急事件**：剛果（金）爆發高致死率的伊波拉疫情，WHO 正式啟動全球資源調度，預期將推升跨國製藥訂單及撒哈拉以南非洲的物流風險評級。[原文連結](https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss)
 
 ## 🔍 Finance
-[查看此分類的獨立存檔頁面](./history/2026-05-17_10-32/Finance.md)
-* **美國終止俄油制裁豁免**：美國正式取消俄羅斯海運石油的制裁豁免期，大幅限縮其正規流通空間，全球能源供應鏈的合規成本與影子船隊風險將急遽攀升。[原文連結](https://www.investing.com/news/commodities-news/us-treasury-allows-sanctions-waiver-on-russian-seaborne-oil-to-lapse-4694484)
-* **委內瑞拉能源法規解綁**：委國政府擬賦予能源部彈性徵稅權並放寬合資營運限制，試圖在制裁壓力下吸引國際資本以重組萎縮的石油產能。[原文連結](https://www.investing.com/news/commodities-news/venezuelas-draft-oil-law-lets-ministry-set-tax-rates-for-each-project-4694488)
-* **中美巨額貿易協議遇冷**：中方將川普訪華期間達成的投資採購定調為「初步性質」，暗示地緣政治摩擦未解，相關供應鏈的實質落地仍充滿變數。[原文連結](https://www.investing.com/news/commodities-news/china-says-trump-visit-deals-are-preliminary-4694465)
+[查看此分類的獨立存檔頁面](./history/2026-05-17_21-05/Finance.md)
+
+*   **日債殖利率創高引爆資金回流**：日本央行政策正常化預期推升日債殖利率，引發市場押注龐大的日本海外資金將拋售歐美公債並回流本土，對美債定價與全球流動性構成巨壓。[原文連結](https://www.ft.com/content/6e363bc3-3114-4ddf-9f3b-67f031b3ef92)
+*   **貝恩資本超募百億美元重倉亞洲**：無視全球融資寒冬，貝恩完成破紀錄的 105 億美元亞洲基金募集，預告日本與印度市場的科技轉型與大型併購戰即將全面開打。[原文連結](https://www.ft.com/content/cf65b157-6a10-4525-851b-508333ee94d0)
+*   **戰爭重創以色列首季 GDP 萎縮 3.3%**：受大規模徵兵與國防開支飆升影響，以色列經濟陷入深度修正，其引以為傲的科技產業鏈也因人力短缺面臨高度不確定性。[原文連結](https://www.investing.com/news/economic-indicators/israel-q1-gdp-shrinks-33-annualised-as-iran-war-weighs-4694519)
 
 ## 🔍 Investments
-[查看此分類的獨立存檔頁面](./history/2026-05-17_10-32/Investments.md)
-* **波克夏投資組合激進重構**：新任執行長阿貝爾上任首季即展開史詩級換股，宣告後巴菲特時代從傳統價值防禦轉向擁抱高成長科技的戰略轉折。[原文連結](https://www.cnbc.com/2026/05/16/berkshires-new-ceo-overhauls-portfolio-dumping-a-slate-of-stocks.html)
-* **重倉 Alphabet 並清倉亞馬遜**：波克夏狂買三倍 Alphabet 股權押注 AI 與流量霸權，同時全面出清亞馬遜與套現雪佛龍，展現出更冷酷且高侵略性的資本配置。[原文連結](https://news.google.com/rss/articles/CBMiowFBVV95cUxNSHJWdHA0T2ZaRXptVGhyM3l6dzl3RDdWWnlDYVV0QzZKaThtRHM0bmJWcVcxdXRNOC15V3p3aTBMSVl1TnJjSDA4OTd3SHo5M2JkNUlIUXNrd3RUZnhvNlRDcnViRnAwRFJCbjRRejZzS0U4SENaQjg4WWVWY29IVlhXQk01QVZBU0RpRGZqV2tiN056bEg4WEJlQk5ha2d4WTV30gGoAUFVX3lxTE12dFRKUnNwb1Y2dHd5Mlo4cE5IODB1Q29FdXNFSU40YWJJZGQ3SkVsc3J1RzhhMjBwQzJEV1Z0UnlMQUt2anNuWnNuS3N3a3JSX2lpV2tYQmNrVHk4ZlZ1UFBNOVVUVXFhU3R5c00zRWZsclFvZjVwWlZhTkJsY1ZZX1c4SXQ3OGFiMEZhZ3FKTEtmeHNyQUZXZklDaWRZLXNMNlFNekQ2TA?oc=5)
-* **26 億美元逆勢押注達美航空**：終結長達六年的航空股冷淡期，波克夏重金建倉高利潤的達美航空，象徵市場對宏觀復甦與航空業定價權的終極認可。[原文連結](https://news.google.com/rss/articles/CBMihAFBVV95cUxOaGZFdFNPNzN2TFlyOEFDYkMxanRJQ1U5RU5vQ0tGSFhiVENPVzdlNDZIYVhZY2ZQR2ZwaFV6VjB2cFRRSFRlTU94YkMtXzlnVVg4TUJhMjJ5ZGtTbWJDTFRrLUZEYlA5SDZEZkVpQWtFUmZaSWc4UUI3VWVjREZZMG85U1Q?oc=5)
+[查看此分類的獨立存檔頁面](./history/2026-05-17_21-05/Investments.md)
 
-## 🔍 Technology
-[查看此分類的獨立存檔頁面](./history/2026-05-17_10-32/Technology.md)
-* **韓國啟用機器人填補國防缺口**：面對少子化導致的嚴重兵源枯竭，韓國軍方攜手現代汽車大規模部署自動化機器人，推動國防工業與民生 AI 技術的歷史性融合。[原文連結](https://technews.tw/2026/05/17/south-korea-looks-to-hyundai-robots-as-army-numbers-shrink/)
-* **ASML 助攻印度 12 吋晶圓廠**：ASML 結盟塔塔集團在印度建廠，標誌著印度正式從後段封測邁入先進前段製造，將長遠改變亞洲半導體的供應鏈版圖。[原文連結](#)
+*   **波克夏重倉 Alphabet 並減持 Amazon**：13F 報告顯示波克夏將 Alphabet 持倉大幅翻倍，同時縮減零售巨頭 Amazon，凸顯資金正果斷向具備深厚 AI 護城河與穩定軟體利潤的龍頭集中。[原文連結](https://news.google.com/rss/articles/CBMifkFVX3lxTE5MTVRaMFpvWVA2VWF4UlFmcDRhZ2pzeEJjUHlYdlI2WDE3ZTJ4TTNWSUswYkx0TnhqM0RsODBtVUtrQW1IWkxtNUltZjlPTDVGalVuZWtZdHNjemhfN2VIejFrVHZQRnlrc2pPQTR1SDhsdVc1RmZtSlAyMzN6QQ?oc=5)
+*   **巴菲特拋售支付雙雄，砸重金重返航空業**：波克夏清倉 Visa 與 Mastercard 等傳統金融收費站，並斥資 26.5 億美元強勢押注達美航空，展現對旅遊復甦及高定價權企業的絕對信心。[原文連結](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQamhLcnNQXzJoNXlvUHJYcVliRHlIc1dIZFRtbjhsOFoyaGxOM1kxME9Bby1sZms5eVQ5dUFWRXA2WnBJZEFwVDFia2ZzRzlNRzh4OHZSMGhpclFHMENUdHJ0YzVpT0ZTaUpNQXRyazVfTURRdFdub2J3aWxwbGo5enBoNHl3SmxYbDZ5QndkWWV2TjFBZngwaFpWVUR5TUVsMUtNdkVEeXI5NUwzNUclQnM4aURlaWR2LU5icHZjY1Zrc0wzUUd4RXZmVklvTzBERUFyMjVianpQQjUweWNGQmxKekphei14QlhLc3FLdkpzdTZIemc?oc=5)
