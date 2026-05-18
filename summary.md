@@ -1,20 +1,21 @@
-# 📅 每日情報精選 (2026-05-17 21-05)
+# 📅 每日情報精選 (2026-05-18 10-42)
 
 > 💡 首頁僅顯示最核心重點。如需深入分析，請點擊各分類下方的『完整深度報告』連結。
 
-*   **烏克蘭無人機直擊莫斯科**：烏軍展現穿透莫斯科防禦網的技術突破，將戰爭代價推向俄國腹地，直接帶動全球反無人機（C-UAS）產業的爆發性需求。[原文連結](https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss)
-*   **真主黨部署抗干擾光纖無人機**：非國家武裝首度應用免疫傳統電子戰的光纖導引技術，不僅挑戰以色列防空體系，更迫使全球電戰反制產業尋求物理攔截新解方。[原文連結](https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss)
-*   **WHO 宣布伊波拉為全球緊急事件**：剛果（金）爆發高致死率的伊波拉疫情，WHO 正式啟動全球資源調度，預期將推升跨國製藥訂單及撒哈拉以南非洲的物流風險評級。[原文連結](https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss)
+*   **中東危機跨越紅線**：伊朗核談判陷入僵局，疊加阿聯核電廠首度遭遇無人機襲擊，區域衝突已從傳統軍事目標擴大至能源基礎設施，直接威脅全球供應鏈。 [原文連結](https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss)
+*   **戰爭無人化與 AI 主導**：烏克蘭長程無人機成功直擊莫斯科，且前線大量導入自動化與 AI 火控系統，宣告低成本高精準度的無人科技已徹底顛覆現代戰爭型態。 [原文連結](https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss)
+*   **國際公衛風險重燃**：世衛組織宣布剛果伊波拉疫情為國際公衛緊急事件，加上郵輪爆發漢他病毒感染，迫使全球邊境與高風險旅遊業重新面臨嚴峻的防疫壓力。 [原文連結](https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss)
 
 ## 🔍 Finance
-[查看此分類的獨立存檔頁面](./history/2026-05-17_21-05/Finance.md)
+[查看此分類的獨立存檔頁面](./history/2026-05-18_10-42/Finance.md)
 
-*   **日債殖利率創高引爆資金回流**：日本央行政策正常化預期推升日債殖利率，引發市場押注龐大的日本海外資金將拋售歐美公債並回流本土，對美債定價與全球流動性構成巨壓。[原文連結](https://www.ft.com/content/6e363bc3-3114-4ddf-9f3b-67f031b3ef92)
-*   **貝恩資本超募百億美元重倉亞洲**：無視全球融資寒冬，貝恩完成破紀錄的 105 億美元亞洲基金募集，預告日本與印度市場的科技轉型與大型併購戰即將全面開打。[原文連結](https://www.ft.com/content/cf65b157-6a10-4525-851b-508333ee94d0)
-*   **戰爭重創以色列首季 GDP 萎縮 3.3%**：受大規模徵兵與國防開支飆升影響，以色列經濟陷入深度修正，其引以為傲的科技產業鏈也因人力短缺面臨高度不確定性。[原文連結](https://www.investing.com/news/economic-indicators/israel-q1-gdp-shrinks-33-annualised-as-iran-war-weighs-4694519)
+*   **中國內需疲軟拖累復甦**：4 月份製造業與零售數據雙雙低於預期，房地產開發投資持續滑坡，疲弱的內部動能迫使中國企業加深對外出口依賴，恐引發新一波貿易摩擦。 [原文連結](https://www.investing.com/news/economic-indicators/china-april-factory-output-retail-sales-miss-forecasts-amid-weak-domestic-demand-4694607)
+*   **地緣衝突推升通膨風險**：阿聯核設施遇襲與伊朗夏季能源危機瀕臨崩潰，刺激原油價格突破兩週高點，市場重新計入的「地緣政治溢價」將讓全球通膨環境更加惡化。 [原文連結](https://www.investing.com/news/commodities-news/oil-prices-jump-over-1-as-usiran-tensions-simmer-after-uae-drone-strike-4694585)
+*   **大宗商品與供應鏈博弈**：中美罕見達成稀土緩解協議以降低關鍵礦產斷鏈風險；同時受美債殖利率飆升影響，黃金避險光環暫退，市場正快速重新定價各類資產風險。 [原文連結](https://www.investing.com/news/commodities-news/china-has-agreed-to-address-us-concerns-over-rare-earth-shortages-says-white-house-4694604)
 
 ## 🔍 Investments
-[查看此分類的獨立存檔頁面](./history/2026-05-17_21-05/Investments.md)
+[查看此分類的獨立存檔頁面](./history/2026-05-18_10-42/Investments.md)
 
-*   **波克夏重倉 Alphabet 並減持 Amazon**：13F 報告顯示波克夏將 Alphabet 持倉大幅翻倍，同時縮減零售巨頭 Amazon，凸顯資金正果斷向具備深厚 AI 護城河與穩定軟體利潤的龍頭集中。[原文連結](https://news.google.com/rss/articles/CBMifkFVX3lxTE5MTVRaMFpvWVA2VWF4UlFmcDRhZ2pzeEJjUHlYdlI2WDE3ZTJ4TTNWSUswYkx0TnhqM0RsODBtVUtrQW1IWkxtNUltZjlPTDVGalVuZWtZdHNjemhfN2VIejFrVHZQRnlrc2pPQTR1SDhsdVc1RmZtSlAyMzN6QQ?oc=5)
-*   **巴菲特拋售支付雙雄，砸重金重返航空業**：波克夏清倉 Visa 與 Mastercard 等傳統金融收費站，並斥資 26.5 億美元強勢押注達美航空，展現對旅遊復甦及高定價權企業的絕對信心。[原文連結](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQamhLcnNQXzJoNXlvUHJYcVliRHlIc1dIZFRtbjhsOFoyaGxOM1kxME9Bby1sZms5eVQ5dUFWRXA2WnBJZEFwVDFia2ZzRzlNRzh4OHZSMGhpclFHMENUdHJ0YzVpT0ZTaUpNQXRyazVfTURRdFdub2J3aWxwbGo5enBoNHl3SmxYbDZ5QndkWWV2TjFBZngwaFpWVUR5TUVsMUtNdkVEeXI5NUwzNUclQnM4aURlaWR2LU5icHZjY1Zrc0wzUUd4RXZmVklvTzBERUFyMjVianpQQjUweWNGQmxKekphei14QlhLc3FLdkpzdTZIemc?oc=5)
+*   **波克夏重磅加碼科技巨頭**：最新 13F 報告顯示波克夏對 Alphabet 持倉暴增逾三倍，宣告其戰略重心正式向具備 AI 高護城河的矽谷平台股傾斜，有效提振科技股長線估值。 [原文連結](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPczdPWDMweml1X3ZWWnBoY2xURGVqMFpXQjV3aS1idV80ZkhvRXg0Q01sSkpmQnpkZmlWZGh0NEhYZVljd1FCVU1BZEdHVndtTjJOaEZNTXJpMWhISmQ5NTVCMGNWcEY0Tl9GcjFyaHNOaWQtUGhvbk8xa1FVSEUtemZEd3p2U0Fmd091S0hCMU1oeFlnbXdySXppclREOXRFMmZsc2c4WEtCYVRTd2gtOVQ1S2lfZUNjNUZMd3hTZFA?oc=5)
+*   **重返航空業與清倉醫療股**：波克夏斥資 2.65 億美元押注達美航空，認定旅遊業已進入結構性獲利期；同時全數拋售聯合健康集團（UnitedHealth），精準閃避醫療產業的政策與監管逆風。 [原文連結](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcmFuRldOSXFYdDhuZGxtWnRPVFV6azVjUk5pTER3VlVLbXQtSmJDdTU1Z0h6aFJ2UG5xR09hTEFtV29Yek5HcWx0Y08zbUpIYjloelBTMkdIcE9sNmZuV21hazRCSVdHdlhGT3lXMlR2Yl9ObHJxMWN5YS1Qak44UDY4Y3RNek8tZjFZT0h5SHlfeHBMdDhScWJSTzViQUNDd0VOdUtocHFEV2VOVlprWmlmUjhfdXRyNmh2R0t1YUQ5Zw?oc=5)
+*   **阿貝爾時代全面啟動**：副董事長格雷格·阿貝爾的操盤風格全面顯現，透過大規模股票回購與靈活的資本配置，帶領波克夏從傳統直覺投資轉型為數據與效率驅動的新型控股集團。 [原文連結](https://news.google.com/rss/articles/CBMilwFBVV95cUxPUzJmWWJ3b3g0S0ZGSllmbXIxSHluNGVJemNab1ZVdnVEQUdHaGV4Mll3MWhBYnRyd0ZxYTBSazhVcnRnaGlrSVNpR0p2THV4dVBFM2VYR290SHFFVjFqaDl6TFRoVS1GM01EbWZneS1TY0pMWFFvTTNmVmF0UDRUVnRFTW5ZUTBIUEptLU5IT0RlVGFNZWo4?oc=5)
