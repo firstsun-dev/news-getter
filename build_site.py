@@ -104,16 +104,27 @@ def build_site():
         
         toc_html += "</ul>"
 
-        # 4. 獲取歷史列表連結 (修正連結失效問題)
+        # 4. 獲取歷史列表連結，依日期群組顯示所有分類深度頁面
+        from collections import defaultdict
         history_dirs = sorted(glob.glob("history/*/"), reverse=True)
-        history_links = ""
+        daily_groups = defaultdict(list)
         for hdir in history_dirs:
-            # 嘗試找該目錄下的 Finance.html 作為代表，或只連結到目錄(如果 Server 支援 index)
-            dname = os.path.basename(hdir.rstrip("/")).replace("_", " ").replace("-", "/")
-            # 建立一個指向該次更新 index 的路徑 (雖然目前沒做子目錄 index，我們先連到 Finance 或第一個檔)
-            first_file = glob.glob(f"{hdir}/*.html")
-            target = first_file[0] if first_file else "#"
-            history_links += f'<li><a href="{target}">{dname}</a></li>'
+            dirname = os.path.basename(hdir.rstrip("/"))
+            date_part = dirname[:10]
+            daily_groups[date_part].append(dirname)
+
+        history_links = ""
+        for date in sorted(daily_groups.keys(), reverse=True):
+            history_links += f'<li class="history-day"><span class="history-date">{date}</span><ul class="history-runs">'
+            for dirname in sorted(daily_groups[date], reverse=True):
+                time_part = dirname[11:].replace("-", ":")
+                html_files = sorted(glob.glob(f"history/{dirname}/*.html"))
+                cat_links = " &nbsp;·&nbsp; ".join(
+                    f'<a href="history/{dirname}/{os.path.basename(f)}">{os.path.basename(f).replace(".html","").replace("_"," ")}</a>'
+                    for f in html_files
+                )
+                history_links += f'<li><span class="run-time">{time_part}</span> {cat_links}</li>'
+            history_links += '</ul></li>'
 
         index_template = f"""
         <!DOCTYPE html>
@@ -145,6 +156,12 @@ def build_site():
                 a:hover {{ text-decoration: underline; }}
                 
                 .history {{ margin-top: 60px; padding-top: 30px; border-top: 2px solid #eee; font-size: 0.9em; color: #666; }}
+                .history-day {{ list-style: none; margin-bottom: 14px; }}
+                .history-date {{ font-weight: bold; color: #333; display: block; margin-bottom: 4px; }}
+                .history-runs {{ list-style: none; padding-left: 12px; margin: 4px 0 0 0; }}
+                .history-runs li {{ margin-bottom: 4px; line-height: 1.6; }}
+                .run-time {{ color: #999; font-size: 0.88em; margin-right: 6px; }}
+                .history ul {{ padding-left: 0; }}
                 
                 @media (max-width: 900px) {{
                     .main-wrapper {{ flex-direction: column; }}
