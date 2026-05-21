@@ -88,7 +88,24 @@ def build_site():
                 intro += line
 
 
-        # 3. 建立 Table of Contents (ToC) 與 內容 HTML
+        # 3. 從 summary.md 標題找出對應 history 目錄，補入缺少的分類
+        import re
+        ts_match = re.search(r'\((\d{4}-\d{2}-\d{2})[_ ](\d{2}[-:]\d{2})\)', title_line)
+        if ts_match:
+            history_timestamp = f"{ts_match.group(1)}_{ts_match.group(2).replace(':', '-')}"
+            history_dir = f"history/{history_timestamp}"
+            if os.path.exists(history_dir):
+                for md_file in sorted(glob.glob(f"{history_dir}/*.md")):
+                    cat_name = os.path.basename(md_file).replace(".md", "").replace("_", " ")
+                    if cat_name not in categories:
+                        with open(md_file, "r", encoding="utf-8") as f:
+                            raw = f.read()
+                        # 跳過第一行標題與空行
+                        body = "\n".join(raw.split("\n")[2:])
+                        html_path = f"./{history_dir}/{os.path.basename(md_file).replace('.md', '.html')}"
+                        categories[cat_name] = {"content": body, "md_path": html_path}
+
+        # 5. 建立 Table of Contents (ToC) 與 內容 HTML
         toc_html = "<h2>📌 快速索引 (ToC)</h2><ul>"
         content_html = ""
         
