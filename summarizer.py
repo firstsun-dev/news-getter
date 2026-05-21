@@ -98,25 +98,27 @@ def summarize_all():
             with open(f"{base_dir}/{file_cat}.md", "w", encoding="utf-8") as f:
                 f.write(f"# {category} 深度專報 ({timestamp.replace('_', ' ')})\n\n{summary}")
 
-    # 第二階段：產出首頁專用的精簡版 (Executive Summary)
+    # 第二階段：針對每個分類個別產出精簡版，確保所有分類都出現在首頁
     print("正在產出首頁精簡版摘要...")
-    all_deep_text = "\n\n".join([f"### {cat}\n{summ}" for cat, summ in deep_summaries.items()])
-    
-    prompt_concise = f"""你是一位高級主編。以下是今日各領域的深度報告。
-請幫我撰寫一份『首頁精華摘要』，目的是讓忙碌的讀者在 2 分鐘內掌握全局。
+    executive_parts = []
+    for cat, summ in deep_summaries.items():
+        prompt_concise = f"""你是一位高級主編。以下是『{cat}』分類的深度報告。
+請從中挑出 2-3 個「最高信號」的重點，寫成首頁精華摘要。
 
 要求：
-1. **格式要求**：每個分類必須以 `## 🔍 分類名稱` 作為標題。
-2. **極度精簡**：每個分類僅保留 2-3 個「最高信號」的重點。
-3. **單句要點**：每個重點請濃縮成 1-2 句話，不要寫長篇大論。
-4. **保留來源**：每個重點末尾仍需附上 [原文連結](網址)。
-5. 語氣：乾脆、果斷、專業。
-6. 輸出為純 Markdown 格式。
+1. **格式要求**：輸出必須以 `## 🔍 {cat}` 作為第一行標題。
+2. **極度精簡**：每個重點濃縮成 1-2 句話。
+3. **保留來源**：每個重點末尾附上 [原文連結](網址)。
+4. 語氣：乾脆、果斷、專業。
+5. 輸出為純 Markdown 格式，不要加任何額外說明。
 
 深度報告內容如下：
-{all_deep_text[:15000]}
+{summ[:8000]}
 """
-    executive_overview = run_gemini(prompt_concise)
+        part = run_gemini(prompt_concise)
+        if part:
+            executive_parts.append(part)
+    executive_overview = "\n\n".join(executive_parts)
 
     # 產生主頁 summary.md
     with open("summary.md", "w", encoding="utf-8") as f:

@@ -115,16 +115,19 @@ def build_site():
 
         history_links = ""
         for date in sorted(daily_groups.keys(), reverse=True):
-            history_links += f'<li class="history-day"><span class="history-date">{date}</span><ul class="history-runs">'
+            run_rows = ""
             for dirname in sorted(daily_groups[date], reverse=True):
                 time_part = dirname[11:].replace("-", ":")
                 html_files = sorted(glob.glob(f"history/{dirname}/*.html"))
-                cat_links = " &nbsp;·&nbsp; ".join(
-                    f'<a href="history/{dirname}/{os.path.basename(f)}">{os.path.basename(f).replace(".html","").replace("_"," ")}</a>'
+                chips = "".join(
+                    f'<a class="cat-chip" href="history/{dirname}/{os.path.basename(f)}">{os.path.basename(f).replace(".html","").replace("_"," ")}</a>'
                     for f in html_files
                 )
-                history_links += f'<li><span class="run-time">{time_part}</span> {cat_links}</li>'
-            history_links += '</ul></li>'
+                run_rows += f'<li class="history-run-row"><span class="run-time">{time_part}</span><div class="cat-chips">{chips}</div></li>'
+            history_links += f'''<li class="history-day">
+  <div class="history-day-header"><span class="history-date">📅 {date}</span></div>
+  <ul class="history-runs">{run_rows}</ul>
+</li>'''
 
         index_template = f"""
         <!DOCTYPE html>
@@ -155,13 +158,18 @@ def build_site():
                 a {{ color: var(--primary-blue); text-decoration: none; }}
                 a:hover {{ text-decoration: underline; }}
                 
-                .history {{ margin-top: 60px; padding-top: 30px; border-top: 2px solid #eee; font-size: 0.9em; color: #666; }}
-                .history-day {{ list-style: none; margin-bottom: 14px; }}
-                .history-date {{ font-weight: bold; color: #333; display: block; margin-bottom: 4px; }}
-                .history-runs {{ list-style: none; padding-left: 12px; margin: 4px 0 0 0; }}
-                .history-runs li {{ margin-bottom: 4px; line-height: 1.6; }}
-                .run-time {{ color: #999; font-size: 0.88em; margin-right: 6px; }}
-                .history ul {{ padding-left: 0; }}
+                .history {{ margin-top: 60px; padding-top: 30px; border-top: 2px solid #eee; }}
+                .history h3 {{ font-size: 1em; color: #888; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; border: none; margin-bottom: 16px; }}
+                .history-list {{ list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }}
+                .history-day {{ list-style: none; background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 8px; overflow: hidden; }}
+                .history-day-header {{ display: flex; align-items: center; gap: 10px; padding: 10px 14px; background: #f1f3f5; border-bottom: 1px solid #e9ecef; }}
+                .history-date {{ font-weight: 700; color: #333; font-size: 0.92em; }}
+                .history-runs {{ list-style: none; padding: 8px 14px; margin: 0; display: flex; flex-direction: column; gap: 6px; }}
+                .history-run-row {{ display: flex; align-items: flex-start; gap: 10px; }}
+                .run-time {{ color: #aaa; font-size: 0.8em; font-variant-numeric: tabular-nums; white-space: nowrap; padding-top: 3px; min-width: 38px; }}
+                .cat-chips {{ display: flex; flex-wrap: wrap; gap: 5px; }}
+                .cat-chip {{ display: inline-block; padding: 2px 9px; background: #fff; border: 1px solid #dee2e6; border-radius: 12px; font-size: 0.78em; color: #495057; text-decoration: none; transition: background 0.15s, border-color 0.15s; }}
+                .cat-chip:hover {{ background: #0366d6; border-color: #0366d6; color: #fff; text-decoration: none; }}
                 
                 @media (max-width: 900px) {{
                     .main-wrapper {{ flex-direction: column; }}
@@ -189,8 +197,8 @@ def build_site():
                     {content_html}
                     
                     <div class="history">
-                        <h3>📚 歷史情報存檔 (Archive)</h3>
-                        <ul>{history_links}</ul>
+                        <h3>歷史情報存檔</h3>
+                        <ul class="history-list">{history_links}</ul>
                     </div>
                 </main>
             </div>
