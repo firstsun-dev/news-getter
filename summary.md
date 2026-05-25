@@ -1,39 +1,44 @@
-# 📅 每日情報精選 (2026-05-25 10-48)
+# 📅 每日情報精選 (2026-05-25 22-41)
 
 > 💡 首頁僅顯示最核心重點。如需深入分析，請點擊各分類下方的『完整深度報告』連結。
 
-* **中東地緣重塑與能源供應鏈轉機**：川普強勢要求伊朗重啟承載全球20%原油流量的荷姆茲海峽，此談判框架有望大幅降低航運風險溢價，惟短期內油價高檔震盪風險猶存。[原文連結](https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss)
+* 瑞典正將國防支出轉為驅動「軍民兩用技術」的創新投資，私營部門需將國家安全納入營運核心，以實現軍事震懾與經濟繁榮的雙軌平衡。[原文連結](https://www.mckinsey.com/se/our-insights/enhancing-swedish-security-through-deterrence-and-prosperity)
+* AI 帶來的指數級生產力爆發正使傳統管理層淪為組織效能瓶頸。企業必須捨棄線性審批模式，推動管理者從「任務監督」轉型為專注戰略編排與高同理心的人機協作引導者。[原文連結](https://hbr.org/2026/05/managers-are-struggling-to-keep-up-with-the-ai-productivity-boom)
 
-* **俄羅斯實戰部署高超音速飛彈**：俄軍首度對烏克蘭使用逾10倍音速的「Oreshnik」新型飛彈，宣告傳統防禦系統失效，將直接引爆全球軍備防禦與雷達升級的新一輪軍工競賽。[原文連結](https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss)
+- 美伊關係因荷姆茲海峽重啟談判陷入博弈，市場對中東能源供應鏈恢復穩定的預期已促使國際油價顯著回落。[原文連結](https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss)
+- 俄羅斯動用高超音速飛彈重創烏克蘭基礎設施，此戰略性軍事技術升級極大化防空攔截難度，恐引發全球新一輪反導系統軍備競賽。[原文連結](https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss)
+- 沙烏地阿拉伯「願景 2030」因長期高息與油價波動面臨財政承載瓶頸，多項超大型建設計畫被迫縮編，顯示中東資本流向已趨於保守與謹慎。[原文連結](https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss)
 
-* **沙國「願景 2030」面臨財務限縮**：沙烏地阿拉伯主權基金因財務壓力迫使包含 NEOM 在內的多項超大型工程延宕，全球外資與工程巨頭正全面重新評估其合約履約與資金流動性風險。[原文連結](https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss)
+* 美伊和平協議預期促使布蘭特原油跌破百元大關，全球通膨壓力暫緩，資金正加速轉向黃金以鎖定避險利潤。[原文連結](https://www.investing.com/news/commodities-news/oil-slides-5-with-brent-below-100barrel-on-usiran-peace-hopes-4708246)
+* 科技巨頭為支應 AI 基礎設施龐大的軍備競賽，正大舉湧入債券市場發債，企業戰略從輕資產急遽轉向重資產模型。[原文連結](https://www.ft.com/content/ae38705c-993c-4680-8500-86d0642f85e4)
+* 各國政府救市的「政策選擇權」（Policy Put）宣告終結，面對急遽萎縮的財政與貨幣空間，資本市場必須重新定價尾部風險。[原文連結](https://www.ft.com/content/dcdba95d-c997-4744-8883-018db8874679)
 
-* **地緣溢價消退，原油跌破百元**：美伊和平協議預期升溫促使交易員大舉撤除地緣風險溢價，布蘭特原油重挫並跌破每桶 100 美元大關。[原文連結](https://www.investing.com/news/commodities-news/oil-slides-5-with-brent-below-100barrel-on-usiran-peace-hopes-4708246)
-* **ECB 示警 AI 系統性風險**：歐洲央行緊急召集銀行高層，警告現行 AI 決策模型在極端市場下存在嚴重缺陷與不穩定性，金融業將面臨嚴格合規挑戰。[原文連結](https://www.ft.com/content/482c56aa-6d2b-4456-9d33-b42dc30788bd)
-* **預測市場重擊傳統博弈產業**：受新型預測市場搶奪份額與英國重稅夾擊，傳統博弈產業遭空頭大舉狙擊，做空機構獲利已突破 23 億美元。[原文連結](https://www.ft.com/content/c0d4d62f-31ae-4ac8-bae1-622e007e3752)
+- 波克夏打破傳統投資禁忌，大舉建倉 AI 龍頭企業；此策略轉向預期將墊高 AI 產業的估值底線，並引導長期保守資金加速進場。[原文連結：Yahoo Finance](https://news.google.com/rss/articles/CBMipAFBVV95cUxNQm5fX1VlMzl6bUVVUnZteE1sYmNGbHdjWlFtWXpVRWFFR05mMzhuNVV5WU1hSllSckRBLWhjY2ZxU1pBbjEzYjhzNUlYMVYzWGFUdlROV0RaSkxIamlUMXpqLVRQaFVQU2RBNTRPWVJtZlEwRWlkcjZpbDZxUVdsTk9RSi1QbUtPOFNXQnZBSTMwanZ2cXFiVm5TNFZHUG41a1ltcw?oc=5) | [原文連結：The Motley Fool](https://news.google.com/rss/articles/CBMilgFBVV95cUxQREtBSWFXZ2ptVzRpZkM5amZPUnBybG9NRm1nT0V4b3QzYjMwQnRKQzc4SXVzVml2VUh6bEwyTWV2eVNnVjVibi1GNjR4emdua3pGdVdLSnNfcXZ3UzFTTFdfeG9qQU01eEtOTnhyUk5XRllKX3Q1aHF0alg0WW16Z29CSENtZno5WF9GakZyZlZZeTkwQ1E?oc=5)
 
-- **史詩級持股肅清釋出過熱警訊**：波克夏近期大舉拋售非核心部位以強化防禦，向市場發出美股估值過高、修正將至的冷酷信號。 [原文連結](https://news.google.com/rss/articles/CBMinAFBVV95cUxObFcxa0tyNHR2LVp4dXJNRGlfeVlLSThpNEQzWm9CakpzN3VBNXFidlBhcWNfekFrbUtfRFdock8xQXhEQ2Vvc2tDaUhLVHpkZFBKRTludnl5aXc1ZWRUeUVrZHlOTGFXM3J3aXVhd3M4QmZPRUc0UHRWaVB3SVF3QWpQUW1ERjRmazFwM3BMM1Y2OXFHSkM5RnRYQUk?oc=5)
-- **1,890億美元現金池伺機而動**：管理層拒絕於高點盲目建倉，囤積歷史新高現金儲備，蓄勢在未來經濟衰退中收割超額危機回報。 [原文連結](https://news.google.com/rss/articles/CBMiogFBVV95cUxOYnoxNU5XV0tlTXYxakQyUDlkWFBKMUlHSV83OEpzQUNXR1B4cGhweVRUWFpXLWdhekozcUVVVFY2YVh5anFNNS1NSDVQd1FlYmNUUGhDUkdFUUFya3BPaW1PVmQzXzNRQjd3ZnNvS3ExVFA0OU45Mm1VTkxBTlRiVEFoTHhoUTdURV95WkFzWUxSczl3RTNBa2xCTjgtM3MtZEE?oc=5)
-- **打破傳統的AI戰略重組**：波克夏正突破過往「不碰不懂科技」的框架，大舉布局 AI 基礎建設，確立後巴菲特時代的新成長引擎。 [原文連結](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY2M2dHZGdUVkNlgwVU9HRjFySTM2Zm1jNnYxY0xFV1J5X2Rybm12X2NudDlxbDNnSHJLUkUtX1k3c29hN09RZk1rTmpTYzFMOHpqeTlFeU52RDBlTTNnb05TQVpGeWNydTBiRWhpUi00RUZyYjV6MktlVEVZUTl4eG5MYW5jZzlBV3ExWV8xQ0ZhamQwNkEzN0Vtc05FVVNWZG1ic0FRdHo?oc=5)
+- 蓋茲基金會徹底清倉微軟，將近半資產極度集中押注波克夏；這項罕見的重組凸顯其從追求科技成長，轉向防禦性穩健收益的戰略劇變。[原文連結：TradingView](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNDNCYjNBazJNRm41dzlxb1V5ZjlCQldvdERIbWd5RHhabl9XV3NrQnE1TWhXQVVpTU10N25GcWw1WFFHQUlrTmk2cVFnNEFGZlB0VzBicjNYUmN1UEJ6TlJPNGFtUHBxLTdvYzlGcGlJeXVaRzFYRHZsaGFFMERrMGdveHdNcHYyOWFGNnd4RG90Z2FHb0NPYjY5MWpoQ1ZyTEZ4ODd0NnU3UFF4b0N5N2E5VmRLR2JxaWRn?oc=5) | [原文連結：Gotrade](https://news.google.com/rss/articles/CBMikwFBVV95cUxOcGo3UVFwR05uUmxYMFVyc1NFR1haS05qdnJFQTRRZlpsQU1xOFZwcFd0WnB0SHZmRHEycWppa00xNXBSVDRTdTRsMzNKNHc0bVN1dHVNTE5JR2pFNTRrQTRDSGVud0Q5SzMyN0FNSmttaDRlN2cyM0d5bFV0dzJ5MUF3V25Nb1lKSHM1V1l4aDl0ZWc?oc=5)
 
-- **算力霸權與系統戰**：輝達與台積電確立「全球科技聯準會」地位，將 AI 算力化為新世代基礎設施。同時，超微（AMD）宣告 AI 賽局進入系統戰，算力、散熱與能源管理已成未來三年的生死指標。[原文連結](https://finance.technews.tw/2026/05/25/nvidia-ceo-jensen-huang-is-flying-to-taiwan-nearly-every-month-asking-for-more-gpus/)
+- 受制於龐大的資產規模與量化交易普及，波克夏長期擊敗標普 500 指數的超額收益能力正顯著萎縮；市場資金未來可能進一步流向低成本的被動型 ETF 基金。[原文連結：CNBC](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdjhoNEZZR25CeUZXemUzWVVtNkhSQUg4ekc3QTVhanBUNHEzNmRsdDlCbklsbTQ5MWpkdGdQNE5RWnFRS2VCbFk4R0t1R3BWRkI1NVlPTFZjN3BEVjMxWG94SzJFYkgySjROMy03QUE1Y1FXVVE0bTdWM25jdGZpMVdzZVo0cVpFcXByY2w5Y2ZQdFFOMkdESHZWdUZ5clFLMXZLNW5HZm8?oc=5)
 
-- **代理式 AI 顛覆勞動力**：AI 正跳脫單純軟體工具範疇，強勢入侵規模達 6.1 兆美元的知識勞動力市場。商業邏輯隨之重構，企業必須建立高透明度的數據架構，以迎合極致理性的 AI 採購代理人。[原文連結](https://techorange.com/2026/05/25/ai-competition-expands-from-space-infrastructure-to-enterprise-labor-budgets/)
+* Google DeepMind 的 AlphaProof Nexus 系統結合語言模型與形式化驗證，成功解決懸宕 56 年的 Erdős 數學難題，標誌 AI 已具備研究級的長程邏輯推理能力。[原文連結](https://www.therundown.ai/p/google-tops-openai-math-breakthrough-9-to-1)
+* 專為 AI 經濟設計的 Foundation Protocol (FP) 提出「以圖為中心」的網路層，將為未來代理間的跨組織協作、工具調用與價值交換奠定基礎設施。[原文連結](https://arxiv.org/abs/2605.23218)
+* 針對代理系統多步編排的高耗能特性，學界提出「每個成功目標的能耗 (EpG)」新衡量標準，將迫使產業焦點從優化單次推理成本轉向任務級的能源效率。[原文連結](https://arxiv.org/abs/2605.22883)
 
-- **地緣政治與人才重組**：川普政府的高關稅與緊縮移民政策正重創矽谷高階人才庫，恐削弱美國科技主導權。此宏觀變局迫使跨國巨頭加速海外研發佈局，並進一步極化台灣半導體的戰略支點風險。[原文連結](https://technews.tw/2026/05/25/trump-administration-to-make-green-card-applicants-file-overseas/)
+* **AI 模型進入殘酷價格戰**：DeepSeek 旗艦模型永久降價 75%，API 成本降至 GPT-5.5 的幾十分之一，標誌著 AI 競爭重心正式由「參數規模」轉向「推理成本比」。 [原文連結](https://technews.tw/2026/05/25/deepseek-v4-pro-s-75-percent-discount-is-now-permanent/)
+* **COMPUTEX 確立系統級運算霸權**：輝達與超微齊聚台北，推動運算架構從單一晶片轉向整合光學與系統級競爭，鞏固台灣在全球 AI 伺服器供應鏈的核心節點地位。 [原文連結](https://technews.tw/2026/05/25/computex-becomes-front-line-of-global-ai-competition/)
+* **AI 驅動資安防禦體系重構**：Anthropic 資安模型單月偵測三萬個漏洞，迫使企業防護從「找漏洞」轉向「AI 對抗 AI」的自動化治理，現行資安體系正面臨崩潰邊緣。 [原文連結](https://www.ithome.com.tw/news/176076)
 
-*   **台股極端軋空破 4.2 萬點**：大盤強勢突破 42,000 點引爆「無腦多」情緒，資金高度集中科技權值股，需嚴防過熱後的回調風險。[原文連結](https://www.ptt.cc/bbs/Stock/M.1779669024.A.04A.html)
-*   **美光供應鏈戰略分層**：美光斥資兩千億美元將成熟製程移回美國本土，台日廠則專攻先進製程，確立全球記憶體產業的新分工版圖。[原文連結](https://www.ptt.cc/bbs/Stock/M.1779664174.A.BCA.html)
-*   **高鐵全線癱瘓暴露基建風險**：台灣高鐵因嚴重訊號異常導致單日班表全數取消，重創全國交通物流，凸顯國家核心基礎設施的數位韌性缺陷。[原文連結](https://udn.com.tw/news/story/7266/9523281)
+- **多頭情緒極端化與過熱警訊**：社群熱議「擦鞋童理論」且期貨市場形成「無腦多」共識，反映內資買盤極度強勢，需警惕市場對風險忽視所醞釀的多殺多危機。[原文連結](https://www.ptt.cc/bbs/Stock/M.1779719064.A.4E4.html)
+- **槓桿資金版圖洗牌**：群益正二 (00685L) 規模正式超越國泰正二 (00663L)，顯示散戶追逐波段增益的積極性大增，內資在槓桿市場的影響力正重新分配。[原文連結](https://www.ptt.cc/bbs/Stock/M.1779719216.A.EDB.html)
+- **AI 狂潮引發資金排擠效應**：外資重金狂掃台積電等權值三雄，AI 供應鏈的暴利預期吸乾市場流動性，導致金融股在台股創新高之際逆勢承壓。[原文連結](https://www.ptt.cc/bbs/Stock/M.1779713842.A.9AF.html)
 
-* 美伊和平協議預期大幅降低中東地緣風險，帶動日經指數史無前例突破6.5萬點大關，全球資金加速湧向科技與製造產業。[原文連結](https://ec.ltn.com.tw/article/breakingnews/5448302)
-* 受惠 AI 需求續強與外資大舉匯入，台股狂飆千點且新台幣強勢升破31.5元，凸顯全球市場對台灣半導體核心地位的高度信心。[原文連結](https://ec.ltn.com.tw/article/breakingnews/5448420)
-* 因應共軍遠海戰略威脅，國防部定調增購海馬士多管火箭與反甲無人機，全面轉向機動、精準打擊的不對稱作戰防禦體系。[原文連結](https://news.ltn.com.tw/news/politics/breakingnews/5448400)
+* 德國國會訪團重申台德交往不受中方干涉，象徵歐盟核心大國對台政策正由純經貿轉向具備實質意義的戰略交往。 [原文連結](https://news.ltn.com.tw/news/politics/breakingnews/5449273)
+* 國防部嚴密監控中共 21 架次「聯合戰備警巡」，空軍釋出 F-16 緊盯銀川艦畫面，展現常態化軍事威脅下的防衛實力。 [原文連結](https://news.ltn.com.tw/news/def/breakingnews/5449316)
+* 首檔主動式 ETF 00996A 憑藉精準佈局 AI 權值股掛牌即創新高，反映市場資金在 AI 浪潮下高度集中於半導體成長動能。 [原文連結](https://ec.ltn.com.tw/article/breakingnews/5449301)
 
-* **工作介面重塑**：未來辦公環境將從傳統 GUI 全面轉向類開發環境（如 Claude Code），非技術人員的技能核心將轉變為模型操控與邏輯編排。[原文連結](https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper)
-* **企業級超級代理人**：企業通訊平台將部署全能型 AI「超級代理人」，作為串接內部數據與流程的唯一樞紐，大幅降低跨部門資訊不對稱。[原文連結](https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper)
-* **SaaS 經濟模型革命**：「自備代幣 (BYOT)」模式將讓使用者自行承擔 AI 推理成本，從根本上解決軟體供應商的財務負擔並驅動毛利擴張。[原文連結](https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper)
+* **終結數據輸入的自動化哲學**：主張「向上提升一個抽象層級」，利用 AI 從郵件等原始通訊中自動提取結構化數據，使未來的管理工具趨於「隱形化」並取代傳統表單介面。[原文連結](https://www.lennysnewsletter.com/p/how-the-engineer-behind-claude-cowork)
+* **Live Artifacts 引發的 UI 革命**：AI 正從靜態回應進化為動態 UI 生成引擎，能根據對話即時構建實時數據儀表板，徹底模糊了聊天視窗與應用程式的界線。[原文連結](https://www.lennysnewsletter.com/p/how-the-engineer-behind-claude-cowork)
+* **任務導向的模型選擇矩陣**：打破最強模型迷思，改以「問題範疇明確度」作為路由指標，在探索性任務使用 Opus、執行性任務使用 Sonnet，極大化企業的成本效能比。[原文連結](https://www.lennysnewsletter.com/p/how-the-engineer-behind-claude-cowork)
 
-* 高達 99% 的企業執行長預期兩年內將因 AI 引發裁員潮，促使實體製造業的高階藍領技能成為勞動力市場的新興避險資產。[原文連結](https://www.reddit.com/r/technology/comments/1tmllhb/99_of_ceos_expect_aidriven_layoffs_in_the_next/)
-* 市場預警 2027-2028 年將面臨 AI 資本支出泡沫破裂，若軟體應用端的變現能力無法追上龐大的基建開銷，硬體估值將面臨劇烈修正。[原文連結](https://www.reddit.com/r/stocks/comments/1tmeggj/the_capex_unwind_thesis_2027_2028/)
-* 從畢業典禮的噓聲到設計師撕毀 AI 講稿，普羅大眾對科技異化的反感正形成強大的社會阻力，迫使科技巨頭重新思考人文精神在 AI 時代的權重。[原文連結](https://www.reddit.com/r/technology/comments/1tmkjwt/google_ceo_sundar_pichai_says_booing_graduates/)
+*   **勞動力結構洗牌**：高達 99% 企業高管預期 AI 將在兩年內引發實質裁員，應用定位正從「輔助工具」全面轉向對產出負責的「AI 員工」。白領階層的職位取代威脅已具體化，迫使企業加速結構性重組。[原文連結](https://www.reddit.com/r/technology/comments/1tn8jli/99_of_executives_expect_ai_to_trigger_layoffs/)
+*   **深偽引爆信任危機**：實時深偽技術已具備低門檻偽造頂流身分的能力，直接摧毀遠程辦公與身分驗證的安全基礎。數位社會信任成本面臨失控飆升，推動硬體級「視覺真實認證」標準成為產業急所。[原文連結](https://www.reddit.com/r/technology/comments/1tn5klr/streamer_realtime_deepfakes_himself_into_mr_beast/)
+*   **「反 AI 溢價」時代降臨**：宗教權威發布通諭警告算法「去人性化」風險，結合創意界對 AI 生成內容的強烈抵制，社會正醞釀對技術極權的反撲。未來商業價值將高度聚焦於具備透明審計軌跡與人類真實性的產品。[原文連結](https://www.reddit.com/r/technology/comments/1tn5g7s/pope_leo_issues_ai_encyclical_warning_that_opaque/)
