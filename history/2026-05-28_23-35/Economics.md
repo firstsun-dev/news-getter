@@ -1,0 +1,50 @@
+# Economics 深度專報 (2026-05-28 23-35)
+
+---
+
+# 🌍 全球經濟深度分析週報：2026年5月28日號
+
+## 專題一：中國戶籍制度（戶口）的靜默革命：從「身分管理」轉向「市民化」
+**標題**：*Without fanfare, China is making rural migrants’ lives easier*
+
+### 1. 事件背景與核心政策轉型
+過去十年，中國政府在不張揚的情況下，正穩步推進其最臭名昭著的「戶籍（戶口）制度」改革。核心舉措在於國務院近期頒布的《推動常住地提供基本公共服務》計畫，這標誌著中國城市管理邏輯的根本性轉變：將社會服務與「出生地（戶籍地）」脫鉤，轉而與「實際居住與工作地」掛鉤。這種「以人為本」的城市化進程，旨在消除城鄉二元體制長期以來對約 1.8 億農民工的結構性歧視。  
+[原文連結](https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier)
+
+### 2. 產業衝擊與社會進程數據
+這項改革對勞動力流動與人力資本積累具有深遠影響。數據顯示，所謂的「留守兒童」比例已從 2014 年的 62% 大幅下降至 2024 年的 40% 以下，反映出更多家庭得以在城市團聚。截至 2025 年，高達 98% 的農民工子女已在城市公立或受政府資助的學校入學，這將顯著提升下一代勞動力的技能素質，緩解製造業與服務業的長期用工結構矛盾。  
+[原文連結](https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier)
+
+### 3. 六大公共服務優先維度分析
+改革重點鎖定在六大民生領域：教育均等化、公共租賃住房擴大化、基本醫療保險異地化、職工養老保險參與度提升、就業培訓服務以及對弱勢群體的「最後一道防線」社會救助。透過全國性推廣「居住證」制度，農民工不再需要正式變更戶籍身分，即可獲得實質上的市民待遇。這不僅降低了勞動力流動的交易成本，也為後續的財政補貼提供了更精確的目標定位。  
+[原文連結](https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier)
+
+### 4. 未來觀察重點：地方財政與消費動能
+**未來觀察點 A：地方財政的可持續性**。目前改革最大的阻礙在於地方政府的預算壓力，許多城市在需求超過供給時仍保留「配額制」，實際獲得服務的機會仍取決於當地財政實力。  
+**未來觀察點 B：預防性儲蓄的釋放**。經濟學家正密切關注，當農民工獲得更穩定的社會安全網後，是否會減少「預防性儲蓄」並轉向消費，從而釋放出數兆元人民幣的內需潛力，推動中國經濟轉向雙循環驅動模式。  
+[原文連結](https://www.economist.com/finance-and-economics/2026/05/28/without-fanfare-china-is-making-rural-migrants-lives-easier)
+
+---
+
+## 專題二：太空經濟的財政新邊疆：跨行星賦稅制度的興起
+**標題**：*How to tax businesses in orbit and beyond*
+
+### 1. 事件背景：外太空「避稅天堂」的終結
+隨著 SpaceX 於 2026 年完成歷史性的 IPO 及其「星艦（Starship）」級軌道數據中心的規模化部署，太空經濟已不再是科幻概念，而是實質性的全球產值貢獻者。然而，現行的 1967 年《外太空條約》規定太空不屬於任何國家的主權範圍，這造成了法律上的「無主地（Jurisdiction of Nowhere）」困境。企業正試圖利用這種法律真空進行規避賦稅，迫使國際組織必須重新定義什麼是太空中的「永久機構（Permanent Establishment）」。  
+[原文連結](https://www.economist.com/finance-and-economics/2026/05/28/how-to-tax-businesses-in-orbit-and-beyond)
+
+### 2. 產業衝擊：太空 AI 與數據中心的監管挑戰
+太空基礎設施的建設正引發一場關於資產課稅的辯論，特別是部署在軌道的 AI 算力節點。這些設施透過規避地表的能源約束與分區法規獲利，但若價值是在「真空」中產生的，現有的 terrestrial 稅務體系將難以捕捉這些收入。這可能導致科技巨頭將利潤轉移至軌道實體，引發地表與太空之間的財政失衡，並對全球最低稅負制（Global Minimum Tax）構成重大挑戰。  
+[原文連結](https://www.economist.com/finance-and-economics/2026/05/28/how-to-tax-businesses-in-orbit-and-beyond)
+
+### 3. 資源開採與「公有財」規費機制
+針對月球及小行星礦產開發，國際間正討論引入一種類似「深海採礦」或「國家石油特許權」的權利金模型。目前的衝突點在於以美國《阿提米絲協議（Artemis Accords）》為首的「先驅國家」主張鼓勵投資，而「全球南方（Global South）」國家則援引「人類共同繼承財產」原則，要求對太空資源開採課徵全球共享稅。這種地緣政治衝突將直接決定未來太空資源開發的成本結構與投報率模型。  
+[原文連結](https://www.economist.com/finance-and-economics/2026/05/28/how-to-tax-businesses-in-orbit-and-beyond)
+
+### 4. 未來觀察重點：皮古稅（Pigouvian Tax）與第三支柱
+**未來觀察點 A：太空碎片稅（Space Debris Tax）**。各國正研議對每顆衛星徵收約 23.5 萬美元的「軌道占用費」，旨在將「公地悲劇（太空垃圾）」外部成本內部化，迫使營運商在衛星壽命結束前強制脫軌。  
+**未來觀察點 B：OECD Pillar Three**。預計 OECD 將在 2027 年前提報「全球稅務改革第三支柱（Pillar Three）」，專門處理地外商業活動的徵稅權分配，這將是自工業革命以來全球稅制最根本的一次重寫。  
+[原文連結](https://www.economist.com/finance-and-economics/2026/05/28/how-to-tax-businesses-in-orbit-and-beyond)
+
+---
+**報告簽署**：*產業分析師 Gemini CLI*
