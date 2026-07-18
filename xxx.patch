@@ -1,0 +1,303 @@
+From 6f887255a7d6031d66607a4c4b02525cce3eef3a Mon Sep 17 00:00:00 2001
+From: Claude <noreply@anthropic.com>
+Date: Sat, 18 Jul 2026 01:23:33 +0000
+Subject: [PATCH] Add spec for source tiering and evidence gate
+
+Docs-first spec (README/PRD/SYSTEM/TEST/TASKS) for adopting source
+tiering, deterministic scoring, story dedup, and AI schema validation
+before implementing the pipeline changes.
+---
+ .../PRD.md                                    |  35 ++++++
+ .../README.md                                 |  25 ++++
+ .../SYSTEM.md                                 | 112 ++++++++++++++++++
+ .../TASKS.md                                  |  37 ++++++
+ .../TEST.md                                   |  40 +++++++
+ 5 files changed, 249 insertions(+)
+ create mode 100644 docs/specs/2026-07-18-source-tiering-and-evidence-gate/PRD.md
+ create mode 100644 docs/specs/2026-07-18-source-tiering-and-evidence-gate/README.md
+ create mode 100644 docs/specs/2026-07-18-source-tiering-and-evidence-gate/SYSTEM.md
+ create mode 100644 docs/specs/2026-07-18-source-tiering-and-evidence-gate/TASKS.md
+ create mode 100644 docs/specs/2026-07-18-source-tiering-and-evidence-gate/TEST.md
+
+diff --git a/docs/specs/2026-07-18-source-tiering-and-evidence-gate/PRD.md b/docs/specs/2026-07-18-source-tiering-and-evidence-gate/PRD.md
+new file mode 100644
+index 0000000..c290736
+--- /dev/null
++++ b/docs/specs/2026-07-18-source-tiering-and-evidence-gate/PRD.md
+@@ -0,0 +1,35 @@
++# PRD：來源分級與收斂門禁
++
++## 1. 問題
++
++`feeds.yaml` 混合了官方一手來源（OpenAI News、ArXiv）、專業媒體（BBC、WSJ、iThome）、個人 newsletter（Ben's Bites）、社群熱度（Reddit、PTT）與聚合轉載（`Google News: *` 搜尋型 RSS）共約 40 個來源，但 `summarizer.py` 把它們同等看待餵給 Gemini。Gemini 輸出是不限篇幅的自由文字，沒有機制要求「引用連結必須來自輸入文章」，也沒有事實與判斷分離。`fetch.py` 每次抓取即拋棄（`raw_data.json` 沒新文章就整個刪除），`history/<timestamp>/` 之間互不關聯，同一則新聞在不同時段的抓取會被當成新事件重複寫深度分析，也無法回答「這則消息有幾個獨立來源」。
++
++## 2. 目標
++
++1. 每個 `feeds.yaml` 來源標註 `tier`（1-4）與 `role`（primary/professional/expert/aggregator/heat），`fetch.py` 把這兩個欄位帶進每篇文章紀錄。
++2. 抓取結果持久化到本機 SQLite（`news.db`），用 URL/標題指紋去重，累積同一則新聞的 `seen_count` 與獨立來源列表，取代目前拋棄式的 `raw_data.json`。
++3. 用累積後的 tier、獨立來源數、`seen_count` 算出確定性的 `confidence`/`heat` 分數，只把達到門檻的 story 送進 Gemini 深度分析，其餘保留但不深度處理。
++4. Gemini 輸出改為結構化 JSON（`fact_summary`/`judgment`/`used_source_urls`），本機用 Pydantic 校驗：`used_source_urls` 必須是輸入文章連結的子集、長度與占位詞檢查未過就整條丟棄，不寫進 `summary.md`/`history/`。
++5. `build_site.py` 呈現時把「事實」與「判斷」拆成兩個視覺區塊，並顯示 confidence/heat 分數。
++
++## 3. 非目標
++
++- 不做多語言語意聚類或跨來源實體對齊；去重只做同一則新聞的 URL/標題指紋比對。
++- 不引入外部資料庫服務；仍用本機 SQLite 檔案，不改變 self-hosted runner 的部署模式。
++- 不讓 Gemini 決定 tier、分級規則或分數公式；這些永遠是本機確定性程式碼。
++- 不承諾每次執行都有通過門檻的深度分析內容；未達標時只出速報清單。
++- 不處理 `Google News` 搜尋源背後實際轉載媒體的身份解析（維持整體標記為 `aggregator`，不做到 Agent Pulse 那種「必須解析回原始發布方」的程度）。
++
++## 4. 用戶價值
++
++- 使用者能分辨「單一來源速報」與「多來源交叉驗證」的新聞，不再被 PTT 八卦和官方公告用同樣篇幅呈現。
++- 深度分析裡的每個判斷都附著至少一個輸入來源連結，降低 Gemini 編造細節但查無來源的風險。
++- 同一則新聞不會在每次抓取後被當成新事件重複寫一次深度分析，`history/` 增長速度與雜訊下降。
++
++## 5. 驗收
++
++- `python3 fetch.py` 後，`raw_data.json` 每篇文章都有 `tier`/`role`，數值與 `feeds.yaml` 一致。
++- 連續兩次抓到同一則新聞（不同 feed 或不同時間），`news.db` 對應 story 的 `seen_count` 遞增、`sources_json` 累積多個來源，而非產生兩筆獨立紀錄。
++- `scoring.py` 對 tier1+多來源 story 給出的分數高於 tier4 單一來源 story（有對應單元測試）。
++- 手動構造一筆「引用輸入之外連結」的假 Gemini 回應，`summarizer.py` 會丟棄它，不寫進 `summary.md`。
++- 完整跑一次 `./run_pipeline.sh`，`summary.md`/`index.html` 裡每個要點可見「事實」與「判斷」兩個獨立區塊，且顯示 confidence/heat 分數。
+diff --git a/docs/specs/2026-07-18-source-tiering-and-evidence-gate/README.md b/docs/specs/2026-07-18-source-tiering-and-evidence-gate/README.md
+new file mode 100644
+index 0000000..bb8ed8c
+--- /dev/null
++++ b/docs/specs/2026-07-18-source-tiering-and-evidence-gate/README.md
+@@ -0,0 +1,25 @@
++# 來源分級與收斂門禁
++
++- 狀態：草案
++- 日期：2026-07-18
++- 目標版本：Unreleased
++- 前置規格：無（本專案第一份規格文件）
++
++`news-getter` 目前把 `feeds.yaml` 裡所有來源（官方部落格、專業媒體、個人 newsletter、Reddit、PTT、Google News 搜尋聚合）不分權重地餵給本機 Gemini CLI，Gemini 自由發揮寫長文，沒有事實與判斷分離、沒有引用來源校驗，且每次抓取即拋棄，同一則新聞會被重複當成新事件深度分析。
++
++本規格參考 `agent-pulse` 的來源分級、確定性打分、AI 收斂 Schema 校驗與 Event 去重模型，訂出 news-getter 可執行的落地版本：來源加 tier/role → 抓取結果持久化去重 → 用累積證據算分 → AI 只能在輸入證據範圍內寫結構化 JSON，未通過 Schema/占位詞/引用校驗一律丟棄。
++
++## 文件
++
++- [PRD](PRD.md)：問題、目標、非目標與驗收
++- [SYSTEM](SYSTEM.md)：資料模型、邊界、打分公式、失敗與回滾
++- [TEST](TEST.md)：單元與端到端驗證
++- [TASKS](TASKS.md)：實施與驗收清單
++
++## 核心原則
++
++```text
++Tier 決定證據夠不夠；AI 只能在證據允許的範圍內寫判斷；Schema 校驗失敗就整條丟棄，不寫進任何輸出。
++```
++
++沒有合格 story 時，當次輸出可以只有速報、沒有深度分析，但必須留下可觀察的候選數、丟棄原因與分數依據。
+diff --git a/docs/specs/2026-07-18-source-tiering-and-evidence-gate/SYSTEM.md b/docs/specs/2026-07-18-source-tiering-and-evidence-gate/SYSTEM.md
+new file mode 100644
+index 0000000..ad4d195
+--- /dev/null
++++ b/docs/specs/2026-07-18-source-tiering-and-evidence-gate/SYSTEM.md
+@@ -0,0 +1,112 @@
++# SYSTEM：來源分級與收斂門禁
++
++## 1. 當前與目標差異
++
++```text
++當前：feeds.yaml（無分級）-> fetch.py 拋棄式抓取 -> raw_data.json（無累積）
++      -> summarizer.py 全量塞給 Gemini -> 自由格式長文 -> 原樣寫入 summary.md/history/
++
++目標：feeds.yaml（tier/role）-> fetch.py 抓取 -> store.py 去重累積 -> news.db（seen_count/sources）
++      -> scoring.py 算 confidence/heat -> 只把達門檻 story 送進 Gemini
++      -> Gemini 輸出結構化 JSON -> Pydantic 校驗（Schema/占位詞/引用子集）
++      -> 通過才寫入 summary.md/history/，build_site.py 拆事實/判斷兩區塊呈現
++```
++
++## 2. 資料模型
++
++### `feeds.yaml` 新欄位
++
++```yaml
++feeds:
++  - name: "OpenAI News"
++    url: "https://openai.com/news/rss.xml"
++    category: "AI"
++    tier: 1
++    role: "primary"
++```
++
++`tier`：1（官方一手）/ 2（專業媒體）/ 3（專家/個人 newsletter）/ 4（社群熱度或聚合）。
++`role`：`primary` / `professional` / `expert` / `aggregator` / `heat`。所有 `Google News: *` 搜尋型來源固定 `tier: 4, role: aggregator`，不分它掛在哪個 `category` 下。
++
++### `news.db`（SQLite，`store.py` 管理）
++
++```sql
++CREATE TABLE stories (
++  fingerprint    TEXT PRIMARY KEY,  -- sha256(canonical_url 或 normalize(title))
++  title          TEXT NOT NULL,
++  canonical_url  TEXT NOT NULL,
++  category       TEXT NOT NULL,
++  first_seen_at  TEXT NOT NULL,     -- ISO-8601 UTC
++  last_seen_at   TEXT NOT NULL,
++  seen_count     INTEGER NOT NULL DEFAULT 1,
++  sources_json   TEXT NOT NULL      -- JSON array of {name, tier, role}，去重後
++);
++```
++
++`store.upsert_story(article)`：以 fingerprint 查找，不存在則新建（`seen_count=1`）；存在則 `seen_count += 1`、`last_seen_at` 更新、`sources_json` 合併去重（依 `name` 去重，同名來源不重複累加）。
++
++## 3. 邊界
++
++### 送進 Gemini 的輸入 allowlist
++
++- story 的 `title`、`canonical_url`、`category`；
++- 本次抓取到的原文清理後文字（沿用現有 `clean_html` + 1200 字截斷）；
++- 累積後的 `tier`（取最小值，即最高權威）、`seen_count`、獨立來源數與名稱列表。
++
++不送整個 `news.db`、不送其他分類的 story、不送任何本機路徑或 feed 設定以外的中繼資料。
++
++### 輸出 Schema（Pydantic）
++
++```python
++class StoryDigest(BaseModel):
++    fact_summary: str = Field(min_length=20, max_length=400)
++    judgment: str = Field(min_length=20, max_length=600)
++    used_source_urls: list[HttpUrl] = Field(min_length=1, max_length=3)
++```
++
++`used_source_urls` 必須是輸入 story 本身（含其累積來源）canonical_url 的子集；`fact_summary`/`judgment` 兩個欄位都要跑占位詞正則（`待補充|TBD|TODO|placeholder`），命中即拒絕。
++
++## 4. 打分公式（`scoring.py`）
++
++```python
++def clamp(v: float) -> int:
++    return max(0, min(100, round(v)))
++
++def score_story(tiers: list[int], seen_count: int, distinct_sources: int) -> dict:
++    authority = 100 - (min(tiers) - 1) * 25       # tier1→100, tier2→75, tier3→50, tier4→25
++    confidence = clamp(authority * 0.7 + min(distinct_sources, 4) * 7.5)
++    heat = clamp(min(seen_count, 6) * 12 + min(distinct_sources, 4) * 10)
++    return {"confidence": confidence, "heat": heat}
++```
++
++只有 `confidence >= 60` 或 `heat >= 60` 的 story 送進 `prompt_deep`；其餘留在 `raw_data.json`/`news.db` 但不進入 Gemini 深度分析，於首頁精簡摘要標記為「觀察中」而非展開分析。分數不由 Gemini 產生或覆寫。
++
++## 5. 失敗與回滾
++
++- 單一 story 的 Gemini 輸出解析/校驗失敗：記錄 `logging.warning`，跳過該 story，不中斷同分類其他 story 的處理。
++- 全分類都沒有達到打分門檻的 story：該分類只輸出來源清單（標題+連結+tier），不呼叫 Gemini，`summary.md` 明確標示「本次無達標深度分析」而非留空白或報錯。
++- `news.db` 若不存在，`store.py` 啟動時自動建表；不影響既有 `history/`、`summary.md`、`index.html` 的手動回滾（直接 `git revert` 即可，與資料庫狀態無關，資料庫本身不進版控）。
++- `news.db` 加入 `.gitignore`，不提交進 repo（比照 agent-pulse 的本機資料庫不進版控原則）。
++
++## 6. Pipeline
++
++```text
++fetch.py
++  讀 feeds.yaml（含 tier/role）
++  抓取 -> store.upsert_story() 去重累積
++  寫 raw_data.json（本次新增/更新的 story，含 seen_count/sources/tier）
++        │
++        ▼
++scoring.py（被 summarizer.py 呼叫）
++  對每個 story 算 confidence/heat
++  分流：達門檻 -> 深度 prompt；未達門檻 -> 僅速報清單
++        │
++        ▼
++summarizer.py
++  Gemini 回傳 JSON -> Pydantic 校驗 -> 通過寫 history/*.md；失敗丟棄並記錄
++        │
++        ▼
++build_site.py
++  從驗證過的 StoryDigest 渲染事實/判斷分區塊 + confidence/heat 標籤
++  -> index.html / rss.xml
++```
+diff --git a/docs/specs/2026-07-18-source-tiering-and-evidence-gate/TASKS.md b/docs/specs/2026-07-18-source-tiering-and-evidence-gate/TASKS.md
+new file mode 100644
+index 0000000..8aa08b9
+--- /dev/null
++++ b/docs/specs/2026-07-18-source-tiering-and-evidence-gate/TASKS.md
+@@ -0,0 +1,37 @@
++# TASKS：來源分級與收斂門禁
++
++只有程式碼、測試與實跑證據齊備後才勾選。
++
++## 1. 規格
++
++- [x] 核對現有 `fetch.py`/`summarizer.py`/`build_site.py`/`feeds.yaml` 行為與問題
++- [x] 定義 tier/role 分類、`news.db` schema、打分公式與輸出 Schema
++- [x] 寫 PRD/SYSTEM/TEST 文件
++
++## 2. Phase 1 — 來源分級
++
++- [ ] `feeds.yaml` 全部 ~40 個來源標註 `tier`/`role`
++- [ ] `fetch.py` 把 `tier`/`role` 帶進 article dict 與 `raw_data.json`
++
++## 3. Phase 2 — 持久化與去重
++
++- [ ] 新增 `store.py`（`upsert_story`/`stories_since`），`news.db` 加入 `.gitignore`
++- [ ] `fetch.py` 改用 `store.upsert_story()`，拿掉「無新文章即刪除 `raw_data.json`」邏輯
++
++## 4. Phase 3 — 確定性打分
++
++- [ ] 新增 `scoring.py`（`score_story`），單元測試涵蓋 tier/独立來源/seen_count 對分數的影響
++- [ ] `summarizer.py` 依分數門檻分流「深度分析」與「速報清單」
++
++## 5. Phase 4 — AI 收斂 Schema 校驗
++
++- [ ] `requirements.txt` 加入 `pydantic`
++- [ ] `summarizer.py` 定義 `StoryDigest`，改寫 prompt 要求純 JSON 輸出，校驗失敗即丟棄並記錄
++- [ ] `build_site.py` 改為從 `StoryDigest` 渲染事實/判斷雙區塊 + confidence/heat 標籤
++
++## 6. 驗證
++
++- [ ] 單元測試（`test_fetch.py`/`test_store.py`/`test_scoring.py`/`test_summarizer_schema.py`）全過
++- [ ] 本地完整跑 `./run_pipeline.sh`，人工檢查輸出符合 PRD 驗收標準
++- [ ] 確認 `news.db` 不進入 git 追蹤
++- [ ] 更新 `CLAUDE.md`／`README.md` 反映新的 pipeline 行為
+diff --git a/docs/specs/2026-07-18-source-tiering-and-evidence-gate/TEST.md b/docs/specs/2026-07-18-source-tiering-and-evidence-gate/TEST.md
+new file mode 100644
+index 0000000..b2dd36f
+--- /dev/null
++++ b/docs/specs/2026-07-18-source-tiering-and-evidence-gate/TEST.md
+@@ -0,0 +1,40 @@
++# TEST：來源分級與收斂門禁
++
++## 1. 單元測試（`unittest`，不新增測試框架）
++
++- `test_fetch.py`：`fetch_feeds()` 產出的每篇文章帶有 `tier`/`role`，且與對應 `feeds.yaml` 項目一致。
++- `test_store.py`：
++  - 同一篇文章（相同 canonical_url）連續 `upsert_story()` 兩次，`seen_count` 從 1 變 2，`sources_json` 不重複累加同一來源。
++  - 同一則新聞被兩個不同 feed 命中（相同標題指紋、不同來源），`sources_json` 累積兩個獨立來源。
++- `test_scoring.py`：
++  - tier1 + 2 個獨立來源的 story，`confidence` 高於 tier4 + 1 個來源的 story。
++  - `seen_count` 越高，`heat` 分數越高（在封頂前）；封頂後不再上升。
++- `test_summarizer_schema.py`：
++  - 合法 JSON（`used_source_urls` ⊆ 輸入 URL 集合、長度在範圍內）通過 `StoryDigest` 校驗。
++  - `used_source_urls` 含輸入之外的網址 → 校驗失敗，story 被丟棄且不寫檔。
++  - `fact_summary`/`judgment` 命中占位詞正則 → 校驗失敗。
++  - 欄位長度超出/低於邊界 → 校驗失敗。
++
++## 2. 本地端到端驗證
++
++```bash
++cd news-getter
++python3 -m venv .venv && source .venv/bin/activate
++pip install -r requirements.txt
++python3 fetch.py    # 檢查 raw_data.json 含 tier/role/seen_count/sources
++python3 fetch.py    # 再跑一次，確認 news.db 中重複命中的 story seen_count 遞增
++python3 summarizer.py
++python3 build_site.py
++```
++
++檢查項：
++
++- `news.db` 用 `sqlite3 news.db "select fingerprint, seen_count, sources_json from stories order by seen_count desc limit 5;"` 確認去重與累積正確。
++- `summary.md`／`index.html` 裡每個深度分析要點可見「事實」與「判斷」兩個獨立區塊，且每個判斷至少附一個輸入來源連結。
++- 分數低於門檻的 story 只出現在速報清單，不進入深度分析區塊。
++- 手動修改一次 `run_gemini()` 回傳值，注入一個不在輸入 URL 集合內的連結，確認該 story 被丟棄（檢查 log 訊息與 `summary.md` 內容）。
++
++## 3. 回歸檢查
++
++- `./run_pipeline.sh` 完整跑一次不報錯，`git status` 顯示只有預期的檔案變更（`index.html`/`rss.xml`/`summary.md`/`history/`），`news.db` 不出現在 `git status`（已加入 `.gitignore`）。
++- `.github/workflows/daily-news.yml` 不需改動即可沿用（沒有新增環境變數需求，`pydantic` 已在 `requirements.txt`，`run_pipeline.sh` 的 `pip install -r requirements.txt` 會自動裝上）。
+-- 
+2.43.0
+

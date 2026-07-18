@@ -4,4 +4,4 @@ __pycache__/
 .DS_Store
 raw_content.txt
 summary_raw.md
-news.db
+data/news.db
