@@ -2,10 +2,12 @@ import feedparser
 import yaml
 import datetime
 from bs4 import BeautifulSoup
-import os
+from urllib.parse import urljoin
 import sys
 import json
 import requests
+
+import store
 
 def clean_html(html):
     if not html:
@@ -57,12 +59,26 @@ def fetch_feeds():
             all_articles.append({
                 "source": feed_info["name"],
                 "category": feed_info["category"],
+                "tier": feed_info["tier"],
+                "role": feed_info["role"],
                 "title": entry.title,
-                "link": entry.link,
+                "link": urljoin(feed_info["url"], entry.link),
                 "content": clean_html(content)[:1200]
             })
             
     return all_articles
+
+def persist_and_enrich(articles):
+    enriched = []
+    for art in articles:
+        story = store.upsert_story(art)
+        enriched.append({
+            **art,
+            "fingerprint": story["fingerprint"],
+            "seen_count": story["seen_count"],
+            "sources": story["sources"],
+        })
+    return enriched
 
 def save_structured_data(articles):
     categorized = {}
@@ -71,7 +87,7 @@ def save_structured_data(articles):
         if cat not in categorized:
             categorized[cat] = []
         categorized[cat].append(art)
-    
+
     with open("raw_data.json", "w", encoding="utf-8") as f:
         json.dump(categorized, f, ensure_ascii=False, indent=2)
 
@@ -79,12 +95,11 @@ if __name__ == "__main__":
     try:
         articles = fetch_feeds()
         if articles:
-            save_structured_data(articles)
-            print(f"Successfully fetched {len(articles)} articles and saved to raw_data.json")
+            enriched = persist_and_enrich(articles)
+            save_structured_data(enriched)
+            print(f"Successfully fetched {len(enriched)} articles and saved to raw_data.json")
         else:
             print("No new articles found.")
-            if os.path.exists("raw_data.json"):
-                os.remove("raw_data.json")
             sys.exit(0)
     except Exception as e:
         print(f"Error during fetching: {e}")

@@ -4,3 +4,4 @@ beautifulsoup4
 feedgen
 markdown
 requests
+pydantic

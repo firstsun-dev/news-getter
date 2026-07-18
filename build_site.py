@@ -33,6 +33,11 @@ def convert_md_to_html(md_path):
             li {{ margin-bottom: 8px; }}
             .nav {{ margin-bottom: 30px; font-size: 0.9em; }}
             hr {{ height: 0.25em; padding: 0; margin: 24px 0; background-color: #e1e4e8; border: 0; }}
+            .score-badge {{ display: inline-block; padding: 2px 10px; border-radius: 10px; font-size: 0.78em; font-weight: 600; margin-right: 6px; }}
+            .score-badge.confidence {{ background: #e7f0ff; color: #0353a4; }}
+            .score-badge.heat {{ background: #ffe9e0; color: #b5451b; }}
+            .fact-block {{ background: #f8f9fa; border-left: 4px solid #495057; padding: 10px 16px; margin: 10px 0; border-radius: 4px; }}
+            .judgment-block {{ background: #fffaf0; border-left: 4px solid #d9822b; padding: 10px 16px; margin: 10px 0; border-radius: 4px; }}
             @media (prefers-color-scheme: dark) {{ body {{ background: white; color: black; }} }}
         </style>
     </head>
@@ -187,6 +192,12 @@ def build_site():
                 .cat-chips {{ display: flex; flex-wrap: wrap; gap: 5px; }}
                 .cat-chip {{ display: inline-block; padding: 2px 9px; background: #fff; border: 1px solid #dee2e6; border-radius: 12px; font-size: 0.78em; color: #495057; text-decoration: none; transition: background 0.15s, border-color 0.15s; }}
                 .cat-chip:hover {{ background: #0366d6; border-color: #0366d6; color: #fff; text-decoration: none; }}
+
+                .score-badge {{ display: inline-block; padding: 2px 10px; border-radius: 10px; font-size: 0.78em; font-weight: 600; margin-right: 6px; }}
+                .score-badge.confidence {{ background: #e7f0ff; color: #0353a4; }}
+                .score-badge.heat {{ background: #ffe9e0; color: #b5451b; }}
+                .fact-block {{ background: #f8f9fa; border-left: 4px solid #495057; padding: 10px 16px; margin: 10px 0; border-radius: 4px; }}
+                .judgment-block {{ background: #fffaf0; border-left: 4px solid #d9822b; padding: 10px 16px; margin: 10px 0; border-radius: 4px; }}
                 
                 @media (max-width: 900px) {{
                     .main-wrapper {{ flex-direction: column; }}

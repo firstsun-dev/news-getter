@@ -3,123 +3,197 @@
 # - name: "名稱"
 #   url: "RSS 連結"
 #   category: "分類"
+#   tier: 1-4  (1=官方一手 / 2=專業媒體 / 3=專家或個人 newsletter / 4=社群熱度或聚合)
+#   role: primary / professional / expert / aggregator / heat
+#   註：所有 Google News 搜尋型來源（news.google.com/rss/search）一律 tier=4, role=aggregator，
+#      不論名稱或掛在哪個 category 下。
 
 feeds:
   # --- 策略、管理與深度報告 ---
   - name: "McKinsey Featured Insights"
     url: "https://www.mckinsey.com/rss.aspx"
     category: "Strategy"
+    tier: 2
+    role: "professional"
   - name: "Harvard Business Review"
     url: "http://feeds.harvardbusiness.org/harvardbusiness?format=xml"
     category: "Strategy"
+    tier: 2
+    role: "professional"
 
   # --- 全球政經與金融市場 ---
   - name: "BBC News"
     url: "https://feeds.bbci.co.uk/news/world/rss.xml"
     category: "Global"
+    tier: 2
+    role: "professional"
   - name: "The Economist"
     url: "https://www.economist.com/finance-and-economics/rss.xml"
     category: "Economics"
+    tier: 2
+    role: "professional"
   - name: "WSJ Markets"
     url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"
     category: "Finance"
+    tier: 2
+    role: "professional"
   - name: "Investing.com Bonds"
     url: "https://www.investing.com/rss/news_95.rss"
     category: "Finance"
+    tier: 2
+    role: "professional"
   - name: "Investing.com Gold"
     url: "https://www.investing.com/rss/news_11.rss"
     category: "Finance"
+    tier: 2
+    role: "professional"
   - name: "Financial Times Markets"
     url: "https://www.ft.com/markets?format=rss"
     category: "Finance"
+    tier: 2
+    role: "professional"
   - name: "Pew Research"
     url: "https://www.pewresearch.org/topic/international-affairs/feed/"
     category: "Global"
+    tier: 1
+    role: "primary"
 
   # --- 特定個股與投資 (Berkshire & Delta) ---
   - name: "CNBC Buffett Watch"
     url: "https://www.cnbc.com/id/19206666/device/rss/rss.html"
     category: "Investments"
+    tier: 2
+    role: "professional"
   - name: "Google News: Berkshire"
     url: "https://news.google.com/rss/search?q=Berkshire+Hathaway"
     category: "Investments"
+    tier: 4
+    role: "aggregator"
   - name: "Google News: 台達電"
     url: "https://news.google.com/rss/search?q=台達電"
     category: "Investments"
+    tier: 4
+    role: "aggregator"
 
   # --- 台灣能源與綠電趨勢 ---
   - name: "Google News: 台灣綠能 RE100"
     url: "https://news.google.com/rss/search?q=%E5%8F%B0%E7%81%A3%E7%B6%A0%E8%83%BD+RE100&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
     category: "Energy"
+    tier: 4
+    role: "aggregator"
   - name: "Google News: 離岸風電 太陽能"
     url: "https://news.google.com/rss/search?q=%E9%9B%A2%E5%B2%B8%E9%A2%A8%E9%9B%BB+%E5%A4%AA%E9%99%BD%E8%83%BD&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
     category: "Energy"
+    tier: 4
+    role: "aggregator"
   - name: "EnergyTrend (TrendForce)"
     url: "https://news.google.com/rss/search?q=EnergyTrend+TrendForce&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
     category: "Energy"
+    tier: 4
+    role: "aggregator"
 
   # --- AI 技術、論文與產業前線 ---
   - name: "OpenAI News"
     url: "https://openai.com/news/rss.xml"
     category: "AI"
+    tier: 1
+    role: "primary"
   - name: "Hugging Face"
     url: "https://huggingface.co/blog/feed.xml"
     category: "AI"
+    tier: 1
+    role: "primary"
   - name: "ArXiv AI Papers"
     url: "https://rss.arxiv.org/rss/cs.AI"
     category: "AI"
+    tier: 1
+    role: "primary"
   - name: "The Rundown AI"
     url: "https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml"
     category: "AI"
+    tier: 3
+    role: "expert"
   - name: "Ben's Bites"
     url: "https://www.bensbites.com/feed"
     category: "AI"
+    tier: 3
+    role: "expert"
   - name: "Lenny's Newsletter"
     url: "https://www.lennysnewsletter.com/feed"
     category: "Product/Growth"
+    tier: 3
+    role: "expert"
   - name: "MIT Tech Review"
     url: "https://www.technologyreview.com/feed/"
     category: "Technology"
+    tier: 2
+    role: "professional"
   - name: "Technews 科技新報"
     url: "https://technews.tw/feed/"
     category: "Technology"
+    tier: 2
+    role: "professional"
   - name: "iThome 最新新聞"
     url: "https://www.ithome.com.tw/rss"
     category: "Technology"
+    tier: 2
+    role: "professional"
   - name: "Digitimes TW"
     url: "https://www.digitimes.com.tw/rss/news.xml"
     category: "Technology"
+    tier: 2
+    role: "professional"
   - name: "TechOrange"
     url: "https://techorange.com/feed"
     category: "Technology"
+    tier: 2
+    role: "professional"
   - name: "數位時代 BNext"
     url: "https://feeds.feedburner.com/bnext"
     category: "Technology"
+    tier: 2
+    role: "professional"
 
   # --- 社群情緒與熱門討論 (Reddit & Social Search) ---
   - name: "Reddit r/technology"
     url: "https://www.reddit.com/r/technology/hot/.rss"
     category: "Social Sentiment"
+    tier: 4
+    role: "heat"
   - name: "Reddit r/artificial"
     url: "https://www.reddit.com/r/artificial/hot/.rss"
     category: "Social Sentiment"
+    tier: 4
+    role: "heat"
   - name: "Reddit r/stocks"
     url: "https://www.reddit.com/r/stocks/hot/.rss"
     category: "Social Sentiment"
+    tier: 4
+    role: "heat"
   - name: "X/FB Social Trends (via Google)"
     url: "https://news.google.com/rss/search?q=site:twitter.com+OR+site:facebook.com+trending+AI+economy&hl=en-US&gl=US&ceid=US:en"
     category: "Social Sentiment"
+    tier: 4
+    role: "aggregator"
 
   # --- 台灣在地社群 ---
   - name: "PTT Gossiping"
     url: "http://rss.ptt.cc/Gossiping.xml"
     category: "TW Social"
+    tier: 4
+    role: "heat"
   - name: "PTT Stock"
     url: "http://rss.ptt.cc/Stock.xml"
     category: "TW Social"
+    tier: 4
+    role: "heat"
   - name: "PTT Tech_Job"
     url: "http://rss.ptt.cc/Tech_Job.xml"
     category: "TW Social"
+    tier: 4
+    role: "heat"
   - name: "自由時報 (LTN)"
     url: "https://news.ltn.com.tw/rss/all.xml"
     category: "TW News"
+    tier: 2
+    role: "professional"
