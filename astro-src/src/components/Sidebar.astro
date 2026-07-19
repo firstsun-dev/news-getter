@@ -151,7 +151,7 @@ const { categories } = Astro.props;
           .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
         if (visible.length > 0) setActive(visible[0].target.getAttribute('data-cat-anchor'));
       },
-      { rootMargin: `-${getComputedStyle(document.documentElement).getPropertyValue('--topbar-h')} 0px -60% 0px`, threshold: 0 },
+      { rootMargin: `-${getComputedStyle(document.documentElement).getPropertyValue('--topbar-h').trim()} 0px -60% 0px`, threshold: 0 },
     );
     sections.forEach((s) => io.observe(s));
 
