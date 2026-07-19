@@ -5,6 +5,7 @@ import os
 import re
 import shutil
 import datetime
+import time
 
 import requests
 from pydantic import BaseModel, Field, HttpUrl, ValidationError
@@ -79,10 +80,16 @@ QWEN_BASE_URL = os.environ.get("QWEN_BASE_URL", "http://firstsun-nas:14000/v1")
 QWEN_API_KEY = os.environ.get("QWEN_API_KEY", "sk-HFyxxe83XuNhbz9BvyYo7g")
 QWEN_MODEL = os.environ.get("QWEN_MODEL", "delta/qwen3.5-112B")
 QWEN_TIMEOUT = float(os.environ.get("QWEN_TIMEOUT", "180"))
+QWEN_MAX_RETRIES = int(os.environ.get("QWEN_MAX_RETRIES", "3"))
+QWEN_RETRY_BACKOFF = float(os.environ.get("QWEN_RETRY_BACKOFF", "2"))
 
 
 def run_qwen(prompt):
-    """Call the local Qwen endpoint (OpenAI-compatible) and return raw text."""
+    """Call the local Qwen endpoint (OpenAI-compatible) and return raw text.
+
+    Retries up to QWEN_MAX_RETRIES times on connection errors, non-2xx HTTP,
+    or unparseable/empty responses, with exponential backoff (base^attempt seconds).
+    """
     url = QWEN_BASE_URL.rstrip("/") + "/chat/completions"
     headers = {
         "Authorization": f"Bearer {QWEN_API_KEY}",
@@ -95,29 +102,42 @@ def run_qwen(prompt):
         "temperature": 0.2,
     }
 
-    try:
-        resp = requests.post(url, headers=headers, json=payload, timeout=QWEN_TIMEOUT)
-    except requests.RequestException as e:
-        print(f"❌ Qwen 連線失敗: {e}")
-        return ""
+    last_reason = ""
+    for attempt in range(1, QWEN_MAX_RETRIES + 1):
+        try:
+            resp = requests.post(url, headers=headers, json=payload, timeout=QWEN_TIMEOUT)
+        except requests.RequestException as e:
+            last_reason = f"連線失敗: {e}"
+            print(f"❌ Qwen {last_reason} (attempt {attempt}/{QWEN_MAX_RETRIES})")
+        else:
+            if resp.status_code != 200:
+                last_reason = f"HTTP {resp.status_code}: {resp.text[:500]}"
+                print(f"Qwen {last_reason} (attempt {attempt}/{QWEN_MAX_RETRIES})")
+            else:
+                try:
+                    data = resp.json()
+                    content = data["choices"][0]["message"]["content"]
+                except (ValueError, KeyError, IndexError) as e:
+                    last_reason = f"回應解析失敗: {e}"
+                    print(f"Qwen {last_reason} (attempt {attempt}/{QWEN_MAX_RETRIES})")
+                else:
+                    content = (content or "").strip()
+                    if not content:
+                        last_reason = "空回應"
+                        print(f"Qwen {last_reason} (attempt {attempt}/{QWEN_MAX_RETRIES})")
+                    else:
+                        # 清理 AI 加上去的 code block
+                        if content.startswith("```"):
+                            content = "\n".join(content.splitlines()[1:-1]) if content.endswith("```") else "\n".join(content.splitlines()[1:])
+                        return content
 
-    if resp.status_code != 200:
-        print(f"Qwen HTTP {resp.status_code}: {resp.text[:500]}")
-        return ""
+        if attempt < QWEN_MAX_RETRIES:
+            delay = QWEN_RETRY_BACKOFF ** attempt
+            print(f"⏳ {delay:.1f}s 後重試…")
+            time.sleep(delay)
 
-    try:
-        data = resp.json()
-        content = data["choices"][0]["message"]["content"]
-    except (ValueError, KeyError, IndexError) as e:
-        print(f"Qwen 回應解析失敗: {e}")
-        return ""
-
-    content = (content or "").strip()
-
-    # 清理 AI 加上去的 code block
-    if content.startswith("```"):
-        content = "\n".join(content.splitlines()[1:-1]) if content.endswith("```") else "\n".join(content.splitlines()[1:])
-    return content
+    print(f"❌ Qwen 重試 {QWEN_MAX_RETRIES} 次仍失敗：{last_reason}")
+    return ""
 
 
 def group_stories(articles):
