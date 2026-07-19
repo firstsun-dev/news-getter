@@ -1,0 +1,32 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-07-19_14-17",
+  "stories": [
+    {
+      "title": "Russian ballistic missiles rock Kyiv, one killed, officials say",
+      "url": "https://www.investing.com/news/commodities-news/russian-ballistic-missiles-rock-kyiv-one-killed-officials-say-4799696",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據報導，俄羅斯發射彈道飛彈襲擊烏克蘭首都基輔，造成至少一人死亡。官方人員確認了此次襲擊事件及相關傷亡情況。",
+      "judgment": "此次俄羅斯對基輔的彈道飛彈襲擊，顯示俄軍持續對烏克蘭核心政治與經濟中心保持高強度軍事壓力。此類針對首都的攻擊往往意在打擊民心士氣並癱瘓行政運作，可能加劇全球對地緣政治風險的擔憂，進而推升能源與大宗商品價格波動。在衝突長期化的背景下，供應鏈中斷風險與保險成本上升將持續影響全球市場情緒，投資者需密切關注後續軍事動向對能源供應穩定性的潛在衝擊。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/russian-ballistic-missiles-rock-kyiv-one-killed-officials-say-4799696"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Iran’s Supreme Leader says US breaches show Trump’s signature is ’worthless’",
+      "url": "https://www.investing.com/news/commodities-news/irans-supreme-leader-says-us-breaches-show-trumps-signature-is-worthless-4799653",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "伊朗最高領袖表示，美國的違約行為顯示特朗普的簽名已毫無價值。此言論出自伊朗最高領袖對美國信譽的批評，強調美國在國際協議中的背信行為削弱了其承諾的可信度。",
+      "judgment": "伊朗最高領袖的言論反映了中東地緣政治緊張局勢的升級，可能對全球能源市場產生潛在影響。美國與伊朗之間的信任危機若持續惡化，可能導致區域不穩定，進而影響石油供應穩定性。此外，此類外交摩擦可能促使其他國家重新評估與美國簽訂國際協議的風險，長期來看可能削弱美元作為全球儲備貨幣的地位。然而，具體市場反應仍需觀察後續外交動態及實際政策變化。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/irans-supreme-leader-says-us-breaches-show-trumps-signature-is-worthless-4799653"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
