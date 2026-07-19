@@ -3,9 +3,9 @@ import { readdirSync, readFileSync, existsSync } from 'node:fs';
 import { resolve, join } from 'node:path';
 import Base from '../../../layouts/Base.astro';
 import Topbar from '../../../components/Topbar.astro';
+import Sidebar from '../../../components/Sidebar.astro';
 import CategoryCard from '../../../components/CategoryCard.astro';
 import BackToTop from '../../../components/BackToTop.astro';
-import { categoryHue } from '../../../lib/categoryHue.ts';
 
 interface StorySummary { title: string; confidence: number | null; heat: number | null; fact_html: string; judgment_html: string; }
 interface WatchlistItem { title: string; url: string; tier: number; seen_count: number; }
@@ -53,43 +53,47 @@ interface Props { day: DayData; run: { time: string; categories: CategoryData[] 
 const { day, run } = Astro.props as Props;
 const title = `The Brief — ${day.date} ${run.time}`;
 const cats = run.categories;
+const sidebarCats = cats.map((c) => ({ name: c.name, anchor: c.anchor, deep_count: c.deep_count }));
 ---
 <Base title={title}>
   <Topbar showBack={true} />
-  <main class="run-main">
-    <header class="run-head">
-      <div class="classification">Run Archive</div>
-      <h1>{day.date} <span class="run-time mono">{run.time}</span></h1>
-      <nav class="run-nav" aria-label="此頁類別">
+  <div class="layout">
+    <Sidebar categories={sidebarCats} />
+    <main class="main">
+      <header class="run-head">
+        <div class="classification">Run Archive</div>
+        <h1>{day.date} <span class="run-time mono">{run.time}</span></h1>
+      </header>
+      <div class="cards">
         {cats.map((c) => (
-          <a href={`#${c.anchor}`} style={`--h: ${categoryHue(c.name)}`}>
-            <span class="cat-dot" style={`--h: ${categoryHue(c.name)}`} aria-hidden="true"></span>
-            {c.name}
-          </a>
+          <div data-cat-section data-cat-anchor={c.anchor} data-cat-name={c.name}>
+            <CategoryCard
+              name={c.name}
+              anchor={c.anchor}
+              deepCount={c.deep_count}
+              watchCount={c.watch_count}
+              noSignal={c.no_signal}
+              stories={c.stories}
+              watchlist={c.watchlist}
+            />
+          </div>
         ))}
-      </nav>
-    </header>
-    <div class="run-cards">
-      {cats.map((c) => (
-        <CategoryCard
-          name={c.name}
-          anchor={c.anchor}
-          deepCount={c.deep_count}
-          watchCount={c.watch_count}
-          noSignal={c.no_signal}
-          stories={c.stories}
-          watchlist={c.watchlist}
-        />
-      ))}
-    </div>
-  </main>
+      </div>
+    </main>
+  </div>
   <BackToTop />
 </Base>
 
 <style>
-  .run-main {
-    max-width: 920px;
+  .layout {
+    max-width: 1280px;
     margin: 0 auto;
+    display: grid;
+    grid-template-columns: var(--sidebar-w) 1fr;
+    gap: 0;
+  }
+  .main {
+    min-width: 0;
     padding: 24px clamp(16px, 4vw, 40px) 64px;
   }
   .run-head { padding-bottom: 20px; border-bottom: 1px solid var(--border); margin-bottom: 24px; }
@@ -105,19 +109,7 @@ const cats = run.categories;
     padding: 2px 10px;
     margin-bottom: 10px;
   }
-  .run-head h1 { margin: 0 0 14px; font-size: clamp(1.5rem, 3.5vw, 2rem); }
+  .run-head h1 { margin: 0; font-size: clamp(1.5rem, 3.5vw, 2rem); }
   .run-time { font-size: 0.9rem; color: var(--text-muted); font-weight: 400; }
-  .run-nav { display: flex; flex-wrap: wrap; gap: 10px; }
-  .run-nav a {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    padding: 5px 12px;
-    border-radius: var(--r-pill);
-    border: 1px solid var(--border);
-    font-size: 0.85rem;
-    color: var(--text);
-  }
-  .run-nav a:hover { border-color: hsl(var(--h) var(--cat-s) var(--cat-l)); text-decoration: none; }
-  .run-cards { display: grid; gap: 18px; }
+  .cards { display: grid; gap: 18px; }
 </style>
