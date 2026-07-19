@@ -74,24 +74,27 @@ const defaultYear = years[0] || '';
   </header>
 
   <div class="archive-controls">
-    <div class="search-row">
-      <input
-        type="search"
-        class="archive-search"
-        placeholder="搜尋日期或類別…（Cmd/Ctrl+K）"
-        aria-label="搜尋檔案"
-        data-archive-search
-      />
-      <span class="result-count mono" data-result-count aria-live="polite"></span>
-    </div>
-    {years.length > 1 && (
-      <div class="pill-row" data-year-pills role="group" aria-label="年份">
-        {years.map((y) => (
-          <button class="pill" type="button" data-year={y} aria-pressed="false">{y}</button>
-        ))}
+    <div class="archive-sticky-sentinel" data-archive-sentinel aria-hidden="true"></div>
+    <div class="archive-sticky-bar" data-archive-sticky>
+      <div class="search-row">
+        <input
+          type="search"
+          class="archive-search"
+          placeholder="搜尋日期或類別…（Cmd/Ctrl+K）"
+          aria-label="搜尋檔案"
+          data-archive-search
+        />
+        <span class="result-count mono" data-result-count aria-live="polite"></span>
       </div>
-    )}
-    <div class="pill-row" data-month-pills role="group" aria-label="月份"></div>
+      {years.length > 1 && (
+        <div class="pill-row" data-year-pills role="group" aria-label="年份">
+          {years.map((y) => (
+            <button class="pill" type="button" data-year={y} aria-pressed="false">{y}</button>
+          ))}
+        </div>
+      )}
+      <div class="pill-row" data-month-pills role="group" aria-label="月份"></div>
+    </div>
     <div class="pill-row" data-cat-pills role="group" aria-label="類別">
       <button class="pill is-active" type="button" data-cat="" aria-pressed="true">全部</button>
       {cats.map((c) => (
@@ -150,6 +153,21 @@ const defaultYear = years[0] || '';
   }
 
   .archive-controls { display: grid; gap: 14px; margin-bottom: 24px; }
+  .archive-sticky-bar {
+    position: sticky;
+    top: var(--topbar-h);
+    z-index: 5;
+    display: grid;
+    gap: 14px;
+    padding: 12px 0;
+    background: var(--bg);
+    border-bottom: 1px solid var(--border);
+    transition: box-shadow 0.2s ease;
+  }
+  .archive-sticky-bar.is-stuck {
+    box-shadow: 0 6px 12px -8px rgba(0, 0, 0, 0.35);
+  }
+  .archive-sticky-sentinel { height: 1px; }
   .search-row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
   .archive-search {
     flex: 1 1 240px;
@@ -417,6 +435,16 @@ const defaultYear = years[0] || '';
     var monthRow = root.querySelector('[data-month-pills]');
     var catBtns = Array.from(root.querySelectorAll('[data-cat]'));
     var clearBtn = root.querySelector('[data-clear-filters]');
+    var stickyBar = root.querySelector('[data-archive-sticky]');
+    var sentinel = root.querySelector('[data-archive-sentinel]');
+
+    if (sentinel && stickyBar && 'IntersectionObserver' in window) {
+      var stickyIO = new IntersectionObserver(function (entries) {
+        var e = entries[0];
+        stickyBar.classList.toggle('is-stuck', !e.isIntersecting && e.boundingClientRect.top < 0);
+      }, { rootMargin: '0px 0px -100% 0px', threshold: 0 });
+      stickyIO.observe(sentinel);
+    }
 
     var state = { year: defaultYear, month: '', cat: '', q: '', day: '' };
 
