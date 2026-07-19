@@ -1,0 +1,37 @@
+{
+  "category": "Product Growth",
+  "timestamp": "2026-05-19_10-40",
+  "stories": [
+    {
+      "title": "範式轉移：從純文字 Markdown 到富交互 HTML 的規格進化",
+      "body_md": "**事件背景與深度摘要**：\n在過去的軟體開發流程中，Markdown 因其兼具機器可讀性與人類易讀性，長期被視為溝通開發規格與計畫的首選格式。然而，Anthropic 的 Claude Code 團隊工程師 Thariq Shihipar 提出了一個顛覆性的觀點：在 AI 代理（AI Agents）時代，HTML 正在取代 Markdown 成為更優越的通訊格式。HTML 不僅能承載文字，還能提供互動式元素、視覺化原型、可滾動的區塊以及極高的資訊密度，這使得 AI 在理解複雜計畫時，能透過「視覺化規格」與人類達成更高層次的共識，減少因純文字歧義導致的開發偏差。\n\n**對產業的衝擊**：\n這一轉變將直接衝擊現有的產品需求文件（PRD）撰寫模式，開發工具鏈將從「文字驅動」轉向「介面驅動」。當 AI 能直接產出可操作的 HTML Artifacts 作為規格書時，非技術背景的產品經理（PM）與設計師能更直觀地介入 AI 的思考過程，大幅縮短從構想到原型的反覆迭代週期。\n\n**未來觀察重點**：\n*   **Artifacts 生態系**：觀察開發者社群是否會出現標準化的 HTML 規劃模板，專門用於引導 AI 代理執行複雜任務。\n*   **IDE 集成度**：主流開發工具（如 VS Code）是否會內建更強大的即時 HTML 渲染與交互引擎，以支援這種新型態的「計畫即介面」流程。\n\n[原文連結](https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown) | [原文連結](https://www.lennysnewsletter.com/p/html-is-the-new-markdown-how-anthropic)\n\n---",
+      "used_source_urls": [
+        "https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown",
+        "https://www.lennysnewsletter.com/p/html-is-the-new-markdown-how-anthropic"
+      ]
+    },
+    {
+      "title": "角色重塑：工程師轉型為「算力分配者」（Compute Allocators）",
+      "body_md": "**事件背景與深度摘要**：\n隨著 AI 代理承接了越來越多基礎代碼的撰寫工作，工程師的核心價值正在發生本質上的轉變。Thariq 指出，現代工程師正轉變為「算力分配者」，其工作重點不再是手寫每一行代碼，而是決定如何將有限的 AI 令牌（Tokens）與算力資源最有效地分配到規劃、原型設計、測試與最終實作中。這種轉變強調了「高層次編排」的重要性，工程師必須學會判斷哪些代碼值得進入生產環境，而哪些只是為了驗證概念而產生的「拋棄式代碼」。\n\n**對產業的衝擊**：\n這種趨勢將導致代碼庫（Codebase）的性質發生變化，大部分 AI 生成的內容（如探索性的試算、暫時性的 UI）將不會保留在最終產出中。這要求工程師具備更強的架構審核能力與資源調度思維，而非單純的語法掌握能力。企業在評估人才時，將更加看重「問題定義」與「流程優化」的能力。\n\n**未來觀察重點**：\n*   **開發成本結構**：隨著 AI 代碼生成成本降低，企業將如何調整對開發進度的預期與研發預算的編列。\n*   **代碼質量評估標準**：在 AI 大量產出的背景下，如何定義「好代碼」？未來可能會更側重於代碼的可維護性與與人類意圖的一致性。\n\n[原文連結](https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown)\n\n---",
+      "used_source_urls": [
+        "https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown"
+      ]
+    },
+    {
+      "title": "開發模式創新：拋棄式微型應用（Throwaway Micro-apps）與活體設計系統",
+      "body_md": "**事件背景與深度摘要**：\nThariq 展示了一種極具前瞻性的開發技巧：利用 HTML Artifacts 快速構建「一次性」的微型 UIs 來解決特定的計畫問題或編輯需求。這種模式下，工程師不再受限於靜態的文字檔，而是隨手叫 AI 寫一個迷你的 web 工具來調整參數或可視化數據。此外，他們倡導將「活體設計系統」（Living Design Systems）直接存在代碼倉庫中，讓這些系統能隨著代碼一起演進，並作為 AI 代理隨時調用的視覺參考指標。\n\n**對產業的衝擊**：\n這種「隨用隨建、用完即丟」的工具開發文化，極大化了開發者的生產力，打破了內部工具開發的高昂門檻。設計系統不再是靜態的文件（如 Figma 或文件站），而是代碼的一部分，這保證了 AI 在生成前端代碼時，能隨時調用最新的元件規範，實現真正的「設計與代碼同步」。\n\n**未來觀察重點**：\n*   **設計系統的自動演進**：AI 是否能自動偵測代碼異動並同步更新對應的 HTML 設計參考，實現全自動的文檔維護。\n*   **低代碼工具的邊界**：當 AI 代理能隨手產出高效的微型應用時，傳統的 Low-code/No-code 平台是否會面臨更嚴峻的生存挑戰。\n\n[原文連結](https://www.lennysnewsletter.com/p/html-is-the-new-markdown-how-anthropic)\n\n---",
+      "used_source_urls": [
+        "https://www.lennysnewsletter.com/p/html-is-the-new-markdown-how-anthropic"
+      ]
+    },
+    {
+      "title": "決策哲學：「複雜性必須自證價值」（Complexity has to earn its keep）",
+      "body_md": "**事件背景與深度摘要**：\n在與 AI 深度協作的過程中，Thariq 強調了一個關鍵的開發哲學：複雜性必須證明其存在的必要性。透過 HTML 的視覺化呈現，人類能更清楚地看到 AI 計畫中的冗餘部分，並透過直觀的介面進行「修剪」。這種做法的核心在於保持人類在決策循環（Human-in-the-loop）中的地位，確保儘管 AI 負責大部分的執行工作，但最終產品的邏輯結構與用戶體驗仍處於人類的嚴格掌控之下，避免過度自動化導致的產品偏離初衷。\n\n**對產業的衝擊**：\n這一觀點提醒了所有產品團隊，在追求 AI 自動化的效率時，不能犧牲產品的「透明度」與「可解釋性」。這將推動更多強調「白箱開發」（White-box development）的 AI 工具誕生，讓開發過程中的每一個關鍵決策都能被視覺化、可追蹤且易於修正。\n\n**未來觀察重點**：\n*   **AI 與人類的權責分配**：如何建立更科學的審查機制，在 AI 代理執行長達數千令牌的計畫時，確保人類能精準捕捉到潛在的風險點。\n*   **產品簡約主義的回歸**：在 AI 可以輕易生成複雜功能的情況下，具備「克制力」並專注於核心價值的產品經理將更顯稀缺。\n\n[原文連結](https://www.lennysnewsletter.com/p/html-is-the-new-markdown-how-anthropic)",
+      "used_source_urls": [
+        "https://www.lennysnewsletter.com/p/html-is-the-new-markdown-how-anthropic"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

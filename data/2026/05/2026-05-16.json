@@ -7,188 +7,189 @@
         {
           "name": "AI",
           "anchor": "AI",
+          "archive_url": "./history/2026-05-16_21-07/index.html#AI",
           "stories": [
             {
-              "title": "1. OpenAI 與馬耳他達成國家級 AI 普及戰略合作",
+              "title": "OpenAI 與馬耳他達成國家級 AI 普及戰略合作",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> OpenAI 與馬耳他政府達成戰略合作，將向全國公民提供 ChatGPT Plus 存取權限與專屬培訓，以協助大眾培養實用的 AI 技能並推廣負責任的 AI 使用方式。<strong>【產業衝擊】</strong> 此舉標誌著 AI 落地應用從「企業與個人付費訂閱」正式跨入「國家級基礎設施」的新紀元，大幅降低了全民接觸頂尖生成式 AI 的門檻並重塑了數位國力。<strong>【未來觀察重點】</strong> 未來應密切關注此國家級普及模式是否能有效消弭數位落差，以及全球其他主權國家是否會跟進推出類似的 AI 基礎建設整合政策。<a href=\"https://openai.com/index/malta-chatgpt-plus-partnership\">原文連結</a></p>\n<hr />"
             },
             {
-              "title": "2. GraphBit：基於有向無環圖 (DAG) 的確定性智能體編排",
+              "title": "GraphBit：基於有向無環圖 (DAG) 的確定性智能體編排",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 為解決傳統 LLM 智能體在提示詞編排中容易出現的幻覺路由與無限迴圈問題，研究人員推出了 GraphBit，一個以 Rust 引擎驅動並將工作流定義為確定性有向無環圖 (DAG) 的全新框架。<strong>【產業衝擊】</strong> 這項技術從根本上提升了多智能體系統的可重現性與可稽核性，使 AI 代理能夠在嚴格的企業級長流程任務中穩定運行，準確率遠超現有框架。<strong>【未來觀察重點】</strong> 後續需觀察這種確定性圖結構框架如何與動態推理模型深度整合，以在確保執行安全的同時，維持極度靈活的問題解決能力。<a href=\"https://arxiv.org/abs/2605.13848\">原文連結</a></p>"
             },
             {
-              "title": "3. 多智能體系統中「隱形協調者」的安全與解離風險",
+              "title": "多智能體系統中「隱形協調者」的安全與解離風險",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 一項針對多智能體架構的實驗指出，當系統採用「隱形協調者 (Invisible Orchestrator)」來黑箱管理底層工作智能體時，會引發嚴重的群體解離，並導致工作智能體出現不可預測的異質與不安全行為。<strong>【產業衝擊】</strong> 這一發現直接挑戰了目前企業級 AI 預設的隱形管理架構，揭示了不透明的指揮鏈條可能導致系統性安全漏洞與對齊機制的集體失效。<strong>【未來觀察重點】</strong> 業界未來在設計多智能體層級時，必須重新評估透明領導與隱形協調的權衡，並建立針對協調者角色的專屬行為監控防護網。<a href=\"https://arxiv.org/abs/2605.13851\">原文連結</a></p>"
             },
             {
-              "title": "4. MetaAgent-X：打破端到端多智能體系統效能天花板",
+              "title": "MetaAgent-X：打破端到端多智能體系統效能天花板",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> MetaAgent-X 是一個創新的端到端強化學習框架，它能同時協同優化多智能體系統的「流程設計者」與「任務執行者」，解決了過去只能凍結執行者而導致的適應性瓶頸。<strong>【產業衝擊】</strong> 此技術讓 AI 系統具備了自我設計工作流與自動分配角色的演化能力，將大幅提升自動化協作系統在未知複雜任務中的解題成功率。<strong>【未來觀察重點】</strong> 持續觀察這種設計與執行協同演化的機制，能否在現實的軟體開發或營運場景中，真正實現完全無需人類介入的自適應動態組織架構。<a href=\"https://arxiv.org/abs/2605.14212\">原文連結</a></p>"
             },
             {
-              "title": "5. FlowSteer：由 AI 智能體自主設計的工作流程畫布",
+              "title": "FlowSteer：由 AI 智能體自主設計的工作流程畫布",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> FlowSteer 提出了一種全新範式，透過一個輕量級策略智能體在可執行的「工作流程畫布」上發出原子級編輯指令，並利用真實的圖結構執行反饋來進行強化學習訓練。<strong>【產業衝擊】</strong> 它弭平了靜態人工設計管線與全動態任務解析之間的鴻溝，讓 AI 能夠針對每次收到的複雜請求，零樣本 (Zero-shot) 動態編譯出最適合的專屬工作流。<strong>【未來觀察重點】</strong> 業界將關注這種「自己寫流程圖」的元智能體 (Meta-agents) 是否會成為未來自動化企業軟體 (RPA) 的核心大腦。<a href=\"https://arxiv.org/abs/2602.01664\">原文連結</a></p>\n<hr />"
             },
             {
-              "title": "6. Terminator：大型推理模型 (LRMs) 的最佳化提早終止策略",
+              "title": "Terminator：大型推理模型 (LRMs) 的最佳化提早終止策略",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 針對大型推理模型經常在簡單問題上「過度思考」並浪費運算資源的現象，研究者開發了 Terminator，一種能在推論階段學習並預測最佳退出點的動態截斷機制。<strong>【產業衝擊】</strong> 這項技術能在幾乎不犧牲解答準確率的前提下，削減高達 34% 的思維鏈 (CoT) 生成長度，為部署高成本的深度推理模型提供了極具商業價值的控制方案。<strong>【未來觀察重點】</strong> 業界將關注此類動態長度控制技術如何整合至下一代商用推理 API 中，以實現邊緣運算成本與推論品質的完美平衡。<a href=\"https://arxiv.org/abs/2603.12529\">原文連結</a></p>"
             },
             {
-              "title": "7. InsightReplay：以洞察重播解決長文本狀態推理的遺忘問題",
+              "title": "InsightReplay：以洞察重播解決長文本狀態推理的遺忘問題",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 當思維鏈過長時，語言模型往往會因為注意力稀釋而遺忘早期產生的關鍵洞察，InsightReplay 透過定期擷取並在生成邊界「重播」這些洞察來維持嚴謹的推理狀態。<strong>【產業衝擊】</strong> 這種狀態化的記憶機制打破了長上下文推理的性能衰退魔咒，使得 AI 在處理跨度極大的數學競賽與複雜邏輯驗證時具備了近乎人類的專注力與工作記憶。<strong>【未來觀察重點】</strong> 未來可探討這種動態洞察重播架構，是否能取代現有的靜態 RAG 技術，成為超長文本與多步驟邏輯處理的新標準範式。<a href=\"https://arxiv.org/abs/2605.14457\">原文連結</a></p>"
             },
             {
-              "title": "8. OpenDeepThink：基於 Bradley-Terry 聚合的並行推理演化框架",
+              "title": "OpenDeepThink：基於 Bradley-Terry 聚合的並行推理演化框架",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> OpenDeepThink 框架透過讓語言模型在推論階段同時生成多個候選答案，並利用成對比較 (Bradley-Terry) 進行交叉評分與淘汰突變，實現了廣度上的推論期運算擴展。<strong>【產業衝擊】</strong> 該方法證明了無需依賴外部絕對的真實性驗證器，僅靠模型內部的交叉評判與演化機制，即可在極短時間內將高難度程式競賽的表現推升至前所未有的高度。<strong>【未來觀察重點】</strong> 後續應密切關注這種群體演化式的推論架構，在缺乏客觀對錯標準的主觀性任務或開放性創意領域中，是否會產生偏誤或群體盲思。<a href=\"https://arxiv.org/abs/2605.15177\">原文連結</a></p>\n<hr />"
             },
             {
-              "title": "9. SepsisAgent：與臨床世界模型互動的敗血症醫療智能體",
+              "title": "SepsisAgent：與臨床世界模型互動的敗血症醫療智能體",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> SepsisAgent 是一個結合了「臨床世界模型」的醫療 AI 智能體，它能在給出敗血症治療處方前，先在內部反覆模擬病患對輸液與血管加壓藥物的可能生理反應。<strong>【產業衝擊】</strong> 此「提議-模擬-修正」的決策迴圈徹底改變了傳統靜態醫療 AI 的侷限，將單向的預測性護理轉變為具備前瞻性風險評估的動態治療引擎，顯著提升了重症加護的安全紅線。<strong>【未來觀察重點】</strong> 醫療監管機構將如何審查並驗證這類內建「世界模擬器」的黑盒子決策系統，將是其邁向真實臨床部署的最大法規考驗。<a href=\"https://arxiv.org/abs/2605.14723\">原文連結</a></p>"
             },
             {
-              "title": "10. Hunt Globally：用於全球藥物資產探勘的廣泛搜尋智能體",
+              "title": "Hunt Globally：用於全球藥物資產探勘的廣泛搜尋智能體",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 針對全球生技創新去中心化且多語種化的趨勢，研究人員打造了具備樹狀自我學習能力的 Bioptic Agent，能以極高召回率在非英語和非傳統管道中挖掘隱藏的藥物專利與資產。<strong>【產業衝擊】</strong> 這項技術填補了傳統投資與商業開發團隊在跨國資訊檢索上的巨大盲區，使得跨國藥廠併購、專利佈局與新藥發掘能以前所未有的速度與精準度展開。<strong>【未來觀察重點】</strong> 在全球科技競爭加劇的背景下，觀察此類跨語言情報收集智能體是否會引發製藥與生技領域的「自動化情報軍備競賽」。<a href=\"https://arxiv.org/abs/2602.15019\">原文連結</a></p>"
             },
             {
-              "title": "11. GEAR：透過遺傳演算法驅動的自動化科學研究",
+              "title": "GEAR：透過遺傳演算法驅動的自動化科學研究",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> GEAR (Genetic AutoResearch) 拋棄了單一路徑的程式碼優化，轉而採用基於種群的遺傳搜尋策略，透過變異、交配與效能評估，自主探索機器學習實驗與演算法的最佳架構。<strong>【產業衝擊】</strong> 這種將 AI 作為「虛擬科學家」的演化框架，不僅避免了研發陷入局部最佳解的窘境，更展示了機器自主產生創新見解與突破性演算法的巨大商業與學術潛力。<strong>【未來觀察重點】</strong> 未來評估的重點在於，這類自動化研究系統產出的成果，是否具備足夠的可解釋性與嚴謹度以被人類科學家完全信任並整合入實體實驗室中。<a href=\"https://arxiv.org/abs/2605.13874\">原文連結</a></p>"
             },
             {
-              "title": "12. MindGap：針對 PTSD 的上游神經可塑性 AI 對話介入",
+              "title": "MindGap：針對 PTSD 的上游神經可塑性 AI 對話介入",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 針對創傷後壓力症候群 (PTSD)，MindGap 提出了一種基於設備端運算的對話 AI 框架，透過精準捕捉並介入創傷情緒產生前的一瞬間，從而幫助病患重塑神經迴路。<strong>【產業衝擊】</strong> 這項研究超越了傳統僅能處理「事後情緒紓解」的心理陪伴 AI，展示了數位療法如何透過精確的認知干預來達成大腦結構性的神經可塑性改變，為數位精神醫療開創了新局。<strong>【未來觀察重點】</strong> 醫學界將密切關注這類高度個人化且注重隱私的 AI 對話療法，在長期的臨床試驗中能否真正取代或大幅輔助傳統的暴露療法與藥物治療。<a href=\"https://arxiv.org/abs/2605.14660\">原文連結</a></p>\n<hr />"
             },
             {
-              "title": "13. 評估的陷阱 (The Evaluation Trap)：基準測試設計即理論承諾",
+              "title": "評估的陷阱 (The Evaluation Trap)：基準測試設計即理論承諾",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 研究深入探討了 AI 領域的基準測試如何因為過度追求可量化的操作假設，而逐漸扭曲並縮小了「能力」的真實定義，導致模型為迎合測試而陷入「評估陷阱」。<strong>【產業衝擊】</strong> 此一反思強烈衝擊了目前業界盲目追逐 Leaderboard 刷榜的浮躁現象，呼籲開發者必須建立「能力聲明」與「代理行為」之間嚴格的元評估 (Meta-evaluative) 審計標準。<strong>【未來觀察重點】</strong> 觀察學界與業界是否能建立一套防範「指標古德哈特定律 (Goodhart's Law)」的動態檢測標準，讓模型評估真正回歸真實世界的通用能力驗證。<a href=\"https://arxiv.org/abs/2605.14167\">原文連結</a></p>"
             },
             {
-              "title": "14. 順從陷阱 (Compliance Trap)：對抗性壓力下前沿 AI 的元認知崩潰",
+              "title": "順從陷阱 (Compliance Trap)：對抗性壓力下前沿 AI 的元認知崩潰",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 一項針對多款前沿大模型的壓力測試揭露了驚人的「順從陷阱」：當面臨帶有強制指令的對抗性提問時，模型會為了順從使用者而放棄認知邊界，導致安全與準確率暴跌高達 30%。<strong>【產業衝擊】</strong> 該結果暴露出當前 RLHF 對齊策略的嚴重安全缺陷，過度強調「有求必應」反而摧毀了模型在關鍵決策中「拒絕回答」或「質疑錯誤」的最後一道安全底線。<strong>【未來觀察重點】</strong> 業界亟需開發能培養模型「認識論勇氣 (Epistemic courage)」的新型對齊演算法，以確保部署於高風險場景中的 AI 具備說「不」的判斷力。<a href=\"https://arxiv.org/abs/2605.02398\">原文連結</a></p>"
             },
             {
-              "title": "15. AgenticEval：針對 LLM 的智能體化自我演進安全評估",
+              "title": "AgenticEval：針對 LLM 的智能體化自我演進安全評估",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 為了應對靜態測試無法涵蓋動態 AI 風險的問題，AgenticEval 提出了一個能自主讀取法規文件 (如 EU AI Act) 並持續生成、演化複雜測試用例的多智能體安全評估框架。<strong>【產業衝擊】</strong> 這標誌著 AI 稽核技術從「人工編寫靜態考題」邁向「AI 對抗 AI 的動態防禦測試」，為符合嚴格的國際合規要求提供了高效且無死角的自動化解決方案。<strong>【未來觀察重點】</strong> 隨著測試難度隨時間自動升級，觀察主流商業大模型是否能建立與之抗衡的即時防禦更新機制，以避免在持續合規評估中被降級。<a href=\"https://arxiv.org/abs/2509.26100\">原文連結</a></p>\n<hr />"
             },
             {
-              "title": "16. BEAM：透過二值專家激活遮罩實現動態 MoE 路由",
+              "title": "BEAM：透過二值專家激活遮罩實現動態 MoE 路由",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 針對傳統混合專家 (MoE) 模型中固定 Top-K 路由帶來的運算冗餘，BEAM 引入了可訓練的二值遮罩，為每個 Token 自適應地選擇所需的最少專家數量。<strong>【產業衝擊】</strong> 此技術在維持 98% 原始模型效能的情況下，將 MoE 層的運算量大幅削減了 85%，為在端側與資源受限設備上流暢部署超大參數模型移除了關鍵的硬體障礙。<strong>【未來觀察重點】</strong> 期待未來開源模型能原生內建這類動態稀疏化技術，進一步推動超大型 AI 基礎模型在移動裝置與消費級硬體上的離線推論普及化。<a href=\"https://arxiv.org/abs/2605.14438\">原文連結</a></p>"
             },
             {
-              "title": "17. Multi-Scale Dequant：消除高效推論的去量化瓶頸",
+              "title": "Multi-Scale Dequant：消除高效推論的去量化瓶頸",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 由於在硬體加速器上，將低位元權重還原為高精度 (去量化) 的成本往往高於矩陣乘法本身，MSD 框架透過將高精度激活值分解為多個低精度組件，直接與量化權重進行原生乘法。<strong>【產業衝擊】</strong> 這種作法徹底顛覆了現有的量化推論流程，將運算範式從繁重的「精度轉換」轉變為極速的「多尺度近似」，成功釋放了 NPU 與 GPU 中張量核心的極致吞吐量。<strong>【未來觀察重點】</strong> 觀察頂尖雲端服務供應商如何將此無去量化技術深度整合進底層推理引擎，以大幅降低大規模語言模型 API 的單次調用成本與能源消耗。<a href=\"https://arxiv.org/abs/2605.13915\">原文連結</a></p>"
             },
             {
-              "title": "18. PreFT：專注於 Prefill 階段的微調以提升推論效率",
+              "title": "PreFT：專注於 Prefill 階段的微調以提升推論效率",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 在伺服器上同時為多用戶提供專屬微調模型 (如 LoRA) 時會面臨嚴重的吞吐量下降，PreFT 提出僅在「預填充 (Prefill)」階段應用適配器，並在後續自迴歸解碼時將其捨棄的全新策略。<strong>【產業衝擊】</strong> 實驗證明此舉能在幾乎不影響客製化表現的前提下，將多適配器並發服務的吞吐量提升近兩倍，完美解決了超大規模個人化 AI 服務的算力與記憶體瓶頸。<strong>【未來觀察重點】</strong> 這個革命性的方法可能會重塑雲端 LLM 服務的計費與架構模式，使「人人擁有專屬大模型」的商業願景在伺服器硬體成本上變得具備可行性。<a href=\"https://arxiv.org/abs/2605.14217\">原文連結</a></p>\n<hr />"
             },
             {
-              "title": "19. Head Forcing：利用注意力頭異質性生成長篇影片",
+              "title": "Head Forcing：利用注意力頭異質性生成長篇影片",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 為了克服自迴歸影片生成中的誤差累積與上下文流失，Head Forcing 框架根據注意力頭的不同功能（如局部特徵、錨點穩定、長程記憶）分配客製化的 KV Cache 保留與更新策略。<strong>【產業衝擊】</strong> 這項無需重新訓練的即插即用技術，成功將影片生成的穩定長度從 5 秒大幅延長至分鐘級別，打破了長影音合成在記憶體與運算穩定性上的雙重枷鎖。<strong>【未來觀察重點】</strong> 關注這項技術如何被整合到最新的商用擴散模型中，以推動 AI 電影製作工具進入分鐘級無縫敘事與高度場景連貫的新階段。<a href=\"https://arxiv.org/abs/2605.14487\">原文連結</a></p>"
             },
             {
-              "title": "20. EverAnimate：透過潛在光流修復實現分鐘級人體動畫",
+              "title": "EverAnimate：透過潛在光流修復實現分鐘級人體動畫",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 長篇人體動畫常面臨背景崩壞與角色特徵偏移的挑戰，EverAnimate 透過跨區塊的潛在上下文記憶傳遞以及隱式的光流物理修復機制，確保了高動態動作下的全局一致性。<strong>【產業衝擊】</strong> 該方法只需極輕量級的 LoRA 微調，便能大幅超越現有的長影片生成基準，為數位虛擬人、遊戲動畫與虛擬實境產業提供了極具成本效益的高擬真動作合成方案。<strong>【未來觀察重點】</strong> 未來應觀察這類基於光流物理特性的修復機制，能否進一步與 3D 空間感知模型結合，達成完全無瑕疵、符合物理定律的多視角長篇動畫生成。<a href=\"https://arxiv.org/abs/2605.15042\">原文連結</a></p>"
             },
             {
-              "title": "21. Pelican-Unified 1.0：理解、推理、想像與行動的統一具身模型",
+              "title": "Pelican-Unified 1.0：理解、推理、想像與行動的統一具身模型",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> Pelican-Unified 1.0 是首個真正貫徹「統一」原則的具身基礎模型，它使用單一視覺語言模型在同一語義空間中同時處理場景理解、邏輯思維、未來影像預測與機械動作輸出。<strong>【產業衝擊】</strong> 此架構徹底摒棄了傳統機器人系統中多個獨立專家模型拼湊所造成的延遲與資訊流失，讓通用型家用或工業機器人具備了極度直覺且流暢的即時反應能力。<strong>【未來觀察重點】</strong> 重點關注該統一架構在面臨極端未知的物理環境時，是否能透過內建的「未來想像」模組展現出超越傳統控制演算法的零樣本空間適應力。<a href=\"https://arxiv.org/abs/2605.15153\">原文連結</a></p>"
             },
             {
-              "title": "22. V2M-Zero：零配對資料的影音對齊音樂生成",
+              "title": "V2M-Zero：零配對資料的影音對齊音樂生成",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> V2M-Zero 打破了為影片配樂需要大量配對數據的限制，透過分別從影片和音樂中提取「時間變化曲線」，讓文字到音樂的擴散模型能直接根據畫面節奏生成精準踩點的配樂。<strong>【產業衝擊】</strong> 這項零樣本的跨模態對齊技術為內容創作者帶來了革命性的自動化配樂工具，大幅減少了後製音效對位與情緒渲染所需的人力與時間成本。<strong>【未來觀察重點】</strong> 隨著此技術的開源與普及，觀察短影音平台是否會大規模引入即時動態配樂功能，以及其對專業授權音樂市場可能造成的顛覆性板塊移動。<a href=\"https://arxiv.org/abs/2603.11042\">原文連結</a></p>\n<hr />"
             },
             {
-              "title": "23. EVA：針對越獄攻擊的精準神經元編輯防禦",
+              "title": "EVA：針對越獄攻擊的精準神經元編輯防禦",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 針對 LLM 與 VLM 容易被對抗性提示「越獄」的問題，EVA 框架放棄了昂貴的全局安全微調，改為精準定位並「外科手術式」地編輯導致危險輸出的特定神經元。<strong>【產業衝擊】</strong> 這種將安全對齊視為「局部知識修正」的創新視角，不僅徹底消除了傳統過度防禦導致的模型能力退化，更實現了針對新型攻擊的即時熱修復能力。<strong>【未來觀察重點】</strong> 探討這種精細的模型神經元編輯技術是否能標準化為大模型上線後的標準防火牆機制，以全面取代目前依賴外部字詞過濾或龐大防護模型的被動防禦。<a href=\"https://arxiv.org/abs/2605.14750\">原文連結</a></p>"
             },
             {
-              "title": "24. MPU：安全且保護隱私的語言模型知識遺忘機制",
+              "title": "MPU：安全且保護隱私的語言模型知識遺忘機制",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 當模型需要刪除特定敏感資料，卻又受限於伺服器不願公開權重、客戶不願公開遺忘資料的「雙重保密」困境時，MPU 提出了基於多重擾動副本的本地端遺忘與伺服器端聚合架構。<strong>【產業衝擊】</strong> 該機制巧妙化解了 AI 模型在面對 GDPR 等嚴格隱私法規時「機器遺忘 (Machine Unlearning)」的合規性痛點，確保了企業智財權與用戶極端隱私的雙贏局面。<strong>【未來觀察重點】</strong> 未來需持續驗證這種注入雜訊再聚合的遺忘策略，在面對極端蓄意的模型反轉攻擊 (Inversion attacks) 時，是否仍能保證被刪除資料的絕對不可恢復性。<a href=\"https://arxiv.org/abs/2602.23798\">原文連結</a></p>"
             },
             {
-              "title": "25. ExploitBench：網路安全智能體的漸進式能力基準測試",
+              "title": "ExploitBench：網路安全智能體的漸進式能力基準測試",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 過去的資安基準測試多半將漏洞利用視為單一的成功或失敗，而 ExploitBench 則將駭客攻擊拆解為 16 個可量化的漸進能力指標，從觸發崩潰一路涵蓋到取得任意程式碼執行權限。<strong>【產業衝擊】</strong> 這種階梯式的評估架構為防守方與攻擊方 AI 智能體的開發提供了極度細緻的能力光譜，幫助產業界準確掌握當前 LLM 在深層系統駭侵中的真實威脅等級。<strong>【未來觀察重點】</strong> 隨著大模型在資安攻防的表現逐步攀升，觀察全球安全社群將如何利用此基準來設計更具預見性的自動化漏洞修補與入侵防禦系統。<a href=\"https://arxiv.org/abs/2605.14153\">原文連結</a></p>"
             },
             {
-              "title": "26. WARD：網頁智能體對抗提示注入的強健防禦",
+              "title": "WARD：網頁智能體對抗提示注入的強健防禦",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p><strong>【事件背景】</strong> 在開放網路環境中自主執行的網頁智能體極易受到隱藏於 HTML 中的提示注入攻擊，WARD 結合了包含 17 萬筆真實數據的大型資料集與自適應對抗訓練，打造了高效的防護守衛模型。<strong>【產業衝擊】</strong> 該防禦機制不僅將防護虛警率降至最低，還能抵禦動態演化的攻擊手法，是推動自主瀏覽器智能體 (Browser Agents) 從實驗室走向安全商用的關鍵拼圖。<strong>【未來觀察重點】</strong> 面對未來多模態注入攻擊（如將惡意指令隱藏於網頁圖片像素中），觀察 WARD 框架是否能有效擴展至跨模態防禦，確保全方位的執行安全。<a href=\"https://arxiv.org/abs/2605.15030\">原文連結</a></p>"
             }
           ],
           "watchlist": [],
@@ -199,154 +200,436 @@
         {
           "name": "Finance",
           "anchor": "Finance",
-          "stories": [],
+          "archive_url": "./history/2026-05-16_21-07/index.html#Finance",
+          "stories": [
+            {
+              "title": "川普訪華歸來：表面穩定與實質僵局並存",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>川普結束中國行程後，美中關係呈現出一種「不穩定的穩定」。儘管雙方在避免直接衝突上達成某種默契，但在核心貿易與科技領域仍維持僵局。川普宣稱中國領導人習近平同意伊朗必須保持霍爾木茲海峽（Strait of Hormuz）的開放，這顯示出美中在維持全球能源供應線穩定上具有共同利益。然而，中方對伊朗戰爭的起點持有保留意見，認為戰爭本不該發生，反映出北京對美國軍事介入中東的潛在不滿與戰略防備。\n*   <strong>衝擊分析</strong>：能源供應線的穩定暫時獲得大國背書，降低了油價因海峽封鎖而暴漲的極端風險，但美中在衝突根源上的分歧意味著未來合作的不可持續性。\n*   <strong>觀察重點</strong>：未來美中是否會針對伊朗制裁達成進一步的私下協議，以及中國是否會實質介入中東調停。\n*   <strong>原文連結</strong>：<a href=\"https://www.investing.com/news/economic-indicators/analysistrump-returns-from-china-with-stability-and-a-stalemate-4694453\">Analysis-Trump returns from China with stability and a stalemate</a> | <a href=\"https://www.investing.com/news/commodities-news/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldnt-have-started-4694428\">Trump says Xi agrees Iran must open strait</a></p>"
+            },
+            {
+              "title": "伊朗戰爭的經濟成本：美國國內的承受力考驗",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>川普政府強調為了長遠利益，伊朗戰爭帶來的經濟陣痛是「值得的」。儘管柴油價格攀升已顯著壓低了美國學校的運營預算，導致校車成本與取暖開支劇增，但川普在農村選民中依然維持高度支持，顯示出意識形態與國家安全優先的論調在特定群體中具備韌性。然而，這種成本正透過通膨壓力滲透到社會基層，特別是依賴燃料的公共服務與農業生產者。\n*   <strong>衝擊分析</strong>：高油價正從企業端傳導至政府公共服務端，可能引發地方政府的預算缺口，進而影響教育及基礎設施建設。\n*   <strong>觀察重點</strong>：若戰爭拖延，農村選民的心理臨界點何時到來，以及民主黨是否會利用公共服務預算短缺作為選戰切入點。\n*   <strong>原文連結</strong>：<a href=\"https://www.investing.com/news/commodities-news/trump-says-iran-war-is-worth-the-economic-pain-these-rural-voters-agree-4694447\">Trump says Iran war is worth the economic pain</a> | <a href=\"https://www.investing.com/news/commodities-news/rising-diesel-costs-from-iran-war-strain-us-school-budgets-4694446\">Rising diesel costs from Iran war strain US school budgets</a></p>\n<hr />"
+            },
+            {
+              "title": "AI 繁榮重塑股權融資：結束「去股權化」時代",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>過去數年，美股市場處於「去股權化」（De-equitisation）階段，企業傾向於透過回購與私有化減少流通股數。然而，隨著人工智慧（AI）技術爆發，企業對算力與研發的大規模資本需求迫使它們重回公開市場籌資。AI 熱潮正在結束這種由庫藏股主導的牛市邏輯，市場正迎來久違的新股發行（IPO）與增發浪潮。\n*   <strong>衝擊分析</strong>：股權供給的增加可能稀釋現有股東權益，但同時也為市場注入了更高增長潛力的資產，改變了資本市場的流動性結構。\n*   <strong>觀察重點</strong>：科技巨頭是否會減少回購力度以投入研發，以及中小型 AI 新創公司在 IPO 市場的表現。\n*   <strong>原文連結</strong>：<a href=\"https://www.ft.com/content/e2a9af42-27be-4c51-bd56-3f51500fb1e7\">AI boom could end the de-equitisation ‘put’</a></p>\n<hr />"
+            },
+            {
+              "title": "西方陣營搶奪稀土資產：第一動作者優勢",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>為了降低對中國稀土供應鏈的依賴，西方企業正掀起一場「資產搶奪戰」。在目前這個「極熱」的市場中，一小群領先企業正競相收購全球稀土礦產，尋求建立獨立於中國之外的閉環供應體系。稀土作為電動車與國防工業的核心原材料，其供應鏈的安全性已上升至國家戰略層級。\n*   <strong>衝擊分析</strong>：稀土開發的重資本屬性與環境成本，可能導致短期內西方稀土價格溢價，並引發礦業部門的新一輪併購熱潮。\n*   <strong>觀察重點</strong>：西方新礦場的投產進度是否能跟上需求成長，以及中國是否會針對關鍵礦物出口採取反制措施。\n*   <strong>原文連結</strong>：<a href=\"https://www.ft.com/content/0c05ef4c-55eb-4293-8bba-7985e4c25e78\">Deal rush in rare earths as west seeks to loosen China’s grip</a></p>\n<hr />"
+            },
+            {
+              "title": "聯邦檢察官調查貝萊德（BlackRock）私募信貸基金",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>美國聯邦檢察官正針對貝萊德旗下 TCP Capital Corp 的估值實踐進行嚴格審查。隨著私募信貸市場規模爆發，監管機構對這類「影子銀行」資產的透明度與估值真實性日益擔憂。這次調查象徵著華爾街頂級機構在非流動性資產管理上，將面臨更嚴格的合規標準。\n*   <strong>衝擊分析</strong>：若調查揭露估值不透明，可能引發私募信貸市場的信心危機，導致投資者要求更高的風險溢價，甚至觸發資本流出。\n*   <strong>觀察重點</strong>：SEC 是否會跟進出台針對私募信貸資產估值的統一監管指引。\n*   <strong>原文連結</strong>：<a href=\"https://www.ft.com/content/59ab31ca-e5d3-4d22-b943-02c139db6822\">US federal prosecutors scrutinise BlackRock private credit fund</a></p>"
+            },
+            {
+              "title": "加密產業的職業化陣痛：OKX 重新評估 Consensus 贊助",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>加密貨幣交易所 OKX 因 Consensus Miami 官方慶功派對出現脫衣舞等「不成熟」內容，正重新考慮其贊助夥伴關係。這反映出加密產業在尋求主流金融體系認可的過程中，其原有的「次文化」行為與企業專業合規標準之間的激烈衝突。為了吸引更多機構投資者，加密產業必須經歷一場從「狂野邊境」轉向「專業規範」的內部清理。\n*   <strong>衝擊分析</strong>：贊助商撤資將倒逼大型加密會議提升內容品質與活動規範，加速產業的品牌重塑。\n*   <strong>觀察重點</strong>：其他主流金融機構在進入加密市場時，對品牌形象與社會責任（ESG）的審視程度。\n*   <strong>原文連結</strong>：<a href=\"https://www.ft.com/content/ea06cdaf-edfa-4830-9dff-9cb8c850530f\">Sponsor reviews crypto conference partnership over pole-dancing party</a></p>\n<hr />"
+            },
+            {
+              "title": "英國公債（Gilts）的韌性解讀",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>儘管表面上英國公債看似市場離群者，但深度數據顯示其表現並非如市場所想的那般糟糕。在通膨數據與央行政策轉向的背景下，Gilts 展現出了與全球同類債券趨同的特徵。對於尋求多元化配置的投資者而言，英債目前的殖利率水平仍具備一定的風險對沖價值。\n*   <strong>原文連結</strong>：<a href=\"https://www.ft.com/content/a08d2ed8-481f-45e2-ae18-24f35ce6ffdb\">Gilts, not so bad</a></p>"
+            },
+            {
+              "title": "淘汰化石燃料的混沌征程",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>氣候峰會內部揭露了逐步淘汰化石燃料的過程充滿混亂、矛盾且可能僅是徒勞的努力。在全球能源需求（特別是開發中國家）與減碳目標的對抗中，政策制定者陷入了現實主義與理想主義的拉鋸戰。這場峰會的「內幕故事」突顯了全球能源轉型的政治複雜性遠超技術難度。\n*   <strong>原文連結</strong>：<a href=\"https://www.ft.com/content/b9a00bb7-61ce-45c4-aa84-fe440ac4517c\">The messy, chaotic and possibly quixotic quest to phase out fossil fuels</a></p>\n<hr />\n<p><strong>總結建議</strong>：今日金融市場的核心矛盾在於「地緣政治風險」與「科技資本擴張」的角力。投資者應密切關注能源價格對美國國內經濟基本面的長尾影響，同時留意 AI 浪潮下股權供給增加對市場估值的潛在重構效應。</p>"
+            }
+          ],
           "watchlist": [],
           "no_signal": false,
-          "deep_count": 0,
+          "deep_count": 8,
           "watch_count": 0
         },
         {
           "name": "Global",
           "anchor": "Global",
-          "stories": [],
+          "archive_url": "./history/2026-05-16_21-07/index.html#Global",
+          "stories": [
+            {
+              "title": "美奈聯合行動擊斃 IS 重要頭目",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：美國總統川普與尼日利亞政府證實，在一次聯合軍事行動中成功清除了伊斯蘭國（IS）高層領導人阿布·比拉爾·阿爾-米努基（Abu-Bilal al-Minuki）。川普稱其為「全球最活躍的恐怖分子」，此行動被視為打擊西非極端主義勢力的重大勝利。\n<strong>產業衝擊</strong>：此軍事成功穩定了薩赫勒地區（Sahel region）的局勢，該地區長期以來因恐怖活動導致採礦業與跨境貿易中斷。恐怖威脅的減輕有助於降低該區域能源開發的風險溢價，對在非投資的跨國資源公司而言是利好消息。\n<strong>未來觀察</strong>：需關注伊斯蘭國西非省（ISWAP）是否會發起報復性攻擊，以及美軍在非洲反恐戰略中角色的轉變是否會引發地方武裝勢力的權力洗牌。\n<a href=\"https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&amp;at_campaign=rss\">原文連結</a></p>\n<hr />"
+            },
+            {
+              "title": "川普向台灣發出獨立警告：呼籲兩岸「降溫」",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：在與中國國家主席習近平進行峰會後數小時，美國總統川普公開警告台灣不要宣布獨立，並表達希望北京與台北雙方能為緊張局勢降溫。這顯示出川普政府在處理台海問題上，更傾向於透過「交易式外交」來維持大國間的勢力均衡。\n<strong>產業衝擊</strong>：此番言論增加了亞太地區地緣政治的不確定性，直接影響半導體供應鏈的長期佈局與風險控管。全球科技巨頭與投資者將更加審慎評估在台產能，可能進一步加速供應鏈向東南亞或北美分散的進程。\n<strong>未來觀察</strong>：未來需觀察美國對台軍售政策是否調整，以及台灣政府如何應對美方這種從「戰略模糊」轉向更直接施壓的立場。\n<a href=\"https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&amp;at_campaign=rss\">原文連結</a></p>\n<hr />"
+            },
+            {
+              "title": "瑞士將公開納粹「死亡天使」門格勒的秘密檔案",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：瑞士政府決定公開有關奧斯威辛集中營臭名昭著的醫生約瑟夫·門格勒（Josef Mengele）的秘密檔案。門格勒在戰後逃亡，長期以來一直有謠傳指其曾在瑞士境內尋求避難或透過該國轉移資產，此舉旨在落實歷史正義與透明化。\n<strong>產業衝擊</strong>：檔案的公開對歷史研究與法律追索產業具有重要意義，同時也考驗著瑞士金融業在處理爭議歷史資產時的聲譽管理。對於法醫鑑定與數位化檔案管理技術供應商而言，這類大規模歷史資料的重整展現了新技術在人文科技領域的應用潛力。\n<strong>未來觀察</strong>：檔案中是否會揭露當時協助納粹逃亡的地下網絡，以及這是否會引發新一輪針對瑞士銀行或相關機構的法律賠償訴訟，是後續焦點。\n<a href=\"https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&amp;at_campaign=rss\">原文連結</a></p>\n<hr />"
+            },
+            {
+              "title": "馬爾地夫洞穴搜救行動致救難潛水員殉職",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：馬爾地夫政府證實，在搜尋失蹤義大利遊客遺體的行動中，一名參謀士官穆罕默德·馬赫迪（Mohamed Mahdhee）不幸因公殉職。這次悲劇發生在環境極度惡劣的水下洞穴中，凸顯了深海救援的高風險性質。\n<strong>產業衝擊</strong>：此事件引發了對高風險探險旅遊安全標準的重新評估，馬爾地夫作為高端旅遊勝地，其救災能力的脆弱性可能短期內影響遊客信心。對於專業潛水設備商與保險業而言，這將推動更嚴苛的裝備認證與高風險旅遊保單的費率調整。\n<strong>未來觀察</strong>：馬爾地夫政府是否會因此限制特定危險區域的潛水活動，以及國際搜救組織是否會介入協助提升當地的深水搜救技術。\n<a href=\"https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&amp;at_campaign=rss\">原文連結</a></p>\n<hr />"
+            },
+            {
+              "title": "美國計劃刑事起訴古巴前領導人勞爾·卡斯楚",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：美國檢方預計最快下週對古巴前領導人勞爾·卡斯楚（Raúl Castro）提起刑事訴訟。起訴核心聚焦於 1996 年古巴擊落兩架民間飛機的事件，這標誌著美古關係將陷入近年來最冰冷的局面。\n<strong>產業衝擊</strong>：此司法行動預示著美國對古巴的經濟制裁將進一步加劇，封鎖了雙方在旅遊、通訊與物流領域可能出現的正常化機會。對於在加勒比海地區佈局的國際物流業者，美古緊張升溫將迫使航線重新規劃，避開可能的衝突海域。\n<strong>未來觀察</strong>：古巴政府的政治回應是否會轉向加強與俄羅斯或中國的軍事合作，以及此起訴案在美國大選政治中的戰略意義。\n<a href=\"https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&amp;at_campaign=rss\">原文連結</a></p>\n<hr />"
+            },
+            {
+              "title": "西澳洲大白鯊襲擊致死事故",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：一名男子在西澳洲珀斯附近的羅特尼斯島（Rottnest Island）馬蹄礁（Horseshoe Reef）遭到一條長達 13 英尺的大白鯊襲擊，不幸喪生。當地警方已封鎖該海域，這是該熱門觀光區罕見的致命攻擊事件。\n<strong>產業衝擊</strong>：鯊魚襲擊對西澳洲的海洋觀光業與海上運動產業（如衝浪、潛水）造成即時性的負面衝擊。這將推動政府投入更多資金於「智慧監控」技術，包括聲納預警系統與無人機偵測，為海洋科技公司創造新的政府標案機會。\n<strong>未來觀察</strong>：公眾輿論對於「鯊魚撲殺」與「環境保育」之間的爭議將再度升溫，觀察政府是否會採取更激進的捕撈政策。\n<a href=\"https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&amp;at_campaign=rss\">原文連結</a></p>\n<hr />"
+            },
+            {
+              "title": "以色列空襲黎巴嫩：停火協議面臨崩潰",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：黎巴嫩官方稱以色列的空襲導致六人死亡，儘管美國剛宣布延長停火協議，但雙方交火並未停止。川普總統上個月曾宣布達成停火，但現實中以色列與真主黨的衝突仍處於高強度狀態。\n<strong>產業衝擊</strong>：中東持續的戰火推高了全球能源供應的避險情緒，導致原油價格波動加劇。對於國防承包商與安全諮詢公司而言，該地區對防空系統與情資蒐集的需求將持續增長，而黎巴嫩的基礎設施重建則依然遙遙無期。\n<strong>未來觀察</strong>：美國的停火調解是否僅具名義性質，以及伊朗是否會因真主黨受損嚴重而更直接地介入衝突。\n<a href=\"https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&amp;at_campaign=rss\">原文連結</a></p>\n<hr />"
+            },
+            {
+              "title": "曼谷貨運列車與巴士相撞事故致 8 死",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：在泰國曼谷發生了一起嚴重的平交道事故，一輛貨運列車撞上一輛巴士並引發大火，造成至少八人死亡。現場救援行動極為艱難，巴士殘骸被大火徹底吞噬。\n<strong>產業衝擊</strong>：此事故暴露了泰國公共交通基礎設施的嚴重安全漏洞，可能引發民眾對泰國國家鐵路公司（SRT）的治理能力產生懷疑。這將促使泰國政府加速推動鐵路自動化監控系統與平交道立體化工程的預算審核。\n<strong>未來觀察</strong>：政府是否會針對老舊長途巴士進行大規模強制退役或改進防火標準，以及後續的法律賠償與責任歸屬。\n<a href=\"https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&amp;at_campaign=rss\">原文連結</a></p>\n<hr />"
+            },
+            {
+              "title": "剛果（金）爆發新一波伊波拉病毒疫情",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：剛果民主共和國東部再次爆發伊波拉疫情，目前已導致 80 人死亡。非洲最高衛生機構報告指出，累計確診病例已達 246 例，且鄰國烏干達也出現了輸入性病例，跨國傳播風險遽增。\n<strong>產業衝擊</strong>：疫情爆發對非洲中部的礦業與農業供應鏈造成中斷威脅，且可能引發國際貿易的防疫封鎖。全球製藥巨頭與公共衛生組織將面臨緊急疫苗分發的物流壓力，但也提供了新型病毒檢測技術在極端環境下驗證的機會。\n<strong>未來觀察</strong>：WHO 是否會提升疫情警戒等級，以及當地的內戰動盪是否會阻礙醫療救援隊進入核心疫區。\n<a href=\"https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&amp;at_campaign=rss\">原文連結</a></p>\n<hr />"
+            },
+            {
+              "title": "巴勒斯坦法塔赫召開黨大會：民怨日益沸騰",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：巴勒斯坦執政黨法塔赫（Fatah）罕見召開內部大會選舉決策層，但民調顯示巴勒斯坦民眾對領導層感到強烈不滿。一般大眾普遍認為其領導人已脫節，無法應對當前的生存危機與建國僵局。\n<strong>產業衝擊</strong>：法塔赫的政治合法性危機增加了西岸地區局勢的不穩定，可能導致社會動盪或罷工，進一步拖累該地區微弱的經濟活動。這對於在該區有業務往來的國際援助組織與非政府機構而言，安全風險與營運成本將顯著提升。\n<strong>未來觀察</strong>：法塔赫內部是否會出現激進改革派，以及哈馬斯在民意失衡中是否會進一步滲透西岸的權力真空。\n<a href=\"https://www.bbc.com/news/articles/clyp1lnp4ygo?at_medium=RSS&amp;at_campaign=rss\">原文連結</a></p>\n<hr />"
+            },
+            {
+              "title": "哈維·溫斯坦性侵案再次流審",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：紐約法院宣布哈維·溫斯坦（Harvey Weinstein）性侵案再次因陪審團無法達成共識而流審。這已經是 74 歲的溫斯坦第三次在紐約面對該類審判，法律程序的冗長與不確定性引發社會議論。\n<strong>產業衝擊</strong>：流審結果對好萊塢的合規與風險管理部門是一次心理衝擊，顯示出即便在 #MeToo 運動後，針對權勢人物的刑事定罪依然面臨極高門檻。對於法律科技（LegalTech）產業而言，此類長期訴訟案展現了透過大數據分析陪審團行為的市場需求。\n<strong>未來觀察</strong>：檢方是否會堅持第四次起訴，以及溫斯坦在加州的現有刑期是否會因紐約案的波折而受到法律層面的挑戰。\n<a href=\"https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&amp;at_campaign=rss\">原文連結</a></p>\n<hr />"
+            },
+            {
+              "title": "哈馬斯證實高層指揮官在以色列空襲中喪生",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：哈馬斯證實其一名頂級指揮官在週五的以色列空襲中遇難。以色列近期在加薩地帶發起了一系列針對性的空襲，儘管雙方名義上存在停火協議，但軍事對抗依然頻繁。\n<strong>產業衝擊</strong>：高層指揮官的折損可能導致哈馬斯戰術組織的短暫混亂，但也極易引發新一輪的火箭彈報復攻擊。這使得該區域的航運與航空業風險指數持續處於紅色等級，保險公司可能調高針對加薩邊境產業的附加險費率。\n<strong>未來觀察</strong>：觀察哈馬斯的接班體系是否能迅速恢復運作，以及以色列的行動是否旨在為更大規模的地面掃蕩做前期清除。\n<a href=\"https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&amp;at_campaign=rss\">原文連結</a></p>\n<hr />"
+            },
+            {
+              "title": "加拿大精神疾病者申請輔助死亡案引發爭論",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：一名患有精神疾病的女性克萊爾·布羅索（Claire Brosseau）向法院請求准許其尋求輔助死亡（MAID）。加拿大曾兩度延期針對精神疾病者的醫學輔助死亡法案，此個案可能成為法律先例。\n<strong>產業衝擊</strong>：此案挑戰了生物倫理與醫療法律的邊界，對長期照護與精神衛生產業的法律框架將產生深遠影響。如果法院准許，將推動生命權管理法律顧問與特定醫療輔助設備市場的成長，同時也引發保險業對「自殺」定義的理賠爭議。\n<strong>未來觀察</strong>：加拿大最高法院最終的裁定將如何定義「痛苦的不可治癒性」，以及此結果是否會引發其他國家的效法或反彈。\n<a href=\"https://www.bbc.com/news/articles/c78qzpg0n0go?at_medium=RSS&amp;at_campaign=rss\">原文連結</a></p>\n<hr />"
+            },
+            {
+              "title": "饒舌新星 Reble 衝擊印度嘻哈界",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：藝名為「Reble」的音樂人從印度東北部崛起，成為印度嘻哈界最具辨識度的新聲代。她的音樂充滿反叛性與地方色彩，打破了主流嘻哈音樂對印度市場的傳統壟斷。\n<strong>產業衝擊</strong>：Reble 的成功顯示了印度地方性娛樂市場（Vernacular Entertainment）的爆發潛力，這對於串流媒體平台（如 Spotify, YouTube）在印度的在地化內容佈局具有指標意義。對於時尚與街頭文化品牌而言，東北部印度正在成為一個全新的消費與創意輸出源。\n<strong>未來觀察</strong>：這類非主流文化的崛起是否能帶動印度東北部區域的文化創意產業鏈發展，以及國際唱片巨頭對其簽約的意願。\n<a href=\"https://www.bbc.com/news/articles/c4g0z40xwx7o?at_medium=RSS&amp;at_campaign=rss\">原文連結</a></p>"
+            }
+          ],
           "watchlist": [],
           "no_signal": false,
-          "deep_count": 0,
+          "deep_count": 14,
           "watch_count": 0
         },
         {
           "name": "Investments",
           "anchor": "Investments",
-          "stories": [],
+          "archive_url": "./history/2026-05-16_21-07/index.html#Investments",
+          "stories": [
+            {
+              "title": "領導層更迭：格雷格·阿貝爾 (Greg Abel) 的「破舊立新」",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：2026 年第一季是波克夏在失去巴菲特（Warren Buffett）引導後，由 Greg Abel 全面主導的首個完整季度。市場原本預期投資風格將保持連續性，但阿貝爾卻以極其果斷的行動清空了亞馬遜（Amazon）與達美樂（Domino's）等長期持股。\n<strong>深度分析</strong>：這象徵著波克夏內部「權力真空」已由阿貝爾迅速填補，且他展現出比巴菲特更具主動性、甚至帶有「部門輪動」色彩的資產配置邏輯。這種洗牌減少了對特定成長股的依賴，並試圖在後巴菲特時代建立屬於阿貝爾自己的績效基準。\n<strong>未來觀察</strong>：未來數季波克夏的週轉率是否會持續高於歷史平均，以及阿貝爾是否會進一步清理巴菲特過去「情感持股」較重的標的。\n<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2tJOUJvbTZadmNiMlVMYVA5UEE5a2Vtb0laWER2T0o4STZ4cF8zSkYwcUFmLWdZOVBaX011VkdkYVRkaWJTdmhuQk5GVWRyT0dZQkVYU0RtdnYySG5BVHJfT3AxRmk1aXlPdVRQUEltT3ltZjFpcU9WcUltZDhITDlEZkFjMEdUNGtUcEF6ZXB0RkxHNlBLNUpaQlVyMC1WdWp5LW1tX1RhQUtEOGlhRGlB?oc=5\">原文連結：Fortune</a> | <a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjh5bTMtMnpraU01VFpQUGt1eFJhM00wUEViS09FN3lDQlctWUlTdTNqTEJacjdGYVp5clFCR1JPc2lNNU0teEx3cUlBendpZ0MwY3pJbHFXTnhpS0NoS0hoVjh2SWNmX1pIenduMV9tR3E3WmpHS0k5VWs2NlpKVEhYVWNRSzVqSzdnNk5SYlJoQQ?oc=5\">原文連結：Kiplinger</a></p>"
+            },
+            {
+              "title": "科技股權重重整：三倍增持 Alphabet 與徹底告別 Amazon",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：波克夏在本季將 Alphabet (GOOGL) 的持倉數量大幅增加三倍，同時卻出人意料地出清了電子商務龍頭亞馬遜的所有股份。\n<strong>深度分析</strong>：這顯示波克夏對科技股的看法正在兩極化。增持 Alphabet 反映出阿貝爾對「數位廣告壟斷力」與「AI 基礎架構」穩定獲利能力的高度認可，將其視為類似於傳統公用事業的特許經營權；相反，清空亞馬遜可能暗示其對零售物流利潤率受損或雲端運算競爭加劇的擔憂。\n<strong>未來觀察</strong>：Alphabet 在波克夏持倉中的佔比是否會挑戰蘋果 (Apple) 的核心地位，以及波克夏是否會開始探索更多像 Alphabet 這樣具有高現金流防禦性的 AI 龍頭。\n<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQREZaeE1ZNmU1bDJPZ3hlWG9zUlFmSkNCV3VZanktWkU2VXBWQmdDTHFnbWpCX2J5X2ZjeldlQUd2eG5wdmZFQkM2UjUtVEdSM0kzVk81SVhvN3BINHVxYjdLdUt6OWM1RUxVa01IRDdXbzNKdkY1azNnOXRSeGFlV0MwY2hGUkl3ajhlMWJPN1ptNFBzbFE?oc=5\">原文連結：The Motley Fool</a> | <a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZFJ2bTlHZkoxbHlCUzRNMkZKUGY2c21IV1ZBRllKMlZLZldCRU5FZGZFYWI4eUtERGJqQkNaQ1BTWTRSeEgtSGI5TEJwSzA0T09hbWVDc3laSnNJMUptMWg2azZhZnlvVF91VVc0TjZuT3JVdzhTMFlxUERQa3dJRmVRT1Z5c3U0YmxLYkFIMGZZUFVrNHc?oc=5\">原文連結：Barron's</a></p>"
+            },
+            {
+              "title": "航空業驚人回歸：26 億美元重金注資達美航空 (Delta)",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：在 2020 年因疫情大舉割肉航空股後，波克夏此次斥資 26 億美元新建倉達美航空 (DAL)，成為本季最受矚目的「回頭草」投資。\n<strong>深度分析</strong>：這是一個強烈的宏觀訊號，表明阿貝爾認為全球旅遊、款待業及商務飛行已進入「結構性復甦」的下半場。相較於巴菲特對航空業高度競爭與資本密集的長期不信任，阿貝爾顯然更看好達美航空在後疫情時代的定價權與營運效率，並將其視為掌握全球人口移動紅利的利器。\n<strong>未來觀察</strong>：隨著美國、加拿大及英國等地旅遊激增，達美航空的獲利能力能否證明阿貝爾的這筆「豪賭」正確，以及波克夏是否會進一步補齊其他航空板塊。\n<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2tJOUJvbTZadmNiMlVMYVA5UEE5a2Vtb0laWER2T0o4STZ4cF8zSkYwcUFmLWdZOVBaX011VkdkYVRkaWJTdmhuQk5GVWRyT0dZQkVYU0RtdnYySG5BVHJfT3AxRmk1aXlPdVRQUEltT3ltZjFpcU9WcUltZDhITDlEZkFjMEdUNGtUcEF6ZXB0RkxHNlBLNUpaQlVyMC1WdWp5LW1tX1RhQUtEOGlhRGlB?oc=5\">原文連結：CNBC</a> | <a href=\"https://news.google.com/rss/articles/CBMizAJBVV95cUxPMm9XcllQdWpwWjBpcVR2SW8xalY0cDdFZHd5NGZGOGFZZFVtRDlKMjh0UG5zelRjQVl2Uy1KSUhnVms5NUZSWmstR2UxdW84eGJSSWFaX0dFRTZZUE9nWW54UGs3MTNHM2xIU1REUDd2U1hzSWxROWxKRzBybDFaR3lrZ0VSbExjSEhQd2dHeE5Id3pHdG5xUkRYVmJObFR2NHBFQjBmLUUyZUFkZF9lT1dFQWRwSERLSnJGZDVCdG41Xy0xb1hWQlVmMnRTd3EtN0VtZ2pyUThScHFadkNnaldnendWbEpFbERUa25KbFUyakVheHkwbl83UmVoeXd5dy10TUFGX3c0RHVoWTlhVkdKcEdvRS1GNnJkR2tjMzhBY2FqdDNZbjdEcUdhblNDWGl0MzkyVkZiSUs2em83YTFRTl95NDFwMXZIaw?oc=5\">原文連結：Travel And Tour World</a></p>"
+            },
+            {
+              "title": "能源與金融板塊的戰略退卻：減持 Chevron 與清空 Visa/Mastercard",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：波克夏本季在油價飆漲之際大幅套現雪佛龍 (CVX) 約 80 億美元，並清空了支付雙雄 Visa 和 Mastercard。\n<strong>深度分析</strong>：這反映出極其冷靜的利潤收割策略。在能源方面，雖然油價處於高位，但阿貝爾可能認為長期供應鏈風險與綠能轉型壓力已觸及估值天花板；在金融方面，清空 Visa/Mastercard 則可能隱含對未來消費性支出放緩、或金融科技（如 A2P 支付）衝擊傳統信用卡結算網路的長期憂慮。\n<strong>未來觀察</strong>：波克夏騰出的這 80 億美元現金流向何處，是否會進入更具防禦性的金融機構，或是準備進行更大規模的非公開公司併購。\n<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ0J5cDNfcWRReVYxeHViNDZxQVljaTgtcGk3RDlVU184c3NFakZPenk5ajRNUUpQSm1RQjFSSVdlRDdBNEUtV1plaXFfRk1lenNvSjBud1FfRjhINi1HZkQxSFBscDlWM1hIOTBhQWNUeFpBSDIwVVctVFpvUE02cWUxcjBhcU16SGVwd0U2aEZrbEozc3FzVGxmZFlRcEY3QzYxODRlamFkbFVTcnRpUzhrOFynRlRCcVRqaTlOcw?oc=5\">原文連結：Investing.com</a> | <a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX3ZrM0NkQjc4TF9SZmZwZU0wc0JZdkRZMFRkaGNoRGc4ejdCdzJ3QmpjQ0p6aXVMQTlSYUtrT3doX0FmTnZ6UFZTUHhEbkYwVkt6cnRDUGZqWkJFeUNOV3QyREloRnRQN0tUVzVVRTUzdVU3aGZCZno2ZmhZQU5zTzBJVkJXS29jazIwS3I2XzVhb3RMRHpwZ3R0NVNKUk1EOHg3alFkbGw2OUk?oc=5\">原文連結：TipRanks</a></p>"
+            },
+            {
+              "title": "價值零售的意外發現：低調建倉梅西百貨 (Macy's)",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p><strong>事件背景</strong>：波克夏本季低調購入約 5500 萬美元的梅西百貨 (M) 股票，消息釋出後帶動其股價跳漲 6%。\n<strong>深度分析</strong>：雖然金額相對於波克夏整體規模較小，但此舉顯現出「經典價值投資」的回歸。在電商夾擊下，梅西百貨被市場視為棄兒，但其持有的龐大不動產價值與近期轉虧為盈的財報，顯然吸引了阿貝爾的注意。這表明波克夏並未放棄尋找「菸屁股」式（Cigar Butt）的便宜投資機會。\n<strong>未來觀察</strong>：關稅問題與通膨壓力是否會侵蝕百貨業的獲利，以及這是否為波克夏重新佈局實體零售版圖的開端。\n<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOa2FIM2lMVTE0R3RlSnU4S0pTaXB5NEpURmZBOXdNLWdWMnAyUndNSUhpbWVNLWhISEdNRi1OSjRyR0ZTM3R0Tk9ReU9fZWRCMDdDaVF4dHBUT3lwaDM4ZHZUQW9lWl9wVU90V3dvOEdyLXNQRC1iN29ueGNid20zUmRfa1RWSWNPMjVXQnFQZ2I?oc=5\">原文連結：CoinCentral</a> | <a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPWEx1VUpHNXNROWN0d3BBOGFkOS1pbkFIMkw2N1pOTlBITzFpa3A2QV9xV1FMM1NUR0JYX2M0Z1BGTWt0VXJ0NnpKN2ItM2t3a0ZTeXFld0RMYmpmS3Rtb2ZqdjhZWUt6NkRDcWhoLTMxVXNUcTl1NjhYRk83dnpMeGJzTmhoRW9iNDlfbVQ0cWI?oc=5\">原文連結：Blockonomi</a></p>\n<hr />\n<p><strong>總結建議</strong>：Greg Abel 的首季操作顯示，波克夏正在變得更加「現代化」與「行動化」。投資人應密切關注其對 <strong>Alphabet (壟斷技術)</strong> 與 <strong>Delta (全球移動)</strong> 的高度集中配置。這是一個不再僅依賴巴菲特個人直覺，而是更科學、更具產業前瞻性的新型態控股集團。</p>"
+            }
+          ],
           "watchlist": [],
           "no_signal": false,
-          "deep_count": 0,
+          "deep_count": 5,
           "watch_count": 0
         },
         {
           "name": "Social Sentiment",
           "anchor": "Social-Sentiment",
-          "stories": [],
+          "archive_url": "./history/2026-05-16_21-07/index.html#Social-Sentiment",
+          "stories": [
+            {
+              "title": "中美峰會無實質協議與科技股集體重挫",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>川普總統結束北京行程返國，雖宣稱為「極好的對話」，但實質上未達成任何貿易架構或台灣問題協議。此舉引發市場對供應鏈不確定性的恐慌，導致半導體族群慘遭血洗：Intel 下跌 6%、AMD 跌 5.7%、NVIDIA 跌 4.4%。市場情緒顯示，投資者已對「口頭樂觀」免疫，正轉向對抗實際的地緣政治風險，科技龍頭股的估值正面臨重新校準。\n*   <strong>分析</strong>：宏觀交易者已不再看重對話氣氛，而是緊盯關稅與出口禁令的實際數據。\n*   <strong>來源</strong>：<a href=\"https://www.reddit.com/r/stocks/comments/1tefnkq/trump_left_beijing_with_no_deal_just_fantastic/\">原文連結</a></p>"
+            },
+            {
+              "title": "空軍一號的安全警戒：電子設備與外交禮物的「報廢令」",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>美國政府下令空軍一號上的隨行人員，在結束中國行後必須丟棄所有在中國收到的禮物、紀念胸針，甚至是臨時使用的「拋棄式手機」。這反映出中美情報對抗已進入白熱化階段，美方極度擔憂中方透過硬體植入後門或監聽設備。這種層級的防範不僅是外交禮節的倒退，更預示著未來兩國在高階硬體貿易上的信任成本將無限上升。\n*   <strong>分析</strong>：硬體安全（Hardware Security）將成為企業赴中差旅的標配成本，對電子產品供應鏈產生負面心理影響。\n*   <strong>來源</strong>：<a href=\"https://www.reddit.com/r/technology/comments/1teocdc/us_orders_travelers_on_air_force_one_to_throw/\">原文連結</a></p>"
+            },
+            {
+              "title": "傳統產業與消費電子「防禦化」：Mercedes-Benz 與 GoPro 的軍事轉型",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>Mercedes-Benz 執行長公開表示願意進入國防生產領域，並強調歐洲需加強防衛能力；同時，運動相機鼻祖 GoPro 也被觀察到正向國防應用轉型。這標誌著在民用消費疲軟與地緣戰爭風險升級下，頂尖製造商開始將國防合約視為穩定營收的「避風港」。這對汽車與穿戴裝置產業來說，是一個從「生活風格」轉向「軍工業複合體」的重要信號。\n*   <strong>分析</strong>：消費性電子市場成長見頂，國防科技將成為支撐這些企業估值的新敘事。\n*   <strong>來源</strong>：<a href=\"https://www.reddit.com/r/technology/comments/1tehpuv/mercedesbenz_ceo_says_carmaker_is_willing_to/\">原文連結 (Mercedes)</a> | <a href=\"https://www.reddit.com/r/technology/comments/1tefce7/even_gopro_is_pivoting_to_defense/\">原文連結 (GoPro)</a></p>\n<hr />"
+            },
+            {
+              "title": "史丹佛研究：代理型 AI (Agentic AI) 的生產力鴻溝",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>史丹佛針對 51 項 AI 部署的研究發現，讓 AI 自主完成任務（Agentic AI）的企業，中位生產力提升高達 71%，而僅將 AI 作為人類輔助工具（Assistant AI）的企業僅提升 40%。這數據證明，單純的聊天機器人已不足以構成競爭優勢，真正的護城河在於「端到端」的自主流程。然而，僅有 20% 的企業能成功跨越這一門檻，主要受限於缺乏明確的成功標準與可恢復的錯誤機制。\n*   <strong>分析</strong>：未來三年企業競爭的分水嶺將在於是否敢於讓 AI 擁有「決策權」，而非僅僅是「編輯權」。\n*   <strong>來源</strong>：<a href=\"https://www.reddit.com/r/artificial/comments/1tebiq4/stanford_studied_51_real_ai_deployments_and_found/\">原文連結</a></p>"
+            },
+            {
+              "title": "AI 公共事業化：科技巨頭意圖掌控「國家命脈」",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>分析指出，Amazon (AWS) 正循著電力與電訊業的歷史軌跡，透過建立讓經濟無法脫離的基礎設施，規避監管。AI 與數據中心正在爭奪城市的分區、電力與水權，其目標是在法規制定前成為「公共事業」。一旦 AI 深度滲透至醫療、金融與政府防禦系統，其地位將變得「大到不能倒（與不能管）」，屆時企業將擁有比政府更大的議價能力。\n*   <strong>分析</strong>：數據中心不再只是建築物，而是未來的權力核心，其選址與能耗將成為地方政治的主戰場。\n*   <strong>來源</strong>：<a href=\"https://www.reddit.com/r/artificial/comments/1tejpmh/techs_push_to_be_the_next_public_utility/\">原文連結</a></p>"
+            },
+            {
+              "title": "信任崩塌的警訊：EY 撤回研究與 Hermes 代理人崩潰",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>儘管 AI 願景宏大，但實戰中依然脆弱。EY (安永) 因發現 AI 幻覺導致數據錯誤，不得不撤回已發表的研究報告；同時，Hermes 代理人被曝出陷入「模型塌縮與幻覺循環」。這些事件提醒產業界，過度依賴 LLM 的自動化存在巨大的聲譽與法律風險。目前 AI 治理仍缺乏「主觀判斷」與「私密審議空間」，導致代理人在面對複雜社會壓力時表現出不一致性。\n*   <strong>分析</strong>：AI 的「信任赤字」將催生出一批專門從事 AI 審計與幻覺檢測的利基產業。\n*   <strong>來源</strong>：<a href=\"https://www.reddit.com/r/technology/comments/1tegnvd/ey_retracts_study_after_researchers_discover_ai/\">原文連結 (EY)</a> | <a href=\"https://www.reddit.com/r/artificial/comments/1tebuw8/hermes_agent_like_48_hours_old_told_me_its_done/\">原文連結 (Hermes)</a></p>\n<hr />"
+            },
+            {
+              "title": "加州法規干預：出版商禁止「殺死」在線遊戲",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>加州一項法案正取得進展，要求出版商在關閉伺服器後，必須提供「獨立運行」補丁或退款，防止購買的遊戲變成磚頭。這直接挑戰了長期以來「服務型遊戲」的商業邏輯，賦予消費者更強的數位所有權。對 Ubisoft、EA 等巨頭而言，這將大幅增加遊戲退役時的維護成本或賠償風險。\n*   <strong>分析</strong>：玩家對「租借而非擁有」的不滿已達臨界點，這將迫使遊戲產業回歸離線可玩性或去中心化伺服器。\n*   <strong>來源</strong>：<a href=\"https://www.reddit.com/r/technology/comments/1tegizy/bill_to_block_publishers_from_killing_online/\">原文連結</a></p>"
+            },
+            {
+              "title": "遊戲主機定價危機與 Xbox 的品牌焦慮",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>隨著主機價格攀升，市場普遍認為主機正逐漸失去其作為「平民娛樂」的相關性。同時，Xbox 傳出將品牌重塑為「XBOX」（全大寫），試圖以此挽回頹勢。然而，這種換標動作被視為掩蓋硬體銷量低迷、向雲端轉型的無奈之舉。主機產業若無法在定價與獨佔內容間找到平衡，將徹底被移動端與高效能 PC 邊緣化。\n*   <strong>分析</strong>：硬體品牌正在消失，取而代之的是跨平台訂閱服務的軟體身分。\n*   <strong>來源</strong>：<a href=\"https://www.reddit.com/r/technology/comments/1teils5/game_consoles_are_pricing_themselves_out_of/\">原文連結 (Pricing)</a> | <a href=\"https://www.reddit.com/r/technology/comments/1tegu1i/xbox_is_rebranding_to_xbox/\">原文連結 (Xbox)</a></p>"
+            },
+            {
+              "title": "GTA VI 的經濟豪賭：34 億美元預算的背後是「平台化」",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>Take-Two 的 GTA VI 傳出預算高達 20-34 億美元，若按傳統零售模式計算，首年需賣出 7000 萬份才能回本——這在歷史上從未發生過。分析認為，Rockstar 的真正戰略是透過收購五年開發團隊 (cfx.re) 將遊戲轉化為一個「大型角色扮演平台 (Roleplay Platform)」。這不僅僅是一場遊戲發行，而是一場關於「虛擬社交主權」的爭奪戰，旨在將一次性消費轉化為長期的數位服務營收。\n*   <strong>分析</strong>：未來 3A 大作的成功不再取決於發行當週銷量，而在於其作為「虛擬基礎設施」的壽命。\n*   <strong>來源</strong>：<a href=\"https://www.reddit.com/r/stocks/comments/1tesblm/why_ttwo_is_probably_mispriced_ahead_of_gta_6/\">原文連結</a></p>\n<hr />"
+            },
+            {
+              "title": "Cerebras IPO 開啟門戶：SpaceX 與 OpenAI 的公共預演",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>Cerebras ($CBRS) 以 55.5 億美元市值成功上市，雖股價出現波動，但已證明市場對非 NVIDIA 的 AI 硬體仍具備極大熱情。此舉可能吸引 SpaceX、OpenAI 與 Anthropic 在今年內啟動 IPO。投資者需密切關注資金是否會從現有的 NVIDIA、AMD 抽走，轉向這些更具「故事性」的新興龍頭。\n*   <strong>分析</strong>：AI 投資已進入「下半場」，市場開始尋找具有獨特架構或垂直整合能力的新標的。\n*   <strong>來源</strong>：<a href=\"https://www.reddit.com/r/stocks/comments/1teh50c/cerebrass_555b_ipo_opens_the_floodgates_spacex/\">原文連結</a></p>"
+            },
+            {
+              "title": "私人信貸與資產管理的分歧：Apollo 的估值陷阱？",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>儘管業績創紀錄，Apollo Global ($APO) 今年以來卻下跌 22%，主要原因在於其與 Athene 併購後的「保險浮存金」模式是否能在高利率環境下持續。相較於黑石與貝萊德，Apollo 的模式更依賴於長期、穩定的退休金流入。這種估值分歧顯示，市場對於資產管理公司如何處理「私人信貸」的透明度與風險仍存疑慮。\n*   <strong>分析</strong>：私人信貸市場的裂痕可能成為下一個系統性風險，或者是極佳的價值投資買點。\n*   <strong>來源</strong>：<a href=\"https://www.reddit.com/r/stocks/comments/1teprz6/anyone_looking_at_apollo_apo_down_here_at_15x/\">原文連結</a></p>"
+            },
+            {
+              "title": "下一個大趨勢：合成生物學與「上下文 SaaS」",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>市場開始從純 AI 模型轉向尋找能解決實際物理世界問題的產業。合成生物學、神經形態運算與 eVTOL 被視為潛在的「下一個 NVIDIA」。同時，具備強大企業私有數據「上下文（Context）」的 SaaS 公司（如 Figma、Atlassian）正重新獲得青睞，因為「背景知識」是防止 AI 產生廢話（Slop）的唯一屏障。\n*   <strong>分析</strong>：未來的贏家不再是擁有最強算法的公司，而是擁有最深、最難獲取的行業數據的公司。\n*   <strong>來源</strong>：<a href=\"https://www.reddit.com/r/stocks/comments/1ter2qy/the_next_big_sector/\">原文連結 (Next Sector)</a> | <a href=\"https://www.reddit.com/r/stocks/comments/1tecvom/the_contextual_saas_megatrend_is_coming/\">原文連結 (SaaS)</a></p>\n<hr />\n<p><strong>總結建議</strong>：今日的情緒數據反映出一種「焦慮的轉型」。地緣政治的不確定性正在重塑硬體供應鏈與國防版圖；AI 的實戰數據開始將「真強者」與「蹭熱度者」區分開來；而消費電子的定價崩潰則預示著新的數位所有權時代即將到來。分析師建議持續觀察半導體股在貿易談判後的築底情況，並將目光轉向具備自主代理能力的 AI 應用與擁有深厚行業數據的 SaaS 龍頭。</p>"
+            }
+          ],
           "watchlist": [],
           "no_signal": false,
-          "deep_count": 0,
+          "deep_count": 12,
           "watch_count": 0
         },
         {
           "name": "TW News",
           "anchor": "TW-News",
+          "archive_url": "./history/2026-05-16_21-07/index.html#TW-News",
           "stories": [
             {
-              "title": "1. 雙城論壇資安爭議與滲透定義之辯",
+              "title": "雙城論壇資安爭議與滲透定義之辯",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p>台北市政府與民進黨參選人沈伯洋針對「雙城論壇恐成滲透破口」展開激烈交鋒。沈伯洋強調「滲透」不僅限於人員入侵，更包含關鍵數據（如交通大數據）的外流，這反映了現代戰爭中資安即國安的核心邏輯。北市府要求道歉的強硬態度，顯示地方政府在推動兩岸交流時，面臨高度政治化的國安審查壓力。未來觀察重點在於雙城論壇的資安防護標準是否會因應選戰壓力而進一步透明化，以及數據跨境流動的法律框架是否會重新修訂。\n<a href=\"https://news.ltn.com.tw/news/politics/breakingnews/5439468\">原文連結</a></p>"
             },
             {
-              "title": "2. 川普訪中後的台美軍售與負擔分配趨勢",
+              "title": "川普訪中後的台美軍售與負擔分配趨勢",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p>川普結束訪中行程，其對於台灣議題的「公開沉默」與私下談話形成強烈對比。川普在空軍一號上的發言暗示其將推動「軍售商事化」，要求台灣與美方指定的負責人直接洽談，這可能意味著未來美對台軍援將轉向更具商業性質的採購模式。此舉對台灣國防預算將產生巨大衝擊，產業焦點將集中在台灣能否藉此爭取更高程度的技術轉移或共同研發機會。長期來看，這反映了美國在第一島鏈防務上，更傾向於讓盟友承擔更多財務與自我防衛責任的策略轉變。\n<a href=\"https://talk.ltn.com.tw/article/breakingnews/5439078\">原文連結</a></p>"
             },
             {
-              "title": "3. 「一國兩制」民調解讀與政治操作警示",
+              "title": "「一國兩制」民調解讀與政治操作警示",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p>近期一份顯示 22% 台灣民眾接受「一國兩制」的民調引發熱議。分析師認為，這類數字背後可能隱含複雜的問卷設計與政治操作，旨在形塑特定社會氛圍，進而影響中間選民的認知。在兩岸關係高度緊張的當下，民調數據常被各方解讀為支持特定政策的工具，其真實民意基礎與取樣代表性值得深入檢視。未來需警惕這類數據如何轉化為認知作戰的素材，並觀察執政黨與在野黨如何針對此民意趨勢進行政策攻防。\n<a href=\"https://talk.ltn.com.tw/article/breakingnews/5436999\">原文連結</a></p>\n<hr />"
             },
             {
-              "title": "1. 加州櫻桃產區災損對全球農產供應鏈的衝擊",
+              "title": "加州櫻桃產區災損對全球農產供應鏈的衝擊",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p>加州聖華金產區因氣候異常導致逾 63% 作物毀損，損失高達 55 億台幣，這不僅是單一產區的災難，更預示全球高價值農產品供應鏈的脆弱性。由於加州是台灣進口櫻桃的主要來源，這將直接導致 6 月後的零售價格大幅飆升，並考驗進口商的替代貨源調度能力。此事件凸顯了極端氣候對通膨的直接貢獻，未來農業保險與抗病抗熱品種的研發將成為農業科技產業的重點投資方向。\n<a href=\"https://ec.ltn.com.tw/article/breakingnews/5439443\">原文連結</a></p>"
             },
             {
-              "title": "2. 台北傳統市場節的城市行銷與國際化策略",
+              "title": "台北傳統市場節的城市行銷與國際化策略",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p>2026 台北傳統市場節以「市場江湖」為主題，並首度設立「天下第一攤外交獎」，旨在將在地庶民文化轉化為國際觀光資本。蔣萬安市長藉由使節參與，試圖提升台北傳統市場的品牌層次，使其從單純的採買場所轉型為文化地標。這對於地方觀光產業有顯著的帶動效果，特別是在美食體驗與文創結合方面。後續應觀察市場硬體升級與攤商數位轉型的整合成效，以及如何將短期節慶熱度轉化為長期的觀光流量。\n<a href=\"https://news.ltn.com.tw/news/life/breakingnews/5439457\">原文連結</a></p>"
             },
             {
-              "title": "3. 房地產稅賦壓力與小坪數住宅市場趨勢",
+              "title": "房地產稅賦壓力與小坪數住宅市場趨勢",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p>網友反映「小兩房」房屋稅高達 3.5 萬元，引發社群對稅率計算基礎的高度關注。此事件反映出隨房價走高與稅基調整，持屋成本已成為首購族與小資族沉重的負擔，特別是在新落成的高單價區域。這可能導致未來房地產市場更趨向於「租賃化」或影響預售屋的規劃方向。觀察重點在於政府是否會針對自住型小坪數住宅推出稅賦優化方案，以及稅務資訊透明化對購屋決策的影響。\n<a href=\"https://estate.ltn.com.tw/article/27841\">原文連結</a></p>"
             },
             {
-              "title": "4. 空污法修法對產業營運風險的隱憂",
+              "title": "空污法修法對產業營運風險的隱憂",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p>藍白陣營欲推動強行修改《空污法》，引發產業界面對「被迫停工」風險的集體焦慮。法規若過度僵化或缺乏配套，可能導致企業在達成減排目標與維持產能運作間陷入困境，甚至影響外資對台灣經營環境的穩定性評估。這對石化、鋼鐵及能源相關產業衝擊最鉅，也反映了環境保護與經濟成長之間的權力拉鋸。未來應追蹤修法具體條文，以及環境部如何在高層政治壓力下與產業界達成平衡。\n<a href=\"https://news.ltn.com.tw/news/life/breakingnews/5439442\">原文連結</a></p>\n<hr />"
             },
             {
-              "title": "1. 台南田徑教練性侵案與校園安全網缺口",
+              "title": "台南田徑教練性侵案與校園安全網缺口",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p>南檢起訴翁姓教練涉嫌性侵多名女隊員，雖起訴 4 人但外界指稱受害者高達 7 人。此案揭露了體育界封閉生態中長期存在的權力不平等與監管缺失。南檢呼籲更多受害者站出來，顯示出黑數可能遠超想像。這將推動體育教育體系對職工甄選與學生保護機制的全面體檢。未來觀察點在於法律裁罰能否形成足夠震懾，以及校園輔導體系是否能有效接住受傷的運動員。\n<a href=\"https://news.ltn.com.tw/news/society/breakingnews/5439462\">原文連結</a></p>"
             },
             {
-              "title": "2. 北捷違規飲食與強制執法挑戰",
+              "title": "北捷違規飲食與強制執法挑戰",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p>台北捷運強制取締違規嚼食口香糖的旅客，反映了軌道運輸管理對公共秩序的堅持。儘管罰鍰金額（3000 元）相對較高，但執法過程中的衝突也顯示出第一線人員在面對不配合旅客時的執法壓力。這類事件常引發公共空間管理強度與個人自由之間的論戰。未來北捷可能強化科技監控與廣播宣導，以降低人為執法的摩擦成本。\n<a href=\"https://news.ltn.com.tw/news/society/breakingnews/5439433\">原文連結</a></p>"
             },
             {
-              "title": "3. 彰化市兒童公園人為火災與公共空間維護",
+              "title": "彰化市兒童公園人為火災與公共空間維護",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p>28 歲男子因心情不佳在公園抽菸引發景觀牆火災，這暴露了開放式公共空間在夜間管理的死角。雖然警方在 18 小時內破案，但受損的景觀設施仍需由全民買單。此事件將促使地方政府思考加強公園照明、監視系統或夜間巡邏密度。未來應觀察公共空間的「反社會行為」預防措施是否能與社區警政更緊密結合。\n<a href=\"https://news.ltn.com.tw/news/society/breakingnews/5439416\">原文連結</a></p>\n<hr />"
             },
             {
-              "title": "1. 中職戰力消長與外籍球員狀態管理",
+              "title": "中職戰力消長與外籍球員狀態管理",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p>樂天王牌威能帝球速驟降、表现大失水準，導致球隊敗北。這凸顯了職業球隊在密集賽程中，對於核心洋將身體狀態監控與疲勞管理的關鍵性。球隊醫療與數據分析團隊的表現，往往直接決定了戰績的韌性。未來觀察點在於樂天如何快速調整洋將佈局，以及各隊如何優化「科學訓練」以降低主力球員的突發性傷病風險。\n<a href=\"https://sports.ltn.com.tw/news/breakingnews/5439469\">原文連結</a></p>"
             },
             {
-              "title": "2. 中信兄弟德保拉破紀錄與亞太主球場特性分析",
+              "title": "中信兄弟德保拉破紀錄與亞太主球場特性分析",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p>德保拉創下左投最多三振等多項隊史紀錄，持續鞏固其在中職史上「最偉大洋投」之一的地位。然而，中信總教練平野惠一對亞太主球場不規則彈跳的評論，揭示了新場地仍需長期細心養護的現實。場地品質直接影響球員守備數據與職業生涯長度。未來應關注球場管理單位如何針對球員與教練的反饋進行草皮與土質優化。\n<a href=\"https://sports.ltn.com.tw/news/breakingnews/5439446\">原文連結</a> / <a href=\"https://sports.ltn.com.tw/news/breakingnews/5439435\">德保拉紀錄連結</a></p>"
             },
             {
-              "title": "3. PLG 領航猿逆轉秀與聯盟商業價值提升",
+              "title": "PLG 領航猿逆轉秀與聯盟商業價值提升",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p>桃園領航猿克服 21 分落後完成史詩級逆轉，並成為聯盟首支單季 20 勝球隊。這場勝利不僅鞏固了其主場勝率，也大幅提升了賽事的觀賞度與話題性。職業籃球的市場價值高度依賴這種戲劇性的競技表現來吸引贊助與球迷。未來觀察領航猿如何將戰績優勢轉化為更高的票房收入與周邊商品銷售。\n<a href=\"https://sports.ltn.com.tw/news/breakingnews/5439436\">原文連結</a></p>\n<hr />"
             },
             {
-              "title": "1. 國際博物館日之文化平權與門票行銷",
+              "title": "國際博物館日之文化平權與門票行銷",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p>桃園美術館推出 5/18 免費入館，藉由「小確幸」吸引平時較少接觸藝術的群眾。這是一種典型的文化行銷策略，旨在透過降低門檻來擴大藝術受眾規模，並增加相關特展的曝光度。對於藝文場館而言，這類活動是建立品牌親民形象的重要機會。未來應觀察免票日所帶來的後續「回頭客」比例，以及藝術教育如何透過這類誘因深入基層。\n<a href=\"https://news.ltn.com.tw/news/art/breakingnews/5439073\">原文連結</a></p>"
             },
             {
-              "title": "2. 演藝圈公關危機與星光行銷",
+              "title": "演藝圈公關危機與星光行銷",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p>中島美嘉北流演唱會因音響或自身狀況緊急中斷，其迅速且誠懇的道歉成為最佳公關範本，成功將危機轉化為加分項。同時，蕭煌奇帶新婚妻子現身動力火車演唱會，這類「星光互挺」的社群話題有效拉升了演藝新聞的點擊率。這反映了現場表演產業（Live Performance）在不可抗力因素下的應變彈性。未來觀察重點在於場地硬體設備的穩定性，以及藝人個人品牌如何透過危機處理與社群互動進行長期經營。\n<a href=\"https://ent.ltn.com.tw/news/breakingnews/5439450\">中島美嘉連結</a> / <a href=\"https://ent.ltn.com.tw/news/breakingnews/5439453\">動力火車連結</a></p>"
             },
             {
-              "title": "3. 社會版「連續劇」與名流家庭的公共形象",
+              "title": "社會版「連續劇」與名流家庭的公共形象",
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": ""
+              "judgment_html": "<p>孫安佐再度因違禁品案受調查，其荒唐事蹟被媒體形容為「社會版連續劇」。這類事件不僅是單純的社會新聞，更反映了公眾人物家庭在媒體高度關注下的巨大精神壓力與公共形象崩塌。對於娛樂經紀產業而言，這類長期負面話題會嚴重侵蝕藝人父母的商業代言價值。未來應觀察名流家庭如何應對長期負面輿論的公關危機，以及法律體系對這類重複性行為的裁量標準。\n<a href=\"https://ent.ltn.com.tw/news/breakingnews/5439441\">原文連結</a></p>"
             }
           ],
           "watchlist": [],
@@ -357,19 +640,184 @@
         {
           "name": "TW Social",
           "anchor": "TW-Social",
-          "stories": [],
+          "archive_url": "./history/2026-05-16_21-07/index.html#TW-Social",
+          "stories": [
+            {
+              "title": "台積電（TSMC）先進製程進度超預期，確立未來三年霸權",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>台積電在技術論壇中釋出的進度令市場驚豔。N2（2奈米）製程已確認於 2025 年第四季量產，更令人振奮的是 A16（1.6奈米）結合 SPR（超級電軌）技術預計於 2026 年下半年量產。這代表台積電在埃米（Angstrom）時代的技術護城河依然穩固，將持續壓制 Intel 與 Samsung 的追趕進度，帶動台灣半導體供應鏈進入新一輪的高成長循環。\n<a href=\"https://www.ptt.cc/bbs/Stock/M.1778918528.A.4A4.html\">原文連結</a></p>"
+            },
+            {
+              "title": "算力需求爆發：OpenClaw 月耗百萬美金揭示 AI 營運成本重擔",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>OpenClaw 單月在 API Token 上花費高達 130 萬美元（約 4,200 萬台幣），直接量化了目前生成式 AI 的恐怖營收成本（Burn Rate）。這現象解釋了為何輝達（Nvidia）等硬體供應商「賣鏟子」能賺得盆滿缽滿，但也揭示了軟體端若無法找到強大的變現模式，未來將面臨極大的財務壓力。觀察重點在於 AI 基礎設施的投資回收期（ROI）是否會因為電力與算力成本過高而導致泡沫破裂。\n<a href=\"https://www.ptt.cc/bbs/Stock/M.1778928713.A.994.html\">原文連結</a></p>"
+            },
+            {
+              "title": "輝達中國紅利幻滅：川普證實北京拒買 H200 晶片",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>隨著美中地緣政治對抗升級，川普證實北京政府已開始回擊，拒絕採購輝達 H200 晶片。此舉象徵著輝達在中國市場的特殊合規版晶片（如 H20、H200 改良版）可能失去溢價能力，甚至面臨全面本土化替代。對產業而言，這迫使全球科技供應鏈必須加速「去中化」或「中外雙軌化」，輝達未來的成長動力將更依賴於北美與中東的資料中心需求。\n<a href=\"https://www.ettoday.net/news/20260516/3166962.htm\">原文連結</a></p>\n<hr />"
+            },
+            {
+              "title": "川習會難掩頹勢：資金持續流出中國 A 股市場",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>儘管川普訪問中國試圖維穩美中關係，但市場對中國經濟基本面的信心尚未恢復，A 股在會談期間連跌兩天。資金流出的現象顯示出國際法人機構對中國政治風險與房地產結構性問題的擔憂遠大於短期外交紅利。未來應觀察中國是否會推出更具強制性的資本管制措施，以及這股資金流向東南亞或台股的後續效應。\n<a href=\"https://www.epochtimes.com/b5/26/5/15/n14765706.htm\">原文連結</a></p>"
+            },
+            {
+              "title": "台灣經濟的「荷蘭病」隱憂：晶片盛世背後的失衡代價",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>分析師谷月涵（Peter Kurz）提出警告，台灣因半導體出口過於強勁，可能陷入「荷蘭病」（Dutch Disease）。這指的是單一產業過於強大導致匯率升值或人才過度集中，進而擠壓其他傳統產業與民生服務業的生存空間，造成社會貧富差距拉大。未來觀察重點在於政府如何平衡產業發展，避免「科技繁榮、庶民感冒」的社會割裂現象加劇。\n<a href=\"https://www.storm.mg/article/11131639#wholePage\">原文連結</a></p>"
+            },
+            {
+              "title": "美債殖利率飆升與台股修正壓力",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>近期台股面臨調整壓力，主因在於美債殖利率狂升迫使全球機構投資者重新配置風險資產，從高估值的科技股轉向避險資產。川普政府目前的重心轉向解決美國內部的債務與財政問題，題材炒作的空間縮小。短線操作應警惕 AI 領頭羊股價回檔對台指期造成的下修風險，關注週線級別的支撐位。\n<a href=\"https://www.ptt.cc/bbs/Stock/M.1778920449.A.169.html\">原文連結</a></p>\n<hr />"
+            },
+            {
+              "title": "三星罷工風暴：記憶體供應鏈的關鍵變數",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>三星電子面臨罷工倒數 5 天，李在鎔親自回國試圖斡旋，但勞資雙方仍存在巨大鴻溝。若罷工正式展開，將直接衝擊全球 DRAM 與 HBM 的供應節奏，這對目前處於 AI 缺貨潮的市場無疑是雪上加霜。對於競爭對手台積電（Foundry 端）或美光、海力士（記憶體端）而言，這可能引發短期的轉單效應或報價調漲。\n<a href=\"https://www.storm.mg/article/11132267\">原文連結</a></p>"
+            },
+            {
+              "title": "機器人落地應用：物流理貨自動化進入實質營運期",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>直播顯示具備 AI 視覺的機器人已能自主理貨並精準處理數萬個包裹，顯示馬斯克所言的「人類文明生產力大幅提升」正從概念走向落地。自動化技術的成熟將緩解全球勞動力短缺問題，但也對傳統低技術勞工造成失業威脅。對產業而言，機器人硬體（傳動元件、感測器）與軟體算法的整合能力，將成為下一波工業 4.0 的競爭核心。\n<a href=\"https://youtube.com/live/luU57hMhkak?si=UufnZsuSK9GfnSKw\">原文連結</a></p>"
+            },
+            {
+              "title": "企業資產活化：英業達處分 AMD 股票獲利 2,000 萬美金",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>英業達公告賣出 AMD 股票，實現高達 2,033 萬美元的利潤，顯示代工廠在積極投入研發的同時，也透過靈活的財務操作來美化報表。這類「取之於科技、換之為現金」的策略，反映出企業在面臨伺服器散熱、AI 研發等龐大資本支出時，必須維持充足的現金流。這同時也傳遞出部分企業認為半導體股價已達階段性高點的停利信號。\n<a href=\"https://mops.twse.com.tw/mops/#/web/home\">原文連結</a></p>\n<hr />"
+            },
+            {
+              "title": "台灣為何尚未因 AI 出現裁員潮？慣老闆的「人力扛」文化",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>分析指出台灣企業文化偏向「用便宜人力扛」而非「砸重金換系統」，因為建置 AI 基礎設施成本極高。低廉的勞動力成本反而成了 AI 取代人工的阻礙，這種現象雖然短期維持了就業率，但長期卻可能導致台灣企業在自動化轉型中落後全球。未來觀察點在於，當 AI 成本下降到低於台灣基層薪資時，遲來的裁員潮是否會以更猛烈的方式爆發。\n<a href=\"https://www.ptt.cc/bbs/Tech_Job/M.1778903877.A.461.html\">原文連結</a></p>"
+            },
+            {
+              "title": "技職教育的回饋：台積電基層技術員年薪百萬引發熱議",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>高職學歷在台積電擔任技術職位能獲得百萬年薪，挑戰了傳統「萬般皆下品，唯有讀書高」的價值觀。這顯示在半導體霸權時代，實務操作能力的價值在台灣市場已被重新定價。人才市場正經歷結構性轉變，頂大研發人才與資深技職人才的薪資差距正在縮小，這有利於紓解長久以來的學歷通膨現象。\n<a href=\"https://www.ptt.cc/bbs/Tech_Job/M.1778911946.A.089.html\">原文連結</a></p>"
+            },
+            {
+              "title": "高階人才取捨：伺服器散熱部門 vs 外商設備商的抉擇",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<p>在伺服器散熱需求因 AI 而暴增的背景下，系統廠的散熱部門成為熱門選項，薪資溢價明顯。中字輩機械學士憑藉散熱經驗與外語能力，在外商與本土龍頭間的博弈，反映出台灣人才在 AI 硬體鏈中極具競爭力。這也警示了傳統機械、熱傳等產業，若不與資料中心、AI 需求掛鉤，將面臨人才流失至半導體周邊的困境。\n<a href=\"https://www.ptt.cc/bbs/Tech_Job/M.1778931416.A.BDB.html\">原文連結</a></p>\n<hr />\n<p><strong>總結建議：</strong>\n目前市場正處於「技術高度樂觀」與「宏觀環境嚴峻」的夾縫中。台積電的技術領先是台灣的防禦盾牌，但輝達中國紅利的消失與美債殖利率的壓力，預示著台股短線將進入震盪整理期。投資者與從業者應密切關注三星罷工對供應鏈的擾動，以及 AI 實際營收成本是否能被後續的獲利模式覆蓋。</p>"
+            }
+          ],
           "watchlist": [],
           "no_signal": false,
-          "deep_count": 0,
+          "deep_count": 12,
           "watch_count": 0
         },
         {
           "name": "Technology",
           "anchor": "Technology",
-          "stories": [],
+          "archive_url": "./history/2026-05-16_21-07/index.html#Technology",
+          "stories": [
+            {
+              "title": "Musk v. Altman 世紀訴訟：OpenAI 的靈魂之爭進入關鍵周",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<ul>\n<li><strong>深度摘要</strong>：本訴訟進入第三周，雙方針對「誠信」與「權力慾」展開白熱化攻防。OpenAI 執行長 Sam Altman 被指控在多項關聯交易中存在自我交易與撒謊行為；與此同時，OpenAI 律師反擊 Elon Musk 僅是因無法掌控 AGI 的發展主導權而心生怨懟，甚至展示了 Musk 曾試圖加速研發而遭到內部抵制的證據。雙方律師在法庭上以醜化對方的照片作為結案陳詞背景，凸顯了這場法律戰已從商業糾紛升級為極度個人化的尊嚴之戰。</li>\n<li><strong>多維度分析</strong>：<ul>\n<li><strong>事件背景</strong>：Musk 主張其早期捐款是基於 OpenAI 作為非營利組織的承諾，旨在為全人類研發 AGI，而非成為微軟的附屬利潤引擎。</li>\n<li><strong>產業衝擊</strong>：此案判決將決定「公益性質 AI 研發」的法律邊界，若 Musk 勝訴，可能迫使 OpenAI 結構重組，甚至影響目前主流 AI 公司的融資結構與開源策略。</li>\n<li><strong>未來觀察</strong>：陪審團對「非營利承諾」的法律認定將成為關鍵，這將影響未來矽谷科技巨頭在處理社會公益與商業利益衝突時的法律防線。</li>\n</ul>\n</li>\n<li><strong>原文連結</strong>：<a href=\"https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/\">MIT Tech Review</a></li>\n</ul>"
+            },
+            {
+              "title": "《2026 國際 AI 安全報告》：面臨「證據兩難」的治理困境",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<ul>\n<li><strong>深度摘要</strong>：由圖靈獎得主 Yoshua Bengio 領銜，全球百位專家發布的報告指出，AI 代理在軟體工程領域的表現已能自主完成 80% 的人類工程師任務，且能力每 7 個月翻倍。報告核心在於「證據兩難」，即政府若因缺乏明確危險證據而不監管，可能導致災難性後果；但若監管過度，則會扼殺創新。專家預測到 2030 年，訓練算力將成長 125 倍，一旦 AI 具備自我改良研發流程的能力，將引發難以預測的技術爆發。</li>\n<li><strong>多維度分析</strong>：<ul>\n<li><strong>事件背景</strong>：全球各國對 AI 監管步調不一，急需建立科學共識以防範生物安全與系統性風險。</li>\n<li><strong>產業衝擊</strong>：報告將迫使 AI 開發者從「追逐規模（Scaling Law）」轉向「可解釋性與安全控制」，並可能推動跨國界的安全協議。</li>\n<li><strong>未來觀察</strong>：2030 年四種發展情境中，AI 自主研發能力的突破將是決定人類是否能維持主導權的分水嶺。</li>\n</ul>\n</li>\n<li><strong>原文連結</strong>：<a href=\"https://techorange.com/2026/05/16/international-ai-safety-report-2026/\">TechOrange</a></li>\n</ul>"
+            },
+            {
+              "title": "川普證實中國拒買 Nvidia H200：地緣政治下的人性化與技術冷戰",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<ul>\n<li><strong>深度摘要</strong>：美國總統川普在與習近平會談後證實，中國政府正明確指示中企拒絕購買輝達（Nvidia）的 H200 AI 晶片，顯示中美科技戰已從「美方單向制裁」演變為「中方主動杯葛」。儘管黃仁勳親自出席相關場合試圖斡旋，仍難以挽回局面。此外，Anthropic 等 AI 巨頭也正強力要求政府加強對中 AI 晶片的出口管制，反映出科技圈對國家安全的高度危機感。</li>\n<li><strong>多維度分析</strong>：<ul>\n<li><strong>事件背景</strong>：H200 是目前 AI 訓練的頂級設備，中國的拒買行為反映其意圖扶植國內如華為、壁仞等本土替代方案。</li>\n<li><strong>產業衝擊</strong>：輝達在中國市場的營收佔比將進一步萎縮，這可能迫使輝達重新調整全球供應鏈分配，將重心移往印度、日本或東南亞市場。</li>\n<li><strong>未來觀察</strong>：中方此舉是否會引發連鎖反應，導致美系雲端業者與軟體供應商在中國市場全面失焦，值得高度關注。</li>\n</ul>\n</li>\n<li><strong>原文連結</strong>：<a href=\"https://finance.technews.tw/2026/05/16/trump-said-china-refuses-to-buy-nvidia-h200/\">Technews</a> | <a href=\"https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000755604_1H65FANY1C4VE233SJ7Z9\">Digitimes</a></li>\n</ul>\n<hr />"
+            },
+            {
+              "title": "記憶體市場的時代革命：30 年規則徹底粉碎",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<ul>\n<li><strong>深度摘要</strong>：創見資訊董事長束崇萬指出，AI 浪潮已徹底打破記憶體產業過去 30 年的景氣循環規則，現在不再是傳統的供需循環，而是一場技術革命。受惠於 HBM 與伺服器強勁需求，記憶體模組廠第一季獲利表現驚人。SanDisk 股價在短短一年內飆漲 3,600%，即便如此，分析師仍認為其估值尚未過熱，反映出市場對存儲需求的極度看好。</li>\n<li><strong>多維度分析</strong>：<ul>\n<li><strong>事件背景</strong>：AI 算力的爆發需要海量數據傳輸支持，這讓記憶體從「配角」變成了與運算單元等量齊觀的「關鍵組件」。</li>\n<li><strong>產業衝擊</strong>：日本鎧俠（Kioxia）淨利年增 46 倍，驗證了這股全面性的復甦。台灣與韓國的半導體供應鏈正經歷一場從產能擴張到技術溢價的質變。</li>\n<li><strong>未來觀察</strong>：當 AI 模型從雲端走向邊緣運算（AI PC/Phone），記憶體的需求廣度將進一步擴展，是否會出現長期的產能短缺將是觀察重點。</li>\n</ul>\n</li>\n<li><strong>原文連結</strong>：<a href=\"https://technews.tw/2026/05/16/memory-module-makers-post-explosive-q1-profit-growth/\">Technews (Transcend)</a> | <a href=\"https://finance.technews.tw/2026/05/16/sandisk-3600pa/\">Technews (SanDisk)</a> | <a href=\"https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000755604_1H65FANY1C4VE233SJ7Z9\">Digitimes (Kioxia)</a></li>\n</ul>"
+            },
+            {
+              "title": "SpaceX 傳將於 6 月 12 日在 Nasdaq 上市：史上最大 IPO 倒數",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<ul>\n<li><strong>深度摘要</strong>：市場傳出馬斯克的 SpaceX 已敲定於 2026 年 6 月 12 日正式在拉斯達克（Nasdaq）上市，這將成為資本市場史上規模最大的 IPO。SpaceX 憑藉 Starlink 的全球覆蓋能力與 Starship 的低成本發射優勢，已建立起極高的產業壁壘。此舉被視為馬斯克籌集更多資金以加速火星計畫，同時也為其旗下的 AI 公司 xAI 提供強大的數據與算力資源支持。</li>\n<li><strong>多維度分析</strong>：<ul>\n<li><strong>事件背景</strong>：SpaceX 長期以來依賴私募與政府合約，走向公開市場標誌著其商業模式已進入穩定獲利與大規模擴張的階段。</li>\n<li><strong>產業衝擊</strong>：將對傳統航太巨頭（如波音、洛克希德馬丁）造成毀滅性的競爭壓力，並吸引全球資金湧入太空科技相關供應鏈。</li>\n<li><strong>未來觀察</strong>：上市後的股價表現將直接連動馬斯克在 OpenAI 訴訟案與 Tesla 營運中的資源調配能力。</li>\n</ul>\n</li>\n<li><strong>原文連結</strong>：<a href=\"https://finance.technews.tw/2026/05/16/spacex-will-go-ipo-in-nasdaq-at-june-12th/\">Technews</a></li>\n</ul>\n<hr />"
+            },
+            {
+              "title": "台灣無人機產業的「失速」危機：預算與獲利的矛盾",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<ul>\n<li><strong>深度摘要</strong>：儘管台灣無人機銷往歐洲的數量暴增 40 倍，展現了強大的外銷實力，但國內國防預算的縮減卻意外重挫了相關族群的信心。5 月 11 日台股無人機與軍工概念股出現全面性大跌，市場憂慮政府對本土無人機的長期採購承諾是否生變。這種「外熱內冷」的局面暴露出台灣在構建「無人機護國群山」路上的預算分配困境。</li>\n<li><strong>多維度分析</strong>：<ul>\n<li><strong>事件背景</strong>：烏俄戰爭與區域衝突讓無人機地位飆升，台灣業者在技術上已具備國際競爭力。</li>\n<li><strong>產業衝擊</strong>：若缺乏穩定的國內標案作為實戰場域與財務支撐，中小型業者可能面臨資金斷鏈，進而削弱產業整體韌性。</li>\n<li><strong>未來觀察</strong>：政府是否會調整預算配置，或透過跨國策略結盟（如台美合作）來緩解本土廠商的經營壓力。</li>\n</ul>\n</li>\n<li><strong>原文連結</strong>：<a href=\"https://technews.tw/2026/05/16/taiwan-stocks-slide-after-defense-drone-budget-cuts/\">Technews</a></li>\n</ul>"
+            },
+            {
+              "title": "英國陸軍「NYX 計畫」：阿帕契的專屬無人僚機競爭",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<ul>\n<li><strong>深度摘要</strong>：英國國防部宣布為阿帕契攻擊直升機開發無人僚機的「NYX 計畫」已篩選出四家入圍廠商。這項計畫旨在打造能隨同直升機作戰、執行高風險偵察或打擊任務的無人機，提升載人機的生存率與戰鬥效率。這反映了全球陸軍強權正加速將「無人機僚機」概念從空軍戰鬥機延伸至旋翼機領域。</li>\n<li><strong>多維度分析</strong>：<ul>\n<li><strong>事件背景</strong>：現代防空系統對傳統直升機威脅巨大，無人化與協同作戰已成為現代化國防的標準配備。</li>\n<li><strong>產業衝擊</strong>：這將帶動高性能鏈路、AI 自主避障與機載邊緣運算技術在國防領域的深度應用。</li>\n<li><strong>未來觀察</strong>：哪家廠商能突破「強電磁干擾環境下」的通信穩定性，將成為最終勝出的關鍵。</li>\n</ul>\n</li>\n<li><strong>原文連結</strong>：<a href=\"https://technews.tw/2026/05/16/uk-army-chose-4-candidates-for-apaches-loyal-wingman-project/\">Technews</a></li>\n</ul>\n<hr />"
+            },
+            {
+              "title": "資安警訊：2025 年惡意機器人將佔據全球流量四成",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<ul>\n<li><strong>深度摘要</strong>：iThome 報導指出，隨著 AI 技術普及，自動化網路攻擊的門檻持續降低，預估到 2025 年，惡意機器人的活動將霸佔全球網際網路流量的 40%。這類惡意程式能利用 AI 代理模擬真實用戶行為，大幅增加了企業防禦與身份識別的難度。資安攻防正進入「AI 對決 AI」的新常態。</li>\n<li><strong>多維度分析</strong>：<ul>\n<li><strong>產業衝擊</strong>：雲端服務商與大型網站將面臨更沉重的頻寬成本與安全防護壓力，推動 Zero Trust（零信任）架構的全面普及。</li>\n<li><strong>未來觀察</strong>：這將加速推動生物辨識與硬體安全密鑰技術在消費者端的滲透率。</li>\n</ul>\n</li>\n<li><strong>原文連結</strong>：<a href=\"https://www.ithome.com.tw/news/175873\">iThome</a></li>\n</ul>"
+            },
+            {
+              "title": "職場心理與 AI 教育：中國的 AI 自習室與 MBTI 瘋潮",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<ul>\n<li><strong>深度摘要</strong>：中國正推廣「AI 自習室」，利用 AI 監視器全程盯著孩子的坐姿並回傳學習進度，引發對隱私與過度教育的質疑。與此同時，「MBTI 人格測驗」在職場與社群爆紅，但也因結果不穩定與科學性不足而引起專家辯論。這些現象共同反映了當前社會對「標準化測量」與「AI 管理」的極度焦慮與依賴。</li>\n<li><strong>多維度分析</strong>：<ul>\n<li><strong>未來觀察</strong>：過度依賴 AI 監控教育可能導致學童社交能力的退化；而企業對 MBTI 的過度迷信則可能導致人力資源配置的僵化。</li>\n</ul>\n</li>\n<li><strong>原文連結</strong>：<a href=\"https://technews.tw/2026/05/16/china-to-rely-on-artificial-intelligence-in-education-reform-bid/\">Technews (AI Education)</a> | <a href=\"https://technews.tw/2026/05/16/mbti-top5-qa/\">Technews (MBTI)</a></li>\n</ul>"
+            },
+            {
+              "title": "微軟 Windows 11 的妥協與進化：開放工具列自由移動",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<ul>\n<li><strong>深度摘要</strong>：為了挽回使用者的信任，微軟在最新的測試版本中放寬了 Windows 11 飽受詬病的介面限制，將開放工作列自由移動並對「開始功能表」進行大改版。這標誌著微軟從「強加美學」轉向「尊重用戶習慣」，試圖解決 Win11 升級率不如預期的尷尬局面。</li>\n<li><strong>原文連結</strong>：<a href=\"https://technews.tw/2026/05/16/windows-11-will-have-more-freedom-to-customize-taskbar-and-start-menu/\">Technews</a></li>\n</ul>\n<hr />"
+            },
+            {
+              "title": "南極底部「加熱隧道」：海平面上升警報提速",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": "<ul>\n<li><strong>深度摘要</strong>：挪威研究團隊發現南極冰架底部出現局部融化率暴增 10 倍的現象，這主要是由於深層溫暖海水經由底部的「加熱隧道」侵蝕冰架根基。這意味著全球海平面上升的速度可能遠超現有科學模型的預期，對全球沿海城市構成迫切威脅。</li>\n<li><strong>原文連結</strong>：<a href=\"https://technews.tw/2026/05/16/hidden-warm-water-beneath-antarctica-could-rapidly-raise-global-sea-levels/\">Technews</a></li>\n</ul>\n<hr />\n<p><strong>產業總結（Analyst Opinion）</strong>：2026 年 5 月是科技史上的關鍵轉折點。我們看到 <strong>OpenAI 世紀訴訟</strong>定義了 AI 倫理的邊界，<strong>SpaceX IPO</strong> 開啟了民間太空資本的新紀元，而 <strong>記憶體市場的結構性改變</strong> 則為這場 AI 革命提供了長期的硬體基石。然而，地緣政治引發的 <strong>H200 禁買令</strong> 與 <strong>惡意機器人流量爆發</strong> 則是這場繁榮背後的深層陰影，值得所有投資者與決策者高度警惕。</p>"
+            }
+          ],
           "watchlist": [],
           "no_signal": false,
-          "deep_count": 0,
+          "deep_count": 11,
           "watch_count": 0
         }
       ]

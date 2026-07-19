@@ -1,0 +1,73 @@
+{
+  "category": "Social Sentiment",
+  "timestamp": "2026-05-25_22-41",
+  "stories": [
+    {
+      "title": "教宗利奧發布 AI 通諭：警示「不透明算法」與「去人性化」風險",
+      "body_md": "教宗利奧（Pope Leo）近日發布了一份具有里程碑意義的技術通諭，嚴厲警告少數跨國企業控制的「不透明算法」可能導致新型態的「去人性化」現象，將人類尊嚴置於技術邏輯之下。這反映了宗教權威對技術極權的高度不安，教宗特別強調 AI 在現代戰爭中的應用將使殺戮變得更加自動化與非人格化，呼籲建立全球性的倫理防火牆。從產業影響來看，這可能促使天主教背景深厚的歐洲及拉丁美洲國家加速推動更嚴格的 AI 倫理立法，要求算法透明度從技術開發端延伸至倫理審查端。未來需觀察「以人為本」的技術開發是否會成為企業獲得社會許可（Social License）的強制性標配。\n[原文連結](https://www.reddit.com/r/technology/comments/1tn5g7s/pope_leo_issues_ai_encyclical_warning_that_opaque/) | [延伸連結](https://www.reddit.com/r/technology/comments/1tn713o/pope_leo_warns_of_ai_fueling_warfare_in_first/)",
+      "used_source_urls": [
+        "https://www.reddit.com/r/technology/comments/1tn5g7s/pope_leo_issues_ai_encyclical_warning_that_opaque/",
+        "https://www.reddit.com/r/technology/comments/1tn713o/pope_leo_warns_of_ai_fueling_warfare_in_first/"
+      ]
+    },
+    {
+      "title": "藝術與真實的捍衛：時尚大師 Jeremy Scott 撕毀 AI 講稿",
+      "body_md": "在畢業典禮上，知名時尚設計師 Jeremy Scott 當眾撕毀了由 AI 撰寫的致詞稿，引發全場歡呼，這不僅是一場行為藝術，更是人類創意產業對「自動化表達」的強烈反擊。此事件折射出創意階層對於 AI 生成內容（AIGC）侵蝕人類靈魂感知的集體焦慮，強調了「真實性」與「情感連結」在未來商業價值中的稀缺性。對於內容產業而言，這預示著一個「反 AI 溢價」時代的到來，品牌若過度依賴 AI 進行營銷，可能會面臨消費者對品牌誠信度的質疑。\n[原文連結](https://www.reddit.com/r/technology/comments/1tmsggd/fashion_designer_jeremy_scott_gets_a_huge_cheer/)\n\n---",
+      "used_source_urls": [
+        "https://www.reddit.com/r/technology/comments/1tmsggd/fashion_designer_jeremy_scott_gets_a_huge_cheer/"
+      ]
+    },
+    {
+      "title": "企業高管共識：99% 預計 AI 將在兩年內引發裁員",
+      "body_md": "一項針對企業高管的調查顯示，高達 99% 的受訪者預期 AI 將在未來兩年內成為裁員的直接誘因，這與早期「AI 僅是輔助」的溫和論調截然不同。Meta 執行長祖克柏（Zuckerberg）在宣布 10% 裁員的同時警告「成功並非必然」，進一步證實了科技巨頭正透過結構性裁員來優化資源，轉向 AI 核心業務。這種情緒傳導至半導體產業，TSMC 與三星員工對分紅制度的質疑，反映了在利潤創新高的背景下，基層勞工對於技術紅利分配不均的憤怒。未來觀察重點在於，各國政府是否會因應「AI 裁員潮」推出新型態的數位稅或失業救助方案。\n[原文連結](https://www.reddit.com/r/technology/comments/1tn8jli/99_of_executives_expect_ai_to_trigger_layoffs/) | [Meta 裁員連結](https://www.reddit.com/r/technology/comments/1tmslwk/zuckerberg_warns_success_isnt_a_given_amid_10/) | [TSMC 分紅爭議](https://www.reddit.com/r/technology/comments/1tn60v8/not_just_samsung_workers_at_tsmc_also_questioning/)",
+      "used_source_urls": [
+        "https://www.reddit.com/r/technology/comments/1tn8jli/99_of_executives_expect_ai_to_trigger_layoffs/",
+        "https://www.reddit.com/r/technology/comments/1tmslwk/zuckerberg_warns_success_isnt_a_given_amid_10/",
+        "https://www.reddit.com/r/technology/comments/1tn60v8/not_just_samsung_workers_at_tsmc_also_questioning/"
+      ]
+    },
+    {
+      "title": "「AI 員工」產品類別的崛起：職位替代的具體化",
+      "body_md": "市場正出現一個明確的新趨勢：將產品定位從「AI 助手」轉向「AI 員工」（AI Employee），涵蓋銷售、招聘、會計等特定職能。這標誌著 AI 應用已從提供工具支持演進到「對工作成果負責」的階段，對白領階層的衝擊正從抽象的威脅轉變為具體的職位競爭。然而，產業分析也指出這類產品目前存在「定位超前、實力參差」的現象，許多公司僅是進行「AI 洗白」（AI Washing）以抬高估值。投資者未來應聚焦於具備「閉環工作流能力」的真 AI 產品，而非僅僅是包裝精美的聊天接口。\n[原文連結](https://www.reddit.com/r/artificial/comments/1tn27ne/is_ai_employee_becoming_a_real_product_category/) | [AI 洗白警告](https://www.reddit.com/r/technology/comments/1tn0xk5/ai_washing_firms_are_scrambling_to_rebrand/)\n\n---",
+      "used_source_urls": [
+        "https://www.reddit.com/r/artificial/comments/1tn27ne/is_ai_employee_becoming_a_real_product_category/",
+        "https://www.reddit.com/r/technology/comments/1tn0xk5/ai_washing_firms_are_scrambling_to_rebrand/"
+      ]
+    },
+    {
+      "title": "實時深偽技術（Delulu）威脅數位誠信：以 Mr. Beast 為例",
+      "body_md": "一名主播利用名為「Delulu」的實時深偽軟體，將自己偽裝成全球頂流網紅 Mr. Beast 並發表惡意言論，揭示了實時影像篡改技術已進入低門檻、高威脅的階段。這種技術直接威脅到直播電商、遠程辦公及個人身分驗證的安全基礎，可能導致整個數位社會的信任成本大幅飆升。產業急需建立基於硬體端或區塊鏈的「視覺真實認證」標準，否則數位影音內容的證據效力將徹底喪失。未來觀察點在於法律如何界定深偽軟體開發商的連帶法律責任。\n[原文連結](https://www.reddit.com/r/technology/comments/1tn5klr/streamer_realtime_deepfakes_himself_into_mr_beast/)",
+      "used_source_urls": [
+        "https://www.reddit.com/r/technology/comments/1tn5klr/streamer_realtime_deepfakes_himself_into_mr_beast/"
+      ]
+    },
+    {
+      "title": "隱私法律戰開打：Netflix、Meta 與 Proton VPN 的立場",
+      "body_md": "德州政府控告 Netflix 監視用戶（包括兒童），同時 Meta 與 WhatsApp 也在美國面臨隱私洩露的審判，這顯示了監管機構正對數據採集行為進行溯源清算。與此同時，Proton VPN 誓言反對加拿大的 Bill C-22 法案，反映了技術服務商在國家安全與個人隱私間的激烈選擇。這對廣告科技產業是重大打擊，預示著「零方數據」與「強隱私環境」將成為唯一可持續的商業路徑。未來企業需在數據收集的「合法性」與「道德感」上投入更多成本。\n[原文連結](https://www.reddit.com/r/technology/comments/1tn1hpt/texas_accuses_netflix_of_spying_on_users/) | [Meta 審判](https://www.reddit.com/r/technology/comments/1tn8m0j/meta_and_whatsapp_face_trial_in_the_us_over/) | [Proton VPN 立場](https://www.reddit.com/r/technology/comments/1tmuik0/proton_vpn_vows_to_resist_canadian_surveillance/)\n\n---",
+      "used_source_urls": [
+        "https://www.reddit.com/r/technology/comments/1tn1hpt/texas_accuses_netflix_of_spying_on_users/",
+        "https://www.reddit.com/r/technology/comments/1tn8m0j/meta_and_whatsapp_face_trial_in_the_us_over/",
+        "https://www.reddit.com/r/technology/comments/1tmuik0/proton_vpn_vows_to_resist_canadian_surveillance/"
+      ]
+    },
+    {
+      "title": "S&P 500 高估值壓力：31.8 倍本益比的牛市挑戰",
+      "body_md": "當前標普 500 指數的本益比（P/E）高達 31.8 倍，遠超歷史平均水準，這顯示市場已過度透支了 AI 帶來的利潤增長預期。分析指出，若科技巨頭無法在接下來的財報中證明 AI 的實際變現能力，市場可能面臨劇烈的均值回歸壓力。有趣的是，黑莓（BlackBerry）憑藉其 QNX 機器人軟體成功從手機轉型為 AI 基礎設施供應商，股價大幅反彈，顯示資金正流向具備「硬核技術壁壘」的細分領域。投資者應警惕通用型 AI 平台的估值過高，轉而關注如關鍵礦產（如 Antimony 銻）或基礎架構供應商。\n[原文連結](https://www.reddit.com/r/stocks/comments/1tn8pcy/the_sp_500_is_trading_at_318x_earnings_what/) | [黑莓轉型分析](https://www.reddit.com/r/stocks/comments/1tn0giy/blackberry_bb_isnt_about_smartphones_anymore/)\n\n---",
+      "used_source_urls": [
+        "https://www.reddit.com/r/stocks/comments/1tn8pcy/the_sp_500_is_trading_at_318x_earnings_what/",
+        "https://www.reddit.com/r/stocks/comments/1tn0giy/blackberry_bb_isnt_about_smartphones_anymore/"
+      ]
+    },
+    {
+      "title": "戰略觀察總結：AI 代理人與「審計軌跡」",
+      "body_md": "**總結觀點**：\n本週最關鍵的情緒轉變在於對 **「AI 代理人（AI Agents）」** 的不信任感。雖然 AI 代理人正逐漸接管從電郵到戰艦（如西班牙 Navantia 浮現的無人戰艦）的控制權，但社群與開發者開始意識到，「審計軌跡（Audit Trails）」比「自主權」更重要。如果人類無法追蹤 AI 決策的每一步邏輯，那麼越強大的 AI 就意味著越高不可控的風險。\n\n*   **長期關鍵詞**：透明度（Transparency）、審計性（Auditability）、人性復興（Human Renewal）。\n*   **產業警示**：Linus Torvalds 對 AI 生成的「無意義拉取請求（PR）」開始採取強硬態度，這預示著開發者生態系統即將對 AI 產生的垃圾代碼進行大清洗。\n[原文連結](https://www.reddit.com/r/artificial/comments/1tnarvu/ai_agents_need_audit_trails_more_than_they_need/) | [Linus 評論](https://www.reddit.com/r/technology/comments/1tn3tq2/linus_torvalds_to_start_being_more_hardnosed/) | [無人戰艦連結](https://www.reddit.com/r/technology/comments/1tn6l6y/no_captain_my_captain_navantia_floats_crewless/)",
+      "used_source_urls": [
+        "https://www.reddit.com/r/artificial/comments/1tnarvu/ai_agents_need_audit_trails_more_than_they_need/",
+        "https://www.reddit.com/r/technology/comments/1tn3tq2/linus_torvalds_to_start_being_more_hardnosed/",
+        "https://www.reddit.com/r/technology/comments/1tn6l6y/no_captain_my_captain_navantia_floats_crewless/"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

@@ -1,0 +1,43 @@
+{
+  "category": "AI",
+  "timestamp": "2026-06-08_10-55",
+  "stories": [
+    {
+      "title": "事件背景與專案初始構想",
+      "body_md": "本次專案由開發者 VirusDumb 於 Hugging Face 舉辦的「Build Small Hackathon」中提出，該黑客松的核心宗旨是鼓勵開發者使用參數規模小於 32B 的開源微型模型來打造創新應用。專案的靈感源自於熱門獨立動畫《驚奇數位馬戲團》(The Amazing Digital Circus) 中的 AI 角色 Caine（其外觀特徵為一副巨大的假牙），開發者的初始野心極大，試圖打造一款「披著遊戲外皮的過度工程化待辦事項清單」。這個構想旨在創造一個虛擬寵物或 AI 伴侶，透過將現實世界的工作任務轉化為虛擬世界中的互動冒險，來達到實質提升使用者現實生產力的目標。[原文連結](https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures)",
+      "used_source_urls": [
+        "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures"
+      ]
+    },
+    {
+      "title": "技術挑戰、開發瓶頸與挫敗",
+      "body_md": "在實作過程中，開發者選擇了參數規模適合黑客松限制的「Nemotron 30b」作為核心驅動模型，並嘗試直接讓 AI 生成以 Three.js 為基礎的 3D 網頁冒險遊戲。為了達成這個複雜的目標，作者嘗試了多種進階的提示詞工程（Prompt Engineering）技巧，包含堆疊超長提示詞、引入技能卡片（Skill Cards）機制，甚至是嘗試結合檢索增強生成（RAG）技術。然而，殘酷的技術現實是，這些嘗試均未能成功產出可穩定執行的遊戲程式碼，系統頻繁地輸出無效代碼並導致前端「畫面空白（Blank screens）」，這充分暴露了當前中小型 AI 模型在處理複雜視覺化框架與長篇幅狀態維持時的能力極限。[原文連結](https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures)",
+      "used_source_urls": [
+        "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures"
+      ]
+    },
+    {
+      "title": "專案降級轉型與最終「失敗」宣告",
+      "body_md": "面對無法克服的 3D 遊戲生成障礙，開發者被迫將專案大幅降級（Pivot），轉型成一個較為簡單的「HTML 玩具製造機（HTML toy maker）」。這個妥協後的版本勉強具備了「一鍵生成」（Single-shot）基礎網頁應用的能力，能夠成功寫出時鐘、簡單待辦清單、貪吃蛇或打磚塊等輕量級 2D 遊戲。然而，當面臨稍微複雜一點的遊戲邏輯（例如需要處理多重狀態與碰撞判定的俄羅斯方塊）時，系統依然會直接崩潰。最終，由於無法實現最初的宏偉藍圖且受限於比賽時程，作者坦然將此專案標記為「失敗（a failed project）」，並向社群公開尋求未來方向的建議，完美展現了開源社群「公開構建、快速失敗」的獨特文化。[原文連結](https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures)",
+      "used_source_urls": [
+        "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures"
+      ]
+    },
+    {
+      "title": "產業衝擊與多維度深度分析",
+      "body_md": "此失敗案例對 AI 應用產業帶來了極具價值的警示與啟發，打破了非技術圈對於「AI 已能輕易生成任何應用程式」的過度神話。它明確劃定了目前 30B 級別以下開源模型的「能力邊界」：這類模型雖然在單次對話、基礎 HTML/JS 生成表現優異，但若缺乏強大的代理迴圈（Agentic Loop）與自動除錯機制，幾乎不可能一次性產出複雜的 Three.js 空間運算專案。此外，這個專案也凸顯了「遊戲化生產力工具」在系統架構上的高度複雜性，證明了將發散的 AI 角色扮演（Persona）與嚴謹的軟體工程狀態機（State Machine）互相結合，仍是當前生成式 AI 落地的一大技術深水區。[原文連結](https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures)",
+      "used_source_urls": [
+        "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures"
+      ]
+    },
+    {
+      "title": "未來的產業觀察重點",
+      "body_md": "針對此事件的後續效應，產業未來應密切關注三個核心發展趨勢。首先，是開源中小型模型（10B-30B）在長文本程式碼生成與「空間運算前端框架（如 WebGL/Three.js）」訓練數據上的補強進度，這將決定微型模型能否突破 2D 網頁的限制。其次，是「代理工作流（Agentic Workflows）」的演進，未來的 AI 開發工具必須具備自帶沙盒的自動編譯、報錯與重寫能力，而非單純依賴單次生成（Zero-shot）來避免「空白畫面」的開發窘境。最後，Hugging Face 社群這種容許並鼓勵分享「失敗經驗」的開放生態，將大幅加速整體 AI 開發者避開技術陷阱的速度，從而推動更務實的邊緣端（Edge AI）微型模型應用創新與落地。[原文連結](https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures)",
+      "used_source_urls": [
+        "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

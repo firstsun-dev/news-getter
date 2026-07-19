@@ -40,20 +40,6 @@
     "date": "2026-06-17",
     "runs": [
       {
-        "time": "00:30",
-        "categories": [
-          "AI",
-          "Finance",
-          "Global",
-          "Investments",
-          "Social Sentiment",
-          "Strategy",
-          "TW News",
-          "TW Social",
-          "Technology"
-        ]
-      },
-      {
         "time": "11:00",
         "categories": [
           "AI",
@@ -744,33 +730,6 @@
     "date": "2026-05-25",
     "runs": [
       {
-        "time": "02:41",
-        "categories": [
-          "Finance",
-          "Global",
-          "Investments",
-          "Product Growth",
-          "Social Sentiment",
-          "TW News",
-          "TW Social",
-          "Technology"
-        ]
-      },
-      {
-        "time": "02:56",
-        "categories": [
-          "Finance",
-          "Global",
-          "Investments",
-          "Product Growth",
-          "Social Sentiment",
-          "TW News",
-          "TW Social",
-          "Technology",
-          "overview"
-        ]
-      },
-      {
         "time": "10:48",
         "categories": [
           "Finance",
@@ -901,21 +860,6 @@
   {
     "date": "2026-05-21",
     "runs": [
-      {
-        "time": "07:21",
-        "categories": [
-          "AI",
-          "Economics",
-          "Finance",
-          "Global",
-          "Investments",
-          "Social Sentiment",
-          "Strategy",
-          "TW News",
-          "TW Social",
-          "Technology"
-        ]
-      },
       {
         "time": "10:42",
         "categories": [
@@ -1410,43 +1354,6 @@
   {
     "date": "2026-05-05",
     "runs": [
-      {
-        "time": "11:08",
-        "categories": [
-          "Economics",
-          "Finance",
-          "Global",
-          "Investments",
-          "Product Growth",
-          "Social Sentiment",
-          "Strategy",
-          "TW News",
-          "TW Social",
-          "Technology"
-        ]
-      },
-      {
-        "time": "13:27",
-        "categories": [
-          "AI",
-          "Economics",
-          "Finance",
-          "Global",
-          "Investments",
-          "Product Growth",
-          "Social Sentiment",
-          "Strategy",
-          "TW News",
-          "TW Social",
-          "Technology"
-        ]
-      },
-      {
-        "time": "13:44",
-        "categories": [
-          "Strategy"
-        ]
-      },
       {
         "time": "13:47",
         "categories": [

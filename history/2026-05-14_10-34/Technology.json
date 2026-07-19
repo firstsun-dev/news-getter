@@ -1,0 +1,93 @@
+{
+  "category": "Technology",
+  "timestamp": "2026-05-14_10-34",
+  "stories": [
+    {
+      "title": "Google Gemini 爆發隱私洩漏：PII 訓練數據的系統性風險",
+      "body_md": "近期多起案例顯示 Google 的生成式 AI 頻繁洩露民眾的私人電話號碼，受害者包括律師、產品設計師及學者。此現象揭示了大模型在預訓練階段（Pre-training）對個人識別資訊（PII）過濾不足的技術缺陷，且目前尚無有效機制防止資訊被「吐出」。這將迫使監管機構重新審視 AI 訓練數據的合法性，並可能引發新一波針對科技巨頭的集體訴訟，對 AI 產業的信譽造成重創。\n**產業衝擊：** 隱私保護技術（如差分隱私、聯邦學習）將從「選配」轉為「標配」。\n**觀察重點：** Google 是否會因隱私法規被迫大規模離線調整模型參數，以及第三方隱私審核機構的興起。\n[原文連結](https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/)",
+      "used_source_urls": [
+        "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/"
+      ]
+    },
+    {
+      "title": "Meta 員工抗議監控軟體：AI 製造時代的勞資緊張關係",
+      "body_md": "Meta 因強制在工作電腦安裝滑鼠追蹤軟體（Mouse-tracking）引爆全美員工抗議，員工反對淪為「資料提取工廠」的生產零件。這反映出企業在追求 AI 自動化與代理（Agent）化的過程中，過度數據化員工行為所帶來的非人性化管理爭議。這種對抗情緒若蔓延，可能影響矽谷頂尖人才的留任率，並促使各界討論「AI 時代的勞動尊嚴權」。\n**產業衝擊：** 企業內部資安監控與員工隱私之間的界線需重新界定。\n**觀察重點：** 抗議是否促成矽谷科技工會化的進一步發展，以及相關反監控法案的推進。\n[原文連結](https://infosecu.technews.tw/2026/05/14/meta-employees-are-protesting-the-companys-mouse-tracking-program/)",
+      "used_source_urls": [
+        "https://infosecu.technews.tw/2026/05/14/meta-employees-are-protesting-the-companys-mouse-tracking-program/"
+      ]
+    },
+    {
+      "title": "出版界災難：AI 垃圾內容淹沒電商書架",
+      "body_md": "亞馬遜等電子書平台每月產生超過 30 萬本由 AI 生成的「水貨」圖書，甚至出現偽造知名專家署名的案例，導致學術與創作生態遭到毀滅性打擊。這類低質量、無人查證的內容不僅破壞讀者信任，更造成知識傳播的混亂。出版界與平台方若無法有效過濾 AI 生成內容，傳統版權獲利模式將面臨崩解。\n**產業衝擊：** 「內容指紋」與「人工認證標籤」將成為出版市場的新門檻。\n**觀察重點：** 電商平台是否會引進更嚴格的作者身分驗證，以及 AI 內容浮水印技術的法律效力。\n[原文連結](https://technews.tw/2026/05/14/best-selling-books-written-by-non-human-authors/)\n\n---",
+      "used_source_urls": [
+        "https://technews.tw/2026/05/14/best-selling-books-written-by-non-human-authors/"
+      ]
+    },
+    {
+      "title": "記憶體市場劇震：群聯 EPS 破百與三星 SSD 暴漲",
+      "body_md": "受惠於 AI 伺服器與邊緣運算的強勁需求，記憶體大廠群聯（Phison）在前四個月便賺逾 10 個股本，展現極強的獲利爆發力。與此同時，日本市場的三星 8TB SSD 價格暴漲至 55 萬日圓，反映出存儲設備正陷入嚴重的供需失衡。隨著記憶體週期波動淡化，高階存儲產品已成為 AI 基建中僅次於 GPU 的關鍵戰略物資。\n**產業衝擊：** 下游 PC 與伺服器製造商將面臨巨大的成本轉嫁壓力，毛利率可能受損。\n**觀察重點：** 三星、SK 海力士與美光的擴產節奏是否能跟上 2H26 的設備拉貨潮。\n[原文連結](https://finance.technews.tw/2026/05/13/phisons-cumulative-eps-for-the-first-four-months-exceeded-nt100-earning-more-than-10-times-its-share-capital/) | [原文連結](https://finance.technews.tw/2026/05/14/ssd-prices-skyrocket-by-300-in-japan/)",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/05/13/phisons-cumulative-eps-for-the-first-four-months-exceeded-nt100-earning-more-than-10-times-its-share-capital/",
+        "https://finance.technews.tw/2026/05/14/ssd-prices-skyrocket-by-300-in-japan/"
+      ]
+    },
+    {
+      "title": "代理 AI 引發 CPU 回歸：載板大廠 Ibiden 的戰略預測",
+      "body_md": "Ibiden 指出「代理式 AI」（Agentic AI）將帶動對 CPU 的需求重新上升，打破過去僅重視 GPU 的單一傾向。代理式 AI 需要頻繁的推論與決策跳轉，這對通用型處理器（CPU）與特定應用積體電路（ASIC）的協作要求更高。這標誌著 AI 算力架構正從單純的「暴力運算」轉向「複雜作業處理」的新階段。\n**產業衝擊：** Intel 與 AMD 的 CPU 業務可望迎來第二春，ASIC 設計服務（如 Marvell）需求將持續走高。\n**觀察重點：** 晶片架構是否轉向「計算近記憶體」（CIM）或更先進的 3D 封裝技術。\n[原文連結](https://technews.tw/2026/05/14/agentic-ai-ibiden-cpu/)",
+      "used_source_urls": [
+        "https://technews.tw/2026/05/14/agentic-ai-ibiden-cpu/"
+      ]
+    },
+    {
+      "title": "AI 晶片新星 Cerebras IPO：重組算力供應鏈的挑戰者",
+      "body_md": "Cerebras 憑藉其超大晶圓級晶片技術，IPO 估值衝上 564 億美元，展現出投資市場對「非 NVIDIA 方案」的強烈渴望。OpenAI 可能利用 Cerebras 作為制衡 NVIDIA 的籌碼，以降低算力成本與供應風險。這場 IPO 的成功與否，將定義未來數年 AI 晶片市場是否能從獨佔轉向多極競爭。\n**產業衝擊：** 加速新型算力架構的商用化，迫使 NVIDIA 持續壓低現有產品價格。\n**觀察重點：** Cerebras 能否解決軟體生態（如 CUDA 護城河）的適配性問題，實現真正的算力替代。\n[原文連結](https://finance.technews.tw/2026/05/14/cerebras-prices-ipo-at-185-per-share-to-raise-5-55-billion/)\n\n---",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/05/14/cerebras-prices-ipo-at-185-per-share-to-raise-5-55-billion/"
+      ]
+    },
+    {
+      "title": "SMR 成為 AI 資料中心用電終極解方？",
+      "body_md": "隨著 AI 能耗攀升，小型模組化反應爐（SMR）再度成為焦點，儘管 Oklo 與 NuScale 仍處於燒錢階段，但市場對其期待感極高。SMR 的優勢在於部署靈活、安全性高且能提供穩定的基載電力，這對需要 24/7 運作的資料中心至關重要。然而，財務壓力與法規審核仍是這項「能源革命」落地前的巨大鴻溝。\n**產業衝擊：** 核能相關供應鏈將從傳統能源轉型為「AI 伴生產業」。\n**觀察重點：** 首座商用 SMR 的併網時間表，以及大型雲端服務商（CSP）是否會直接入股核能新創。\n[原文連結](https://technews.tw/2026/05/14/oklo-nuscale-smr-ai/)",
+      "used_source_urls": [
+        "https://technews.tw/2026/05/14/oklo-nuscale-smr-ai/"
+      ]
+    },
+    {
+      "title": "航太技術突破：軌道製藥與 NASA 核動力火神計畫",
+      "body_md": "Varda Space 成功推進軌道製藥商業化，利用微重力環境進行藥物結晶試驗，可能生產出地球上無法合成的高效能藥物。同時，NASA 啟動核反應爐驅動的行星際航天器計畫，目標 2028 年奔向火星。這兩項進展標誌著太空已不再只是科學探索的終點，而是具備高產值回報的「近地工廠」與「深空轉運站」。\n**產業衝擊：** 製藥、材料科學將迎來「太空化」轉型，帶動可回收火箭需求。\n**觀察重點：** 太空製藥成本與產量的平衡點，以及國際間對太空核能使用的安全規範。\n[原文連結](https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/)\n\n---",
+      "used_source_urls": [
+        "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/"
+      ]
+    },
+    {
+      "title": "美台無人機戰略合作：軟硬體進入「新領域」",
+      "body_md": "美國無人機協會執行長羅賓斯強調，台美在無人機領域的合作正從單純代工轉向「安全與可信賴運作場域」的共建。台灣具備硬體製造優勢，而美國擁有全球領先的飛行軟體，雙方結合旨在排除「非友岸供應鏈」的資安威脅。這不僅是商業合作，更是區域防衛供應鏈去中化的重要指標。\n**產業衝擊：** 台灣無人機產業將獲得進入美軍及其盟友採購清單的門票。\n**觀察重點：** 國防預算調整是否會影響國內無人機研發動能，以及與美方技術標準的接軌進度。\n[原文連結](https://technews.tw/2026/05/14/michael-robbins-usa-taiwan-drone/)",
+      "used_source_urls": [
+        "https://technews.tw/2026/05/14/michael-robbins-usa-taiwan-drone/"
+      ]
+    },
+    {
+      "title": "川習高峰會登場：AI 風險與貿易休戰的角力",
+      "body_md": "川普抵達北京準備與習近平會晤，焦點集中在延續貿易休戰、AI 技術風險管控及地緣政治衝突。在美伊戰爭導致能源飆升、PPI 創四年新高的背景下，美中兩國在科技脫鉤與合作之間尋求新的動態平衡。這場會議的結果將直接影響未來半年全球半導體與電動車的關稅動向。\n**產業衝擊：** 若談判破裂，全球科技供應鏈可能面臨更劇烈的碎片化，推升通膨壓力。\n**觀察重點：** 雙方是否會就「AI 武器化」達成初步禁令，以及中國對成熟製程晶片的出口限制是否鬆綁。\n[原文連結](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000755312_RUI27MQN2IQKPV1B5D0RG)\n\n---",
+      "used_source_urls": [
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000755312_RUI27MQN2IQKPV1B5D0RG"
+      ]
+    },
+    {
+      "title": "醫療製藥：J&J 利用 AI 將新藥研發前期時間減半",
+      "body_md": "強生（J&J）成功運用 AI 模型篩選化合物，將原本耗時數年的前期試驗縮短 50%，並大幅優化臨床試驗受試者的招募。這證實了 AI 在高度合規的醫療產業中具備強大的降本增效能力。未來製藥業的競爭力將取決於對「生物大模型」的掌握與運用。\n**產業衝擊：** 傳統實驗室研究模式將全面數位化，AI 科學家成為藥廠核心人力。\n**觀察重點：** AI 篩選出的候選藥物在臨床三期的通過率，以及 FDA 對 AI 生成研究數據的審核標準。\n[原文連結](https://techorange.com/2026/05/14/johnson-johnson-ai/)",
+      "used_source_urls": [
+        "https://techorange.com/2026/05/14/johnson-johnson-ai/"
+      ]
+    },
+    {
+      "title": "汽車轉型：瑪莎拉蒂考慮由華為代工電動車",
+      "body_md": "Stellantis 旗下的瑪莎拉蒂考慮將新款電動車交由華為與江淮汽車代工，象徵歐洲傳統豪華品牌在「軟體定義汽車」（SDV）競爭中的落後。華為透過代工模式深入豪車供應鏈，顯示出其在智能座艙與自動駕駛系統上的強大壓制力。\n**產業衝擊：** 歐洲汽車產業面臨「去工業化」風險，核心競爭力正向中國科技巨頭傾斜。\n**觀察重點：** 歐盟對中國智駕軟體的准入政策，以及瑪莎拉蒂品牌的價值是否因代工而稀釋。\n[原文連結](https://technews.tw/2026/05/14/maserati-in-talk-with-huawei-jac/)\n\n---\n\n**分析師總結：**\n2026 年 5 月的技術環境正處於「AI 治理」與「算力重組」的交匯點。一方面，我們看到隱私、勞資與內容質量帶來的強烈陣痛；另一方面，從 SMR 到太空製藥的基礎技術正以前所未有的速度跨越商業化門檻。投資者應密切關注記憶體供需失衡帶來的短期利潤，以及代理式 AI 與 ASIC 崛起對傳統半導體架構的長期顛覆。",
+      "used_source_urls": [
+        "https://technews.tw/2026/05/14/maserati-in-talk-with-huawei-jac/"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

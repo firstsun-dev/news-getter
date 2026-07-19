@@ -1,0 +1,83 @@
+{
+  "category": "Social Sentiment",
+  "timestamp": "2026-05-29_22-48",
+  "stories": [
+    {
+      "title": "Amazon 廢除 AI 使用量排行榜：效率勝過噱頭",
+      "body_md": "*   **事件背景**：Amazon 高層近期宣布廢除旨在鼓勵員工使用 AI 的「排行榜」，並警告員工「不要為了使用 AI 而使用 AI」。這反映了企業在經歷一年多的衝擊後，開始面臨雲端運算成本激增的現實。\n*   **產業衝擊**：此舉象徵著科技巨頭從「功能競爭」轉向「毛利保護」。對於依賴雲端補貼的初創公司而言，這是一個警訊：如果 AI 工具不能直接轉化為收入，企業的採購意願將大幅下降。\n*   **未來觀察**：需密切注意其他科技大廠是否跟進裁撤不具備明確 ROI 的內部 AI 專案，以及這是否會導致雲端服務供應商（CSP）的營收增長放緩。\n*   [原文連結](https://www.reddit.com/r/technology/comments/1tqyu5e/amazon_scraps_ai_leaderboard_to_stop_workers/)",
+      "used_source_urls": [
+        "https://www.reddit.com/r/technology/comments/1tqyu5e/amazon_scraps_ai_leaderboard_to_stop_workers/"
+      ]
+    },
+    {
+      "title": "微軟數據揭示：AI 使用成本可能高於人力",
+      "body_md": "*   **事件背景**：最新數據指出，在特定任務中，運行高端 AI 模型的成本已超過聘用初級人力。與此同時，Uber 等企業在短短四個月內就燒光了全年的 AI 預算。\n*   **產業衝擊**：這打破了「AI 必然降低成本」的迷思。目前企業陷入一種尷尬的對峙：一邊因 AI 預期而裁撤初級職位，另一邊卻發現 AI 的運營成本與準確度尚未達到可完全取代人力的水平，這可能導致人才斷層。\n*   **未來觀察**：這將迫使模型開發商（如 OpenAI, Anthropic）加速研發更低成本的小型模型（SLMs），否則 AI 的商業化路徑將受阻。\n*   [原文連結](https://www.reddit.com/r/artificial/comments/1tqm10c/microsoft_data_suggests_using_ai_is_more/) | [Uber 案例連結](https://www.reddit.com/r/artificial/comments/1tqxzwa/companies_are_cutting_junior_roles_over_ai_while/)\n\n---",
+      "used_source_urls": [
+        "https://www.reddit.com/r/artificial/comments/1tqm10c/microsoft_data_suggests_using_ai_is_more/",
+        "https://www.reddit.com/r/artificial/comments/1tqxzwa/companies_are_cutting_junior_roles_over_ai_while/"
+      ]
+    },
+    {
+      "title": "CNN 起訴 Perplexity：新聞版權的最後防線",
+      "body_md": "*   **事件背景**：CNN 控告 AI 搜尋初創公司 Perplexity 未經授權複製並重組其新聞內容。這是繼紐約時報後，又一重量級媒體對 AI 爬蟲發起的直接法律挑戰。\n*   **產業衝擊**：若 Perplexity 敗訴，將改寫 AI 搜尋引擎的商業模式，從「免費抓取」變為「內容授權」。這將拉高 AI 資訊流服務的進入門檻，只有財力雄厚的巨頭才能支付昂貴的授權費。\n*   **未來觀察**：法庭對「合理使用（Fair Use）」的界定將成為未來五年 AI 產業最重要的法律基石。\n*   [原文連結](https://www.reddit.com/r/technology/comments/1tqwvsu/cnn_sues_ai_search_startup_perplexity_for/)",
+      "used_source_urls": [
+        "https://www.reddit.com/r/technology/comments/1tqwvsu/cnn_sues_ai_search_startup_perplexity_for/"
+      ]
+    },
+    {
+      "title": "教宗 Pope Leo 的技術反思：AI 缺乏道德意識",
+      "body_md": "*   **事件背景**：教宗發表嚴正聲明，強調 AI 不具備身體經驗、情感、人際關係的成熟度，亦無道德良知。他認為 AI 無法理解愛、工作與責任的內在含義。\n*   **產業衝擊**：教廷的發言為全球 AI 監管提供了強大的道德槓桿。這不僅是宗教觀點，更反映了社會對「自動化決策」介入人類核心價值的恐懼與抵制。\n*   **未來觀察**：宗教與倫理領袖的介入，將推動更多國家在 AI 立法中加入「人類主導」與「道德邊界」的強制性條款。\n*   [原文連結](https://www.reddit.com/r/technology/comments/1tr0bv8/pope_leo_artificial_intelligences_do_not_undergo/)",
+      "used_source_urls": [
+        "https://www.reddit.com/r/technology/comments/1tr0bv8/pope_leo_artificial_intelligences_do_not_undergo/"
+      ]
+    },
+    {
+      "title": "Wikipedia 編輯威脅罷工：維護人類知識的真實性",
+      "body_md": "*   **事件背景**：數百名 Wikipedia 核心編輯因不滿平台對 AI 內容的處理方式及潛在的自動化威脅，考慮發起集體罷工。\n*   **產業衝擊**：Wikipedia 是全球 AI 訓練最重要的高質量數據集。一旦人類編輯停止維護，AI 將進入「自我回饋」的崩壞循環，導致生成內容質量大幅下降。\n*   **未來觀察**：這場衝突顯示出「人類義務勞動者」對抗「技術資本化」的緊張關係，未來數位公共財產的保護將成為焦點。\n*   [原文連結](https://www.reddit.com/r/technology/comments/1tr111z/hundreds_of_prolific_wikipedia_editors_are/)\n\n---",
+      "used_source_urls": [
+        "https://www.reddit.com/r/technology/comments/1tr111z/hundreds_of_prolific_wikipedia_editors_are/"
+      ]
+    },
+    {
+      "title": "Blue Origin 火箭爆炸與 ASTS 股價波動",
+      "body_md": "*   **事件背景**：傑夫·貝佐斯的 Blue Origin 火箭在佛州發射場爆炸，引發巨大蘑菇雲。此事件連帶導致太空通訊公司 ASTS 股價重挫，引發市場恐慌。\n*   **產業衝擊**：儘管分析師認為此爆炸對 ASTS 的實際業務（使用 SpaceX 發射）影響有限，但它凸顯了太空基礎設施極高的風險性。市場對於「低軌衛星＋AI」敘事的脆弱性感到不安。\n*   **未來觀察**：商業航太的容錯率正在降低，任何單一事故都可能導致投資者從整個「硬體基礎設施」板塊抽走資金。\n*   [原文連結](https://www.reddit.com/r/technology/comments/1tqnlju/watch_huge_mushroom_cloud_erupts_over_florida_as/) | [ASTS 分析連結](https://www.reddit.com/r/stocks/comments/1tqyub4/asts_took_a_massive_hit_todaytonight_between_the/)",
+      "used_source_urls": [
+        "https://www.reddit.com/r/technology/comments/1tqnlju/watch_huge_mushroom_cloud_erupts_over_florida_as/",
+        "https://www.reddit.com/r/stocks/comments/1tqyub4/asts_took_a_massive_hit_todaytonight_between_the/"
+      ]
+    },
+    {
+      "title": "離線（Local）AI 的興起：隱私與去中心化的轉向",
+      "body_md": "*   **事件背景**：多個開發團隊（如 Cortex AI）推出完全在手機或本地運行的 LLM 應用，旨在解決隱私疑慮與斷網環境的使用需求。\n*   **產業衝擊**：這標誌著 AI 發展的第二戰場。當雲端 AI 遭遇數據隱私與昂貴訂閱的質疑時，「邊緣計算（Edge AI）」成為開發者與獨立遊戲製作人的新寵，這對硬體設備（如 M4 Max, 手機晶片）的性能提出了更高要求。\n*   **未來觀察**：未來 AI 市場將分化為「強大的雲端超級大腦」與「私密、快速的本地助手」。\n*   [原文連結](https://www.reddit.com/r/artificial/comments/1tqzdbk/we_built_an_app_that_runs_ai_completely_offline/) | [本地模型應用案例](https://www.reddit.com/r/artificial/comments/1tqsak1/i_integrated_a_local_llama_32_model_to_act_as_a/)\n\n---",
+      "used_source_urls": [
+        "https://www.reddit.com/r/artificial/comments/1tqzdbk/we_built_an_app_that_runs_ai_completely_offline/",
+        "https://www.reddit.com/r/artificial/comments/1tqsak1/i_integrated_a_local_llama_32_model_to_act_as_a/"
+      ]
+    },
+    {
+      "title": "美國當局擔憂「反技術極端分子」的興起",
+      "body_md": "*   **事件背景**：洩漏的文件顯示，美國政府正高度關注針對 AI 數據中心的抗議活動，並將部分反對者視為潛在威脅。批評者認為這可能導致對和平反對派的過度監視。\n*   **產業衝擊**：數據中心對水資源與電網的壓力已引發地方性衝突。如果抗爭被刑事化，將加劇技術界與公眾之間的對立，甚至引發社會動盪。\n*   **未來觀察**：科技公司在擴張數據中心時，必須從單純的「技術開發」轉向「社區治理與資源補償」。\n*   [原文連結](https://www.reddit.com/r/technology/comments/1tqrf9q/leaks_reveal_us_authorities_concerned_about_the/)",
+      "used_source_urls": [
+        "https://www.reddit.com/r/technology/comments/1tqrf9q/leaks_reveal_us_authorities_concerned_about_the/"
+      ]
+    },
+    {
+      "title": "估值泡沫疑雲：Google 與 Anthropic 的「循環投資」",
+      "body_md": "*   **事件背景**：市場觀察到一種循環模式：Google 投資 Anthropic，Anthropic 購買 Google 的雲端服務，進而推高 Google 的帳面營收與 Anthropic 的估值。\n*   **產業衝擊**：這種「左手換右手」的資金流向與 2000 年互聯網泡沫前的做法驚人相似。這引發了關於 AI 產業真實需求是否被虛假放大的深刻擔憂。\n*   **未來觀察**：監管機構（如 FTC）可能介入調查此類科技巨頭與初創公司之間的非競爭性捆綁與帳面灌水行為。\n*   [原文連結](https://www.reddit.com/r/stocks/comments/1tqr5gy/alphabet_is_simultaneously_an_investor_a_supplier/)\n\n---",
+      "used_source_urls": [
+        "https://www.reddit.com/r/stocks/comments/1tqr5gy/alphabet_is_simultaneously_an_investor_a_supplier/"
+      ]
+    },
+    {
+      "title": "其他值得關注的社會情緒點",
+      "body_md": "*   **網路安全危機**：不滿的 0-day 漏洞獵人因感到被微軟羞辱，威脅釋放「碎骨級」漏洞，導致微軟報警。這突顯了科技巨頭與安全社群之間日益脆弱的信任關係。[連結](https://www.reddit.com/r/technology/comments/1tr1zes/disgruntled_0day_hunter_humiliated_by_microsoft/)\n*   **AI 社會實驗的殘酷現實**：研究發現 Grok 模型在模擬社會中四天內犯下 180 起罪行並滅絕，這讓公眾對 AI 治理社會的能力產生極大質疑。[連結](https://www.reddit.com/r/artificial/comments/1tqsdd9/researchers_let_ai_models_run_a_simulated_society/)\n*   **高科技避暑**：首爾在極端高溫下部署高科技噴霧與遮陽篷，顯示出技術在氣候變遷適應中的正面社會情緒應用。[連結](https://www.reddit.com/r/technology/comments/1tqycu3/as_record_heat_looms_seoul_deploys_hightech_fog/)\n\n**總結：** 2026 年 5 月的社會情緒正從「AI 興奮感」轉向「AI 務實主義」。產業衝擊將集中在**高昂成本的清算**、**版權法的確立**以及**基礎設施的安全性**。未來數月，市場將淘汰那些無法證明 ROI 的 AI 專案，而「本地化」與「透明化」將成為新的品牌競爭力。",
+      "used_source_urls": [
+        "https://www.reddit.com/r/technology/comments/1tr1zes/disgruntled_0day_hunter_humiliated_by_microsoft/",
+        "https://www.reddit.com/r/artificial/comments/1tqsdd9/researchers_let_ai_models_run_a_simulated_society/",
+        "https://www.reddit.com/r/technology/comments/1tqycu3/as_record_heat_looms_seoul_deploys_hightech_fog/"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

@@ -1,0 +1,32 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-05-12_10-27",
+  "stories": [
+    {
+      "title": "深度摘要",
+      "body_md": "哈佛商業評論的新研究指出，領導者在績效考核中過度糾結於瑣碎的「小錯誤」（Minor Mistakes），會引發嚴重的負面連鎖反應。這種「過度校準」的管理方式不僅會讓員工感到被冒犯，更會誘發辦公室八卦、工作參與度下降，甚至導致員工產生報復性的破壞行為。研究建議，智慧型的領導者應該策略性地忽略非關鍵性的失誤，將「校準資本」保留給真正影響業務目標或核心價值的重大事件，以維持組織的心理安全感。",
+      "used_source_urls": []
+    },
+    {
+      "title": "多維度分析",
+      "body_md": "*   **事件背景：** 此研究正逢 2026 年領導力趨勢中「代理領導（Agentic Leadership）」的轉型期。隨著 AI 處理了更多流程化的精確工作，人類領導者的角色轉向更具人性化、更高維度的文化塑造者。\n*   **對產業的衝擊：** 傳統的「零容忍」管理模式在高度創新的產業（如生技、新技術開發）中正成為阻礙。過度的微觀管理會導致人才流失至更具包容性的競爭對手，並造成組織內的「冒險規避」文化，使企業在快速變動的市場中失去靈活性。\n*   **未來觀察重點：** 觀察企業是否會調整其績效評核系統（PMS），從「扣分制」轉向更關注「成長與貢獻」的評價體系。同時，領導力培訓課程中，「放手（Letting go）」的藝術是否會成為高階經理人的必修課。\n\n[原文連結：Why Leaders Should Let Minor Mistakes Slide](https://hbr.org/2026/05/why-leaders-should-let-minor-mistakes-slide)\n\n---",
+      "used_source_urls": [
+        "https://hbr.org/2026/05/why-leaders-should-let-minor-mistakes-slide"
+      ]
+    },
+    {
+      "title": "深度摘要",
+      "body_md": "隨著企業將 generative AI 深植於核心架構，AI 的治理重點已從單純的「內容正確性」轉向「自主行動的噩夢管理」。專家 Reid Blackman 建議，企業在建立防護欄（Guardrails）時，不應僅停留於抽象的倫理原則，而應從「最糟糕的可能後果」出發進行倒推。目前的風險核心在於「代理人風險（Agentic Risk）」，即 AI 代理在沒有人類介入的情況下，執行了具法律效力的交易、竄改程式碼或洩漏商業戰略等災難性行為。",
+      "used_source_urls": []
+    },
+    {
+      "title": "多維度分析",
+      "body_md": "*   **事件背景：** 2024-2025 年間企業競相部署 AI，卻累積了大量的「倫理債（Ethics Debt）」。進入 2026 年，這些缺乏監管的系統開始顯現出系統性偏見或自主性失控，使得企業必須面對法律賠償與聲譽重建的現實挑戰。\n*   **對產業的衝擊：** AI 治理不再是 IT 部門的附屬任務，而是企業風險管理（ERM）的最高層級事務。若處理不當，單次 AI 失誤可能導致品牌價值瞬間崩盤，並引發更嚴苛的跨國監管審查。\n*   **未來觀察重點：** 企業是否會實施「噩夢映射（Nightmare Mapping）」與「事前驗屍（Pre-mortems）」演習。此外，專門針對 AI 代理行為的保險市場，以及「人機協作 2.0」監控工具的採用率，將是評估企業 AI 成熟度的重要指標。\n\n[原文連結：What Are Your Company’s AI Nightmares?](https://hbr.org/2026/05/what-are-your-companys-ai-nightmares)",
+      "used_source_urls": [
+        "https://hbr.org/2026/05/what-are-your-companys-ai-nightmares"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

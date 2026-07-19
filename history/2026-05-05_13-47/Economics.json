@@ -1,0 +1,15 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-05-05_13-47",
+  "stories": [
+    {
+      "title": "政府統計數據的信譽危機：資訊失真帶來的昂貴代價",
+      "body_md": "**事件背景與研究發現**\n《經濟學人》引用最新研究指出，政府統計數據（如 GDP、CPI 及失業率）的準確性與透明度對於現代經濟運作至關重要，但當前政治干預正嚴重侵蝕這些「經濟導航系統」的完整性。特別是在 2025 年美國政府對勞工統計局（BLS）負責人的政治化撤換後，市場對數據的信任度大幅下滑，導致投資者必須花費額外成本去驗證官方資訊。NBER 的一項研究顯示，這種信任侵蝕不僅是行政問題，更會直接轉化為市場波動與政策誤判的實質代價。[原文連結](https://www.economist.com/finance-and-economics/2026/05/04/bad-government-statistics-can-cost-the-economy-billions)\n\n**經濟成本與衝擊深度**\n分析顯示，糟糕或受質疑的統計數據每年可能導致美國 GDP 損失約 200 億至 800 億美元（約佔總額的 0.06% 至 0.27%），並造成 3 萬至 13 萬個就業機會消失，主因是企業在高度不確定性下會推遲投資決策。當聯準會（Fed）或各國央行依據「可能有誤」的數據進行升降息決策時，資源配置的效率會大幅下降，甚至引發通膨預期的脫錨。統計機構的預算（如 BLS 的 7 億美元）相對於其提供的資訊價值而言微乎其微，數據信譽每下降一個單位，國家付出的經濟代價可能是投入成本的 25 倍以上。[原文連結](https://www.economist.com/finance-and-economics/2026/05/04/bad-government-statistics-can-cost-the-economy-billions)\n\n**未來觀察重點**\n未來應關注各國是否會透過立法手段加強統計機構的獨立性，使其免受選舉週期或政治人物的言論干預。同時，市場是否會轉向依賴更多的替代性數據（Alternative Data），例如利用衛星影像、信用卡即時消費紀錄或 AI 模型來修正官方數據的偏誤。若官方統計數據的公信力無法恢復，全球金融市場可能會面臨更高頻率的「數據修正衝擊」（Revision Shock），即官方事後大幅修正初值時引發的市場動盪。[原文連結](https://www.economist.com/finance-and-economics/2026/05/04/bad-government-statistics-can-cost-the-economy-billions)",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/05/04/bad-government-statistics-can-cost-the-economy-billions"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

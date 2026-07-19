@@ -1,0 +1,98 @@
+{
+  "category": "TW News",
+  "timestamp": "2026-05-28_23-35",
+  "stories": [
+    {
+      "title": "美伊達成 60 天諒解備忘錄：核協議與中東局勢的轉折點",
+      "body_md": "美國與伊朗談判代表已針對一份為期 60 天的諒解備忘錄（MOU）達成協議，主要內容包含延長停火以及啟動針對伊朗核計畫的深度談判。此事件的背景在於中東地區長期的高度緊張，尤其是荷姆茲海峽的航行安全直接影響全球能源供應。若此協議獲得川普點頭，短期內將緩解能源價格壓力，並為中東和平帶來一線曙光；然而，觀察重點在於美方內部的政治角力以及伊朗是否會如實履行核裁軍的承諾。\n- [開法荷姆茲、啟動核談判 網媒Axios：美伊達成60天協議等川普點頭](https://news.ltn.com.tw/news/world/breakingnews/5453348)\n- [美伊接近簽署停戰協議 美媒：只差川普點頭](https://news.ltn.com.tw/news/world/breakingnews/5453326)",
+      "used_source_urls": [
+        "https://news.ltn.com.tw/news/world/breakingnews/5453348",
+        "https://news.ltn.com.tw/news/world/breakingnews/5453326"
+      ]
+    },
+    {
+      "title": "俄烏戰爭人命代價：英國情報指出俄軍陣亡將近 50 萬",
+      "body_md": "根據英國情報機關（GCHQ）的最新評估，俄羅斯入侵烏克蘭至今四年多，已有近 50 萬名俄軍士兵陣亡。這項數據遠高於過往預期，反映出戰場環境的殘酷與消耗戰的本質，對俄羅斯國內人口結構與社會經濟將產生長期負面衝擊。未來需觀察俄方是否會因人力枯竭而改變戰爭策略，以及這對普廷政權穩定性的潛在威脅。\n- [英情報首長最新評估 普廷侵烏4年近50萬俄軍陣亡](https://news.ltn.com.tw/news/world/breakingnews/5453331)",
+      "used_source_urls": [
+        "https://news.ltn.com.tw/news/world/breakingnews/5453331"
+      ]
+    },
+    {
+      "title": "美中核武溝通障礙與台海風險",
+      "body_md": "英國智庫 IISS 發布報告指出，由於中國核武庫的高度不透明與缺乏緩衝機制，美中兩國在核議題上的溝通面臨巨大障礙。在台海衝突的情境下，這種不透明性可能導致雙方誤判對方指揮鏈的意圖，進而使傳統衝突迅速升高至核子層級。產業分析師認為，這增加了跨國企業在西太平洋區域的風險評估難度，供應鏈去風險化（De-risking）的趨勢將持續加速。\n- [中國核武庫不透明 英智庫專家：美中核議題難溝通](https://news.ltn.com.tw/news/world/breakingnews/5453298)\n\n---",
+      "used_source_urls": [
+        "https://news.ltn.com.tw/news/world/breakingnews/5453298"
+      ]
+    },
+    {
+      "title": "黃仁勳與台灣 AI 供應鏈：AI 兆元宴與市場潛力",
+      "body_md": "輝達（NVIDIA）執行長黃仁勳在台北宴請台積電董事長魏哲家等重要供應鏈夥伴，宣示 AI 為史上規模最大的科技產業，其未來市場規模可望達到過往晶片與系統產業的 10 至 100 倍。黃仁勳此舉強化了台灣作為 AI 關鍵基礎設施中心的地位，並強調即便面對競爭，現有生態系的優勢難以撼動。未來觀察重點在於輝達如何將 AI 應用從資料中心推向終端市場（Edge AI），以及與台灣廠商的深度協作。\n- [漏網鏡頭》小朋友送冰棒 喊熱黃仁勳當場開嗑：好吃](https://ec.ltn.com.tw/article/breakingnews/5453294)\n- [點評華為「韜定律」黃仁勳：威脅不到台積電！](https://ec.ltn.com.tw/article/breakingnews/5453293)",
+      "used_source_urls": [
+        "https://ec.ltn.com.tw/article/breakingnews/5453294",
+        "https://ec.ltn.com.tw/article/breakingnews/5453293"
+      ]
+    },
+    {
+      "title": "AI 硬體瓶頸：緯穎警示組件短缺將持續至 2028 年",
+      "body_md": "輝達伺服器主要製造商緯穎科技指出，AI 產業的瓶頸不單在於 HBM 記憶體，資料中心的各項關鍵零組件也面臨缺貨挑戰，預計緩解時間要等到 2028 年。這意味著全球 AI 基礎建設的速度可能受限，且建置成本將持續攀升，對雲端服務供應商（CSP）的資本支出構成壓力。這對伺服器代工廠而言是利多與風險並存，獲利能力取決於供應鏈管理與議價能力。\n- [不只記憶體！輝達伺服器製造商緯穎：AI瓶頸2028才見緩解](https://ec.ltn.com.tw/article/breakingnews/5453337)",
+      "used_source_urls": [
+        "https://ec.ltn.com.tw/article/breakingnews/5453337"
+      ]
+    },
+    {
+      "title": "華為 1.4 奈米「韜定律」爭議：技術實力與 AI 造假的質疑",
+      "body_md": "中國華為近期發表聲明，聲稱 5 年內可透過「韜定律」實現 1.4 奈米製程，挑戰台積電的領先地位。然而，半導體專家對此表示懷疑，甚至爆出其研究報告疑似由 AI 撰寫，缺乏實際技術依據。這反映出中方在受美方制裁下，急於尋求宣傳突破點，但實質技術跨越仍面臨極大阻礙。\n- [華為狂吹5年內拚到1.4奈米挑戰台積電！專家打槍驚爆研究報告是AI寫的](https://ec.ltn.com.tw/article/breakingnews/5453261)\n\n---",
+      "used_source_urls": [
+        "https://ec.ltn.com.tw/article/breakingnews/5453261"
+      ]
+    },
+    {
+      "title": "美國通膨頑固：4 月 PCE 增速超預期，降息恐延至 2025 年",
+      "body_md": "美國 4 月個人消費支出物價指數（PCE）年增 3.8%，顯示通膨壓力依然強勁，主要是受到能源價格波動與服務業成本支撐。這項數據使得市場對聯準會（Fed）今年降息的預期大幅降溫，資金成本的高昂將持續壓抑企業的估值與擴張計劃。對於高成長性的科技產業而言，長期的高利率環境將增加資本運作的負擔，投資者需更加關注企業的現金流能力。\n- [美通膨更頑固！4月PCE創3年最快增速 Fed降息恐等明年](https://ec.ltn.com.tw/article/breakingnews/5453296)",
+      "used_source_urls": [
+        "https://ec.ltn.com.tw/article/breakingnews/5453296"
+      ]
+    },
+    {
+      "title": "白銀市場遇冷：華爾街投行警告基本面被高估",
+      "body_md": "白銀在經歷了去年的驚人漲幅後，目前因價格過高開始抑制工業需求，多家華爾街投行對其前景轉向保守。由於白銀具有工業與避險雙重屬性，在宏觀形勢不穩定的背景下，銀價的波動率明顯增加。投資者應關注工業需求是否能持續回溫，以及宏觀經濟下行風險是否會觸發銀價的進一步回調。\n- [快逃？華爾街投行唱空1貴金屬](https://ec.ltn.com.tw/article/breakingnews/5453336)\n\n---",
+      "used_source_urls": [
+        "https://ec.ltn.com.tw/article/breakingnews/5453336"
+      ]
+    },
+    {
+      "title": "2026 百里侯爭霸戰倒數：陳水扁與民進黨的戰略部署",
+      "body_md": "隨著 2026 年選舉倒數，凱達格蘭基金會感恩晚會成為政治焦點，前總統陳水扁現身為沈伯洋、陳亭妃等戰將助陣。陳水扁以過往落後反超的經驗鼓勵參選人，顯示民進黨正積極尋求在台北、台南、嘉義等地的選戰突破口。蔣萬安雖然目前民調大幅領先，但選戰變數仍多，藍綠雙方的攻防重點將聚焦於市政政績與 AI 招商實力（如輝達進駐爭議）。\n- [嗨翻全場！陳水扁偕沈伯洋3戰將 同台高唱「愛拚才會贏」](https://news.ltn.com.tw/news/politics/breakingnews/5453301)\n- [蔣萬安穩贏？陳水扁曝逆轉勝經驗：沈伯洋絕對追得上](https://news.ltn.com.tw/news/politics/breakingnews/5453295)\n- [把輝達進駐當政績 李四川「這件事」被網灌爆](https://news.ltn.com.tw/news/politics/breakingnews/5453262)",
+      "used_source_urls": [
+        "https://news.ltn.com.tw/news/politics/breakingnews/5453301",
+        "https://news.ltn.com.tw/news/politics/breakingnews/5453295",
+        "https://news.ltn.com.tw/news/politics/breakingnews/5453262"
+      ]
+    },
+    {
+      "title": "國台辦調整機構：新設「第 10 局」專責吸納台灣人才",
+      "body_md": "中國國台辦近期大幅調整內部結構，並新設第 10 局，專門負責台灣人赴中學習、實習、就業與創業事務。這顯示中方在政治壓力之餘，正加大力度推行「人才吸納」的軟實力戰略，試圖從青年世代著手進行兩岸交流。這對台灣的人才留任與兩岸關係的質變具有深遠影響，未來需關注相關配套政策對台灣勞動市場的影響。\n- [中國國台辦調整內部機構 新設第10局專責台灣人赴中學習就業](https://news.ltn.com.tw/news/world/breakingnews/5453269)",
+      "used_source_urls": [
+        "https://news.ltn.com.tw/news/world/breakingnews/5453269"
+      ]
+    },
+    {
+      "title": "金融防詐成效：永豐銀攔阻近 4 億資產",
+      "body_md": "在社會安全方面，永豐銀行揭露去年透過臨櫃攔阻守住客戶近 4 億元資產，顯示金融機構與執法單位的防詐機制正發揮作用。隨著詐騙手法不斷利用 AI 技術升級，金融業也投入更多 AI 科技進行預警偵測。這反映出「合規技術（RegTech）」已成為銀行業競爭力的核心維度之一。\n- [臨櫃攔阻詐 永豐銀去年守住客戶近4億資產](https://ec.ltn.com.tw/article/breakingnews/5453290)\n\n---",
+      "used_source_urls": [
+        "https://ec.ltn.com.tw/article/breakingnews/5453290"
+      ]
+    },
+    {
+      "title": "體育與社會雜項",
+      "body_md": "- **PLG 季後賽**：富邦勇士與桃園領航猿將爭奪冠軍，反映出台灣職籃市場的高度熱度與商業價值。 [勇士晉級要再和領航猿爭冠](https://sports.ltn.com.tw/news/breakingnews/5453324)\n- **中職魔鷹表現**：台鋼雄鷹洋砲魔鷹單場雙響砲，顯見台鋼在戰力補強上的顯著成效，吸引大量球迷回歸。 [雙響狂灌5打點暫居雙冠王](https://sports.ltn.com.tw/news/breakingnews/5453311)\n- **法網冷門**：球王辛納在法網次輪爆冷出局，顯示網壇新舊勢力交替的劇烈動盪。 [大爆冷門！球王辛納次輪出局](https://sports.ltn.com.tw/news/breakingnews/5453305)\n\n---\n**總結建議**：今日新聞聚焦於「AI 產業擴張」與「地緣政治緩和」兩大主軸，雖然宏觀通膨壓力仍大，但科技鏈的技術儲備與地緣政治的短暫停火為市場提供了喘息空間。投資者應密切關注 6 月川普對美伊協議的表態，以及輝達 COMPUTEX 前夕在台的進一步佈局。",
+      "used_source_urls": [
+        "https://sports.ltn.com.tw/news/breakingnews/5453324",
+        "https://sports.ltn.com.tw/news/breakingnews/5453311",
+        "https://sports.ltn.com.tw/news/breakingnews/5453305"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

@@ -1,0 +1,29 @@
+{
+  "category": "Product Growth",
+  "timestamp": "2026-05-10_10-25",
+  "stories": [
+    {
+      "title": "當「非產品經理」（Non-PMs）開始直接向生產環境發布產品",
+      "body_md": "**背景與現狀：**\n隨著生成式 AI（如 Claude Code 與 GitHub Copilot）的普及，開發門檻已大幅降低，導致公司內部的銷售、市場或運營等「非技術/非產品人員」具備了初步的構建能力。這群人被社群稱為「準 PM」（Quasi-PMs），他們能夠獨立產出功能原型，甚至試圖越過傳統的產品流程直接將功能推向用戶。\n\n**產業衝擊分析：**\n*   **優先級瓶頸的移轉**：儘管 AI 加速了「構建」速度，但工程資源始終是有限的。社群專家指出，雖然非 PM 能夠產出原型，但這些原型往往被稱為「氛圍驅動的垃圾」（vibe-coded slop），缺乏系統架構與邊緣案例處理。因此，產品經理（PM）的角色正從「創意發想者」轉變為「戰略過濾器」，必須嚴格評估這些原型是否值得投入正式的工程維護成本。\n*   **組織架構的挑戰**：傳統的「1 PM 對 5-6 工程師」模型正受到衝擊。工程經理（EM）現在需要花更多時間指導非產品人員如何具備產品思維，而 PM 則面臨著來自全公司範圍內「想直接動手做」的競爭壓力，這可能導致功能過載（Feature Factory）現象加劇。\n\n**未來觀察重點：**\n企業需要建立一套「去中心化」的戰略評估矩陣。當每個人都能 build 時，決定「不該 build 什麼」將成為公司的核心競爭力。觀察重點在於 PM 是否能成功從「門戶守衛」轉型為「戰略賦能者」，將產品策略透明化，讓非 PM 人員能進行有效的自我過濾。\n\n[原文連結](https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when)\n\n---",
+      "used_source_urls": [
+        "https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when"
+      ]
+    },
+    {
+      "title": "關於 Claude Code 激進定價 A/B 測試的深層邏輯",
+      "body_md": "**背景與現狀：**\nAnthropic 最近針對其終端 AI 編碼工具 Claude Code 進行了極具爭議的定價測試。部分新用戶被隨機分配到僅能選擇 $100/月（Max 5x）或 $200/月（Max 20x）的高額訂閱方案，而原本 $20/月的 Pro 方案入口被暫時隱藏。\n\n**產業衝擊分析：**\n*   **算力成本的真實反映**：這次 A/B 測試揭示了「代理型 AI」（Agentic AI）極其昂貴的運行成本。Claude Code 在掃描大型代碼庫時，其 Token 消耗量驚人。分析師認為，Anthropic 試圖通過高定價來尋求「成本回收」與「用戶價值」之間的平衡，而非僅僅是為了利潤。\n*   **開發者價值的重新錨定**：對於重度開發者而言，即便 $100/月 依然被視為「划算」，因為同等強度的 API 調用費可能高達 $1,000 以上。這代表開發工具正從「平價訂閱」轉向「高價值生產力工具」的專業化分層，未來可能出現更多針對「專業代理人（Agent）」的高級收費標準。\n\n**未來觀察重點：**\n這次測試引發的開發者社群反彈（Backlash）是否會迫使 Anthropic 長期保留 $20 方案，或者最終會走向「混合模式」：基礎功能便宜，但「自主代理」模式則按用量或高額套餐收費。這將成為生成式 AI 工具商業化的重要指標。\n\n[原文連結](https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when)\n\n---",
+      "used_source_urls": [
+        "https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when"
+      ]
+    },
+    {
+      "title": "生成式 AI 在遊戲產業的應用與倫理分水嶺",
+      "body_md": "**背景與現狀：**\n遊戲產業對 AI 的態度正呈現明顯的極化現象。根據最新社群 wisdom 與數據，Steam 上已有約 7% 的遊戲公開披露使用 AI 技術。討論焦點已從「AI 能不能做」轉向「玩家在什麼情況下能接受」。\n\n**產業衝擊分析：**\n*   **「隱形 AI」的接受度**：玩家對於後台代碼、優化算法（如 DLSS 5）或非視覺、非文本的 AI 應用接受度極高；然而，一旦涉及「創意靈魂」（如角色對白、配音、立繪），玩家會產生類似「有機 vs. 籠養」的倫理排斥。社群成員指出，InnoGames 成功利用 AI 維護了原本不具盈利能力的「夕陽遊戲」，這展示了 AI 在遊戲長尾營運中的巨大潛力。\n*   **平台政策的法制化**：如 Panic (Playdate) 等平台已開始實施嚴格的 AI 使用標註政策。這代表「AI 披露」將成為遊戲開發的標配，未來可能影響遊戲的評級、獎項提名甚至是平台的分成比例。\n\n**未來觀察重點：**\n開發者應關注「AI 賦能非技術創作者」的趨勢，讓遊戲設計師或藝術家能直接通過自然語言構建複雜的交互邏輯。產業的下一個戰場將在於如何平衡「AI 帶來的開發效率」與「玩家對人類創意獨特性的追求」。\n\n[原文連結](https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when)\n\n---\n**分析師結語：** \n本週的洞察顯示，AI 正在瓦解傳統的「專業邊界」。無論是職能分工（PM vs. Non-PM）、定價邏輯（Tool vs. Agent）、還是創意產出（Human vs. AI），我們正處於一個規則重寫的混亂期。唯有具備強大「戰略過濾能力」與「透明定價邏輯」的企業，才能在這場技術海嘯中生存。",
+      "used_source_urls": [
+        "https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

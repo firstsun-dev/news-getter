@@ -1,0 +1,90 @@
+{
+  "category": "Technology",
+  "timestamp": "2026-05-22_22-25",
+  "stories": [
+    {
+      "title": "AMD 砸重金強攻先進封裝與機櫃級 AI 供應鏈",
+      "body_md": "AMD 執行長蘇姿丰在台灣宣布將投入超過 100 億美元，全面深化與台灣半導體生態系的合作，重點押注在先進封裝產能擴充以及機櫃級 AI 基礎設施（如 Helios 平台）的交付能力。此舉反映出 AI 晶片戰場已從單一 GPU 的效能競爭，轉向整體供應鏈協同與系統級出貨速度的較量，AMD 試圖藉由強大的在地生態系建立有別於 NVIDIA 的可靠第二供應鏈。未來應持續觀察 AMD 相關產品（如結合 2 奈米 Venice CPU 與 MI450X GPU 的方案）能否如期於 2026 年下半年放量，以及台積電與相關封測廠的產能分配情形。\n*   [AMD 宣布台灣逾 100 億美元投資](https://techorange.com/2026/05/22/amd-invest-10-billion-taiwans-ai-ecosystem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss)\n*   [AI 競賽進入第三局，看好實體 AI](https://techorange.com/2026/05/22/amd-lisa-su-ai-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss)\n*   [Amkor 攜超微合作先進封裝](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756228_NUH3C4OK1L3OWU9QSNIE9)",
+      "used_source_urls": [
+        "https://techorange.com/2026/05/22/amd-invest-10-billion-taiwans-ai-ecosystem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "https://techorange.com/2026/05/22/amd-lisa-su-ai-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756228_NUH3C4OK1L3OWU9QSNIE9"
+      ]
+    },
+    {
+      "title": "美國國家資本介入，引爆量子運算霸權爭奪戰",
+      "body_md": "美國商務部透過《晶片與科學法案》史無前例地以「資金換取非控制性股權」的創投模式，豪擲逾 20 億美元重押 IBM、GlobalFoundries 等 9 家量子運算企業，其中 IBM 更獲 10 億美元以建立美國首家 12 吋純量子晶圓代工子公司 Anderon。美國政府此舉旨在提前應對潛在的「Q-Day」資安密碼破解危機與中國的科技競爭，將國家資本直接介入下一代算力底層基礎設施。後續需密切觀察這類具排他性的純量子代工廠能否成功克服超導晶片製造的工程瓶頸，以及其對全球量子技術路線發展的影響。\n*   [IBM 與美國商務部投資打造量子晶圓廠](https://technews.tw/2026/05/22/ibm-partners-with-the-u-s-department-of-commerce-to-build-the-first-12-inch-quantum-chip-foundry/)\n*   [美國投入 20 億美元押注量子代工廠](https://techorange.com/2026/05/22/us-government-2-billion-bet-quantum-computing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss)\n*   [美國計畫資助量子運算生態並持有股權](https://www.ithome.com.tw/news/176034)",
+      "used_source_urls": [
+        "https://technews.tw/2026/05/22/ibm-partners-with-the-u-s-department-of-commerce-to-build-the-first-12-inch-quantum-chip-foundry/",
+        "https://techorange.com/2026/05/22/us-government-2-billion-bet-quantum-computing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "https://www.ithome.com.tw/news/176034"
+      ]
+    },
+    {
+      "title": "生成式 AI 商業模式洗牌，企業端變現能力成勝負關鍵",
+      "body_md": "Anthropic 憑藉高達 85% 的 B2B 企業客戶營收佔比，年化營收運轉率預估將達 300 億美元並超越 OpenAI，反觀 OpenAI 則因擁有高達 9 億的免費消費端用戶，背負極度沉重的推論算力負擔，面臨 2028 年高達 1,210 億美元支出的財務黑洞。這明確顯示 AI 巨頭的競爭已從「燒錢換取免費流量」的互聯網思維，正式轉向以企業端穩定訂閱與底層算力成本控制為核心的實質獲利戰。未來需關注 OpenAI 能否成功轉化免費用戶或順利推進新一輪鉅額融資，以及 Anthropic 轉向微軟 Maia 等替代晶片以壓低成本的實際成效。\n*   [AI 獲利戰進入下半場：Anthropic 押企業客戶](https://techorange.com/2026/05/22/anthropic-openai-enterprise-ai-profitability/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss)\n*   [OpenAI 營收領先，Anthropic 增速超車拚轉盈](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756254_BCA1UURF6NVDN03ZV1HY4)\n*   [Anthropic 擬向微軟租用自研晶片 Maia](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756225_ZAP1007B3G5HH04PL1X95)",
+      "used_source_urls": [
+        "https://techorange.com/2026/05/22/anthropic-openai-enterprise-ai-profitability/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756254_BCA1UURF6NVDN03ZV1HY4",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756225_ZAP1007B3G5HH04PL1X95"
+      ]
+    },
+    {
+      "title": "TeamPCP 事件引發毀滅性開源供應鏈資安危機",
+      "body_md": "駭客組織 TeamPCP 透過植入惡意憑證竊取程式碼（SANDCLOCK）的 VS Code 外掛 Nx Console，成功滲透包含 GitHub、OpenAI、Mistral AI 在內的頂尖科技企業，導致 GitHub 約 3,800 個內部儲存庫遭竊並放上暗網兜售。此事件暴露出官方開源工具市集在審查與自動更新機制上的嚴重漏洞，凸顯出現代軟體開發高度依賴第三方信任套件所隱藏的結構性風險。業界後續必須大幅強化套件發布的驗證機制（如 NPM 推出的暫存發布審查），並觀察大型企業是否會因此大規模限縮開發者的開源工具使用權限。\n*   [GitHub、OpenAI 都遭滲透：TeamPCP 供應鏈攻擊](https://techorange.com/2026/05/22/teampcp-open-source-code/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss)",
+      "used_source_urls": [
+        "https://techorange.com/2026/05/22/teampcp-open-source-code/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+      ]
+    },
+    {
+      "title": "亞馬遜終止 Rufus，全面轉向具執行力的「代理式商務」",
+      "body_md": "亞馬遜宣布終止推出僅兩年的網頁版 AI 購物機器人 Rufus，全面將戰略重心轉移至深度整合其庫存、物流及客戶數據庫的新版 Alexa for Shopping，讓 AI 不僅是提供對話建議，更能主動介入並代替用戶完成補貨與決策流程。此舉代表大型零售平台的 AI 應用已從前端的表面對話客服，進化為能夠深度存取核心基礎設施並擁有執行能力的「代理式商務（Agentic Commerce）」。觀察重點在於消費者對這類主動式、具有上下語意理解（如 Join the chat 互動功能）的 AI 導購接受度，以及是否會引發其他全球電商巨頭的底層架構改版。\n*   [亞馬遜砍掉 Rufus、押注 Alexa 的底層邏輯](https://techorange.com/2026/05/22/ai-amazon-alexa-for-shopping/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss)",
+      "used_source_urls": [
+        "https://techorange.com/2026/05/22/ai-amazon-alexa-for-shopping/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+      ]
+    },
+    {
+      "title": "記憶體牆逼迫架構革新，GPU 封裝擬走向「光學互連」",
+      "body_md": "為了解決 AI 算力躍升帶來的「記憶體牆（Memory Wall）」硬體瓶頸與成本飆升問題（如 NVIDIA 高階系統的建置成本已達天價），全球記憶體與封裝產業正評估將 GPU 與 HBM 拆分，改採「光學互連、分離封裝」的全新架構設計。這項底層技術變革若成真，將徹底顛覆現有 2.5D/3D 緊密堆疊封裝的主流典範，並可能為矽光子技術與光學網路介面（如 Lightmatter 新發表的液冷 Laser NIC）帶來爆炸性需求成長。未來需密切關注台積電等晶圓代工廠在矽光子與分離式架構設計上的商業化進程。\n*   [HBM 不再緊貼 GPU，改走光學互連新架構](https://technews.tw/2026/05/22/optical-interconnects-emerge-in-gpu-hbm-packaging/)\n*   [大摩：輝達記憶體成本飆 435%](https://finance.technews.tw/2026/05/22/nvidias-memory-costs-soar-485-percent/)\n*   [Lightmatter 推業界首款液冷式 Laser NIC](https://technews.tw/2026/05/22/lightmatter-guide-dr/)",
+      "used_source_urls": [
+        "https://technews.tw/2026/05/22/optical-interconnects-emerge-in-gpu-hbm-packaging/",
+        "https://finance.technews.tw/2026/05/22/nvidias-memory-costs-soar-485-percent/",
+        "https://technews.tw/2026/05/22/lightmatter-guide-dr/"
+      ]
+    },
+    {
+      "title": "人形機器人從技術驗證正式跨入大規模量產時代",
+      "body_md": "英國機器人新創 Humanoid 宣布與德國工業巨頭 Bosch 及 Schaeffler 達成戰略合作，在成功完成物流搬運的概念驗證後，將共同推動 HMND 人形機器人在歐洲製造業的大規模量產。有別於同業採取的垂直整合自研路線，此種專注於 AI 控制系統開發並將硬體製造外包給傳統工業巨頭的分工模式，宣告著「具身智能」已準備好銜接成熟的製造供應鏈。未來的發展核心在於，這類人形機器人在高度動態且複雜的真實工廠作業中，是否能展現出超越傳統固定式自動化設備的維護成本效益與長期穩定性。\n*   [歐洲人形機器人量產鏈成形：Humanoid 攜 Bosch](https://techorange.com/2026/05/22/humanoid-partners-with-bosch-schaeffler-robot-production/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss)\n*   [川崎重工攜手 NVIDIA 開發實體 AI](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756211_8ZG3BL4L0C79H02OWQ4VP)",
+      "used_source_urls": [
+        "https://techorange.com/2026/05/22/humanoid-partners-with-bosch-schaeffler-robot-production/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756211_8ZG3BL4L0C79H02OWQ4VP"
+      ]
+    },
+    {
+      "title": "Windows 與底層防護系統面臨零時差漏洞的連環狙擊",
+      "body_md": "近期微軟 Windows 系統連續爆發包含 BlueHammer、RedSun 在內的多個零時差漏洞，更嚴重的是防毒軟體 Microsoft Defender 自身也存在已遭駭客利用的破口，迫使美國 CISA 下達強制修補命令。這類針對高層級防禦系統以及老舊系統元件（如 MSHTA）的串聯式攻擊，凸顯出現代 APT 威脅能夠輕易繞過傳統邊界防護。企業與資安產業未來必須加快推動零信任架構，並觀察如硬碟廠 WD 針對韌體導入後量子密碼學（PQC）等核心層級的防禦技術，能否有效提升底層架構的防禦韌性。\n*   [近期 Windows 零時差漏洞連環揭露](https://www.ithome.com.tw/news/176056)\n*   [微軟修補已遭利用的 Microsoft Defender 零時差漏洞](https://www.ithome.com.tw/news/176030)\n*   [CISA 將 Microsoft Defender 零時差漏洞列入 KEV](https://www.ithome.com.tw/news/176032)",
+      "used_source_urls": [
+        "https://www.ithome.com.tw/news/176056",
+        "https://www.ithome.com.tw/news/176030",
+        "https://www.ithome.com.tw/news/176032"
+      ]
+    },
+    {
+      "title": "Google 雙軌推進科學 AI 應用與高階語言模型變現",
+      "body_md": "在 Google I/O 大會上，CEO Demis Hassabis 雖然發表了邁向「奇點」的宏大願景，但其實際展示的亮點在於如 WeatherNext 等能精準預測氣候災害的專用型科學 AI 工具。與此同時，Google 也調整了 Gemini 的商用策略，正式推出月費高達 100 美元的 AI Ultra 方案以應付龐大算力開銷。這顯示出科技巨頭正在採取務實的雙軌並行策略：一邊進行通用人工智慧的長遠研發，一邊透過解決具體且關鍵的科學難題來獲取社會信任與穩定的高階訂閱營收。後續應觀察這類專用型科學模型是否會授權給企業，成為解決氣候與醫療問題的新標準。\n*   [Google I/O 展示 AI 驅動科學的發展路徑](https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/)\n*   [Gemini 推月付 100 美元 AI Ultra 方案](https://technews.tw/2026/05/22/everything-new-in-google-ai-subscription/)",
+      "used_source_urls": [
+        "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+        "https://technews.tw/2026/05/22/everything-new-in-google-ai-subscription/"
+      ]
+    },
+    {
+      "title": "生物駭客競賽「Enhanced Games」挑戰體育與道德極限",
+      "body_md": "2026 年首屆允許使用現代醫療與表現增強藥物（PEDs）的爭議性體育競賽「Enhanced Games」即將在拉斯維加斯登場，該賽事宗旨在於「突破人類表現極限」，並設立高額獎金鼓勵打破世界紀錄。此事件跨越了單純的賽事範疇，強烈反映出當代社會對於人體機能優化、抗衰老（Longevity）與生物駭客技術的商業狂熱。未來須密切觀察此類賽事是否會常態化，其結果是否會進一步催生出高階合法增強藥物產業的蓬勃發展，以及其對傳統競技體育道德底線帶來的衝擊。\n*   [The Enhanced Games 迎合 2026 年的長壽與優化風潮](https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/)",
+      "used_source_urls": [
+        "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

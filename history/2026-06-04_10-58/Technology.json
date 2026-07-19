@@ -1,0 +1,96 @@
+{
+  "category": "Technology",
+  "timestamp": "2026-06-04_10-58",
+  "stories": [
+    {
+      "title": "虛擬電廠（VPP）成為數據中心供電新解方",
+      "body_md": "Google 近日與 Voltus 達成合作，在全美最大電網啟動虛擬電廠計畫，透過整合電動車與智慧恆溫器等終端設備，在電網壓力高峰期調節需求以支援數據中心運作。此舉背景源於 AI 算力需求導致電力缺口日益擴大，科技巨頭必須從單純的電力消費者轉型為電網彈性的提供者。這項模式若成功推廣，將重新定義數據中心與在地社區的能源關係，並緩解公用事業基礎設施建設滯後的衝擊。未來的觀察重點在於此類非傳統電力資源是否能穩定支援 24/7 持續運作的數據負載，以及監管機構如何制定補償機制。\n[原文連結：How virtual power plants could provide energy for data centers](https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/)",
+      "used_source_urls": [
+        "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/"
+      ]
+    },
+    {
+      "title": "星星電力拿下全台首單備用容量契約，儲能商業化邁進",
+      "body_md": "國際電力服務商星星電力宣布與台灣再生能源業者合作，完成首例由民間儲能業者提供的備用容量義務，標誌著台灣能源市場邁入「固定收益」的新階段。隨著台灣電價上漲與綠電需求爆發，企業轉向儲能系統以換取穩定的經濟回報，不僅優化了能源資產配置，也強化了區域電網的穩定性。這對產業的衝擊在於，儲能將從單純的備援角色轉化為獲利工具，吸引更多金融資本進入綠能基建。未來需關注儲能成本與電網調度費率的變動，如何影響後續投資意願。\n[原文連結：星星電力拿下全台備用容量首單，儲能開創固定收益](https://technews.tw/2026/06/04/e-electricity-in-taiwan/)\n\n---",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/04/e-electricity-in-taiwan/"
+      ]
+    },
+    {
+      "title": "台積電股東會揭示未來成長信心與 High-NA EUV 布局",
+      "body_md": "台積電董事長魏哲家在股東會中確認，公司已購入 High-NA EUV 設備進行研發，雖然暫不投入量產以兼顧成本與客戶價值，但展現了在埃米世代（Angstrom-era）的技術領先決心。台積電股價在一年內大漲 1.5 倍，反映市場對其在 AI 晶片代工壟斷地位的高度認可，儘管資本支出進入高原期的時間點尚不明確，但強大的營運現金流足以支持其全球擴張。此事件對產業的衝擊在於鞏固了台積電作為 AI 產業「唯一供應者」的心理預期。未來觀察重點將在於 2 奈米製程量產的進度，以及亞利桑那與德國廠區的量產良率是否能追平台灣本部。\n[原文連結：台積電股東會》魏哲家：不確定何時是投資高原期，對公司未來成長深具信心](https://finance.technews.tw/2026/06/04/while-its-unclear-when-the-investment-plateau-will-occur-tsmc-remains-highly-confident-in-its-future-growth/) | [原文連結：台積電股東會》魏哲家：台積電已購入 High-NA EUV 進行研發，只是暫不投入量產](https://finance.technews.tw/2026/06/04/tsmc-has-purchased-high-na-euv-for-research-and-development/)",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/06/04/while-its-unclear-when-the-investment-plateau-will-occur-tsmc-remains-highly-confident-in-its-future-growth/",
+        "https://finance.technews.tw/2026/06/04/tsmc-has-purchased-high-na-euv-for-research-and-development/"
+      ]
+    },
+    {
+      "title": "英特爾承認 18A 進度過於激進，將希望寄託於 14A 製程",
+      "body_md": "英特爾財務長 David Zinsner 坦言在 Intel 18A 節點的推進上超出了能力範疇，導致部分開發資源承壓，但強調這為後續 14A 製程奠定了順利進度的基礎。這反映出 Intel 在推動 IDM 2.0 戰略時面臨的執行壓力，尤其是與台積電競爭先進製程客戶時，良率與量產時間表的穩定性至關重要。英特爾的修正雖然短期可能損及投資人信心，但長遠來看是為了確保在埃米製程節點不致再次掉隊。未來觀察點在於 Intel 是否能順利取得微軟或 NVIDIA 等外部大廠的代工訂單。\n[原文連結：英特爾承認太快推 Intel 18A 超出能力範圍，但 Intel 14A 因此得益進度順利](https://technews.tw/2026/06/04/intel-bit-off-more-than-it-could-chew-with-18a-process-node/)",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/04/intel-bit-off-more-than-it-could-chew-with-18a-process-node/"
+      ]
+    },
+    {
+      "title": "三星 HBM5 導入 HPB 散熱技術，正面迎擊 SK 海力士",
+      "body_md": "隨著 COMPUTEX 2026 展開，三星展示了下一代 HBM5 記憶體，首度導入高壓接合（HPB）散熱技術，試圖反擊 SK 海力士在 HBM 領域的領導地位。HBM 技術已成為 AI 伺服器的效能瓶頸，熱管理能力的優劣直接決定了運算叢集的穩定性與密度。SK 海力士則透過與台積電、輝達組成的「三角聯盟」鞏固 HBM4 供應鏈，雙方的技術路徑差異（三星的 HPB vs SK 的 iHBM）將成為未來兩年記憶體市場的關鍵戰場。分析顯示，誰能提供更好的熱管理效能，誰就能在 NVIDIA 的新一代 GPU 供應中佔據更高比重。\n[原文連結：Base Die 變更大！三星 HBM5 首導入 HPB 散熱技術，對決 SK 海力士 iHBM 架構](https://technews.tw/2026/06/04/samsung-hpb-vs-sk-hynix-ice-ihbm/) | [原文連結：崔泰源睽違 2 年再會魏哲家　三角聯盟鞏固 HBM4 供應鏈](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000757686_HEH747YY7QO0LM7WYEL2C)\n\n---",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/04/samsung-hpb-vs-sk-hynix-ice-ihbm/",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000757686_HEH747YY7QO0LM7WYEL2C"
+      ]
+    },
+    {
+      "title": "川普政府發布新 AI 行政命令，轉向「自願審查」體系",
+      "body_md": "川普總統簽署了新的 AI 行政命令，取代先前撤銷的版本，建立了一個更具彈性的治理架構，包含 30 天前的「自願」模型審查制度，而非強制的發布許可。這反映了白宮試圖在促進創新（不阻礙企業速度）與確保安全（建立網絡安全清算中心）之間尋找平衡。對於科技大廠如 OpenAI 或 Google 而言，這降低了法律合規成本，但也可能引發監管真空的擔憂。未來需密切關注此類自願性質的審查制度是否能有效約束模型產出的偏見或惡意用途。\n[原文連結：The Download: Trump’s new AI order, and smart glasses for warfare](https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/)",
+      "used_source_urls": [
+        "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/"
+      ]
+    },
+    {
+      "title": "歐盟準備應對與中國的貿易戰，鎖定高科技限制",
+      "body_md": "彭博報導指出，歐盟正準備針對中國可能發起的貿易衝突進行防禦，預計將對企業與公民發出警告，並考慮採取新的限制性經濟措施。這不僅涉及傳統的電動車補助調查，更延伸至半導體設備、綠能基礎設施等關鍵技術領域。對產業衝擊而言，這將進一步加速「供應鏈去風險化」，企業必須在中國市場與西方盟友體系之間進行更痛苦的二選一。未來觀察點在於歐盟是否會跟進美國對中國特定高科技產品加徵高額關稅。\n[原文連結：彭博：歐盟正為與中國爆發貿易衝突做準備](https://technews.tw/2026/06/04/left-with-few-choices-eu-braces-for-a-trade-fight-with-china/)",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/04/left-with-few-choices-eu-braces-for-a-trade-fight-with-china/"
+      ]
+    },
+    {
+      "title": "五眼聯盟警告中國間諜利用求職平台吸收資產",
+      "body_md": "美、英等國組成的「五眼聯盟」發布警告，指出中國情報機構正積極利用如 LinkedIn 等求職平台，透過偽造的獵頭帳號吸收具備敏感技術背景的專家。這類「線上人力開發」手段已滲透至航太、半導體與國防產業，對企業資安與國家安全構成隱蔽威脅。此事件將促使跨國科技公司加強員工背景調查與內部資安意識訓練。未來值得關注的是，各國政府是否會針對求職平台制定更嚴格的實名審查法規。\n[原文連結：五眼聯盟示警，中國間諜利用求職平台吸收眼線](https://infosecu.technews.tw/2026/06/04/five-eyes-alliance-warns-chinese-spies-exploit-job-platforms-recruit-assets/)\n\n---",
+      "used_source_urls": [
+        "https://infosecu.technews.tw/2026/06/04/five-eyes-alliance-warns-chinese-spies-exploit-job-platforms-recruit-assets/"
+      ]
+    },
+    {
+      "title": "SpaceX 啟動巨額 IPO 籌資，馬斯克身價有望突破兆元大關",
+      "body_md": "馬斯克旗下的 SpaceX 計劃透過 IPO 籌資 750 億美元，將公司估值推向新高，這可能引發資本市場的「虹吸效應」，導致其他太空股資金流失。這筆資金預計將投入 Starship 系統的商業化與 Starlink 全球覆蓋的升級，這兩者分別是太空物流與衛星通訊的顛覆者。對產業衝擊在於，SpaceX 將具備超越主權國家的資本實力，主導未來十年的地外資產開發。投資人需留意 SpaceX 的財務透明度挑戰，以及高估值是否包含過度的 AI 與太空想像溢價。\n[原文連結：SpaceX 衝刺史上最大 IPO，馬斯克身價有望突破 1 兆美元](https://technews.tw/2026/06/04/spacex-rushes-largest-ipo-elon-musk-net-worth-surpass-1-trillion/) | [原文連結：SpaceX 擬上市定價每股 135 美元，研究機構估值恐只有 7,800 億美元](https://finance.technews.tw/2026/06/04/spacex-ipo-share-135-dollars/)",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/04/spacex-rushes-largest-ipo-elon-musk-net-worth-surpass-1-trillion/",
+        "https://finance.technews.tw/2026/06/04/spacex-ipo-share-135-dollars/"
+      ]
+    },
+    {
+      "title": "COMPUTEX 2026 機器人展區：實體 AI（Physical AI）正式落地",
+      "body_md": "今年 COMPUTEX 首度設立機器人專區，聚焦具身智慧（Embodied AI）與 VLM 視覺語言模型，象徵 AI 從軟體生成的「虛擬智慧」轉向能操作實體世界的「物理智慧」。廠商展示重點已從單純的機器手臂轉向具備自主決策能力的 AI Agent，這將徹底改變自動化產線的靈活性。工業物聯網（IIoT）與機器人的深度整合，將帶動微型滑軌、減速機等硬體零組件的爆發性需求。未來觀察重點在於 NVIDIA 的 NemoClaw 等軟體架構如何標準化機器人的開發流程。\n[原文連結：COMPUTEX 2026 AI 機器人展區直擊：從零件到整機，Physical AI 正在現場發生](https://techorange.com/2026/06/03/computex-2026-ai-robotics/)",
+      "used_source_urls": [
+        "https://techorange.com/2026/06/03/computex-2026-ai-robotics/"
+      ]
+    },
+    {
+      "title": "量子運算新星 Quantinuum 以 16.8 億美元 IPO 募資",
+      "body_md": "量子運算公司 Quantinuum 於 6/4 正式掛牌，最終定價顯示出市場對於「後經典運算」時代的強烈期待。隨著生成式 AI 遇到算力瓶頸，量子運算在製藥、新材料開發與密碼破譯上的潛力被視為下一波產業躍升的動能。這對傳統半導體架構構成長遠挑戰，並迫使主要科技大國加速量子主權布局。未來觀察點在於 Quantinuum 是否能在兩年內實現具備「量子優越性」的實際商業應用。\n[原文連結：量子新星 Quantinuum IPO 募資 16.8 億美元 6/4 掛牌](https://finance.technews.tw/2026/06/04/honeywells-quantinuum-raises-1-68-billion-in-us-ipo-as-quantum-computing-heats-up/)\n\n---",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/06/04/honeywells-quantinuum-raises-1-68-billion-in-us-ipo-as-quantum-computing-heats-up/"
+      ]
+    },
+    {
+      "title": "HTTP/2 Bomb 與 AI 驅動型惡意攻擊頻發",
+      "body_md": "研究人員揭露了 HTTP/2 Bomb 攻擊手法，利用通訊協定缺陷消耗伺服器資源，影響範圍涵蓋 Nginx 與 Apache 等主流服務。同時，資安公司發現俄羅斯駭客 GreyVibe 正濫用生成式 AI 工具發動自動化釣魚與漏洞探測。這顯示資安已進入「AI 對抗 AI」的時代，傳統特徵碼過濾已不足以防範高度變化的威脅。企業必須投入更多資源建立具備 AI 推理能力的防護屏障，以對抗自動化的攻擊腳本。未來觀察重點為各國對於「攻擊型 AI 工具」的法律約束力。\n[原文連結：HTTP/2 Bomb 攻擊手法影響主流網頁伺服器，恐遭用於 DoS 攻擊](https://www.ithome.com.tw/news/176351) | [原文連結：俄羅斯駭客 GreyVibe 濫用生成式 AI，攻擊烏克蘭企業組織](https://www.ithome.com.tw/news/176318)\n\n---\n**分析結論**：2026 年 6 月的科技產業呈現出「硬核技術與地緣政治高度耦合」的特徵。台積電與三星的先進封裝競爭，本質上是為了奪取 AI 時代的能源與算力主導權；而 SpaceX 的 IPO 與邊緣運算的成熟，則預示著運算能力正從集中式的雲端走向更遠的太空與更貼近生活的邊緣設備。投資人與決策者需特別注意地緣政治造成的供應鏈斷裂與 AI 安全性帶來的法規性風險。",
+      "used_source_urls": [
+        "https://www.ithome.com.tw/news/176351",
+        "https://www.ithome.com.tw/news/176318"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

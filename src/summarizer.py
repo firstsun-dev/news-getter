@@ -3,6 +3,7 @@ import json
 import logging
 import os
 import re
+import shutil
 import subprocess
 import datetime
 
@@ -14,11 +15,39 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 PLACEHOLDER_PATTERN = re.compile(r"待補充|TBD|TODO|placeholder", re.IGNORECASE)
 
+MIN_CATEGORIES_PER_RUN = 5
+
 
 class StoryDigest(BaseModel):
     fact_summary: str = Field(min_length=20, max_length=400)
     judgment: str = Field(min_length=20, max_length=600)
     used_source_urls: list[HttpUrl] = Field(min_length=1, max_length=3)
+
+
+class StoryRecord(BaseModel):
+    title: str
+    url: str | None = None
+    confidence: int | None = None
+    heat: int | None = None
+    fact_summary: str = ""
+    judgment: str = ""
+    used_source_urls: list[str] = Field(default_factory=list)
+    body_md: str = ""
+
+
+class WatchlistItemRecord(BaseModel):
+    title: str
+    url: str
+    tier: int
+    seen_count: int
+
+
+class CategoryArchive(BaseModel):
+    category: str
+    timestamp: str
+    stories: list[StoryRecord] = Field(default_factory=list)
+    watchlist: list[WatchlistItemRecord] = Field(default_factory=list)
+    no_signal: bool = False
 
 
 def parse_digest(raw_text: str, allowed_urls: set[str]):
@@ -174,6 +203,7 @@ def process_category(category, articles, base_dir, timestamp):
 
     deep_blocks = []
     headline_stories = []
+    story_records = []
 
     for fp, story in stories.items():
         tiers = [s["tier"] for s in story["sources"]]
@@ -200,6 +230,15 @@ def process_category(category, articles, base_dir, timestamp):
             continue
 
         deep_blocks.append(render_story_block(story["title"], digest, scores))
+        story_records.append(StoryRecord(
+            title=story["title"],
+            url=story["articles"][0]["link"] if story["articles"] else None,
+            confidence=scores["confidence"],
+            heat=scores["heat"],
+            fact_summary=digest.fact_summary,
+            judgment=digest.judgment,
+            used_source_urls=[str(u) for u in digest.used_source_urls],
+        ))
 
     body_parts = []
     if deep_blocks:
@@ -212,11 +251,29 @@ def process_category(category, articles, base_dir, timestamp):
 
     body = "\n\n".join(body_parts)
 
-    file_cat = category.replace("/", "_").replace(" ", "_")
-    with open(f"{base_dir}/{file_cat}.md", "w", encoding="utf-8") as f:
-        f.write(f"# {category} 深度專報 ({timestamp.replace('_', ' ')})\n\n{body}")
+    watchlist_records = [
+        WatchlistItemRecord(
+            title=s["title"],
+            url=s["articles"][0]["link"],
+            tier=min(src["tier"] for src in s["sources"]),
+            seen_count=s["seen_count"],
+        )
+        for s in headline_stories
+    ]
 
-    return body
+    archive = CategoryArchive(
+        category=category,
+        timestamp=timestamp,
+        stories=story_records,
+        watchlist=watchlist_records,
+        no_signal=len(deep_blocks) == 0,
+    )
+
+    file_cat = category.replace("/", "_").replace(" ", "_")
+    with open(f"{base_dir}/{file_cat}.json", "w", encoding="utf-8") as f:
+        f.write(archive.model_dump_json(indent=2, ensure_ascii=False))
+
+    return body, archive
 
 
 def summarize_all():
@@ -235,21 +292,34 @@ def summarize_all():
     sorted_categories = sorted(categorized_data.keys(), key=lambda x: cat_order.index(x) if x in cat_order else 999)
 
     category_bodies = {}
+    successful = 0
     for category in sorted_categories:
         articles = categorized_data[category]
         print(f"正在處理分類: {category} ({len(articles)} 篇文章)...")
-        body = process_category(category, articles, base_dir, timestamp)
-        category_bodies[category] = body
+        try:
+            body, _archive = process_category(category, articles, base_dir, timestamp)
+            category_bodies[category] = body
+            successful += 1
+        except Exception as e:
+            logging.exception("分類 %s 處理失敗: %s", category, e)
+
+    if successful < MIN_CATEGORIES_PER_RUN:
+        logging.error("只成功 %d 個分類（門檻 %d），整個 run 作廢並移除 %s", successful, MIN_CATEGORIES_PER_RUN, base_dir)
+        shutil.rmtree(base_dir, ignore_errors=True)
+        return
 
     with open("summary.md", "w", encoding="utf-8") as f:
         f.write(f"# 📅 每日情報精選 ({timestamp.replace('_', ' ')})\n\n")
         f.write("> 💡 首頁顯示通過收斂門禁的深度分析（事實/判斷雙區塊 + confidence/heat）。如需完整清單，請點擊各分類下方的『完整深度報告』連結。\n\n")
 
         for category in sorted_categories:
+            if category not in category_bodies:
+                continue
             f.write(f"## 🔍 {category}\n")
             f.write(category_bodies[category] + "\n")
             file_cat = category.replace("/", "_").replace(" ", "_")
-            f.write(f"[查看此分類的獨立存檔頁面](./history/{timestamp}/{file_cat}.md)\n\n")
+            anchor = category.replace(" ", "-").replace("/", "-")
+            f.write(f"[查看此分類的獨立存檔頁面](./history/{timestamp}/index.html#{anchor})\n\n")
 
 
 if __name__ == "__main__":

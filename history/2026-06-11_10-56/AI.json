@@ -1,0 +1,29 @@
+{
+  "category": "AI",
+  "timestamp": "2026-06-11_10-56",
+  "stories": [
+    {
+      "title": "AI 驅動極致科學：Codex 於黑洞模擬與廣義相對論驗證的應用",
+      "body_md": "*   **深度摘要**：天文物理學家 Chi-kwan Chan 成功將 OpenAI Codex 整合至其研究工作流，用於建構複雜的黑洞模擬模型。Codex 不僅協助編寫底層的計算代碼，更透過加速模擬過程，讓科學家能以前所未有的效率測試愛因斯坦的廣義相對論及極端物理環境。這項合作展示了大型語言模型（LLM）在處理高度專業、非大眾化的科學編程任務中，具備轉化複雜理論為執行代碼的強大能力。\n*   **事件背景**：黑洞模擬涉及極高維度的非線性偏微分方程，傳統上需要極高的編程門檻。Chi-kwan Chan 的嘗試代表了計算物理學的一個轉折點，即從「手動編寫物理算法」轉向「AI 輔助的物理建模」。\n*   **對產業的衝擊**：此案例確立了 AI 模型在「高價值科研領域（HPC）」的地位。它證明了 LLM 不僅能寫 Python 或 JavaScript 等通用語言，亦能理解並生成用於高效能計算的物理模擬代碼，這將加速生物製藥、材料科學等依賴重度模擬之產業的開發週期。\n*   **未來觀察重點**：未來需觀察是否會出現專門針對物理、化學或數學領域訓練的「領域專用 Codex（Domain-specific Codex）」，以及 AI 生成的模擬結果在同儕審查（Peer Review）中的可靠性與解釋性問題。\n\n[原文連結：How an astrophysicist uses Codex to help simulate black holes](https://openai.com/index/using-codex-to-simulate-black-holes)\n\n---",
+      "used_source_urls": [
+        "https://openai.com/index/using-codex-to-simulate-black-holes"
+      ]
+    },
+    {
+      "title": "雲端戰局重組：OpenAI 模型與 Codex 正式進駐 Oracle Cloud",
+      "body_md": "*   **深度摘要**：OpenAI 宣布其模型與 Codex 正式登陸 Oracle Cloud Infrastructure (OCI)，企業客戶現在可直接透過現有的 Oracle 雲端承諾（Commitment）來調用 OpenAI 的技術。此舉讓企業能在 Oracle 原有的高度安全性與治理框架下，無縫部署 AI 應用。這不僅是技術供應的擴展，更是 OpenAI 試圖透過多元雲端渠道（Multi-cloud）滲透企業市場的重要戰略布局。\n*   **事件背景**：長期以來，微軟 Azure 是 OpenAI 唯一的雲端戰略夥伴。然而，Oracle 在大型資料庫與企業級應用程式（ERP/CRM）市場擁有深厚根基，這則合作顯示 OpenAI 意圖觸及那些對 Oracle 基礎架構有高度依賴的老牌企業。\n*   **對產業的衝擊**：這對傳統雲端三巨頭（AWS、Azure、GCP）構成了直接壓力，特別是 Oracle 的高性能運算集群在 AI 訓練中具有極高的性價比。企業客戶現在擁有了更多選擇權，不必為了使用 OpenAI 而強行遷移整個基礎架構，這將加速企業 AI 生態系統的碎裂化與專業化。\n*   **未來觀察重點**：觀察微軟與 OpenAI 之間「獨家性」關係的演變。此外，Oracle 是否會推出針對其資料庫產品優化的 OpenAI 特色功能，進而實現「AI 驅動的自動化資料運算」，將是後續競爭的核心。\n\n[原文連結：Access OpenAI models and Codex through your Oracle cloud commitment](https://openai.com/index/openai-on-oracle-cloud)\n\n---",
+      "used_source_urls": [
+        "https://openai.com/index/openai-on-oracle-cloud"
+      ]
+    },
+    {
+      "title": "地緣政治風險：與中國相關的影響力行動鎖定美國 AI 政策辯論",
+      "body_md": "*   **深度摘要**：OpenAI 的最新報告揭露了與中國相關的行為者（PRC-linked actors）正利用 AI 生成內容進行資訊影響力行動，目標直指美國國內的科技政策辯論。這些行動涉及操弄有關資料中心建設、貿易關稅以及針對 ChatGPT 本身的虛假指控等敘事。報告強調，這些帳號試圖在社交媒體上模擬真實用戶的對話，以影響公眾對 AI 監管與地緣競爭的看法。\n*   **事件背景**：隨著 AI 成為中美競爭的核心，資訊戰的戰場已從傳統的選情干擾轉向更細膩的「產業競爭與政策干預」。這反映了 AI 不僅是競賽的目標，也是參賽者用來攻擊對手的武器。\n*   **對產業的衝擊**：這將迫使 AI 實驗室（如 OpenAI、Anthropic）投入更多資源於「內容溯源」與「對抗性監測」。產業內對於 AI 安全（Safety）的定義將擴張到國防與反情報層級。此外，這可能導致更嚴格的 AI 出口管制與更頻繁的政府審查，增加科技公司的營運合規成本。\n*   **未來觀察重點**：重點在於 AI 生成內容與真實公眾情緒的辨識技術發展。此外，美國政府是否會將此類威脅報告轉化為具體的法律制裁或對 AI 供應商的監管要求，將決定未來全球 AI 資訊生態的開放程度。\n\n[原文連結：PRC-linked influence operations are targeting AI debates in the US](https://openai.com/index/prc-linked-influence-operations-ai-debates)",
+      "used_source_urls": [
+        "https://openai.com/index/prc-linked-influence-operations-ai-debates"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

@@ -1,0 +1,143 @@
+{
+  "category": "Technology",
+  "timestamp": "2026-06-01_10-57",
+  "stories": [
+    {
+      "title": "NVIDIA GTC Taipei 揭幕：實體 AI 與代理式 AI 的典範轉移",
+      "body_md": "NVIDIA 執行長黃仁勳此次來台引發全球關注，核心焦點在於 AI 技術正從純數位世界的「代理式 AI」進化為與現實互動的「實體 AI」。聯發科與台積電高層同步指出，台灣供應鏈已從單純的代工角色轉變為 AI 革命中無可取代的系統整合核心。未來觀察重點在於台灣如何利用高度整合的優勢，在機器人、智慧工廠等實體應用場景中建立全球標準。\n*   [原文連結：NVIDIA GTC》從代理式 AI 走向實體 AI](https://finance.technews.tw/2026/06/01/from-agent-based-ai-to-entity-based-ai-a-new-era-of-transformation-for-taiwans-industrial-chain/)\n*   [原文連結：NVIDIA GTC》台灣供應鏈扮演關鍵角色](https://technews.tw/2026/06/01/taiwans-highly-integrated-supply-chain-plays-an-irreplaceable-key-role-in-the-ai-%e2%80%8b%e2%80%8brevolution/)\n*   [原文連結：NVIDIA GTC Taipei 今日登場](https://technews.tw/2026/06/01/nvidia-gtc-taipei-2026-keynote/)",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/06/01/from-agent-based-ai-to-entity-based-ai-a-new-era-of-transformation-for-taiwans-industrial-chain/",
+        "https://technews.tw/2026/06/01/taiwans-highly-integrated-supply-chain-plays-an-irreplaceable-key-role-in-the-ai-%e2%80%8b%e2%80%8brevolution/",
+        "https://technews.tw/2026/06/01/nvidia-gtc-taipei-2026-keynote/"
+      ]
+    },
+    {
+      "title": "戴爾（Dell）財報大捷：傳統伺服器商的 AI 華麗轉身",
+      "body_md": "戴爾發布財報後股價飆升逾 30%，顯示其在 AI 伺服器市場的斬獲遠超市場預期。這波漲勢也同步帶動 SMCI（美超微）與 HPE 的樂觀情緒，反映出企業正進入大規模的硬體更新週期。分析顯示，市場已從關注「AI 訓練」轉向「AI 推論部署」，戴爾憑藉其私有雲架構與彈性服務，正成功卡位企業端 AI 應用商機。\n*   [原文連結：戴爾財報後飆、AI 伺服器需求爆](https://finance.technews.tw/2026/06/01/dell-shares-soar-30-percent-as-ai-server-demand/)\n*   [原文連結：戴爾財報透露算力產業新趨勢](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000757047_80H1ZIPX3E65ND86OOJ5P)",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/06/01/dell-shares-soar-30-percent-as-ai-server-demand/",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000757047_80H1ZIPX3E65ND86OOJ5P"
+      ]
+    },
+    {
+      "title": "軟銀與歐洲 AI 中心：14 兆日圓的豪賭",
+      "body_md": "軟銀集團計畫在法國投資 14 兆日圓興建大規模 AI 資料中心，這不僅是軟銀在全球 AI 版圖的重要布局，也顯示歐洲正成為全球 AI 基建的新戰場。此投資規模之大，旨在確保未來 AI 算力的自主性，並可能與法國當地的綠能設施深度結合。未來需觀察軟銀如何與歐洲政府協調能源配給，以及其對歐盟 AI 政策的影響力。\n*   [原文連結：軟銀擬砸 14 兆日圓興建 AI 資料中心](https://technews.tw/2026/06/01/softbank-group-and-sesterce-to-develop-1-gw-ai-data-center-in-bosquel-france/)\n\n---",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/01/softbank-group-and-sesterce-to-develop-1-gw-ai-data-center-in-bosquel-france/"
+      ]
+    },
+    {
+      "title": "矽晶片 3D 堆疊新突破：伊利諾大學延續摩爾定律",
+      "body_md": "伊利諾大學研究團隊在單晶矽 3D 堆疊技術取得進展，這項技術能讓晶片在垂直空間內整合更多算力而不增加體積。這對於後摩爾定律時代的晶片設計至關重要，有望緩解先進製程節點微縮的成本與散熱壓力。產業衝擊方面，若此技術進入商業化，將改變目前由台積電、Intel 壟斷的先進封裝競爭格局。\n*   [原文連結：美大學突破矽晶片堆疊技術](https://technews.tw/2026/06/01/a-new-way-to-build-chips-sequentially-stacking-silicon-to-extend-moores-law/)",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/01/a-new-way-to-build-chips-sequentially-stacking-silicon-to-extend-moores-law/"
+      ]
+    },
+    {
+      "title": "石墨烯半導體與材料競爭：德國新創 Black Semiconductor",
+      "body_md": "德國新創企業正致力於石墨烯晶片的研發，目標在三年內實現量產，試圖打破矽基半導體的物理極限。石墨烯具備優異的導電性與散熱潛力，是未來高效能運算的關鍵材料。然而，產業觀察家認為量產良率與現有 CMOS 工藝的相容性仍是巨大挑戰。\n*   [原文連結：德國新創發展石墨烯半導體](https://technews.tw/2026/06/01/german-startup-graphene-semiconductors-3-year-mass-production/)",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/01/german-startup-graphene-semiconductors-3-year-mass-production/"
+      ]
+    },
+    {
+      "title": "日本零組件地位鬆動：台中供應鏈接棒崛起",
+      "body_md": "日經亞洲報導指出，過去二十年日本電子零組件在全球市占持續下滑，取而代之的是台灣與中國業者的快速崛起。這一趨勢在 AI 時代更為顯著，台灣業者憑藉著與半導體製程的高度協同，正接管高階電子元件的定義權。未來日本企業若無法在矽光子或量子技術等前瞻領域突圍，其影響力將進一步萎縮。\n*   [原文連結：日企電子零組件市占下滑](https://technews.tw/2026/06/01/china-taiwan-electronic-component-makers-eat-away-at-japans-global-share/)\n\n---",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/01/china-taiwan-electronic-component-makers-eat-away-at-japans-global-share/"
+      ]
+    },
+    {
+      "title": "NVIDIA 與聯發科 N1X 處理器：衝擊 Windows 筆電型態",
+      "body_md": "市場高度關注 NVIDIA 攜手聯發科打造的 N1X 處理器，這款晶片鎖定具備強大裝置端（On-device）AI 算力的重度用戶。分析師郭明錤預估，該裝置兩年內出貨量可達千萬台，將直接威脅蘋果 MacBook 的市占地位。此舉標誌著 NVIDIA 正式切入 CPU 市場，可能徹底重塑 Windows 筆電的效能與續航力標準。\n*   [原文連結：郭明錤：N1X 裝置出貨估 2 年千萬台](https://technews.tw/2026/06/01/nvidia-n1x-processor-for-windows-pc/)\n*   [原文連結：N1X 有望改變 Windows 筆電型態](https://technews.tw/2026/06/01/n1x-can-change-windows-nb/)",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/01/nvidia-n1x-processor-for-windows-pc/",
+        "https://technews.tw/2026/06/01/n1x-can-change-windows-nb/"
+      ]
+    },
+    {
+      "title": "戴爾 XPS 13 降價策略：直擊蘋果平價市場",
+      "body_md": "戴爾重新定位 XPS 13，透過更具競爭力的價格挑戰蘋果 MacBook Air 的入門市場。這一轉變反映出 PC 廠商在 AI PC 時代正透過硬體整合與價格戰雙管齊下，試圖在蘋果 AI 生態尚未完全普及前搶占灘頭堡。對於消費者而言，高效能輕薄筆電的門檻下修將驅動一波新的換機潮。\n*   [原文連結：戴爾重塑 XPS 13 定位](https://technews.tw/2026/06/01/dells-new-xps-13-is-pcs-first-real-macbook-neo-competitor/)",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/01/dells-new-xps-13-is-pcs-first-real-macbook-neo-competitor/"
+      ]
+    },
+    {
+      "title": "蘋果穿戴裝置時程調整：創新步調轉向謹慎",
+      "body_md": "彭博報導指出，蘋果將 AI 智慧眼鏡延至 2027 年底，Vision Air 則推遲至 2028 年，顯示其在邊緣 AI 硬體的挑戰仍大。在 AI 競爭壓力放大下，蘋果新任執行長 Ternus 被寄予厚望，必須在自研晶片與軟體整合中找到突破口。未來兩年，蘋果能否維持其溢價能力將取決於 WWDC 展現的 AI 整合實力。\n*   [原文連結：蘋果穿戴裝置節奏大調整](https://technews.tw/2026/06/01/apple-ai-glasses-launch-pushed-back-to-late-2027-vision-air-to-arrive-by-2029/)\n*   [原文連結：蘋果創新缺口在 AI 時代放大](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756700_KHN8ENV1LY2JHH176KHK4)\n\n---",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/01/apple-ai-glasses-launch-pushed-back-to-late-2027-vision-air-to-arrive-by-2029/",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756700_KHN8ENV1LY2JHH176KHK4"
+      ]
+    },
+    {
+      "title": "Anthropic Claude Mythos 震憾資安圈",
+      "body_md": "Anthropic 公布的 Claude Mythos 模型發現了數千個高風險資安漏洞，這既展示了 AI 強大的防禦輔助能力，也引發了 AI 被用於攻擊的恐懼。資安專家指出，「資安大海嘯」已然來臨，傳統以人類帳號為核心的防禦體系面臨挑戰。目前的關鍵威脅在於「非人類身分（NHI）」的增長，這些 AI 代理具備高權限卻缺乏有效監管。\n*   [原文連結：資安大海嘯時代來臨](https://www.ithome.com.tw/voice/175368)\n*   [原文連結：數位代理人的崛起與危機](https://www.ithome.com.tw/article/174569)",
+      "used_source_urls": [
+        "https://www.ithome.com.tw/voice/175368",
+        "https://www.ithome.com.tw/article/174569"
+      ]
+    },
+    {
+      "title": "台灣資安戰略與「民主供應鏈」",
+      "body_md": "台灣數位發展部部長林宜敬強調，台灣作為「自由世界的蜜罐」，每日遭受超過 260 萬次駭客攻擊。在「資安院 2.0」的轉型下，台灣正推動以 AI 構築數位長城，並將資安視為國家主權與人身安全的關鍵。林俊秀署長警示，資安防護失守代價已上升至對「人的資產」的直接威脅，建立韌性供應鏈已刻不容緩。\n*   [原文連結：揭露資安院 2.0 轉型願景](https://www.ithome.com.tw/news/175244)\n*   [原文連結：臺灣是自由民主世界資安前哨站](https://www.ithome.com.tw/article/175242)",
+      "used_source_urls": [
+        "https://www.ithome.com.tw/news/175244",
+        "https://www.ithome.com.tw/article/175242"
+      ]
+    },
+    {
+      "title": "IBM 與開源資安：50 億美元的防護工程",
+      "body_md": "IBM 投入 50 億美元保護開源資安，這顯示大型科技商正試圖建立一個更透明、更安全的 AI 開發生態。由於 Anthropic Mythos 等高效模型可能被用於惡意探測漏洞，企業必須在「開源便利性」與「閉源安全性」之間尋找新的平衡點。\n*   [原文連結：IBM 砸 50 億美元護開源資安](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000757087_W6XLUS9L98IHVS6Z1SPKF)\n\n---",
+      "used_source_urls": [
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000757087_W6XLUS9L98IHVS6Z1SPKF"
+      ]
+    },
+    {
+      "title": "比亞迪（BYD）智慧駕駛平價化：自研 4nm 晶片上車",
+      "body_md": "比亞迪推出首款自研 4nm 輔助駕駛晶片 Xuanji A3，並計畫將高成本的 LiDAR 下放到起價僅 7 萬人民幣的平價車款。這場「智慧駕駛平價化戰爭」將直接衝擊華為與小鵬的優勢，顯示比亞迪正利用其垂直整合優勢將技術門檻轉化為成本門檻。這不僅是技術展示，更是比亞迪在獲利壓力下創造新收入來源（軟體服務）的重要策略。\n*   [原文連結：比亞迪以自研 4nm 晶片與平價 LiDAR 掀戰](https://techorange.com/2026/06/01/byd-ev-4nm-chip-lidar/)",
+      "used_source_urls": [
+        "https://techorange.com/2026/06/01/byd-ev-4nm-chip-lidar/"
+      ]
+    },
+    {
+      "title": "中國汽車摩洛哥設廠與歐盟警戒",
+      "body_md": "中國車企紛紛轉向摩洛哥設廠，試圖將其作為避開歐盟關稅、進入歐洲市場的跳板。歐盟對此感到高度不安，認為這可能稀釋其針對補貼商品的防禦措施。這場全球供應鏈的「躲貓貓」遊戲顯示，地緣政治已成為車企選址的首要考慮因素。\n*   [原文連結：中國汽車產業摩洛哥設廠，歐盟憂成跳板](https://technews.tw/2026/06/01/eu-frets-as-china-builds-an-industrial-base-in-morocco/)",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/01/eu-frets-as-china-builds-an-industrial-base-in-morocco/"
+      ]
+    },
+    {
+      "title": "智慧製造轉向「機器人化執行」",
+      "body_md": "2026 年中國智慧製造正從平台建設轉向實質的機器人執行階段，升級重心在於跨系統的整合能力。這意味著單純的自動化已不足夠，未來的競爭在於 AI 能否在複雜生產環境中實現自主決策。台灣與日本業者正密切關注這波轉型帶來的設備更新需求。\n*   [原文連結：中國智慧製造加速落地](https://technews.tw/2026/06/01/2026-china-smart-manufacturing-accelerates-implementation-shifting-platform-construction-robotic-execution/)\n\n---",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/01/2026-china-smart-manufacturing-accelerates-implementation-shifting-platform-construction-robotic-execution/"
+      ]
+    },
+    {
+      "title": "台灣 GDP 上修至 9.64%：AI 需求創 16 年新高",
+      "body_md": "台灣主計總處大幅上修 2026 年經濟成長預測至 9.64%，主因是全球 AI 伺服器與高效能運算需求強於預期。這顯示 AI 不僅是科技議題，更是台灣的國家經濟支柱，出口增幅預計創下 50 年來新高。然而，成長動能過度集中於特定產業，也為電力供應與人才缺口帶來隱憂。\n*   [原文連結：台灣 GDP 上修至 9.64%](https://techorange.com/2026/06/01/taiwan-gdp-forcast-raised-to-9-64-computex-global-ai-supply-chain/)",
+      "used_source_urls": [
+        "https://techorange.com/2026/06/01/taiwan-gdp-forcast-raised-to-9-64-computex-global-ai-supply-chain/"
+      ]
+    },
+    {
+      "title": "美國貿易新令：堵住中企海外採購漏洞",
+      "body_md": "美國商務部發布最新指引，限制中國企業透過海外子公司獲取先進 AI 晶片。此舉旨在封鎖中國獲取 NVIDIA Blackwell 等旗艦晶片的非官方管道，進一步升高科技禁令等級。對於台灣與各國代工廠而言，嚴格的最終用途（End-use）審核將成為營運常態，增加合規成本。\n*   [原文連結：美祭新指引堵出口限令漏洞](https://technews.tw/2026/06/01/bis-new-ai-chip-rule/)\n*   [原文連結：中國海外狂掃 NVIDIA Blackwell，美方出手急堵](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000757179_O8U2LBBX6LTJCELHBVEVA)",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/01/bis-new-ai-chip-rule/",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000757179_O8U2LBBX6LTJCELHBVEVA"
+      ]
+    },
+    {
+      "title": "儲存與能源挑戰：AI 的兩大瓶頸",
+      "body_md": "威騰電子（WD）指出，隨資料量暴增，AI 儲存的關鍵在於分層式架構，否則將拖累運算效率。同時，台達電指出 AI 已成為「吃電怪獸」，正推動微電網重構能源架構，解決 AIDC（AI 資料中心）的用電焦慮。能源效率與儲存帶寬，已正式取代純算力成為下一波競爭焦點。\n*   [原文連結：AI 資料傳輸量暴增！威騰電子談兩大儲存挑戰](https://technews.tw/2026/06/01/wd-wd-stefan-mandl-interview/)\n*   [原文連結：當 AI 變成吃電怪獸！台達電押注微電網](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000755640_0CH7LX913DME3Z1OWU7TF)\n\n---\n**總結建議：**\n2026 年中旬的科技局勢由 **「AI 推論規模化」** 與 **「地緣政治合規」** 兩大旋律主導。企業應關注硬體從雲端向終端（N1X, XPS 13, 比亞迪自研晶片）的遷移，同時必須正視 AI 代理帶來的資安空窗期與儲存、能源成本的激增。",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/01/wd-wd-stefan-mandl-interview/",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000755640_0CH7LX913DME3Z1OWU7TF"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

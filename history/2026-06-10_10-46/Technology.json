@@ -1,0 +1,112 @@
+{
+  "category": "Technology",
+  "timestamp": "2026-06-10_10-46",
+  "stories": [
+    {
+      "title": "推理經濟時代（Inference Economy）與晶片架構重塑",
+      "body_md": "AI 產業正迎來關鍵轉捩點，算力競爭重心已正式從模型訓練（Training）移向推理（Inference）。隨著 Agentic AI（代理型 AI）的興起，晶片設計規律正被重寫，開發者不再僅追求原始算力，而是更看重推理成本、時延與「記憶體牆」的突破。未來市場將見證 ASIC 與優化後的 CPU 如何在推理場景中挑戰 GPU 的統治地位，算力將直接轉化為即時營收。\n**[原文連結](https://technews.tw/2026/06/10/agentic-ai-inference-token-user/)** | **[延伸連結](https://technews.tw/2026/06/10/ai-inference-and-memory/)**",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/10/agentic-ai-inference-token-user/",
+        "https://technews.tw/2026/06/10/ai-inference-and-memory/"
+      ]
+    },
+    {
+      "title": "台積電 CoPoS 先進封裝進入核心測試",
+      "body_md": "在全球 AI 晶片產能嚴重短缺下，台積電的次世代先進封裝平台 CoPoS 已進入關鍵測試階段，供應鏈耗材與設備商已全面進駐。CoPoS 預計將進一步提升晶片間的傳輸頻寬與封裝密度，是支撐未來 Vera Rubin 等次世代架構的核心關鍵。觀察重點在於 2027 年能否實現量產，這將決定高階 AI 伺服器產能能否擺脫目前的供給瓶頸。\n**[原文連結](https://technews.tw/2026/06/10/tsmcs-copos-advanced-packaging-enters-core-testing-phase/)**",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/10/tsmcs-copos-advanced-packaging-enters-core-testing-phase/"
+      ]
+    },
+    {
+      "title": "Google 啟動「晶片備援」：TPU 轉向 Intel 代工？",
+      "body_md": "報導指出 Google 預計在 2028 年委託英特爾製造超過 300 萬顆自研 TPU，這標誌著雲端巨頭開始分散對台積電先進製程的依賴。英特爾 18A 製程與先進封裝能力的測試結果將是此合作能否落地的關鍵，這對 Intel 代工服務（IFS）而言是具里程碑意義的勝利。此舉也暗示了未來全球半導體供應鏈將出現更多「二元化」或「多元化」的投片策略，以應對地緣政治與產能風險。\n**[原文連結](https://techorange.com/2026/06/10/openai-files-ipo-following-anthropic/)**\n\n---",
+      "used_source_urls": [
+        "https://techorange.com/2026/06/10/openai-files-ipo-following-anthropic/"
+      ]
+    },
+    {
+      "title": "台美聯合防堵 AI 晶片「走私」中國",
+      "body_md": "台灣政府正研議收緊銷往中國的 AI 晶片出口管制，與美國財政部、商務部的政策保持高度一致。此舉旨在防堵中國透過海外子公司或地下貿易鏈取得台積電等廠商代工的高階算力晶片。這場「隱形的地緣衝突」已延伸至晶片底層與數位供應鏈，未來台廠在合規與查核成本上將顯著增加。\n**[原文連結](https://technews.tw/2026/06/10/tightening/)** | **[延伸連結](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000758312_CWP4C2Z10V8HWI3P28EMQ)**",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/10/tightening/",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000758312_CWP4C2Z10V8HWI3P28EMQ"
+      ]
+    },
+    {
+      "title": "彭博警告：台海戰爭對全球經濟的毀滅性衝擊",
+      "body_md": "最新研究顯示，若台海爆發軍事衝突，全球 GDP 將萎縮逾 8%，歐盟在首年即面臨約 2 兆美元的經損。歐洲對台灣半導體的依賴已成其國安脆弱點，這解釋了為何歐洲各國急於推動「歐盟晶片法案」並吸引台廠設廠。分析指出，這種「台海溢價」將促使全球企業在未來五年內持續推動供應鏈「去風險化」與「去集中化」。\n**[原文連結](https://technews.tw/2026/06/10/the-european-union-has-a-2-trillion-taiwan-problem/)**",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/10/the-european-union-has-a-2-trillion-taiwan-problem/"
+      ]
+    },
+    {
+      "title": "反制稀土武器化：國際供應鏈向台灣招手",
+      "body_md": "中國在全球稀土市場的主導地位已成各國產業風險，專家呼籲西方國家應攜手台灣，利用台灣的精密加工與研發能力打造「非中」稀土供應鏈。台灣雖非產地，但在磁性材料應用與精煉回收技術上有其獨特價值。未來觀察點在於美國是否會將稀土加工作為《通貨膨脹削減法案》（IRA）的合作擴張範疇。\n**[原文連結](https://technews.tw/2026/06/10/counter-china-rare-earth-weaponization-experts-taiwan-supply-chain/)**\n\n---",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/10/counter-china-rare-earth-weaponization-experts-taiwan-supply-chain/"
+      ]
+    },
+    {
+      "title": "蘋果 Apple Intelligence 面臨地區性准入挑戰",
+      "body_md": "雖然 WWDC 推出了令人驚豔的全新 Siri AI，但受限於《數位市場法案》（DMA）與中國嚴格的數據審查，歐盟與中國的使用者初期將無法體驗部分核心功能。這反映了跨國科技巨頭在推動 AI 普及時，必須面對法規破碎化的嚴峻挑戰。若蘋果無法短期內解決中國市場的落地問題，其 iPhone 17/18 系列在華銷售競爭力恐將持續失速。\n**[原文連結](https://technews.tw/2026/06/10/new-siri-ai-features-will-not-be-available-in-eu-later-this-year/)**",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/10/new-siri-ai-features-will-not-be-available-in-eu-later-this-year/"
+      ]
+    },
+    {
+      "title": "Anthropic 發表 Claude Fable 5 與「N-hour」漏洞警告",
+      "body_md": "Anthropic 正式推出威力驚人的 Claude Fable 5，但其研究警告 AI 已能自主在數小時內將 N-day 漏洞武器化。這意味著資安攻防將進入「微秒級」對抗，傳統的補丁修復速度已跟不上 AI 攻擊腳步。資安界必須同步導入 AI 原生防禦框架（如 Arm 開源的 Metis），否則企業將面臨前所未有的零時差威脅。\n**[原文連結](https://www.ithome.com.tw/news/176499)** | **[延伸連結](https://www.ithome.com.tw/news/176463)**",
+      "used_source_urls": [
+        "https://www.ithome.com.tw/news/176499",
+        "https://www.ithome.com.tw/news/176463"
+      ]
+    },
+    {
+      "title": "Meta 強制導入站外數據進行 AI 個人化推薦",
+      "body_md": "Meta 調整了隱私政策，將使用者在其他應用程式與網站的活動資料，直接用於 Facebook 與 Instagram 的內容推薦與 AI 模型訓練。此舉雖能大幅提升個人化體驗，但也引發了歐盟監管機構的高度關注與壟斷爭議。這代表社群巨頭正全力將「數據資產化」，試圖在 Apple Intelligence 的生態擠壓下保有廣告精準度的護城河。\n**[原文連結](https://technews.tw/2026/06/10/meta-will-use-your-activity-on-other-websites-to-personalize-your-feeds/)**\n\n---",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/10/meta-will-use-your-activity-on-other-websites-to-personalize-your-feeds/"
+      ]
+    },
+    {
+      "title": "SpaceX 估值衝高：史上最大規模 IPO 倒數",
+      "body_md": "SpaceX 即將於 6 月 12 日進行 IPO，目前已獲近 4 倍超額認購，市場需求超過 2,500 億美元。SpaceX 成功的關鍵在於其不僅是一家火箭公司，更透過 Starlink 建立了全球衛星算力網路，將 AI 基礎建設延伸至軌道。未來觀察重點在於其衛星間光學鏈路（Optical Crosslinks）技術如何結合邊緣 AI，實現真正的「太空算力中心」。\n**[原文連結](https://finance.technews.tw/2026/06/10/spacex-ipo-demand-is-approaching-four-times-oversubscribed/)** | **[延伸連結](https://finance.technews.tw/2026/06/10/spacex-ipo/)**",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/06/10/spacex-ipo-demand-is-approaching-four-times-oversubscribed/",
+        "https://finance.technews.tw/2026/06/10/spacex-ipo/"
+      ]
+    },
+    {
+      "title": "AUKUS 聯合開發無人潛艇：2027 年部署",
+      "body_md": "美、英、澳協定（AUKUS）正加速開發自主式無人潛艇，預計 2027 年正式投產。這代表水下戰爭也將進入「消耗戰」與「AI 化」時代，低成本、大規模的無人載具將改變印太地區的戰略平衡。此舉對台灣相關造船與水下傳感器產業鏈亦可能帶來技術轉移或合作契機。\n**[原文連結](https://technews.tw/2026/06/10/aukus-to-develop-unmanned-submarines/)**\n\n---",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/10/aukus-to-develop-unmanned-submarines/"
+      ]
+    },
+    {
+      "title": "101 億美元 XPrize：逆齡生長不再是夢？",
+      "body_md": "哈佛生物學家 David Sinclair 宣布將參與 XPrize 競賽，測試能使人類免疫與肌肉功能「年輕 10 歲」的重編程藥物。這項計畫標誌著抗衰老醫學從基礎研究正式跨入大規模人體臨床測試階段。若成功，長壽產業（Longevity）將成為全球最大的消費與醫療市場，徹底改變人口結構與勞動力市場。\n**[原文連結](https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/)**",
+      "used_source_urls": [
+        "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/"
+      ]
+    },
+    {
+      "title": "美國能源部發布核融合商轉藍圖：2030 目標",
+      "body_md": "美國政府投入逾 100 億美元，旨在 2030 年代實現核融合能源的商業化運作。隨著 AI 計算能力的提升，等離子體模擬的精確度大幅增加，縮短了技術突破所需的時間。核融合被視為解決 AI 龐大耗能問題的「終極方案」，也是大國能源競賽的最終戰場。\n**[原文連結](https://technews.tw/2026/06/10/usa-fusion-doe-2030-commercial-target/)**\n\n---",
+      "used_source_urls": [
+        "https://technews.tw/2026/06/10/usa-fusion-doe-2030-commercial-target/"
+      ]
+    },
+    {
+      "title": "科技金融與產業營運指標",
+      "body_md": "*   **半導體測試**：穎崴 (WinWay) 5 月營收優於預期，獲大摩力挺目標價看好 15,000 元，反映 AI 測試治具需求強勁。**[連結](https://finance.technews.tw/2026/06/10/winways-revenue-performance-in-may-exceeded-market-expectations/)**\n*   **融資與併購**：美超微 (Super Micro) 擬募資 70 億美元採購 AI 零件，雖然造成股權稀釋，但反映訂單需求已達史詩級規模。**[連結](https://finance.technews.tw/2026/06/10/equity-dilution/)**\n*   **元件市場**：Amphenol 宣布 7 月起漲價 5%，意味著上游原物料通膨壓力已開始向下游傳導，觀察其他被動元件與連接器廠是否跟進。**[連結](https://finance.technews.tw/2026/06/10/amphenol-202607-raise-product-money/)**\n*   **人力市場**：巴黎成為歐洲 AI 人才重鎮，國防與航太需求是主因；研究指出，「AI 熟練者」的核心優勢並非純技術，而是對新技術的適應力與樂觀態度。**[連結](https://technews.tw/2026/06/10/investigation-paris-europe-ai-talent-hub-defense-aerospace-demand/)**\n\n---\n**分析結論**：今日新聞共同指向「算力主權化」與「AI 應用落地化」兩大主軸。企業不應僅專注於模型開發，更需關注算力推理的經濟效益（TaaS）以及隨之而來的安全防禦機制。地緣政治將持續干擾技術流通，台美、美日、美歐之間的技術同盟將更加緊密。",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/06/10/winways-revenue-performance-in-may-exceeded-market-expectations/",
+        "https://finance.technews.tw/2026/06/10/equity-dilution/",
+        "https://finance.technews.tw/2026/06/10/amphenol-202607-raise-product-money/"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

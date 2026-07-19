@@ -1,0 +1,112 @@
+{
+  "category": "Technology",
+  "timestamp": "2026-05-25_10-48",
+  "stories": [
+    {
+      "title": "輝達（Nvidia）與台積電的「全球科技聯準會」地位",
+      "body_md": "高盛前高層形容台積電為「全球科技市場的聯準會」，而輝達執行長黃仁勳頻繁訪台尋求產能，顯示出 AI 晶片供應已成為全球經濟的貨幣。這反映了 AI 算力不再只是產品，而是維持科技發展穩定的基礎設施，產能的分配直接決定了科技企業的生死。未來觀察重點在於台積電 COUPE 技術與 Lightmatter 等光引擎新創的合作，這將是突破現有電子傳輸瓶頸、進入 3D 光學運算時代的關鍵節點。\n[原文連結](https://finance.technews.tw/2026/05/25/nvidia-ceo-jensen-huang-is-flying-to-taiwan-nearly-every-month-asking-for-more-gpus/)",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/05/25/nvidia-ceo-jensen-huang-is-flying-to-taiwan-nearly-every-month-asking-for-more-gpus/"
+      ]
+    },
+    {
+      "title": "AMD 蘇姿丰：AI 賽局進入第三局，系統戰成決勝點",
+      "body_md": "超微（AMD）執行長蘇姿丰強調 AI 發展並非泡沫，目前僅處於「九局比賽的第三局」，並投資百億台幣佈局台灣生態系。此舉背景在於 AI 競爭已從單一 GPU 性能轉向包含 CPU、ASIC、先進封裝及機架級系統的綜合體系競爭。AMD 試圖透過晶片分級與開放架構，挑戰輝達的 CUDA 護城河。產業衝擊在於伺服器供應鏈將面臨「三力」考驗：算力、散熱與能源管理，這也是決定未來三年市佔率的核心指標。\n[原文連結](https://techorange.com/2026/05/25/ai-competition-expands-from-space-infrastructure-to-enterprise-labor-budgets/) | [原文連結](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756204_U4M327P2LE8QX95MXMMJJ)",
+      "used_source_urls": [
+        "https://techorange.com/2026/05/25/ai-competition-expands-from-space-infrastructure-to-enterprise-labor-budgets/",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756204_U4M327P2LE8QX95MXMMJJ"
+      ]
+    },
+    {
+      "title": "聯發科供應鏈韌性與 IC 設計新趨勢",
+      "body_md": "聯發科透過供應商大會宣示打造供應鏈韌性，協助客戶加速創新，背景是面對地緣政治與不穩定市場，IC 設計業者必須與下游封測與材料廠深度結盟。崇越與創意電子聯手打造的全台首座低碳運算中心，象徵著「綠色算力」已成為 IC 設計服務的新標配，有效減碳三成將成為爭取全球大客戶的重要議價門檻。\n[原文連結](https://finance.technews.tw/2026/05/25/mediatek-announces-supply-chain-resilience-at-supplier-conference/) | [原文連結](https://finance.technews.tw/2026/05/25/chunghwa-technology-and-creative-electronics-jointly-build-taiwans-first-low-carbon-computing-center/)\n\n---",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/05/25/mediatek-announces-supply-chain-resilience-at-supplier-conference/",
+        "https://finance.technews.tw/2026/05/25/chunghwa-technology-and-creative-electronics-jointly-build-taiwans-first-low-carbon-computing-center/"
+      ]
+    },
+    {
+      "title": "6.1 兆美元知識勞動力市場的爭奪戰",
+      "body_md": "紅點創投報告指出，AI 公司不再僅僅瞄準 5,000 億美元的軟體採購預算，而是開始入侵規模達 6.1 兆美元的知識勞動力預算。代理式 AI 能夠處理原本由人類完成的複雜任務，這將導致企業人力資源配置的根本性改變。未來觀察點在於「AI 營養標示」等監管政策（如新加坡擬推行者）如何定義 AI 的決策責任與透明度，這將直接影響企業導入代理式 AI 的速度。\n[原文連結](https://techorange.com/2026/05/25/ai-competition-expands-from-space-infrastructure-to-enterprise-labor-budgets/) | [原文連結](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756158_XO10YIAA6C6ZCU7TUPCUH)",
+      "used_source_urls": [
+        "https://techorange.com/2026/05/25/ai-competition-expands-from-space-infrastructure-to-enterprise-labor-budgets/",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756158_XO10YIAA6C6ZCU7TUPCUH"
+      ]
+    },
+    {
+      "title": "品牌行銷邏輯重構：當消費者被 AI 代理人取代",
+      "body_md": "隨著亞馬遜等電商推動「無界互聯」，品牌行銷的核心正從「吸引人類注意力」轉向「吸引 AI 演算法」。AI 代理人以極致理性（數據、合規、長效價值）進行採購決策，意味著缺乏透明數據支撐的情緒化行銷將逐漸失效。品牌必須建立「單一事實來源」的產品數據架構，確保 AI 能深度理解其規格與可信度，否則將在推薦清單中被永久邊緣化。\n[原文連結](https://techorange.com/2026/05/25/agentic-ai-purchase/)\n\n---",
+      "used_source_urls": [
+        "https://techorange.com/2026/05/25/agentic-ai-purchase/"
+      ]
+    },
+    {
+      "title": "台灣作為美中競爭的「關鍵支點」與安全風險",
+      "body_md": "美智庫與專家紛紛投書，強調美國不能讓台灣落入中共之手的三大主因，其中半導體供應鏈的絕對依賴是核心因素。川普政府雖然將對台軍售視為談判籌碼，但其「美國優先」政策下的進口關稅與移民限制，卻也給台灣半導體人才流動與產品競爭力帶來變數。未來需密切觀察川普對於晶片關稅的簽署時程，這將決定台廠回流美國與前進墨西哥佈局的急迫程度。\n[原文連結](https://technews.tw/2026/05/25/three-key-reasons-why-america-cannot-afford-to-lose-taiwan-to-communist-china/) | [原文連結](https://technews.tw/2026/05/25/us-think-tank-us-china-competition-foregone-conclusion-taiwan-key-pivot-point-victory-defeat/)",
+      "used_source_urls": [
+        "https://technews.tw/2026/05/25/three-key-reasons-why-america-cannot-afford-to-lose-taiwan-to-communist-china/",
+        "https://technews.tw/2026/05/25/us-think-tank-us-china-competition-foregone-conclusion-taiwan-key-pivot-point-victory-defeat/"
+      ]
+    },
+    {
+      "title": "美國移民政策劇變對科技人才的衝擊",
+      "body_md": "川普政府推動綠卡申請需離開美國審核，並納入社交媒體與教育資產審查，這對高度依賴外籍高階科技人才的矽谷造成重大衝擊。與此同時，美國出現大蕭條以來首次移民負成長，生活成本危機迫使人才流失。這種人才環境的惡化，可能導致美國科技領先地位的優勢減弱，迫使跨國科技公司（如 NVIDIA、AMD）更積極地在台灣、新加坡等地設立研發中心。\n[原文連結](https://technews.tw/2026/05/25/trump-administration-to-make-green-card-applicants-file-overseas/) | [原文連結](https://technews.tw/2026/05/25/americans-are-leaving-us/)\n\n---",
+      "used_source_urls": [
+        "https://technews.tw/2026/05/25/trump-administration-to-make-green-card-applicants-file-overseas/",
+        "https://technews.tw/2026/05/25/americans-are-leaving-us/"
+      ]
+    },
+    {
+      "title": "蘋果的「gen AI」佈局與 MacBook Neo 的低價攻勢",
+      "body_md": "蘋果在 WWDC26 前夕註冊「gen AI」子網域，顯示其生成的 AI 功能將迎來重大突破。同時，蘋果巧妙運用晶片分級創造利潤，MacBook Neo 成功震撼 PC 市場，不再僅靠效能，而是透過工業設計與生態系整合進行降維打擊。然而，三星在手機滿意度上已出現反超，顯示蘋果在 AI 整合表現上的落後已成為用戶流失的隱憂。\n[原文連結](https://technews.tw/2026/05/25/wwdc26-gen-ai/) | [原文連結](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000755783_CX481JEX7EIM0142KOX3S) | [原文連結](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756139_8MT24PZP2QB0B0LCP9I3X)",
+      "used_source_urls": [
+        "https://technews.tw/2026/05/25/wwdc26-gen-ai/",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000755783_CX481JEX7EIM0142KOX3S",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756139_8MT24PZP2QB0B0LCP9I3X"
+      ]
+    },
+    {
+      "title": "顯示技術戰場：京東方的價格戰與 OLED 的普及",
+      "body_md": "京東方為了搶奪三星 Galaxy S 系列 OLED 訂單，祭出供貨價格比三星顯示（SDC）低 5 美元的激進策略。這反映了 OLED 產業已進入「白刃戰」，京東方試圖透過轉向 IT 用 WOLED 量產來分散競爭壓力。儘管京東方股價異常波動並否認與輝達有直接合作，但其玻璃基板等新業務的佈局仍是未來關鍵。\n[原文連結](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756253_MZ21VX3U6D5LBE20GGSI4/) | [原文連結](https://technews.tw/2026/05/25/boe-new-businesses-not-mass-produced-nvidia-cooperation/)\n\n---",
+      "used_source_urls": [
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756253_MZ21VX3U6D5LBE20GGSI4/",
+        "https://technews.tw/2026/05/25/boe-new-businesses-not-mass-produced-nvidia-cooperation/"
+      ]
+    },
+    {
+      "title": "記憶體市場復甦與 HBM 的進化",
+      "body_md": "隨著 AI 應用需求攀升帶動 HBM 持續進化，鎧俠（Kioxia）在標普調升評等後股價創歷史新高，並計畫於 2027 年量產第 10 代 NAND。美光則透過維州廠 DDR4 擴產 4 倍來因應 AI 引發的排擠效應。整體記憶體市況火熱，三星 Galaxy 手機因行動記憶體價格暴漲 107%，導致 ASP 增幅創 8 年新高，利潤空間受到顯著擠壓。\n[原文連結](https://finance.technews.tw/2026/05/25/kioxia-soars-record-high-bullish-memory-market-outlook-s-p-rating-upgrade/) | [原文連結](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756357_KU64ZZUT4LU64W8BTABQ0/) | [原文連結](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756247_N871K9P351I9S86F3PLEE)",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/05/25/kioxia-soars-record-high-bullish-memory-market-outlook-s-p-rating-upgrade/",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756357_KU64ZZUT4LU64W8BTABQ0/",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756247_N871K9P351I9S86F3PLEE"
+      ]
+    },
+    {
+      "title": "電子零組件：MLCC 與銅的角色轉變",
+      "body_md": "MLCC 受惠於 AI 資料中心的高功率需求，出現罕見長單，帶動勤凱等材料廠營收創新高。值得注意的是，銅的角色正從工業金屬轉變為「關鍵能源物資」，因為 AI 資料中心與電動車對銅的需求劇增。未來觀察重點在於 Low Dk/Low Df 材料的研發，這是維持 AI 伺服器訊號傳輸品質的「隱形功臣」。\n[原文連結](https://finance.technews.tw/2026/05/25/copper-paste-for-hauling-goods/) | [原文連結](https://technews.tw/2026/05/25/energy-transition-ai-demand-copper-critical-material-supply-chain-reorg/) | [原文連結](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756321_O9O48U8M10YU7G2F70I25)\n\n---",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/05/25/copper-paste-for-hauling-goods/",
+        "https://technews.tw/2026/05/25/energy-transition-ai-demand-copper-critical-material-supply-chain-reorg/",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000756321_O9O48U8M10YU7G2F70I25"
+      ]
+    },
+    {
+      "title": "Meta 的內部矛盾：監控員工與大裁員",
+      "body_md": "外流音檔揭露祖克柏為蒐集員工鍵鼠軌跡辯護，聲稱是為了優化 AI 工作流而非 KPI，但當天即宣佈裁員 8 千人。這突顯了科技巨頭在追求 AI 效率時，對員工隱私與職場心理健康造成的巨大壓力。Meta 隨後推出的 Forum 程式被視為直接對抗 Reddit，顯示其在社群版圖上仍試圖透過垂直分眾與 AI 代理功能重新奪回話語權。\n[原文連結](https://finance.technews.tw/2026/05/25/zuck-defends-monitoring-employees-to-win-ai-race-in-purported-leaked-audio/) | [原文連結](https://www.ithome.com.tw/news/176075)",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/05/25/zuck-defends-monitoring-employees-to-win-ai-race-in-purported-leaked-audio/",
+        "https://www.ithome.com.tw/news/176075"
+      ]
+    },
+    {
+      "title": "Google 的反壟斷上訴與法律戰",
+      "body_md": "Google 正式對反壟斷判決提出上訴，主張其市場地位是基於技術創新而非排擠競爭對手。這場法律戰將決定預設搜尋引擎的商業模式是否合法，對整體搜尋引擎優化（SEO）與廣告市場有深遠影響。若 Google 敗訴，蘋果等硬體商可能獲准建立獨立搜尋引擎，這將徹底瓦解現有的數位廣告稅收體系。\n[原文連結](https://technews.tw/2026/05/25/google-challenges-landmark-antitrust-decision-over-search-engine-monopoly/)\n\n---\n\n**產業觀察家結語：** 2026 年是 AI 從「工具」轉變為「社會結構」的一年。從輝達與台積電的產能爭奪，到代理式 AI 對品牌行銷與知識勞動力的重塑，再到川普政策對全球供應鏈的物理切斷與重組，每一步都在考驗企業的韌性與轉型速度。對於投資者與分析師而言，**「算力、能源、人才、數據」**這四項要素的獲取能力，將是評價未來科技企業估值的核心指標。",
+      "used_source_urls": [
+        "https://technews.tw/2026/05/25/google-challenges-landmark-antitrust-decision-over-search-engine-monopoly/"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

@@ -1,0 +1,44 @@
+{
+  "category": "AI",
+  "timestamp": "2026-05-19_10-40",
+  "stories": [
+    {
+      "title": "深度摘要",
+      "body_md": "NVIDIA 與 Hugging Face 合作推出了針對其 **Cosmos Predict 2.5** 模型的微調指南，重點在於利用 **LoRA (Low-Rank Adaptation)** 與 **DoRA (Weight-Decomposed Low-Rank Adaptation)** 技術，使模型能更精準地生成特定場景下的機器人操作影片。這項技術允許開發者在有限的算力資源下，將通用的世界模型（World Models）轉化為特定工業或家庭環境中的仿真工具。透過微調，Cosmos 模型能夠理解更細微的物理交互，例如機械臂抓取物體的軌跡，這對於預測機器人未來的動作序列至關重要。[原文連結](https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation)",
+      "used_source_urls": [
+        "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation"
+      ]
+    },
+    {
+      "title": "多維度分析",
+      "body_md": "*   **事件背景**：隨著「具身智慧」（Embodied AI）成為 AI 下一階段的重點，如何訓練機器人理解物理規律成為瓶頸。傳統物理模擬器往往無法完全還原現實世界的複雜性，而基於影片生成的「世界模型」則提供了一種更具擴展性的路徑。\n*   **產業衝擊**：此進展大幅降低了機器人研發團隊的技術門檻。以往需要極大規模的算力與數據才能訓練的預測模型，現在可透過 LoRA 在單機或小規模集群上完成適配。這將加速自動化倉儲、精準醫療手術機器人等領域的仿真訓練效率，縮短從模擬到現實（Sim-to-Real）的落差。\n*   **未來觀察重點**：\n    1.  **物理一致性**：未來需觀察模型在長時間序列預測中，是否能維持物理常識（如重力、碰撞）而不產生幻覺。\n    2.  **數據閉環**：機器人實際操作後的反饋數據，如何自動轉化為 Cosmos 的微調數據集，形成持續進化的循環。\n\n---",
+      "used_source_urls": []
+    },
+    {
+      "title": "深度摘要",
+      "body_md": "百度旗下的 **PaddleOCR** 正式發布 3.5 版本，並深度整合了 **Hugging Face Transformers** 後端，這標誌著 OCR 技術正式從單純的「文字識別」跨向「文檔解析（Document Parsing）」的全面轉向。新版本不僅優化了多語種識別精度，更重要的是其對文檔版面分析、表格識別與關鍵信息提取（KIE）的強化，使其能處理更複雜的非結構化數據。透過 Transformers 架構的引入，PaddleOCR 3.5 能夠更好地捕捉圖像中文字間的語義關係，使輸出結果能直接與下游的 LLM 或 RAG（檢索增強生成）系統對接。[原文連結](https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers)",
+      "used_source_urls": [
+        "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers"
+      ]
+    },
+    {
+      "title": "多維度分析",
+      "body_md": "*   **事件背景**：企業數位轉型中，最大的痛點之一是堆積如山的 PDF、發票與合同。傳統 OCR 僅能產出「文字流」，而缺乏結構化的語義信息，導致後續處理依然需要大量人工。\n*   **產業衝擊**：PaddleOCR 與 Transformers 的結合，推動了「多模態 RAG」的成熟。金融、法律與供應鏈管理行業將受益最深，因為系統現在能「讀懂」表格中的邏輯關係，而不僅僅是識別數字。這也增強了開源生態系在商用文檔處理領域的競爭力，挑戰了過往由某些雲端巨頭壟斷的專有解析工具。\n*   **未來觀察重點**：\n    1.  **端側部署效能**：在引入 Transformers 這種較重的架構後，如何在行動裝置或邊緣運算設備上維持 PaddleOCR 一貫的極速性能。\n    2.  **LLM 整合深度**：觀察 PaddleOCR 是否會進一步演化為專門為 LLM 預處理設計的「感知引擎」，成為大模型時代的基礎設施。\n\n---",
+      "used_source_urls": []
+    },
+    {
+      "title": "深度摘要",
+      "body_md": "IBM Research 與 Hugging Face 共同推出了 **Open Agent Leaderboard**，旨在為日益增長的 AI Agent（人工智慧代理）建立一套客觀、透明且可重複的評估標準。這項倡議解決了當前 Agent 生態系統中缺乏統一基準的亂象，重點測試 Agent 在執行複雜任務時的工具調用能力、邏輯推理、多步計劃以及面對錯誤時的自我修復能力。排行榜涵蓋了從開源到閉源的各種模型，並採用了動態更新的測試集以防止過擬合與數據洩漏，確保評估結果能真實反映 Agent 在實際環境中的作業水準。[原文連結](https://huggingface.co/blog/ibm-research/open-agent-leaderboard)",
+      "used_source_urls": [
+        "https://huggingface.co/blog/ibm-research/open-agent-leaderboard"
+      ]
+    },
+    {
+      "title": "多維度分析",
+      "body_md": "*   **事件背景**：當前 AI 正從「對話式 AI」轉向「行動式 AI（Actionable AI）」。然而，宣稱具備「自主性」的 Agent 層出不窮，開發者卻難以判斷哪個框架或模型在特定任務（如 API 調用或自動編程）中表現最優。\n*   **產業衝擊**：此排行榜將成為企業選擇 Agent 方案的「指南針」。它會迫使開發者不再只追求參數規模，而是轉向提升模型的「穩定性」與「可靠性」。長期來看，這有助於建立 AI Agent 的可信度，加速 Agent 在自動化運維（DevOps）、自動市場分析等專業領域的應用落地。\n*   **未來觀察重點**：\n    1.  **測試場景的廣度**：評估標準是否能涵蓋跨應用程序操作、長路徑決策等更具挑戰性的真實場景。\n    2.  **開源 VS 閉源的差距**：觀察 Llama、Mistral 等開源模型在專業 Agent 任務上，是否能透過特定微調追平甚至超越 GPT-4 等閉源巨頭。",
+      "used_source_urls": []
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

@@ -1,0 +1,88 @@
+{
+  "category": "TW News",
+  "timestamp": "2026-05-23_10-29",
+  "stories": [
+    {
+      "title": "Google Gemini 用量機制變革：從「次數」轉向「算力」核心",
+      "body_md": "Google 宣布調整其 AI 模型 Gemini 的用量限制，由傳統的「指令次數」改為依據「運算量」計算，涵蓋提示詞複雜度、功能使用及對話長度。這反映了生成式 AI 產業正進入成本精細化管理階段，對於高頻使用的開發者與專業用戶而言，未來的互動成本將更直接與任務難度掛鉤。此舉旨在優化伺服器資源分配，對長期進行複雜推理任務的用戶群體影響最深，未來觀察重點在於其他 AI 龍頭（如 OpenAI）是否會跟進此類「計量收費」邏輯的變體。\n[原文連結](https://3c.ltn.com.tw/news/66181)",
+      "used_source_urls": [
+        "https://3c.ltn.com.tw/news/66181"
+      ]
+    },
+    {
+      "title": "AI 深偽技術（Deepfake）成為企業公關與法律新威脅",
+      "body_md": "高雄知名建商遭到不肖人士利用 AI 製圖偽造新聞網頁，惡意指控其總經理酒駕拒測，迫使公司緊急發聲明澄清並揚言提告。此事件揭示了 AI 技術被武器化後的社會殺傷力，尤其是對企業品牌信譽的即時性破壞，已非傳統法律救濟所能迅速修補。產業面需關注「數位防偽驗證」技術的市場需求將大幅提升，政府對於 AI 詐欺與誹謗的刑事量刑基準，亦將成為未來法制改革的重中之重。\n[原文連結](https://news.ltn.com.tw/news/society/breakingnews/5446658)",
+      "used_source_urls": [
+        "https://news.ltn.com.tw/news/society/breakingnews/5446658"
+      ]
+    },
+    {
+      "title": "AI 進入教育現場：教師職能的去中心化轉型",
+      "body_md": "全教會近期聚焦學生使用 ChatGPT 創作畢業歌等現象，討論教師在 AI 浪潮下的角色重定位，強調從「知識傳遞者」轉向「學習引導者」。這代表教育產業正經歷一場軟體驅動的範式轉移，AI 不僅是工具，更在重塑評量標準與教學邏輯。未來的觀察重點在於教育體系如何建立「人工智慧倫理準則」，以及如何在科技輔助下，仍能保有學生獨立思考與原創情感的培養空間。\n[原文連結](https://news.ltn.com.tw/news/life/breakingnews/5446671)\n\n---",
+      "used_source_urls": [
+        "https://news.ltn.com.tw/news/life/breakingnews/5446671"
+      ]
+    },
+    {
+      "title": "台美軍售進度與「防衛性武器」定義之爭",
+      "body_md": "針對 140 億美元對台軍售案，美方資深官員強調該清單均為防衛性武器，並駁斥「暫緩」傳聞，指出最終決策權在川普總統。此事反映出地緣政治緊張局勢下，台灣國防供應鏈的穩定性高度依賴美國政治決策，而非僅是軍事需求。產業面應關注後續軍購預算的撥款效率，以及美方是否因中東戰事（如對伊朗行動）而導致全球彈藥庫存調度對台產生的排擠效應。\n[原文連結](https://news.ltn.com.tw/news/def/breakingnews/5446657)",
+      "used_source_urls": [
+        "https://news.ltn.com.tw/news/def/breakingnews/5446657"
+      ]
+    },
+    {
+      "title": "美國半導體關稅政策：緩衝期中的供應鏈在地化佈局",
+      "body_md": "美國貿易代表葛里爾指出，目前非立即開徵半導體新關稅的時機，但強調「關稅保護」對於推動晶片產業回流美國至關重要。這顯示美國對華半導體圍堵政策並未鬆動，僅是考量當前市場通膨與供應鏈韌性而暫緩執行劇烈手段。對台灣半導體產業鏈而言，未來觀察重點在於「關稅」何時成為正式籌碼，以及企業如何加速在美建廠進度以規避潛在的關稅成本。\n[原文連結](https://ec.ltn.com.tw/article/breakingnews/5446648)\n\n---",
+      "used_source_urls": [
+        "https://ec.ltn.com.tw/article/breakingnews/5446648"
+      ]
+    },
+    {
+      "title": "職場霸凌法制化討論：蒐證難題與行政救濟困局",
+      "body_md": "近期職場霸凌事件頻傳，輿論開始檢討現行《勞基法》與《職安法》在應對羞辱、孤立等隱性霸凌行為時的無力感。產業衝擊體現於勞動力流失與企業ESG形象受損，許多企業開始引入「心理諮商」與「第三方檢舉機制」以補足法律空缺。未來觀察重點在於立法院是否針對職場霸凌制定專法，並對雇主增設更嚴格的防範責任與懲罰性賠償。\n[原文連結](https://talk.ltn.com.tw/article/breakingnews/5435833)",
+      "used_source_urls": [
+        "https://talk.ltn.com.tw/article/breakingnews/5435833"
+      ]
+    },
+    {
+      "title": "新興文娛產業（密室逃脫）的安全監管漏洞",
+      "body_md": "台北市「邏思起子」意外事件引發地方政府對密室逃脫場所管理權責的論戰，新北市府指出早在 2023 年即函請中央釐清 D-1 歸屬。這暴露了新興服務業在法規定義上的滯後性，導致安全檢查存在灰色地帶。對於文創與休閒產業而言，強制性的「建築用途定義」與「消防公安基準」將會趨嚴，業者需面臨更高的合規成本與場地改造支出。\n[原文連結](https://news.ltn.com.tw/news/politics/breakingnews/5446654)",
+      "used_source_urls": [
+        "https://news.ltn.com.tw/news/politics/breakingnews/5446654"
+      ]
+    },
+    {
+      "title": "極端氣候下的能源與公衛壓力",
+      "body_md": "台灣迎來極端高溫，台南玉井出現 39.7 度熱浪，且下週可能有颱風生成，梅雨季信號不明顯。這直接挑戰了夏季的電力調度與農業供水韌性，預防熱傷害已成為公共衛生與戶外勞動產業的首要任務。未來的觀察重點在於氣候異常對水電價格的潛在帶動，以及政府在能源轉型過程中如何應對極端高溫帶來的用電尖峰。\n[原文連結](https://news.ltn.com.tw/news/life/breakingnews/5446640)\n\n---",
+      "used_source_urls": [
+        "https://news.ltn.com.tw/news/life/breakingnews/5446640"
+      ]
+    },
+    {
+      "title": "台灣旅外球員表現：棒球產業的跨國人才流動",
+      "body_md": "李灝宇在 MLB 老虎隊的安打表現與王彥程在韓職（KBO）並列勝投王的優異成績，再次證明台灣基層棒球在國際人才市場的競爭力。這不僅提升了台灣棒球的國際品牌，也促進了台灣與美、日、韓職棒之間的技術交流與球員交易機制。未來應關注這些新星在季後賽或重要賽事的穩定性，這將直接影響台灣體育產業在廣告贊助與轉播權談判上的籌碼。\n[原文連結](https://sports.ltn.com.tw/news/breakingnews/5446678) (王彥程) / [原文連結](https://sports.ltn.com.tw/news/breakingnews/5446583) (李灝宇)",
+      "used_source_urls": [
+        "https://sports.ltn.com.tw/news/breakingnews/5446678",
+        "https://sports.ltn.com.tw/news/breakingnews/5446583"
+      ]
+    },
+    {
+      "title": "音樂綜藝與收視經濟：哈林庾澄慶《歌手 2026》淘汰爭議",
+      "body_md": "資深歌手庾澄慶在音樂節目中因得票率低被淘汰，引發兩岸網友對評選標準與「情懷經濟」的熱烈討論。此類大型綜藝節目反映了串流影音時代下，傳統大牌藝人如何適應新的競演形式，以及選秀機制對流量獲取與分眾市場的精確操控。觀察重點在於資深藝人如何透過社群媒體進行賽後公關，將「淘汰」轉化為另一波「話題紅利」。\n[原文連結](https://ent.ltn.com.tw/news/breakingnews/5446644)\n\n---",
+      "used_source_urls": [
+        "https://ent.ltn.com.tw/news/breakingnews/5446644"
+      ]
+    },
+    {
+      "title": "區域動態與生態保育",
+      "body_md": "*   **金門歐亞水獺悲歌**：保育類水獺誤觸孔雀陷阱死亡，凸顯外來種管理與本土瀕危物種保護間的衝突，急需更細緻的生態補償政策。[原文連結](https://news.ltn.com.tw/news/life/breakingnews/5446668)\n*   **桃園智慧停車升級**：全台推動智慧城市建設，桃園大規模設置智慧停車柱，將提升路邊格位周轉率並增加財政規費收入，是物聯網（IoT）在智慧交通落地的典型範例。[原文連結](https://news.ltn.com.tw/news/life/breakingnews/5446646)\n*   **馬英九健康爭議與家族角力**：前總統健康傳聞引發家族內部聲明戰，折射出政治人物私權委託與對外窗口權力鬥爭的敏感性，也是高齡化社會下「醫療監護執行」的重要討論案例。[原文連結](https://health.ltn.com.tw/article/breakingnews/5446670)\n\n---\n**總結建議**：今日動態顯示，AI 技術的法制邊界、地緣政治對高科技供應鏈的持續施壓、以及職場與公共安全的法規細緻化，是當前產業界最需關注的三大主軸。",
+      "used_source_urls": [
+        "https://news.ltn.com.tw/news/life/breakingnews/5446668",
+        "https://news.ltn.com.tw/news/life/breakingnews/5446646",
+        "https://health.ltn.com.tw/article/breakingnews/5446670"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

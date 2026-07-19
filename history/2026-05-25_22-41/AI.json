@@ -1,0 +1,78 @@
+{
+  "category": "AI",
+  "timestamp": "2026-05-25_22-41",
+  "stories": [
+    {
+      "title": "Google AlphaProof Nexus 橫掃 Erdős 猜想，數學推理進入新紀元",
+      "body_md": "Google DeepMind 推出 AlphaProof Nexus 系統，成功自主解決了 9 個 Erdős 數學難題，其中包含懸而未決超過 56 年的極難挑戰，效率與數量遠超 OpenAI。該系統的核心技術是將大型語言模型與 Lean 形式化證明輔助工具結合，使其產出的證明不僅具備語義邏輯，更經過機器嚴格驗證。這象徵著 AI 已從「預測下一個字」轉化為「在嚴格邏輯邊界內進行創造性搜索」的機器。\n*   **對產業的衝擊**：這將大幅降低科學發現的邊際成本，特別是在材料科學、藥物設計等極度依賴數學建模的領域。\n*   **未來觀察重點**：自動化數學證明的成本已降至每題數百美元，未來是否會出現專門從事原始理論研究的「AI 數學家」服務。\n[原文連結](https://www.therundown.ai/p/google-tops-openai-math-breakthrough-9-to-1)",
+      "used_source_urls": [
+        "https://www.therundown.ai/p/google-tops-openai-math-breakthrough-9-to-1"
+      ]
+    },
+    {
+      "title": "RMA 代理系統：攻克研究級數學難題",
+      "body_md": "RMA（Research Math Agents）架構專為解決非競賽類的、真正研究級別的數學問題而設計。它透過將複雜的證明分解為問題分析、文獻檢索、知識庫建構及證明驗證等多個專業模組，解決了長程推理（Long-horizon reasoning）容易斷裂的痛點。實驗證明，RMA 在 First Proof 基準測試中擊敗了 GPT-5.2R，成功解決了 10 個研究問題中的 8 個。\n*   **對產業的衝擊**：標誌著 AI 代理可以參與高階學術產出，縮短從猜想到驗證的週期。\n*   **未來觀察重點**：多代理協作系統（Multi-agent systems）在處理高度專業化、零容錯任務時的擴展性。\n[原文連結](https://arxiv.org/abs/2605.22875)",
+      "used_source_urls": [
+        "https://arxiv.org/abs/2605.22875"
+      ]
+    },
+    {
+      "title": "SciAtlas 與 AutoResearch AI：構建科學進化的全景圖譜",
+      "body_md": "SciAtlas 整合了超過 4300 萬篇論文，建構出擁有 30 億個三元組的大規模科學知識圖譜，為 AI 代理提供「拓撲推理」能力。這彌補了當前 RAG 技術僅依賴向量搜索而缺乏邏輯關聯的缺陷。AutoResearch AI 則提出從「任務級輔助」向「工作流級自動化」轉型的路徑圖，涵蓋從假設生成到自動報告編寫的全過程。\n*   **對產業的衝擊**：打破學科孤島，使跨領域（Interdisciplinary）的發現路徑可被計算與優化。\n*   **未來觀察重點**：AI 如何在知識爆炸的背景下維持「證據鏈的保存（Evidence Preservation）」與可重複性。\n[原文連結](https://arxiv.org/abs/2605.22878) | [原文連結](https://arxiv.org/abs/2605.23204)\n\n---",
+      "used_source_urls": [
+        "https://arxiv.org/abs/2605.22878",
+        "https://arxiv.org/abs/2605.23204"
+      ]
+    },
+    {
+      "title": "Foundation Protocol (FP)：建構人機共生社會的協調層",
+      "body_md": "隨著 AI 代理開始自主瀏覽、採購、部署軟體，傳統的網路協議已不勝負荷。Foundation Protocol (FP) 提出了一種「以圖為中心（Graph-first）」的協調層，將代理、工具、資源、人類與機構統一在一個框架下。該協議支援原生的多方組織協作、事件驅動合作，並內建計費與結算原語。\n*   **對產業的衝擊**：這可能是未來「AI 經濟（AI Economy）」的基礎設施，讓自主代理之間的價值交換變得合法且可審核。\n*   **未來觀察重點**：該協議能否成功橋接現有網路協議，實現漸進式採用而非暴力替換。\n[原文連結](https://arxiv.org/abs/2605.23218)",
+      "used_source_urls": [
+        "https://arxiv.org/abs/2605.23218"
+      ]
+    },
+    {
+      "title": "代理生態系統中的責任邊界（Accountability Boundaries）分析",
+      "body_md": "當 AI Orchestrator 降低了跨組織調用能力的成本時，責任歸屬卻變得模糊。該研究提出「責任資產（Accountability Assets）」理論，強調即便技術接口是模組化的，只要輸出需要簽署或法律承擔，其責任邊界仍需維持整合。這解釋了為何即便技術成熟，某些敏感領域的組織解構仍會受到阻礙。\n*   **對產業的衝擊**：法律與合規部門需要重新設計 AI 執行環境中的「規則債務（Rule Debt）」管理體系。\n*   **未來觀察重點**：執行邊界與責任邊界是否能透過技術（如數位簽章）實現同步移動。\n[原文連結](https://arxiv.org/abs/2305.23179)",
+      "used_source_urls": [
+        "https://arxiv.org/abs/2305.23179"
+      ]
+    },
+    {
+      "title": "DART 與 OKBs：確保代理系統的可靠性與合規性",
+      "body_md": "DART 解決了工具代理在中途失敗後的恢復難題，透過形式化「語義可恢復性（Semantic Recoverability）」，確保恢復過程不會遺失已提交的下游工作。Ontological Knowledge Blocks (OKBs) 則將監管義務轉化為機器可校驗的約束，讓 AI 系統的審計從靜態清單轉化為動態、可執行的證據圖譜。\n*   **對產業的衝擊**：這類技術是將 AI 部署到關鍵數位基礎設施（如電力、金融）的先決條件。\n*   **未來觀察重點**：如何在不修改業務代碼的前提下，透過「配置（Profile）」實現治理模式的動態切換。\n[原文連結](https://arxiv.org/abs/2605.23311) | [原文連結](https://arxiv.org/abs/2605.23297)\n\n---",
+      "used_source_urls": [
+        "https://arxiv.org/abs/2605.23311",
+        "https://arxiv.org/abs/2605.23297"
+      ]
+    },
+    {
+      "title": "EpG：從「每次推理成本」轉向「每個成功目標的能耗」",
+      "body_md": "當前的 AI 能耗基準測試主要針對單次調用，但代理系統涉及多步編排、工具調用及重試。研究提出「每個成功目標的能耗（Energy per Successful Goal, EpG）」作為新的會計單位。這能真實反映完成一項任務（如：安排一次旅行並開好收據）所需的總能量，而非僅僅是模型回話的電費。\n*   **對產業的衝擊**：這將迫使開發者優化代理的「編排開銷（Orchestration Overhead）」，而不僅僅是模型權重的量化。\n*   **未來觀察重點**：軟硬體協同優化（Co-design）如何降低任務失敗率以提升能源效率。\n[原文連結](https://arxiv.org/abs/2605.22883)",
+      "used_source_urls": [
+        "https://arxiv.org/abs/2605.22883"
+      ]
+    },
+    {
+      "title": "Parallel Context Compaction：解決長程代理的性能瓶頸",
+      "body_md": "長對話歷史會導致上下文窗口溢出，傳統的同步總結會中斷代理推理數十秒。Parallel Compaction 技術讓操作員能精確控制總結體積，並在後台並行處理上下文壓縮。這讓具備長記憶的代理能像雲端服務一樣實現高效的並發處理。\n*   **對產業的衝擊**：提升了大規模代理群（Agent Swarms）的經濟可行性與反應速度。\n*   **未來觀察重點**：這種「有損壓縮」在極長對話中是否會導致關鍵決策資訊的丟失。\n[原文連結](https://arxiv.org/abs/2605.23296)",
+      "used_source_urls": [
+        "https://arxiv.org/abs/2605.23296"
+      ]
+    },
+    {
+      "title": "SkillOpt：代理技能的自主進化優化器",
+      "body_md": "過去的代理技能多為手寫或一次性生成，SkillOpt 引入了類似深度學習優化器的嚴謹性，對技能文檔進行「增/刪/改」。該系統確保只有在驗證集分數嚴格提升時才採納修改，且不增加推理時的模型調用次數。在 52 項基準測試中，SkillOpt 展現出卓越的適應能力。\n*   **對產業的衝擊**：代理可以像人類一樣從「原始經驗」中提煉「結構化技能」，並實現技能的跨任務遷移。\n*   **未來觀察重點**：技能文檔是否會演變成一種新型的、可交易的 AI 知識資產。\n[原文連結](https://arxiv.org/abs/2605.23904)\n\n---",
+      "used_source_urls": [
+        "https://arxiv.org/abs/2605.23904"
+      ]
+    },
+    {
+      "title": "產業衝擊總結與展望",
+      "body_md": "本週的研究趨勢強烈暗示：**AI 正在從一個「對話機器」演變成一個「能自我改進、受規則約束、且具備社會協調能力」的行為主體。**\n\n*   **技術風險點**：Deterministic Horizon（確定性地平線）研究指出，變壓器架構存在推理深度的天花板，單純增加訓練數據無法突破架構限制。這提醒產業：未來的突破可能來自於「神經符號（Neurosymbolic）」的結合，而非單純的聯結主義（Connectionism）。\n*   **安全預警**：MemAudit 揭示了代理記憶層遭受惡意注入（Poisoning）的新漏洞，這種攻擊能讓代理在不自知的情況下偏離安全準則。\n*   **社會意義**：Cognitive Kardashev Scale 試圖量化文明的計算能力，這不僅是技術預測，更是對未來能源分配與認知資源管理的倫理拷問。\n\n作為分析師，我建議企業應立即關注 **Foundation Protocol** 與 **EpG 能耗管理**，這兩者將分別定義未來 AI 應用的「交互標準」與「運維邊界」。",
+      "used_source_urls": []
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

@@ -1,7 +1,7 @@
 import json
 import unittest
 
-from src.summarizer import parse_digest
+from src.summarizer import parse_digest, StoryRecord, CategoryArchive
 
 ALLOWED = {"https://example.com/a", "https://example.com/b"}
 
@@ -47,6 +47,41 @@ class TestSummarizerSchema(unittest.TestCase):
         digest, reason = parse_digest("not json", ALLOWED)
         self.assertIsNone(digest)
         self.assertIn("invalid JSON", reason)
+
+
+class TestStoryRecordAndArchive(unittest.TestCase):
+    def test_story_record_body_md_optional(self):
+        r = StoryRecord(title="T", body_md="some markdown prose")
+        self.assertEqual(r.title, "T")
+        self.assertEqual(r.body_md, "some markdown prose")
+        self.assertEqual(r.fact_summary, "")
+        self.assertEqual(r.judgment, "")
+
+    def test_story_record_structured_fields(self):
+        r = StoryRecord(
+            title="T", confidence=80, heat=70,
+            fact_summary="x" * 25, judgment="y" * 25,
+            used_source_urls=["https://e.com/a"],
+        )
+        self.assertEqual(r.confidence, 80)
+        self.assertEqual(r.used_source_urls, ["https://e.com/a"])
+
+    def test_category_archive_minimal(self):
+        a = CategoryArchive(category="AI", timestamp="2026-07-18_20-59")
+        self.assertEqual(a.category, "AI")
+        self.assertEqual(a.stories, [])
+        self.assertEqual(a.watchlist, [])
+        self.assertFalse(a.no_signal)
+
+    def test_category_archive_with_stories(self):
+        a = CategoryArchive(
+            category="AI", timestamp="2026-07-18_20-59",
+            stories=[StoryRecord(title="S", fact_summary="f", judgment="j")],
+            watchlist=[],
+            no_signal=False,
+        )
+        self.assertEqual(len(a.stories), 1)
+        self.assertEqual(a.stories[0].title, "S")
 
 
 if __name__ == "__main__":

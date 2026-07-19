@@ -1,0 +1,86 @@
+{
+  "category": "Technology",
+  "timestamp": "2026-05-11_10-34",
+  "stories": [
+    {
+      "title": "英特爾轉型見曙光：傳奪蘋果訂單與輝達深化合作",
+      "body_md": "英特爾（Intel）代工服務（IFS）傳出重大突破，據傳已與蘋果達成初步協議，將代工部分裝置晶片，這象徵著蘋果多年來高度依賴台積電的策略出現鬆動。與此同時，執行長陳立武推動的改革獲得輝達（Nvidia）認可，雙方正開發「令人興奮的新產品」，顯示英特爾正利用其在美國本土的製造優勢，試圖在先进製程與台積電一較高下。\n*   **分析**：此事件對台積電短期股價造成壓力，也顯示出美國政府「半導體回流」政策正在發揮實質引導作用。未來需觀察英特爾 18A 等先進製程的良率是否能真正滿足蘋果的嚴苛要求。\n*   **原文連結**：[英特爾傳奪蘋果晶片訂單，台積電跌破 5 日線](https://finance.technews.tw/2026/05/11/tsmc-2255-stock-price/)、[英特爾、輝達合作喜訊！](https://technews.tw/2026/05/11/intel-nvidia-exciting-product/)",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/05/11/tsmc-2255-stock-price/",
+        "https://technews.tw/2026/05/11/intel-nvidia-exciting-product/"
+      ]
+    },
+    {
+      "title": "手機市場寒風與 AMD 的意外突圍",
+      "body_md": "由於全球智慧型手機需求持續低迷，高通與聯發科相繼下修在台積電的投片量。然而，超微（AMD）卻因資料中心與 AI 運算需求強勁，順勢承接了釋出的產能，成為這波手機寒冬中的最大受惠者。此外，AMD 的傳奇處理器 K5 正式退出 Linux 核心支援，象徵著一代獨立設計架構的技術終結。\n*   **分析**：這反映了半導體市場的結構性位移——由消費電子主導轉向 AI 基建主導。AMD 的強勢成長顯示其在伺服器市場的占有率正進一步威脅競爭對手。\n*   **原文連結**：[手機寒風衝擊高通、聯發科，AMD 意外成最大受惠者](https://finance.technews.tw/2026/05/11/qualcomm-and-mediatek-lowered-their-estimates-of-tsmcs-production-capacity/)、[AMD K5 正式退出 Linux 核心支援](https://technews.tw/2026/05/11/amds-legendary-k5-is-being-removed-from-the-linux-kernel/)",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/05/11/qualcomm-and-mediatek-lowered-their-estimates-of-tsmcs-production-capacity/",
+        "https://technews.tw/2026/05/11/amds-legendary-k5-is-being-removed-from-the-linux-kernel/"
+      ]
+    },
+    {
+      "title": "三星勞資危機：全球記憶體供應鏈的未爆彈",
+      "body_md": "三星電子勞資談判陷入僵局，工會威脅發動總罷工，估計每日減產損失可能高達 62 億顆晶片。雖然本週雙方重回談判桌，但若罷工成真，全球 DRAM 供應量可能在 18 天內縮減 4%，這將進一步推升已經處於高點的記憶體價格。\n*   **分析**：三星作為記憶體龍頭，其產能波動將直接影響全球手機與伺服器的成本。勞資爭議若無法妥善解決，將給予美光、SK 海力士等對手更大的定價話語權。\n*   **原文連結**：[三星勞資雙方本週回談判桌 罷工警報能否解除？](https://technews.tw/2026/05/11/samsung-labor-management-talks-this-week-strike-alert-resolution/)、[三星罷工衝擊有多大？](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000754727_7BU84ATE1OBRK585Z54EW)\n\n---",
+      "used_source_urls": [
+        "https://technews.tw/2026/05/11/samsung-labor-management-talks-this-week-strike-alert-resolution/",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000754727_7BU84ATE1OBRK585Z54EW"
+      ]
+    },
+    {
+      "title": "Cerebras IPO 熱潮與 AI 資本家時代",
+      "body_md": "AI 晶片新創 Cerebras 因投資人反應極其火熱，計畫調高 IPO 定價與發行規模，顯示市場對 Nvidia 以外的硬體方案仍有強烈飢渴。同時，Nvidia 本身也正轉向「AI 資本家」模式，透過豪砸 400 億美元綁定供應鏈，確保從晶片到封裝產能的絕對主導權。\n*   **分析**：市場正進入「後 GPU 時代」的基建競賽，算力不再是唯一重點，如何透過資本鎖定有限的生產資源（如 CoWoS 封裝）成為企業競爭的關鍵。\n*   **原文連結**：[Cerebras IPO 超額認購逾 20 倍](https://finance.technews.tw/2026/05/11/cerebras-to-raise-ipo-price-range-to-150-160-as-demand-surges/)、[NVIDIA 豪砸 400 億美元變身 AI 資本家](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000754845_0QX9LMCZ35XNLT6LZZSIT)",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/05/11/cerebras-to-raise-ipo-price-range-to-150-160-as-demand-surges/",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000754845_0QX9LMCZ35XNLT6LZZSIT"
+      ]
+    },
+    {
+      "title": "邊緣 AI 與效能瓶頸的突破",
+      "body_md": "研華與台達電在 4 月營收創下歷史新高，主要歸功於邊緣 AI 滲透率提升以及資料中心對液冷散熱、高效電源的需求。學界也傳來喜訊，加州大學開發出供電效率達 96.2% 的高效壓電混合晶片，這對解決 AI 資料中心巨大的能耗壓力具有指標性意義。\n*   **分析**：AI 發展的瓶頸正從「軟體模型」轉移至「電力與熱能管理」。未來幾年，散熱技術（液冷、EC 風扇）與能源效率晶片將是半導體硬體商的最強增長動能。\n*   **原文連結**：[研華 4 月營收再創歷史紀錄](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000754856_CXO7BIEL6TLV9U5NI8IZO)、[美大學研發高效壓電混合晶片](https://technews.tw/2026/05/11/this-new-chip-could-make-gpus-far-more-efficient/)\n\n---",
+      "used_source_urls": [
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000754856_CXO7BIEL6TLV9U5NI8IZO",
+        "https://technews.tw/2026/05/11/this-new-chip-could-make-gpus-far-more-efficient/"
+      ]
+    },
+    {
+      "title": "萊茵金屬與無人化軍工業的爆發",
+      "body_md": "德國軍工大廠萊茵金屬 2026 Q1 營收達 19 億歐元，受惠於地緣衝突引發的軍武採購潮。該公司特別強調「無人水面艦」將成為未來戰略焦點，這與全球軍事轉向無人化、低成本消耗戰的趨勢完全吻合。\n*   **分析**：傳統軍工產業正與資通訊技術高度融合，無人載具（如 AeroVironment 的遊蕩彈藥）已成為現代戰場的主導力量，相關供應鏈將迎來長達數年的黃金期。\n*   **原文連結**：[萊茵金屬 2026 首季營收達 19 億歐元](https://finance.technews.tw/2026/05/11/rheinmetall-q1-sales-jumped-8/)、[美國陸軍採購 Switchblade 400 遊蕩彈藥](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000754541_LJG6UW5D359I8Z2M4JT20)",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/05/11/rheinmetall-q1-sales-jumped-8/",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000754541_LJG6UW5D359I8Z2M4JT20"
+      ]
+    },
+    {
+      "title": "藍色起源耐力號：重返月球的關鍵里程碑",
+      "body_md": "藍色起源的 MK1 登月艙通過了 NASA 的熱真空測試，這對美國阿提米絲計畫中「商業登月」的願景至關重要。這項測試驗證了太空艙在極端溫差環境下的可靠性，標誌著無人登月任務進入最後衝刺階段。\n*   **分析**：太空產業的成熟度正大幅提升，私人企業在重型發射與登月設備上的進度，將直接決定人類未來十年在月球資源開發的話語權。\n*   **原文連結**：[藍色起源耐力號朝無人登月再進一步](https://technews.tw/2026/05/11/blue-origins-new-moon-lander-passes-a-crucial-test-for-nasa-missions/)\n\n---",
+      "used_source_urls": [
+        "https://technews.tw/2026/05/11/blue-origins-new-moon-lander-passes-a-crucial-test-for-nasa-missions/"
+      ]
+    },
+    {
+      "title": "原始碼洩漏與關鍵系統漏洞",
+      "body_md": "資安公司 Trellix 證實部分原始碼遭駭客組織 RansomHouse 盜取，可能導致後續針對其安全防護工具的針對性攻擊。同時，LiteLLM 被爆出重大的 SQL 注入漏洞並已遭實際利用，美國 CISA 已要求聯邦機構在 3 天內緊急修補 Ivanti 的零時差漏洞。\n*   **分析**：資安防衛正演變為「AI 對抗 AI」的戰爭，供應鏈攻擊（如惡意 NuGet/PyPI 套件冒充中國庫）顯示出開發者環境已成為駭客入侵的最佳跳板。\n*   **原文連結**：[勒索軟體聲稱竊得 Trellix 原始碼](https://www.ithome.com.tw/news/175680)、[美國警告 LiteLLM 重大 SQL 注入漏洞](https://www.ithome.com.tw/news/175679)\n\n---",
+      "used_source_urls": [
+        "https://www.ithome.com.tw/news/175680",
+        "https://www.ithome.com.tw/news/175679"
+      ]
+    },
+    {
+      "title": "記憶體成本飆漲壓垮任天堂財測",
+      "body_md": "任天堂因記憶體等零件成本飆升，宣布調漲 Switch 2 的預期售價，並發布了遜於預期的年度財測，導致 ADR 暴跌。這再次證明了硬體製造商在通膨與記憶體供應鏈不穩下的脆弱性。\n*   **原文連結**：[記憶體飆漲 任天堂財測遜、Switch 2 漲價](https://finance.technews.tw/2026/05/11/nintendo-earnings-release-fiscal-year-ended-march-31-2026/)",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/05/11/nintendo-earnings-release-fiscal-year-ended-march-31-2026/"
+      ]
+    },
+    {
+      "title": "蘋果的 AI 慢步調哲學",
+      "body_md": "隨著庫克即將卸任與 John Ternus 接任，市場正熱議蘋果「後發制人」的 AI 策略。分析認為，蘋果在生成式 AI 雖然步伐較慢，但透過深厚的硬體整合（如 OLED iMac 布局與本地端 NPU 優勢），仍有機會在消費終端應用市場後來居上。\n*   **原文連結**：[淺談蘋果的 AI 策略：慢也沒有不好](https://finance.technews.tw/2026/05/11/apple-ai-strategy-why-being-slow-isnt-necessarily-bad/)、[蘋果 2028 推 OLED iMac](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000754725_5H06BHO33FBYEF4XMZV3Q)\n\n---\n**總結建議**：今日新聞聚焦於「算力基建的穩固」與「製造權的重分配」。投資人與產業界應密切關注英特爾與蘋果的具體合作細節，以及三星罷工事件是否會引發下半年的記憶體短缺危機。",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/05/11/apple-ai-strategy-why-being-slow-isnt-necessarily-bad/",
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000754725_5H06BHO33FBYEF4XMZV3Q"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

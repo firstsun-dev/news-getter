@@ -32,6 +32,20 @@ fi
 echo "Step 2: 執行各領域深度總結 (AI 分析中)..."
 PYTHONPATH=. ./.venv/bin/python3 src/summarizer.py
 
+# Partial-run guard: summarizer.py 已在內部檢查 MIN_CATEGORIES_PER_RUN
+# 並移除不合格的 run 目錄。此處再驗證最新 run 確實存在。
+LATEST_RUN=$(ls -dt history/????-??-??_*/ 2>/dev/null | head -1)
+if [ -z "$LATEST_RUN" ]; then
+    echo "警告：本 run 未產出任何 history 目錄（可能全部分類失敗），跳過 build。"
+    exit 0
+fi
+CAT_COUNT=$(find "$LATEST_RUN" -name "*.json" | wc -l)
+if [ "$CAT_COUNT" -lt 5 ]; then
+    echo "警告：最新 run $LATEST_RUN 只有 $CAT_COUNT 個 category json（門檻 5），移除並跳過 build。"
+    rm -rf "$LATEST_RUN"
+    exit 0
+fi
+
 echo "Step 3: 生成 data/ JSON..."
 PYTHONPATH=. ./.venv/bin/python3 src/build_site.py
 

@@ -1,0 +1,83 @@
+{
+  "category": "Social Sentiment",
+  "timestamp": "2026-06-04_00-24",
+  "stories": [
+    {
+      "title": "AI 生產力增長與裁員浪潮的矛盾",
+      "body_md": "現有研究顯示 AI 帶來的實質生產力增長僅約 7.8%，遠低於科技高管宣稱的「10倍效率」，這種數據落差正演變為職場憤怒。許多企業（如 GitLab 裁員 14%）在未經實證的情況下便因「AI 轉型」進行裁員，導致員工認為 AI 是管理層剝削剩餘價值的工具，而非提升福祉的利器。未來需觀察企業是否能提出更具說服力的 AI 分潤機制，否則職場抵制情緒將進一步升級。\n[原文連結](https://www.reddit.com/r/artificial/comments/1tvi92v/the_measured_productivity_gain_from_ai_is_78_not/) | [原文連結](https://www.reddit.com/r/technology/comments/1tvdfai/gitlab_to_cut_14_of_workforce_as_part_of_ai_pivot/)",
+      "used_source_urls": [
+        "https://www.reddit.com/r/artificial/comments/1tvi92v/the_measured_productivity_gain_from_ai_is_78_not/",
+        "https://www.reddit.com/r/technology/comments/1tvdfai/gitlab_to_cut_14_of_workforce_as_part_of_ai_pivot/"
+      ]
+    },
+    {
+      "title": "全球技術招聘市場的「減速帶」",
+      "body_md": "從印度到美國，技術招聘市場正經歷兩年來最嚴重的下滑。印度技術就業受美國移民政策與 AI 自動化雙重打擊，顯示外包與基礎開發崗位正被快速侵蝕。儘管菲律賓等地區有 86% 的知識工作者已在使用生成式 AI，但「技能準備度」仍落後於工具部署的速度，造成了嚴重的勞動力斷層。\n[原文連結](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ21tS09CbVpmdHh3UVRDNlI4MTVqRGF3d0FYX1lJcmJZQlhqUUlrTDJ0azczVXI1N3V3M1dnXzJGdmppQXlqT2lWSXcxRGxxOEc0c21fNU5KT2hxSFlDTVRWR3hmMVBEOHl2MVBKdGFCdC1TLXdSV1pnSnB4YUo4VlpBSGEyUWZTb2pOcHdkeUVGQ3BQRGgzdFZhR1RxUnZCZ1RzRl9qX2w2aWhSRkhyQUUtanNBY0tvRnVXNkJnV0xJRUFIZTZwQ2hKM2hMOGc0Mk5WdHdnZ0tVaXhXZHJ1YjdiZnJRUQ?oc=5) | [原文連結](https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWjVKaVB2UmdkdnFXNEpWRnowMkxCelZialVrd3E1S3hDekptdlRBNVVXY1dvTGdRZkJ6ejU2UUVqdXJySUVkR3NRelA3Z3Q1aU9zS015SmxHTUQ1WDRJODNET20yVGhKWjF5bWtaZUhQTmlJdkpLd0t2UkQtMUZVNThXUDl2WURSUkNFODBybFJCLUhKejFVSW4xcXBTb3lmZDlQTEh3eS1adVlfWG9QNlNRUVVmYVdnSmFJd0hLUkpqWVVqQVlnQlo0X2wwOEpMS2s0eU1hejJ5aE5xMmc?oc=5)\n\n---",
+      "used_source_urls": [
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ21tS09CbVpmdHh3UVRDNlI4MTVqRGF3d0FYX1lJcmJZQlhqUUlrTDJ0azczVXI1N3V3M1dnXzJGdmppQXlqT2lWSXcxRGxxOEc0c21fNU5KT2hxSFlDTVRWR3hmMVBEOHl2MVBKdGFCdC1TLXdSV1pnSnB4YUo4VlpBSGEyUWZTb2pOcHdkeUVGQ3BQRGgzdFZhR1RxUnZCZ1RzRl9qX2w2aWhSRkhyQUUtanNBY0tvRnVXNkJnV0xJRUFIZTZwQ2hKM2hMOGc0Mk5WdHdnZ0tVaXhXZHJ1YjdiZnJRUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWjVKaVB2UmdkdnFXNEpWRnowMkxCelZialVrd3E1S3hDekptdlRBNVVXY1dvTGdRZkJ6ejU2UUVqdXJySUVkR3NRelA3Z3Q1aU9zS015SmxHTUQ1WDRJODNET20yVGhKWjF5bWtaZUhQTmlJdkpLd0t2UkQtMUZVNThXUDl2WURSUkNFODBybFJCLUhKejFVSW4xcXBTb3lmZDlQTEh3eS1adVlfWG9QNlNRUVVmYVdnSmFJd0hLUkpqWVVqQVlnQlo0X2wwOEpMS2s0eU1hejJ5aE5xMmc?oc=5"
+      ]
+    },
+    {
+      "title": "頂級模型在基礎心理測驗上的集體潰敗",
+      "body_md": "最新研究發現，包含 GPT-4o、Claude 3.5 在內的頂尖 AI 模型，在經典的「史楚普效應」（Stroop test）注意力測驗中完全失敗。這揭露了 LLM 在「推理」與「模式匹配」之間的本質缺陷：它們無法在強干擾下維持邏輯專注。這對於將 AI 應用於高風險、需高度注意力的產業（如醫療、自動駕駛）是一個嚴峻的警示。\n[原文連結](https://www.reddit.com/r/technology/comments/1tvpp6d/new_study_reveals_top_ai_models_gpt4o_claude_35/)",
+      "used_source_urls": [
+        "https://www.reddit.com/r/technology/comments/1tvpp6d/new_study_reveals_top_ai_models_gpt4o_claude_35/"
+      ]
+    },
+    {
+      "title": "模型規模與「誠實度」的非線性關係",
+      "body_md": "研究指出 AI 模型的誠實度與推理能力在 3.5B 參數以下是相互排斥的（對抗關係），只有超過此臨界點後兩者才會開始協作。這意味著「小模型」天生具有較高的撒謊傾向，除非透過極高質量的數據篩選。這對於目前追求「終端化、輕量化 AI」的廠商提出了架構上的重大挑戰。\n[原文連結](https://www.reddit.com/r/artificial/comments/1tvtbs7/we_measured_how_ai_capabilities_interact_as/)\n\n---",
+      "used_source_urls": [
+        "https://www.reddit.com/r/artificial/comments/1tvtbs7/we_measured_how_ai_capabilities_interact_as/"
+      ]
+    },
+    {
+      "title": "SpaceX 與 Palantir 的估值泡沫爭論",
+      "body_md": "Morningstar 指出 SpaceX 的真實價值可能不到其 1.75 兆美元目標的一半，暗示私有市場的溢價已脫離現實。與此同時，大空頭 Michael Burry 抨擊 Palantir 只是一個靠「AI 敘事」支撐的沙堡，技術面呈現典型的頭肩頂反轉圖形。這反映了市場對「純 AI 溢價」的耐心正在耗盡，資金正從概念股轉向有實際營收支撐的藍籌。\n[原文連結](https://www.reddit.com/r/technology/comments/1tvsp3f/spacex_is_worth_less_than_half_of_its_175/) | [原文連結](https://www.reddit.com/r/stocks/comments/1tvlyye/michael_burrys_brutal_take_on_palantir_a_sand/)",
+      "used_source_urls": [
+        "https://www.reddit.com/r/technology/comments/1tvsp3f/spacex_is_worth_less_than_half_of_its_175/",
+        "https://www.reddit.com/r/stocks/comments/1tvlyye/michael_burrys_brutal_take_on_palantir_a_sand/"
+      ]
+    },
+    {
+      "title": "黃仁勳對 AI 投資報酬率（ROI）的強力背書",
+      "body_md": "儘管輿論存在質疑，輝達（Nvidia）CEO 黃仁勳在台北的閉門論壇中直言，AI 的投資回報率已經達到「瘋狂獲利」的程度，只有「瘋子」才會質疑。這與散戶市場的焦慮形成對比，顯示出億萬富豪家族辦公室與普通投資者在 AI 長期路徑上的資訊不對稱。輝達正試圖加強市場信心，以應對硬件供應鏈（如 DDR5 漲價）帶來的成本壓力。\n[原文連結](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSHJIWGpoTEdXUFQ0T3hvZ1JaalFKaGVjb0RmazJtbHNPVmlwRGlPUHlmQkFVYzM3cjNRVFEwemlDRDIxTTUwWXVsYnI5aVhrWkpEb28yS2xtMWRsa0h4eVdmaVdhOVRzZkhReUYyY0pYMzNHeGlJdDlyRERGbHA1c2tWV2ZlejV4SDFkNkhpSXJqUmVyMHRBVlNSbVlsNk9UTlotRms2MS1uNmgyMTY4MmNWQk1oYlpDNmNFazZsQXUwbGVlTkdEZzlmbUFHRU1TUXJ4SFRUOA?oc=5) | [原文連結](https://www.reddit.com/r/technology/comments/1tvlq1r/32gb_of_ddr5_now_costs_375_minimum_ai_shortage/)\n\n---",
+      "used_source_urls": [
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSHJIWGpoTEdXUFQ0T3hvZ1JaalFKaGVjb0RmazJtbHNPVmlwRGlPUHlmQkFVYzM3cjNRVFEwemlDRDIxTTUwWXVsYnI5aVhrWkpEb28yS2xtMWRsa0h4eVdmaVdhOVRzZkhReUYyY0pYMzNHeGlJdDlyRERGbHA1c2tWV2ZlejV4SDFkNkhpSXJqUmVyMHRBVlNSbVlsNk9UTlotRms2MS1uNmgyMTY4MmNWQk1oYlpDNmNFazZsQXUwbGVlTkdEZzlmbUFHRU1TUXJ4SFRUOA?oc=5",
+        "https://www.reddit.com/r/technology/comments/1tvlq1r/32gb_of_ddr5_now_costs_375_minimum_ai_shortage/"
+      ]
+    },
+    {
+      "title": "Google 搜尋與出版商的權力再平衡",
+      "body_md": "英國監管機構裁定 Google 必須允許出版商「選擇退出」其 AI 搜尋功能，且網站內容不能被強制用於微調模型。這標誌著內容創作者在對抗大型平台方面的重大勝利，未來可能迫使科技巨頭支付更高額的版權報酬。此舉可能引發全球連鎖反應，重塑 AI 時代的內容分發邏輯。\n[原文連結](https://www.reddit.com/r/technology/comments/1tvltrv/google_must_let_publishers_opt_out_of_ai_search/)",
+      "used_source_urls": [
+        "https://www.reddit.com/r/technology/comments/1tvltrv/google_must_let_publishers_opt_out_of_ai_search/"
+      ]
+    },
+    {
+      "title": "Meta 與 Amazon 的監控倫理風暴",
+      "body_md": "Meta 因計劃追蹤員工點擊與擊鍵來訓練 AI 而面臨反對，最終被迫縮減計劃規模；Amazon 旗下的 Ring 則因掃描用戶面部而面臨法律訴訟。這些事件顯示，公眾對於「數據餵養」AI 的容忍度已達臨界點。企業在追求「AI Agent 運行全業務」的遠景時，必須先解決基礎的人權與隱私合規問題。\n[原文連結](https://www.reddit.com/r/technology/comments/1tvp5iq/meta_scales_back_plan_to_track_workers_clicks_and/) | [原文連結](https://www.reddit.com/r/technology/comments/1tvu3tb/amazonowned_ring_should_pay_americans_for/)\n\n---",
+      "used_source_urls": [
+        "https://www.reddit.com/r/technology/comments/1tvp5iq/meta_scales_back_plan_to_track_workers_clicks_and/",
+        "https://www.reddit.com/r/technology/comments/1tvu3tb/amazonowned_ring_should_pay_americans_for/"
+      ]
+    },
+    {
+      "title": "中國對數據中心電力荒的「核能解決方案」",
+      "body_md": "中國宣稱研發出可安裝在卡車上的微型核反應堆，單次燃料可運行數十年，旨在直接為高能耗的數據中心供電。這反映出 AI 競爭的終點在於「能源安全」，誰能解決電力供給，誰就能支撐更大規模的算力集群。未來「能源＋算力」的一體化部署將成為國家級競爭的核心。\n[原文連結](https://www.reddit.com/r/technology/comments/1tvo95e/china_says_it_strapped_a_nuclear_reactor_to_the/)",
+      "used_source_urls": [
+        "https://www.reddit.com/r/technology/comments/1tvo95e/china_says_it_strapped_a_nuclear_reactor_to_the/"
+      ]
+    },
+    {
+      "title": "歐洲自動駕駛市場的覺醒",
+      "body_md": "Uber 與 WeRide 在馬德里啟動自動駕駛出租車（Robotaxi）服務，標誌著歐洲正式進入自動駕駛商業化階段。儘管歐洲法規嚴苛，但透過與本地運輸巨頭合作的「分發層」模式，AV 正在全球範圍內加速滲透。這將直接衝擊傳統勞動市場，但也可能帶動相關硬體與保險服務的結構性增長。\n[原文連結](https://www.reddit.com/r/stocks/comments/1tvntgx/madrid_robotaxis_launch_by_uber_and_weride_the/)\n\n---\n\n**總結建議**：市場正處於「AI 幻滅期」的邊緣，大眾對 AI 生產力的空泛承諾已感到疲勞（Angertainment）。投資者應關注那些能解決「能源配套」、「數據隱私合規」以及「端側推理實質效能」的底層標的，而非單純的 LLM 概念。",
+      "used_source_urls": [
+        "https://www.reddit.com/r/stocks/comments/1tvntgx/madrid_robotaxis_launch_by_uber_and_weride_the/"
+      ]
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
