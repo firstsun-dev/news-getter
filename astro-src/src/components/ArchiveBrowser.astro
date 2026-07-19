@@ -23,22 +23,11 @@ function unionCatsOf(day: DayIndex): string[] {
   return Array.from(s);
 }
 
+const dayMeta: Record<string, { weekday: string; runs: number; cats: number; latest: string }> = {};
+const yearsSet = new Set<string>();
 const monthsSet = new Set<string>();
 const catsSet = new Set<string>();
 let totalRuns = 0;
-for (const day of index) {
-  monthsSet.add(day.date.slice(0, 7));
-  totalRuns += day.runs.length;
-  for (const r of day.runs) for (const c of r.categories) catsSet.add(c);
-}
-const months = Array.from(monthsSet).sort((a, b) => (a < b ? 1 : -1));
-const cats = Array.from(catsSet).sort((a, b) => a.localeCompare(b));
-const totalDays = index.length;
-const totalCats = cats.length;
-const spanStart = index.length ? index.reduce((min, d) => (d.date < min ? d.date : min), index[0].date) : '';
-const spanEnd = index.length ? index.reduce((max, d) => (d.date > max ? d.date : max), index[0].date) : '';
-
-const dayMeta: Record<string, { weekday: string; runs: number; cats: number; latest: string }> = {};
 for (const day of index) {
   dayMeta[day.date] = {
     weekday: weekdayOf(day.date),
@@ -46,6 +35,24 @@ for (const day of index) {
     cats: unionCatsOf(day).length,
     latest: latestTime(day),
   };
+  yearsSet.add(day.date.slice(0, 4));
+  monthsSet.add(day.date.slice(0, 7));
+  totalRuns += day.runs.length;
+  for (const r of day.runs) for (const c of r.categories) catsSet.add(c);
+}
+const years = Array.from(yearsSet).sort((a, b) => (a < b ? 1 : -1));
+const months = Array.from(monthsSet).sort((a, b) => (a < b ? 1 : -1));
+const cats = Array.from(catsSet).sort((a, b) => a.localeCompare(b));
+const totalDays = index.length;
+const totalCats = cats.length;
+const spanStart = index.length ? index.reduce((min, d) => (d.date < min ? d.date : min), index[0].date) : '';
+const spanEnd = index.length ? index.reduce((max, d) => (d.date > max ? d.date : max), index[0].date) : '';
+
+const monthsByYear: Record<string, string[]> = {};
+for (const m of months) {
+  const y = m.slice(0, 4);
+  if (!monthsByYear[y]) monthsByYear[y] = [];
+  monthsByYear[y].push(m);
 }
 
 const statsLine = `${totalDays} 天 · ${totalRuns} 次 run · ${totalCats} 類別` + (spanStart ? ` · ${spanStart} → ${spanEnd}` : '');
@@ -53,7 +60,10 @@ const statsLine = `${totalDays} 天 · ${totalRuns} 次 run · ${totalCats} 類�
 const serializedIndex = JSON.stringify(index);
 const serializedCats = JSON.stringify(cats.map((c) => ({ name: c, hue: categoryHue(c) })));
 const serializedMeta = JSON.stringify(dayMeta);
-const serializedMonths = JSON.stringify(months);
+const serializedYears = JSON.stringify(years);
+const serializedMonthsByYear = JSON.stringify(monthsByYear);
+const serializedWeekdays = JSON.stringify(WEEKDAYS);
+const defaultYear = years[0] || '';
 ---
 
 <section class="archive" data-archive>
@@ -74,12 +84,14 @@ const serializedMonths = JSON.stringify(months);
       />
       <span class="result-count mono" data-result-count aria-live="polite"></span>
     </div>
-    <div class="pill-row" data-month-pills role="group" aria-label="月份">
-      <button class="pill is-active" type="button" data-month="" aria-pressed="true">全部</button>
-      {months.map((m) => (
-        <button class="pill" type="button" data-month={m} aria-pressed="false">{m}</button>
-      ))}
-    </div>
+    {years.length > 1 && (
+      <div class="pill-row" data-year-pills role="group" aria-label="年份">
+        {years.map((y) => (
+          <button class="pill" type="button" data-year={y} aria-pressed="false">{y}</button>
+        ))}
+      </div>
+    )}
+    <div class="pill-row" data-month-pills role="group" aria-label="月份"></div>
     <div class="pill-row" data-cat-pills role="group" aria-label="類別">
       <button class="pill is-active" type="button" data-cat="" aria-pressed="true">全部</button>
       {cats.map((c) => (
@@ -90,6 +102,8 @@ const serializedMonths = JSON.stringify(months);
       ))}
     </div>
   </div>
+
+  <div class="day-detail" data-day-detail hidden></div>
 
   <div class="no-results" data-no-results hidden>
     <p>沒有符合的結果。</p>
@@ -135,7 +149,7 @@ const serializedMonths = JSON.stringify(months);
     letter-spacing: 0.02em;
   }
 
-  .archive-controls { display: grid; gap: 14px; margin-bottom: 28px; }
+  .archive-controls { display: grid; gap: 14px; margin-bottom: 24px; }
   .search-row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
   .archive-search {
     flex: 1 1 240px;
@@ -157,6 +171,59 @@ const serializedMonths = JSON.stringify(months);
     font-size: 0.86rem;
   }
 
+  .day-detail {
+    display: grid;
+    gap: 12px;
+    padding: 16px 18px;
+    margin-bottom: 24px;
+    border: 1px solid var(--accent);
+    border-radius: var(--r-card);
+    background: var(--accent-soft);
+  }
+  .day-detail-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .day-detail-date {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+  }
+  .day-detail-date .dd-num {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--text);
+  }
+  .day-detail-date .dd-wd {
+    font-size: 0.72rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+  }
+  .day-detail-runs {
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 0.78rem;
+    color: var(--text-muted);
+  }
+  .day-detail-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .day-detail-go {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: var(--accent);
+    font-size: 0.85rem;
+    text-decoration: none;
+    padding: 4px 10px;
+    border-radius: var(--r-input);
+    border: 1px solid var(--accent);
+    width: fit-content;
+  }
+  .day-detail-go:hover { background: var(--accent); color: var(--bg); text-decoration: none; }
+
   .no-results {
     text-align: center;
     padding: 32px 16px;
@@ -166,17 +233,39 @@ const serializedMonths = JSON.stringify(months);
   }
   .no-results p { margin: 0 0 12px; }
 
-  .archive-body { display: grid; gap: 28px; }
+  .archive-body { display: grid; gap: 24px; }
 
-  .month-section { display: grid; gap: 10px; }
+  .month-section {
+    border: 1px solid var(--border);
+    border-radius: var(--r-card);
+    background: var(--bg-elevated);
+    overflow: hidden;
+  }
   .month-head {
     display: flex;
-    align-items: baseline;
+    align-items: center;
     justify-content: space-between;
     gap: 12px;
-    padding-bottom: 6px;
-    border-bottom: 1px solid var(--border);
+    padding: 12px 16px;
+    cursor: pointer;
+    user-select: none;
+    background: var(--bg-sunken);
   }
+  .month-head-left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .month-chevron {
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    transition: transform 0.2s ease;
+    line-height: 1;
+  }
+  .month-section.is-open .month-chevron { transform: rotate(0deg); }
+  .month-section:not(.is-open) .month-chevron { transform: rotate(-90deg); }
+  .month-section.force-open .month-chevron { display: none; }
   .month-label {
     margin: 0;
     font-family: "JetBrains Mono", ui-monospace, monospace;
@@ -191,56 +280,81 @@ const serializedMonths = JSON.stringify(months);
     color: var(--text-muted);
     white-space: nowrap;
   }
+  .month-body {
+    display: grid;
+    gap: 10px;
+    padding: 14px 16px 18px;
+  }
+  .month-section:not(.is-open) .month-body { display: none; }
 
-  .month-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
-
-  .date-row {
-    display: flex;
-    align-items: center;
-    gap: 14px;
-    padding: 10px 14px;
-    border-radius: var(--r-input);
-    border: 1px solid var(--border);
-    background: var(--bg-elevated);
-    transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease, opacity 0.2s ease;
+  .cal-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 4px;
   }
-  .date-row:hover {
-    transform: translateY(-1px);
-    border-color: var(--accent);
-    box-shadow: var(--shadow);
-  }
-  .date-row.filtered-out {
-    opacity: 0;
-    transform: translateY(-8px);
-    pointer-events: none;
-  }
-
-  .date-main {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 1px;
-    flex-shrink: 0;
-    min-width: 64px;
-  }
-  .date-weekday {
+  .cal-dow {
     font-family: "JetBrains Mono", ui-monospace, monospace;
-    font-size: 0.66rem;
-    letter-spacing: 0.1em;
+    font-size: 0.62rem;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
+    color: var(--text-muted);
+    text-align: center;
+    padding: 4px 0 6px;
+  }
+  .cal-cell {
+    min-height: 44px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 5px 7px;
+    border-radius: var(--r-input);
+    border: 1px solid transparent;
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    background: transparent;
+  }
+  .cal-cell.cal-blank { border-color: transparent; background: transparent; }
+  .cal-cell.cal-empty { color: var(--text-muted); opacity: 0.35; }
+  .cal-cell.has-data {
+    color: var(--text);
+    background: var(--bg-sunken);
+    border-color: var(--border);
+    cursor: pointer;
+    position: relative;
+  }
+  .cal-cell.has-data:hover {
+    border-color: var(--accent);
+    background: var(--accent-soft);
+  }
+  .cal-cell.has-data.filtered-out {
+    opacity: 0.3;
+  }
+  .cal-cell.is-selected {
+    border-color: var(--accent);
+    background: var(--accent);
+    color: var(--bg);
+  }
+  .cal-cell.is-selected .cal-dot { background: var(--bg); }
+  .cal-dot {
+    position: absolute;
+    bottom: 4px;
+    left: 6px;
+    width: 5px;
+    height: 5px;
+    border-radius: var(--r-pill);
+    background: var(--accent);
+  }
+  .cal-runs {
+    position: absolute;
+    top: 4px;
+    left: 6px;
+    font-size: 0.58rem;
     color: var(--text-muted);
     line-height: 1;
   }
-  .date-num {
-    font-family: "JetBrains Mono", ui-monospace, monospace;
-    font-size: 0.95rem;
-    font-weight: 600;
-    color: var(--text);
-    line-height: 1.1;
-  }
-  .date-num:hover { color: var(--accent); text-decoration: none; }
+  .cal-cell.is-selected .cal-runs { color: var(--bg); }
 
-  .chip-row { display: flex; flex-wrap: wrap; gap: 8px; flex: 1 1 auto; min-width: 0; }
   .chip {
     display: inline-flex;
     align-items: center;
@@ -261,34 +375,6 @@ const serializedMonths = JSON.stringify(months);
     text-decoration: none;
   }
 
-  .date-side {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    flex-shrink: 0;
-    margin-left: auto;
-  }
-  .run-badge {
-    font-family: "JetBrains Mono", ui-monospace, monospace;
-    font-size: 0.68rem;
-    color: var(--text-muted);
-    border: 1px solid var(--border);
-    border-radius: var(--r-pill);
-    padding: 1px 8px;
-    white-space: nowrap;
-  }
-  .latest-link {
-    display: inline-flex;
-    align-items: center;
-    color: var(--text-muted);
-    font-size: 0.85rem;
-    line-height: 1;
-    padding: 2px 6px;
-    border-radius: var(--r-input);
-    text-decoration: none;
-  }
-  .latest-link:hover { color: var(--accent); text-decoration: none; }
-
   @media (max-width: 900px) {
     .pill-row {
       flex-wrap: nowrap;
@@ -297,18 +383,28 @@ const serializedMonths = JSON.stringify(months);
       scrollbar-width: thin;
     }
     .pill { flex-shrink: 0; min-height: 44px; }
-    .date-row { flex-wrap: wrap; }
-    .date-side { margin-left: 0; }
+    .cal-cell { min-height: 38px; font-size: 0.72rem; }
   }
 </style>
 
-<script is:inline define:vars={{ serializedIndex, serializedCats, serializedMeta, serializedMonths }}>
+<script is:inline define:vars={{
+  serializedIndex,
+  serializedCats,
+  serializedMeta,
+  serializedYears,
+  serializedMonthsByYear,
+  serializedWeekdays,
+  defaultYear,
+}}>
   (function () {
-    var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     var index = JSON.parse(serializedIndex);
     var cats = JSON.parse(serializedCats);
     var meta = JSON.parse(serializedMeta);
-    var monthsOrder = JSON.parse(serializedMonths);
+    var years = JSON.parse(serializedYears);
+    var monthsByYear = JSON.parse(serializedMonthsByYear);
+    var WEEKDAYS = JSON.parse(serializedWeekdays);
+
+    var OPEN_KEY = 'news-getter:archive-open';
 
     var root = document.querySelector('[data-archive]');
     if (!root) return;
@@ -316,11 +412,24 @@ const serializedMonths = JSON.stringify(months);
     var body = root.querySelector('[data-archive-body]');
     var countEl = root.querySelector('[data-result-count]');
     var noResults = root.querySelector('[data-no-results]');
-    var monthBtns = Array.from(root.querySelectorAll('[data-month]'));
+    var detailEl = root.querySelector('[data-day-detail]');
+    var yearBtns = Array.from(root.querySelectorAll('[data-year]'));
+    var monthRow = root.querySelector('[data-month-pills]');
     var catBtns = Array.from(root.querySelectorAll('[data-cat]'));
     var clearBtn = root.querySelector('[data-clear-filters]');
 
-    var state = { month: '', cat: '', q: '' };
+    var state = { year: defaultYear, month: '', cat: '', q: '', day: '' };
+
+    function loadOpenSet() {
+      try {
+        var raw = localStorage.getItem(OPEN_KEY);
+        return raw ? new Set(JSON.parse(raw)) : new Set();
+      } catch (e) { return new Set(); }
+    }
+    function saveOpenSet(s) {
+      try { localStorage.setItem(OPEN_KEY, JSON.stringify(Array.from(s))); } catch (e) {}
+    }
+    var openSet = loadOpenSet();
 
     function timeToDir(t) { return t.replace(':', '-'); }
     function unionCats(day) {
@@ -338,163 +447,233 @@ const serializedMonths = JSON.stringify(months);
       var hit = cats.find(function (x) { return x.name === name; });
       return hit ? hit.hue : 0;
     }
+    function findDay(dateStr) { return index.find(function (d) { return d.date === dateStr; }); }
 
-    function matches(day) {
-      if (state.month && day.date.slice(0, 7) !== state.month) return false;
-      var catsForDay = unionCats(day);
-      if (state.cat && catsForDay.indexOf(state.cat) === -1) return false;
+    function dayMatchesFilters(day) {
+      if (state.cat && unionCats(day).indexOf(state.cat) === -1) return false;
       if (state.q) {
         var q = state.q.toLowerCase();
         var dateHit = day.date.toLowerCase().indexOf(q) !== -1;
-        var catHit = catsForDay.some(function (c) { return c.toLowerCase().indexOf(q) !== -1; });
+        var catHit = unionCats(day).some(function (c) { return c.toLowerCase().indexOf(q) !== -1; });
         if (!dateHit && !catHit) return false;
       }
       return true;
     }
 
-    function rowKey(li) { return li.getAttribute('data-date'); }
+    function monthsForYear(y) { return monthsByYear[y] || []; }
 
-    function snapshotRects() {
-      var m = {};
-      if (reduceMotion) return m;
-      Array.from(body.querySelectorAll('.date-row')).forEach(function (li) {
-        m[rowKey(li)] = li.getBoundingClientRect();
+    function renderMonthPills() {
+      if (!monthRow) return;
+      var ms = monthsForYear(state.year);
+      var html = '<button class="pill' + (state.month === '' ? ' is-active' : '') + '" type="button" data-month="" aria-pressed="' + (state.month === '') + '">全部</button>';
+      ms.forEach(function (m) {
+        var label = m.slice(5);
+        var on = state.month === m;
+        html += '<button class="pill' + (on ? ' is-active' : '') + '" type="button" data-month="' + m + '" aria-pressed="' + on + '">' + label + '</button>';
       });
-      return m;
+      monthRow.innerHTML = html;
+    }
+
+    function renderCalendar(m) {
+      var year = parseInt(m.slice(0, 4), 10);
+      var month = parseInt(m.slice(5), 10);
+      var firstWd = new Date(Date.UTC(year, month - 1, 1)).getUTCDay();
+      var dim = new Date(Date.UTC(year, month, 0)).getUTCDate();
+
+      var daysInMonth = [];
+      for (var d = 1; d <= dim; d++) {
+        var ds = m + '-' + (d < 10 ? '0' + d : d);
+        daysInMonth.push({ ds: ds, d: d, hasData: !!meta[ds] });
+      }
+
+      var sec = document.createElement('section');
+      sec.className = 'month-section';
+      sec.setAttribute('data-month-key', m);
+
+      var matchingDays = daysInMonth.filter(function (x) { return x.hasData && dayMatchesFilters(findDay(x.ds)); });
+      var runCount = matchingDays.reduce(function (a, x) { return a + findDay(x.ds).runs.length; }, 0);
+
+      var head = document.createElement('div');
+      head.className = 'month-head';
+      head.setAttribute('data-toggle', m);
+      var left = document.createElement('div');
+      left.className = 'month-head-left';
+      var chev = document.createElement('span');
+      chev.className = 'month-chevron';
+      chev.textContent = '▾';
+      var label = document.createElement('h3');
+      label.className = 'month-label';
+      label.textContent = m;
+      left.appendChild(chev);
+      left.appendChild(label);
+      var cnt = document.createElement('span');
+      cnt.className = 'month-count';
+      cnt.textContent = matchingDays.length + ' 天 · ' + runCount + ' 次 run';
+      head.appendChild(left);
+      head.appendChild(cnt);
+      sec.appendChild(head);
+
+      var mbody = document.createElement('div');
+      mbody.className = 'month-body';
+
+      var grid = document.createElement('div');
+      grid.className = 'cal-grid';
+      WEEKDAYS.forEach(function (w) {
+        var dow = document.createElement('div');
+        dow.className = 'cal-dow';
+        dow.textContent = w;
+        grid.appendChild(dow);
+      });
+      for (var b = 0; b < firstWd; b++) {
+        var blank = document.createElement('div');
+        blank.className = 'cal-cell cal-blank';
+        grid.appendChild(blank);
+      }
+      daysInMonth.forEach(function (x) {
+        var cell = document.createElement('div');
+        if (!x.hasData) {
+          cell.className = 'cal-cell cal-empty';
+          cell.textContent = x.d;
+          grid.appendChild(cell);
+          return;
+        }
+        var day = findDay(x.ds);
+        var filteredOut = !dayMatchesFilters(day);
+        var selected = state.day === x.ds;
+        cell.className = 'cal-cell has-data' + (filteredOut ? ' filtered-out' : '') + (selected ? ' is-selected' : '');
+        cell.setAttribute('data-date', x.ds);
+        cell.setAttribute('role', 'button');
+        cell.setAttribute('tabindex', '0');
+        if (day.runs.length > 1) {
+          var rn = document.createElement('span');
+          rn.className = 'cal-runs';
+          rn.textContent = '×' + day.runs.length;
+          cell.appendChild(rn);
+        }
+        var num = document.createElement('span');
+        num.className = 'cal-num';
+        num.textContent = x.d;
+        cell.appendChild(num);
+        var dot = document.createElement('span');
+        dot.className = 'cal-dot';
+        cell.appendChild(dot);
+        grid.appendChild(cell);
+      });
+      mbody.appendChild(grid);
+      sec.appendChild(mbody);
+
+      applyOpenState(sec, m, matchingDays.length);
+      return sec;
+    }
+
+    function applyOpenState(sec, m, matchingCount) {
+      var filtering = state.cat !== '' || state.q !== '';
+      if (filtering && matchingCount > 0) {
+        sec.classList.add('is-open', 'force-open');
+      } else if (filtering) {
+        sec.classList.remove('is-open', 'force-open');
+      } else {
+        sec.classList.remove('force-open');
+        sec.classList.toggle('is-open', openSet.has(m));
+      }
+    }
+
+    function renderDetail() {
+      if (!state.day || !meta[state.day]) {
+        detailEl.hidden = true;
+        detailEl.innerHTML = '';
+        return;
+      }
+      var day = findDay(state.day);
+      if (!day) { detailEl.hidden = true; return; }
+      var dm = meta[state.day];
+      var dayCats = unionCats(day);
+      if (state.cat) dayCats = dayCats.filter(function (c) { return c === state.cat; });
+      dayCats.sort();
+
+      var html = '';
+      html += '<div class="day-detail-head">';
+      html += '<div class="day-detail-date">';
+      html += '<span class="dd-num">' + state.day + '</span>';
+      html += '<span class="dd-wd">' + dm.weekday + '</span>';
+      html += '</div>';
+      html += '<span class="day-detail-runs">' + dm.runs + ' 次 run · ' + dayCats.length + ' 類別</span>';
+      html += '</div>';
+      html += '<div class="day-detail-chips">';
+      dayCats.forEach(function (c) {
+        var h = hueFor(c);
+        var anchor = c.replace(/\s+/g, '-');
+        var t = latestRunForCat(day, c);
+        html += '<a class="chip" style="--h:' + h + '" href="history/' + state.day + '_' + timeToDir(t) + '/index.html#' + anchor + '">';
+        html += '<span class="cat-dot" style="--h:' + h + '" aria-hidden="true"></span>';
+        html += c;
+        html += '</a>';
+      });
+      html += '</div>';
+      html += '<a class="day-detail-go" href="history/' + state.day + '_' + timeToDir(dm.latest) + '/index.html">前往最新 run →</a>';
+      detailEl.innerHTML = html;
+      detailEl.hidden = false;
     }
 
     function render() {
-      var filtered = index.filter(matches);
-      var byMonth = {};
-      filtered.forEach(function (day) {
-        var key = day.date.slice(0, 7);
-        if (!byMonth[key]) byMonth[key] = [];
-        byMonth[key].push(day);
-      });
-
-      var oldRects = snapshotRects();
-
+      renderMonthPills();
       body.innerHTML = '';
-      monthsOrder.forEach(function (m) {
-        if (!byMonth[m]) return;
-        var days = byMonth[m];
-        var dayCount = days.length;
-        var runCount = days.reduce(function (a, d) { return a + d.runs.length; }, 0);
 
-        var sec = document.createElement('section');
-        sec.className = 'month-section';
-
-        var head = document.createElement('div');
-        head.className = 'month-head';
-        var label = document.createElement('h3');
-        label.className = 'month-label';
-        label.textContent = m;
-        var cnt = document.createElement('span');
-        cnt.className = 'month-count';
-        cnt.textContent = dayCount + ' 天 · ' + runCount + ' 次 run';
-        head.appendChild(label);
-        head.appendChild(cnt);
-        sec.appendChild(head);
-
-        var ul = document.createElement('ul');
-        ul.className = 'month-list';
-        days.forEach(function (day) {
-          var dm = meta[day.date];
-          var li = document.createElement('li');
-          li.className = 'date-row';
-          li.setAttribute('data-date', day.date);
-
-          var main = document.createElement('div');
-          main.className = 'date-main';
-          var wd = document.createElement('span');
-          wd.className = 'date-weekday';
-          wd.textContent = dm.weekday;
-          var dateLink = document.createElement('a');
-          dateLink.className = 'date-num';
-          dateLink.href = 'history/' + day.date + '_' + timeToDir(dm.latest) + '/index.html';
-          dateLink.textContent = day.date.slice(8);
-          main.appendChild(wd);
-          main.appendChild(dateLink);
-          li.appendChild(main);
-
-          var chips = document.createElement('div');
-          chips.className = 'chip-row';
-          var dayCats = unionCats(day);
-          if (state.cat) dayCats = dayCats.filter(function (c) { return c === state.cat; });
-          dayCats.sort().forEach(function (c) {
-            var h = hueFor(c);
-            var a = document.createElement('a');
-            a.className = 'chip';
-            a.href = 'history/' + day.date + '_' + timeToDir(latestRunForCat(day, c)) + '/index.html#' + c.replace(/\s+/g, '-');
-            a.style.setProperty('--h', h + '');
-            var dot = document.createElement('span');
-            dot.className = 'cat-dot';
-            dot.style.setProperty('--h', h + '');
-            a.appendChild(dot);
-            a.appendChild(document.createTextNode(c));
-            chips.appendChild(a);
-          });
-          li.appendChild(chips);
-
-          var side = document.createElement('div');
-          side.className = 'date-side';
-          if (dm.runs > 1) {
-            var badge = document.createElement('span');
-            badge.className = 'run-badge';
-            badge.textContent = '×' + dm.runs;
-            side.appendChild(badge);
-          }
-          var latest = document.createElement('a');
-          latest.className = 'latest-link';
-          latest.href = 'history/' + day.date + '_' + timeToDir(dm.latest) + '/index.html';
-          latest.setAttribute('aria-label', '前往 ' + day.date + ' 最新 run');
-          latest.textContent = '→';
-          side.appendChild(latest);
-          li.appendChild(side);
-
-          ul.appendChild(li);
-        });
-        sec.appendChild(ul);
+      var months = state.month ? [state.month] : monthsForYear(state.year);
+      var sections = [];
+      months.forEach(function (m) {
+        var sec = renderCalendar(m);
         body.appendChild(sec);
+        sections.push(sec);
       });
 
-      if (!reduceMotion) {
-        Array.from(body.querySelectorAll('.date-row')).forEach(function (li) {
-          var oldR = oldRects[rowKey(li)];
-          if (!oldR) return;
-          var newR = li.getBoundingClientRect();
-          var dy = oldR.top - newR.top;
-          if (dy) {
-            li.style.transform = 'translateY(' + dy + 'px)';
-            li.style.transition = 'none';
-            requestAnimationFrame(function () {
-              li.style.transition = '';
-              li.style.transform = '';
-            });
-          }
-        });
-      }
+      var anyMatching = false;
+      index.forEach(function (d) {
+        if (d.date.slice(0, 4) !== state.year) return;
+        if (state.month && d.date.slice(0, 7) !== state.month) return;
+        if (dayMatchesFilters(d)) anyMatching = true;
+      });
 
-      countEl.textContent = filtered.length + ' / ' + index.length + ' 天';
-      noResults.hidden = filtered.length !== 0;
-      body.hidden = filtered.length === 0;
+      renderDetail();
+
+      countEl.textContent = countMatchingDays() + ' / ' + index.length + ' 天';
+      noResults.hidden = anyMatching;
+      body.hidden = !anyMatching;
+      detailEl.hidden = detailEl.hidden || !anyMatching;
+    }
+
+    function countMatchingDays() {
+      var n = 0;
+      index.forEach(function (d) {
+        if (d.date.slice(0, 4) !== state.year) return;
+        if (state.month && d.date.slice(0, 7) !== state.month) return;
+        if (dayMatchesFilters(d)) n++;
+      });
+      return n;
     }
 
     function syncHash() {
       var parts = [];
+      if (state.year) parts.push('year=' + encodeURIComponent(state.year));
       if (state.month) parts.push('month=' + encodeURIComponent(state.month));
       if (state.cat) parts.push('cat=' + encodeURIComponent(state.cat));
       if (state.q) parts.push('q=' + encodeURIComponent(state.q));
+      if (state.day) parts.push('day=' + encodeURIComponent(state.day));
       var hash = parts.length ? '#' + parts.join('&') : '';
       history.replaceState(null, '', hash || window.location.pathname + window.location.search);
     }
     function loadHash() {
+      var y = /year=([^&]*)/.exec(window.location.hash);
       var m = /month=([^&]*)/.exec(window.location.hash);
       var c = /cat=([^&]*)/.exec(window.location.hash);
       var q = /q=([^&]*)/.exec(window.location.hash);
+      var dy = /day=([^&]*)/.exec(window.location.hash);
+      if (y && years.indexOf(decodeURIComponent(y[1])) !== -1) state.year = decodeURIComponent(y[1]);
+      else state.year = defaultYear;
       state.month = m ? decodeURIComponent(m[1]) : '';
       state.cat = c ? decodeURIComponent(c[1]) : '';
       state.q = q ? decodeURIComponent(q[1]) : '';
+      state.day = dy ? decodeURIComponent(dy[1]) : '';
       if (search) search.value = state.q;
     }
 
@@ -508,15 +687,17 @@ const serializedMonths = JSON.stringify(months);
     }
 
     function applyState() {
-      setPillActive(monthBtns, 'month', state.month);
+      setPillActive(yearBtns, 'year', state.year);
       setPillActive(catBtns, 'cat', state.cat);
       render();
       syncHash();
     }
 
-    monthBtns.forEach(function (b) {
+    yearBtns.forEach(function (b) {
       b.addEventListener('click', function () {
-        state.month = b.getAttribute('data-month') || '';
+        state.year = b.getAttribute('data-year') || '';
+        state.month = '';
+        state.day = '';
         applyState();
       });
     });
@@ -534,11 +715,54 @@ const serializedMonths = JSON.stringify(months);
     }
     if (clearBtn) {
       clearBtn.addEventListener('click', function () {
-        state = { month: '', cat: '', q: '' };
+        state.cat = ''; state.q = ''; state.day = '';
         if (search) search.value = '';
         applyState();
       });
     }
+
+    body.addEventListener('click', function (e) {
+      var tog = e.target.closest('[data-toggle]');
+      if (tog) {
+        var m = tog.getAttribute('data-toggle');
+        var filtering = state.cat !== '' || state.q !== '';
+        if (filtering) return;
+        if (openSet.has(m)) openSet.delete(m); else openSet.add(m);
+        saveOpenSet(openSet);
+        var sec = tog.closest('.month-section');
+        if (sec) sec.classList.toggle('is-open', openSet.has(m));
+        return;
+      }
+      var cell = e.target.closest('.cal-cell.has-data');
+      if (cell) {
+        state.day = cell.getAttribute('data-date');
+        var mk = cell.closest('.month-section');
+        var mkey = mk ? mk.getAttribute('data-month-key') : '';
+        if (mkey && !openSet.has(mkey)) {
+          openSet.add(mkey);
+          saveOpenSet(openSet);
+          if (mk) mk.classList.add('is-open');
+        }
+        applyState();
+      }
+    });
+    body.addEventListener('keydown', function (e) {
+      if (e.key !== 'Enter' && e.key !== ' ') return;
+      var cell = e.target.closest('.cal-cell.has-data');
+      if (!cell) return;
+      e.preventDefault();
+      state.day = cell.getAttribute('data-date');
+      applyState();
+    });
+
+    monthRow.addEventListener('click', function (e) {
+      var b = e.target.closest('[data-month]');
+      if (!b) return;
+      state.month = b.getAttribute('data-month') || '';
+      state.day = '';
+      applyState();
+    });
+
     document.addEventListener('keydown', function (e) {
       if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') {
         e.preventDefault();
