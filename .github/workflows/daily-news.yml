@@ -33,6 +33,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add index.html rss.xml summary.md history/
+          git add index.html rss.xml summary.md history/ app.js history.js history.html styles.css data/site_data.json data/history_index.json data/2026/
           git commit -m "Auto-update news: $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
           git push origin main

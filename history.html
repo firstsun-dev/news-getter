@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archive — The Brief</title>
+    <link rel="stylesheet" href="../../styles.css">
+    <style>
+        body {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 48px 24px 80px;
+        }
+        .back-link {
+            display: inline-block;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8em;
+            color: var(--muted);
+            margin-bottom: 32px;
+            text-decoration: none;
+        }
+        .back-link:hover { color: var(--signal); text-decoration: none; }
+        .archive-header { margin-bottom: 40px; }
+        .archive-header h1 {
+            font-family: 'Newsreader', 'Noto Serif TC', serif;
+            font-size: 1.8em;
+            font-weight: 500;
+            margin: 0 0 4px;
+        }
+        .archive-meta {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75em;
+            color: var(--muted);
+        }
+        .archive-nav {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+            margin-bottom: 40px;
+            padding-bottom: 16px;
+            border-bottom: 1px solid var(--rule);
+        }
+        .archive-nav a {
+            padding: 4px 12px;
+            font-size: 0.82em;
+            color: var(--muted);
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background 0.15s, color 0.15s;
+        }
+        .archive-nav a:hover,
+        .archive-nav a.active {
+            background: var(--text);
+            color: #fff;
+            text-decoration: none;
+        }
+        .category-section {
+            margin-bottom: 48px;
+        }
+        .category-title {
+            font-family: 'Newsreader', 'Noto Serif TC', serif;
+            font-size: 1.4em;
+            font-weight: 500;
+            margin: 0 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--rule);
+        }
+        @media (max-width: 600px) {
+            body { padding: 32px 20px 60px; }
+            .archive-header h1 { font-size: 1.5em; }
+        }
+    </style>
+</head>
+<body>
+    <a href="../../index.html" class="back-link">&larr; Back to Brief</a>
+    <header class="archive-header">
+        <h1 id="archiveTimestamp">—</h1>
+        <div class="archive-meta" id="archiveMeta"></div>
+    </header>
+    <nav class="archive-nav" id="archiveNav"></nav>
+    <main id="archiveContent"></main>
+    <script src="../../history.js"></script>
+</body>
+</html>
