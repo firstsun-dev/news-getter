@@ -1,0 +1,33 @@
+name: Data Fetch
+description: 抓取 RSS、AI 摘要、產出 data/ JSON（不自動部署網站）。
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *' # 每天 UTC 00:00 與 12:00
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    name: Pipeline (fetch → summarize → data JSON)
+    runs-on: [self-hosted, macOS]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run pipeline (data only, no Astro build)
+        run: |
+          chmod +x run_pipeline.sh
+          ./run_pipeline.sh data-only
+
+      - name: Commit data/ + summary.md + history/*.md
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/ summary.md history/
+          git diff --staged --quiet || git commit -m "data: $(date -u +%Y-%m-%dT%H:%M)"
+          git push origin main

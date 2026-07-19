@@ -1,0 +1,516 @@
+{
+  "date": "2026-05-07",
+  "runs": [
+    {
+      "time": "10:13",
+      "categories": [
+        {
+          "name": "AI",
+          "anchor": "AI",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Finance",
+          "anchor": "Finance",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Global",
+          "anchor": "Global",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Investments",
+          "anchor": "Investments",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Product Growth",
+          "anchor": "Product-Growth",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Social Sentiment",
+          "anchor": "Social-Sentiment",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Strategy",
+          "anchor": "Strategy",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW News",
+          "anchor": "TW-News",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW Social",
+          "anchor": "TW-Social",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Technology",
+          "anchor": "Technology",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        }
+      ]
+    },
+    {
+      "time": "21:50",
+      "categories": [
+        {
+          "name": "AI",
+          "anchor": "AI",
+          "stories": [
+            {
+              "title": "1. Anthropic 與 SpaceX 的「計算租約」：市場競爭中的意外合作",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. OpenAI 賦能 Parloa：語音驅動的次世代客服代理",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. PI-DLinear：AI 數據中心 GPU 功耗的「物理感應」預測",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. LCM：無損上下文管理的確定性架構",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 長文本建模的「不可能三角」：效率、壓縮與召回的權衡",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. True Memory：從儲存模式轉向檢索中心的 Agent 召回",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. Agent Island：基於多人在線博弈的動態基準測試",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. Uno-Orchestra：基於強化學習的選擇性委派策略",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. ANDRE：基於注意力的神經符號可微規則提取器",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 「推理陷阱」：閉環多代理推理中的資訊論邊界",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 安全退化量化（SQSD）：分析微調對安全行為的破壞",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. AgentTrust：Agent 工具調用的運行時安全攔截層",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. Gosset AI：在製藥資產發現中擊敗頂尖通用模型",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. FlatASCEND：臨床序列生成的藥理學一致性測試",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. DART：基於視覺-語言基礎模型的繩索狀況監測",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 15,
+          "watch_count": 0
+        },
+        {
+          "name": "Economics",
+          "anchor": "Economics",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Finance",
+          "anchor": "Finance",
+          "stories": [
+            {
+              "title": "1. 美伊和平提案引發能源市場劇烈波動",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 供應鏈的「塑膠衝擊」與綠色轉型溢出效應",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 美國第一季生產力放緩與勞動力市場降溫",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 區域經濟分化：德國工業訂單增長與澳洲貿易失衡",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 私募股權與私人信貸的估值隱憂",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 能源巨頭 Shell 獲利激增與生產預警",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 中國連續 18 個月增持黃金儲備",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 全球貿易的新變數：川普與各國首腦的博弈",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 8,
+          "watch_count": 0
+        },
+        {
+          "name": "Global",
+          "anchor": "Global",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Investments",
+          "anchor": "Investments",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Product Growth",
+          "anchor": "Product-Growth",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Social Sentiment",
+          "anchor": "Social-Sentiment",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Strategy",
+          "anchor": "Strategy",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW News",
+          "anchor": "TW-News",
+          "stories": [
+            {
+              "title": "1. 中國油輪「CHINA OWNER」標註失效，荷姆茲海峽首度遇襲",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 國防軍購預算僵局：1.25兆特別預算案引發政壇激辯",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. 美國國務卿魯比歐訪梵蒂岡與財長貝森特訪日之戰略佈局",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 電子支付「大車拼」：LINE Pay 蟬聯冠軍，電支市場版圖大震盪",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 食品與餐飲巨頭Q1財報捷報：統一與王品獲利亮眼",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. 科技與生技併購動態：華科集團整合、漢達獲利倍增、三星撤出中國",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 2026 CYBERSEC 臺灣資安大會：2萬人湧入，數產署推「資安防護矩陣」",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 社會案件警示：毒駕通緝犯闖15紅燈、台中虐童致死案重判",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 台灣美食國際化：胡椒餅榮登日本2026趨勢預測，單日狂賣千顆",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. K-POP 與日劇影響力：BTS 柾國入課本、金秀賢連霸人氣榜",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 醫療體系「磁吸效應」：新營醫院護理留任率逾92%破紀錄",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 民生健康警示：脖子痠痛亂按摩恐中風、荷蘭郵輪漢他疫情擴大",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 12,
+          "watch_count": 0
+        },
+        {
+          "name": "TW Social",
+          "anchor": "TW-Social",
+          "stories": [
+            {
+              "title": "1. Anthropic 轉向租用 SpaceX 機房與 GPU",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 新聿科 (7912) 與 華碩 (2357) 的 AI 多頭布局",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 精成科 (6191) 併購 精星 (8183)",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 眾達-KY (4977) 5/8 暫停交易",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 文曄 (3036) Q1 獲利創新高",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 皇翔 (2545) 操盤台達電獲利近億元",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. 個股財務摘要",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 伊朗戰爭對中國經濟的衝擊",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 台股多頭情緒與預判",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 9,
+          "watch_count": 0
+        },
+        {
+          "name": "Technology",
+          "anchor": "Technology",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        }
+      ]
+    }
+  ]
+}

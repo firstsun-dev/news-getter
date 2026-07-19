@@ -1,0 +1,341 @@
+{
+  "date": "2026-05-12",
+  "runs": [
+    {
+      "time": "10:27",
+      "categories": [
+        {
+          "name": "AI",
+          "anchor": "AI",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Economics",
+          "anchor": "Economics",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Energy",
+          "anchor": "Energy",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Finance",
+          "anchor": "Finance",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Global",
+          "anchor": "Global",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Investments",
+          "anchor": "Investments",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Product Growth",
+          "anchor": "Product-Growth",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Social Sentiment",
+          "anchor": "Social-Sentiment",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Strategy",
+          "anchor": "Strategy",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW News",
+          "anchor": "TW-News",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW Social",
+          "anchor": "TW-Social",
+          "stories": [
+            {
+              "title": "1. 英特爾「四強聯盟」敘事與台積電估值修整",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 地緣政治變數：川普訪中與黃仁勳的「缺席」",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. 技術歷史軌跡與外包良率之辯",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 主動式 ETF 開募與指數型產品價格疑義",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 元太（8069）營運展望：擺脫法說會「法會」陰霾",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 房市 FOMO 後遺症與股市財富效益的衝突",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 台積電美廠開銷爭議：薪水 3 倍 vs. 生活費 3 倍",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 產業重組信號：普利司通裁員與仁寶伺服器擴張",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 8,
+          "watch_count": 0
+        },
+        {
+          "name": "Technology",
+          "anchor": "Technology",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        }
+      ]
+    },
+    {
+      "time": "22:05",
+      "categories": [
+        {
+          "name": "AI",
+          "anchor": "AI",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Energy",
+          "anchor": "Energy",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Finance",
+          "anchor": "Finance",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Global",
+          "anchor": "Global",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Investments",
+          "anchor": "Investments",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Social Sentiment",
+          "anchor": "Social-Sentiment",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Strategy",
+          "anchor": "Strategy",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW News",
+          "anchor": "TW-News",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW Social",
+          "anchor": "TW-Social",
+          "stories": [
+            {
+              "title": "1. 鴻勁（6913）Q1 獲利創紀錄，半導體後段封測設備需求爆發",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 特斯拉 AI 晶片傳轉單英特爾，地緣政治對台積電的長期考驗",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. 奇景與上銓攜手推出 CPO 封裝方案，矽光子商用化倒數",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "4. 伊朗重劃荷姆茲海峽控制區，全球航運與油價風險驟增",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "5. 美國 4 月 CPI 超預期，降息路徑再添變數",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "6. 新代科技 Q1 EPS 達 15.38 元，智慧製造轉型紅利顯現",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "7. 中租法說會：大陸退稅入帳，營運走出最差時刻",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "8. 金管會重罰台中商銀 3200 萬元，金融業內控誠信遭嚴厲警告",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "9. 宏碁（2353）股價 stagnant 現象：年線之下的結構性賣壓",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "10. 台指期逆價差轉變，市場心理的微妙偏移",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 10,
+          "watch_count": 0
+        },
+        {
+          "name": "Technology",
+          "anchor": "Technology",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        }
+      ]
+    }
+  ]
+}

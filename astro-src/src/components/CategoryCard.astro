@@ -1,0 +1,79 @@
+---
+import StoryCard from './StoryCard.astro';
+import Watchlist from './Watchlist.astro';
+import { categoryHue } from '../lib/categoryHue.ts';
+
+interface StorySummary {
+  title: string;
+  confidence: number | null;
+  heat: number | null;
+  fact_html: string;
+  judgment_html: string;
+}
+interface WatchlistItem { title: string; url: string; tier: number; seen_count: number; }
+interface Props {
+  name: string;
+  anchor: string;
+  deepCount: number;
+  watchCount: number;
+  noSignal: boolean;
+  stories: StorySummary[];
+  watchlist: WatchlistItem[];
+}
+const { name, anchor, deepCount, watchCount, noSignal, stories, watchlist } = Astro.props;
+const hue = categoryHue(name);
+---
+<section id={anchor} class="cat-card reveal" style={`--h: ${hue}`}>
+  <header class="cat-head">
+    <span class="cat-dot" aria-hidden="true"></span>
+    <h2 class="cat-name">{name}</h2>
+    <span class="cat-count mono">{deepCount} deep · {watchCount} watch</span>
+  </header>
+  {noSignal && <p class="no-signal">本次無達標深度分析</p>}
+  {stories.length > 0 ? (
+    <div class="stories">
+      {stories.map((s) => (
+        <StoryCard
+          title={s.title}
+          confidence={s.confidence}
+          heat={s.heat}
+          factHtml={s.fact_html}
+          judgmentHtml={s.judgment_html}
+        />
+      ))}
+    </div>
+  ) : !noSignal && <p class="no-signal">無深度分析</p>}
+  {watchlist.length > 0 && <Watchlist items={watchlist} />}
+</section>
+
+<style>
+  .cat-card {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-left: 3px solid hsl(var(--h) var(--cat-s) var(--cat-l));
+    border-radius: var(--r-card);
+    padding: 18px 20px;
+    margin-bottom: 18px;
+    box-shadow: var(--shadow);
+    scroll-margin-top: calc(var(--topbar-h) + 16px);
+  }
+  .cat-head {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
+  }
+  .cat-name { margin: 0; font-size: 1.35rem; }
+  .cat-count {
+    margin-left: auto;
+    font-size: 0.74rem;
+    color: var(--text-muted);
+  }
+  .no-signal {
+    color: var(--text-muted);
+    font-style: italic;
+    font-size: 0.9rem;
+    margin: 4px 0 8px;
+  }
+  .stories { display: grid; gap: 0; }
+</style>

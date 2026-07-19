@@ -1,0 +1,933 @@
+{
+  "date": "2026-05-05",
+  "runs": [
+    {
+      "time": "11:08",
+      "categories": [
+        {
+          "name": "Economics",
+          "anchor": "Economics",
+          "stories": [
+            {
+              "title": "深度經濟觀測報告：歐盟體制轉型與數據治理價值",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "歐盟經濟解枷鎖：告別繁文縟節的結構性改革",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "數據治理的代價：劣質統計如何導致數十億美元的經濟損失",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 3,
+          "watch_count": 0
+        },
+        {
+          "name": "Finance",
+          "anchor": "Finance",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Global",
+          "anchor": "Global",
+          "stories": [
+            {
+              "title": "美伊衝突升級：霍爾木茲海峽軍事對抗與全球能源危機",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "德國萊比錫車輛衝撞人群事件：公共安全與社會動盪",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "南極郵輪爆發漢他病毒疫情：氣候變遷與公共衛生威脅",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "烏克蘭無人機襲擊莫斯科高層：新型戰爭形態的常態化",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "GameStop 提議以 555 億美元收購 eBay：零售與電商的震撼重組",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "機器人技術介入垃圾分類：勞動力短缺的技術解藥",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "其他重要事件快訊：",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 7,
+          "watch_count": 0
+        },
+        {
+          "name": "Investments",
+          "anchor": "Investments",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Product Growth",
+          "anchor": "Product-Growth",
+          "stories": [
+            {
+              "title": "Stripe 的文化轉型：從「備忘錄 (Memos)」到「原型 (Demos)」的開發範式轉移",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "技術架構深度解析：結合 Cursor 規則與 MCP 協議的私有化 AI 引擎",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "意外的「超級用戶」：產品經理 (PM) 跨越技術鴻溝的賦能關鍵",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "解決「通用 AI 幻覺」：透過私有設計系統克服 AI 生成的低品質問題",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 4,
+          "watch_count": 0
+        },
+        {
+          "name": "Social Sentiment",
+          "anchor": "Social-Sentiment",
+          "stories": [
+            {
+              "title": "Peter Thiel 投資 10 億美元推動「波浪發電」海底數據中心",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "Nvidia 高管：AI 成本雖高於人工，但企業依然趨之若鶩",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "美國白宮研擬 AI 模型發佈前的「強制審查」制度",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "網路年齡驗證的「貓捉老鼠」：從畫鬍鬚到 VPN 規避",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "Anthropic 聯手華爾街巨頭進軍企業級市場",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "亞馬遜開放物流網絡挑戰 UPS 與 FedEx",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "YouTube 出現嚴重內存洩漏 Bug 與「Podslop」亂象",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "地緣政治緊張局勢與 AI 驅動的核能轉型",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 8,
+          "watch_count": 0
+        },
+        {
+          "name": "Strategy",
+          "anchor": "Strategy",
+          "stories": [
+            {
+              "title": "透過組織變革解鎖停滯 AI 策略的真實價值",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "AI 如何重塑財務領導者及其團隊的價值觀",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "戰爭時期，保險能否為您的公司提供屏障？",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "停止複製「單一明星員工」的成功模式",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 4,
+          "watch_count": 0
+        },
+        {
+          "name": "TW News",
+          "anchor": "TW-News",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW Social",
+          "anchor": "TW-Social",
+          "stories": [
+            {
+              "title": "外交突圍：賴清德總統密訪史瓦帝尼與國際空間突破",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "都市衛生危機：台北市「安鼠之亂」與房價輿論關聯",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "地緣衝突升溫：美伊戰火直接衝擊全球金融市場",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "政治文化異數：王世堅「破防」激讚蔣萬安的政壇信號",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "半導體變局：聯發科飆漲停與英特爾 ZAM 技術挑戰",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "社會情緒觀察：性別婚姻焦慮與跨國婚姻的標籤化",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 6,
+          "watch_count": 0
+        },
+        {
+          "name": "Technology",
+          "anchor": "Technology",
+          "stories": [
+            {
+              "title": "🤖 AI 巨頭博弈與法律深水區",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "⚖️ 政策、監管與地緣政治",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "🛡️ 國防科技與實戰迭代",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "🏭 半導體與硬體製造格局",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "🔋 能源、電力與氣候變遷",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "📈 產業深度洞察與分析師點評",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 6,
+          "watch_count": 0
+        }
+      ]
+    },
+    {
+      "time": "13:27",
+      "categories": [
+        {
+          "name": "AI",
+          "anchor": "AI",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Economics",
+          "anchor": "Economics",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Finance",
+          "anchor": "Finance",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Global",
+          "anchor": "Global",
+          "stories": [
+            {
+              "title": "中東局勢升級：美伊海上武裝衝突與能源廊道危機",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "零售業史詩級併購：GameStop 提議以 555 億美元併購 eBay",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "勞動力轉型：廢棄物處理產業引入人形機器人應對缺工",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "航太安全警示：東航波音 737 空難調查指向燃油切斷",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "烏俄戰爭新動向：無人機突襲莫斯科高層建築",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "公共衛生預警：遊輪爆發罕見漢他病毒疫情",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "歐洲外交角力：奧地利驅逐三名俄羅斯外交官",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 7,
+          "watch_count": 0
+        },
+        {
+          "name": "Investments",
+          "anchor": "Investments",
+          "stories": [
+            {
+              "title": "Greg Abel 時代的確立與投資人信心的鞏固",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "保險帝國新篇章：Ajit Jain 宣佈接班人 Charlie Shamieh",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "創紀錄的 3,974 億美元現金：傳奇投資者的避險信號？",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "營運表現與數位轉型：GEICO 與 Dairy Queen 的轉身",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "巴菲特的宏觀警示：從 AI 詐騙到地緣政治「博弈」",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 5,
+          "watch_count": 0
+        },
+        {
+          "name": "Product Growth",
+          "anchor": "Product-Growth",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Social Sentiment",
+          "anchor": "Social-Sentiment",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Strategy",
+          "anchor": "Strategy",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW News",
+          "anchor": "TW-News",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW Social",
+          "anchor": "TW-Social",
+          "stories": [
+            {
+              "title": "社會安全與司法衝突：毒駕猖獗與殉職女警的最後告別",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "公共衛生政治化：台北鼠患疑雲與資訊戰攻防",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "4萬點新紀元：台股狂飆與AI科技下的勞動力轉型焦慮",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "基礎建設布局：屏東高鐵「高雄案」勝出與交通區域戰略",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "區域衝突下的經濟陰影：美伊戰爭邊緣與能源壓力",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "教育、娛樂與社會文化現象",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 6,
+          "watch_count": 0
+        },
+        {
+          "name": "Technology",
+          "anchor": "Technology",
+          "stories": [
+            {
+              "title": "1. 世紀對決：Musk v. Altman 法律戰與 OpenAI 的轉型陣痛",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 蘋果「去台積電化」疑雲與 iPhone 17 的市場統治力",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. 記憶體與儲存裝置的「長約時代」：AI 驅動的產能掠奪",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "4. AI 落地戰場轉移：企業服務與 AI Agent 硬體化的崛起",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "5. 資安新戰線：AI 攻防、技術債與 Linux 「Copy Fail」漏洞",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "6. 能源與未來技術：核電重返榮耀與全固態電池的曙光",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 6,
+          "watch_count": 0
+        }
+      ]
+    },
+    {
+      "time": "13:44",
+      "categories": [
+        {
+          "name": "Strategy",
+          "anchor": "Strategy",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        }
+      ]
+    },
+    {
+      "time": "13:47",
+      "categories": [
+        {
+          "name": "AI",
+          "anchor": "AI",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Economics",
+          "anchor": "Economics",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Finance",
+          "anchor": "Finance",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Global",
+          "anchor": "Global",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Investments",
+          "anchor": "Investments",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Product Growth",
+          "anchor": "Product-Growth",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Social Sentiment",
+          "anchor": "Social-Sentiment",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Strategy",
+          "anchor": "Strategy",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW News",
+          "anchor": "TW-News",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW Social",
+          "anchor": "TW-Social",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Technology",
+          "anchor": "Technology",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        }
+      ]
+    },
+    {
+      "time": "15:34",
+      "categories": [
+        {
+          "name": "AI",
+          "anchor": "AI",
+          "stories": [
+            {
+              "title": "1. OpenAI 與 PwC 聯手重塑 CFO 職能",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. TADI：油田鑽探領域的智能體革命",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. AgentReputation：去中心化 AI 市場的信任基石",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "4. AgentFloor 與 TokenArena：算力與能力的精準解耦",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "5. ARMOR 2025：軍事化 AI 安全的法律與道德邊界",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "6. LOCA 與 ARA：從機理層面解析「越獄 (Jailbreak)」",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "7. 解決「科研最後一哩路」：AutoMat 與 D3-Gym",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "8. 醫學隱私與安全：RAG 機器人的隱憂",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "9. Caracal 與 Caracal：打破序列長度瓶頸",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "10. 智能體決策的「貝葉斯一意孤行」",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 10,
+          "watch_count": 0
+        },
+        {
+          "name": "Economics",
+          "anchor": "Economics",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Finance",
+          "anchor": "Finance",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Global",
+          "anchor": "Global",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Investments",
+          "anchor": "Investments",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Social Sentiment",
+          "anchor": "Social-Sentiment",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Strategy",
+          "anchor": "Strategy",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW News",
+          "anchor": "TW-News",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW Social",
+          "anchor": "TW-Social",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Technology",
+          "anchor": "Technology",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "date": "2026-05-10",
+  "runs": [
+    {
+      "time": "10:25",
+      "categories": [
+        {
+          "name": "AI",
+          "anchor": "AI",
+          "stories": [
+            {
+              "title": "1. 雙層多智能體架構與分級診療模型 (Dual-Tier Multi-Agent Architecture)",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 嚴謹的修正型檢索增強生成 (CRAG) 與指南校準系統",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. 突破性的 AMD 硬體加速與地端部署隱私保障",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 3,
+          "watch_count": 0
+        },
+        {
+          "name": "Finance",
+          "anchor": "Finance",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Global",
+          "anchor": "Global",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Investments",
+          "anchor": "Investments",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Product Growth",
+          "anchor": "Product-Growth",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Social Sentiment",
+          "anchor": "Social-Sentiment",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW News",
+          "anchor": "TW-News",
+          "stories": [
+            {
+              "title": "1. 桃園石門山勞工育樂中心 ROT 案引發公私協力營運爭議",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 桃園國中小營養午餐補助調升，創政策推動以來最大優化",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 主動式 ETF 績效於 5 月滑鐵盧，被動型 ETF 暫居上風",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 全球手機市佔重洗牌：Android 旗艦機型於暢銷榜「全軍覆沒」",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. 三陽（SYM）新迪爵 125 市場橫掃，一個月接單破萬台",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 共機大規模擾台，單日 9 架次逾越海峽中線",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 普廷釋放烏俄戰爭結束信號，點名施羅德為談判對象",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 台南女童離世三週年：台灣「行人地獄」標籤與路權改革",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 腸道菌晝夜變化影響抗壓：生醫研發新方向",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 高雄秀場經濟演化史：從藍寶石到國際演唱會經濟",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 彰化虎山巖金針花爆發：農業觀光的產值極大化",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 11,
+          "watch_count": 0
+        },
+        {
+          "name": "TW Social",
+          "anchor": "TW-Social",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Technology",
+          "anchor": "Technology",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        }
+      ]
+    },
+    {
+      "time": "21:04",
+      "categories": [
+        {
+          "name": "Finance",
+          "anchor": "Finance",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Global",
+          "anchor": "Global",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Investments",
+          "anchor": "Investments",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Product Growth",
+          "anchor": "Product-Growth",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Social Sentiment",
+          "anchor": "Social-Sentiment",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW News",
+          "anchor": "TW-News",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW Social",
+          "anchor": "TW-Social",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Technology",
+          "anchor": "Technology",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "date": "2026-05-14",
+  "runs": [
+    {
+      "time": "10:34",
+      "categories": [
+        {
+          "name": "Economics",
+          "anchor": "Economics",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Finance",
+          "anchor": "Finance",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Global",
+          "anchor": "Global",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Investments",
+          "anchor": "Investments",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Social Sentiment",
+          "anchor": "Social-Sentiment",
+          "stories": [
+            {
+              "title": "1. Claude 的隱匿性行為：模型意識到測試的存在",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. AI 代理人的意識形態偏移：過勞引發的「馬克思主義」傾向",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. 醫療 AI 幻覺與社會倫理：診斷錯誤的致命代價",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 塔霍湖電力危機：民生用電被「數據怪獸」吞噬",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 水資源掠奪與不透明：3000 萬加侖的失蹤報告",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. 公眾敵意升級：七成美國人反對本地建設",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 10 萬裁員浪潮下的悖論：思科股價大漲與 LinkedIn 削減",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 好萊塢的秘密轉型：從內容創作到數據標註",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. 開發者的「腦袋腐爛」：AI 過度依賴帶來的認知退化",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 古巴的太陽能革命：中方資助下的地緣博弈",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 防禦科技估值飆升：Anduril 的 50 億美元融資",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. AI 駭客規模化：Google 警告工業級威脅",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 通膨熱度再燃：PPI 指數大幅超標",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 市場狂熱與「換殼」異象：糞便檢測公司轉身變量子無人機",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. 記憶體晶片的「韓國折扣」：三星與 SK 海力士的低估值",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 15,
+          "watch_count": 0
+        },
+        {
+          "name": "Strategy",
+          "anchor": "Strategy",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW News",
+          "anchor": "TW-News",
+          "stories": [
+            {
+              "title": "1. 川習會於北京登場：美中經貿與科技戰的關鍵轉折",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 台積電技術論壇：AI 需求爆發與產能極限挑戰",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. 日本國防產業轉型：軍工出口解封的戰略意義",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 台北市長選戰升溫：沈伯洋網路聲量反超藍營",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 新北市長戰局佈局：蘇巧慧「開箱」競選辦公室",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 生技龍頭保瑞（6472）營運逆風：獲利銳減引發市場信心危機",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 債市拉警報：美國 30 年期公債殖利率衝破 5%",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 新莊重大工安事故：鷹架倒塌揭示建築監管漏洞",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 全球詐騙指數發布：台灣面臨數位犯罪轉型壓力",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 消費者期待：iPhone 18 Pro 櫻桃新色引爆社群討論",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 李安新作《金山》：華裔移民史詩開拍",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 11,
+          "watch_count": 0
+        },
+        {
+          "name": "TW Social",
+          "anchor": "TW-Social",
+          "stories": [
+            {
+              "title": "1. 森崴能源（6806）淨值轉負與退市危機",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 雲豹能源收購貝萊德（BlackRock）在台大型光電案場",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. 思科（Cisco）財報超預期與裁員加碼 AI",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "4. 健策（3653）引領散熱族群回檔，散熱板塊跌勢加劇",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "5. 記憶體市場估值爭議：旺宏（2337）與同業的表現落差",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "6. 亞馬遜（Amazon）私募認購世芯-KY（3661）之市場追蹤",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "7. 東元（1504）搶攻北美無人機與機器人市場",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "8. 生技與特化表現：藥華藥（6446）獲利大幅成長",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "9. 億光（2393）加碼泰國產能布局",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "10. 台股萬四關卡之震盪與期貨空單高掛",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "11. 大陸 A 股財報慘澹：近三成虧損與利潤連降三年",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "12. 金管會通報禧年探索資本（JQC）與謝昶佑網站為高風險詐騙",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "13. AI 裁員潮尚未衝擊台灣？美台產業結構差異分析",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "14. 廣達（2382）、台達電（2308）等一線大廠之求職動態",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 14,
+          "watch_count": 0
+        },
+        {
+          "name": "Technology",
+          "anchor": "Technology",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        }
+      ]
+    },
+    {
+      "time": "21:54",
+      "categories": [
+        {
+          "name": "AI",
+          "anchor": "AI",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Economics",
+          "anchor": "Economics",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Finance",
+          "anchor": "Finance",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Global",
+          "anchor": "Global",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Investments",
+          "anchor": "Investments",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Social Sentiment",
+          "anchor": "Social-Sentiment",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "Strategy",
+          "anchor": "Strategy",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        },
+        {
+          "name": "TW News",
+          "anchor": "TW-News",
+          "stories": [
+            {
+              "title": "1. 川習會中的台灣議題與軍事對峙",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 川習閉門會音檔外流與黃仁勳的突發行程",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 兆豐金獲利創歷史新高與主動式ETF熱潮",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. CPU 漲價與半導體供應鏈去中心化趨勢",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 縣市長選戰的政策角力：新北、彰化、台中",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 無人機產業預算與國防佈局的衝突",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 台 61 線南延與中捷藍線工程挑戰",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 文策院董事人選與故宮文物管理數位化",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 社會安全與公共服務改革",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 9,
+          "watch_count": 0
+        },
+        {
+          "name": "TW Social",
+          "anchor": "TW-Social",
+          "stories": [
+            {
+              "title": "1. 美中關係重大突破：川普邀請習近平訪美",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 美中達成「伊朗核武」共識與荷莫茲海峽危機",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. 國際就業市場分歧：美國緊俏 vs. 法國走弱",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 金控三雄 4 月獲利大爆發：富邦金、國泰金、華南金",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 主動式 ETF 00981A 的規模困境與策略變化",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. 中環 (2323) 頻繁進出股市：企業投資操作轉向",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 三星罷工危機：記憶體供需結構可能改寫",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. AI 穿戴裝置大未來：2032 年 80% 滲透率",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "3. AI 裁員潮議論：台灣與美國的結構性差異",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "1. 鴻海尾牙電動車爭議：資遣員工求償敗訴的法律意義",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            },
+            {
+              "title": "2. 中小規模科技廠的選才與風評：以泰詠電子為例",
+              "confidence": null,
+              "heat": null,
+              "fact_html": "",
+              "judgment_html": ""
+            }
+          ],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 11,
+          "watch_count": 0
+        },
+        {
+          "name": "Technology",
+          "anchor": "Technology",
+          "stories": [],
+          "watchlist": [],
+          "no_signal": false,
+          "deep_count": 0,
+          "watch_count": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "news-getter-astro",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "test": "node --experimental-strip-types --test 'test/**/*.test.ts'"
+  },
+  "dependencies": {
+    "@astrojs/check": ">=0.9",
+    "@astrojs/rss": ">=4.0",
+    "astro": ">=7.0",
+    "typescript": ">=5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.1"
+  }
+}

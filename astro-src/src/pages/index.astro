@@ -1,0 +1,140 @@
+---
+import Base from '../layouts/Base.astro';
+import Topbar from '../components/Topbar.astro';
+import Sidebar from '../components/Sidebar.astro';
+import CategoryCard from '../components/CategoryCard.astro';
+import ArchiveBrowser from '../components/ArchiveBrowser.astro';
+import BackToTop from '../components/BackToTop.astro';
+import { loadSiteData, loadHistoryIndex } from '../lib/data.ts';
+
+const site = loadSiteData();
+const index = loadHistoryIndex();
+
+const heroStats = [
+  { label: 'deep', value: site.meta.deep_count },
+  { label: 'watch', value: site.meta.watch_count },
+  { label: 'cats', value: site.meta.cat_count },
+];
+const heroSerialized = JSON.stringify(heroStats);
+---
+<Base title="The Brief — AI Intelligence Digest">
+  <Topbar />
+  <div class="layout">
+    <Sidebar categories={site.categories.map((c) => ({ name: c.name, anchor: c.anchor, deep_count: c.deep_count }))} />
+    <main class="main">
+      <section class="hero">
+        <div class="classification">Daily Brief</div>
+        <h1 class="hero-date" data-hero-date>{site.meta.timestamp}</h1>
+        <div class="hero-stats" data-hero-stats>
+          {heroStats.map((s) => (
+            <span class="stat">
+              <span class="stat-num mono" data-stat={s.label}>0</span>
+              <span class="stat-label mono">{s.label}</span>
+            </span>
+          ))}
+        </div>
+        <p class="source-line">30+ feeds · Tier 1–4 · AI-analyzed</p>
+      </section>
+
+      <div class="cards">
+        {site.categories.map((c) => (
+          <div data-cat-section data-cat-anchor={c.anchor} data-cat-name={c.name}>
+            <CategoryCard
+              name={c.name}
+              anchor={c.anchor}
+              deepCount={c.deep_count}
+              watchCount={c.watch_count}
+              noSignal={c.no_signal}
+              stories={c.stories}
+              watchlist={c.watchlist}
+            />
+          </div>
+        ))}
+      </div>
+
+      <ArchiveBrowser index={index} />
+
+      <footer class="site-footer">
+        <p>Generated {site.meta.generated} · Pipeline: fetch → score → Gemini summarize → Astro bake</p>
+      </footer>
+    </main>
+  </div>
+  <BackToTop />
+</Base>
+
+<style>
+  .layout {
+    max-width: 1280px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: var(--sidebar-w) 1fr;
+    gap: 0;
+  }
+  .main {
+    min-width: 0;
+    padding: 24px clamp(16px, 4vw, 40px) 64px;
+  }
+  .hero {
+    padding: 24px 0 28px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 28px;
+  }
+  .classification {
+    display: inline-block;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    border: 1px solid var(--accent);
+    border-radius: var(--r-pill);
+    padding: 2px 10px;
+    margin-bottom: 10px;
+  }
+  .hero-date { margin: 0 0 12px; font-size: clamp(1.6rem, 4vw, 2.2rem); }
+  .hero-stats { display: flex; gap: 28px; margin-bottom: 10px; flex-wrap: wrap; }
+  .stat { display: flex; flex-direction: column; }
+  .stat-num { font-size: 1.6rem; font-weight: 500; line-height: 1; }
+  .stat-label { font-size: 0.72rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.08em; }
+  .source-line { color: var(--text-muted); font-size: 0.85rem; margin: 0; }
+  .cards { display: grid; gap: 18px; }
+  .site-footer {
+    margin-top: 48px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+    color: var(--text-muted);
+    font-size: 0.8rem;
+  }
+  .site-footer p { margin: 0; }
+
+  @media (max-width: 900px) {
+    .layout { grid-template-columns: 1fr; }
+    .main { padding: 16px 16px 64px; }
+  }
+</style>
+
+<script is:inline define:vars={{ heroSerialized }}>
+  (function () {
+    var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var stats = JSON.parse(heroSerialized);
+    var els = stats.map(function (s) {
+      return { el: document.querySelector('[data-stat="' + s.label + '"]'), target: s.value };
+    });
+    if (reduceMotion) {
+      els.forEach(function (o) { if (o.el) o.el.textContent = String(o.target); });
+      return;
+    }
+    var start = null;
+    var dur = 900;
+    function step(ts) {
+      if (start === null) start = ts;
+      var p = Math.min(1, (ts - start) / dur);
+      var eased = 1 - Math.pow(1 - p, 3);
+      els.forEach(function (o) {
+        if (o.el) o.el.textContent = String(Math.round(o.target * eased));
+      });
+      if (p < 1) requestAnimationFrame(step);
+    }
+    requestAnimationFrame(step);
+  })();
+</script>

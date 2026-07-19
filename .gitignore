@@ -9,3 +9,8 @@ summary_raw.md
 data/news.db
 
 .claude/
+
+# Astro build artifacts
+dist/
+.astro/
+node_modules/

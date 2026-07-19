@@ -1,0 +1,123 @@
+---
+import { readdirSync, readFileSync, existsSync } from 'node:fs';
+import { resolve, join } from 'node:path';
+import Base from '../../../layouts/Base.astro';
+import Topbar from '../../../components/Topbar.astro';
+import CategoryCard from '../../../components/CategoryCard.astro';
+import BackToTop from '../../../components/BackToTop.astro';
+import { categoryHue } from '../../../lib/categoryHue.ts';
+
+interface StorySummary { title: string; confidence: number | null; heat: number | null; fact_html: string; judgment_html: string; }
+interface WatchlistItem { title: string; url: string; tier: number; seen_count: number; }
+interface CategoryData {
+  name: string; anchor: string; archive_url: string | null;
+  stories: StorySummary[]; watchlist: WatchlistItem[];
+  no_signal: boolean; deep_count: number; watch_count: number;
+}
+interface DayData {
+  date: string;
+  runs: { time: string; categories: CategoryData[] }[];
+}
+
+interface DayData {
+  date: string;
+  runs: { time: string; categories: CategoryData[] }[];
+}
+
+export function getStaticPaths() {
+  const root = resolve(process.cwd(), '..');
+  const out: { params: { run: string }; props: { day: DayData; run: { time: string; categories: CategoryData[] } } }[] = [];
+  const yearsDir = resolve(root, 'data');
+  if (existsSync(yearsDir)) {
+    for (const year of readdirSync(yearsDir)) {
+      if (!/^\d{4}$/.test(year)) continue;
+      const ym = resolve(yearsDir, year);
+      for (const month of readdirSync(ym)) {
+        if (!/^\d{2}$/.test(month)) continue;
+        const md = resolve(ym, month);
+        for (const file of readdirSync(md)) {
+          if (!/^\d{4}-\d{2}-\d{2}\.json$/.test(file)) continue;
+          const day: DayData = JSON.parse(readFileSync(join(md, file), 'utf-8'));
+          for (const run of day.runs) {
+            const timeDir = run.time.replace(':', '-');
+            out.push({ params: { run: `${day.date}_${timeDir}` }, props: { day, run } });
+          }
+        }
+      }
+    }
+  }
+  return out;
+}
+
+interface Props { day: DayData; run: { time: string; categories: CategoryData[] }; }
+const { day, run } = Astro.props as Props;
+const title = `The Brief — ${day.date} ${run.time}`;
+const cats = run.categories;
+---
+<Base title={title}>
+  <Topbar showBack={true} />
+  <main class="run-main">
+    <header class="run-head">
+      <div class="classification">Run Archive</div>
+      <h1>{day.date} <span class="run-time mono">{run.time}</span></h1>
+      <nav class="run-nav" aria-label="此頁類別">
+        {cats.map((c) => (
+          <a href={`#${c.anchor}`} style={`--h: ${categoryHue(c.name)}`}>
+            <span class="cat-dot" style={`--h: ${categoryHue(c.name)}`} aria-hidden="true"></span>
+            {c.name}
+          </a>
+        ))}
+      </nav>
+    </header>
+    <div class="run-cards">
+      {cats.map((c) => (
+        <CategoryCard
+          name={c.name}
+          anchor={c.anchor}
+          deepCount={c.deep_count}
+          watchCount={c.watch_count}
+          noSignal={c.no_signal}
+          stories={c.stories}
+          watchlist={c.watchlist}
+        />
+      ))}
+    </div>
+  </main>
+  <BackToTop />
+</Base>
+
+<style>
+  .run-main {
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 24px clamp(16px, 4vw, 40px) 64px;
+  }
+  .run-head { padding-bottom: 20px; border-bottom: 1px solid var(--border); margin-bottom: 24px; }
+  .classification {
+    display: inline-block;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    border: 1px solid var(--accent);
+    border-radius: var(--r-pill);
+    padding: 2px 10px;
+    margin-bottom: 10px;
+  }
+  .run-head h1 { margin: 0 0 14px; font-size: clamp(1.5rem, 3.5vw, 2rem); }
+  .run-time { font-size: 0.9rem; color: var(--text-muted); font-weight: 400; }
+  .run-nav { display: flex; flex-wrap: wrap; gap: 10px; }
+  .run-nav a {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 12px;
+    border-radius: var(--r-pill);
+    border: 1px solid var(--border);
+    font-size: 0.85rem;
+    color: var(--text);
+  }
+  .run-nav a:hover { border-color: hsl(var(--h) var(--cat-s) var(--cat-l)); text-decoration: none; }
+  .run-cards { display: grid; gap: 18px; }
+</style>

@@ -1,0 +1,205 @@
+---
+import { categoryHue } from '../lib/categoryHue.ts';
+
+interface Props {
+  categories: { name: string; anchor: string; deep_count: number }[];
+}
+const { categories } = Astro.props;
+---
+<aside class="sidebar" id="sidebar" data-sidebar>
+  <div class="sidebar-head">
+    <input
+      type="search"
+      class="sidebar-filter"
+      placeholder="篩選類別…"
+      aria-label="篩選類別"
+      data-sidebar-filter
+    />
+  </div>
+  <nav class="cat-nav" aria-label="類別導覽">
+    <span class="cat-indicator" data-cat-indicator aria-hidden="true"></span>
+    <ul class="cat-nav-list" data-cat-nav>
+      {categories.map((c) => {
+        const hue = categoryHue(c.name);
+        return (
+          <li data-cat-item={c.anchor}>
+            <a href={`#${c.anchor}`} data-nav-anchor={c.anchor}>
+              <span class="cat-dot" style={`--h: ${hue}`} aria-hidden="true"></span>
+              <span class="cat-nav-name">{c.name}</span>
+              <span class="cat-nav-count mono">{c.deep_count}</span>
+            </a>
+          </li>
+        );
+      })}
+    </ul>
+  </nav>
+</aside>
+
+<style>
+  .sidebar {
+    position: sticky;
+    top: var(--topbar-h);
+    align-self: start;
+    width: var(--sidebar-w);
+    height: calc(100vh - var(--topbar-h));
+    overflow-y: auto;
+    padding: 16px 12px;
+    border-right: 1px solid var(--border);
+    background: var(--bg);
+  }
+  .sidebar-filter {
+    width: 100%;
+    padding: 8px 12px;
+    border-radius: var(--r-input);
+    border: 1px solid var(--border);
+    background: var(--bg-elevated);
+    color: var(--text);
+    font-size: 0.85rem;
+  }
+  .sidebar-filter:focus { outline: none; border-color: var(--accent); }
+  .cat-nav { position: relative; margin-top: 14px; }
+  .cat-indicator {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 3px;
+    height: 32px;
+    background: var(--accent);
+    border-radius: var(--r-pill);
+    transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    will-change: transform;
+  }
+  .cat-nav-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 2px; }
+  .cat-nav-list a {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 10px;
+    border-radius: var(--r-input);
+    color: var(--text);
+    font-size: 0.88rem;
+  }
+  .cat-nav-list a:hover { background: var(--bg-sunken); text-decoration: none; }
+  .cat-nav-list a.is-active { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+  .cat-nav-name { flex: 1; }
+  .cat-nav-count { font-size: 0.72rem; color: var(--text-muted); }
+
+  @media (max-width: 900px) {
+    .sidebar {
+      position: fixed;
+      left: 0;
+      top: var(--topbar-h);
+      z-index: 40;
+      width: 280px;
+      height: calc(100vh - var(--topbar-h));
+      transform: translateX(-100%);
+      transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+      box-shadow: var(--shadow-lg);
+    }
+    .sidebar.is-open { transform: translateX(0); }
+  }
+</style>
+
+<script>
+  function initSidebar() {
+    const sidebar = document.querySelector<HTMLElement>('[data-sidebar]');
+    const filter = document.querySelector<HTMLInputElement>('[data-sidebar-filter]');
+    const items = Array.from(document.querySelectorAll<HTMLLIElement>('[data-cat-item]'));
+    const navAnchors = Array.from(document.querySelectorAll<HTMLAnchorElement>('[data-nav-anchor]'));
+    const indicator = document.querySelector<HTMLElement>('[data-cat-indicator]');
+    const menuBtn = document.querySelector<HTMLButtonElement>('[data-menu-toggle]');
+
+    function setActive(anchor: string | null) {
+      let activeEl: HTMLLIElement | null = null;
+      for (const li of items) {
+        const a = li.querySelector('a');
+        const match = a?.getAttribute('data-nav-anchor') === anchor;
+        a?.classList.toggle('is-active', match);
+        if (match) activeEl = li;
+      }
+      if (indicator && activeEl) {
+        const rect = activeEl.getBoundingClientRect();
+        const parentRect = activeEl.parentElement!.getBoundingClientRect();
+        indicator.style.transform = `translateY(${rect.top - parentRect.top}px)`;
+        indicator.style.height = `${rect.height}px`;
+      }
+    }
+
+    if (filter) {
+      filter.addEventListener('input', () => {
+        const q = filter.value.trim().toLowerCase();
+        for (const li of items) {
+          const name = li.textContent?.toLowerCase() ?? '';
+          li.style.display = name.includes(q) ? '' : 'none';
+        }
+        const cards = document.querySelectorAll<HTMLElement>('[data-cat-section]');
+        cards.forEach((c) => {
+          const name = c.getAttribute('data-cat-name')?.toLowerCase() ?? '';
+          c.style.display = !q || name.includes(q) ? '' : 'none';
+        });
+      });
+    }
+
+    const sections = Array.from(document.querySelectorAll<HTMLElement>('[data-cat-section]'));
+    const sectionMap = new Map<string, HTMLElement>();
+    sections.forEach((s) => sectionMap.set(s.id, s));
+
+    const io = new IntersectionObserver(
+      (entries) => {
+        const visible = entries
+          .filter((e) => e.isIntersecting)
+          .sort((a, b) => a.boundingClientRect.top - b.boundingClientRect.top);
+        if (visible.length > 0) setActive(visible[0].target.getAttribute('data-cat-anchor'));
+      },
+      { rootMargin: `-${getComputedStyle(document.documentElement).getPropertyValue('--topbar-h')} 0px -60% 0px`, threshold: 0 },
+    );
+    sections.forEach((s) => io.observe(s));
+
+    navAnchors.forEach((a) => {
+      a.addEventListener('click', (e) => {
+        const anchor = a.getAttribute('data-nav-anchor');
+        const target = anchor ? document.getElementById(anchor) : null;
+        if (target) {
+          e.preventDefault();
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          history.replaceState(null, '', `#${anchor}`);
+          if (window.matchMedia('(max-width: 900px)').matches) closeSidebar();
+        }
+      });
+    });
+
+    function openSidebar() {
+      sidebar?.classList.add('is-open');
+      menuBtn?.setAttribute('aria-expanded', 'true');
+    }
+    function closeSidebar() {
+      sidebar?.classList.remove('is-open');
+      menuBtn?.setAttribute('aria-expanded', 'false');
+    }
+    menuBtn?.addEventListener('click', () => {
+      sidebar?.classList.contains('is-open') ? closeSidebar() : openSidebar();
+    });
+    document.addEventListener('click', (e) => {
+      if (!sidebar?.classList.contains('is-open')) return;
+      if (e.target instanceof Node && !sidebar.contains(e.target) && !menuBtn?.contains(e.target)) {
+        closeSidebar();
+      }
+    });
+
+    const order = items.map((li) => li.getAttribute('data-cat-item') || '');
+    document.addEventListener('keydown', (e) => {
+      if (e.target instanceof HTMLInputElement) return;
+      if (e.key !== 'j' && e.key !== 'k') return;
+      e.preventDefault();
+      const cur = order.findIndex((a) => document.querySelector(`[data-nav-anchor="${a}"]`)?.classList.contains('is-active'));
+      let next = cur;
+      if (e.key === 'j') next = (cur + 1) % order.length;
+      else next = (cur - 1 + order.length) % order.length;
+      const anchor = order[next];
+      document.getElementById(anchor)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+
+    if (sections.length > 0) setActive(sections[0].getAttribute('data-cat-anchor'));
+  }
+  initSidebar();
+</script>

@@ -1,0 +1,1483 @@
+[
+  {
+    "date": "2026-07-18",
+    "runs": [
+      {
+        "time": "20:59",
+        "categories": [
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-18",
+    "runs": [
+      {
+        "time": "10:53",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-17",
+    "runs": [
+      {
+        "time": "00:30",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "11:00",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "22:58",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-16",
+    "runs": [
+      {
+        "time": "01:05",
+        "categories": [
+          "AI",
+          "Energy",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "11:27",
+        "categories": [
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-15",
+    "runs": [
+      {
+        "time": "11:30",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-14",
+    "runs": [
+      {
+        "time": "10:57",
+        "categories": [
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "21:48",
+        "categories": [
+          "Energy",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-13",
+    "runs": [
+      {
+        "time": "10:46",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "21:45",
+        "categories": [
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-12",
+    "runs": [
+      {
+        "time": "10:53",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "22:44",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-11",
+    "runs": [
+      {
+        "time": "10:56",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "23:43",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-10",
+    "runs": [
+      {
+        "time": "10:46",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "23:19",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-09",
+    "runs": [
+      {
+        "time": "10:33",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "22:34",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-08",
+    "runs": [
+      {
+        "time": "10:55",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "23:36",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-07",
+    "runs": [
+      {
+        "time": "21:28",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-06",
+    "runs": [
+      {
+        "time": "21:37",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-04",
+    "runs": [
+      {
+        "time": "00:24",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "10:58",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-03",
+    "runs": [
+      {
+        "time": "00:09",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "11:30",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-02",
+    "runs": [
+      {
+        "time": "01:24",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "10:54",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-06-01",
+    "runs": [
+      {
+        "time": "10:57",
+        "categories": [
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-31",
+    "runs": [
+      {
+        "time": "10:48",
+        "categories": [
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "21:23",
+        "categories": [
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-30",
+    "runs": [
+      {
+        "time": "10:32",
+        "categories": [
+          "AI",
+          "Energy",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "21:13",
+        "categories": [
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-29",
+    "runs": [
+      {
+        "time": "10:38",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "22:48",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-28",
+    "runs": [
+      {
+        "time": "10:34",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "23:35",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-27",
+    "runs": [
+      {
+        "time": "10:47",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "23:23",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-26",
+    "runs": [
+      {
+        "time": "10:37",
+        "categories": [
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "22:53",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-25",
+    "runs": [
+      {
+        "time": "02:41",
+        "categories": [
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "02:56",
+        "categories": [
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology",
+          "overview"
+        ]
+      },
+      {
+        "time": "10:48",
+        "categories": [
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "22:41",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-24",
+    "runs": [
+      {
+        "time": "10:39",
+        "categories": [
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "21:09",
+        "categories": [
+          "Energy",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-23",
+    "runs": [
+      {
+        "time": "10:29",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "21:10",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-22",
+    "runs": [
+      {
+        "time": "10:44",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "22:25",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-21",
+    "runs": [
+      {
+        "time": "07:21",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "10:42",
+        "categories": [
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "22:50",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-20",
+    "runs": [
+      {
+        "time": "10:50",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-19",
+    "runs": [
+      {
+        "time": "10:40",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "23:04",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-18",
+    "runs": [
+      {
+        "time": "10:42",
+        "categories": [
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "23:00",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-17",
+    "runs": [
+      {
+        "time": "10:32",
+        "categories": [
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "21:05",
+        "categories": [
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-16",
+    "runs": [
+      {
+        "time": "21:07",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-15",
+    "runs": [
+      {
+        "time": "10:35",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-14",
+    "runs": [
+      {
+        "time": "10:34",
+        "categories": [
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "21:54",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-13",
+    "runs": [
+      {
+        "time": "10:34",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "22:14",
+        "categories": [
+          "Investments",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-12",
+    "runs": [
+      {
+        "time": "10:27",
+        "categories": [
+          "AI",
+          "Economics",
+          "Energy",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "22:05",
+        "categories": [
+          "AI",
+          "Energy",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-11",
+    "runs": [
+      {
+        "time": "10:34",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "22:35",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-10",
+    "runs": [
+      {
+        "time": "10:25",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "21:04",
+        "categories": [
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-09",
+    "runs": [
+      {
+        "time": "10:13",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "21:02",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-08",
+    "runs": [
+      {
+        "time": "10:29",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "21:18",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-07",
+    "runs": [
+      {
+        "time": "10:13",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "21:50",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-06",
+    "runs": [
+      {
+        "time": "10:20",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "21:52",
+        "categories": [
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-05-05",
+    "runs": [
+      {
+        "time": "11:08",
+        "categories": [
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "13:27",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "13:44",
+        "categories": [
+          "Strategy"
+        ]
+      },
+      {
+        "time": "13:47",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Product Growth",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      },
+      {
+        "time": "15:34",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "Strategy",
+          "TW News",
+          "TW Social",
+          "Technology"
+        ]
+      }
+    ]
+  }
+]

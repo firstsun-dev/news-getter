@@ -1,270 +1,274 @@
-import markdown
-from feedgen.feed import FeedGenerator
+import json
+import re
 import datetime
 import os
 import glob
 
-# 擴充 Markdown 轉換功能，確保支援標題、列表、表格等
+
 def md_to_html_util(md_text):
+    import markdown
     return markdown.markdown(md_text, extensions=['tables', 'fenced_code', 'toc', 'sane_lists'])
 
-def convert_md_to_html(md_path):
-    with open(md_path, "r", encoding="utf-8") as f:
-        md_content = f.read()
-    
-    # 修正 MD 中的內部連結
-    md_content = md_content.replace(".md)", ".html)")
-    html_body = md_to_html_util(md_content)
-    title = os.path.basename(md_path).replace(".md", "").replace("_", " ")
-    
-    template = f"""
-    <!DOCTYPE html>
-    <html lang="zh-TW">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>{title}</title>
-        <style>
-            body {{ font-family: -apple-system, "Noto Sans TC", "Microsoft JhengHei", serif; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 40px 20px; background: #fff; color: #1a1a1a; }}
-            h1, h2, h3 {{ color: #000; border-bottom: 1px solid #eaecef; padding-bottom: 0.3em; margin-top: 1.5em; }}
-            h3 {{ border-left: 5px solid #333; padding-left: 15px; border-bottom: none; }}
-            a {{ color: #0366d6; text-decoration: none; }}
-            a:hover {{ text-decoration: underline; }}
-            li {{ margin-bottom: 8px; }}
-            .nav {{ margin-bottom: 30px; font-size: 0.9em; }}
-            hr {{ height: 0.25em; padding: 0; margin: 24px 0; background-color: #e1e4e8; border: 0; }}
-            .score-badge {{ display: inline-block; padding: 2px 10px; border-radius: 10px; font-size: 0.78em; font-weight: 600; margin-right: 6px; }}
-            .score-badge.confidence {{ background: #e7f0ff; color: #0353a4; }}
-            .score-badge.heat {{ background: #ffe9e0; color: #b5451b; }}
-            .fact-block {{ background: #f8f9fa; border-left: 4px solid #495057; padding: 10px 16px; margin: 10px 0; border-radius: 4px; }}
-            .judgment-block {{ background: #fffaf0; border-left: 4px solid #d9822b; padding: 10px 16px; margin: 10px 0; border-radius: 4px; }}
-            @media (prefers-color-scheme: dark) {{ body {{ background: white; color: black; }} }}
-        </style>
-    </head>
-    <body>
-        <div class="nav"><a href="../../index.html">← 返回主編精選</a></div>
-        {html_body}
-    </body>
-    </html>
-    """
-    html_path = md_path.replace(".md", ".html")
-    with open(html_path, "w", encoding="utf-8") as f:
-        f.write(template)
-    return html_path
+
+def parse_category_content(raw_content):
+    stories = []
+    watchlist = []
+    no_signal = False
+
+    lines = raw_content.split("\n")
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+
+        if line.startswith(">") and "本次無達標深度分析" in line:
+            no_signal = True
+            i += 1
+            continue
+
+        if line.startswith("#### ") and "觀察中" in line:
+            i += 1
+            while i < len(lines):
+                wl_line = lines[i].strip()
+                if wl_line.startswith("- [") or wl_line.startswith("* ["):
+                    m = re.match(r'[-*]\s+\[(.*?)\]\((.*?)\)\s*\(tier\s+(\d+),\s*seen_count=(\d+)\)', wl_line)
+                    if m:
+                        watchlist.append({
+                            "title": m.group(1),
+                            "url": m.group(2),
+                            "tier": int(m.group(3)),
+                            "seen_count": int(m.group(4))
+                        })
+                    i += 1
+                elif wl_line == "":
+                    i += 1
+                    continue
+                elif wl_line.startswith("[查看") or wl_line.startswith("##") or wl_line.startswith("###"):
+                    break
+                else:
+                    i += 1
+            continue
+
+        if line.startswith("#### ") or line.startswith("### ### "):
+            if line.startswith("### ### "):
+                title = line[8:].strip()
+            else:
+                title = line[5:].strip()
+            confidence = None
+            heat = None
+            fact_html = ""
+            judgment_html = ""
+
+            i += 1
+            while i < len(lines):
+                inner = lines[i].strip()
+                if inner.startswith("#### ") or inner.startswith("## ") or inner.startswith("### ") or inner.startswith("[查看"):
+                    break
+
+                conf_match = re.search(r'confidence:\s*(\d+)', inner)
+                if conf_match:
+                    confidence = int(conf_match.group(1))
+
+                heat_match = re.search(r'<span[^>]*class="score-badge heat"[^>]*>(\d+)</span>', inner)
+                if heat_match:
+                    heat = int(heat_match.group(1))
+
+                if '<div class="fact-block">' in inner:
+                    fact_parts = [inner]
+                    while i + 1 < len(lines):
+                        i += 1
+                        fact_parts.append(lines[i])
+                        if '</div>' in lines[i]:
+                            break
+                    fact_html = md_to_html_util("".join(fact_parts))
+
+                elif '<div class="judgment-block">' in inner:
+                    judgment_parts = [inner]
+                    while i + 1 < len(lines):
+                        i += 1
+                        judgment_parts.append(lines[i])
+                        if '</div>' in lines[i]:
+                            break
+                    judgment_html = md_to_html_util("".join(judgment_parts))
+
+                i += 1
+
+            stories.append({
+                "title": title,
+                "confidence": confidence,
+                "heat": heat,
+                "fact_html": fact_html,
+                "judgment_html": judgment_html
+            })
+            continue
+
+        i += 1
+
+    return {"stories": stories, "watchlist": watchlist, "no_signal": no_signal}
+
+
+def build_day_json(date_str):
+    year, month, day = date_str.split("-")
+    day_data = {"date": date_str, "runs": []}
+
+    for run_dir in sorted(glob.glob(f"history/{date_str}_*/")):
+        dirname = os.path.basename(run_dir.rstrip("/"))
+        m = re.match(r'^\d{4}-\d{2}-\d{2}_(\d{2}-\d{2})$', dirname)
+        if not m:
+            continue
+
+        time_str = m.group(1).replace("-", ":")
+        md_files = sorted(glob.glob(f"{run_dir}/*.md"))
+
+        categories = []
+        for md_file in md_files:
+            cat_name = os.path.basename(md_file).replace(".md", "").replace("_", " ")
+            with open(md_file, "r", encoding="utf-8") as f:
+                raw = f.read()
+            body = "\n".join(raw.split("\n")[2:])
+            parsed = parse_category_content(body)
+            anchor = cat_name.replace(" ", "-").replace("/", "-")
+            categories.append({
+                "name": cat_name,
+                "anchor": anchor,
+                "stories": parsed["stories"],
+                "watchlist": parsed["watchlist"],
+                "no_signal": parsed["no_signal"],
+                "deep_count": len(parsed["stories"]),
+                "watch_count": len(parsed["watchlist"])
+            })
+
+        day_data["runs"].append({"time": time_str, "categories": categories})
+
+    out_dir = os.path.join("data", year, month)
+    os.makedirs(out_dir, exist_ok=True)
+    out_path = os.path.join(out_dir, f"{date_str}.json")
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(day_data, f, ensure_ascii=False, indent=2)
+
+    return day_data
+
+
+def build_history_index():
+    index = []
+    for year_dir in sorted(glob.glob("data/????/"), reverse=True):
+        for month_dir in sorted(glob.glob(f"{year_dir}??/"), reverse=True):
+            for day_file in sorted(glob.glob(f"{month_dir}????-??-??.json"), reverse=True):
+                with open(day_file, "r", encoding="utf-8") as f:
+                    day_data = json.load(f)
+                runs_summary = []
+                for run in day_data.get("runs", []):
+                    runs_summary.append({
+                        "time": run["time"],
+                        "categories": [c["name"] for c in run.get("categories", [])]
+                    })
+                index.append({
+                    "date": day_data["date"],
+                    "runs": runs_summary
+                })
+
+    os.makedirs("data", exist_ok=True)
+    with open("data/history_index.json", "w", encoding="utf-8") as f:
+        json.dump(index, f, ensure_ascii=False, indent=2)
+
+    return index
+
 
 def build_site():
     now = datetime.datetime.now()
-    
-    # 1. 先處理所有子分類的轉換
-    md_files = glob.glob("history/*/*.md")
-    for md in md_files:
-        convert_md_to_html(md)
 
-    # 2. 讀取主 summary.md 並解析
-    if os.path.exists("summary.md"):
-        with open("summary.md", "r", encoding="utf-8") as f:
-            lines = f.readlines()
-        
-        # 提取標題、簡介與各分類內容
-        title_line = ""
-        intro = ""
-        categories = {} # {cat_name: {"content": str, "md_path": str}}
-        current_cat = None
-        
-        for line in lines:
-            if line.startswith("# "):
-                title_line = line.strip("# \n")
-            elif line.startswith("## ") or line.startswith("### "):
-                header_text = line.lstrip("# ").strip()
-                # 排除一些非分類的標題
-                if "完整情報存檔" in header_text or "Deep Analysis" in header_text or "快速索引" in header_text:
-                    current_cat = None
-                    continue
+    if not os.path.exists("summary.md"):
+        print("summary.md not found, skipping site build")
+        return
 
-                current_cat = header_text.replace("🔍", "").strip()
-                categories[current_cat] = {"content": "", "md_path": ""}
-            elif current_cat and ("獨立深度存檔頁面" in line or "獨立存檔頁面" in line) and "(" in line and ")" in line:
-                # 提取 md 路徑
-                path_part = line.split("(")[-1].split(")")[0]
-                categories[current_cat]["md_path"] = path_part.replace(".md", ".html")
-            elif current_cat:
-                categories[current_cat]["content"] += line
-            elif not current_cat and line.strip() and not line.startswith(">"):
-                intro += line
+    with open("summary.md", "r", encoding="utf-8") as f:
+        lines = f.readlines()
 
+    title_line = ""
+    categories_raw = {}
+    current_cat = None
 
-        # 3. 從 summary.md 標題找出對應 history 目錄，補入缺少的分類
-        import re
-        ts_match = re.search(r'\((\d{4}-\d{2}-\d{2})[_ ](\d{2}[-:]\d{2})\)', title_line)
-        if ts_match:
-            history_timestamp = f"{ts_match.group(1)}_{ts_match.group(2).replace(':', '-')}"
-            history_dir = f"history/{history_timestamp}"
-            if os.path.exists(history_dir):
-                for md_file in sorted(glob.glob(f"{history_dir}/*.md")):
-                    cat_name = os.path.basename(md_file).replace(".md", "").replace("_", " ")
-                    if cat_name not in categories:
-                        with open(md_file, "r", encoding="utf-8") as f:
-                            raw = f.read()
-                        # 跳過第一行標題與空行
-                        body = "\n".join(raw.split("\n")[2:])
-                        html_path = f"./{history_dir}/{os.path.basename(md_file).replace('.md', '.html')}"
-                        categories[cat_name] = {"content": body, "md_path": html_path}
+    for line in lines:
+        if line.startswith("# "):
+            title_line = line.strip("# \n")
+        elif line.startswith("## ") or line.startswith("### "):
+            header_text = line.lstrip("# ").strip()
+            if "完整情報存檔" in header_text or "Deep Analysis" in header_text or "快速索引" in header_text:
+                current_cat = None
+                continue
+            current_cat = header_text.replace("\U0001f50d", "").strip()
+            categories_raw[current_cat] = {"content": "", "md_path": ""}
+        elif current_cat and ("獨立深度存檔頁面" in line or "獨立存檔頁面" in line) and "(" in line and ")" in line:
+            path_part = line.split("(")[-1].split(")")[0]
+            dirname = os.path.dirname(path_part)
+            cat_file = os.path.basename(path_part).replace(".md", "")
+            cat_name = cat_file.replace("_", " ")
+            categories_raw[current_cat]["md_path"] = f"./{dirname}/index.html#{cat_name.replace(' ', '-')}"
+        elif current_cat:
+            categories_raw[current_cat]["content"] += line
 
-        # 5. 建立 Table of Contents (ToC) 與 內容 HTML
-        toc_html = "<h2>📌 快速索引 (ToC)</h2><ul>"
-        content_html = ""
-        
-        for cat, data in categories.items():
-            anchor = cat.replace(" ", "-").replace("/", "-")
-            toc_html += f'<li><a href="#{anchor}">{cat}</a></li>'
-            
-            # 分類連結改放在標題下方
-            archive_link = f'<p style="font-size:0.85em;"><a href="{data["md_path"]}">📂 查看此分類的獨立深度存檔頁面</a></p>' if data["md_path"] else ""
-            cat_body = md_to_html_util(data["content"])
-            
-            content_html += f'<div id="{anchor}"><h2>🔍 {cat}</h2>{archive_link}{cat_body}</div><hr>'
-        
-        toc_html += "</ul>"
+    ts_match = re.search(r'\((\d{4}-\d{2}-\d{2})[_ ](\d{2}[-:]\d{2})\)', title_line)
+    ts_display = ts_match.group(0).strip("()") if ts_match else now.strftime("%Y-%m-%d %H:%M")
 
-        # 4. 獲取歷史列表連結，依日期群組顯示所有分類深度頁面
-        from collections import defaultdict
-        history_dirs = sorted(glob.glob("history/*/"), reverse=True)
-        daily_groups = defaultdict(list)
-        for hdir in history_dirs:
-            dirname = os.path.basename(hdir.rstrip("/"))
-            date_part = dirname[:10]
-            daily_groups[date_part].append(dirname)
+    if ts_match:
+        run_dirname = f"{ts_match.group(1)}_{ts_match.group(2).replace(':', '-')}"
+        run_dir = f"history/{run_dirname}"
+        if os.path.exists(run_dir):
+            for md_file in sorted(glob.glob(f"{run_dir}/*.md")):
+                cat_name = os.path.basename(md_file).replace(".md", "").replace("_", " ")
+                if cat_name not in categories_raw:
+                    with open(md_file, "r", encoding="utf-8") as f:
+                        raw = f.read()
+                    body = "\n".join(raw.split("\n")[2:])
+                    anchor = cat_name.replace(" ", "-").replace("/", "-")
+                    categories_raw[cat_name] = {
+                        "content": body,
+                        "md_path": f"./{run_dir}/index.html#{anchor}"
+                    }
 
-        history_links = ""
-        for date in sorted(daily_groups.keys(), reverse=True):
-            run_rows = ""
-            for dirname in sorted(daily_groups[date], reverse=True):
-                time_part = dirname[11:].replace("-", ":")
-                html_files = sorted(glob.glob(f"history/{dirname}/*.html"))
-                chips = "".join(
-                    f'<a class="cat-chip" href="history/{dirname}/{os.path.basename(f)}">{os.path.basename(f).replace(".html","").replace("_"," ")}</a>'
-                    for f in html_files
-                )
-                run_rows += f'<li class="history-run-row"><span class="run-time">{time_part}</span><div class="cat-chips">{chips}</div></li>'
-            history_links += f'''<li class="history-day">
-  <div class="history-day-header"><span class="history-date">📅 {date}</span></div>
-  <ul class="history-runs">{run_rows}</ul>
-</li>'''
+    categories = []
+    total_deep = 0
+    total_watch = 0
 
-        index_template = f"""
-        <!DOCTYPE html>
-        <html lang="zh-TW">
-        <head>
-            <meta charset="UTF-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>AI 新聞深度情報中心</title>
-            <style>
-                :root {{ --primary-blue: #0366d6; --bg-gray: #f8f9fa; --text-main: #1a1a1a; }}
-                body {{ font-family: -apple-system, "Noto Sans TC", "Microsoft JhengHei", serif; line-height: 1.8; margin: 0; padding: 0; background: var(--bg-gray); color: var(--text-main); }}
-                
-                .header-banner {{ background: #333; color: white; padding: 40px 20px; text-align: center; }}
-                .header-banner h1 {{ margin: 0; font-size: 2em; }}
-                
-                .main-wrapper {{ display: flex; max-width: 1200px; margin: 40px auto; gap: 40px; padding: 0 20px; }}
-                
-                .sidebar {{ width: 280px; position: sticky; top: 20px; height: fit-content; max-height: 90vh; overflow-y: auto; background: white; padding: 25px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }}
-                .sidebar h2 {{ font-size: 1.2em; margin-top: 0; border-bottom: 2px solid #eee; padding-bottom: 10px; }}
-                .sidebar ul {{ list-style: none; padding: 0; margin: 0; }}
-                .sidebar li {{ margin-bottom: 12px; }}
-                .sidebar a {{ color: #555; text-decoration: none; font-size: 0.95em; transition: color 0.2s; }}
-                .sidebar a:hover {{ color: var(--primary-blue); }}
-                
-                .content-area {{ flex: 1; background: white; padding: 40px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); min-width: 0; }}
-                h2 {{ font-size: 1.8em; margin-top: 0; color: #2c3e50; border-bottom: 2px solid #f1f3f5; padding-bottom: 10px; }}
-                h3 {{ margin-top: 35px; border-left: 5px solid #333; padding-left: 15px; border-bottom: 1px solid #eee; padding-bottom: 5px; }}
-                a {{ color: var(--primary-blue); text-decoration: none; }}
-                a:hover {{ text-decoration: underline; }}
-                
-                .history {{ margin-top: 60px; padding-top: 30px; border-top: 2px solid #eee; }}
-                .history h3 {{ font-size: 1em; color: #888; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; border: none; margin-bottom: 16px; }}
-                .history-list {{ list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }}
-                .history-day {{ list-style: none; background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 8px; overflow: hidden; }}
-                .history-day-header {{ display: flex; align-items: center; gap: 10px; padding: 10px 14px; background: #f1f3f5; border-bottom: 1px solid #e9ecef; }}
-                .history-date {{ font-weight: 700; color: #333; font-size: 0.92em; }}
-                .history-runs {{ list-style: none; padding: 8px 14px; margin: 0; display: flex; flex-direction: column; gap: 6px; }}
-                .history-run-row {{ display: flex; align-items: flex-start; gap: 10px; }}
-                .run-time {{ color: #aaa; font-size: 0.8em; font-variant-numeric: tabular-nums; white-space: nowrap; padding-top: 3px; min-width: 38px; }}
-                .cat-chips {{ display: flex; flex-wrap: wrap; gap: 5px; }}
-                .cat-chip {{ display: inline-block; padding: 2px 9px; background: #fff; border: 1px solid #dee2e6; border-radius: 12px; font-size: 0.78em; color: #495057; text-decoration: none; transition: background 0.15s, border-color 0.15s; }}
-                .cat-chip:hover {{ background: #0366d6; border-color: #0366d6; color: #fff; text-decoration: none; }}
+    for cat_name, data in categories_raw.items():
+        parsed = parse_category_content(data["content"])
+        anchor = cat_name.replace(" ", "-").replace("/", "-")
+        categories.append({
+            "name": cat_name,
+            "anchor": anchor,
+            "archive_url": data["md_path"] if data["md_path"] else None,
+            "stories": parsed["stories"],
+            "watchlist": parsed["watchlist"],
+            "no_signal": parsed["no_signal"],
+            "deep_count": len(parsed["stories"]),
+            "watch_count": len(parsed["watchlist"])
+        })
+        total_deep += len(parsed["stories"])
+        total_watch += len(parsed["watchlist"])
 
-                .score-badge {{ display: inline-block; padding: 2px 10px; border-radius: 10px; font-size: 0.78em; font-weight: 600; margin-right: 6px; }}
-                .score-badge.confidence {{ background: #e7f0ff; color: #0353a4; }}
-                .score-badge.heat {{ background: #ffe9e0; color: #b5451b; }}
-                .fact-block {{ background: #f8f9fa; border-left: 4px solid #495057; padding: 10px 16px; margin: 10px 0; border-radius: 4px; }}
-                .judgment-block {{ background: #fffaf0; border-left: 4px solid #d9822b; padding: 10px 16px; margin: 10px 0; border-radius: 4px; }}
-                
-                @media (max-width: 900px) {{
-                    .main-wrapper {{ flex-direction: column; }}
-                    .sidebar {{ width: auto; position: static; max-height: none; }}
-                    .content-area {{ padding: 25px; }}
-                }}
-                
-                @media (prefers-color-scheme: dark) {{
-                    /* For e-ink compatibility, we keep light mode mostly, but can adjust here */
-                }}
-            </style>
-        </head>
-        <body>
-            <div class="header-banner">
-                <h1>{title_line}</h1>
-                <p>最後更新時間: {now.strftime('%Y-%m-%d %H:%M')}</p>
-            </div>
-            
-            <div class="main-wrapper">
-                <nav class="sidebar">
-                    {toc_html.replace("📌 快速索引 (ToC)", "📂 內容導覽")}
-                </nav>
-                
-                <main class="content-area">
-                    {content_html}
-                    
-                    <div class="history">
-                        <h3>歷史情報存檔</h3>
-                        <ul class="history-list">{history_links}</ul>
-                    </div>
-                </main>
-            </div>
-        </body>
-        </html>
-        """
-        with open("index.html", "w", encoding="utf-8") as f:
-            f.write(index_template)
+    site_data = {
+        "meta": {
+            "timestamp": ts_display,
+            "generated": now.strftime("%Y-%m-%d %H:%M UTC"),
+            "deep_count": total_deep,
+            "watch_count": total_watch,
+            "cat_count": len(categories)
+        },
+        "categories": categories
+    }
 
-def build_rss():
-    now = datetime.datetime.now()
-    timestamp_str = now.strftime('%Y-%m-%d_%H-%M')
-    fg = FeedGenerator()
-    base_url = "https://firstsun-dev.github.io/news-getter/"
-    fg.id(base_url)
-    fg.title("AI News Intelligence Digest")
-    fg.link(href=base_url, rel="alternate")
-    fg.description("Deep AI-summarized intelligence from global sources.")
-    fg.language("zh-TW")
+    os.makedirs("data", exist_ok=True)
+    with open("data/site_data.json", "w", encoding="utf-8") as f:
+        json.dump(site_data, f, ensure_ascii=False, indent=2)
 
-    if os.path.exists("summary.md"):
-        with open("summary.md", "r", encoding="utf-8") as f:
-            summary_md = f.read()
-        
-        summary_rss = summary_md.replace("./history/", f"{base_url}history/")
-        summary_rss = summary_rss.replace(".md)", ".html)")
-        html_content = md_to_html_util(summary_rss)
-        
-        fe = fg.add_entry()
-        fe.id(timestamp_str)
-        fe.title(f"AI 新聞深度摘要 - {now.strftime('%Y-%m-%d %H:%M')}")
-        fe.link(href=base_url)
-        fe.content(html_content, type="html")
-        fe.published(datetime.datetime.now(datetime.timezone.utc))
+    print(f"site_data.json: {total_deep} deep, {total_watch} watch, {len(categories)} categories")
 
-    fg.rss_file("rss.xml")
 
 if __name__ == "__main__":
+    for run_dir in sorted(glob.glob("history/????-??-??_*/")):
+        dirname = os.path.basename(run_dir.rstrip("/"))
+        date_str = dirname[:10]
+        build_day_json(date_str)
+
+    build_history_index()
     build_site()
-    build_rss()
-    print("Successfully optimized UI and fixed navigation.")
+    print("Site built successfully.")

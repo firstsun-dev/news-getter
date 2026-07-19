@@ -1,0 +1,66 @@
+---
+interface Props {
+  items: { title: string; url: string; tier: number; seen_count: number }[];
+}
+const { items } = Astro.props;
+---
+<details class="watchlist" open={false}>
+  <summary class="wl-summary">
+    <span class="wl-label">觀察中 <span class="wl-count">({items.length})</span></span>
+    <span class="wl-arrow" aria-hidden="true">▾</span>
+  </summary>
+  <ul class="wl-list">
+    {items.map((it) => (
+      <li>
+        <a href={it.url} target="_blank" rel="noopener noreferrer">
+          <span class="wl-title">{it.title}</span>
+          <span class="wl-meta mono">T{it.tier} · ×{it.seen_count}</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</details>
+
+<style>
+  .watchlist {
+    background: var(--bg-sunken);
+    border: 1px solid var(--border);
+    border-radius: var(--r-card);
+    padding: 12px 14px;
+    margin-top: 10px;
+  }
+  .wl-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    list-style: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+  .wl-summary::-webkit-details-marker { display: none; }
+  .wl-count { color: var(--text-muted); font-weight: 400; }
+  .wl-arrow {
+    transition: transform 0.2s ease;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+  }
+  details[open] .wl-arrow { transform: rotate(180deg); }
+  .wl-list {
+    list-style: none;
+    margin: 10px 0 0;
+    padding: 0;
+    display: grid;
+    gap: 4px;
+  }
+  .wl-list a {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: 6px 8px;
+    border-radius: var(--r-input);
+  }
+  .wl-list a:hover { background: var(--bg-elevated); text-decoration: none; }
+  .wl-title { font-size: 0.88rem; line-height: 1.4; }
+  .wl-meta { font-size: 0.72rem; color: var(--text-muted); }
+</style>

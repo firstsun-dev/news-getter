@@ -1,0 +1,45 @@
+---
+import FactBlock from './FactBlock.astro';
+import JudgmentBlock from './JudgmentBlock.astro';
+
+interface Props {
+  title: string;
+  confidence: number | null;
+  heat: number | null;
+  factHtml: string;
+  judgmentHtml: string;
+}
+const { title, confidence, heat, factHtml, judgmentHtml } = Astro.props;
+---
+<article class="story card reveal">
+  <h3 class="story-title">{title}</h3>
+  {(confidence !== null || heat !== null) && (
+    <div class="scores">
+      {confidence !== null && <span class="score-badge confidence">C {confidence}</span>}
+      {heat !== null && <span class="score-badge heat">H {heat}</span>}
+    </div>
+  )}
+  {factHtml && <FactBlock title={factHtml} />}
+  {judgmentHtml && <JudgmentBlock title={judgmentHtml} />}
+</article>
+
+<style>
+  .story {
+    padding: 16px 18px;
+    margin-bottom: 12px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .story:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-lg);
+  }
+  .story-title {
+    margin: 0 0 8px;
+    font-size: 1.05rem;
+  }
+  .scores {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 8px;
+  }
+</style>

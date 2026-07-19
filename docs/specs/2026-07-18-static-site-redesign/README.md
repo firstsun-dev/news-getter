@@ -1,6 +1,9 @@
 # Static Site Visual Redesign
 
-- Status: Draft
+- Status: **Superseded** (2026-07-19) by
+  [astro-site-redesign](../2026-07-19-astro-site-redesign/README.md), which
+  adopts Astro + a build step with the user's explicit approval. This spec's
+  "no frontend framework" constraint is no longer in effect.
 - Date: 2026-07-18
 - Target version: Unreleased
 - Prerequisite specs: none (independent of [source-tiering-and-evidence-gate](../2026-07-18-source-tiering-and-evidence-gate/README.md); only shares `build_site.py` as the output layer)

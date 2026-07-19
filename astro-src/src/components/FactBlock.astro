@@ -1,0 +1,33 @@
+---
+interface Props {
+  title: string;
+  label?: string;
+}
+const { title, label = 'FACT' } = Astro.props;
+---
+<div class="fact-block">
+  <span class="block-label">{label}</span>
+  <div class="block-body" set:html={title} />
+</div>
+
+<style>
+  .fact-block {
+    background: var(--bg-sunken);
+    border-left: 3px solid var(--accent);
+    border-radius: 0 var(--r-input) var(--r-input) 0;
+    padding: 10px 16px;
+    margin: 10px 0;
+  }
+  .block-label {
+    display: inline-block;
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+    margin-bottom: 4px;
+  }
+  .block-body :global(p) { margin: 0 0 0.5em; }
+  .block-body :global(p:last-child) { margin-bottom: 0; }
+  .block-body :global(a) { color: var(--accent); }
+</style>

@@ -1,0 +1,101 @@
+---
+interface Props {
+  showBack?: boolean;
+}
+const { showBack = false } = Astro.props;
+---
+<header class="topbar" data-topbar>
+  <div class="topbar-inner">
+    {showBack ? (
+      <a class="back-link" href="../../index.html">← Back to Brief</a>
+    ) : (
+      <a class="brand" href="/news-getter/">The Brief</a>
+    )}
+    <div class="topbar-actions">
+      <button
+        class="icon-btn theme-toggle"
+        type="button"
+        aria-label="切換深淺色主題"
+        aria-pressed="false"
+        data-theme-toggle
+      >
+        <span class="icon-light" aria-hidden="true">☀</span>
+        <span class="icon-dark" aria-hidden="true">☾</span>
+      </button>
+      <button
+        class="icon-btn menu-btn"
+        type="button"
+        aria-label="開啟類別選單"
+        aria-expanded="false"
+        aria-controls="sidebar"
+        data-menu-toggle
+      >
+        <span aria-hidden="true">≡</span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<style>
+  .topbar {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    height: var(--topbar-h);
+    background: color-mix(in srgb, var(--bg) 92%, transparent);
+    backdrop-filter: saturate(140%) blur(8px);
+    border-bottom: 1px solid var(--border);
+  }
+  .topbar-inner {
+    max-width: 1280px;
+    margin: 0 auto;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 16px;
+    gap: 12px;
+  }
+  .brand {
+    font-family: "Noto Serif TC", Georgia, serif;
+    font-weight: 700;
+    font-size: 1.15rem;
+    color: var(--text);
+  }
+  .back-link {
+    font-size: 0.95rem;
+    color: var(--accent);
+  }
+  .topbar-actions {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .theme-toggle .icon-dark { display: none; }
+  :global([data-theme="dark"]) .theme-toggle .icon-light { display: none; }
+  :global([data-theme="dark"]) .theme-toggle .icon-dark { display: inline; }
+  .menu-btn { display: none; }
+  @media (max-width: 900px) {
+    .menu-btn { display: inline-flex; }
+  }
+</style>
+
+<script>
+  function initThemeToggle() {
+    const btn = document.querySelector<HTMLButtonElement>('[data-theme-toggle]');
+    if (!btn) return;
+    const sync = () => {
+      const t = document.documentElement.getAttribute('data-theme');
+      btn.setAttribute('aria-pressed', String(t === 'dark'));
+    };
+    sync();
+    btn.addEventListener('click', () => {
+      const cur = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+      const next = cur === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (e) {}
+      sync();
+    });
+  }
+  initThemeToggle();
+</script>

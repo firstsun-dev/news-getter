@@ -1,0 +1,339 @@
+---
+import { categoryHue } from '../lib/categoryHue.ts';
+
+interface RunSummary { time: string; categories: string[]; }
+interface DayIndex { date: string; runs: RunSummary[]; }
+
+interface Props {
+  index: DayIndex[];
+}
+const { index } = Astro.props;
+
+const monthsSet = new Set<string>();
+const catsSet = new Set<string>();
+for (const day of index) {
+  monthsSet.add(day.date.slice(0, 7));
+  for (const run of day.runs) {
+    for (const c of run.categories) catsSet.add(c);
+  }
+}
+const months = Array.from(monthsSet).sort((a, b) => (a < b ? 1 : -1));
+const cats = Array.from(catsSet).sort((a, b) => a.localeCompare(b));
+
+const serializedIndex = JSON.stringify(index);
+const serializedCats = JSON.stringify(cats.map((c) => ({ name: c, hue: categoryHue(c) })));
+---
+<section class="archive" data-archive>
+  <h2 class="archive-title">Archive</h2>
+
+  <div class="archive-controls">
+    <div class="search-row">
+      <input
+        type="search"
+        class="archive-search"
+        placeholder="搜尋日期或類別…（Cmd/Ctrl+K）"
+        aria-label="搜尋檔案"
+        data-archive-search
+      />
+      <span class="result-count mono" data-result-count></span>
+    </div>
+    <div class="pill-row" data-month-pills role="group" aria-label="月份">
+      <button class="pill is-active" type="button" data-month="" aria-pressed="true">全部</button>
+      {months.map((m) => (
+        <button class="pill" type="button" data-month={m} aria-pressed="false">{m}</button>
+      ))}
+    </div>
+    <div class="pill-row" data-cat-pills role="group" aria-label="類別">
+      <button class="pill is-active" type="button" data-cat="" aria-pressed="true">全部</button>
+      {cats.map((c) => (
+        <button class="pill" type="button" data-cat={c} aria-pressed="false" style={`--h: ${categoryHue(c)}`}>
+          <span class="cat-dot" style={`--h: ${categoryHue(c)}`} aria-hidden="true"></span>
+          {c}
+        </button>
+      ))}
+    </div>
+  </div>
+
+  <div class="no-results" data-no-results hidden>
+    <p>沒有符合的結果。</p>
+    <button class="btn" type="button" data-clear-filters>清除篩選</button>
+  </div>
+
+  <ul class="date-list" data-date-list></ul>
+</section>
+
+<style>
+  .archive {
+    margin-top: 32px;
+    padding: 20px;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: var(--r-card);
+    box-shadow: var(--shadow);
+  }
+  .archive-title { margin: 0 0 14px; font-size: 1.3rem; }
+  .archive-controls { display: grid; gap: 12px; }
+  .search-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .archive-search {
+    flex: 1 1 240px;
+    min-width: 180px;
+    padding: 9px 14px;
+    border-radius: var(--r-input);
+    border: 1px solid var(--border);
+    background: var(--bg);
+    color: var(--text);
+    font-size: 0.9rem;
+  }
+  .archive-search:focus { outline: none; border-color: var(--accent); }
+  .result-count { font-size: 0.78rem; color: var(--text-muted); white-space: nowrap; }
+  .pill-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .no-results {
+    text-align: center;
+    padding: 24px;
+    color: var(--text-muted);
+  }
+  .date-list {
+    list-style: none;
+    margin: 16px 0 0;
+    padding: 0;
+    display: grid;
+    gap: 8px;
+  }
+  .date-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 12px;
+    border-radius: var(--r-input);
+    border: 1px solid var(--border);
+    background: var(--bg);
+    transition: opacity 0.2s ease, transform 0.2s ease;
+  }
+  .date-row.filtered-out {
+    opacity: 0;
+    transform: translateY(-8px);
+    pointer-events: none;
+  }
+  .date-label {
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 0.88rem;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  .chip-row { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 3px 10px;
+    border-radius: var(--r-pill);
+    border: 1px solid hsl(var(--h) var(--cat-s) var(--cat-l));
+    color: hsl(var(--h) var(--cat-s) var(--cat-l));
+    background: transparent;
+    font-size: 0.76rem;
+    text-decoration: none;
+    min-height: 28px;
+  }
+  .chip:hover {
+    background: hsl(var(--h) var(--cat-s) var(--cat-l));
+    color: var(--bg);
+    text-decoration: none;
+  }
+  @media (max-width: 900px) {
+    .pill-row {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      padding-bottom: 4px;
+      scrollbar-width: thin;
+    }
+    .pill { flex-shrink: 0; min-height: 44px; }
+    .date-row { flex-wrap: wrap; }
+  }
+</style>
+
+  <script is:inline define:vars={{ serializedIndex, serializedCats }}>
+  (function () {
+    var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var index = JSON.parse(serializedIndex);
+    var cats = JSON.parse(serializedCats);
+
+    var root = document.querySelector('[data-archive]');
+    if (!root) return;
+    var search = root.querySelector('[data-archive-search]');
+    var list = root.querySelector('[data-date-list]');
+    var countEl = root.querySelector('[data-result-count]');
+    var noResults = root.querySelector('[data-no-results]');
+    var monthBtns = Array.from(root.querySelectorAll('[data-month]'));
+    var catBtns = Array.from(root.querySelectorAll('[data-cat]'));
+    var clearBtn = root.querySelector('[data-clear-filters]');
+
+    var state = { month: '', cat: '', q: '' };
+
+    function latestRunForCat(day, cat) {
+      for (var i = day.runs.length - 1; i >= 0; i--) {
+        if (day.runs[i].categories.indexOf(cat) !== -1) return day.runs[i].time;
+      }
+      return day.runs[day.runs.length - 1].time;
+    }
+    function timeToDir(t) { return t.replace(':', '-'); }
+    function unionCats(day) {
+      var s = {};
+      day.runs.forEach(function (r) { r.categories.forEach(function (c) { s[c] = true; }); });
+      return Object.keys(s);
+    }
+
+    function render() {
+      var q = state.q.toLowerCase();
+      var matches = function (day) {
+        if (state.month && day.date.slice(0, 7) !== state.month) return false;
+        var catsForDay = unionCats(day);
+        if (state.cat && catsForDay.indexOf(state.cat) === -1) return false;
+        if (q) {
+          var dateHit = day.date.toLowerCase().indexOf(q) !== -1;
+          var catHit = catsForDay.some(function (c) { return c.toLowerCase().indexOf(q) !== -1; });
+          if (!dateHit && !catHit) return false;
+        }
+        return true;
+      };
+      var filtered = index.filter(matches);
+
+      var oldRects = {};
+      if (!reduceMotion) {
+        Array.from(list.children).forEach(function (li) {
+          oldRects[li.getAttribute('data-date')] = li.getBoundingClientRect();
+        });
+      }
+
+      list.innerHTML = '';
+      filtered.forEach(function (day) {
+        var li = document.createElement('li');
+        li.className = 'date-row';
+        li.setAttribute('data-date', day.date);
+        var label = document.createElement('span');
+        label.className = 'date-label';
+        label.textContent = day.date;
+        li.appendChild(label);
+
+        var chips = document.createElement('div');
+        chips.className = 'chip-row';
+        var dayCats = unionCats(day);
+        if (state.cat) dayCats = dayCats.filter(function (c) { return c === state.cat; });
+        dayCats.sort().forEach(function (c) {
+          var hue = cats.find(function (x) { return x.name === c; });
+          var a = document.createElement('a');
+          a.className = 'chip';
+          a.href = 'history/' + day.date + '_' + timeToDir(latestRunForCat(day, c)) + '/index.html#' + c.replace(/\s+/g, '-');
+          a.setAttribute('data-h', hue ? hue.hue : 0);
+          a.style.setProperty('--h', (hue ? hue.hue : 0) + '');
+          var dot = document.createElement('span');
+          dot.className = 'cat-dot';
+          dot.style.setProperty('--h', (hue ? hue.hue : 0) + '');
+          a.appendChild(dot);
+          a.appendChild(document.createTextNode(c));
+          chips.appendChild(a);
+        });
+        li.appendChild(chips);
+        list.appendChild(li);
+      });
+
+      if (!reduceMotion) {
+        Array.from(list.children).forEach(function (li) {
+          var key = li.getAttribute('data-date');
+          var oldR = oldRects[key];
+          if (!oldR) return;
+          var newR = li.getBoundingClientRect();
+          var dy = oldR.top - newR.top;
+          if (dy) {
+            li.style.transform = 'translateY(' + dy + 'px)';
+            li.style.transition = 'none';
+            requestAnimationFrame(function () {
+              li.style.transition = '';
+              li.style.transform = '';
+            });
+          }
+        });
+      }
+
+      countEl.textContent = filtered.length + ' / ' + index.length + ' 天';
+      noResults.hidden = filtered.length !== 0;
+    }
+
+    function syncHash() {
+      var parts = [];
+      if (state.month) parts.push('month=' + encodeURIComponent(state.month));
+      if (state.cat) parts.push('cat=' + encodeURIComponent(state.cat));
+      if (state.q) parts.push('q=' + encodeURIComponent(state.q));
+      var hash = parts.length ? '#' + parts.join('&') : '';
+      history.replaceState(null, '', hash || window.location.pathname + window.location.search);
+    }
+    function loadHash() {
+      var m = /month=([^&]*)/.exec(window.location.hash);
+      var c = /cat=([^&]*)/.exec(window.location.hash);
+      var q = /q=([^&]*)/.exec(window.location.hash);
+      state.month = m ? decodeURIComponent(m[1]) : '';
+      state.cat = c ? decodeURIComponent(c[1]) : '';
+      state.q = q ? decodeURIComponent(q[1]) : '';
+      if (search) search.value = state.q;
+    }
+
+    function setPillActive(btns, attr, val) {
+      btns.forEach(function (b) {
+        var v = b.getAttribute('data-' + attr) || '';
+        var on = v === val;
+        b.classList.toggle('is-active', on);
+        b.setAttribute('aria-pressed', String(on));
+      });
+    }
+
+    function applyState() {
+      setPillActive(monthBtns, 'month', state.month);
+      setPillActive(catBtns, 'cat', state.cat);
+      render();
+      syncHash();
+    }
+
+    monthBtns.forEach(function (b) {
+      b.addEventListener('click', function () {
+        state.month = b.getAttribute('data-month') || '';
+        applyState();
+      });
+    });
+    catBtns.forEach(function (b) {
+      b.addEventListener('click', function () {
+        state.cat = b.getAttribute('data-cat') || '';
+        applyState();
+      });
+    });
+    if (search) {
+      search.addEventListener('input', function () {
+        state.q = search.value;
+        applyState();
+      });
+    }
+    if (clearBtn) {
+      clearBtn.addEventListener('click', function () {
+        state = { month: '', cat: '', q: '' };
+        if (search) search.value = '';
+        applyState();
+      });
+    }
+    document.addEventListener('keydown', function (e) {
+      if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') {
+        e.preventDefault();
+        if (search) search.focus();
+      }
+    });
+
+    loadHash();
+    applyState();
+  })();
+</script>
