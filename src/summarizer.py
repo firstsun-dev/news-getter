@@ -4,9 +4,9 @@ import logging
 import os
 import re
 import shutil
-import subprocess
 import datetime
 
+import requests
 from pydantic import BaseModel, Field, HttpUrl, ValidationError
 
 from src.scoring import score_story, qualifies_for_deep_analysis
@@ -51,7 +51,7 @@ class CategoryArchive(BaseModel):
 
 
 def parse_digest(raw_text: str, allowed_urls: set[str]):
-    """Parse and validate a Gemini JSON response into a StoryDigest.
+    """Parse and validate a Qwen JSON response into a StoryDigest.
 
     Returns (StoryDigest, None) on success, or (None, reason) on failure.
     """
@@ -75,51 +75,44 @@ def parse_digest(raw_text: str, allowed_urls: set[str]):
     return digest, None
 
 
-def run_gemini(prompt):
-    # 定義可能的 gemini 路徑
-    search_paths = [
-        "gemini",
-        "/Users/tianyao/.nvm/versions/node/v22.21.1/bin/gemini",
-        "/Users/claudia.fang/.nvm/versions/node/v22.21.1/bin/gemini",
-        "/opt/homebrew/bin/gemini",
-        "/usr/local/bin/gemini"
-    ]
+QWEN_BASE_URL = os.environ.get("QWEN_BASE_URL", "http://firstsun-nas:14000/v1")
+QWEN_API_KEY = os.environ.get("QWEN_API_KEY", "sk-HFyxxe83XuNhbz9BvyYo7g")
+QWEN_MODEL = os.environ.get("QWEN_MODEL", "delta/qwen3.5-112B")
+QWEN_TIMEOUT = float(os.environ.get("QWEN_TIMEOUT", "180"))
 
-    gemini_bin = None
-    for path in search_paths:
-        try:
-            cmd = ["which", path] if not path.startswith("/") else ["ls", path]
-            if subprocess.run(cmd, capture_output=True).returncode == 0:
-                gemini_bin = path
-                break
-        except:
-            continue
 
-    if not gemini_bin:
-        try:
-            result = subprocess.run(["find", "/Users", "/opt", "-name", "gemini", "-type", "f", "-perm", "+111"], capture_output=True, text=True)
-            if result.stdout:
-                gemini_bin = result.stdout.splitlines()[0]
-        except:
-            pass
+def run_qwen(prompt):
+    """Call the local Qwen endpoint (OpenAI-compatible) and return raw text."""
+    url = QWEN_BASE_URL.rstrip("/") + "/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {QWEN_API_KEY}",
+        "Content-Type": "application/json",
+    }
+    payload = {
+        "model": QWEN_MODEL,
+        "messages": [{"role": "user", "content": prompt}],
+        "stream": False,
+        "temperature": 0.2,
+    }
 
-    if not gemini_bin:
-        print("❌ 錯誤: 找不到 gemini 指令")
+    try:
+        resp = requests.post(url, headers=headers, json=payload, timeout=QWEN_TIMEOUT)
+    except requests.RequestException as e:
+        print(f"❌ Qwen 連線失敗: {e}")
         return ""
 
-    process = subprocess.Popen(
-        [gemini_bin, "-p", "", "--skip-trust"],
-        stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True
-    )
-    stdout, stderr = process.communicate(input=prompt)
-
-    if process.returncode != 0:
-        print(f"Gemini 執行出錯: {stderr}")
+    if resp.status_code != 200:
+        print(f"Qwen HTTP {resp.status_code}: {resp.text[:500]}")
         return ""
 
-    lines = stdout.splitlines()
-    cleaned = [l for l in lines if not any(noise_term in l for noise_term in ["MCP issues", "Ripgrep is not available", "Tool with name", "overriding"])]
-    content = "\n".join(cleaned).strip()
+    try:
+        data = resp.json()
+        content = data["choices"][0]["message"]["content"]
+    except (ValueError, KeyError, IndexError) as e:
+        print(f"Qwen 回應解析失敗: {e}")
+        return ""
+
+    content = (content or "").strip()
 
     # 清理 AI 加上去的 code block
     if content.startswith("```"):
@@ -216,10 +209,10 @@ def process_category(category, articles, base_dir, timestamp):
 
         allowed_urls = {art["link"] for art in story["articles"]}
         prompt = build_prompt_deep(story, allowed_urls)
-        raw_response = run_gemini(prompt)
+        raw_response = run_qwen(prompt)
 
         if not raw_response:
-            logging.warning("Gemini 無回應，story 降級為速報: %s", story["title"])
+            logging.warning("Qwen 無回應，story 降級為速報: %s", story["title"])
             headline_stories.append(story)
             continue
 

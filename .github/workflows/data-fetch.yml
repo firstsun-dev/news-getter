@@ -20,6 +20,10 @@ jobs:
           fetch-depth: 0
 
       - name: Run pipeline (data only, no Astro build)
+        env:
+          QWEN_BASE_URL: ${{ vars.QWEN_BASE_URL }}
+          QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
+          QWEN_MODEL: ${{ vars.QWEN_MODEL }}
         run: |
           chmod +x run_pipeline.sh
           ./run_pipeline.sh data-only
