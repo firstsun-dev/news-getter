@@ -14,6 +14,9 @@ jobs:
     name: Pipeline (fetch → summarize → data JSON)
     runs-on: [self-hosted, macOS]
     steps:
+      - name: Strip stale .claude/ from runner workspace
+        run: rm -rf .claude 2>/dev/null || true
+
       - name: Checkout
         uses: actions/checkout@v4
         with:
