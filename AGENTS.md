@@ -48,9 +48,9 @@ The Gemini binary is located via PATH, a hardcoded list of known paths, then a f
 
 ## Deployment
 
-GitHub Actions workflow (`.github/workflows/daily-news.yml`) runs on a **self-hosted macOS runner** at UTC 00:00 and 12:00. It commits `index.html`, `rss.xml`, `summary.md`, and `history/` back to `main`, which serves as the GitHub Pages source.
+GitHub Actions workflow (`.github/workflows/daily-news.yml`) runs on a **self-hosted macOS runner** at UTC 00:00 and 12:00. It commits `index.html`, `rss.xml`, `summary.md`, `history/`, `app.js`, `history.js`, `history.html`, `styles.css`, `data/site_data.json`, `data/history_index.json`, and `data/2026/` back to `main`, which serves as the GitHub Pages source.
 
-The hardcoded Gemini binary paths in `src/summarizer.py` and `summarize.sh` are macOS paths (`/Users/tianyao/...`). If running on a different machine, `gemini` must be in PATH or these paths updated.
+The hardcoded Gemini binary paths in `src/summarizer.py` are macOS paths (`/Users/tianyao/...`). If running on a different machine, `gemini` must be in PATH or these paths updated.
 
 ## Adding New Feed Categories
 

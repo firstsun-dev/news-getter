@@ -26,7 +26,7 @@ jobs:
           echo "Debug - Home: $HOME"
           
           # 給予執行權限並啟動
-          chmod +x run_pipeline.sh summarize.sh
+          chmod +x run_pipeline.sh
           ./run_pipeline.sh
 
       - name: 3. 更新結果至 GitHub Pages (Deploy)
