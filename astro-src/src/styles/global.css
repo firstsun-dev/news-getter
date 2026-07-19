@@ -198,20 +198,17 @@ button {
 }
 .icon-btn:hover { border-color: var(--accent); color: var(--accent); }
 
-/* Scroll-reveal: cards stagger in via view timeline.
-   Gated behind @supports so browsers without view-timeline support
-   (Firefox, older Safari) render content at full opacity instead of
-   getting stuck invisible — this has bitten us twice before. */
-@supports (animation-timeline: view()) {
-  .reveal {
-    opacity: 0;
-    transform: translateY(12px);
-    animation: reveal 0.5s ease forwards;
-    animation-timeline: view();
-    animation-range: entry 0% entry 60%;
-  }
+/* Reveal: cards fade/slide in once on load. Previously bound to a
+   scroll-driven view-timeline, but that ties opacity continuously to
+   scroll position — scrolling a card back out of its entry range (or
+   a layout shift from late-loading fonts/images) snaps it back to
+   opacity 0, causing cards to flash in then vanish. Play once on the
+   document timeline instead so it can't un-reveal itself. */
+.reveal {
+  animation: reveal 0.5s ease both;
 }
 @keyframes reveal {
+  from { opacity: 0; transform: translateY(12px); }
   to { opacity: 1; transform: translateY(0); }
 }
 
