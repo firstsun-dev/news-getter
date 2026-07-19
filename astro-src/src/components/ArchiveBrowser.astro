@@ -9,22 +9,59 @@ interface Props {
 }
 const { index } = Astro.props;
 
+const WEEKDAYS = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+function weekdayOf(dateStr: string): string {
+  const [y, m, d] = dateStr.split('-').map(Number);
+  return WEEKDAYS[new Date(Date.UTC(y, m - 1, d)).getUTCDay()];
+}
+function latestTime(day: DayIndex): string {
+  return day.runs.reduce((max, r) => (r.time > max ? r.time : max), day.runs[0].time);
+}
+function unionCatsOf(day: DayIndex): string[] {
+  const s = new Set<string>();
+  for (const r of day.runs) for (const c of r.categories) s.add(c);
+  return Array.from(s);
+}
+
 const monthsSet = new Set<string>();
 const catsSet = new Set<string>();
+let totalRuns = 0;
 for (const day of index) {
   monthsSet.add(day.date.slice(0, 7));
-  for (const run of day.runs) {
-    for (const c of run.categories) catsSet.add(c);
-  }
+  totalRuns += day.runs.length;
+  for (const r of day.runs) for (const c of r.categories) catsSet.add(c);
 }
 const months = Array.from(monthsSet).sort((a, b) => (a < b ? 1 : -1));
 const cats = Array.from(catsSet).sort((a, b) => a.localeCompare(b));
+const totalDays = index.length;
+const totalCats = cats.length;
+const spanStart = index.length ? index.reduce((min, d) => (d.date < min ? d.date : min), index[0].date) : '';
+const spanEnd = index.length ? index.reduce((max, d) => (d.date > max ? d.date : max), index[0].date) : '';
+
+const dayMeta: Record<string, { weekday: string; runs: number; cats: number; latest: string }> = {};
+for (const day of index) {
+  dayMeta[day.date] = {
+    weekday: weekdayOf(day.date),
+    runs: day.runs.length,
+    cats: unionCatsOf(day).length,
+    latest: latestTime(day),
+  };
+}
+
+const statsLine = `${totalDays} 天 · ${totalRuns} 次 run · ${totalCats} 類別` + (spanStart ? ` · ${spanStart} → ${spanEnd}` : '');
 
 const serializedIndex = JSON.stringify(index);
 const serializedCats = JSON.stringify(cats.map((c) => ({ name: c, hue: categoryHue(c) })));
+const serializedMeta = JSON.stringify(dayMeta);
+const serializedMonths = JSON.stringify(months);
 ---
+
 <section class="archive" data-archive>
-  <h2 class="archive-title">Archive</h2>
+  <header class="archive-head">
+    <span class="classification">Archive</span>
+    <h2 class="archive-title">每日簡報檔案</h2>
+    <p class="archive-stats mono">{statsLine}</p>
+  </header>
 
   <div class="archive-controls">
     <div class="search-row">
@@ -35,7 +72,7 @@ const serializedCats = JSON.stringify(cats.map((c) => ({ name: c, hue: categoryH
         aria-label="搜尋檔案"
         data-archive-search
       />
-      <span class="result-count mono" data-result-count></span>
+      <span class="result-count mono" data-result-count aria-live="polite"></span>
     </div>
     <div class="pill-row" data-month-pills role="group" aria-label="月份">
       <button class="pill is-active" type="button" data-month="" aria-pressed="true">全部</button>
@@ -59,95 +96,199 @@ const serializedCats = JSON.stringify(cats.map((c) => ({ name: c, hue: categoryH
     <button class="btn" type="button" data-clear-filters>清除篩選</button>
   </div>
 
-  <ul class="date-list" data-date-list></ul>
+  <div class="archive-body" data-archive-body></div>
 </section>
 
 <style>
   .archive {
-    margin-top: 32px;
-    padding: 20px;
-    background: var(--bg-elevated);
-    border: 1px solid var(--border);
-    border-radius: var(--r-card);
-    box-shadow: var(--shadow);
+    margin-top: 56px;
+    padding-top: 36px;
+    border-top: 1px solid var(--border);
   }
-  .archive-title { margin: 0 0 14px; font-size: 1.3rem; }
-  .archive-controls { display: grid; gap: 12px; }
-  .search-row {
+  .archive-head {
     display: flex;
-    align-items: center;
-    gap: 10px;
-    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 22px;
   }
+  .classification {
+    display: inline-block;
+    width: fit-content;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    border: 1px solid var(--accent);
+    border-radius: var(--r-pill);
+    padding: 2px 10px;
+  }
+  .archive-title {
+    margin: 0;
+    font-size: clamp(1.4rem, 3vw, 1.8rem);
+    font-weight: 700;
+  }
+  .archive-stats {
+    margin: 0;
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    letter-spacing: 0.02em;
+  }
+
+  .archive-controls { display: grid; gap: 14px; margin-bottom: 28px; }
+  .search-row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
   .archive-search {
     flex: 1 1 240px;
     min-width: 180px;
-    padding: 9px 14px;
+    padding: 10px 16px;
     border-radius: var(--r-input);
     border: 1px solid var(--border);
-    background: var(--bg);
+    background: var(--bg-elevated);
     color: var(--text);
     font-size: 0.9rem;
   }
   .archive-search:focus { outline: none; border-color: var(--accent); }
   .result-count { font-size: 0.78rem; color: var(--text-muted); white-space: nowrap; }
-  .pill-row {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
+  .pill-row { display: flex; flex-wrap: wrap; gap: 10px; }
+  .archive .pill {
+    padding: 8px 16px;
+    min-height: 40px;
+    gap: 7px;
+    font-size: 0.86rem;
   }
+
   .no-results {
     text-align: center;
-    padding: 24px;
+    padding: 32px 16px;
     color: var(--text-muted);
+    border: 1px dashed var(--border);
+    border-radius: var(--r-card);
   }
-  .date-list {
-    list-style: none;
-    margin: 16px 0 0;
-    padding: 0;
-    display: grid;
-    gap: 8px;
+  .no-results p { margin: 0 0 12px; }
+
+  .archive-body { display: grid; gap: 28px; }
+
+  .month-section { display: grid; gap: 10px; }
+  .month-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid var(--border);
   }
+  .month-label {
+    margin: 0;
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 0.92rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--text);
+  }
+  .month-count {
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 0.74rem;
+    color: var(--text-muted);
+    white-space: nowrap;
+  }
+
+  .month-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+
   .date-row {
     display: flex;
     align-items: center;
-    gap: 12px;
-    padding: 10px 12px;
+    gap: 14px;
+    padding: 10px 14px;
     border-radius: var(--r-input);
     border: 1px solid var(--border);
-    background: var(--bg);
-    transition: opacity 0.2s ease, transform 0.2s ease;
+    background: var(--bg-elevated);
+    transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease, opacity 0.2s ease;
+  }
+  .date-row:hover {
+    transform: translateY(-1px);
+    border-color: var(--accent);
+    box-shadow: var(--shadow);
   }
   .date-row.filtered-out {
     opacity: 0;
     transform: translateY(-8px);
     pointer-events: none;
   }
-  .date-label {
-    font-family: "JetBrains Mono", ui-monospace, monospace;
-    font-size: 0.88rem;
-    font-weight: 500;
-    white-space: nowrap;
+
+  .date-main {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1px;
+    flex-shrink: 0;
+    min-width: 64px;
   }
-  .chip-row { display: flex; flex-wrap: wrap; gap: 6px; }
+  .date-weekday {
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 0.66rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    line-height: 1;
+  }
+  .date-num {
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--text);
+    line-height: 1.1;
+  }
+  .date-num:hover { color: var(--accent); text-decoration: none; }
+
+  .chip-row { display: flex; flex-wrap: wrap; gap: 8px; flex: 1 1 auto; min-width: 0; }
   .chip {
     display: inline-flex;
     align-items: center;
-    gap: 5px;
-    padding: 3px 10px;
+    gap: 6px;
+    padding: 4px 11px;
     border-radius: var(--r-pill);
     border: 1px solid hsl(var(--h) var(--cat-s) var(--cat-l));
     color: hsl(var(--h) var(--cat-s) var(--cat-l));
     background: transparent;
-    font-size: 0.76rem;
+    font-size: 0.78rem;
     text-decoration: none;
     min-height: 28px;
+    transition: background 0.15s ease, color 0.15s ease;
   }
   .chip:hover {
     background: hsl(var(--h) var(--cat-s) var(--cat-l));
     color: var(--bg);
     text-decoration: none;
   }
+
+  .date-side {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-shrink: 0;
+    margin-left: auto;
+  }
+  .run-badge {
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 0.68rem;
+    color: var(--text-muted);
+    border: 1px solid var(--border);
+    border-radius: var(--r-pill);
+    padding: 1px 8px;
+    white-space: nowrap;
+  }
+  .latest-link {
+    display: inline-flex;
+    align-items: center;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    line-height: 1;
+    padding: 2px 6px;
+    border-radius: var(--r-input);
+    text-decoration: none;
+  }
+  .latest-link:hover { color: var(--accent); text-decoration: none; }
+
   @media (max-width: 900px) {
     .pill-row {
       flex-wrap: nowrap;
@@ -157,19 +298,22 @@ const serializedCats = JSON.stringify(cats.map((c) => ({ name: c, hue: categoryH
     }
     .pill { flex-shrink: 0; min-height: 44px; }
     .date-row { flex-wrap: wrap; }
+    .date-side { margin-left: 0; }
   }
 </style>
 
-  <script is:inline define:vars={{ serializedIndex, serializedCats }}>
+<script is:inline define:vars={{ serializedIndex, serializedCats, serializedMeta, serializedMonths }}>
   (function () {
     var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     var index = JSON.parse(serializedIndex);
     var cats = JSON.parse(serializedCats);
+    var meta = JSON.parse(serializedMeta);
+    var monthsOrder = JSON.parse(serializedMonths);
 
     var root = document.querySelector('[data-archive]');
     if (!root) return;
     var search = root.querySelector('[data-archive-search]');
-    var list = root.querySelector('[data-date-list]');
+    var body = root.querySelector('[data-archive-body]');
     var countEl = root.querySelector('[data-result-count]');
     var noResults = root.querySelector('[data-no-results]');
     var monthBtns = Array.from(root.querySelectorAll('[data-month]'));
@@ -178,77 +322,145 @@ const serializedCats = JSON.stringify(cats.map((c) => ({ name: c, hue: categoryH
 
     var state = { month: '', cat: '', q: '' };
 
-    function latestRunForCat(day, cat) {
-      for (var i = day.runs.length - 1; i >= 0; i--) {
-        if (day.runs[i].categories.indexOf(cat) !== -1) return day.runs[i].time;
-      }
-      return day.runs[day.runs.length - 1].time;
-    }
     function timeToDir(t) { return t.replace(':', '-'); }
     function unionCats(day) {
       var s = {};
       day.runs.forEach(function (r) { r.categories.forEach(function (c) { s[c] = true; }); });
       return Object.keys(s);
     }
+    function latestRunForCat(day, cat) {
+      for (var i = day.runs.length - 1; i >= 0; i--) {
+        if (day.runs[i].categories.indexOf(cat) !== -1) return day.runs[i].time;
+      }
+      return meta[day.date].latest;
+    }
+    function hueFor(name) {
+      var hit = cats.find(function (x) { return x.name === name; });
+      return hit ? hit.hue : 0;
+    }
+
+    function matches(day) {
+      if (state.month && day.date.slice(0, 7) !== state.month) return false;
+      var catsForDay = unionCats(day);
+      if (state.cat && catsForDay.indexOf(state.cat) === -1) return false;
+      if (state.q) {
+        var q = state.q.toLowerCase();
+        var dateHit = day.date.toLowerCase().indexOf(q) !== -1;
+        var catHit = catsForDay.some(function (c) { return c.toLowerCase().indexOf(q) !== -1; });
+        if (!dateHit && !catHit) return false;
+      }
+      return true;
+    }
+
+    function rowKey(li) { return li.getAttribute('data-date'); }
+
+    function snapshotRects() {
+      var m = {};
+      if (reduceMotion) return m;
+      Array.from(body.querySelectorAll('.date-row')).forEach(function (li) {
+        m[rowKey(li)] = li.getBoundingClientRect();
+      });
+      return m;
+    }
 
     function render() {
-      var q = state.q.toLowerCase();
-      var matches = function (day) {
-        if (state.month && day.date.slice(0, 7) !== state.month) return false;
-        var catsForDay = unionCats(day);
-        if (state.cat && catsForDay.indexOf(state.cat) === -1) return false;
-        if (q) {
-          var dateHit = day.date.toLowerCase().indexOf(q) !== -1;
-          var catHit = catsForDay.some(function (c) { return c.toLowerCase().indexOf(q) !== -1; });
-          if (!dateHit && !catHit) return false;
-        }
-        return true;
-      };
       var filtered = index.filter(matches);
-
-      var oldRects = {};
-      if (!reduceMotion) {
-        Array.from(list.children).forEach(function (li) {
-          oldRects[li.getAttribute('data-date')] = li.getBoundingClientRect();
-        });
-      }
-
-      list.innerHTML = '';
+      var byMonth = {};
       filtered.forEach(function (day) {
-        var li = document.createElement('li');
-        li.className = 'date-row';
-        li.setAttribute('data-date', day.date);
-        var label = document.createElement('span');
-        label.className = 'date-label';
-        label.textContent = day.date;
-        li.appendChild(label);
+        var key = day.date.slice(0, 7);
+        if (!byMonth[key]) byMonth[key] = [];
+        byMonth[key].push(day);
+      });
 
-        var chips = document.createElement('div');
-        chips.className = 'chip-row';
-        var dayCats = unionCats(day);
-        if (state.cat) dayCats = dayCats.filter(function (c) { return c === state.cat; });
-        dayCats.sort().forEach(function (c) {
-          var hue = cats.find(function (x) { return x.name === c; });
-          var a = document.createElement('a');
-          a.className = 'chip';
-          a.href = 'history/' + day.date + '_' + timeToDir(latestRunForCat(day, c)) + '/index.html#' + c.replace(/\s+/g, '-');
-          a.setAttribute('data-h', hue ? hue.hue : 0);
-          a.style.setProperty('--h', (hue ? hue.hue : 0) + '');
-          var dot = document.createElement('span');
-          dot.className = 'cat-dot';
-          dot.style.setProperty('--h', (hue ? hue.hue : 0) + '');
-          a.appendChild(dot);
-          a.appendChild(document.createTextNode(c));
-          chips.appendChild(a);
+      var oldRects = snapshotRects();
+
+      body.innerHTML = '';
+      monthsOrder.forEach(function (m) {
+        if (!byMonth[m]) return;
+        var days = byMonth[m];
+        var dayCount = days.length;
+        var runCount = days.reduce(function (a, d) { return a + d.runs.length; }, 0);
+
+        var sec = document.createElement('section');
+        sec.className = 'month-section';
+
+        var head = document.createElement('div');
+        head.className = 'month-head';
+        var label = document.createElement('h3');
+        label.className = 'month-label';
+        label.textContent = m;
+        var cnt = document.createElement('span');
+        cnt.className = 'month-count';
+        cnt.textContent = dayCount + ' 天 · ' + runCount + ' 次 run';
+        head.appendChild(label);
+        head.appendChild(cnt);
+        sec.appendChild(head);
+
+        var ul = document.createElement('ul');
+        ul.className = 'month-list';
+        days.forEach(function (day) {
+          var dm = meta[day.date];
+          var li = document.createElement('li');
+          li.className = 'date-row';
+          li.setAttribute('data-date', day.date);
+
+          var main = document.createElement('div');
+          main.className = 'date-main';
+          var wd = document.createElement('span');
+          wd.className = 'date-weekday';
+          wd.textContent = dm.weekday;
+          var dateLink = document.createElement('a');
+          dateLink.className = 'date-num';
+          dateLink.href = 'history/' + day.date + '_' + timeToDir(dm.latest) + '/index.html';
+          dateLink.textContent = day.date.slice(8);
+          main.appendChild(wd);
+          main.appendChild(dateLink);
+          li.appendChild(main);
+
+          var chips = document.createElement('div');
+          chips.className = 'chip-row';
+          var dayCats = unionCats(day);
+          if (state.cat) dayCats = dayCats.filter(function (c) { return c === state.cat; });
+          dayCats.sort().forEach(function (c) {
+            var h = hueFor(c);
+            var a = document.createElement('a');
+            a.className = 'chip';
+            a.href = 'history/' + day.date + '_' + timeToDir(latestRunForCat(day, c)) + '/index.html#' + c.replace(/\s+/g, '-');
+            a.style.setProperty('--h', h + '');
+            var dot = document.createElement('span');
+            dot.className = 'cat-dot';
+            dot.style.setProperty('--h', h + '');
+            a.appendChild(dot);
+            a.appendChild(document.createTextNode(c));
+            chips.appendChild(a);
+          });
+          li.appendChild(chips);
+
+          var side = document.createElement('div');
+          side.className = 'date-side';
+          if (dm.runs > 1) {
+            var badge = document.createElement('span');
+            badge.className = 'run-badge';
+            badge.textContent = '×' + dm.runs;
+            side.appendChild(badge);
+          }
+          var latest = document.createElement('a');
+          latest.className = 'latest-link';
+          latest.href = 'history/' + day.date + '_' + timeToDir(dm.latest) + '/index.html';
+          latest.setAttribute('aria-label', '前往 ' + day.date + ' 最新 run');
+          latest.textContent = '→';
+          side.appendChild(latest);
+          li.appendChild(side);
+
+          ul.appendChild(li);
         });
-        li.appendChild(chips);
-        list.appendChild(li);
+        sec.appendChild(ul);
+        body.appendChild(sec);
       });
 
       if (!reduceMotion) {
-        Array.from(list.children).forEach(function (li) {
-          var key = li.getAttribute('data-date');
-          var oldR = oldRects[key];
+        Array.from(body.querySelectorAll('.date-row')).forEach(function (li) {
+          var oldR = oldRects[rowKey(li)];
           if (!oldR) return;
           var newR = li.getBoundingClientRect();
           var dy = oldR.top - newR.top;
@@ -265,6 +477,7 @@ const serializedCats = JSON.stringify(cats.map((c) => ({ name: c, hue: categoryH
 
       countEl.textContent = filtered.length + ' / ' + index.length + ' 天';
       noResults.hidden = filtered.length !== 0;
+      body.hidden = filtered.length === 0;
     }
 
     function syncHash() {
