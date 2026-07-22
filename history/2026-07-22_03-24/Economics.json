@@ -1,0 +1,20 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-07-22_03-24",
+  "stories": [
+    {
+      "title": "How investors learned to live with inflation",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/21/how-investors-learned-to-live-with-inflation",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據《經濟學人》報導，越來越少的投資者相信中央銀行能夠將通膨率帶回目標水平。",
+      "judgment": "投資者對央行控制通膨能力的信心下降，標誌著宏觀投資環境的結構性轉變。過去市場普遍預期央行能迅速將通膨壓制回目標區間，但當前情緒顯示這種信念正在瓦解。這可能導致長期利率上升、資產定價模型重構，以及投資者轉向抗通膨資產如實物資產或指數連結債券。若市場持續質疑央行有效性，將增加通膨預期脫錨風險，迫使政策制定者採取更激進措施以重建信譽。此趨勢若持續，將重塑全球資本配置邏輯，並可能加劇金融市場波動。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/07/21/how-investors-learned-to-live-with-inflation"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

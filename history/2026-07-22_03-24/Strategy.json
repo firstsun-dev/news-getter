@@ -1,0 +1,20 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-07-22_03-24",
+  "stories": [
+    {
+      "title": "Everyone Is Talking About Context for AI. Here’s What Most Companies Still Miss.",
+      "url": "http://feeds.harvardbusiness.org/sponsored/2026/07/everyone-is-talking-about-context-for-ai-heres-what-most-companies-still-miss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "這是一則來自哈佛商業評論的贊助內容，由 Celonis 提供。文章標題為「Everyone Is Talking About Context for AI. Here's What Most Companies Still Miss.」，探討企業在人工智慧應用中對「情境」的關注與缺失。",
+      "judgment": "隨著企業加速導入生成式 AI，單純依賴模型能力已不足以解決複雜的商業問題。真正的關鍵在於如何將 AI 與企業內部的營運情境（如流程數據、業務規則、歷史決策）深度結合。Celonis 作為流程挖掘與執行管理的領導者，其贊助內容暗示了市場趨勢正從通用 AI 轉向情境感知型 AI。企業若忽略自身獨特的數據生態與流程脈絡，將難以發揮 AI 的最大價值，甚至可能因錯誤的自動化決策造成營運風險。未來競爭優勢將屬於那些能有效整合內部情境數據與 AI 模型的組織。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/sponsored/2026/07/everyone-is-talking-about-context-for-ai-heres-what-most-companies-still-miss"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

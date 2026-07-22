@@ -1,0 +1,140 @@
+{
+  "category": "Global",
+  "timestamp": "2026-07-22_03-24",
+  "stories": [
+    {
+      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "烏克蘭總統澤倫斯基解除了武裝部隊總司令奧萊克桑德爾·西爾斯基的職務。此舉發生在國防部長米哈伊洛·費多羅夫被撤換引發抗議數天之後，西爾斯基的解職被視為對相關輿論反彈的回應。",
+      "judgment": "西爾斯基的解職標誌著烏克蘭高層軍事指揮架構的重大變動，顯示澤倫斯基政府正試圖透過人事調整來平息因國防部長去職而引發的內部不滿與公眾抗議。在戰爭持續的背景下，高頻率的軍事高層更迭可能影響前線指揮的連續性與部隊士氣，同時反映烏克蘭政府面臨的內部政治壓力已迫使總統採取果斷行動以穩定局勢。此舉也可能向國際盟友傳遞烏克蘭內部治理面臨挑戰的信號，進而影響後續軍事援助的決策節奏。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國總統特朗普宣布對加拿大進口商品徵收 50% 關稅，這標誌著北美鄰國之間貿易緊張局勢的重大升級。加拿大央行行長卡尼表示正在審視「所有選項」以應對此舉。",
+      "judgment": "特朗普宣布對加拿大徵收 50% 關稅，顯示北美貿易關係進入高度不確定階段。此舉可能引發加拿大對等反制，進一步擾亂跨邊境供應鏈，特別是汽車、能源與農業等關鍵產業。卡尼強調「所有選項」，暗示加拿大可能採取貨幣、財政或外交手段反擊，包括加元貶值以緩解出口壓力，或尋求與美國重新談判貿易條款。長期來看，若貿易戰持續，將削弱北美經濟整合，增加通脹風險，並可能迫使企業重新評估在兩國的生產佈局。此事件也凸顯全球貿易體系在政治因素干擾下的脆弱性，可能加速區域化供應鏈重組趨勢。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據BBC News報導，黎巴嫩軍隊表示部隊正在部署至「試點區域」，此舉發生在以色列軍隊撤出黎巴嫩一小部分被佔領土地之後。該行動是基於美國斡旋的協議，旨在結束以色列與真主黨之間的衝突期間以色列對黎巴嫩部分地區的佔領。",
+      "judgment": "黎巴嫩軍隊進入試點區域標誌著中東地緣政治緊張局勢可能出現轉折點。美國斡旋的協議若成功實施，將有助於緩解黎以邊境長期衝突，並為區域穩定創造條件。然而，真主黨與以色列之間的歷史恩怨深重，任何撤軍行動都可能面臨執行風險。此舉也可能影響美國在該地區的外交影響力，並為未來類似衝突提供調解範例。若協議持續推進，可能促使更多國際力量介入中東和平進程，但需密切關注各方實際行動是否與協議一致。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "數千人在義大利波隆那街頭抗議，要求為一名在週日死亡、被警方制伏的摩洛哥裔男子伸張正義。事件導致數十人受傷。",
+      "judgment": "波隆那的抗議活動顯示當地社會對警方執法程序的信任危機正在升溫。當公民在警方控制下死亡時，往往會引發大規模社會動盪，這不僅影響公共秩序，也可能迫使地方政府重新審視警察訓練與使用武力的規範。此類事件若未得到透明調查與妥善處理，可能進一步激化族群矛盾，並對義大利的社會穩定與國際形象造成負面影響。長期來看，這將推動司法改革與警察監督機制的強化需求。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國對伊朗發動新一輪打擊，前總統特朗普警告將對美軍士兵死亡事件進行報復。伊朗方面宣稱已襲擊兩艘位於霍爾木茲海峽的船隻，並攻擊了巴林和約旦境內的目標。",
+      "judgment": "此次衝突升級顯示中東地緣政治緊張局勢進一步惡化，可能對全球能源供應鏈造成直接衝擊。霍爾木茲海峽作為全球石油運輸的關鍵通道，若持續遭受襲擊，將推高國際油價並引發市場恐慌。美國與伊朗的對抗若擴大至區域盟友（如巴林、約旦），可能引發更廣泛的軍事介入，破壞區域穩定。此外，特朗普的報復警告暗示美國政策可能轉向更強硬的軍事回應，這將增加意外衝突風險，影響全球貿易路線安全及投資信心。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據BBC News報導，以色列軍隊在加薩的襲擊造成12人死亡，其中包括一個六口之家。遇難者為Firas al-Masri、其妻子及四名子女。以色列軍隊表示，此次襲擊的目標是一名哈馬斯行動人員。",
+      "judgment": "此次襲擊事件凸顯加薩衝突中平民傷亡的持續高風險，特別是針對被指稱與哈馬斯有關聯的目標所發動的軍事行動，往往導致附帶傷亡。六口之家遇難的案例可能加劇國際社會對以色列軍事行動比例原則的質疑，並可能影響未來外交談判的氛圍。若此類事件頻繁發生，將進一步削弱停火協議的可行性，並可能引發更多國際制裁或法律訴訟。此外，媒體對此類事件的報導將持續影響全球輿論，進而對區域穩定與人道援助工作產生深遠影響。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Two French firefighters die tackling blaze near Bordeaux airport",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "在波爾多-梅里尼亞克機場停車場附近發生火災，起火原因被指為灌木叢火災。兩名法國消防員在撲救過程中不幸殉職。",
+      "judgment": "此次事件凸顯機場周邊環境管理與消防安全的緊迫性。灌木叢火災在乾燥季節易於蔓延，對機場運作構成直接威脅，可能導致航班延誤或停飛，影響區域航空運輸效率。消防員殉職也反映出現場救援的高風險性，促使當局重新評估機場周邊植被清理頻率與防火緩衝區設置。長期而言，此類事故可能推動法國加強機場周邊生態管理法規，並增加消防資源投入，以平衡公共安全與運營成本。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
+      "url": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 MapBiomas 自 1985 年以來的記錄，2025 年巴西亞馬遜雨林被焚燒的土地面積降至歷史最低點，成為該紀錄開始以來面積最小的一年。",
+      "judgment": "2025 年亞馬遜雨林焚燒面積創下自 1985 年以來的歷史新低，這是一個極具指標性的環境轉折點。此數據表明過去數十年間針對森林保護、執法力度及國際壓力的政策可能已產生實質成效，有效遏制了大規模的毀林開墾行為。若此趨勢能持續，將顯著減緩全球溫室氣體排放，並有助於維持亞馬遜作為關鍵碳匯的生態功能。然而，單一年度的數據雖具鼓舞性，仍需觀察氣候變遷（如乾旱頻率）及農業擴張壓力是否會在未來年份導致反彈。此成就也凸顯了數據透明化（如 MapBiomas 系統）在環境監測與政策評估中的核心價值，為全球其他熱帶雨林保護區提供了可參考的治理範本。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Watch Texas police officer pull man from burning car",
+      "url": "https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "德克薩斯州一名警察在車身即將被火焰吞噬前的數秒內，將一名男子從燃燒的汽車中救出。這段救援過程由警用隨身攝影機和車載攝影機記錄下來。",
+      "judgment": "此事件展現了第一線執法人員在緊急狀況下的快速反應能力與勇氣，這類即時影像記錄不僅能作為執法過程的透明化證據，也有助於提升公眾對警察職業的正面認知。在當前社會對執法透明度要求日益提高的背景下，這類真實救援案例的公開傳播，有助於緩解部分民眾對警方的不信任感。然而，單一事件雖具正面意義，但不足以全面改變整體執法形象，仍需持續推動系統性改革與社區互動。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "What do people in middle-income countries think about cuts to U.S. humanitarian aid?",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/21/what-do-people-in-middle-income-countries-think-about-cuts-to-us-humanitarian-aid/",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "皮尤研究中心在 16 個中等收入國家進行調查，發現許多民眾不確定美國削減人道主義援助將如何影響他們，但在持有明確意見的受訪者中，傾向於負面看法。",
+      "judgment": "這項調查結果揭示了中等收入國家對美國外交政策變動的複雜態度。雖然不確定性普遍存在，顯示當地民眾可能缺乏關於援助具體流向與影響的資訊，但一旦形成觀點，負面情緒佔據主導，這暗示美國削減援助的舉措可能損害其在這些國家的軟實力與公眾形象。對於依賴美國援助或與美國有緊密外交關係的中等收入國家而言，這種潛在的民意反彈可能迫使當地政府重新評估與美國的戰略合作關係，或轉向尋求其他國際夥伴的支援。長期來看，若美國持續削減人道主義援助，可能會削弱其在全球治理中的道德權威，並為其他大國在這些地區擴大影響力創造空間。",
+      "used_source_urls": [
+        "https://www.pewresearch.org/short-reads/2026/07/21/what-do-people-in-middle-income-countries-think-about-cuts-to-us-humanitarian-aid/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "U.S. foreign aid is plunging in second Trump administration",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/21/us-foreign-aid-is-plunging-in-second-trump-administration/",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "根據皮尤研究中心數據，美國在 2025 會計年度的對外援助金額降至 473 億美元，經通膨調整後為二十多年來的最低水平。與前一年相比，援助金額大幅減少超過 240 億美元。",
+      "judgment": "美國對外援助在第二任特朗普政府期間出現斷崖式下跌，標誌著美國全球外交策略的重大轉向。這種劇烈縮減不僅反映了「美國優先」政策在財政預算上的具體落實，更可能嚴重削弱美國在關鍵地緣政治區域的影響力與軟實力。長期以來，對外援助是美國鞏固盟友關係、應對全球危機及推廣價值觀的重要工具，其急劇萎縮可能導致受援國轉向其他大國尋求支持，進而改變全球權力平衡。此外，這種政策變動也可能影響全球公共衛生、氣候變遷應對及人道救援體系的穩定性，迫使國際組織與其他國家填補資金缺口，重塑全球治理架構。",
+      "used_source_urls": [
+        "https://www.pewresearch.org/short-reads/2026/07/21/us-foreign-aid-is-plunging-in-second-trump-administration/"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

@@ -1,0 +1,284 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-07-22_03-24",
+  "stories": [
+    {
+      "title": "UK employer pay awards hold at 3.3%, Brightmine says",
+      "url": "https://www.investing.com/news/economic-indicators/uk-employer-pay-awards-hold-at-33-brightmine-says-4804440",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Brightmine 的數據，英國雇主的薪資調整幅度維持在 3.3%。此數據由 Investing.com Bonds 報導，反映了當前英國勞動力市場薪資增長的現狀。",
+      "judgment": "英國雇主薪資調整幅度穩定在 3.3%，顯示勞資雙方在薪資談判上達成某種程度的共識，未出現大幅波動。此現象可能反映英國經濟在通膨壓力下，企業對人力成本的控制趨於謹慎，同時員工對薪資增長的預期也相對理性。若此趨勢持續，將有助於緩解英國央行對薪資推動型通膨的擔憂，進而影響未來貨幣政策的走向。然而，若薪資增長未能與生產力提升同步，長期可能對企業利潤率造成壓力，進而影響投資意願與經濟成長動能。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/uk-employer-pay-awards-hold-at-33-brightmine-says-4804440"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Japan trade balance shrinks in June as high imports offset export strength",
+      "url": "https://www.investing.com/news/economic-indicators/japan-trade-balance-shrinks-in-june-as-high-imports-offset-export-strength-4804497",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "日本六月貿易收支因進口增加而縮小，儘管出口表現強勁，但高進口額抵消了出口優勢。",
+      "judgment": "日本六月貿易收支縮小反映進口成本上升對貿易平衡的壓力，儘管出口強勁顯示外部需求穩定，但能源或原材料進口增加可能壓縮貿易盈餘。此趨勢若持續，可能影響日圓匯率及日本央行貨幣政策走向，特別是若進口通膨壓力加劇，將限制寬鬆政策空間。長期來看，日本需提升出口產品附加值以抵消進口成本波動，並強化供應鏈韌性以應對全球貿易不確定性。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/japan-trade-balance-shrinks-in-june-as-high-imports-offset-export-strength-4804497"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "US, Mexico resume USMCA trade talks as Trump hits Canada with new tariffs",
+      "url": "https://www.investing.com/news/economic-indicators/us-mexico-resume-usmca-trade-talks-as-trump-hits-canada-with-new-tariffs-4802492",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國與墨西哥恢復了美國-墨西哥-加拿大協定（USMCA）的貿易談判，同時美國總統特朗普對加拿大實施了新的關稅措施。",
+      "judgment": "此舉顯示美國在貿易政策上採取分化策略，一方面透過恢復與墨西哥的 USMCA 談判以穩定北美供應鏈，另一方面對加拿大施加關稅壓力以作為談判籌碼。這種差異化處理可能導致北美貿易關係重組，墨西哥企業可能因談判進展獲得市場優勢，而加拿大出口商則面臨短期成本上升風險。長期來看，若談判未能達成共識，可能引發區域貿易摩擦升級，影響跨國投資決策與產業佈局。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/us-mexico-resume-usmca-trade-talks-as-trump-hits-canada-with-new-tariffs-4802492"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Crude Stock Surplus Surprises Markets, Defying Forecasts",
+      "url": "https://www.investing.com/news/economic-indicators/crude-stock-surplus-surprises-markets-defying-forecasts-93CH-4804250",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Bonds 報導，原油庫存意外出現盈餘，與市場預測的下降趨勢相反。此數據顯示原油供應量超過需求，導致庫存水平上升，出乎市場預期。",
+      "judgment": "原油庫存意外盈餘顯示當前市場供需關係出現鬆動，可能反映全球經濟活動放緩或產油國增產導致供應過剩。此現象可能壓制油價短期走勢，並影響能源板塊投資策略。若庫存持續累積，可能迫使 OPEC+ 重新評估減產政策，進而加劇市場波動。此外，此數據也暗示通膨壓力可能因能源成本下降而緩解，對聯準會利率決策產生潛在影響。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/crude-stock-surplus-surprises-markets-defying-forecasts-93CH-4804250"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "China’s foreign minister discusses trade balance with EU lawmakers",
+      "url": "https://www.investing.com/news/economic-indicators/chinas-foreign-minister-discusses-trade-balance-with-eu-lawmakers-4803206",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "中國外交部長與歐盟議員會面，雙方討論了貿易平衡議題。此次會談聚焦於中國與歐盟之間的貿易關係及相關經濟數據。",
+      "judgment": "中國與歐盟就貿易平衡進行高層對話，顯示雙方試圖緩解潛在的貿易摩擦。此舉可能有助於穩定跨區域供應鏈，並減少因貿易失衡導致的關稅或制裁風險。對債券市場而言，若雙方達成共識，將降低地緣政治不確定性，有利於新興市場債券的投資信心。然而，若談判未果，可能引發歐盟採取保護主義措施，進而影響中國出口導向型企業的營收與信用評級。長期來看，此類對話機制若常態化，將促進雙邊經貿規則的透明化，為全球貿易體系提供穩定預期。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/chinas-foreign-minister-discusses-trade-balance-with-eu-lawmakers-4803206"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Hormuz vessel crossings fall further as security concerns linger",
+      "url": "https://www.investing.com/news/commodities-news/hormuz-vessel-crossings-fall-further-as-security-concerns-linger-4804603",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Gold 報導，由於安全疑慮持續存在，通過霍爾木茲海峽的船舶通行量進一步下降。該新聞指出，地緣政治緊張局勢導致船隻避開該關鍵航道，進而影響全球能源運輸路線的穩定性。",
+      "judgment": "霍爾木茲海峽作為全球最重要的石油運輸通道之一，其船舶通行量的下降直接反映地緣政治風險對能源供應鏈的衝擊。此現象可能導致原油運輸成本上升，並推高國際油價波動風險。長期來看，若安全問題未能緩解，部分國家或企業可能加速尋找替代航線或增加戰略儲備，進而改變全球能源貿易格局。此外，保險費用可能隨之調升，進一步增加運輸成本。此趨勢對依賴進口能源的經濟體構成潛在威脅，需密切關注後續地緣政治發展及國際協調機制是否能有效緩解危機。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/hormuz-vessel-crossings-fall-further-as-security-concerns-linger-4804603"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Gold climbs above $4,100/oz amid M.East tensions, rate uncertainty",
+      "url": "https://www.investing.com/news/commodities-news/gold-climbs-above-4100-as-middle-east-tensions-underpin-prices-4804558",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "黃金價格在東中東緊張局勢加劇及利率不確定性的背景下，突破每盎司 4,100 美元大關。市場動能主要受到地緣政治風險升溫的支撐，投資者對避險資產的需求顯著增加。",
+      "judgment": "黃金突破 4,100 美元關口標誌著其作為避險資產的吸引力在當前宏觀環境下達到新高。中東局勢的不穩定性直接推升了市場對衝突擴大的擔憂，促使資金快速流向黃金等傳統避險工具。同時，全球主要央行的利率政策前景不明朗，削弱了持有無息資產黃金的机会成本壓力，進一步強化了多頭動能。此輪漲勢若持續，可能引發技術性買盤跟進，並對美元指數形成額外壓力。然而，若地緣政治風險降溫或聯準會釋放明確的鷹派信號，黃金可能面臨短期回調風險。長期來看，黃金在組合中的配置價值將因全球不確定性增加而持續提升。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/gold-climbs-above-4100-as-middle-east-tensions-underpin-prices-4804558"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil rises for 4th day as U.S.-Iran conflict, Saudi blockade fuel supply fears",
+      "url": "https://www.investing.com/news/commodities-news/oil-rises-for-4th-day-as-usiran-conflict-saudi-blockade-fuel-supply-fears-4804517",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "油價連續第四日上漲，主要受美國與伊朗衝突升級以及沙烏地阿拉伯可能實施封鎖引發的燃料供應擔憂驅動。市場對中東地緣政治緊張局勢加劇導致原油供應鏈中斷的風險感到焦慮，推動投資者買入避險資產。",
+      "judgment": "油價連續四日上漲反映市場對中東地緣政治風險的高度敏感，特別是美國與伊朗對峙及沙烏地阿拉伯潛在封鎖行動可能嚴重衝擊全球能源供應鏈。此類事件通常會引發短期價格波動加劇，並促使交易員重新評估風險溢價。若衝突持續或擴大，可能導致原油供應實質減少，進而推高全球通膨壓力，影響各國經濟政策與能源轉型進程。長期而言，此類地緣政治不穩定將加速各國對能源多元化的需求，包括增加戰略儲備與發展替代能源。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-rises-for-4th-day-as-usiran-conflict-saudi-blockade-fuel-supply-fears-4804517"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil prices rise slightly after US announces new round of strikes on Iran",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-slightly-after-us-announces-new-round-of-strikes-on-iran-4804503",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國宣布對伊朗發動新一輪打擊行動，此消息導致油價小幅上漲。該新聞由 Investing.com Gold 報導，標題明確指出油價因美國對伊朗的軍事行動而上升。",
+      "judgment": "美國對伊朗的軍事打擊行動直接觸發了地緣政治風險溢價，推動油價上漲。此類衝突通常會引發市場對中東石油供應中斷的擔憂，進而導致期貨價格波動。若衝突升級或持續，可能進一步壓縮全球原油供應，加劇價格上漲壓力。然而，油價的實際走勢還取決於衝突規模、伊朗的回應措施以及全球需求狀況。投資者需密切關注後續發展，以評估對能源市場及相關產業的長期影響。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-prices-rise-slightly-after-us-announces-new-round-of-strikes-on-iran-4804503"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "War in Iran has cost the US $37.5 billion so far, Pentagon says",
+      "url": "https://www.investing.com/news/commodities-news/us-war-in-iran-has-cost-375-billion-so-far-pentagon-says-4804294",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國國防部表示，美國在伊朗的戰爭迄今已耗資375億美元。此消息由Investing.com Gold報導，並引用自五角大廈的官方聲明。",
+      "judgment": "美國在伊朗戰爭的龐大開支（375億美元）顯示地緣政治衝突對國家財政的長期負擔，可能影響國防預算分配與全球軍事部署策略。此類高成本戰爭可能加劇美國財政赤字，進而影響美元匯率與全球資本流動。同時，戰爭持續可能推升能源價格波動，因中東地區為全球石油供應關鍵區域，進而影響全球通膨與產業成本結構。此外，此事件可能促使各國重新評估國防投資與能源安全策略，加速能源轉型或區域合作機制。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/us-war-in-iran-has-cost-375-billion-so-far-pentagon-says-4804294"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil climbs on continued U.S.-Iran fighting, Houthi threat to Red Sea shipping",
+      "url": "https://www.investing.com/news/commodities-news/oil-holds-gains-as-traders-weigh-usiran-conflict-houthi-saudi-blockade-4801811",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "油價因美國與伊朗持續衝突以及胡塞武裝威脅紅海航運而上漲。交易員正在評估地緣政治風險對全球石油供應的影響。",
+      "judgment": "地緣政治緊張局勢，特別是美國與伊朗的衝突以及胡塞武裝對紅海航運的威脅，直接推升了原油價格。紅海作為全球關鍵的能源運輸通道，其安全風險可能導致航運成本上升或供應中斷，進而加劇市場對供應短缺的擔憂。此類地緣政治事件通常會引發投機性買盤，推動油價短期內波動加劇。長期來看，若衝突持續或擴大，可能對全球能源供應鏈造成更深遠的影響，促使各國加速能源多元化策略。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-holds-gains-as-traders-weigh-usiran-conflict-houthi-saudi-blockade-4801811"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "US states, New York City sue EPA for relaxing climate rule over hydrofluorocarbons",
+      "url": "https://www.investing.com/news/commodities-news/us-states-new-york-city-sue-epa-for-relaxing-climate-rule-over-hydrofluorocarbons-4804183",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國多個州份及紐約市對美國環境保護署（EPA）提起訴訟，指控該機構放寬了關於氫氟碳化物（HFCs）的氣候法規。此舉引發了地方政府與聯邦監管機構之間在環境政策執行上的法律衝突。",
+      "judgment": "此次訴訟標誌著美國氣候政策在聯邦與地方層面的緊張關係升級。氫氟碳化物作為強效溫室氣體，其監管鬆綁可能延緩全球減排進程，並對制冷、空調等依賴 HFCs 的產業鏈造成不確定性。地方政府透過法律途徑反制聯邦政策，顯示出氣候治理的碎片化趨勢，可能迫使企業在跨州營運時面臨更複雜的合規成本。長期來看，若訴訟成功，將強化地方在氣候議題上的主導權，並可能推動更嚴格的替代技術（如天然冷媒）投資；反之，若 EPA 勝訴，則可能削弱全球對美國氣候承諾的信心，影響綠色金融流向。此事件亦凸顯政策波動對大宗商品市場（如冷媒替代品）的潛在衝擊，投資者需密切關注訴訟結果及後續法規動態。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/us-states-new-york-city-sue-epa-for-relaxing-climate-rule-over-hydrofluorocarbons-4804183"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "ICE canola futures fall as traders lock in profits",
+      "url": "https://www.investing.com/news/commodities-news/ice-canola-futures-fall-as-traders-lock-in-profits-93CH-4804193",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Gold 報導，ICE 油菜籽期貨價格下跌，原因是交易員選擇獲利了結。",
+      "judgment": "油菜籽期貨價格因交易員獲利了結而下跌，顯示市場短期內可能面臨獲利回吐壓力。此現象通常發生在價格經歷上漲後，投資者傾向鎖定利潤，導致賣壓增加。若此趨勢持續，可能反映市場對未來供需基本面或宏觀經濟環境的謹慎態度，進而影響相關農業產業的定價策略與庫存管理。長期來看，若基本面未顯著改善，價格波動可能加劇，需密切關注後續供需數據與天氣狀況。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/ice-canola-futures-fall-as-traders-lock-in-profits-93CH-4804193"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Iraq’s oil minister says US energy deals worth about $200 billion",
+      "url": "https://www.investing.com/news/commodities-news/iraqs-oil-minister-says-us-energy-deals-worth-about-200-billion-4804099",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "伊拉克石油部長表示，美國與伊拉克之間的能源交易總價值約為 2000 億美元。此消息由 Investing.com Gold 報導，標題明確指出伊拉克石油部長關於美國能源交易價值的聲明。",
+      "judgment": "伊拉克與美國之間高達 2000 億美元的能源交易協議，顯示出兩國在能源領域的緊密合作關係。此類大規模投資將有助於伊拉克提升石油產能、改善基礎設施，並吸引國際資本進入其中東能源市場。對美國而言，這不僅強化了其在中東的能源影響力，也可能促進相關技術與服務出口。然而，如此龐大的交易規模也意味著地緣政治風險與執行挑戰，包括當地安全局勢、政策穩定性以及國際油價波動等因素，都可能影響最終成效。長期來看，若協議順利落實，將對全球石油供應格局產生顯著影響，並可能重塑中東地區的能源權力平衡。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/iraqs-oil-minister-says-us-energy-deals-worth-about-200-billion-4804099"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Silver nears $60-$61 bull trap zone: Live hourly levels",
+      "url": "https://www.investing.com/news/commodities-news/silver-stalls-below-5830-resistance-live-hourly-levels-93CH-4801554",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Gold 報導，白銀價格正接近 60 至 61 美元的區間，該區域被視為潛在的「多頭陷阱」區域。目前白銀在 58.30 美元阻力位下方停滯，市場正關注小時級別的技術走勢以確認價格是否會突破或反轉。",
+      "judgment": "白銀價格逼近 60 至 61 美元關鍵區間，顯示市場情緒極度樂觀，但技術面阻力顯著。若價格無法有效突破 58.30 美元並站穩，該區間可能成為多頭陷阱，引發獲利了結賣壓。此現象反映投資者對貴金屬避險需求與通膨預期的高度關注，但也暗示短期波動風險加劇。若白銀最終未能突破阻力，可能導致技術性回調，影響相關礦業股及 ETF 資金流向。長期而言，若宏觀經濟數據支持通膨黏性，白銀仍具上漲潛力，但短期需謹慎對待技術反轉訊號。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/silver-stalls-below-5830-resistance-live-hourly-levels-93CH-4801554"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Trump vows to attack Iranian nuclear facility as Middle East war escalates",
+      "url": "https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "特朗普誓言攻擊伊朗核設施，中東戰爭升級。高盛警告，若霍爾木茲海峽持續中斷，油價可能飆升至每桶 120 美元。",
+      "judgment": "特朗普對伊朗核設施的軍事威脅標誌著中東地緣政治風險顯著升溫，可能引發區域衝突擴大化。霍爾木茲海峽作為全球約 20% 石油運輸的關鍵通道，一旦因軍事行動受阻，將直接衝擊全球能源供應鏈。高盛預測油價飆升至 120 美元/桶，反映市場對供應中斷的極端擔憂。此情境下，能源成本上升將推高全球通脹壓力，迫使主要央行延後降息週期，進而抑制經濟增長。此外，地緣政治不確定性可能加速能源轉型進程，促使各國加速儲備戰略石油及投資替代能源。長期而言，中東局勢動盪將重塑全球能源貿易格局，強化區域外能源供應來源的戰略地位。",
+      "used_source_urls": [
+        "https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Investors fear Japanese bond bets risk becoming new ‘widow-maker trade’",
+      "url": "https://www.ft.com/content/7143bee9-07fc-45ab-99c9-00ae2559e724?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Financial Times Markets 報導，投資者擔憂日本債券投機可能成為新的「寡婦製造者交易」。儘管日本政府債券收益率大幅上升吸引部分交易員進場，但許多市場參與者對日本財政前景仍持謹慎態度。",
+      "judgment": "日本債券收益率的顯著上升反映了市場對日本央行可能進一步收緊貨幣政策的預期，但也凸顯了投資者對日本龐大公共債務可持續性的深層焦慮。若收益率持續攀升，將大幅增加日本政府的借貸成本，可能迫使財政政策調整或引發市場對債務違約風險的重新定價。此趨勢若惡化，可能重演過去「寡婦製造者交易」的劇烈波動，導致全球資產價格連鎖反應，特別是對依賴低利率環境的新興市場與高槓桿機構構成威脅。此外，日本作為全球主要債權國，其債券市場動盪可能引發資本外流，進一步壓抑日圓匯率並加劇輸入性通膨壓力。",
+      "used_source_urls": [
+        "https://www.ft.com/content/7143bee9-07fc-45ab-99c9-00ae2559e724?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Trump taps Big Tech critic as chief of DoJ antitrust division",
+      "url": "https://www.ft.com/content/9cff12a5-db1f-4a70-b048-87428c181dbd?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "特朗普任命大科技批評者 Adam Candeub 擔任美國司法部反壟斷部門主管。Candeub 曾撰寫「2025 計劃」章節，呼籲對美國競爭執法進行全面改革。",
+      "judgment": "此任命標誌著美國反壟斷政策可能迎來重大轉向。Candeub 作為大科技公司的長期批評者，其背景顯示新政府可能採取更強硬的態度對付科技巨頭。他參與撰寫的「2025 計劃」主張徹底重組競爭執法體系，暗示未來可能出現針對大型科技公司的訴訟浪潮或監管框架重構。這將對科技行業的併購策略、市場擴張計劃及合規成本產生深遠影響，可能迫使企業重新評估其商業模式以適應更嚴格的監管環境。",
+      "used_source_urls": [
+        "https://www.ft.com/content/9cff12a5-db1f-4a70-b048-87428c181dbd?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "The forecast for prediction markets",
+      "url": "https://www.ft.com/content/8538d586-6ddd-4cf2-b310-c83481e573e2?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Financial Times Markets 報導了關於預測市場平台的前景分析，探討這些平台是否具備實用性或存在危險性。該報導標題為「預測市場的前景」，並提出核心問題：這些平台究竟是有益的還是危險的？",
+      "judgment": "預測市場平台正處於產業發展的關鍵十字路口，其價值取決於監管框架與技術應用的平衡。若平台能有效整合真實數據並提供準確的機率預測，將成為企業決策與風險管理的重要工具，提升市場效率。然而，若缺乏適當監管，可能引發操縱市場、資訊不對稱或非法賭博等風險，對金融穩定構成威脅。產業未來發展需依賴透明機制與合規設計，以確保其從邊緣實驗轉向主流應用。",
+      "used_source_urls": [
+        "https://www.ft.com/content/8538d586-6ddd-4cf2-b310-c83481e573e2?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Kalshi seeks approval for perpetual precious metal contracts",
+      "url": "https://www.ft.com/content/053077e1-ad9d-4d81-ac58-56c0dc6b7335?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Kalshi 已向監管機構申請批准推出永續貴金屬合約。此舉標誌著該預測平台正從單純的事件預測市場，轉型為提供傳統金融產品的平台，旨在挑戰傳統交易所的市場地位。",
+      "judgment": "Kalshi 申請永續貴金屬合約顯示美國預測市場平台正加速向主流金融衍生品領域滲透。此舉若獲批准，將打破預測平台僅限於事件結果賭注的傳統框架，使其具備與傳統交易所（如 CME 或 COMEX）直接競爭的能力。永續合約設計能提供更靈活的風險管理工具，吸引機構投資者進入，可能重塑貴金屬對沖市場結構。然而，監管機構對其合規性與市場穩定性的審查將是關鍵變數，若成功，將加速預測平台與傳統金融基礎設施的融合，並可能引發其他平台跟進，擴大此類創新產品的市場規模。",
+      "used_source_urls": [
+        "https://www.ft.com/content/053077e1-ad9d-4d81-ac58-56c0dc6b7335?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "IEA warns of risk to energy supplies from escalation of Iran conflict",
+      "url": "https://www.ft.com/content/8d98a654-3ccb-4efc-b0f5-50301ac35a18?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "國際能源署（IEA）警告，伊朗衝突若升級將威脅能源供應。該政府間機構指出市場對 refined products（精煉產品）供應緊繃的情況不容忽視，並強調當前局勢下「沒有自滿的空間」。",
+      "judgment": "IEA 的警告凸顯地緣政治風險對全球能源供應鏈的即時衝擊。伊朗作為中東關鍵產油國，其衝突升級可能直接干擾石油開採、運輸或精煉設施，進而加劇全球精煉產品（如汽油、柴油）的供應短缺。當前市場已呈現供應緊繃狀態，任何進一步的斷供風險都可能引發油價劇烈波動，並推升通膨壓力。此情況將迫使消費國加速戰略儲備釋放或尋求替代來源，同時可能加速能源轉型進程以減少對中東石油的依賴。長期來看，地緣政治不穩定將持續成為能源市場的主要變數，影響投資決策與供應鏈韌性規劃。",
+      "used_source_urls": [
+        "https://www.ft.com/content/8d98a654-3ccb-4efc-b0f5-50301ac35a18?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Saudi tankers reverse course after Houthi threats",
+      "url": "https://www.ft.com/content/6e28eae4-cd7b-48e8-ae5e-d555de88f428",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "至少四艘油輪在葉門胡塞武裝發出威脅後改變航向，紅海航運面臨新的安全威脅。",
+      "judgment": "胡塞武裝對紅海航運的持續威脅已迫使多艘油輪緊急調頭，顯示該區域航線的不穩定性加劇。此事件可能導致全球能源供應鏈成本上升，因船隻需繞行好望角以避開紅海，增加航程時間與燃料消耗。長期而言，若紅海航運風險持續，將促使更多能源貿易轉向其他路線或增加保險費用，進而影響全球油價波動。此外，地緣政治緊張局勢可能進一步惡化，影響國際航運公司的營運策略與投資決策。",
+      "used_source_urls": [
+        "https://www.ft.com/content/6e28eae4-cd7b-48e8-ae5e-d555de88f428"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Kazakhstan stops sending oil to key Russian terminal after Ukrainian tanker attacks",
+      "url": "https://www.ft.com/content/4b3ad003-07dd-4b82-a9ac-4bf6e7028844?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈薩克斯坦因烏克蘭對油輪的襲擊事件，已停止向俄羅斯關鍵終端輸送石油。此舉導致CPC管線關閉，可能使市場每日減少約100萬桶的石油供應。",
+      "judgment": "哈薩克斯坦停止經CPC管線向俄羅斯輸油，將直接削減全球石油市場約100萬桶/日的供應量，加劇地緣政治風險對能源供應鏈的衝擊。此事件凸顯黑海及里海區域運輸路線的脆弱性，可能推升國際油價波動，並促使買家加速尋找替代來源或調整物流路線。長期而言，中亞產油國可能重新評估對俄能源依賴，轉向多元化出口策略以增強韌性。",
+      "used_source_urls": [
+        "https://www.ft.com/content/4b3ad003-07dd-4b82-a9ac-4bf6e7028844?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

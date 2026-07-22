@@ -1,0 +1,39 @@
+{
+  "category": "AI",
+  "timestamp": "2026-07-22_03-24",
+  "stories": [
+    {
+      "title": "Introducing the ChatGPT for small business program",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "OpenAI 正式推出「ChatGPT for Small Businesses」計劃，旨在協助創業者培養 AI 技能、自動化工作流程，並透過 ChatGPT Work 工具促進業務成長。",
+      "judgment": "OpenAI 此次針對小型企業推出專屬計劃，標誌著生成式 AI 應用從大型企業與開發者生態系，正式下沉至更廣泛的中小微企業市場。此舉不僅降低了中小企業採用 AI 技術的門檻，透過提供技能培訓與自動化解決方案，直接解決了該群體在資源與技術人才上的痛點。長期來看，這將加速 AI 在零售、服務業等傳統行業的滲透率，促使小型企業營運效率大幅提升，同時也可能重塑市場競爭格局，使善用 AI 工具的中小企業能與大型企業在效率層面展開更公平的競爭。此外，ChatGPT Work 的推出顯示 OpenAI 正積極構建垂直應用場景，將通用大模型轉化為具體的生產力工具，這將進一步鞏固其在企業級服務市場的領導地位。",
+      "used_source_urls": [
+        "https://openai.com/index/introducing-chatgpt-small-business-program"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "Hugging Face 發布了一篇標題為「The State of Simulation for Physical AI: An Overview」的文章，該文章由 NVIDIA 撰寫，探討物理 AI 模擬的現狀。文章連結為 https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai，內容聚焦於物理 AI 領域中模擬技術的發展與應用概況。",
+      "judgment": "物理 AI 的模擬技術正成為推動機器人與自動化系統發展的關鍵基礎。隨著 NVIDIA 等企業投入資源，模擬環境的真實度與效率大幅提升，有助於加速 AI 模型在現實世界中的部署。此趨勢顯示產業正從純軟體模擬轉向結合物理引擎的高保真模擬，以解決複雜的互動問題。未來，模擬技術將成為訓練物理 AI 的核心工具，並可能重塑機器人開發流程，降低實體測試成本與風險。",
+      "used_source_urls": [
+        "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [
+    {
+      "title": "Better design than Fable",
+      "url": "https://www.bensbites.com/p/better-design-than-fable",
+      "tier": 3,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": false
+}
