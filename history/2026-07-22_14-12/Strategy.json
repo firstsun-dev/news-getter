@@ -1,0 +1,68 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-07-22_14-12",
+  "stories": [
+    {
+      "title": "Powering supply chain with agentic AI",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/powering-supply-chain-with-agentic-ai",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "麥肯錫指出，代理式人工智慧（Agentic AI）可能根本性地重塑供應鏈營運，但企業若要實現其潛力，必須超越孤立的應用案例，並協調人員、流程與技術之間的工作。",
+      "judgment": "代理式人工智慧在供應鏈領域的應用標誌著從單一自動化任務向自主決策系統的轉變。然而，技術本身並非萬能，其成功取決於企業能否打破部門孤島，將 AI 能力整合至整體營運架構中。若僅停留在零散的試點專案，將無法發揮其規模效應與協同價值。企業需重新設計流程，建立人機協作的新型態，並投資於能支援跨系統溝通的技術基礎設施。這將是未來供應鏈競爭力的關鍵分水嶺，未能及時轉型者可能面臨效率落後與成本劣勢。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/capabilities/operations/our-insights/powering-supply-chain-with-agentic-ai"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Evolving model risk management in the age of AI",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/evolving-model-risk-management-in-the-age-of-ai",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "麥肯錫近期調查顯示，銀行業正在演進模型風險管理（MRM）策略，透過強化韌性、推動更自信的 AI 採用，並將模型風險管理轉化為可靠的價值創造來源。",
+      "judgment": "銀行業正將模型風險管理從單純的合規負擔轉變為戰略資產。隨著 AI 技術的普及，傳統靜態的風險控制框架已無法應對動態且複雜的演算法風險。調查指出，成功的銀行正透過建立更具韌性的監控機制，降低對 AI 模型的誤用風險，從而釋放大規模採用 AI 的潛力。這種轉變不僅能提升決策效率，更能將模型風險管理轉化為直接的價值創造來源，例如優化信貸評分或反欺詐系統。未來，具備成熟 MRM 框架的金融機構將在 AI 驅動的市場競爭中佔據顯著優勢，而未能及時調整風險管理策略的機構則可能面臨監管罰款與市場信任流失的雙重打擊。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/evolving-model-risk-management-in-the-age-of-ai"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Becoming an AI-native telco: Indosat Ooredoo Hutchison reimagines the telecom of the future",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/becoming-an-ai-native-telco-indosat-ooredoo-hutchison-reimagines-the-telecom-of-the-future",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "印尼第二大電信運營商Indosat Ooredoo Hutchison將複雜的合併轉型為增長平台，重塑了決策方式、員工工作模式，並在全企業範圍內利用AI創造可衡量的價值。",
+      "judgment": "Indosat Ooredoo Hutchison的案例標誌著電信產業從傳統運營模式向AI原生（AI-native）架構的關鍵轉型。該運營商成功將合併後的整合挑戰轉化為戰略優勢，透過深度整合AI技術優化內部決策流程與員工協作模式，這不僅提升了運營效率，更確立了數據驅動的文化。此舉顯示未來電信競爭力的核心將取決於企業能否將AI從輔助工具升級為核心運營基礎設施，從而實現可量化的商業價值。這種轉型路徑為其他面臨併購整合或數位化瓶頸的電信業者提供了重要範本，預示著產業將加速淘汰依賴人工經驗的舊有模式，轉向以演算法與自動化為驅動的敏捷運營體系。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/becoming-an-ai-native-telco-indosat-ooredoo-hutchison-reimagines-the-telecom-of-the-future"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Model the Transformation You Expect Employees to Deliver",
+      "url": "http://feeds.harvardbusiness.org/2026/07/model-the-transformation-you-expect-employees-to-deliver",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據哈佛商業評論報導，員工傾向於跟隨領導者的實際行為而非其口頭言論。該文章標題為「Model the Transformation You Expect Employees to Deliver」，強調領導者必須以身作則才能推動組織轉型。",
+      "judgment": "在組織變革管理中，領導者的行為示範比口號更具影響力。當企業推動數位轉型或文化重塑時，若高層僅停留在政策宣示而未展現相應行為，將導致員工信任流失與執行落差。此現象凸顯了變革領導力的核心挑戰：領導者需先成為變革的典範，才能有效驅動組織成員跟進。這也意味著企業在規劃轉型策略時，應將領導行為納入關鍵績效指標，並建立相應的監督與反饋機制，以確保言行一致。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/07/model-the-transformation-you-expect-employees-to-deliver"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "When Employees Are Held Accountable for AI-Generated Decisions",
+      "url": "http://feeds.harvardbusiness.org/2026/07/when-employees-are-held-accountable-for-ai-generated-decisions",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論的研究指出，當員工需為 AI 生成的決策負責時，他們會主動詮釋、重塑並掩飾 AI 的決定，以保護自身信譽並滿足利害關係人的期望。",
+      "judgment": "此現象揭示 AI 導入職場後的人機協作新挑戰：員工並非被動執行者，而是積極的「意義建構者」。當組織要求人類對演算法結果負責時，員工為規避風險與維持專業形象，可能扭曲 AI 輸出，導致決策透明度下降與責任歸屬模糊。長期而言，這可能削弱 AI 系統的真實效能，並引發倫理與合規風險。企業需重新設計問責機制，區分「決策建議」與「最終裁量」，並建立透明審計軌跡，避免員工因恐懼而掩飾 AI 行為。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/07/when-employees-are-held-accountable-for-ai-generated-decisions"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
