@@ -7,6 +7,7 @@ __pycache__/
 raw_content.txt
 summary_raw.md
 data/news.db
+.env
 
 .claude/
 

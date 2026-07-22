@@ -6,9 +6,17 @@ import re
 import shutil
 import datetime
 import time
+import asyncio
+import sys
 
+# Load .env file
+from dotenv import load_dotenv
+load_dotenv()
+
+import aiohttp
 import requests
 from pydantic import BaseModel, Field, HttpUrl, ValidationError
+from tqdm import tqdm
 
 from src.scoring import score_story, qualifies_for_deep_analysis
 
@@ -77,11 +85,68 @@ def parse_digest(raw_text: str, allowed_urls: set[str]):
 
 
 QWEN_BASE_URL = os.environ.get("QWEN_BASE_URL", "http://firstsun-nas:14000/v1")
-QWEN_API_KEY = os.environ.get("QWEN_API_KEY", "sk-HFyxxe83XuNhbz9BvyYo7g")
+QWEN_API_KEY = os.environ.get("QWEN_API_KEY")
 QWEN_MODEL = os.environ.get("QWEN_MODEL", "delta/qwen3.5-112B")
-QWEN_TIMEOUT = float(os.environ.get("QWEN_TIMEOUT", "180"))
+QWEN_TIMEOUT = int(os.environ.get("QWEN_TIMEOUT", "90"))
 QWEN_MAX_RETRIES = int(os.environ.get("QWEN_MAX_RETRIES", "3"))
 QWEN_RETRY_BACKOFF = float(os.environ.get("QWEN_RETRY_BACKOFF", "2"))
+QWEN_MAX_PARALLEL = int(os.environ.get("QWEN_MAX_PARALLEL", "3"))
+
+
+async def run_qwen_async(session, prompt, story_title, semaphore):
+    """Call the local Qwen endpoint asynchronously with progress output."""
+    async with semaphore:
+        url = QWEN_BASE_URL.rstrip("/") + "/chat/completions"
+        headers = {
+            "Authorization": f"Bearer {QWEN_API_KEY}",
+            "Content-Type": "application/json",
+        }
+        payload = {
+            "model": QWEN_MODEL,
+            "messages": [{"role": "user", "content": prompt}],
+            "stream": False,
+            "temperature": 0.2,
+        }
+
+        last_reason = ""
+        for attempt in range(1, QWEN_MAX_RETRIES + 1):
+            try:
+                async with session.post(url, headers=headers, json=payload, timeout=aiohttp.ClientTimeout(total=QWEN_TIMEOUT)) as resp:
+                    if resp.status != 200:
+                        last_reason = f"HTTP {resp.status}"
+                        if attempt < QWEN_MAX_RETRIES:
+                            delay = QWEN_RETRY_BACKOFF ** attempt
+                            await asyncio.sleep(delay)
+                        continue
+                    
+                    raw = await resp.text()
+                    data = json.loads(raw)
+                    content = data["choices"][0]["message"]["content"]
+            except (aiohttp.ClientError, asyncio.TimeoutError, json.JSONDecodeError, KeyError) as e:
+                last_reason = str(e)[:100]
+                if attempt < QWEN_MAX_RETRIES:
+                    delay = QWEN_RETRY_BACKOFF ** attempt
+                    await asyncio.sleep(delay)
+                continue
+            
+            content = (content or "").strip()
+            if not content:
+                last_reason = "空回應"
+                if attempt < QWEN_MAX_RETRIES:
+                    delay = QWEN_RETRY_BACKOFF ** attempt
+                    await asyncio.sleep(delay)
+                continue
+            
+            # 清理 AI 加上去的 code block
+            if content.startswith("```"):
+                content = "\n".join(content.splitlines()[1:-1]) if content.endswith("```") else "\n".join(content.splitlines()[1:])
+            print(f"    ✓ {story_title[:40]}... 完成")
+            sys.stdout.flush()
+            return content
+
+        print(f"    ✗ {story_title[:40]}... 失敗：{last_reason}")
+        sys.stdout.flush()
+        return ""
 
 
 def run_qwen(prompt):
@@ -218,6 +283,8 @@ def process_category(category, articles, base_dir, timestamp):
     headline_stories = []
     story_records = []
 
+    # Separate stories that need AI vs those that don't
+    stories_to_analyze = []
     for fp, story in stories.items():
         tiers = [s["tier"] for s in story["sources"]]
         distinct_sources = len({s["name"] for s in story["sources"]})
@@ -225,33 +292,47 @@ def process_category(category, articles, base_dir, timestamp):
 
         if not qualifies_for_deep_analysis(scores):
             headline_stories.append(story)
-            continue
+        else:
+            stories_to_analyze.append((fp, story, scores))
 
-        allowed_urls = {art["link"] for art in story["articles"]}
-        prompt = build_prompt_deep(story, allowed_urls)
-        raw_response = run_qwen(prompt)
+    # Process AI stories in parallel with progress bar
+    if stories_to_analyze:
+        semaphore = asyncio.Semaphore(QWEN_MAX_PARALLEL)
+        
+        async def analyze_story(fp, story, scores):
+            allowed_urls = {art["link"] for art in story["articles"]}
+            prompt = build_prompt_deep(story, allowed_urls)
+            
+            async with aiohttp.ClientSession() as session:
+                raw_response = await run_qwen_async(session, prompt, story["title"], semaphore)
+            
+            if not raw_response:
+                logging.warning("Qwen 無回應，story 降級為速報：%s", story["title"])
+                headline_stories.append(story)
+                return
+            
+            digest, reason = parse_digest(raw_response, allowed_urls)
+            if digest is None:
+                logging.warning("Story 被丟棄（%s）: %s", reason, story["title"])
+                headline_stories.append(story)
+                return
+            
+            deep_blocks.append(render_story_block(story["title"], digest, scores))
+            story_records.append(StoryRecord(
+                title=story["title"],
+                url=story["articles"][0]["link"] if story["articles"] else None,
+                confidence=scores["confidence"],
+                heat=scores["heat"],
+                fact_summary=digest.fact_summary,
+                judgment=digest.judgment,
+                used_source_urls=[str(u) for u in digest.used_source_urls],
+            ))
 
-        if not raw_response:
-            logging.warning("Qwen 無回應，story 降級為速報: %s", story["title"])
-            headline_stories.append(story)
-            continue
+        async def run_all():
+            tasks = [analyze_story(fp, story, scores) for fp, story, scores in stories_to_analyze]
+            await asyncio.gather(*tasks)
 
-        digest, reason = parse_digest(raw_response, allowed_urls)
-        if digest is None:
-            logging.warning("Story 被丟棄（%s）: %s", reason, story["title"])
-            headline_stories.append(story)
-            continue
-
-        deep_blocks.append(render_story_block(story["title"], digest, scores))
-        story_records.append(StoryRecord(
-            title=story["title"],
-            url=story["articles"][0]["link"] if story["articles"] else None,
-            confidence=scores["confidence"],
-            heat=scores["heat"],
-            fact_summary=digest.fact_summary,
-            judgment=digest.judgment,
-            used_source_urls=[str(u) for u in digest.used_source_urls],
-        ))
+        asyncio.run(run_all())
 
     body_parts = []
     if deep_blocks:
@@ -306,15 +387,18 @@ def summarize_all():
 
     category_bodies = {}
     successful = 0
-    for category in sorted_categories:
+    total_cats = len(sorted_categories)
+    for idx, category in enumerate(sorted_categories, 1):
         articles = categorized_data[category]
-        print(f"正在處理分類: {category} ({len(articles)} 篇文章)...")
+        print(f"[{idx}/{total_cats}] 正在處理分類：{category} ({len(articles)} 篇文章)...")
         try:
             body, _archive = process_category(category, articles, base_dir, timestamp)
             category_bodies[category] = body
             successful += 1
+            print(f"[{idx}/{total_cats}] ✓ {category} 完成")
         except Exception as e:
             logging.exception("分類 %s 處理失敗: %s", category, e)
+            print(f"[{idx}/{total_cats}] ✗ {category} 失敗：{e}")
 
     if successful < MIN_CATEGORIES_PER_RUN:
         logging.error("只成功 %d 個分類（門檻 %d），整個 run 作廢並移除 %s", successful, MIN_CATEGORIES_PER_RUN, base_dir)

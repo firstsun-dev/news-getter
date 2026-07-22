@@ -5,3 +5,6 @@ feedgen
 markdown
 requests
 pydantic
+python-dotenv
+aiohttp
+tqdm
