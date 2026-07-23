@@ -1,0 +1,68 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-07-23_14-22",
+  "stories": [
+    {
+      "title": "Can China dominate AI exports, too?",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/23/can-china-dominate-ai-exports-too",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "The Economist 發表文章探討中國是否能在 AI 出口領域取得主導地位，並以無人計程車（Robotaxis）作為早期測試案例。",
+      "judgment": "無人計程車作為 AI 技術商業化的重要場景，成為評估中國 AI 出口潛力的關鍵指標。若中國能在此領域實現規模化應用並輸出技術標準，將有助於其在全球 AI 產業鏈中建立競爭優勢。然而，技術成熟度、法規環境及國際市場接受度仍是影響其出口擴張的主要變數。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/07/23/can-china-dominate-ai-exports-too"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "A brief history of Luddism",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/23/a-brief-history-of-luddism",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "The Economist 發表題為「A brief history of Luddism」的文章，指出國家最終決定技術採用的速度。",
+      "judgment": "文章強調政府在技術採用進程中的核心角色，這意味著技術進步並非完全由市場或企業主導，而是受到政策與法規的顯著影響。在當前全球對人工智慧、自動化等技術的爭議背景下，各國政府可能透過監管框架、補貼政策或勞動保護措施來調節技術導入的速度，以平衡效率與社會穩定。此觀點暗示未來產業發展將更依賴政策導向，企業需密切關注各國法規動態，並調整其技術投資策略以適應不同的國家節奏。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/07/23/a-brief-history-of-luddism"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "The world’s balance-sheet is out of kilter with its economy",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/23/the-worlds-balance-sheet-is-out-of-kilter-with-its-economy",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "The Economist 於 2026 年 7 月 23 日發表文章指出，全球資產負債表與實體經濟之間出現嚴重失衡，文章標題強調「全球資產負債表與經濟脫節」，並警示恢復平衡的過程可能帶來痛苦後果。",
+      "judgment": "全球資產負債表與實體經濟的脫節意味著金融資產的膨脹速度已遠超實際產出與收入增長，這種結構性失衡通常伴隨資產泡沫與債務累積。當金融體系過度依賴槓桿而缺乏實質經濟支撐時，任何利率調整或流動性收縮都可能引發資產價格劇烈修正，進而衝擊消費與投資信心。歷史經驗顯示，此類失衡若未及時緩解，往往導致長期停滯或金融危機。當前情境下，政策制定者面臨兩難：若放任失衡擴大，將增加系統性風險；若強制去槓桿，則可能觸發短期經濟衰退。因此，恢復平衡需謹慎設計過渡機制，避免金融震盪蔓延至實體部門。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/07/23/the-worlds-balance-sheet-is-out-of-kilter-with-its-economy"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "The rise of the deserving rich",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據《經濟學人》2026 年 7 月 23 日發表的報導，當前的億萬富翁比過去的億萬富翁更有可能透過自身努力賺取財富，而非依賴繼承或外部因素。",
+      "judgment": "此趨勢顯示全球財富創造機制正發生結構性轉變，從依賴資本世襲轉向強調創新與創業能力。這可能反映科技產業與新經濟模式的成熟，使得個人才能與市場機會的結合更易轉化為巨額財富。若此現象持續，將強化社會對「應得財富」的認同，可能緩解部分階級固化爭議，但也可能加劇對非創新型財富來源的批判。長期來看，這將影響政策制定者對稅制與財富分配的思考方向，促使更多資源投入教育與創業生態系。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/07/23/the-rise-of-the-deserving-rich"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Can prediction markets win over Wall Street?",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/23/can-prediction-markets-win-over-wall-street",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "The Economist 於 2026 年 7 月 23 日發表文章探討預測市場能否獲得華爾街的青睞。文章指出，克服監管障礙僅是其中一半的挑戰，暗示預測市場在進入主流金融領域時還面臨其他關鍵難題。",
+      "judgment": "預測市場若要真正融入華爾街的主流金融體系，僅解決監管合規問題是遠遠不夠的。雖然監管障礙的清除為市場准入提供了基礎，但華爾街機構對流動性深度、風險管理機制、數據準確性以及與現有交易系統整合度的要求極高。預測市場目前多依賴分散式或新興平台，其交易深度與機構級別的對沖需求之間存在顯著落差。此外，市場參與者對預測結果的定價效率與傳統資產定價模型的兼容性仍需驗證。若無法在這些核心金融功能上證明其優越性或互補性，預測市場可能僅限於特定利基應用，難以成為華爾街的核心交易工具。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/07/23/can-prediction-markets-win-over-wall-street"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
