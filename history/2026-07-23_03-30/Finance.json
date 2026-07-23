@@ -1,0 +1,236 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-07-23_03-30",
+  "stories": [
+    {
+      "title": "Australia jobs surge above forecasts in June, unemployment rate holds steady",
+      "url": "https://www.investing.com/news/economic-indicators/australia-jobs-surge-above-forecasts-in-june-unemployment-rate-holds-steady-4807379",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Bonds 報導，澳洲六月就業人數增幅超過市場預期，同時失業率保持穩定。此數據由澳洲官方發布，顯示勞動市場在該月份呈現強勁增長趨勢，且失業率未因就業人數增加而波動。",
+      "judgment": "澳洲六月就業數據超預期且失業率穩定，反映勞動市場韌性強勁，可能支撐國內消費與經濟成長。此現象或使澳洲儲備銀行（RBA）在貨幣政策上維持鷹派立場，延後降息時程，進而影響澳元匯率與債券殖利率走勢。長期來看，若就業持續強勁，將有助於緩解通膨壓力，但需關注全球經濟放緩對出口導向產業的潛在衝擊。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/australia-jobs-surge-above-forecasts-in-june-unemployment-rate-holds-steady-4807379"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "South Korea Q2 GDP grows more than expected on AI, chips boost",
+      "url": "https://www.investing.com/news/economic-indicators/south-korea-q2-gdp-grows-more-than-expected-on-ai-chips-boost-4807264",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "南韓第二季國內生產總值（GDP）成長幅度超出市場預期，主要受惠於人工智慧（AI）與半導體晶片產業的強勁表現。此數據由投資資訊平台 Investing.com 報導，標題明確指出 AI 與晶片成為推動經濟成長的關鍵因素。",
+      "judgment": "南韓第二季 GDP 超越預期，顯示其經濟結構正加速向高附加價值的科技產業轉型。AI 與晶片產業的爆發性成長，不僅反映全球對半導體需求持續攀升，也凸顯南韓在全球供應鏈中的關鍵地位。此趨勢可能吸引更多國際資本投入南韓科技部門，並強化其出口競爭力。長期來看，若政府能持續支持研發與基礎建設，南韓有望在未來幾年維持穩健的經濟成長動能，同時降低對傳統製造業的依賴。然而，需留意全球半導體週期波動及地緣政治風險可能帶來的不確定性。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/south-korea-q2-gdp-grows-more-than-expected-on-ai-chips-boost-4807264"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Australia jobs blow past expectations in June, cements bets of another rate rise",
+      "url": "https://www.investing.com/news/economic-indicators/australia-jobs-surge-in-june-unemployment-steady-as-more-look-for-work-4807372",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Bonds 報導，澳洲六月就業數據大幅超越市場預期，失業率維持穩定，顯示更多民眾開始尋找工作。此強勁的就業表現強化了市場對於澳洲儲備銀行將再次升息以抑制通膨的預期。",
+      "judgment": "澳洲六月就業數據的意外強勁，顯示勞動市場緊繃程度高於預期，這將對澳洲儲備銀行（RBA）的貨幣政策決策產生直接影響。在通膨壓力尚未完全緩解的背景下，強勁的就業成長意味著消費需求可能持續支撐物價上漲，迫使央行維持鷹派立場。市場已開始定價另一波升息，這將進一步推高借貸成本，可能對房地產市場與企業投資造成壓抑。長期來看，若勞動市場持續過熱，澳洲經濟面臨「硬著陸」風險將增加，但短期內通膨目標的達成仍是政策首要考量。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/australia-jobs-surge-in-june-unemployment-steady-as-more-look-for-work-4807372"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Crude Oil Inventories Surge, Surpassing Forecasts and Previous Levels",
+      "url": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-surge-surpassing-forecasts-and-previous-levels-93CH-4806383",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Bonds 報導，原油庫存出現大幅增長，增幅超過市場預期及前一期水平。",
+      "judgment": "原油庫存意外大幅累積通常反映需求疲軟或供應過剩，這將對油價構成下行壓力。庫存數據超越預期與前值，顯示市場供需平衡可能正在惡化，投資者需警惕短期內油價回調風險。此數據也可能影響相關能源股表現及通膨預期，進而牽動聯準會政策路徑的市場解讀。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/crude-oil-inventories-surge-surpassing-forecasts-and-previous-levels-93CH-4806383"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "New US 25% tariff hits billions of dollars in Brazilian exports",
+      "url": "https://www.investing.com/news/economic-indicators/new-us-25-tariff-hits-billions-of-dollars-in-brazilian-exports-4805104",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國對巴西出口商品實施新的 25% 關稅，此舉影響價值數十億美元的巴西出口貿易。該消息由 Investing.com Bonds 報導，標題明確指出新關稅將衝擊巴西對美出口規模。",
+      "judgment": "美國對巴西實施 25% 關稅將直接衝擊巴西出口導向產業，特別是農業與礦業等對美依賴度高的部門。此舉可能導致巴西出口收入大幅減少，進而影響其貿易收支與本幣匯率穩定。長期來看，巴西可能尋求貿易夥伴多元化以分散風險，但短期內將面臨出口萎縮與經濟成長放緩壓力。此外，此關稅政策可能引發貿易摩擦升級，影響全球供應鏈重組趨勢，並促使其他新興市場國家重新評估對美貿易策略。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/new-us-25-tariff-hits-billions-of-dollars-in-brazilian-exports-4805104"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Gold holds above $4,130/oz as Middle East tensions offset higher-rate concerns",
+      "url": "https://www.investing.com/news/commodities-news/gold-holds-above-4130-as-middle-east-tensions-offset-higherrate-concerns-4807361",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "黃金價格維持在每盎司 4,130 美元以上，中東緊張局勢抵消了對高利率的擔憂。",
+      "judgment": "黃金價格在每盎司 4,130 美元上方獲得支撐，顯示地緣政治風險（特別是中東局勢）對避險資產的支撐作用強於宏觀經濟因素（如高利率環境）的壓制效應。這表明市場參與者更關注即時的地緣政治不確定性，而非單純的貨幣政策預期。若中東局勢持續升溫，黃金可能進一步上漲；反之，若局勢緩和，高利率環境可能重新成為主導因素，導致價格回調。此現象凸顯黃金作為避險資產在當前市場環境中的關鍵角色。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/gold-holds-above-4130-as-middle-east-tensions-offset-higherrate-concerns-4807361"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil prices rise to six-week high as US-Iran tensions escalate",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-to-sixweek-high-as-usiran-tensions-escalate-4807323",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "油價上漲至六週高點，原因是美國與伊朗之間的緊張局勢升級。",
+      "judgment": "地緣政治風險是影響原油價格的關鍵變數，美伊關係惡化直接觸發市場對中東供應中斷的擔憂，推動油價短期內快速反彈至六週高點。此類由衝突驅動的價格波動通常伴隨高震盪性，若緊張局勢持續或擴大，可能進一步壓縮全球原油供應預期，加劇通膨壓力並影響全球經濟復甦步伐。投資者需密切關注外交談判進展及實際產能變化，以評估後續價格走勢的可持续性。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-prices-rise-to-sixweek-high-as-usiran-tensions-escalate-4807323"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil climbs for 5th straight day as Houthis attack Saudi tankers in Red Sea",
+      "url": "https://www.investing.com/news/commodities-news/oil-climbs-for-5th-straight-day-as-houthis-attack-saudi-tankers-in-red-sea-4807321",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "油價連續第五天上漲，原因是胡塞武裝在紅海襲擊沙烏地阿拉伯油輪。",
+      "judgment": "紅海地緣政治緊張局勢升級，特別是針對沙烏地阿拉伯油輪的襲擊，直接威脅全球能源供應鏈的關鍵通道。此類攻擊導致市場對中東原油運輸安全的擔憂加劇，推動油價連續五日攀升。若襲擊持續或擴大，可能迫使更多船隻繞行好望角，增加運輸成本與時間，進一步推升全球油價。長期來看，此類地緣風險將強化市場對能源供應不穩定的預期，可能促使買家增加庫存或尋求替代供應源，進而影響全球油價波動幅度與趨勢。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-climbs-for-5th-straight-day-as-houthis-attack-saudi-tankers-in-red-sea-4807321"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "US says it reaches nuclear power deal with Saudi Arabia",
+      "url": "https://www.investing.com/news/commodities-news/us-says-it-reaches-nuclear-power-deal-with-saudi-arabia-4807112",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國宣布已與沙烏地阿拉伯達成核能協議。此消息由 Investing.com Gold 報導，標題為「美國表示已與沙烏地阿拉伯達成核能協議」，相關新聞連結為 https://www.investing.com/news/commodities-news/us-says-it-reaches-nuclear-power-deal-with-saudi-arabia-4807112。",
+      "judgment": "美國與沙烏地阿拉伯達成核能協議，標誌著中東地區能源結構的重大轉變，可能加速該國從石油經濟向多元能源轉型。此協議不僅強化美沙戰略夥伴關係，也可能影響全球核能設備出口市場格局，特別是對美國核能技術供應商如 Westinghouse 或 GE Hitachi 帶來潛在訂單機會。同時，沙國若成功發展民用核能，將有助於其 2030 願景中的減碳目標，並提升區域能源安全。然而，核能項目通常涉及長期建設週期與高資本支出，實際效益需視後續執行進度與國際監管環境而定。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/us-says-it-reaches-nuclear-power-deal-with-saudi-arabia-4807112"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Trump administration considers putting nuclear power plants in US waters",
+      "url": "https://www.investing.com/news/commodities-news/trump-administration-considers-putting-nuclear-power-plants-in-us-waters-4806812",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "特朗普政府正在考慮將核電廠設置在美國水域內。此舉旨在探索新的能源基礎設施部署方案，相關討論已進入政策評估階段。",
+      "judgment": "特朗普政府考慮在美國水域部署核電廠的舉措，標誌著美國能源政策可能轉向更激進的基礎設施擴張策略。若此計劃實施，將直接增加對核能技術、海洋工程及相關供應鏈的需求，可能提振核電設備製造商與海洋建設公司的營收預期。同時，此舉可能引發環境保護團體與沿海社區的強烈反對，增加項目審批的不確定性與潛在訴訟風險。從長期來看，若成功落地，將有助於提升美國能源自給率並減少碳排放，但需平衡安全監管與生態影響。此政策方向若獲推進，將成為全球核能產業關注焦點，並可能影響國際核能合作與貿易流向。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/trump-administration-considers-putting-nuclear-power-plants-in-us-waters-4806812"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Gold hits over two-week high, extending rebound after repeatedly testing $4k level",
+      "url": "https://www.investing.com/news/commodities-news/gold-climbs-above-4100-as-middle-east-tensions-underpin-prices-4804558",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "黃金價格突破每盎司4100美元，創下兩週以來新高，並延續反彈趨勢。此前黃金曾多次測試4000美元關口，最終在中東緊張局勢的支撐下成功突破。市場關注地緣政治風險對貴金屬價格的影響，投資者避險情緒升溫推動金價上漲。",
+      "judgment": "黃金此次突破4100美元關口，反映市場對中東地緣政治風險的擔憂加劇，避險需求成為推動金價上漲的核心動力。歷史上，中東衝突升級往往引發資金流向黃金等安全資產，導致金價短期內快速攀升。此次反彈不僅是技術面突破，更顯示市場對全球不確定性上升的預期。若中東局勢持續緊張，黃金可能進一步挑戰更高價位；反之，若局勢緩和，金價或面臨回調壓力。長期來看，黃金作為避險資產的地位未變，但需密切關注美元走勢及聯準會政策動向，這些因素將共同決定金價的後續走勢。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/gold-climbs-above-4100-as-middle-east-tensions-underpin-prices-4804558"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Explainer-Why is a US-Saudi nuclear pact causing alarm in Washington and the Middle East?",
+      "url": "https://www.investing.com/news/commodities-news/explainerwhy-is-a-proposed-ussaudi-nuclear-pact-causing-alarm-in-washington-and-the-middle-east-4805673",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Investing.com Gold 報導指出，美國與沙烏地阿拉伯之間擬議的核能協議引發華盛頓及中東地區的警覺。該協議涉及沙烏地阿拉伯尋求發展民用核能計畫，同時美國考慮提供技術與資金支持，但雙方在核燃料循環、防擴散條款及區域安全承諾等關鍵議題上尚未達成共識。",
+      "judgment": "此擬議核能協議若達成，將重塑中東能源與地緣政治格局。沙烏地阿拉伯若獲得核技術，可能加速其能源轉型並提升區域影響力，但同時引發伊朗等鄰國對核擴散的擔憂，可能加劇區域軍備競賽。對美國而言，此協議既是鞏固中東盟友關係的契機，亦需平衡防擴散風險與戰略利益。若協議未能包含嚴格的防擴散條款，可能削弱全球核不擴散體系，並影響國際能源市場穩定。此外，此舉可能促使其他中東國家尋求類似合作，進一步複雜化區域安全動態。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/explainerwhy-is-a-proposed-ussaudi-nuclear-pact-causing-alarm-in-washington-and-the-middle-east-4805673"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "US coffee drinkers could pay more if Trump punishes Nicaragua’s election ban",
+      "url": "https://www.investing.com/news/commodities-news/us-coffee-drinkers-could-pay-more-if-trump-punishes-nicaraguas-election-ban-4806659",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國咖啡消費者可能面臨價格上漲，若前總統特朗普因尼加拉瓜選舉禁令而實施懲罰措施。該新聞指出尼加拉瓜的選舉限制可能引發美國貿易制裁，進而影響咖啡供應鏈與成本。",
+      "judgment": "若美國對尼加拉瓜實施貿易制裁，將直接衝擊全球咖啡供應鏈，因尼加拉瓜是重要咖啡出口國之一。制裁可能導致出口量減少、物流成本上升，最終轉嫁至消費者。此外，地緣政治緊張可能加劇大宗商品價格波動，促使市場尋找替代來源，但短期內供應調整困難，推升美國咖啡零售價格。此事件亦反映政治因素對商品市場的顯著影響，投資者可關注相關期貨與供應鏈風險。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/us-coffee-drinkers-could-pay-more-if-trump-punishes-nicaraguas-election-ban-4806659"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil settles up more than 3% to six-week high as Mideast conflict threatens oil transit routes",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-slightly-after-us-announces-new-round-of-strikes-on-iran-4804503",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "油價收盤上漲超過 3%，達到六週以來最高點。此漲幅主要受中東衝突威脅石油運輸路線所驅動。美國宣布對伊朗發動新一輪打擊行動，進一步加劇了市場對供應中斷的擔憂，促使原油價格顯著攀升。",
+      "judgment": "油價此次大幅上漲反映了地緣政治風險對能源市場的即時衝擊。中東地區作為全球石油供應的關鍵樞紐，其運輸路線若受衝突影響，將直接威脅全球能源供應鏈的穩定性。美國對伊朗的軍事行動升級，不僅可能導致該地區產油設施受損，更可能引發區域性衝突擴大，進而推升風險溢價。從產業角度來看，油價波動將增加全球製造業與運輸業的成本壓力，可能抑制經濟成長動能。此外，高油價也可能促使各國加速能源轉型，減少對化石燃料的依賴。然而，若衝突持續升級，油價可能進一步飆升，對全球通膨形成額外壓力，迫使央行在貨幣政策上更加謹慎。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-prices-rise-slightly-after-us-announces-new-round-of-strikes-on-iran-4804503"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Gold tests 200 MA with overbought RSI at $4,141: Live levels",
+      "url": "https://www.investing.com/news/commodities-news/gold-tests-3955-support-with-bearish-trend-intact-live-levels-93CH-4801555",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "黃金價格測試 200 日均線，同時相對強弱指標（RSI）顯示超買狀態，當前價格位於 4,141 美元。",
+      "judgment": "黃金在測試關鍵技術支撐位 200 日均線時，伴隨 RSI 超買信號，顯示市場可能面臨短期回調壓力。若價格無法守住該均線，可能引發技術性賣壓，導致進一步下跌。然而，若黃金能成功反彈並突破阻力，則可能延續多頭趨勢。投資者應密切關注價格在 200 日均線附近的反應，以及 RSI 是否從超買區回落，以判斷短期走勢方向。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/gold-tests-3955-support-with-bearish-trend-intact-live-levels-93CH-4801555"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Russian gas cargoes to remain exempt as EU nears new sanctions deal",
+      "url": "https://www.ft.com/content/3a40d574-41fe-4e04-a958-1173bb07f064?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "歐盟即將達成新的制裁協議，但俄羅斯液化天然氣（LNG）貨物將繼續獲得豁免。根據協議，包括希臘的 Dynagas 在內的相關群體將被允許繼續運輸俄羅斯的液化天然氣。",
+      "judgment": "歐盟在對俄制裁框架下保留俄羅斯 LNG 運輸豁免，顯示出能源安全與地緣政治壓力之間的權衡。此舉可能源於部分歐盟成員國對過渡期能源供應穩定性的擔憂，避免立即切斷現有 LNG 供應鏈引發市場波動或價格飆升。允許 Dynagas 等企業繼續運輸俄羅斯 LNG，意味著歐盟在制裁執行上採取了分階段、有選擇性的策略，而非全面封鎖。這可能延緩俄羅斯能源收入下降的速度，但也為歐盟內部協調提供了緩衝空間。長期來看，此豁免可能影響歐盟加速能源多元化的進程，並引發其他成員國或利益相關方對制裁一致性的質疑。",
+      "used_source_urls": [
+        "https://www.ft.com/content/3a40d574-41fe-4e04-a958-1173bb07f064?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Aston Martin strikes £550mn debt deal despite creditor objections",
+      "url": "https://www.ft.com/content/c087714d-7d46-449b-9684-eba1975d313a?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "資金短缺的豪華車廠阿斯顿·馬丁（Aston Martin）成功達成價值 5.5 億英鎊的債務協議，儘管債權人對此表示反對。該交易是與黑石（BlackRock）旗下資產管理公司 HPS 進行的，部分債權人將此交易形容為「非同尋常」。",
+      "judgment": "阿斯顿·馬丁在債權人強烈反對的情況下仍達成債務重組，顯示出管理層在流動性危機中採取了極具決斷力的策略。與 HPS 的協議雖被批評為非同尋常，但為公司提供了急需的現金流以維持營運，避免破產風險。此舉可能短期內穩定市場信心，但長期而言，高成本債務結構可能壓縮利潤空間，並限制未來投資能力。若公司無法在短期內改善營收與成本控制，類似重組可能再次發生，進一步削弱股東價值。",
+      "used_source_urls": [
+        "https://www.ft.com/content/c087714d-7d46-449b-9684-eba1975d313a?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "European gas prices approach Iran war highs as traders fret over winter supplies",
+      "url": "https://www.ft.com/content/8f076be9-bf29-4df5-878b-835537ba2585?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "歐洲天然氣價格逼近伊朗戰爭期間的高點，交易員擔憂冬季供應問題。熱浪導致需求上升，同時與亞洲買家的競價戰加劇市場緊張。市場對霍爾木茲海峽可能出現的中斷感到憂慮，這使得供應脆弱性增加。",
+      "judgment": "歐洲天然氣價格飆升反映多重風險疊加：氣候異常推高需求、亞洲買家競爭加劇供需矛盾，以及地緣政治威脅（霍爾木茲海峽中斷）放大市場不確定性。若冬季供應受阻，歐洲可能面臨能源短缺與價格進一步上漲的壓力，進而影響工業生產與民生成本。此趨勢將迫使歐洲加速能源轉型或尋求替代供應源，同時可能引發全球能源市場連鎖反應。長期來看，地緣政治風險與氣候變遷將持續重塑天然氣貿易格局。",
+      "used_source_urls": [
+        "https://www.ft.com/content/8f076be9-bf29-4df5-878b-835537ba2585?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Nestlé nears deal to sell stake in €5bn Perrier unit",
+      "url": "https://www.ft.com/content/905dd8ab-2b51-4b22-9e11-8ec2e6e7784a?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "瑞士雀巢集團正與私募股權公司Platinum Equity洽談，擬出售其價值約50億歐元的Perrier水業務股權。該業務旗下品牌包括San Pellegrino。雀巢正加速與Platinum Equity就交易條款達成協議。",
+      "judgment": "雀巢出售Perrier業務顯示其戰略重心轉向高增長、高利潤的飲料品類，同時優化資產組合以回應股東對資本回報的壓力。Perrier雖具品牌價值，但天然水市場增長放緩且競爭激烈，剝離此資產可釋放資金用於創新或併購。Platinum Equity作為專注於消費品的私募股權公司，具備運營優化能力，可能透過品牌重塑與成本重組提升價值。此交易若完成，將標誌雀巢進一步縮減傳統水業務，聚焦咖啡、寵物食品及功能性飲料等核心領域，同時為產業內其他大型食品集團提供資產整合參考案例。",
+      "used_source_urls": [
+        "https://www.ft.com/content/905dd8ab-2b51-4b22-9e11-8ec2e6e7784a?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
