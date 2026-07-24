@@ -1,0 +1,44 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-07-24_13-59",
+  "stories": [
+    {
+      "title": "The Invisible Work Draining Your Best Employees",
+      "url": "http://feeds.harvardbusiness.org/2026/07/the-invisible-work-draining-your-best-employees",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論指出，減輕員工的心理負擔關鍵不在於減少工作量，而在於重新設計工作的結構與分配方式。",
+      "judgment": "此觀點揭示現代企業管理需從單純的人力資源配置轉向工作架構的系統性重組。當高績效員工因隱形工作（如情緒勞動、協調溝通、非正式決策）而耗竭時，組織應檢視流程設計是否導致責任分配不均。重新定義工作結構可提升員工留存率與生產力，並降低因倦怠導致的人才流失風險。此策略要求管理者具備流程優化能力，而非僅依賴增加人力或延長工時。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/07/the-invisible-work-draining-your-best-employees"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Why Mentoring Matters More in the AI Era",
+      "url": "http://feeds.harvardbusiness.org/2026/07/why-mentoring-matters-more-in-the-ai-era",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據哈佛商業評論報導，自動化技術正取代常規性任務，導致員工發展出現落差，而結構化且有意的導師制度能有效填補此缺口。",
+      "judgment": "在人工智慧加速取代重複性工作的背景下，企業面臨的核心挑戰已從技術導入轉向人才能力重塑。自動化雖提升效率，卻使初階員工失去透過常規任務累積經驗的機會，造成技能斷層。導師制度在此時成為關鍵解方，它不僅能加速知識傳承，更能引導員工發展 AI 難以複製的批判性思維與複雜問題解決能力。企業若僅關注技術升級而忽視人才培育機制，將面臨組織韌性下降的風險。因此，將導師制度納入數位轉型戰略，是維持長期競爭力的必要舉措。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/07/why-mentoring-matters-more-in-the-ai-era"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Author Talks: Why founders misunderstand customer demand",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-founders-misunderstand-customer-demand",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "麥肯錫前員工指出，許多有潛力的產品未能獲得市場關注，是因為創始人受傳統思維誤導而誤解客戶需求。該文章介紹了一個實用的框架，旨在幫助創始人找到「理想」客戶，以解決產品無法獲得市場 traction 的問題。",
+      "judgment": "創始人誤解客戶需求是導致新產品失敗的關鍵因素，這反映了市場驗證與傳統商業假設之間的斷層。在競爭激烈的產業環境中，依賴直覺或過時的市場模型會導致資源錯配與產品市場契合度（PMF）失敗。麥肯錫提出的框架強調了精確識別理想客戶的重要性，這對於降低創業風險、提高產品成功率至關重要。產業趨勢顯示，成功的企業正轉向以數據驅動和深度客戶洞察為核心的策略，而非單純依賴產品功能創新。此觀點提醒投資人和創業者，在早期階段投入資源進行嚴格的客戶需求驗證，是確保長期可持續增長的必要條件。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-founders-misunderstand-customer-demand"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
