@@ -1,0 +1,231 @@
+{
+  "category": "Technology",
+  "timestamp": "2026-07-25_13-50",
+  "stories": [
+    {
+      "title": "AI 的未來，會不會建立在更高的電力成本上？",
+      "url": "https://technews.tw/2026/07/25/ai-future-higher-electricity-costs/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "AI 發展正從模型、晶片與算力延伸至基礎電力議題。隨著愈來愈多科技公司宣布興建 AI 資料中心，外界開始關注電力成本對 AI 未來的影響。",
+      "judgment": "AI 產業的擴張已觸及能源瓶頸，資料中心建設潮將直接推升電力需求與成本。若電力供給無法同步成長，高昂的能源支出可能壓縮 AI 企業的利潤空間，甚至影響技術迭代速度。此趨勢將促使產業重新評估資料中心佈局策略，並加速對再生能源或高效能冷卻技術的投資。長期來看，電力成本可能成為 AI 發展的关键制約因素，進而影響全球科技競爭格局。",
+      "used_source_urls": [
+        "https://technews.tw/2026/07/25/ai-future-higher-electricity-costs/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "AI 與量子運算強強聯手，丹麥團隊精準打造新世代胜肽",
+      "url": "https://technews.tw/2026/07/25/ai-quantum-computing-crafts-next-generation-peptides/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "丹麥科技大學近期在藥物開發領域取得突破，結合人工智慧與量子運算技術，精準打造新世代胜肽。",
+      "judgment": "丹麥科技大學將 AI 與量子運算整合應用於胜肽設計，標誌著藥物研發進入高效能計算新階段。此技術能大幅縮短胜肽藥物篩選與優化週期，提升針對特定靶點的結合精準度，進而加速新藥上市時程。對生技產業而言，這意味著傳統高成本、長週期的臨床前研究可能因計算模擬能力躍升而轉型，具備此類跨領域技術整合能力的企業或研究機構將掌握競爭優勢。長期來看，此趨勢可能促使藥廠加大對量子演算法與 AI 平台的投資，並加速與學術機構合作，以應對日益複雜的疾病治療需求。",
+      "used_source_urls": [
+        "https://technews.tw/2026/07/25/ai-quantum-computing-crafts-next-generation-peptides/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "美 301 關稅正式生效，台灣稅率保底 10%、五大豁免條件一次看",
+      "url": "https://finance.technews.tw/2026/07/25/us-301-tariffs-effective-taiwan-10-percent-minimum-5-exemption-conditions/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國貿易代表署（USTR）於 23 日宣布，依據《1974 年貿易法》第 301 條款，對台灣實施的關稅措施正式生效。此次調整設定台灣產品的關稅稅率保底為 10%，並同時公布五大豁免條件，具體細節將影響相關產業的出口策略與成本結構。",
+      "judgment": "美國 301 條款關稅正式生效且對台灣設定 10% 的保底稅率，標誌著台美貿易關係進入新的成本結構階段。此舉將直接衝擊台灣出口導向型產業，特別是半導體、電子零組件及傳統製造業，迫使企業重新評估供應鏈佈局以規避關稅風險。五大豁免條件的設立雖提供部分緩衝空間，但申請門檻與審查機制將成為企業營運的關鍵變數。長期來看，此政策可能加速台灣廠商加速產能轉移至東南亞或墨西哥等地，以維持全球市場競爭力，同時也可能促使台灣政府與美國展開更緊密的貿易談判，尋求更廣泛的豁免或減免協議。",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/07/25/us-301-tariffs-effective-taiwan-10-percent-minimum-5-exemption-conditions/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "AMD Helios 支援 246 kW AI 機櫃，電力架構再升級",
+      "url": "https://technews.tw/2026/07/25/amd-helios-246kw-ai-rack-power-architecture-upgrade/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "AMD 與施耐德電機共同發布 Helios AI 解決方案，該方案支援單機櫃功率達 246 kW，旨在應對 AI 資料中心功率持續攀升的趨勢，並推動電力架構向更高功率密度發展。",
+      "judgment": "AMD 攜手施耐德電機推出支援 246 kW 的 Helios AI 機櫃解決方案，標誌著 AI 基礎設施正從傳統電力架構邁向超高密度供電時代。隨著大模型訓練與推理需求爆發，單機櫃功率已突破 100 kW 門檻，246 kW 的規格顯示業界正積極解決散熱與供電瓶頸。此舉不僅強化 AMD 在 AI 伺服器生態系的競爭力，也凸顯電力管理廠商如施耐德電機在資料中心轉型中的關鍵角色。未來，高功率密度架構將成為資料中心建設的標準配置，推動液冷技術與高效能電源模組的普及，同時可能加速舊有低功率機房的汰換潮。",
+      "used_source_urls": [
+        "https://technews.tw/2026/07/25/amd-helios-246kw-ai-rack-power-architecture-upgrade/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "AR 眼鏡不再「擋視線」，跨國團隊全新遮罩技術讓虛擬與現實完美融合",
+      "url": "https://technews.tw/2026/07/25/ar-glasses-no-longer-obstruct-view/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "日本與跨國研究團隊近期開發出一種全新的擴增實境（AR）顯示技術，旨在解決智慧眼鏡長期面臨的難題，即如何在提供虛擬資訊的同時不犧牲使用者的現實視野。該技術透過全新的遮罩設計，成功讓虛擬影像與現實環境實現完美融合，克服了傳統 AR 眼鏡可能阻擋視線的問題。",
+      "judgment": "此項技術突破對 AR 產業具有重大戰略意義。長期以來，AR 眼鏡因光學設計限制，往往導致使用者視野受阻或虛擬影像與現實環境割裂，嚴重影響佩戴舒適度與實用性，成為普及化的主要障礙。日本與跨國團隊開發的新遮罩技術，直接針對「不擋視線」這一核心痛點進行優化，意味著未來 AR 設備有望在保持輕量化與高透視率的同時，提供高品質的沉浸式體驗。這將大幅降低用戶對穿戴式裝置的心理門檻，加速 AR 技術從專業領域向消費級市場滲透，特別是在日常導航、即時資訊顯示及娛樂應用場景中。若該技術能成功量產並降低成本，將重塑智慧眼鏡的市場競爭格局，促使更多廠商投入相關光學模組的研發，進而推動整個擴增實境生態系的成熟與擴張。",
+      "used_source_urls": [
+        "https://technews.tw/2026/07/25/ar-glasses-no-longer-obstruct-view/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "如何讓 Gemini 幫你計算訂閱支出，檢查所有收據信件＋扣款前提醒",
+      "url": "https://technews.tw/2026/07/25/how-gemini-can-help-manage-your-subscription-finances/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "現代人常訂閱多個串流平台、AI 工具或雲端空間服務，許多訂閱僅為短期試用或單一專案需求，但使用者常因遺忘而未能及時取消，導致持續產生扣款。Google 推出新功能讓 Gemini 協助管理訂閱支出，該功能可自動檢查所有收據信件，並在扣款前提供提醒，幫助使用者掌握訂閱狀況並避免不必要的費用。",
+      "judgment": "此功能反映 AI 助理正從單純的資訊查詢工具，轉型為個人財務管理的實際執行者。隨著訂閱經濟（Subscription Economy）的擴張，消費者面臨「訂閱疲勞」與「隱藏扣款」的風險日益增加，Gemini 整合郵件掃描與扣款預警機制，直接解決了使用者痛點。這不僅提升了 Google 生態系中 AI 助理的實用價值，也可能促使其他科技巨頭加速開發類似的自動化財務管理功能，進而推動 AI 在個人金融領域的滲透率。長期來看，此類功能將改變消費者對訂閱服務的決策模式，從被動接受轉為主動管理，並可能促使服務供應商調整其取消政策或提供更透明的費用通知機制。",
+      "used_source_urls": [
+        "https://technews.tw/2026/07/25/how-gemini-can-help-manage-your-subscription-finances/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Synology 推出雲端監控 Surveillance365，滿足更多元的跨產業場域安全需求",
+      "url": "https://infosecu.technews.tw/2026/07/25/synology-surveillance365/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Synology 推出雲端監控服務 Surveillance365，旨在滿足跨產業場域的安全需求。該服務針對過去十年企業安防系統依賴採購攝影機、架設 NVR 或 NAS 以及 IT 人員維護的傳統模式進行革新，提供新的解決方案。",
+      "judgment": "Synology 推出 Surveillance365 標誌著企業安防市場從硬體導向轉向服務導向的關鍵轉折。傳統安防架構需企業自行採購攝影機、部署 NVR 或 NAS 儲存設備，並依賴內部 IT 團隊進行長期維護與更新，導致初期資本支出高且營運彈性不足。Surveillance365 的雲端化策略能有效降低中小企業的進入門檻，將繁瑣的基礎設施管理轉移至雲端，使企業能更專注於核心業務。此舉不僅回應了跨產業場域對安全監控日益多元的需求，也預示著安防產業將加速整合雲端運算與訂閱制服務模式，改變現有硬體銷售的競爭格局。",
+      "used_source_urls": [
+        "https://infosecu.technews.tw/2026/07/25/synology-surveillance365/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "別急著讓孩子贏在起跑點，研究：真正的天才靠多元探索慢慢養成",
+      "url": "https://technews.tw/2026/07/25/the-slow-burn-rule-of-highly-intelligent-people/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "一項刊登於《Science》期刊的大型回顧研究，彙整了近 3.5 萬名受試者的數據，挑戰了傳統「贏在起跑點」的天才養成觀念。該研究指出，真正的天才並非透過早期密集訓練或單一領域的速成培養出來，而是依賴多元探索與長期累積的「慢燃」過程。研究結果顯示，過度聚焦於早期成就可能限制個體的長期發展潛力，而廣泛接觸不同領域並給予時間沉澱，才是激發高度智慧與創造力的關鍵因素。",
+      "judgment": "此研究對教育產業與人才培育策略具有深遠影響。首先，它將促使家長與教育機構重新審視「早啟教育」的投資效益，可能導致補習班與競技培訓市場的需求結構改變，從追求短期分數轉向支持跨領域探索的課程設計。其次，企業在招募高階人才時，可能會更重視候選人的多元背景與長期學習軌跡，而非僅看早期學歷或獎項。此外，教育科技產業可藉此開發強調自主探索與跨學科整合的學習平台，以滿足新世代對「慢燃」成才模式的需求。長期來看，這種觀念轉變將推動教育資源從競爭導向轉向成長導向，重塑整個人才生態系。",
+      "used_source_urls": [
+        "https://technews.tw/2026/07/25/the-slow-burn-rule-of-highly-intelligent-people/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "新增產能將開出，NAND Flash 市場迎供需考驗",
+      "url": "https://technews.tw/2026/07/25/trendforce-ai-continues-boost-enterprise-ssd-demand-nand-supply-remains-tight-this-year/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "三星電子與 SK 海力士近期股價出現回落，引發市場對 NAND Flash 市場供需狀況變化的關注。根據 TrendForce 分析，儘管新增產能即將開出，但 AI 需求持續推升企業級 SSD 需求，使得今年 NAND 供應仍維持緊繃狀態。",
+      "judgment": "三星與 SK 海力士股價回調反映市場對半導體週期轉折的敏感反應，但從產業基本面來看，NAND Flash 供需並未出現顯著鬆動。AI 伺服器與高效能運算需求持續擴張，帶動企業級 SSD 訂單強勁，抵消了部分消費性電子需求疲軟的影響。TrendForce 指出，儘管廠商積極擴產，但產能開出時程與需求成長速度仍難以完全匹配，導致全年供應維持緊繃。此現象顯示 NAND 市場正從傳統週期性波動轉向由 AI 驅動的結構性成長，短期內價格下行壓力有限，但需密切關注下半年新增產能實際投放進度與終端需求動能是否同步。若產能過快釋放而 AI 需求放緩，可能引發新一輪庫存調整風險。",
+      "used_source_urls": [
+        "https://technews.tw/2026/07/25/trendforce-ai-continues-boost-enterprise-ssd-demand-nand-supply-remains-tight-this-year/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "孩子不吃青菜怎麼辦？科學提供更有效的方法",
+      "url": "https://technews.tw/2026/07/25/how-to-get-kids-eating-vegetables/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Technews 科技新報報導指出，許多家庭在餐桌上常出現父母催促孩子吃青菜的情境，常見話語包括「再吃一口就好」或「不吃青菜就沒有點心」。報導提到父母越催促，孩子反而越抗拒，並指出科學提供了更有效的方法來解決孩子不吃青菜的問題。",
+      "judgment": "此新聞反映兒童飲食行為引導的長期痛點，傳統強制或獎勵機制往往引發逆反心理，降低長期飲食習慣養成的成功率。產業端可藉此洞察開發針對兒童的營養教育工具、互動式飲食應用程式或改良型兒童食品（如隱形蔬菜料理），以科學方法取代說教。此外，家長對「科學有效方法」的需求上升，將推動營養諮詢、親子共食課程及相關內容創作的市場成長。此趨勢亦可能促使食品業者重新設計產品包裝與行銷策略，強調科學背書與兒童接受度。",
+      "used_source_urls": [
+        "https://technews.tw/2026/07/25/how-to-get-kids-eating-vegetables/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "OpenAI、微軟掀 FDE 軍備競賽，爭奪企業 AI「最後一哩」新戰場",
+      "url": "https://technews.tw/2026/07/25/ai-giants-battlefield/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "2026 年 7 月 15 日，名為 Ode 的公司正式對外亮相，該公司專門派遣工程師進駐企業，協助客戶將 AI 技術整合至實際營運流程中。此舉標誌著 OpenAI 與微軟等科技巨頭正圍繞企業 AI 落地的「最後一哩」展開激烈競爭，將戰場延伸至需要深度客製化與現場部署的領域。",
+      "judgment": "Ode 公司的出現反映了企業 AI 應用從模型開發轉向實際部署的關鍵轉折點。隨著基礎模型能力趨於成熟，競爭焦點已轉移至如何將 AI 無縫嵌入企業既有工作流，這需要高度專業的現場工程能力與領域知識。OpenAI 與微軟等巨頭若欲掌握此市場，必須建立或收購具備深度整合能力的服務團隊，以解決企業在數據隱私、系統相容性及流程重構上的痛點。此趨勢將加速 AI 服務商業模式的轉變，從單純的 API 授權轉向以結果為導向的解決方案訂閱，並可能重塑雲端服務商的價值鏈結構，使具備現場交付能力的夥伴成為生態系中的關鍵節點。",
+      "used_source_urls": [
+        "https://technews.tw/2026/07/25/ai-giants-battlefield/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "輝達、SK 集團合作 5,000 億美元 AI 計畫，布局 HBM4 與 AI 資料中心",
+      "url": "https://technews.tw/2026/07/25/nvidia-sk-group-partner-500-billion-ai-project-for-hbm4-ai-data-centers/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據路透社報導，輝達與韓國 SK 集團宣布啟動一項規模超過 5,000 億美元的 AI 合作計畫，該計畫涵蓋下一代 HBM4 技術與 AI 資料中心的布局。",
+      "judgment": "此項高達 5,000 億美元的戰略合作標誌著 AI 基礎設施建設進入資本密集的新階段，輝達與 SK 集團的結盟將直接加速 HBM4 高頻寬記憶體的量產與應用，解決當前 AI 訓練與推理中的記憶體瓶頸。對於半導體產業而言，這將進一步鞏固 SK 海力士在 HBM 市場的領導地位，並迫使競爭對手如三星與美光加速技術迭代。同時，如此龐大的資金投入顯示出全球科技巨頭對 AI 資料中心長期需求的強烈信心，預計將帶動上游晶圓代工、封測及散熱解決方案等供應鏈的整體成長，但也可能加劇地緣政治下對關鍵半導體技術的競爭與整合壓力。",
+      "used_source_urls": [
+        "https://technews.tw/2026/07/25/nvidia-sk-group-partner-500-billion-ai-project-for-hbm4-ai-data-centers/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "《外送專法》掀漲價潮，業界預言將成高階精品市場",
+      "url": "https://finance.technews.tw/2026/07/25/delivery-law-to-raise-per-order-costs-by-30-to-50percent/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Technews 科技新報報導，台灣《外送專法》的實施預計將導致每筆訂單成本上升 30% 至 50%。業界人士指出，此成本增幅將引發外送服務漲價潮，並預言外送市場可能因此轉型為僅供高消費族群負擔的「高階精品市場」。",
+      "judgment": "《外送專法》推動的每單成本增加 30% 至 50%，將直接衝擊外送平台的定價策略與市場結構。此成本壓力若完全轉嫁至消費者，將大幅削弱外送服務在價格敏感族群中的普及度，迫使市場從「大眾日常消費」轉向「高單價精品化」定位。長期來看，這可能加速低利潤商家的退出，並促使平台聚焦於高毛利餐飲類別，進而改變整體餐飲業的數位化生態與競爭格局。",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/07/25/delivery-law-to-raise-per-order-costs-by-30-to-50percent/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "AI 破解水的百年謎團：為什麼水結冰會膨脹？大阪大學找到觀察水分子的最佳「透視鏡」",
+      "url": "https://technews.tw/2026/07/25/scientists-used-ai-to-crack-one-of-waters-biggest-mysteries/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "大阪大學研究團隊利用人工智慧技術，成功破解水結冰時體積膨脹的百年謎團。研究人員開發出觀察水分子行為的最佳透視鏡，揭示了水在冷凍過程中分子結構的特殊變化機制。這項突破解決了科學界長期以來的疑問，因為幾乎所有液體遇冷都會收縮，唯獨水在結冰時體積反而膨脹。",
+      "judgment": "此項研究標誌著材料科學與基礎物理領域的重大突破，人工智慧在解析複雜分子動力學方面的應用潛力得到充分驗證。大阪大學的發現不僅填補了水科學理論的空白，更可能推動低溫材料、冷凍保存技術及氣候模型的精準化發展。產業界可藉此優化冰晶控制技術，應用於食品冷凍、生物醫學儲存及半導體製程中的熱管理系統。此外，AI 驅動分子模擬的方法論將成為未來新材料設計的標準工具，加速從基礎研究到產業應用的轉化週期。此成果也強化了學術機構與科技企業在 AI 科學計算領域的合作需求，可能催生新的跨領域研發生態系。",
+      "used_source_urls": [
+        "https://technews.tw/2026/07/25/scientists-used-ai-to-crack-one-of-waters-biggest-mysteries/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Google緊急更新Chrome 150版，修補4個高風險漏洞",
+      "url": "https://www.ithome.com.tw/news/177624",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Google於本週二發布Chrome穩定版更新150.0.7871.181版與150.0.7871.182版，兩天後緊急推出新版本150.0.7871.186版與150.0.7871.187版，針對Windows與macOS系統修補4個高風險漏洞。",
+      "judgment": "Google在短時間內連續發布Chrome瀏覽器更新，顯示其對高風險漏洞的反應速度極快，這有助於降低用戶遭受攻擊的風險。然而，頻繁的緊急更新也可能反映瀏覽器架構或第三方元件存在潛在不穩定性，增加企業IT部門的維護負擔。對於依賴Chrome的企業而言，建議建立自動化更新機制以確保即時修補，同時評估漏洞對內部系統的潛在影響。此事件也凸顯瀏覽器安全在數位生態系中的關鍵地位，促使開發者與企業更重視零時差漏洞的防護策略。",
+      "used_source_urls": [
+        "https://www.ithome.com.tw/news/177624"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "週末新聞速寫：NVIDIA與SK集團達成5,000億美元合作｜高通宣布調漲產品價格｜川普揚言加徵歐盟高額關稅",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000762998_ATX81XB7LWD82W71KE0KM",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Digitimes TW 報導，NVIDIA 與 SK 集團達成價值 5,000 億美元的合作協議。高通宣布將調漲其產品價格。美國前總統川普揚言若當選將對歐盟加徵高額關稅。",
+      "judgment": "NVIDIA 與 SK 集團的 5,000 億美元合作顯示半導體產業正加速垂直整合，SK 集團可能透過此合作強化記憶體與先進封裝供應鏈，以滿足 AI 晶片需求。高通調漲價格反映上游成本壓力與市場議價能力提升，可能壓縮下游終端產品利潤空間。川普對歐盟加徵關稅的威脅若成真，將衝擊全球貿易流動性，迫使跨國企業重新評估供應鏈佈局，增加區域化生產趨勢。整體而言，地緣政治與技術壟斷正重塑產業競爭格局，企業需強化供應鏈韌性以應對不確定性。",
+      "used_source_urls": [
+        "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000762998_ATX81XB7LWD82W71KE0KM"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "逛超市逛出「全球唯一」生技專利，瑞磁獨家技術獲 FDA 認證，長征 18 年首度虧轉盈",
+      "url": "https://finance.technews.tw/2026/07/25/applied-biocodesupermarket-inspired-globally-unique-biotech-patent-exclusive-fda-approval-first-profit-18-year/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "瑞磁生技專攻疾病檢測領域，經過 18 年發展，於今年第 1 季首度實現獲利。該公司創辦人何重人發展出受超市靈感啟發的全球唯一生技專利技術，並獲得美國食品藥物管理局（FDA）認證。",
+      "judgment": "瑞磁生技在苦熬 18 年後首度轉虧為盈，標誌著其核心技術已跨越商業化門檻，具備長期生存與擴張能力。其獨家技術獲得 FDA 認證，不僅驗證了技術的嚴謹性與安全性，更在競爭激烈的生技檢測市場中建立了極高的進入障礙。這種「全球唯一」的專利地位，使其在定價權與市場佔有率上擁有顯著優勢，特別是在寵物檢測等利基市場展現出強大的變現潛力。隨著獲利能力確立，瑞磁有望吸引更多策略性投資或併購機會，進一步加速其在全球生技檢測版圖的佈局。此案例亦顯示，長線投入研發並堅持技術創新，最終能轉化為實質的財務回報與產業領導地位。",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/07/25/applied-biocodesupermarket-inspired-globally-unique-biotech-patent-exclusive-fda-approval-first-profit-18-year/"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [
+    {
+      "title": "Open Weight 成 AI 新戰場！25 家科技企業籲美國政府鬆綁限制",
+      "url": "https://technews.tw/2026/07/25/open-weight-ai-new-battlefield-25-tech-companies-urge-us-government-relax-restrictions/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "便祕老藥有新用？英國研究：有望解救憂鬱症腦霧危機",
+      "url": "https://technews.tw/2026/07/25/prucalopride-constipation-drug-depression-cognitive-savior/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "不只台積電，這三家台灣公司市值也進入全球 150 大！簡立峰點出毛利拉升、供應鏈擴張關鍵",
+      "url": "https://technews.tw/2026/07/25/lee-feng-chien/",
+      "tier": 2,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": false
+}
