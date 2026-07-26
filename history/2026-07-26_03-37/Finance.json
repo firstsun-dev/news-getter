@@ -1,0 +1,44 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-07-26_03-37",
+  "stories": [
+    {
+      "title": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes",
+      "url": "https://www.investing.com/news/commodities-news/iran-war-spreads-to-red-sea-and-caspian-gulf-quiet-as-us-forgoes-strikes-4812822",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "伊朗戰爭已蔓延至紅海與裏海地區，而波斯灣保持平靜。美國選擇不對伊朗發動空襲。",
+      "judgment": "美國放棄對伊朗發動空襲的決定，顯示其試圖避免中東衝突進一步升級，這可能暫時穩定全球能源供應預期。然而，戰事蔓延至紅海與裏海，意味著關鍵航運通道與區域穩定性面臨新威脅，可能推升油價波動風險。紅海作為全球重要貿易路線，若受衝突影響，將增加運輸成本與保險費用，進而影響全球供應鏈。裏海地區的動盪則可能影響該區域能源基礎設施安全。整體而言，地緣政治風險雖未全面爆發，但局部衝突擴大已對能源市場構成潛在壓力，投資者需密切關注後續軍事動向與外交調解進展。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/iran-war-spreads-to-red-sea-and-caspian-gulf-quiet-as-us-forgoes-strikes-4812822"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Houthis fire on Saudi oil sites; no US strike on Iran for first time in two weeks",
+      "url": "https://www.investing.com/news/commodities-news/trump-vows-to-punish-iran-and-houthis-for-attacks-in-red-sea-4810448",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "也門胡塞武裝組織對沙烏地阿拉伯的石油設施發動攻擊。美國在過去兩週內首次未對伊朗發動軍事打擊。美國前總統特朗普誓言懲罰伊朗及胡塞武裝組織在紅海的攻擊行為。",
+      "judgment": "胡塞武裝對沙烏地石油設施的攻擊直接威脅全球能源供應鏈的穩定性，可能導致油價波動加劇。美國暫停對伊朗的軍事打擊顯示地緣政治緊張局勢存在動態調整，可能反映外交談判或戰略重組的跡象。特朗普的懲罰誓言若轉化為實際行動，將進一步加劇中東地區的不確定性，影響國際能源市場信心。紅海航道的安全問題持續成為全球貿易的關鍵風險點，任何針對伊朗或胡塞武裝的軍事升級都可能引發連鎖反應，推高保險成本並延誤貨運週期。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/trump-vows-to-punish-iran-and-houthis-for-attacks-in-red-sea-4810448"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Saudi Arabia strikes Houthis after Iran-backed rebels target energy sites",
+      "url": "https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "沙特阿拉伯對也門胡塞武裝發動打擊，此前由伊朗支持的胡塞武裝襲擊了沙特的能源設施。雙方互相攻擊的局勢可能導致中東地區戰爭擴大。",
+      "judgment": "沙特與胡塞武裝之間的相互襲擊標誌著中東緊張局勢的顯著升級，特別是針對能源設施的攻擊直接威脅全球石油供應鏈的穩定性。伊朗支持的胡塞武裝對沙特能源基礎設施的打擊，顯示出代理人戰爭已從邊境衝突轉向核心經濟命脈，這可能迫使沙特採取更強硬的軍事回應，進而引發區域大國（如伊朗與沙特）的直接對抗。若衝突持續擴大，紅海航運安全將受嚴重影響，推高能源價格並加劇全球通脹壓力。此外，此類升級可能削弱國際社會對中東和平進程的信心，使外交解決方案更加困難。",
+      "used_source_urls": [
+        "https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

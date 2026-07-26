@@ -1,0 +1,75 @@
+{
+  "category": "Investments",
+  "timestamp": "2026-07-26_03-37",
+  "stories": [
+    {
+      "title": "Here are 4 forces that drove a tough week for stocks",
+      "url": "https://www.cnbc.com/2026/07/25/here-are-4-forces-that-drove-a-tough-week-for-stocks.html",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "投資者在本週面臨多重挑戰，包括中東緊張局勢升級、關鍵科技業財報發布以及醫療保健領域的發展動態，這些因素共同導致股市表現疲軟。",
+      "judgment": "本週股市承壓主要源於地緣政治風險與企業基本面變化的雙重衝擊。中東局勢升級加劇了市場對能源供應中斷及全球供應鏈不穩定的擔憂，推升避險情緒。同時，科技巨頭財報若未達預期，將直接打擊成長股估值，而醫療保健領域的政策或臨床數據變化則可能引發板塊輪動。這四股力量交織，顯示市場對宏觀不確定性與微觀業績的敏感度同步上升，短期內波動率恐維持高位，投資者需密切關注地緣政治演變及財報指引以調整倉位。",
+      "used_source_urls": [
+        "https://www.cnbc.com/2026/07/25/here-are-4-forces-that-drove-a-tough-week-for-stocks.html"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [
+    {
+      "title": "Warren Buffett is giving away $140 billion to charities. But what happens to the taxes? - livemint.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb3ZydXU4UE5LYVlKNXlsSVVQY0pWTW1Xc3VGV3VXeHhoZWZ0MElBREwzaTJibFRuSlkyWnZXREcySlhxcFU1NE9JQ2JEV2ZyYzNnVlhoS2lVZ1IwQUxYY3Yzek5DTmpXUmM3ZF9QUm02OFduRW9GaDlaMXo5Yy0yV0paVGVpclZCTl9DcFh3UFNKekRKVUt2dzhpYnh0YmRsSVhRQTZLT3FJYWZHTnNSRGcyX2pxWERrM1JhaW1CXzVoNWpnUklPQ3MxREZ0QVd4RVlMdHRTXzY2M1J0RGlFZ2ZsbXhnOEXSAewBQVVfeXFMTVluaFlqQUJQYjZ1cEhObmRoSVA4dVA3cTZuVXl2ZUg3YVFCbkxqbHJQenhScGhOTFFXR0k3Unh6UnZTcWxMdXR0WFIyQkVURENtQnE5UEJuWks5RF9VTDFrcUxfdzQ0MkZKVUJKRUFDZ2J5SHBmeFFVVVQzUW9BZ3BZTzl0TFJvZVRkZUpJUVRENTdmVVM3Qmd0OGdoNHUwb2YxaVJUSjU3cnUtdndEbEM5ZF84d3N5SVhCTEYzZk14TUJ1Ni1ZWVdqeXNNbk9XQ0NQTFFhbHhjRzJMcGM0MnZ3c3FhYXkta1VETlA?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Berkshire Hathaway Completes $6.8 Billion Acquisition Of Taylor Morrison - Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZllreDdJMzJZdUlTS2t6TkpMV0lzTGJmWFlxQ1U0b3k4elFzVTJWLXN3WUVHMzhyVDhyZFgyMlZqTHNROEZXY2xtTmMybFFjT3JhUzJzRThMOVh5LVN6aUNOU21uTWxlYnBpTXRBNUdnY011WFlLMm5nUm1lQmZtLUFaWHpNYU94SUZTbVQ2N01sZTNlRkHSAZsBQVVfeXFMUHZvMUlLWHdMMzVCY2p6MElGVjEzU1NOX2RGNjlpZVl5ZUhwOTR4eTJZMzQ5UkRnUnpUS080WC1IVWpWamNoYWhoSE1CYll5Szg4OXJlcEtpX2t6WUxVT1BXSXVGQzQxYkFENTJnZ20yXzN6ZUNQTmloeUlQd2xZZDJVTUJhRndhMlNHeXUxbEo2U3Y0el9yNXkzb2s?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "How Warren Buffett Explains Complex Ideas So Everyone Understands - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDN6cWJLM2tqRUFuYnBmcS1kSENWTGtLaFJ5R1lSRWtGc1VKTDBzVEhPYm1iZUljbW1qSEl4eXFObFdxTVE0RDRfcThaRTNFaWhTZFFSRW4wemlCV3QtQWdEZTlXSkFzNm5xZ0tnRXo4UjRjS2JsYXM5d0ZYYTBmc25qWVVoSkh2MnMwcjJZejVrMXRneFRMRzZfUTVuRVJ4QVJmdzhRQTllVHJy?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Greg Abel’s Capital Allocation Shift Could Be A Game Changer For Berkshire Hathaway (BRK.A) - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZmM4MG1JRU9nYkhPUHpya0tTWGJhTUtnV21TX1hIX3NNN21SUjI1TmRRbHRqQzVoZUxIU2szak9fWWZmcFozTm41RElVb1RFZzQwbFB2Ty10RmV4WnRfb2ZtMzBtTHktVE12Mlo2dkVJdUYyeDZXR2R3V014LWl5T1o5a21vUEYwa0FCVGJMMjVwM1JBZ3J6bzItOVNxNjNEYzBLVGZ3X1NMelZsT0I1YW40V3NQQS04djdoTzJ1RV9PZWhITzlJamN5elVrRmd2TUp3emdBbXkxMDhKZzNyNW1fd9IB6AFBVV95cUxOZURzVEx5NW9SVFZ5REFKdTVrOHl1QjNTMHp5NnlidEljV3BRaENzNk9XYnk5aG9fV2ZoNE5iMlVzWkdmSzVqX2hOZWU1bV90TnRVYlNzSXdscHRlamhHNTNGd2xxNlNUUHgtdjZuQ01TYmxzREFGZ3lXSlhLUVVzRFliX1M3TmZvN29MUnZadHZKOG1jekdaT050dTRycGR0QTZmdklCZnlIazRVYmVZOFMxU3pEZjNkWmdZV0MwcnFWZzFYZmlxam9vcmxlaFF0U0NRbGxra1pCQlo4TjU4azEwYksxOV9f?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Alphabet vs. Apple: Which Warren Buffett Favorite Is the Better Buy Right Now? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWHI4ZzR2WlB2VWlYS0VDSTNtT3A3bjlvbkxUOFBPWnNoOFhYVDAzN0pDamVMTjVRSTM1WGVINmhIc2czNkx6X0R0d0JHQWZRSkp0ak8wS2JzaWpBNEZXS2xCc1ZNR1RBSU1GUnVnUlM0alEwMW9udUFIazNSRHQyT3BxNnRyTlVmWHcyTnZDWTJJbHZRMDRpenFhX00yUQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "If You'd Invested in Occidental Petroleum Like Warren Buffett, Here's How Much You'd Be Worth - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmJtTFZZRHc5UklNU0k2YkE3cmtFZmZLeVA1WWN6clp1YmZ5VWZOaGdWdEJXS2pNcXhuVnRUZ1NmZjgzV0tHVUJmLURFRHVvdjFIalVhMnVFSV9MNm93cFFVeDNqczcwdzhHbnBZZHMtWmdtazNJMEJfaEl2Mk94c2lBRFROQWRsSGxHU2hB?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "US Housing Stocks Tied To A Recovery That Could Lift Mortgage And Brokerage Demand - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLTdvUjB0OEpCemVJYzRCUTlOMkFSMGZsN1M4NmVPQl9rQ1hINXItSllqdnNOTXFvVEdEYzZLaHlIS1V1ZjFCTFRsY0JRdGppMlhvQjk0Yi02ZjNGd3QtRGJVWURkcXFVQkpJZ2lFVmFqNm9YdFhmRE9RbjZCd0R0Z0NtQlZLRkRST0NVcHU0dlRCRG9YckVqYzU1SVR6Ym8wangzSktISmlKX1E2WUFPRWVCRjRIdDB2UFkwUERlOTFCMndFZkhieXhuOV9TTENnbHZwX2VTS3VpbXlYTWV2YndTaWdPa21EWW9ETWQ2eE1Wcko0QkHSAfsBQVVfeXFMUFhRUGFEV016S05fTjV4RkM4VWpwOXNHTUpoRFM4aTZZWnVEWUZ0UWJnQzFUUmw1ZTViODFjX3hXUDJMUnZraG41TzZ2RGFQUWFxcTNKTFZybGtWQUFJYXhGbkVaNU9QV0VzTHRQMjVMNnVCdVU3ZVRxR3BTekw2STl0ajFtQmMxRnVrUEpCSlhQRGFsSVBXVUljT1lNOXFjUU1ONFhWQ0ZsaU1CSkl3dHNMZmR5bGJLSDJMOGEyay1hMEt6eU4xbTJKdzNDZjlHWUtfQUhPMW44U0pfWmZQM2dTcUI4XzFjQUo5M3JzMWNuMHI0NkdUT3VneW8?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Alphabet vs. Apple: Which Warren Buffett Favorite Is the Better Buy Right Now? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYm1FSUh4bC1EUjlGcHhBbS14STFWWXVnbnBoUDBGY3Z2VmtTaDY5RHhHVDJmMGZaMHIzSHpvUlFRNGFpalRKM2ZZOVFEbmFScVpPdkVndVNLemN3QXYzSWx3YVc3ek1iOHoyYjc1aC1zcTJIeElLS3Jnb0dHTHFxRGl5eVNQd3BNeXVkMUI5Mm1TQ2R1ZWY4cVpQaHRJb3RnMHI0cEVxc1JrWEU2ejYtMFdGSlVUMVB1aHlXMnRzYzYwOGpMNHhiZVdQTmRzZWJsODJzTE5lNHF1YjVHQkVCV2NiNjdrSVhOSFE?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Buffett’s $30 Billion Alphabet Bet and the Apple Trade He Calls Too Soon - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55Vlh5Y0ZyMlp4UTdoQ1RlOENYakJKMFY5RXBHakNrbWVuWElDTlNVVzZESDlfYUczYlNsdnZJUEl3UnlwczlUaGR0YWl4aVF1NnA4NnRNTk5VQWZuR2dENUNPRV94NDRBNEdVOTFYekRrNWlpb3c?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": false
+}
