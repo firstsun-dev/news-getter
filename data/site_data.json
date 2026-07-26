@@ -1,207 +1,199 @@
 {
   "meta": {
-    "timestamp": "2026-07-26 03-37",
-    "generated": "2026-07-26 03:39 UTC",
-    "deep_count": 65,
-    "watch_count": 57,
+    "timestamp": "2026-07-26 13-43",
+    "generated": "2026-07-26 13:45 UTC",
+    "deep_count": 66,
+    "watch_count": 56,
     "cat_count": 8
   },
   "categories": [
     {
       "name": "Finance",
       "anchor": "Finance",
-      "archive_url": "./history/2026-07-26_03-37/index.html#Finance",
+      "archive_url": "./history/2026-07-26_13-43/index.html#Finance",
       "stories": [
         {
           "title": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：伊朗戰爭已蔓延至紅海與裏海地區，而波斯灣保持平靜。美國選擇不對伊朗發動空襲。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：美國放棄對伊朗發動空襲的決定，顯示其試圖避免中東衝突進一步升級，這可能暫時穩定全球能源供應預期。然而，戰事蔓延至紅海與裏海，意味著關鍵航運通道與區域穩定性面臨新威脅，可能推升油價波動風險。紅海作為全球重要貿易路線，若受衝突影響，將增加運輸成本與保險費用，進而影響全球供應鏈。裏海地區的動盪則可能影響該區域能源基礎設施安全。整體而言，地緣政治風險雖未全面爆發，但局部衝突擴大已對能源市場構成潛在壓力，投資者需密切關注後續軍事動向與外交調解進展。 <a href=\"https://www.investing.com/news/commodities-news/iran-war-spreads-to-red-sea-and-caspian-gulf-quiet-as-us-forgoes-strikes-4812822\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：伊朗戰爭已蔓延至紅海與裏海地區，而波斯灣保持平靜。美國選擇放棄對伊朗的軍事打擊行動。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：美國放棄對伊朗的軍事打擊，顯示其試圖避免中東衝突進一步升級，這可能短期內穩定全球油價波動預期。然而，戰爭蔓延至紅海與裏海，意味著關鍵航運通道與能源產區面臨新的地緣政治風險，可能導致保險成本上升與航線改道，進而推高物流與能源運輸成本。若紅海航道持續受擾，將對全球供應鏈造成實質衝擊，尤其影響歐洲與亞洲間的貿易流動。長期來看，若美國維持克制而區域衝突持續，市場將重新評估中東能源供應的穩定性，可能促使買家尋求替代來源或增加戰略儲備。 <a href=\"https://www.investing.com/news/commodities-news/iran-war-spreads-to-red-sea-and-caspian-gulf-quiet-as-us-forgoes-strikes-4812822\">[來源]</a></div>"
         },
         {
-          "title": "Houthis fire on Saudi oil sites; no US strike on Iran for first time in two weeks",
+          "title": "Deadly storm in Chile disrupts copper mines and raises AI supply concerns",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：也門胡塞武裝組織對沙烏地阿拉伯的石油設施發動攻擊。美國在過去兩週內首次未對伊朗發動軍事打擊。美國前總統特朗普誓言懲罰伊朗及胡塞武裝組織在紅海的攻擊行為。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：胡塞武裝對沙烏地石油設施的攻擊直接威脅全球能源供應鏈的穩定性，可能導致油價波動加劇。美國暫停對伊朗的軍事打擊顯示地緣政治緊張局勢存在動態調整，可能反映外交談判或戰略重組的跡象。特朗普的懲罰誓言若轉化為實際行動，將進一步加劇中東地區的不確定性，影響國際能源市場信心。紅海航道的安全問題持續成為全球貿易的關鍵風險點，任何針對伊朗或胡塞武裝的軍事升級都可能引發連鎖反應，推高保險成本並延誤貨運週期。 <a href=\"https://www.investing.com/news/commodities-news/trump-vows-to-punish-iran-and-houthis-for-attacks-in-red-sea-4810448\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：智利遭遇致命風暴，導致銅礦生產中斷，引發市場對人工智慧（AI）供應鏈的擔憂。此次事件凸顯金屬繁榮依賴於高海拔且產量遞減的礦場，這些礦場正面臨日益加劇的天氣不穩定性威脅。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：智利風暴中斷銅礦運作並引發 AI 供應鏈擔憂，顯示關鍵金屬供應鏈的脆弱性。隨著 AI 數據中心建設加速，對銅等導電材料的需求激增，而主要產區如智利正面臨氣候變遷帶來的極端天氣挑戰。高海拔礦場本就面臨產量自然衰退，加上天氣波動加劇，可能導致供應短缺與價格波動，進而影響全球科技產業的擴張速度。此事件提醒投資者與政策制定者需重新評估供應鏈韌性，並加速尋找替代來源或投資於氣候適應技術，以應對未來潛在的斷鏈風險。 <a href=\"https://www.ft.com/content/cd0b6148-a9a7-4763-b6d3-bb33e10b9899?syn-25a6b1a6=1\">[來源]</a></div>"
         },
         {
-          "title": "Saudi Arabia strikes Houthis after Iran-backed rebels target energy sites",
+          "title": "Carlyle and Bain Capital battle to buy wealth manager in potential $7bn deal",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：沙特阿拉伯對也門胡塞武裝發動打擊，此前由伊朗支持的胡塞武裝襲擊了沙特的能源設施。雙方互相攻擊的局勢可能導致中東地區戰爭擴大。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：沙特與胡塞武裝之間的相互襲擊標誌著中東緊張局勢的顯著升級，特別是針對能源設施的攻擊直接威脅全球石油供應鏈的穩定性。伊朗支持的胡塞武裝對沙特能源基礎設施的打擊，顯示出代理人戰爭已從邊境衝突轉向核心經濟命脈，這可能迫使沙特採取更強硬的軍事回應，進而引發區域大國（如伊朗與沙特）的直接對抗。若衝突持續擴大，紅海航運安全將受嚴重影響，推高能源價格並加劇全球通脹壓力。此外，此類升級可能削弱國際社會對中東和平進程的信心，使外交解決方案更加困難。 <a href=\"https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：私募股權集團凱雷集團（Carlyle）與貝恩資本（Bain Capital）正競相收購一家獨立財富管理公司，潛在交易金額高達 70 億美元。私募股權機構近期持續搜尋獨立財富管理集團，主要目標在於獲取其穩定的經常性收入。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此潛在的 70 億美元併購案凸顯了私募股權市場對財富管理領域的強烈興趣，特別是針對擁有穩定經常性收入模式的獨立機構。在宏觀經濟波動與利率環境不確定的背景下，財富管理業務提供的可預測現金流成為私募股權基金優化投資組合、降低風險的關鍵資產。凱雷與貝恩這兩大巨頭的競爭，不僅反映了市場對該類資產的估值提升，也預示著未來獨立財富管理公司面臨被整合的壓力將持續增加。此類交易通常伴隨著後續的資本注入與營運效率提升，可能加速行業集中度，促使中小型獨立機構尋求戰略聯盟或出售，進而重塑全球財富管理產業的競爭格局。 <a href=\"https://www.ft.com/content/083aa3f4-04c8-48d1-905f-11ccee299ca4?syn-25a6b1a6=1\">[來源]</a></div>"
+        },
+        {
+          "title": "Investors use crypto exchanges to avoid Chinese controls on AI stocks",
+          "confidence": 60,
+          "heat": 22,
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：根據 Financial Times Markets 報導，投資者正利用加密貨幣交易所來規避中國對 AI 股票的管制。具體而言，投資者透過使用永續期貨（Perpetual futures）這種金融工具，成功繞過了限制外國資金進入中國股票市場的法規。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此現象顯示全球資本對中國 AI 產業的投資需求依然強勁，但面臨日益嚴格的資本管制與市場准入限制。投資者轉向加密貨幣交易所的永續期貨，反映出現行傳統金融管道已無法滿足其配置需求，促使資金流向監管較鬆或結構不同的替代市場。這種趨勢可能導致中國政府對資本外流的監控難度增加，並迫使監管機構重新評估現行外資進入策略。長期來看，若此類繞道行為成為常態，可能削弱中國對本土科技股定價權的控制，同時加速加密貨幣衍生品在傳統資產對沖中的應用普及，改變全球資金流動的結構與風險分佈。 <a href=\"https://www.ft.com/content/af333b9c-d59d-4e7c-b814-12cef578895d?syn-25a6b1a6=1\">[來源]</a></div>"
         }
       ],
       "watchlist": [],
       "no_signal": false,
-      "deep_count": 3,
+      "deep_count": 4,
       "watch_count": 0
     },
     {
       "name": "Global",
       "anchor": "Global",
-      "archive_url": "./history/2026-07-26_03-37/index.html#Global",
+      "archive_url": "./history/2026-07-26_13-43/index.html#Global",
       "stories": [
         {
-          "title": "India's 'cockroach' protest called off after education minister quits",
+          "title": "What we know so far about the Berlin Pride ramming attack",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：印度教育部長辭職後，被稱為「蟑螂」的抗議活動已取消。該抗議活動（CJP）是近年來對印度總理莫迪政府最顯著的公眾憤怒表達。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：教育部長辭職直接導致抗議活動終止，顯示印度政府高層人事變動對社會動盪具有即時緩解作用。此事件反映莫迪政府面臨的公眾壓力已達臨界點，迫使高層做出讓步以穩定局勢。抗議活動的取消雖暫時平息輿論，但未必代表根本矛盾解決，未來若政策爭議持續，類似社會運動可能再次爆發。此案例凸顯印度民主體制下，官員辭職作為政治緩衝機制的有效性，但也暴露政府治理面臨的長期挑戰。 <a href=\"https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：德國柏林於週六晚間舉辦驕傲節活動期間，一名嫌疑人駕車衝撞人群，引發警方展開大規模追捕行動。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次柏林驕傲節車撞事件凸顯大型公共集會面臨的安保挑戰，尤其針對 LGBTQ+ 群體活動的潛在威脅。事件發生後警方立即啟動追捕，顯示德國執法機構對突發暴力事件的快速反應機制。此類攻擊可能影響未來大型活動的安保預算與規劃，促使主辦單位加強車輛管制與人群隔離措施。同時，事件可能加劇社會對極端主義與仇恨犯罪的關注，進而影響相關政策討論與資源分配。若調查指向特定動機，可能引發國際社會對德國社會包容性與安全環境的重新評估。 <a href=\"https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
         },
         {
-          "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+          "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：在白宮記者晚宴上，特朗普對媒體進行了抨擊。該活動旨在慶祝新聞自由，這是自今年四月因槍擊事件導致首屆晚宴取消後的首次舉辦。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：特朗普在白宮記者晚宴上對媒體的抨擊，反映了當前美國政治與新聞界之間持續緊張的關係。此類公開批評可能進一步加劇政治極化，並對新聞機構的獨立性與公信力構成挑戰。儘管活動本身旨在慶祝新聞自由，但政治領袖的敵對言論可能削弱公眾對媒體的信任，進而影響民主社會中資訊流通的健康度。此外，此事件發生在首屆晚宴因槍擊事件取消之後，凸顯了新聞工作者在當前環境下面臨的安全與政治壓力。長期來看，若政治人物持續將媒體描繪為敵人，可能導致新聞報導的自我審查增加，並影響公眾獲取多元觀點的能力。 <a href=\"https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：法國和西班牙的野火已導致超過 33 萬人撤離。消防人員正在波爾多附近與野火搏鬥，當地數萬人已被疏散。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次法國與西班牙大規模野火事件顯示南歐地區氣候變遷下的極端天氣風險加劇，對區域旅遊、農業及基礎設施構成嚴重威脅。超過 33 萬人的撤離規模反映災害應變系統面臨巨大壓力，可能導致長期經濟損失與保險成本上升。波爾多作為法國重要葡萄酒產區，若火勢持續蔓延，將直接衝擊當地農業產出與品牌價值。此類頻繁發生的野火事件可能促使歐盟加速推動氣候適應政策與跨國消防合作機制，同時推動綠色能源轉型以減緩長期氣候風險。 <a href=\"https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
         },
         {
-          "title": "More than 300,000 flee wildfires in France and Spain",
+          "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：法國和西班牙超過 30 萬人因野火被迫撤離。西班牙首相警告未來幾小時情況將十分複雜，法國當局表示波爾多附近的火勢尚未受控。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次南歐大規模野火事件凸顯氣候變遷下極端天氣對歐洲基礎設施與人口安全的嚴重威脅。超過 30 萬人的撤離規模顯示災難已超出地方應變能力，需跨國協調資源。法國波爾多地區火勢失控可能重創當地農業與旅遊業，而西班牙首相的警告暗示火勢蔓延風險仍高。此類頻繁發生的野火將迫使歐盟重新評估防災預算與氣候適應策略，同時可能推升區域保險成本與房地產風險評估。長期而言，南歐國家需加速推動森林管理改革與早期預警系統升級，以應對日益頻繁的極端氣候事件。 <a href=\"https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：巴勒斯坦方面指控以色列定居者在約旦河西岸縱火焚毀清真寺、汽車及農田。此次襲擊發生在兩天前，當時定居者與巴勒斯坦人在 Tell 村附近爆發衝突，造成四名巴勒斯坦人和兩名以色列人死亡。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次針對清真寺、汽車及農田的縱火襲擊，顯示約旦河西岸的暴力衝突正從人員對抗升級為針對宗教場所與經濟基礎設施的破壞行動。定居者與巴勒斯坦人之間的流血衝突（造成六人死亡）往往成為後續報復性襲擊的催化劑，這類事件極易引發區域性的暴力螺旋，加劇當地人道危機並破壞國際社會推動的和平進程。針對宗教場所的攻擊尤其敏感，可能引發更廣泛的宗教對立情緒，使局勢進一步失控。若此類針對平民財產與宗教設施的暴力行為持續，將嚴重削弱當地安全機構的威信，並可能促使國際社會對相關方施加更嚴厲的制裁或外交壓力，進而影響中東地區的整體穩定。 <a href=\"https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
         },
         {
-          "title": "Would you pay $58.5m to live in this iconic New York building?",
+          "title": "Left-wing Democrats are on a winning run - but can they lure back crucial swing voters?",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：位於紐約的熨斗大廈（Flatiron）翻新工程即將完工，準備進入其下一個且最為奢華的階段。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：熨斗大廈作為紐約地標，其翻新完成並轉向奢華用途，顯示頂級地產市場對歷史建築的重新定位趨勢。此舉可能推高周邊商業與住宅地價，並吸引高淨值投資者關注。然而，5850 萬美元的潛在售價反映極端市場分層，僅限少數買家參與，對整體房市影響有限。此案例亦凸顯城市更新中文化保存與商業開發的平衡挑戰。 <a href=\"https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：左翼民主黨近期取得一系列勝利，但密西根州將測試其能否贏回關鍵搖擺州中的藍領選民。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：民主黨近期的連勝顯示其選舉策略在部分選區奏效，然而密西根州作為傳統工業重鎮，其選民結構以藍領階級為主，這將成為檢驗民主黨能否重新凝聚關鍵搖擺選民的核心戰場。若民主黨無法有效回應經濟焦慮與產業轉型議題，即便在文化議題上獲得支持，仍可能因失去工薪階層而影響整體選情。此趨勢反映美國政治版圖中，經濟議題與階級認同正重新定義兩黨競爭格局，對未來中期選舉及總統大選的戰略佈局具有指標意義。 <a href=\"https://www.bbc.co.uk/news/articles/c5y3rrd32jlo?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
         },
         {
           "title": "The notorious Cameroonian prison with its own record label",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：喀麥隆著名的監獄New Bell的囚犯已成為迷你明星，他們在監獄內錄製歌曲和音樂錄影帶。該監獄擁有自己的唱片公司，囚犯們在監禁期間參與音樂創作與製作。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：New Bell監獄設立唱片公司的現象，顯示出非傳統機構在文化產業中的潛在角色。這種模式可能為囚犯提供技能培訓與心理重建機會，同時創造獨特的音樂內容來源。然而，此舉也可能引發關於監獄管理倫理、商業化程度及囚犯權益保障的爭議。若此模式成功，或可推動全球監獄系統探索更多元化的更生方案，並為音樂產業帶來新的創作視角與市場機會。 <a href=\"https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：BBC News 報導指出，喀麥隆著名的紐貝爾監獄（New Bell prison）內，囚犯已成為小型明星，他們在監獄內錄製歌曲並拍攝音樂錄影帶。該監獄因此擁有自己的唱片公司，讓囚犯在服刑期間從事音樂創作與錄製活動。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：紐貝爾監獄設立唱片公司並讓囚犯錄製音樂，顯示該地區司法體系嘗試透過藝術與文化活動進行罪犯改造。此舉可能有助於提升囚犯的心理狀態、培養技能並減少再犯率，同時為監獄管理帶來新的社會關注與潛在經濟效益。然而，此模式的成功依賴於監獄資源、管理機制及社會接受度，若缺乏配套措施，可能僅是表面工程。長期來看，若此模式能擴展至其他監獄，或可成為非洲地區矯正政策的創新範例，但需進一步觀察其可持續性與實際成效。 <a href=\"https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
+        },
+        {
+          "title": "Would you pay $58.5m to live in this iconic New York building?",
+          "confidence": 60,
+          "heat": 22,
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：位於紐約的熨斗大廈（Flatiron）的翻新工程即將完工，該建築正準備進入其下一個且最為奢華的階段。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：熨斗大廈作為紐約最具標誌性的建築之一，其翻新完成並轉向奢華定位，顯示出頂級地產市場對歷史地標的極高估值與投資熱情。以 5850 萬美元為潛在交易價碼，此舉不僅反映了紐約房地產市場在高端領域的韌性，也預示著歷史建築透過現代化改造與高端化運營，能創造出超越傳統商業模式的溢價空間。這種趨勢可能激勵其他城市對類似地標進行高成本修復與重新定位，進而推動全球歷史建築保護與商業開發的結合模式。 <a href=\"https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
         },
         {
           "title": "What Love Island tells us about the changing face of dating",
           "confidence": 60,
           "heat": 22,
           "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：BBC News 報導指出，英國實境秀《Love Island》反映了英國約會文化的演變。該節目展示了女性主動出擊以及關係動態的轉變，成為觀察英國約會文化變遷的窗口。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：《Love Island》作為英國極具影響力的實境節目，其內容變化不僅是娛樂趨勢，更折射出社會性別角色與互動模式的深層轉變。女性主動追求伴侶的現象在節目中日益顯著，挑戰了傳統由男性主導求偶的社會規範。這種媒體呈現可能加速大眾對非傳統約會模式的接受度，進而影響現實生活中的社交行為與期待。產業層面而言，製作單位若能持續捕捉並放大這些社會變遷，將能維持節目的相關性與收視率，同時引發更廣泛的社會討論。然而，過度戲劇化的呈現也可能扭曲觀眾對健康關係的認知，需謹慎平衡娛樂性與社會責任。 <a href=\"https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：《Love Island》作為英國極具影響力的實境節目，其內容不僅是娛樂，更折射出社會性別角色與互動模式的深層轉變。女性從被動等待轉向主動追求，顯示傳統約會規範正在瓦解，這可能促使產業界重新思考媒體內容的敘事策略，以反映當代觀眾對平等關係的期待。此趨勢若持續，將影響廣告商針對年輕族群的行銷定位，並可能推動更多探討現代關係議題的節目製作。 <a href=\"https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
+        },
+        {
+          "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+          "confidence": 60,
+          "heat": 22,
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：柏林驕傲節活動發生攻擊事件，警方已確認一名21歲嫌疑人身份，但該嫌疑人目前尚未被逮捕，警方持續進行追捕行動。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：柏林驕傲節作為歐洲重要的LGBTQ+集會活動，此次攻擊事件凸顯大型公共活動面臨的安全挑戰。嫌疑人身份已確認但尚未落網，顯示警方偵查進度與追捕效率將直接影響公眾安全感。此事件可能促使德國及歐盟加強對大型集會的安全防護措施，包括增加警力部署、強化監控系統及跨國情報共享機制。同時，針對仇恨犯罪的立法與執法力度可能進一步提升，以回應社會對弱勢群體安全的關注。長期而言，此類事件可能影響國際遊客對德國大型活動的信心，並促使主辦單位重新評估風險管理策略。 <a href=\"https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
         },
         {
           "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：根據世界衛生組織（WHO）的數據，義大利兒童是歐洲體重過重比例最高的群體之一。儘管地中海飲食被視為健康生活的藍圖，但義大利兒童的飲食習慣包含披薩、義大利麵、馬鈴薯和蛋白質，這與傳統的健康飲食形象形成對比。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：這一現象揭示了傳統飲食文化在現代社會中的演變與挑戰。儘管地中海飲食以健康著稱，但義大利兒童體重過重的情況表明，現代飲食習慣可能已偏離傳統模式。披薩、義大利麵等高熱量食物的普及，加上生活方式的改變，可能是導致這一問題的主要原因。此趨勢對公共衛生政策提出警示，需重新評估飲食教育與健康促進策略，以應對兒童肥胖問題。 <a href=\"https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
-        },
-        {
-          "title": "Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis",
-          "confidence": 60,
-          "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：在菲律賓，網球運動正經歷蓬勃發展，這在一個傳統上熱愛籃球和拳擊的國家中尤為顯著。菲律賓網球選手亞歷克斯·伊拉（Alex Eala）在溫布頓網球錦標賽的出色表現，成功吸引了普通菲律賓民眾對網球的熱愛。過去被視為富人專屬運動的網球，如今正逐漸普及化。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：伊拉在溫布頓的突破不僅是個人成就，更成為菲律賓體育文化轉型的催化劑。在長期由籃球和拳擊主導的體育版圖中，網球的興起標誌著菲律賓民眾興趣的多元化趨勢。這種轉變可能帶動相關產業鏈的發展，包括網球裝備銷售、培訓機構設立及賽事舉辦機會。此外，伊拉的成功案例可能激勵更多菲律賓青少年投入網球訓練，長期來看有助於提升該國在國際網壇的競爭力。然而，要實現網球的大眾化，仍需克服基礎設施不足和資源分配不均等挑戰。 <a href=\"https://www.bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
-        },
-        {
-          "title": "CJP protest: The youth movement India's Modi didn't see coming",
-          "confidence": 60,
-          "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：CJP 抗議活動始於考試試題洩漏事件，已發展成為印度數年來規模最大的學生運動。BBC News 報導指出，這場由年輕人主導的運動是印度總理莫迪未曾預見的挑戰。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次 CJP 抗議活動從單純的考試舞弊爭議演變為大規模學生運動，顯示印度年輕世代對教育公平與治理透明度的高度敏感。莫迪政府雖長期強調發展與改革，但此次突發性社會動員反映其政策溝通或監管機制存在盲點。若政府未能有效回應學生訴求，可能引發更廣泛的社會不滿，影響其政治穩定性與改革議程推進。此外，學生運動的組織力與傳播速度凸顯數位時代下社會動員的新特徵，對未來印度政治生態與政策制定產生深遠影響。 <a href=\"https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
-        },
-        {
-          "title": "Protesters celebrate resignation of India's education minister",
-          "confidence": 60,
-          "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：印度教育部長已辭職。由青年發起的「蟑螂人民黨」（Cockroach Janta Party, CJP）在部長辭職數小時後宣布停止抗議活動。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：印度教育部長辭職並引發抗議團體立即終止行動，顯示該抗議活動具有明確的針對性與短期訴求導向。CJP 作為青年主導的組織，其迅速撤離抗議現場的決策，反映出現行社會運動在印度政治環境中具備高度靈活性與策略性，能針對具體人事變動做出即時反應。此事件可能強化青年群體對政治參與的信心，並促使其他社會議題的倡議者效仿此類「目標導向」的抗議模式。然而，單次人事更迭未必代表結構性改革，若政府未同步推出配套政策，類似抗議可能在未來因其他議題再度爆發。長期而言，此事件凸顯印度教育政策與青年世代之間的張力，以及民間組織在監督政府決策中的關鍵角色。 <a href=\"https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：根據世界衛生組織（WHO）的數據，義大利兒童是歐洲體重過重比例最高的群體之一。儘管地中海飲食曾被視為健康生活的藍圖，但義大利兒童的飲食習慣已轉向高熱量食物，包括披薩、義大利麵、馬鈴薯和蛋白質，這與傳統的健康飲食模式形成對比。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：義大利兒童體重過重問題凸顯了傳統飲食文化與現代生活方式之間的斷裂。儘管地中海飲食以橄欖油、蔬果和全穀物為核心，被廣泛認為有益健康，但當代義大利兒童的飲食結構卻偏向高熱量、高碳水化合物的加工食品。這種轉變可能與城市化、雙薪家庭增加、外食文化興起以及廣告行銷等因素有關。長期來看，這將對義大利的公共衛生系統造成沉重負擔，並可能影響未來勞動力的健康與生產力。政府與社會需重新審視飲食教育政策，並推動更健康的校園飲食環境，以扭轉這一趨勢。 <a href=\"https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&amp;at_campaign=rss\">[來源]</a></div>"
         }
       ],
       "watchlist": [],
       "no_signal": false,
-      "deep_count": 10,
+      "deep_count": 9,
       "watch_count": 0
     },
     {
       "name": "Investments",
       "anchor": "Investments",
-      "archive_url": "./history/2026-07-26_03-37/index.html#Investments",
-      "stories": [
-        {
-          "title": "Here are 4 forces that drove a tough week for stocks",
-          "confidence": 60,
-          "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：投資者在本週面臨多重挑戰，包括中東緊張局勢升級、關鍵科技業財報發布以及醫療保健領域的發展動態，這些因素共同導致股市表現疲軟。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：本週股市承壓主要源於地緣政治風險與企業基本面變化的雙重衝擊。中東局勢升級加劇了市場對能源供應中斷及全球供應鏈不穩定的擔憂，推升避險情緒。同時，科技巨頭財報若未達預期，將直接打擊成長股估值，而醫療保健領域的政策或臨床數據變化則可能引發板塊輪動。這四股力量交織，顯示市場對宏觀不確定性與微觀業績的敏感度同步上升，短期內波動率恐維持高位，投資者需密切關注地緣政治演變及財報指引以調整倉位。 <a href=\"https://www.cnbc.com/2026/07/25/here-are-4-forces-that-drove-a-tough-week-for-stocks.html\">[來源]</a></div>"
-        }
-      ],
+      "archive_url": "./history/2026-07-26_13-43/index.html#Investments",
+      "stories": [],
       "watchlist": [
         {
-          "title": "Warren Buffett is giving away $140 billion to charities. But what happens to the taxes? - livemint.com",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb3ZydXU4UE5LYVlKNXlsSVVQY0pWTW1Xc3VGV3VXeHhoZWZ0MElBREwzaTJibFRuSlkyWnZXREcySlhxcFU1NE9JQ2JEV2ZyYzNnVlhoS2lVZ1IwQUxYY3Yzek5DTmpXUmM3ZF9QUm02OFduRW9GaDlaMXo5Yy0yV0paVGVpclZCTl9DcFh3UFNKekRKVUt2dzhpYnh0YmRsSVhRQTZLT3FJYWZHTnNSRGcyX2pxWERrM1JhaW1CXzVoNWpnUklPQ3MxREZ0QVd4RVlMdHRTXzY2M1J0RGlFZ2ZsbXhnOEXSAewBQVVfeXFMTVluaFlqQUJQYjZ1cEhObmRoSVA4dVA3cTZuVXl2ZUg3YVFCbkxqbHJQenhScGhOTFFXR0k3Unh6UnZTcWxMdXR0WFIyQkVURENtQnE5UEJuWks5RF9VTDFrcUxfdzQ0MkZKVUJKRUFDZ2J5SHBmeFFVVVQzUW9BZ3BZTzl0TFJvZVRkZUpJUVRENTdmVVM3Qmd0OGdoNHUwb2YxaVJUSjU3cnUtdndEbEM5ZF84d3N5SVhCTEYzZk14TUJ1Ni1ZWVdqeXNNbk9XQ0NQTFFhbHhjRzJMcGM0MnZ3c3FhYXkta1VETlA?oc=5",
+          "title": "Berkshire Hathaway Holds a $28 Billion Stake in Alphabet, and Warren Buffett Says He Initiated It - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeEVqZlhxMVZUUnRycmwzTXZVVW45YmFoamZnNHk3N0UzbmxEb0VmWnBJcUNlNzhydlFkclpiR1lZanprSllaZFZPNE10ck41N3BwNF9IWGdpWFRWOUlYdERUSzNsekpla2dWQjVtYzV5TFFrYl9VckxrekwxYlZ3c3lLNEhfX2d0Q1dxNXRPTDBYRmlaSl9QUTJzVTJfWDFyS0E?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Berkshire Hathaway Completes $6.8 Billion Acquisition Of Taylor Morrison - Pulse 2.0",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZllreDdJMzJZdUlTS2t6TkpMV0lzTGJmWFlxQ1U0b3k4elFzVTJWLXN3WUVHMzhyVDhyZFgyMlZqTHNROEZXY2xtTmMybFFjT3JhUzJzRThMOVh5LVN6aUNOU21uTWxlYnBpTXRBNUdnY011WFlLMm5nUm1lQmZtLUFaWHpNYU94SUZTbVQ2N01sZTNlRkHSAZsBQVVfeXFMUHZvMUlLWHdMMzVCY2p6MElGVjEzU1NOX2RGNjlpZVl5ZUhwOTR4eTJZMzQ5UkRnUnpUS080WC1IVWpWamNoYWhoSE1CYll5Szg4OXJlcEtpX2t6WUxVT1BXSXVGQzQxYkFENTJnZ20yXzN6ZUNQTmloeUlQd2xZZDJVTUJhRndhMlNHeXUxbEo2U3Y0el9yNXkzb2s?oc=5",
+          "title": "Warren Buffett's Successor, Greg Abel, Tripled Berkshire's Stake in This Megacap AI Stock (Hint: Not Apple) - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYmZxZi0yekNLVVBHZDByVHFGLTBtV3JZZlRYdTFmd1M5MzdHcG9GR3NodkI0QmxoZ1pjamZVLVAwdGNqSjlzcHV0aGNvR1pWcW9OaHlEVTNKajVIQkNUMmVWS083MmJwcWtiX1NnWGlfc2Uwc2tra3RDQ2tZa2dHbGtlT0hRV2hhQmlKbmtNZ0gteEhLWEMwbQ?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "How Warren Buffett Explains Complex Ideas So Everyone Understands - inc.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDN6cWJLM2tqRUFuYnBmcS1kSENWTGtLaFJ5R1lSRWtGc1VKTDBzVEhPYm1iZUljbW1qSEl4eXFObFdxTVE0RDRfcThaRTNFaWhTZFFSRW4wemlCV3QtQWdEZTlXSkFzNm5xZ0tnRXo4UjRjS2JsYXM5d0ZYYTBmc25qWVVoSkh2MnMwcjJZejVrMXRneFRMRzZfUTVuRVJ4QVJmdzhRQTllVHJy?oc=5",
+          "title": "Warren Buffett Built a $397 Billion War Chest. Berkshire Can Buy Almost Every S&P 500 Company - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTE0yWXVaYUR3MkQwSWRBcmVUOW5fRk5JVFR6TG8xUzNqakI2cWpmbW1QSFFmQmhwcGVoYmRlWGxjdkxmakROM3VjcGR4MEo3MTNxSHNUdmNfaW1DdjVfdEhHWHRXcVc4cVRXNzJCbzI4d2d6Y2drRTFDeVBZZXpIX0swckxmaHJjdXpxTEY1dmoxWTgwTFYzWWlUQ0NLZw?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Greg Abel’s Capital Allocation Shift Could Be A Game Changer For Berkshire Hathaway (BRK.A) - simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZmM4MG1JRU9nYkhPUHpya0tTWGJhTUtnV21TX1hIX3NNN21SUjI1TmRRbHRqQzVoZUxIU2szak9fWWZmcFozTm41RElVb1RFZzQwbFB2Ty10RmV4WnRfb2ZtMzBtTHktVE12Mlo2dkVJdUYyeDZXR2R3V014LWl5T1o5a21vUEYwa0FCVGJMMjVwM1JBZ3J6bzItOVNxNjNEYzBLVGZ3X1NMelZsT0I1YW40V3NQQS04djdoTzJ1RV9PZWhITzlJamN5elVrRmd2TUp3emdBbXkxMDhKZzNyNW1fd9IB6AFBVV95cUxOZURzVEx5NW9SVFZ5REFKdTVrOHl1QjNTMHp5NnlidEljV3BRaENzNk9XYnk5aG9fV2ZoNE5iMlVzWkdmSzVqX2hOZWU1bV90TnRVYlNzSXdscHRlamhHNTNGd2xxNlNUUHgtdjZuQ01TYmxzREFGZ3lXSlhLUVVzRFliX1M3TmZvN29MUnZadHZKOG1jekdaT050dTRycGR0QTZmdklCZnlIazRVYmVZOFMxU3pEZjNkWmdZV0MwcnFWZzFYZmlxam9vcmxlaFF0U0NRbGxra1pCQlo4TjU4azEwYksxOV9f?oc=5",
+          "title": "Warren Buffett says 'humans love to gamble' as he takes digs at a speculative market — so why do investors ignore him? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnV5WVlpb3ZEUWVwTmstUkt0NFhqc3oxUlBiZHcyLUhzSDl4c1dyRVJSck5PS1hjcEp5SmJHeUFVLURsMDM3b1ZNSzFkdjhNZUlQQWtSZ2VMN251d2E3ckFUNkR5ZjJTMDZRZXZkYkJudUxlSlpUZGdyQTJmdjhwbmItVjJVRDB1djUxVVRldjBhT0MxTWxfR1F6VlA?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Alphabet vs. Apple: Which Warren Buffett Favorite Is the Better Buy Right Now? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWHI4ZzR2WlB2VWlYS0VDSTNtT3A3bjlvbkxUOFBPWnNoOFhYVDAzN0pDamVMTjVRSTM1WGVINmhIc2czNkx6X0R0d0JHQWZRSkp0ak8wS2JzaWpBNEZXS2xCc1ZNR1RBSU1GUnVnUlM0alEwMW9udUFIazNSRHQyT3BxNnRyTlVmWHcyTnZDWTJJbHZRMDRpenFhX00yUQ?oc=5",
+          "title": "Berkshire Hathaway Holds a $28 Billion Stake in Alphabet, and Warren Buffett Says He Initiated It - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzBXX1MyWks0STRZZ2pDazMxOWh6Wk5aRVR3bEx2aDdmM1JxbV84aVJfRVlfaGJHRTl1clUwQS1HdUpKVmE4dHVtQWQ3eXFEX3N4dGdXWlJ0S3VTdW1rOEZiSl94RkxiRUdtbWxMdlctWlJOQUpaLTVQVXhIT2xVbms2bGVBUjU5cG82VVdGcHZYNWowZEZ2bw?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "If You'd Invested in Occidental Petroleum Like Warren Buffett, Here's How Much You'd Be Worth - AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmJtTFZZRHc5UklNU0k2YkE3cmtFZmZLeVA1WWN6clp1YmZ5VWZOaGdWdEJXS2pNcXhuVnRUZ1NmZjgzV0tHVUJmLURFRHVvdjFIalVhMnVFSV9MNm93cFFVeDNqczcwdzhHbnBZZHMtWmdtazNJMEJfaEl2Mk94c2lBRFROQWRsSGxHU2hB?oc=5",
+          "title": "Warren Buffett Built a $397 Billion War Chest. Berkshire Can Buy Almost Every S&P 500 Company - 24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM0FkclJvRFZVbWM0M0JPWVRkdXFSbUw1S2pRYnh0V1lMUlNoRk1TbGphemhFMlBSNktueVB6V191dy0xbHJoc29Oa0xTTWZqUFNqUXVVSzJudVFTS2FsOGVlVmtDS0JZMnRiYzFuS2pORFJjOFVCS3pqVHBNd0EzdTFvYmFhM19IRjhsZWFmNlR4djRRUWt0eTNpaHczV1BRemtidzRHdUhIYkI2STZUUE9GR1hoRFBJRDQzZS1Xajc3YjRWRTVCT0VsYkhic2s?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "US Housing Stocks Tied To A Recovery That Could Lift Mortgage And Brokerage Demand - simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLTdvUjB0OEpCemVJYzRCUTlOMkFSMGZsN1M4NmVPQl9rQ1hINXItSllqdnNOTXFvVEdEYzZLaHlIS1V1ZjFCTFRsY0JRdGppMlhvQjk0Yi02ZjNGd3QtRGJVWURkcXFVQkpJZ2lFVmFqNm9YdFhmRE9RbjZCd0R0Z0NtQlZLRkRST0NVcHU0dlRCRG9YckVqYzU1SVR6Ym8wangzSktISmlKX1E2WUFPRWVCRjRIdDB2UFkwUERlOTFCMndFZkhieXhuOV9TTENnbHZwX2VTS3VpbXlYTWV2YndTaWdPa21EWW9ETWQ2eE1Wcko0QkHSAfsBQVVfeXFMUFhRUGFEV016S05fTjV4RkM4VWpwOXNHTUpoRFM4aTZZWnVEWUZ0UWJnQzFUUmw1ZTViODFjX3hXUDJMUnZraG41TzZ2RGFQUWFxcTNKTFZybGtWQUFJYXhGbkVaNU9QV0VzTHRQMjVMNnVCdVU3ZVRxR3BTekw2STl0ajFtQmMxRnVrUEpCSlhQRGFsSVBXVUljT1lNOXFjUU1ONFhWQ0ZsaU1CSkl3dHNMZmR5bGJLSDJMOGEyay1hMEt6eU4xbTJKdzNDZjlHWUtfQUhPMW44U0pfWmZQM2dTcUI4XzFjQUo5M3JzMWNuMHI0NkdUT3VneW8?oc=5",
+          "title": "SUNDAY, JULY 26, 2026 Ad - Berkshire Hathaway HomeServices The Preferred Realty - Pittsburgh - Tribune-Review - TribLIVE.com",
+          "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxNblFSTXFNLXFHR3MxeDBsSTVtcjA1WDRSZUVDZ0huWmJLcXN1Vk8ySk5JaTNGTnZZQmRpMDVkODZuenFsTzJ3N1FiaHlBOHhPZ1VMakZ4T2FNVHEtUC1OY3o2NWk0QlhzXzBHUnowdlNYMWl1X2dRMVZsU3JYNzh3ZWVFU0t4VFdHLWU3UVZVZU9tbS1idFlMQ0hYenpmeEFoYmpONWZoaHByZ3VWanhUQU1TSGJPbWR3NWxoNmVCYzBGOUpvdHIxekZJTG1VczFBc2YxaU1WZ1hpTVhqZHJldThZazh1clAxZ0pNaDZ6MWZROWpveXBuSE5lcll3OXMyWS1yaVNrRzV2bW9heElYYS1sbnBzTjVqVVpJZ1ZVbXZSQS1PbGdsQVJOdFplellZa0RWUjQ4Nm1ObkxZcThyeUdwQUlJUkJEUzBTUzMxZlRqdkNCcXprekxGUzYyaHZ4MFY1Y3FDYW01aWM0LVlYRlN0Nm1OZ0k2ZkJ6dkFwdFpURUUwMUphSzZWT3JMeFl0aUszQlZZN1FuZk5pUXFabFhyNG1vMzlJMnZNTG9FX2FqV0F1cEZHY0N1V0gtaS1WUGxseHk5c041ZFc1SU9BSHA3ODM5WU5abGZPLWkybnZXWDNtUHZHYWtYWkVIMUFONE51V1NFMjJLNS1rcVlneGszX2N5TnphMjM5eTJJY1RhWjJN?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Alphabet vs. Apple: Which Warren Buffett Favorite Is the Better Buy Right Now? - The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYm1FSUh4bC1EUjlGcHhBbS14STFWWXVnbnBoUDBGY3Z2VmtTaDY5RHhHVDJmMGZaMHIzSHpvUlFRNGFpalRKM2ZZOVFEbmFScVpPdkVndVNLemN3QXYzSWx3YVc3ek1iOHoyYjc1aC1zcTJIeElLS3Jnb0dHTHFxRGl5eVNQd3BNeXVkMUI5Mm1TQ2R1ZWY4cVpQaHRJb3RnMHI0cEVxc1JrWEU2ejYtMFdGSlVUMVB1aHlXMnRzYzYwOGpMNHhiZVdQTmRzZWJsODJzTE5lNHF1YjVHQkVCV2NiNjdrSVhOSFE?oc=5",
+          "title": "Warren Buffett’s Multibillion-Dollar Bet on Alphabet: Inside the Oracle’s Big Tech Pivot - stl.news",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xeWxUckdHbXBPSWFYYmlkWU5OUGlZTHFTUy0xdjJEVXQ5T0RQQU5lNnN0dC1fS29IZ1dNX1phRnFyb2k2elJYbms0Q19IRnowaWhBRVlrb0xHYll3MEttQko4MlpKZFp6TVpLVzM2bXNrZmFITDMyQ3d4SEkxUQ?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Buffett’s $30 Billion Alphabet Bet and the Apple Trade He Calls Too Soon - finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55Vlh5Y0ZyMlp4UTdoQ1RlOENYakJKMFY5RXBHakNrbWVuWElDTlNVVzZESDlfYUczYlNsdnZJUEl3UnlwczlUaGR0YWl4aVF1NnA4NnRNTk5VQWZuR2dENUNPRV94NDRBNEdVOTFYekRrNWlpb3c?oc=5",
+          "title": "Berkshire Hathaway stock trades steady as insurance earnings and cash pile shape investor focus - AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZERhOXJCX09zcEJYRGNmOVMtYlU2SHQtalo4ZXhJUDhBZFZ3bktvdUUzMVd2eV9KSFk1eUhVREVjZGNwWUZpVU5WSDV6WWJwdEVIMTlsdEdCNzk5bzVEWUVZSzVMSFF1aFFMcXlWdTNHMm5aeUcwcUliVUZUSktwUGl0TGd3LWRfQ1NEUkprYXZ0QjBya1pQb0tVNi1xclpiSm84M3J5azBsbkhva2R5S005cDhKTWhheUZfR1VqRWFfNWNSNEVFdFRXb2pIQQ?oc=5",
           "tier": 4,
           "seen_count": 1
         }
       ],
-      "no_signal": false,
-      "deep_count": 1,
+      "no_signal": true,
+      "deep_count": 0,
       "watch_count": 9
     },
     {
       "name": "Product/Growth",
       "anchor": "Product-Growth",
-      "archive_url": "./history/2026-07-26_03-37/index.html#Product-Growth",
+      "archive_url": "./history/2026-07-26_13-43/index.html#Product-Growth",
       "stories": [],
       "watchlist": [
         {
-          "title": "🧠 Community Wisdom: Staying on a client’s radar during pilot purgatory, pairing Linear with a discovery tool, the limits of what AI can automate, whether Techstars is worth it, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients",
+          "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
+          "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
           "tier": 3,
           "seen_count": 1
         }
@@ -213,12 +205,12 @@
     {
       "name": "Social Sentiment",
       "anchor": "Social-Sentiment",
-      "archive_url": "./history/2026-07-26_03-37/index.html#Social-Sentiment",
+      "archive_url": "./history/2026-07-26_13-43/index.html#Social-Sentiment",
       "stories": [],
       "watchlist": [
         {
-          "title": "Schools across America are quietly admitting that screens in classrooms made students worse off and are reversing years of tech-first policies",
-          "url": "https://www.reddit.com/r/technology/comments/1v6lwmp/schools_across_america_are_quietly_admitting_that/",
+          "title": "Inside the growing vigilante movement to knock out Flock surveillance cameras /// An underground network of privacy activists is disabling or destroying the ubiquitous surveillance devices sprouting up across the US",
+          "url": "https://www.reddit.com/r/technology/comments/1v6zsx7/inside_the_growing_vigilante_movement_to_knock/",
           "tier": 4,
           "seen_count": 1
         },
@@ -229,20 +221,32 @@
           "seen_count": 1
         },
         {
-          "title": "SpaceX Investors in Meltdown Over All the Money They’ve Lost",
-          "url": "https://www.reddit.com/r/technology/comments/1v6gto0/spacex_investors_in_meltdown_over_all_the_money/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
           "title": "A proposed 330-megawatt AI data centre in California promised not to use Colorado River water. Now it wants 260 million gallons a year",
           "url": "https://www.reddit.com/r/technology/comments/1v6oclv/a_proposed_330megawatt_ai_data_centre_in/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "url": "https://www.reddit.com/r/technology/comments/1v6djg3/corporate_america_has_suddenly_decided_to_stop/",
+          "title": "GrapheneOS duress PIN could land a man in prison",
+          "url": "https://www.reddit.com/r/technology/comments/1v6surg/grapheneos_duress_pin_could_land_a_man_in_prison/",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "Anoka County's Sheriff Signed a $174,999 Flock Safety Contract – Exactly $1 Under the Threshold Requiring Public Board Approval",
+          "url": "https://www.reddit.com/r/technology/comments/1v6u52v/anoka_countys_sheriff_signed_a_174999_flock/",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+          "url": "https://www.reddit.com/r/technology/comments/1v72agq/librarians_are_hosting_viral_avoiding_ai/",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "Widespread PSN outage leaves players dreading all-digital future more than ever",
+          "url": "https://www.reddit.com/r/technology/comments/1v72m7l/widespread_psn_outage_leaves_players_dreading/",
           "tier": 4,
           "seen_count": 1
         },
@@ -253,44 +257,32 @@
           "seen_count": 1
         },
         {
-          "title": "Guillermo del Toro Says There Is \"Absolutely No Goddamn AI\" in ‘Pan’s Labyrinth’ 3D Re-Release: \"We’re Protecting a Lineage of Art\"",
-          "url": "https://www.reddit.com/r/technology/comments/1v6gt2v/guillermo_del_toro_says_there_is_absolutely_no/",
+          "title": "Playboy's celebrity-driven relaunch faces credibility test in OnlyFans era, expert says",
+          "url": "https://www.reddit.com/r/technology/comments/1v6qv2w/playboys_celebritydriven_relaunch_faces/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school",
-          "url": "https://www.reddit.com/r/technology/comments/1v69cl5/really_inappropriate_teachers_decry_plan_for/",
+          "title": "Irish data centres used almost one billion litres of water last year",
+          "url": "https://www.reddit.com/r/technology/comments/1v72dq8/irish_data_centres_used_almost_one_billion_litres/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "If open weight models are the future, U.S. AI companies are going to have a hard time",
-          "url": "https://www.reddit.com/r/technology/comments/1v6g5pw/if_open_weight_models_are_the_future_us_ai/",
+          "title": "YouTube blocked the channels of Russian artists under sanctions in Ukraine",
+          "url": "https://www.reddit.com/r/technology/comments/1v6u0pw/youtube_blocked_the_channels_of_russian_artists/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Meta Quits Clean Energy Pledge Amid Gas-powered Data Center Push",
-          "url": "https://www.reddit.com/r/technology/comments/1v6ijpg/meta_quits_clean_energy_pledge_amid_gaspowered/",
+          "title": "Connecticut Click-to-Cancel Rule to protect consumers from auto-renewal of subscriptions",
+          "url": "https://www.reddit.com/r/technology/comments/1v70npz/connecticut_clicktocancel_rule_to_protect/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-          "url": "https://www.reddit.com/r/technology/comments/1v6gtor/moodys_says_unprecedented_ai_spending_threatens/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "ChatGPT invoked God, told pastor not to worry about his symptoms. Then pulmonary embolism hit",
-          "url": "https://www.reddit.com/r/technology/comments/1v6cuyb/chatgpt_invoked_god_told_pastor_not_to_worry/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Pope's official prayer app commits cardinal sin, leaks 700K+ users' info",
-          "url": "https://www.reddit.com/r/technology/comments/1v67g20/popes_official_prayer_app_commits_cardinal_sin/",
+          "title": "Saudi Arabia's takeover of EA gets approval from European Commission | The commission has ruled that the buyout will not cause \"competition concerns.\"",
+          "url": "https://www.reddit.com/r/technology/comments/1v6sie0/saudi_arabias_takeover_of_ea_gets_approval_from/",
           "tier": 4,
           "seen_count": 1
         },
@@ -301,50 +293,20 @@
           "seen_count": 1
         },
         {
-          "title": "AI could trigger a layoff trap that even smart CEOs can't escape",
-          "url": "https://www.reddit.com/r/technology/comments/1v6m8d3/ai_could_trigger_a_layoff_trap_that_even_smart/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Playboy's celebrity-driven relaunch faces credibility test in OnlyFans era, expert says",
-          "url": "https://www.reddit.com/r/technology/comments/1v6qv2w/playboys_celebritydriven_relaunch_faces/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
           "title": "AMD to sell Anthropic tens of billions in AI servers, invest up to $5 billion in startup",
           "url": "https://www.reddit.com/r/technology/comments/1v6pyff/amd_to_sell_anthropic_tens_of_billions_in_ai/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Microsoft is using TPM chips to crack down on pirated Windows activations",
-          "url": "https://www.reddit.com/r/technology/comments/1v6eagg/microsoft_is_using_tpm_chips_to_crack_down_on/",
+          "title": "Sony Pushing For All-Digital Future Even Though Only 27 Percent Of Ps5 Users Own Its Digital Edition",
+          "url": "https://www.reddit.com/r/technology/comments/1v6uf4s/sony_pushing_for_alldigital_future_even_though/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Waymo crashes 1/3 as much as a human driver, says IIHS – with some caveats",
-          "url": "https://www.reddit.com/r/technology/comments/1v6ovfm/waymo_crashes_13_as_much_as_a_human_driver_says/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Denuvo Removed From 007 First Light After Just Two Months",
-          "url": "https://www.reddit.com/r/technology/comments/1v6f6wc/denuvo_removed_from_007_first_light_after_just/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Virginia study on groundwater, data centers calls for tighter water regulations",
-          "url": "https://www.reddit.com/r/technology/comments/1v6fbib/virginia_study_on_groundwater_data_centers_calls/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "AI could lift Sub-Saharan Africa economy 4pc if power, internet improve, IMF says https://zurl.co/2KCU6 - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT3kyMFZKNmtMRVlMY2JKZlhUZmdrdTdVc2JNazBjNUhuTXJiSDZ1MzZ5b2hseDBZT25oY2ZpUmVlQjNvWXdfX0pqZFJ5eDBBMEVva0xkOXVjYmtvcnAydGVaN1RvQ05seDFLYmlhcTAzUVhQYmlRMVpYT3lzNmxya0RPY0ZRb2JsLW4weWdoS1cyT25OSmtUU1JPMWtBR0JCNE9CZDlPMjMtZlNzMkF6SEh0cGFPSDMwRUEyVmVySGVpYU1Eck5nOXQ1OERjQW01dERENW9Idm9rMVIzVlRRdVNR?oc=5",
+          "title": "Security flaw in Vatican’s ‘Click to Pray’ app leaves over 700,000 global users exposed — app has been leaking user data for over six months and still does",
+          "url": "https://www.reddit.com/r/technology/comments/1v6zoax/security_flaw_in_vaticans_click_to_pray_app/",
           "tier": 4,
           "seen_count": 1
         },
@@ -355,311 +317,381 @@
           "seen_count": 1
         },
         {
-          "title": "The future isn't built by following trends. It's built by believing in ideas. Whether you believe in AI, clean energy, manufacturing or healthcare, there's a curated investment basket waiting for you. Explore Curated Investment Baskets on SMC ACE App. #InvestWh - facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUmdnSUlEeF8zSGxRRE5fTWhvRXliZGFpRTVFSEI1bjZtWlR0X0ZCY2hndklDLV9HamNRTy1uN1drbExGSmlqcXFLcTB0S2pZUC02eVJ3Y3BnN0VnZkJVamxGekZ4M3NBWjVycjhaRmtBdmY2SVozWFltYXZUeGd4T0pOYm8zWnJtZ3F3b0Z1WEhLbWVqNkdYcDBZd3hzTzJzNy05X1pWRURZX0drcDJRYlRUNmtnalpIRHY5OGp2Z0NwVUgtZTJ3dUdJU2dfOVE3U0xlREg5ZDc1dHFZaF90UQ?oc=5",
+          "title": "APEC member economies have outlined four priorities for artificial intelligence cooperation across the Asia-Pacific, covering secure development, responsible adoption, innovation and broader participation. http://qrcode.cntv.cn/pDXc16kE - facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRW1qS09iQi0wbkVMV2xDMDFDZ0ZZeDlnOTNqdXppY050V1Byc2dqYV9xWlRnWXJkSTFJTDl2RVNyR25sd0ZoSTVUX1lTSmZSRUc2ekFhdmF5SWtzZmI4TGVIOVJONU9CYnAxdzRuQXJOc2JiWURjT2ljelhuVUNDNE1NOFFHUGl6dERDYVJKS2NCTUw3SllnOFBVQzR4YnRxcjhTbVlwZjhJd3dOWks4LW5id25GMU9nTE52b0RGeWxLd24xOFFDQUVkd19CSGY5MVkw?oc=5",
           "tier": 4,
           "seen_count": 1
         }
       ],
       "no_signal": true,
       "deep_count": 0,
-      "watch_count": 24
+      "watch_count": 19
     },
     {
       "name": "TW News",
       "anchor": "TW-News",
-      "archive_url": "./history/2026-07-26_03-37/index.html#TW-News",
+      "archive_url": "./history/2026-07-26_13-43/index.html#TW-News",
       "stories": [
         {
-          "title": "自由開講》從保齡球退潮 看匹克球場地規劃隱憂",
+          "title": "中國遊客印尼亂丟垃圾 澳洲女客開罵潑水 影片瘋傳引網熱議",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：匹克球近年在臺灣迅速流行，媒體與藝人推廣促使參與人數增加。運動部長李洋近日赴雲林視察匹克球場，各地政府亦開始盤點場地以回應運動需求。該運動特點為上手快、規則簡易。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：匹克球在臺灣的爆發式增長反映新興運動對公共設施規劃的挑戰。從保齡球場的興衰歷史來看，若缺乏長期需求預測與彈性空間設計，過度集中投資可能導致資源閒置。政府需平衡短期熱潮與長期使用率，避免重蹈保齡球退潮覆轍。建議採用地點分散、多功能場地規劃，並結合社區參與機制，以確保設施永續經營。此趨勢亦顯示臺灣運動產業正朝向年輕化、低門檻方向發展，相關供應鏈（如器材、教練培訓）將迎來成長契機。 <a href=\"https://talk.ltn.com.tw/article/breakingnews/5514231\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：約一週前，一段影片在社群媒體流傳，內容顯示數名澳洲女遊客在印尼東部科莫多國家公園步道上，指控一名中國男遊客亂丟垃圾，並對其潑水及口頭斥責，該事件引發網路正反兩方熱議。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此事件凸顯國際旅遊中文化衝突與環境意識的落差。隨著中國出境遊市場復甦，遊客行為管理成為目的地國家（如印尼）的挑戰。澳洲遊客的激烈反應雖屬個案，但透過社群媒體放大後，可能影響中國遊客在國際上的形象，進而促使旅遊業者加強行前教育或目的地加強執法。長期而言，若缺乏有效溝通機制，類似衝突可能加劇族群對立，影響區域旅遊業的永續發展。 <a href=\"https://news.ltn.com.tw/news/world/breakingnews/5518508\">[來源]</a></div>"
         },
         {
-          "title": "號外！男神萊恩確定接棒《惡靈戰警》 辣妻曾演角色摯愛",
+          "title": "桃機PMS系統3-3》斥資1283億興建第三航廈！ 曾爆中國人進工地「技術指導」爭議",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：漫威影業總裁凱文費吉於聖地牙哥動漫展宣布，演員萊恩葛斯林將加入漫威電影宇宙，在《惡靈戰警》電影中飾演經典角色。該片由曾執導《死侍與金鋼狼》的導演薛恩李維執導，預計於 2025 年推出。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：萊恩葛斯林加盟《惡靈戰警》標誌著漫威電影宇宙在選角策略上的重大轉向，選擇具高票房號召力與演技深度的頂級演員，有助於提升超級英雄電影的藝術質感與市場吸引力。此舉不僅能吸引非傳統超級英雄影迷關注，亦可能帶動《惡靈戰警》IP 的重新煥發，為漫威第四階段及之後的敘事注入新活力。薛恩李維的執導經驗，特別是在《死侍與金鋼狼》中展現的風格化敘事與幽默感，預期將為《惡靈戰警》帶來獨特的視覺與情感張力，強化角色深度與故事層次。此選角亦反映漫威在面對市場競爭時，更傾向於結合明星效應與導演個人風格，以維持品牌新鮮度與觀眾期待。 <a href=\"https://ent.ltn.com.tw/news/breakingnews/5518012\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：桃園機場第三航廈是台灣十大建設後規模最大的公共建設，也是近年最大的單一公共建築工程。北登機廊廳已於去年12月25日正式啟用。第三航廈主體工程歷經多次流標，最終由韓國三星物產得標。該工程總斥資1283億元，曾爆發中國人進工地進行「技術指導」的爭議。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：第三航廈作為台灣規模最大的公共建築工程，其進度與成本控管直接影響桃園機場的營運效率與國際競爭力。工程歷經多次流標顯示出大型公共建設在招標與執行上的複雜性，而最終由韓國三星物產得標，反映國際承包商在技術與經驗上的優勢。然而，曾爆發的中國技術指導爭議，凸顯了國家安全與技術自主的潛在風險，未來類似大型基建案需更嚴謹的資安審查與供應鏈管理。此事件亦可能影響政府後續公共工程的招標策略，強化對外國技術人員的審查機制，以確保國家基礎建設的安全與自主性。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5518523\">[來源]</a></div>"
         },
         {
-          "title": "MLB》日本強投完全技壓塞揚王牌！ PCA邁向大谷翔平50-50鬼神紀錄",
+          "title": "新北雙溪陸地規模5.6地震屬獨立事件 未來1週不排除4.5至5餘震",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：日本投手今永昇太效力於小熊隊，在某場比賽中主投6局無失分。隊友皮特·克勞-阿姆斯壯（Pete Crow-Armstrong）單場擊出4支安打並貢獻3分打點。兩人的表現協助小熊隊以11比0大勝海盜隊。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：今永昇太作為日本籍左投，在MLB展現出頂尖的投球實力，其6局無失分的表現證明了他具備與大聯盟頂尖先發投手競爭的資格。此役他面對的對手包含塞揚獎得主級別的打線，卻能完全壓制，顯示其投球策略與執行力已達到大聯盟高水準。同時，隊友PCA的爆發性打擊（4安3打點）展現了小熊隊打線的深度與爆發力，這種投手與打線的雙重優勢，將大幅提升球隊在季賽中的競爭力。若今永昇太能持續保持此狀態，他有望成為小熊隊輪值中的核心支柱，並對聯盟其他球隊的打者構成巨大威脅。此表現也進一步印證了日本投手在MLB的適應能力與價值，可能吸引更多日本球員赴美發展。 <a href=\"https://sports.ltn.com.tw/news/breakingnews/5517993\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：新北雙溪區於晚間8點36分發生芮氏規模5.6地震，最大震度3級。中央氣象署研判此地震屬獨立事件，並預測未來1週可能出現規模4至5的餘震，呼籲民眾多加留意。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次規模5.6地震雖被判定為獨立事件，但氣象署預警未來一週仍有規模4至5餘震風險，顯示該區域地殼活動仍處於不穩定狀態。對新北市雙溪區及周邊地區而言，短期內需持續強化防災應變機制，特別是針對老舊建築與山坡地社區進行安全評估。產業層面，若餘震頻繁可能影響當地農業、觀光業及基礎設施運作，進而波及區域經濟活動。此外，此類地震事件亦可能引發民眾對地震預警系統與建築耐震標準的關注，促使政府與民間加速推動相關法規修訂與防災教育。長期來看，台灣位於板塊交界帶，地震風險始終存在，此次事件再次提醒各界需提升整體韌性，以應對未來可能發生的更大規模災害。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5518543\">[來源]</a></div>"
         },
         {
-          "title": "自由說新聞》混戰？烏襲裏海伊朗急跳腳！傳俄不堪轟炸撤光這處軍艦",
+          "title": "黃金長期牛市才剛開始 華爾街名家勸不要輸在起跑點",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：自由時報報導，烏克蘭對裏海地區發動襲擊，引發伊朗強烈反應。消息指出，俄羅斯因不堪持續轟炸，已將部署於該區域的軍艦全部撤離。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：烏克蘭對裏海地區的軍事行動顯示其打擊範圍已延伸至俄羅斯傳統後方，此舉不僅威脅俄軍物流與指揮鏈，更迫使伊朗介入表態，凸顯該地緣戰略要衝的敏感性。俄羅斯撤離軍艦的舉動，反映其面臨的防空壓力與戰損風險已達臨界點，可能導致黑海與裏海之間的兵力調度重組。長期來看，此類遠程打擊將加速俄羅斯海軍在裏海的戰略收縮，並可能促使伊朗重新評估與俄羅斯的軍事合作關係，進而影響中亞與中東地區的權力平衡。 <a href=\"https://news.ltn.com.tw/news/world/breakingnews/5518015\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：今年迄今黃金價格下跌約7%，但過去一年仍為表現最佳資產之一。傑富瑞全球股票策略主管克里斯多福·伍德認為黃金長期牛市才剛開始，並勸誡投資者不要輸在起跑點。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：儘管黃金短期出現回調，但長期趨勢仍被華爾街專家看好。在通膨壓力與地緣政治不確定性持續的背景下，黃金作為避險資產的吸引力未減。傑富瑞策略主管的觀點反映機構投資者對黃金長期配置價值的重視，建議市場參與者避免因短期波動而錯失布局時機。此趨勢可能吸引更多資金流入黃金市場，進一步支撐價格走勢。 <a href=\"https://ec.ltn.com.tw/article/breakingnews/5518546\">[來源]</a></div>"
         },
         {
-          "title": "0050分割？謠言滿天飛 元大投信提醒慎防詐騙",
+          "title": "網路賣仿香奈兒上衣  女辯「雙C斷裂」非精品被法官打臉",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：市場謠傳元大台灣50（0050）將辦理分割，元大投信於官網發布聲明澄清，確認0050今年未進行任何分割作業，並提醒投資人提高警覺，勿輕信來路不明資訊以防詐騙。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此事件反映金融市場中針對高流動性指標型ETF的謠言傳播風險，可能引發投資人誤判或遭受詐騙。元大投信迅速透過官方管道澄清，有助於穩定市場情緒並維護投資人權益。此類謠言若頻繁出現，可能削弱市場對資訊透明度的信任，進而影響ETF的流動性與投資人信心。產業端應持續強化投資人教育，並建立更快速的謠言澄清機制，以降低誤導性資訊對市場的衝擊。 <a href=\"https://ec.ltn.com.tw/article/breakingnews/5517967\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：高雄一名郭姓女子在蝦皮平台販售印有類似香奈兒雙C圖樣的上衣，警方以425元下單釣魚並送驗確認係仿冒品後將其移送法辦。橋頭地院審理時，該女子辯稱圖樣中C有斷裂屬二創設計，但遭法官駁回。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此案凸顯網路拍賣平台仿冒品查緝的嚴謹性與司法對商標侵權的認定標準。即便賣方試圖以「二創」或「圖樣變形」作為抗辯理由，只要商品外觀足以讓一般消費者產生混淆誤認，即構成商標侵權。警方採用釣魚下單並送驗的取證方式，有效固定證據鏈，顯示執法機關對電商仿冒行為的偵辦力度持續強化。此判決對網拍賣家具警示作用，未來將促使更多賣家避免使用近似知名品牌的圖樣，以降低法律風險。同時，平台方亦需加強商品審核機制，配合執法單位共同打擊仿冒產業鏈。 <a href=\"https://news.ltn.com.tw/news/society/breakingnews/5518493\">[來源]</a></div>"
         },
         {
-          "title": "嗆「抱歉帶錢來喔」！義大利學生「辱泰」 道歉完還要吞罰單",
+          "title": "本週3生肖財運爆棚 屬雞靠「行善」加速旺運上門",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：一群在泰國曼谷參加遊學團的義大利未成年學生，於捷運上大聲喧嘩，並對勸阻的泰國女子比中指，飆罵「把錢帶進你們國家還真是抱歉」。此舉引發泰國民眾憤怒並包圍學生下榻飯店，事件亦驚動義大利駐泰大使館介入處理。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此事件雖為個別學生行為，但凸顯跨國遊學與觀光產業中文化衝突與行為規範的嚴峻挑戰。泰國作為高度依賴觀光收入的國家，此類涉及「金錢優越感」的辱罵行為，極易觸動當地民眾敏感神經，進而引發排外情緒或抵制風潮。對義大利而言，此事件可能損害其國民在東南亞的整體形象，迫使政府加強對海外遊學團的紀律監管與行前教育。對泰國觀光業則警示需強化對外國遊客行為的引導機制，並建立更快速的危機公關與外交協調管道，以減少單一事態演變為國際外交糾紛或長期品牌傷害。 <a href=\"https://news.ltn.com.tw/news/world/breakingnews/5517925\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：臉書粉絲專頁《興趣使然的解籤師》於 2026 年 7 月 26 日至 8 月 1 日期間，花費 36 分鐘求得 12 生肖運勢。本週財運最旺的生肖為牛、兔與雞，其中屬雞者被指出需靠「行善」來加速旺運上門。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此類運勢內容屬於典型的娛樂性命理資訊，主要透過社交媒體平台（如臉書）傳播，旨在吸引大眾關注與互動。從產業角度觀察，此類內容雖無實質經濟預測價值，但能有效提升粉絲專頁的流量與用戶黏著度，進而透過廣告曝光或轉化潛在商業機會獲利。對於內容創作者而言，持續產出符合節慶或週期性話題的運勢內容，是維持社群活躍度的常見策略。然而，讀者應理性看待此類資訊，避免將其作為投資或重大決策依據。 <a href=\"https://ent.ltn.com.tw/news/breakingnews/5518542\">[來源]</a></div>"
         },
         {
-          "title": "彰化鄉鎮長選舉綠提10席評估上看7席或跌破4席 關鍵原因曝光",
+          "title": "健康網》體力差、注意力變差不一定是老化！ 醫曝男性更年期3徵兆",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：彰化縣現有26個鄉鎮市，目前僅4個由民進黨執政。年底選舉中，民進黨彰化縣黨部提名10人角逐鄉鎮長席次，為歷年新高。黨內人士評估，若縣長參選人陳素月選情能產生帶動效應，民進黨有望超越現狀，席次上看6席；但若選情不如預期，則可能僅維持現狀或跌破4席。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次民進黨在彰化鄉鎮長選舉提名10人，顯示該黨試圖透過擴大基層佈局來突破長期在該縣的執政劣勢。然而，評估結果呈現極大不確定性（從跌破4席到上看7席），關鍵變數在於縣長參選人陳素月的選情能否產生「共伴效應」。若陳素月能成功整合綠營選票並帶動地方候選人，將有助於翻轉部分傳統藍營優勢鄉鎮；反之，若縣長選情低迷，地方候選人將缺乏政黨品牌加持，難以突破既有政治版圖。此現象反映台灣地方選舉中「中央與地方候選人綁定」的效應依然顯著，政黨資源分配與候選人個人魅力將直接決定席次波動幅度。 <a href=\"https://news.ltn.com.tw/news/politics/breakingnews/5517991\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：長庚醫院泌尿科醫師黃英哲指出，不少男性在40歲後常出現體力變差、精神不濟等症狀，常被誤認為是自然老化而忽略。這些症狀可能與睪固酮濃度不足有關，若同時出現體力下降、情緒變化等徵兆，可能是男性更年期的表現。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：男性更年期常被社會忽視，導致許多中年男性未及時就醫，影響生活品質與健康。隨著人口老化，相關醫療需求將持續上升，泌尿科與內分泌科需加強衛教與篩檢機制。此外，此現象也反映健康意識提升，未來可能帶動相關檢測服務、荷爾蒙補充療法及健康管理產品的市場成長。醫療機構若能主動推廣早期診斷，將有助於降低慢性病風險並提升整體公共衛生效益。 <a href=\"https://health.ltn.com.tw/article/breakingnews/5511329\">[來源]</a></div>"
         },
         {
-          "title": "中職》台灣怪力男李灝宇實在太神 U18世界盃冠軍隊友讚嘆",
+          "title": "台灣紀錄片前進洛杉磯「2026 Getting Real」雙年會  深化與北美影視社群連結",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：中職球員李灝宇在對戰皇家隊的比賽中擔任先發第 6 棒三壘手，擊出本季第 6 支全壘打及 1 支二壘安打，並包辦全隊打點。李灝宇曾於 2019 年與林子豪一同奪得 U18 世界盃冠軍，林子豪近日對其表現表示讚嘆。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：李灝宇展現的長打能力與穩定輸出，顯示其已具備中職頂級打者的實力，對所屬球隊的進攻火力提升具關鍵意義。其 2019 年 U18 世界盃冠軍背景，反映台灣青棒體系培養出具備國際競爭力的球員，此類經驗有助於球員在職業賽場快速適應高強度對抗。李灝宇的爆發不僅強化球隊戰力，亦可能提升球迷關注度與商業價值，對中職整體形象與市場吸引力產生正面影響。長期來看，此類具備國際賽經驗且持續在職棒展現優異表現的球員，將成為台灣棒球產業的重要資產，有助於推動青訓體系與職業聯賽的良性循環。 <a href=\"https://sports.ltn.com.tw/news/breakingnews/5518002\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：文化部駐洛杉磯台灣書院攜手美國國際紀錄片協會（IDA），於7月20日至23日在洛杉磯舉辦「2026 Getting Real」雙年會，旨在深化台灣紀錄片與北美影視社群的連結。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次合作標誌著台灣紀錄片產業積極拓展國際版圖的關鍵一步。透過與IDA這一全球紀錄片領域最具影響力的組織合作，台灣不僅能直接接觸北美專業影視社群，更能提升台灣紀錄片在國際市場能見度與競爭力。此舉有助於建立長期交流機制，促進資金、人才與技術的跨境流動，為台灣創作者爭取更多國際合製與發行機會。從產業策略角度看，政府單位主動搭建平台，顯示出對文化輸出與軟實力建構的重視，將有助於台灣紀錄片從「被看見」轉向「被重視」，進而帶動整體非戲劇類內容產業的升級與國際化進程。 <a href=\"https://news.ltn.com.tw/news/art/breakingnews/5518537\">[來源]</a></div>"
         },
         {
-          "title": "凱道絕食送醫 醫療名詞遭濫用 吳欣岱解析血糖數值與醫療常規",
+          "title": "雙溪規模5.6地震 新北捷運慢速行駛後已恢復正常營運",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：國民黨支持者於凱道發起絕食行動，最終因健康狀況送醫。台灣基進台北市內湖、南港區市議員參選人、心臟血管外科醫師吳欣岱表示，將連續多日未進食且脫水的參與者送醫是正確決定，但強烈譴責醫療名詞遭濫用，並針對血糖數值與醫療常規進行解析。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此事件凸顯公共空間抗爭行為與醫療專業界線之間的緊張關係。絕食作為政治表達手段，若持續時間過長且缺乏醫療監測，極易導致脫水、電解質失衡及低血糖等危及生命的狀況，送醫介入符合基本醫療倫理與救護常規。吳欣岱醫師的評論強調了醫療判斷應基於客觀生理指標（如血糖數值），而非政治敘事，這有助於釐清公眾對醫療資源使用的誤解。然而，醫療名詞被政治化濫用的現象，可能削弱社會對專業醫療建議的信任，進而影響公共衛生政策的執行效率。此類事件也提醒政府與社會組織，在處理類似抗爭時，應建立更完善的醫療支援機制，以平衡言論自由與生命權保障。 <a href=\"https://health.ltn.com.tw/article/breakingnews/5517969\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：新北市雙溪區於今晚8點36分發生芮氏規模5.6有感地震。新北捷運公司表示，地震發生當下，淡海輕軌、安坑輕軌、三鶯線及環狀線皆全線停車，隨後依程序慢速行駛，並巡查各車站設備及全線軌道狀況，目前已恢復正常營運。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次規模5.6地震雖造成新北捷運多條路線短暫停駛，但系統迅速啟動應變機制，透過慢速行駛與全面巡查確認安全後即恢復營運，顯示捷運系統具備成熟的防震與應急處置能力。對產業而言，此事件凸顯基礎建設在面對天然災害時的韌性，有助於維持大眾運輸信心，避免長期營運中斷。同時，也提醒相關業者需持續強化設備監測與即時通報機制，以縮短停運時間並降低對通勤族的衝擊。未來若頻繁發生類似規模地震，可能促使政府與業者投入更多資源於結構加固與智慧監測系統，進而帶動相關工程與科技產業需求。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5518534\">[來源]</a></div>"
         },
         {
-          "title": "中聯致癌油事件  柯志恩批綠營立委只會攻擊台中、台北市政府",
+          "title": "桃機PMS系統3-2》旅客運輸系統外包韓國廠商 桃機：不違反採購法",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：中聯致癌油事件引發關注，國民黨高雄市長參選人柯志恩於 26 日受訪時批評執政黨立委在食安問題上缺乏具體看法，僅專注攻擊台中及台北市政府，未針對釐清事件源頭或未來政府作為提出關切。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此事件凸顯台灣食安議題在政治攻防中的工具化傾向，可能削弱公眾對政府監管機制的信任。當政治人物將焦點置於地域攻擊而非源頭調查時，延誤了對供應鏈漏洞的即時補強，增加類似風險重複發生的機率。長期而言，若立法與行政部門未能建立跨黨派的食安危機處理共識，將導致消費者信心下滑，進而影響食品產業的市場穩定性與出口競爭力。此外，地方政府的處置能力若持續被政治化解讀，可能阻礙中央與地方在食安管理上的協作效率，使整體監管體系陷入被動反應而非預防導向的困境。 <a href=\"https://news.ltn.com.tw/news/politics/breakingnews/5518001\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：桃園機場公司規劃建置第二、第三航廈間的旅客運輸系統（PMS），該案得標廠商將電動自駕巴士部分車體外包予韓國廠商。此舉引發外界質疑可能違反政府採購法中關於不得外包的規定。桃園機場公司代理董事長回應表示，該做法不違反採購法。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此事件凸顯大型公共建設在技術整合與法規遵循間的張力。雖然桃園機場公司主張未違法，但將核心載具（自駕巴士車體）外包給境外廠商，可能引發供應鏈自主性與資安疑慮。若此模式成為常態，將影響國內相關製造業發展機會，並可能迫使政府重新檢視採購法對於關鍵基礎設施外包的定義與限制。長期而言，若缺乏明確規範，恐降低公眾對公共建設透明度的信任，並增加後續營運維護的複雜度。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5518524\">[來源]</a></div>"
         },
         {
-          "title": "Kia 新一代 Sportage 內裝曝光換搭超大螢幕！輪廓方正導入新油電動力",
+          "title": "中職》兄弟終於斬斷一大「魔咒」 平野惠一：不會去想這些",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：現行 Kia 第五代 Sportage 於 2021 年問世，2024 年推出小改款。近日完整測試車身影曝光，預計 2027 年第三季全球首發。新一代車型整體身形較為方正，並有望增加車身尺碼。內裝方面將換搭超大螢幕。動力系統預期採用新開發的油電混合動力，同時還會提供 PHEV 插電式混合系統。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：Kia Sportage 作為全球緊湊型 SUV 市場的關鍵車型，其新一代產品規劃顯示出明確的戰略轉向。首先，車身造型由流線轉向方正，並擴大尺碼，這意味著 Kia 正試圖在空間利用率與視覺張力上與競爭對手區隔，以滿足家庭用戶對實用性的需求。其次，內裝導入超大螢幕，反映車廠正加速數位化座艙的佈局，以強化科技感知價值。最關鍵的變革在於動力系統，新一代將全面導入新開發的油電與插電式混合動力，顯示 Kia 在純電化過渡期，選擇以高效能混合動力作為主力，以平衡續航焦慮與排放法規。此策略有助於維持其在燃油車市場佔有率的同時，逐步過渡至新能源時代。2027 年的上市時程也預示著研發週期拉長，可能意在整合更成熟的電池技術與軟體架構。 <a href=\"https://auto.ltn.com.tw/news/32427\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：中信兄弟王牌投手羅戈在相隔18天後復出，搭配相隔3個月先發蹲捕的林吳晉瑋，兩人組成陌生投捕搭檔聯手封鎖統一獅。江坤宇於4局下擊出致勝安打，終場中信兄弟以1比0擊敗統一獅，終止獅隊在洲際球場跨季7連勝的紀錄。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此役中信兄弟以1比0險勝統一獅，不僅終止對手在洲際球場的跨季7連勝，更展現球隊在關鍵時刻的韌性與戰術執行力。羅戈復出後能迅速找回狀態，顯示其傷後恢復良好，對球隊輪值穩定性具重要意義；而林吳晉瑋相隔三個月後先發蹲捕仍能與投手默契配合，反映中信兄弟在捕手調度上的深度與彈性。此勝仗對士氣提振顯著，尤其打破「魔咒」心理障礙，有助於球隊在季後賽關鍵階段建立信心。統一獅雖遭遇連勝終止，但其跨季7連勝紀錄已證明其主場優勢與戰力穩定，未來仍為聯盟強權。整體而言，此役凸顯中職競爭激烈，投手戰與細節處理成為勝負關鍵，兩隊後續表現將持續影響季後賽格局。 <a href=\"https://sports.ltn.com.tw/news/breakingnews/5518536\">[來源]</a></div>"
         },
         {
-          "title": "凱道未等鄭麗文致詞先離開 李四川：還有行程要跑",
+          "title": "中國賽》36歲寫最年長奪冠紀錄！周天成點出保有競爭力的關鍵",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：國民黨昨日號召民眾前往凱道參與反毒油活動，新北市長參選人李四川與新北市長侯友宜一同出席並同框。針對兩人互動，李四川今日受訪表示食安議題不分政治顏色，並透露已與侯友宜約定共同上凱道為市民發聲。活動期間，李四川在鄭麗文尚未致詞前便先行離開，他解釋這是因為還有其他行程需要處理。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次國民黨動員凱道反毒油活動，展現了該黨在食安議題上的動員能力與政治立場。李四川與侯友宜的同框互動，顯示地方首長與中央黨部在特定議題上能形成策略聯盟，有助於強化國民黨在食安議題上的話語權。李四川強調「食安不分顏色」，意在將議題去政治化，爭取中間選民支持，同時避免被視為純政治操作。然而，李四川在鄭麗文致詞前離場，可能引發外界對黨內協調或優先順序的質疑，若處理不當恐影響黨內團結形象。整體而言，此類活動雖能短期凝聚支持者，但長期仍需具體政策配套，方能轉化為選票優勢。 <a href=\"https://news.ltn.com.tw/news/politics/breakingnews/5517976\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：台灣羽球一哥周天成在超級1000系列中國羽球公開賽男單決賽中，以21比15、7比21、21比13擊敗法國選手波波夫（Toma Junior Popov），奪得本季首冠。36歲的周天成因此創下該賽事最年長奪冠紀錄。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：周天成在36歲高齡仍能奪得超級1000賽冠軍，顯示其體能管理與戰術執行力已達巔峰狀態，對台灣羽球產業具有極大激勵作用。此勝利不僅鞏固其國際排名，更證明亞洲選手在高齡階段仍可維持頂尖競爭力，有助於提升台灣羽球在國際賽事的能見度與商業價值。此外，此成就可能吸引更多年輕選手投入專業訓練，並促使教練團隊重新評估長期職業生涯規劃策略。 <a href=\"https://sports.ltn.com.tw/news/breakingnews/5518527\">[來源]</a></div>"
         },
         {
-          "title": "32歲男不明原因墜落新竹縣竹林大橋  命危送醫搶救",
+          "title": "中職》暌違98天！兄弟24歲捕手罕見先發 平野惠一透露有很多原因",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：新竹縣竹東鎮竹林大橋於今日早上9時許發生男子墜橋事件。警方調查確認墜落者為32歲余姓男子，墜落原因目前不明。該男子從橋上墜落至河床，現場救起時一度無呼吸心跳，目前已送醫搶救中，生命跡象危急。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此事件為單一社會治安意外，目前尚無跡象顯示涉及產業結構變動或市場趨勢影響。由於事件原因不明且處於搶救階段，暫時無法評估對當地交通、觀光或公共設施管理的長期衝擊。若後續調查發現涉及橋樑安全設計或防護設施缺失，可能引發地方政府對橋樑安全檢查的加強，進而影響相關工程維護預算分配。然而，基於現有資訊，此事件主要屬緊急醫療與刑事調查範疇，對產業層面影響有限。 <a href=\"https://news.ltn.com.tw/news/society/breakingnews/5517989\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：中信兄弟王牌投手羅戈相隔18天復出，搭配相隔3個月先發蹲捕的林吳晉瑋，兩人組成陌生投捕搭檔聯手封鎖統一獅。江坤宇在4局下擊出致勝安打，終場中信兄弟以1：0擊敗統一獅，終結獅隊在洲際球場跨季7連勝。林吳晉瑋為24歲捕手，此次先發距上次已達98天，總教練平野惠一透露其罕見先發背後有多重原因。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此役中信兄弟以1：0險勝統一獅，展現了球隊在投手戰術調度上的韌性。羅戈與林吳晉瑋這對久未合作的投捕搭檔能成功封鎖對手打線，顯示教練團在關鍵時刻敢於啟用生力軍，並有效執行戰術佈局。林吳晉瑋在休戰98天後仍能穩定發揮，反映球隊對年輕捕手的培養與信任，有助於未來陣容深度。此勝不僅終結統一獅跨季7連勝，更提振中信兄弟士氣，對季後賽排名競爭具關鍵意義。總教練平野惠一的用人策略，凸顯其對球員狀態與戰術需求的精準掌握，為球隊長期發展奠定基礎。 <a href=\"https://sports.ltn.com.tw/news/breakingnews/5518529\">[來源]</a></div>"
         },
         {
-          "title": "中國賽》周天成下午和波波夫爭冠 有望寫台灣本土新紀錄",
+          "title": "中職》生涯首次帶發射器自行配球 兄弟王牌羅戈解釋原因",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：台灣羽球一哥周天成將於今日下午4點，在超級1000系列中國羽球公開賽男單決賽中對戰法國選手波波夫（Toma Junior Popov）。若周天成奪冠，將成為首位在該賽事奪得冠軍的台灣本土選手，有望創下台灣羽球新紀錄。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：周天成若在中國公開賽奪冠，將打破台灣選手在超級1000系列賽中無本土選手奪冠的紀錄，這不僅是個人生涯高峰，更將大幅提升台灣羽球在國際賽事的能見度與信心。此成就可能激勵國內年輕選手投入羽球訓練，並吸引企業贊助資源流向羽球項目。此外，周天成的表現將強化台灣在亞洲羽壇的競爭力，對未來國際賽事種子排名及主辦權爭取具潛在加分效果。然而，需注意國際羽球競爭激烈，單一賽事勝利雖具象徵意義，但長期維持頂尖狀態仍需持續投入資源與科學化訓練體系支持。 <a href=\"https://sports.ltn.com.tw/news/breakingnews/5517997\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：中信兄弟王牌投手羅戈在相隔18天後復出，搭配相隔3個月先發蹲捕的林吳晉瑋，兩人組成陌生的投捕搭檔。羅戈生涯首次使用發射器自行配球。最終兄弟隊以1比0擊敗統一獅，終止獅隊在洲際球場跨季7連勝的紀錄，江坤宇於4局下擊出致勝安打。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：羅戈此次復出採用發射器自行配球，顯示中信兄弟在投手調度與數據應用上邁向更精細化的趨勢。此舉不僅能減少捕手配球失誤風險，亦反映現代棒球對科技輔助的依賴日益加深。陌生投捕搭檔仍能成功封鎖對手，凸顯球隊戰術執行力與投手個人能力的穩定性。此勝利終止統一獅跨季7連勝，對兩隊士氣與季後賽排名競爭將產生直接影響，尤其對統一獅而言需重新檢視投手輪值與防守策略。 <a href=\"https://sports.ltn.com.tw/news/breakingnews/5518526\">[來源]</a></div>"
         },
         {
-          "title": "台灣水果外銷英國！蓮霧、哈密瓜、紅龍果等7果品首登陸",
+          "title": "先搖才警報！新北雙溪地牛翻身 5.6萬人湧「台灣地震監視YT」報平安",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：台灣水果成功外銷至英國市場，除以往受矚目的愛文芒果與荔枝外，近期蓮霧、百香果、紅龍果、阿露斯哈密瓜、美濃香瓜、金煌芒果及黑香芒果等七種果品也首度透過空運方式抵達英國，標誌著台灣多樣化水果正式進入英國消費市場。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：台灣水果外銷英國的擴張，顯示台灣農業在國際市場佈局上的深化與多元化策略成效。過去台灣芒果在法國已建立良好口碑，此次將蓮霧、紅龍果等高價值熱帶水果成功打入英國，不僅拓展了出口地理版圖，也提升台灣水果品牌的國際能見度。此舉有助於分散單一市場風險，並透過高品質空運物流強化「台灣水果」的高端形象。對產業而言，這將激勵農民投入高經濟價值果品的種植與品管，同時帶動相關冷鏈物流與出口服務業發展。長期來看，若能持續維持品質穩定並建立品牌認知，台灣水果在歐洲市場的滲透率有望進一步提升，成為農業出口的重要成長動能。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5517992\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：中央氣象署資料顯示，台灣新北市雙溪區於當日晚間20點36分發生規模5.6有感地震，最大震度為3級，地震深度95.7公里，震央位於新北市政府東南東方35.8公里處。地震發生後，約5.6萬人湧入「台灣地震監視」YouTube頻道報平安。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次地震雖規模達5.6，但震源深度較深（95.7公里），導致地表震度僅3級，顯示深源地震對地表建築物的直接破壞力相對較低。然而，5.6萬人同時湧入YouTube頻道報平安的現象，反映台灣民眾對即時地震資訊的高度依賴，以及社群平台在災難應變中扮演關鍵的資訊傳遞與心理安撫角色。此趨勢顯示，未來政府與民間機構應更重視數位平台的災情整合機制，將即時地震數據與社群互動結合，以提升公眾安全感與資訊透明度。此外，深源地震雖破壞力較小，但頻繁發生可能引發民眾對地質活動的長期關注，進而影響房地產市場與保險產業的風險評估模型。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5518505\">[來源]</a></div>"
         },
         {
-          "title": "MLB》重返大聯盟打瘋了！李灝宇屢屢建功當英雄 美媒看好蛻變球星",
+          "title": "桃機PMS系統3-1》桃機T3旅客運輸系統 遭質疑違反採購法",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：台灣球員李灝宇效力於底特律老虎隊，近期表現火燙，連續10場比賽擊出安打，並在關鍵時刻多次為球隊建功。美國媒體《運動畫刊》旗下老虎專欄撰文，看好李灝宇的未來發展，認為他有望蛻變為明星等級的球員。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：李灝宇連續10場安打的表現不僅展現其個人技術的穩定性與關鍵時刻的抗壓能力，更標誌著他正式在大聯盟舞台站穩腳步。美媒《運動畫刊》的正面評價，顯示國際球評界開始重視這位台灣打者的潛力，這將有助於提升他在球隊戰術中的地位，並可能吸引更多球探與媒體關注。若他能持續維持此狀態，不僅能鞏固先發位置，更可能成為老虎隊重建計畫中的核心打者之一。此現象也反映台灣球員在大聯盟的競爭力日益提升，對台灣棒球產業的國際能見度與青訓體系信心具有顯著正面效應。 <a href=\"https://sports.ltn.com.tw/news/breakingnews/5517974\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：桃園機場第三航廈預計於明年底完工，並規劃設置繞行第二、三航廈的旅客運輸系統（PMS），採用自動駕駛電動巴士。然而，該項目遭投訴指出，承包商將車輛底盤轉包給韓國車輛製造商，此舉被質疑可能違反政府採購法相關規定。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：桃園機場第三航廈的旅客運輸系統（PMS）若因轉包問題被認定違反政府採購法，將對台灣基礎建設採購模式產生深遠影響。首先，此事件可能導致工程延宕或重新招標，直接衝擊桃機T3的營運時程與整體投資效益。其次，政府採購法對於國產化比例及轉包限制極為嚴格，此案例若成立，將促使未來公共工程更嚴格審查供應鏈來源，特別是涉及關鍵零組件如車輛底盤的採購。此外，此爭議也可能引發對自動駕駛技術本土化能力的討論，若過度依賴國外技術與製造，將影響台灣智慧交通產業的自主發展。長期來看，此事件可能促使政府修訂或強化採購法規，以平衡國際合作與本土產業保護。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5518522\">[來源]</a></div>"
         },
         {
-          "title": "豪雨釀慘重落果！ 苗栗文旦柚災損救助啟動",
+          "title": "中職》「這其實滿危險的！」 兄弟教頭抗議林詔恩有原因",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：苗栗縣文旦柚因今年4月上旬豪雨影響，近期出現嚴重遲發性災情。苗栗縣政府農業處會同苗栗區農業改良場、農糧署及在地公所進行實地勘查，確認文旦柚在開花期至小果期遭暴雨襲擊，導致落花及落果情況加劇，災損救助已正式啟動。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次苗栗文旦柚因花期至小果期遭遇豪雨，造成嚴重落果與遲發性災損，顯示氣候變遷下極端降雨對高經濟價值果樹的衝擊日益顯著。文旦柚為苗栗重要農產，花期遇雨直接影響授粉與坐果率，導致產量銳減，將衝擊農民收入與地方農業經濟。政府啟動災損救助雖能緩解短期損失，但長期需強化農業保險機制與氣候調適技術，例如推廣防雨設施、調整栽培期程或導入耐雨品種。此事件亦凸顯農業風險管理的重要性，未來應建立更即時的天氣預警與災害評估系統，以降低類似極端氣候對農業產業的衝擊。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5517958\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：中信兄弟球員陳俊秀在4局下尚未於打擊區準備好時，統一獅先發投手林詔恩即投出球。中信兄弟總教練平野惠一隨即上場與主審彭楚雲溝通。賽後平野惠一表示該情況「其實滿危險的」，並說明抗議林詔恩的原因。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次事件凸顯職棒比賽中投手投球時機與打者準備狀態之間的衝突風險。若投手在打者未就定位時投球，不僅可能導致打者受傷，更可能引發球隊間的不滿與衝突，影響比賽流暢度與安全性。總教練平野惠一公開表達擔憂，顯示教練團對球員安全的高度重視，此類爭議若頻繁發生，可能促使聯盟重新檢視投球時機的規範或加強裁判執法標準，以確保比賽公平與安全。長期而言，此類事件若未妥善處理，可能影響球隊戰術佈局與球員心理狀態，甚至引發更廣泛的賽場爭議。 <a href=\"https://sports.ltn.com.tw/news/breakingnews/5518518\">[來源]</a></div>"
         },
         {
-          "title": "專題2-2》拯救客語！校長自學考證照 更把全校打造成客語校園",
+          "title": "獨家》陽明交大爆國安疑慮！中國「長江學者」任傳播所教評會委員",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：為拯救詔安客語消失，重返客家聚落的東興國小校長李政勳雖為閩南人，仍以身作則透過自學及與同仁互動，目前已通過詔安客語初級與中級認證，並正朝中高級目標邁進。該校同時推動將全校打造成客語校園，實施詔安客語教學。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：東興國小的案例顯示，地方教育機構在語言復振工程中扮演關鍵角色，特別是校長個人的領導力與跨族群（閩南人推動客語）的投入，能有效突破語言傳承的瓶頸。此模式證明語言保存不僅依賴政策補助，更需在地教育者具備高度使命感，將語言學習融入校園日常與師資培訓。詔安客語作為台灣較少見的客語次方言，其復振難度較高，透過學校系統性教學與認證制度結合，能提升學習者的成就感與持續性。此舉不僅有助於維持語言多樣性，亦能強化社區文化認同，為其他面臨瀕危語言的區域提供可複製的實踐範本，顯示教育現場是語言政策落地的核心場域。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5517854\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：國立陽明交通大學傳播所教評會爆出國安疑慮，中國教育部「長江學者」及現任上海交通大學教授擔任該所教評會委員及主席，主控教師評審。陽明交大每年獲政府挹注約數十億元經費。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此事件凸顯台灣頂尖大學在學術評審機制上存在國安漏洞，尤其涉及高額政府補助的國立大學，若由具中國官方背景學者主導教評會，可能影響學術自主與國家安全。長江學者計畫具中國政府色彩，其成員擔任台灣大學教評會主席，顯示跨國學術交流中缺乏足夠的風險評估與審查機制。此案例可能促使教育部與校方重新檢視教評會組成規範，強化對外籍或境外學者背景的審查，避免敏感領域（如傳播、科技）受外部勢力影響。長期而言，若未建立明確的國安防堵機制，將削弱台灣學術界國際信譽，並可能引發社會對高教資源分配與國家安全的爭議。 <a href=\"https://news.ltn.com.tw/news/politics/breakingnews/5518517\">[來源]</a></div>"
         },
         {
-          "title": "2021就知毒油警訊？食藥署：當年已改正、後來抽驗都合格",
+          "title": "黑熊學院》波蘭人如何傾盡全國之力 應對俄羅斯的威脅？",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：近期大豆沙拉油與苦茶油檢驗出苯駢芘超標，引發外界質疑食藥署早在2021年調查中已發現食用油脂業者HACCP落實不佳卻未作為。食藥署回應強調，當年已要求改正，且後續抽驗結果皆為合格。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此事件凸顯台灣食用油品安全監管體系在風險預警與執行力上的潛在缺口。儘管食藥署主張2021年已介入並要求業者改善，且後續抽驗合格，但近期苯駢芘超標事件重演，顯示單次抽驗合格未必能代表長期製程控制穩定。苯駢芘多產生於高溫精煉過程，若業者為降低成本而簡化脫臭程序，極易導致致癌物殘留。此案例反映監管單位需從「事後抽驗」轉向「製程即時監控」，並強化對HACCP執行細節的現場稽核頻率，而非僅依賴書面報告。此外，消費者信心受損將迫使市場重新洗牌，具備完整溯源與高標準品管能力的品牌將獲得溢價優勢，而中小型油廠若無法負擔升級成本，可能面臨退出市場或併購壓力。長期而言，政府需建立更透明的風險溝通機制，避免類似爭議反覆發生。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5517981\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：台灣與波蘭近年來建立深厚關係，疫情期間台灣率先捐贈口罩與防護衣支援波蘭，隨後波蘭政府主動捐贈40萬劑AZ疫苗給台灣。波蘭有超過八成人民支持國防預算，防衛意識強烈，該國傾全國之力應對俄羅斯威脅。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：波蘭因地理位置與歷史經驗，對俄羅斯威脅保持高度警惕，其全民國防意識與高比例預算支持，反映小國在大國博弈中的生存策略。台灣與波蘭的互助模式，顯示民主價值觀相近國家在安全與人道層面的戰略連結。此類合作不僅強化雙方互信，也可能促使台灣參考波蘭經驗，提升全民防衛意識與資源投入。在區域安全日益緊張的背景下，這種跨國互助網絡可能成為未來非傳統安全合作的重要範本，尤其對面臨類似地緣壓力的國家具參考價值。 <a href=\"https://talk.ltn.com.tw/article/breakingnews/5516657\">[來源]</a></div>"
         },
         {
-          "title": "相識20年阿沁抖出楊丞琳這點沒變 讚黃曉明充滿個人魅力",
+          "title": "福壽沙鹿飼料廠火警黑煙 中市府依空污法告發 最重可裁罰500萬",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：阿沁近期受邀擔任音樂選秀節目《天賜的聲音》專業導師及鑑音團評審，在節目中陸續與楊丞琳、黃曉明等藝人合作。阿沁透露與楊丞琳相識已達 20 年，並表示楊丞琳有某些特質多年未變。此外，阿沁公開讚賞黃曉明充滿個人魅力。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此則新聞雖屬娛樂圈動態，但折射出音樂選秀節目在製作策略上對「資深藝人」與「跨領域明星」的依賴趨勢。阿沁作為資深音樂人，其擔任評審並分享與楊丞琳（資深歌手）及黃曉明（影視跨界）的互動，強化了節目的話題性與專業背書。這種「相識多年」的敘事角度，有助於建立節目的人情味與真實感，吸引觀眾關注藝人間的真實互動而非僅是表演。對於產業而言，這顯示選秀節目正從單純的歌唱競賽，轉向結合藝人關係網、個人故事與跨界魅力的綜藝化製作模式，以提升收視黏著度與社群討論熱度。 <a href=\"https://ent.ltn.com.tw/news/breakingnews/5517980\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：福壽公司位於台中市沙鹿區沙田路45號的飼料製造廠於上午9點多發生火警，現場產生大量黑煙。台中市環保局會同廠方人員勘查後，於晚間宣布將依違反空氣污染防制法進行告發，裁處10萬至500萬元罰鍰。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次福壽沙鹿飼料廠火警引發大量黑煙，顯示工業區潛在的空氣污染風險與緊急應變機制的重要性。台中市政府迅速依空污法告發並擬處高額罰鍰，展現地方政府對環境法規的嚴格執行態度，此舉將對飼料製造業產生警示效應，促使業者加強火災預防與排放控制措施。長期而言，此類事件可能加速產業升級，推動更嚴格的環保標準與技術投資，但也可能增加中小企業的合規成本。若類似事件頻繁發生，將影響區域產業形象與投資意願，政府需平衡執法力度與產業發展需求。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5518512\">[來源]</a></div>"
         },
         {
-          "title": "攸關國安？貴金屬關鍵廠商董座遇害 枋寮住處監視器壞光光",
+          "title": "王凱驟逝竟遭詛咒！楚翔收惡劣私訊「怎麼走的不是你」 怒發聲：人的忍耐有限度",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：屏東縣枋寮鄉太源村於24日發生命案，死者為56歲黃姓男子，其身份為京沅鎢業科技有限公司負責人。該公司從事貴金屬行業，且為全國唯一製造仲鎢酸銨的業者。警方調查發現，死者家中監視器設備全部損壞。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此案涉及全國唯一仲鎢酸銨製造商負責人遇害，且發生在監視器全數失效的異常狀況下，顯示可能非單純隨機犯罪，而與產業關鍵技術或供應鏈安全高度相關。仲鎢酸銨作為鎢產業上游關鍵原料，廣泛應用於半導體、航太及國防材料，其生產斷鏈將直接衝擊台灣高階製造業供應鏈穩定性。此事件若被證實與國安或商業間諜活動有關，將迫使政府重新評估關鍵礦物產業的資安與人身保護機制，並可能加速推動戰略物資自主化政策。此外，單一供應商風險凸顯台灣在稀有金屬領域的脆弱性，產業界需加速分散供應鏈來源或建立備援產能，以應對地緣政治與突發事件帶來的衝擊。 <a href=\"https://news.ltn.com.tw/news/society/breakingnews/5517960\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：43 歲八點檔演員王凱（本名王建隆）陳屍於台北市租屋處，警方初步勘驗已排除外力介入及輕生，詳細死因仍待檢警相驗釐清。王凱驟逝引發演藝圈震驚，其好友楚翔收到惡劣私訊，內容包含「怎麼走的不是你」等詛咒字眼，楚翔對此怒發聲表示人的忍耐有限度。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此事件凸顯演藝圈在面對同業驟逝時，除了悲慟之外，更需面對網路霸凌與惡意言論的二次傷害。王凱年僅 43 歲離世，且死因尚未完全釐清，卻已引發部分民眾非理性的惡意揣測與攻擊，顯示社群媒體時代下，公眾對名人死訊的反應往往缺乏同理心與理性。楚翔作為友人公開表達憤怒，反映業界對這種惡劣風氣的零容忍態度。此類事件若持續發生，恐將加劇演藝人員的心理壓力，並促使業界更重視心理健康支持機制與反霸凌倡議。未來媒體與平台需加強對相關言論的監管，避免悲劇演變成網絡暴力現場。 <a href=\"https://ent.ltn.com.tw/news/breakingnews/5518521\">[來源]</a></div>"
         },
         {
-          "title": "台灣山林王者震撼現身！熊鷹獵捕山羌凌空翱翔 夢幻一幕曝光",
+          "title": "認識兒童權利  人權館「童言童語，無畏發聲」系列活動8月登場",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：台灣一級保育類熊鷹數量稀少，近日有賞鳥民眾在大雪山林道拍攝到熊鷹獵捕山羌並在空中翱翔的畫面，該影像由網友「一瑾」分享，被描述為難得一見且神秘的生態紀錄。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：熊鷹作為台灣一級保育類猛禽，其獵捕行為的影像記錄極具生態價值，反映大雪山林道區域仍維持相對完整的食物鏈與棲地品質。此類高難度拍攝案例的出現，不僅強化公眾對野生動物保護的關注，也凸顯台灣山林生態系統的韌性。然而，頻繁的人為賞鳥活動若缺乏規範，可能干擾猛禽繁殖或覓食行為，建議主管機關加強該區域的監測與遊客管理，平衡生態保育與環境教育需求。此事件亦顯示公民科學在生態監測中的潛力，未來可結合專業研究團隊進行長期追蹤。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5517937\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：國家人權博物館將於8月在景美園區人權學習中心兒童人權學習基地舉辦第4季兒童人權系列活動。該活動以「童言童語，無畏發聲」為主題，規劃包含兒童人權繪本創作營、人權繪本沙龍及台語說故事等內容，旨在讓兒童認識兒童權利並鼓勵發聲。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此活動顯示政府機構正積極將人權教育向下扎根，透過繪本創作與台語說故事等文化載體，降低兒童理解人權議題的門檻。這種結合藝術與語言的推廣方式，有助於培養下一代對人權的敏感度與參與意識，長期來看將提升社會整體的人權素養。活動選擇在8月暑假期間舉辦，能有效吸引學童參與，擴大教育影響力。此類由官方主導的兒童人權教育專案，也反映台灣在人權教育制度化與常態化上的持續投入，有助於建構更包容的社會價值觀。 <a href=\"https://news.ltn.com.tw/news/art/breakingnews/5518516\">[來源]</a></div>"
         },
         {
-          "title": "不只變瘦！研究：打瘦瘦針後 女性更容易找到工作、結婚",
+          "title": "江祖平近況曝光！雙手合十心碎哀悼 王凱驟逝後久違發聲",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：最新研究發現，女性使用俗稱「瘦瘦針」的 GLP-1 減重藥物後，除成功減重外，找到工作與步入婚姻的機率也同步提高。研究團隊追蹤一年半後發現，這兩項機率皆增加近 3 成。該研究已發表相關成果。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此研究顯示 GLP-1 減重藥物對女性社會經濟地位與生活機遇產生顯著正面影響，不僅限於生理層面的體重控制，更延伸至就業與婚姻市場。這可能反映外貌改善帶來的自信提升或社會偏見減少，進而增加職場競爭力與伴侶選擇機會。對產業而言，此發現將強化減重藥物的市場需求，特別是針對女性族群的行銷策略可強調「全方位生活改善」而非僅是健康效益。長期來看，若此趨勢持續，將促使藥廠投入更多資源開發針對女性需求的減重方案，並可能引發保險公司重新評估此類藥物的給付範圍，以涵蓋其潛在的社會經濟效益。 <a href=\"https://health.ltn.com.tw/article/breakingnews/5517975\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：43 歲的演員王凱（本名王建隆）於 26 日驚傳猝逝，此消息震驚演藝圈，引發眾多藝人發文悼念。長期鮮少更新社群動態的演員江祖平，亦透過 Instagram 限時動態發聲，以兩個雙手合十表情符號表達哀悼之意。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：王凱的驟逝再次凸顯演藝人員高強度工作壓力與健康風險的隱憂，此類突發事件往往會引發業界對藝人工作負荷、作息安排及健康監測機制的重新檢視。江祖平透過限時動態表達哀悼，反映演藝圈人際網絡的緊密性，即便平時低調，在重大悲劇發生時仍會透過社群媒體凝聚情感支持。此類事件雖屬個別案例，但持續發生可能影響公眾對演藝產業生態的觀感，進而促使經紀公司或相關單位加強對藝人身心健康的關注與預防措施。 <a href=\"https://ent.ltn.com.tw/news/breakingnews/5518511\">[來源]</a></div>"
         },
         {
-          "title": "國考英文每日一題2026.07.26",
+          "title": "落跑獼猴大鬧台南！流竄民宅、果園10天抓不到 農業局人員追到腿軟",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：自由時報於2026年7月26日發布國考英文每日一題，題目內容為填空題：The woman who took four people _____ inside a gas station in the downtown area has been charged...，該新聞連結為 https://news.ltn.com.tw/news/life/breakingnews/5517837。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此新聞僅提供國考英文練習題目片段，未包含完整事件背景、涉案細節或官方調查結果，因此無法作為產業趨勢或市場影響的判斷依據。由於內容屬於教育測驗範疇，與產業動態無直接關聯，故無具體產業影響可分析。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5517837\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：一隻疑似逃脫的獼猴近日在台南市善化、官田、麻豆等多個行政區流竄。該獼猴於26日下午闖入麻豆市中心的民宅，引發居民緊張。台南市政府農業局表示，已針對該隻獼猴進行圍捕行動長達10天，但至今尚未成功捕捉，農業局人員在追捕過程中感到疲憊。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此事件凸顯台灣都會區與農業區交界地帶的人獸衝突日益頻繁，特別是針對逃逸或流浪的靈長類動物。獼猴具備高度適應力與學習能力，一旦進入人類居住區，往往能迅速掌握覓食路徑並躲避捕捉，導致圍捕成本與時間大幅增加。此次圍捕耗時10天仍未成功，顯示現有常規圍捕手段在面對機動性高的個體時效率有限，可能需引入熱顯像、無人機追蹤或更精準的誘捕策略。長期而言，此類事件若頻繁發生，將迫使地方政府重新評估野生動物管理政策，包括加強收容所安全標準、建立快速反應機制，甚至推動社區教育以減少人猴接觸機會，避免公共衛生與安全風險擴大。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5518489\">[來源]</a></div>"
         },
         {
-          "title": "專題2-1》雲林夫妻用「老幼共學」翻轉  詔安客語重回孩子日常",
+          "title": "長耀盃》離開待了6年的攻城獅轉戰台啤 「控球精靈」田浩五味雜陳",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：雲林縣為詔安客家人重要聚落，目前使用人數約2.5萬人，但會講者僅約9千人，面臨傳承危機。在崙背鄉羅厝村，王信傑與廖婉婷夫婦成立「詔安好伴屋」，透過「老幼共學」模式推動詔安客語重回孩子日常。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：詔安客語在雲林地區面臨嚴重斷層，會講者比例不足使用人數四成，顯示語言傳承已至關鍵時刻。王信傑夫婦以「老幼共學」模式建立社區語言學習場域，不僅活化長輩語言能力，更讓孩童在自然互動中習得母語，此模式具高度可複製性，可作為其他瀕危語言復振的參考範本。若此類社區驅動型語言復振計畫能獲得政府資源挹注與跨部門協作，將有助於提升語言使用頻率與世代傳承效率，進而扭轉語言流失趨勢。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5517853\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：新竹攻城獅創隊元老田浩本季轉戰SBL台啤，在長耀盃未來聯盟公益邀請賽迎來轉隊初登場，上場超過20分鐘貢獻6分及6助攻，但於比賽尾聲因犯滿畢業。田浩在攻城獅效力長達6年，此次轉隊希望在新球隊獲得更多發揮空間。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：田浩從新竹攻城獅轉投台啤，標誌著SBL聯盟人才流動的常態化趨勢，也反映球員在職業生涯中尋求新契機的策略。作為攻城獅創隊元老，田浩的離隊可能影響原球隊的戰術體系與經驗傳承，而台啤則藉此補強控球後衛深度，提升組織進攻能力。此類轉隊現象顯示台灣籃球聯盟正逐步走向成熟，球員價值被更靈活地重新評估。然而，田浩在首戰即犯滿畢業，凸顯新球隊磨合期的挑戰，包括戰術適應與防守節奏掌握。長期來看，若台啤能善用其經驗與助攻能力，將有助於穩定球隊節奏；反之，若無法快速融入，可能影響整體戰力發揮。此案例亦提醒各隊在引援時需兼顧即戰力與長期規劃，以維持聯盟競爭平衡。 <a href=\"https://sports.ltn.com.tw/news/breakingnews/5518510\">[來源]</a></div>"
         },
         {
-          "title": "自由開講》北二高鐵救台鐵系列（二）：從「收稅」到「資產捕捉」—— 1200％ 容積率的財務魔法",
+          "title": "（直擊）Reol狂讚台灣1名產太好吃！聽LiSA推薦秒上癮：下次要配合",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：自由時報發表評論文章探討北台第二高鐵建設，指出台灣在軌道建設討論中常聚焦於預算不足、虧損恐懼或舉債建設等問題。文章提出若北二高鐵仍採傳統公共工程融資路徑，即由政府編列預算、舉債興建，將面臨財務挑戰。作者主張轉向「資產捕捉」模式，透過1200%容積率的財務機制，將土地開發價值轉化為建設資金，以解決傳統融資困境。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：北二高鐵若採傳統政府舉債模式，將加重財政負擔並延宕建設時程。引入1200%容積率機制，實質是將軌道沿線土地增值收益內部化，符合全球軌道導向開發（TOD）趨勢。此模式可吸引民間資本參與，降低政府風險，並加速都市更新。然而，容積率過高可能引發周邊環境負荷與交通瓶頸，需配套完善都市計畫與交通管理。長期來看，此財務創新若成功，將成為台灣大型公共建設融資典範，提升整體基礎建設效率與可持續性。 <a href=\"https://talk.ltn.com.tw/article/breakingnews/5515136\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：日本電音系創作歌手Reol於26日在Zepp New Taipei舉辦「Reol Oneman Live 2026 美辭學 in TAIPEI」演唱會。她在活動中公開讚賞台灣某項特產美味，並表示是聽從歌手LiSA的推薦後才對該產品上癮，同時透露未來計畫配合該產品進行相關活動。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此事件展現了日本藝人透過個人影響力與社交網絡（如LiSA的推薦）對台灣在地產品進行背書的潛在行銷價值。Reol作為具有國際能見度的電音創作歌手，其公開表態不僅能直接提升該特產在日系粉絲群體中的知名度，更可能引發跨國消費潮流。此類由藝人真實體驗出發的口碑傳播，比傳統廣告更具說服力，有助於台灣特產拓展日本市場。此外，Reol提及「下次要配合」，暗示未來可能產生日台文化與商業的更深層合作，例如聯名商品或代言活動，這將為台灣文創與農業產品出口創造新的契機。 <a href=\"https://ent.ltn.com.tw/news/breakingnews/5518509\">[來源]</a></div>"
         },
         {
-          "title": "小貨車駕駛下車開車未注意後方   女騎士當場噴飛送醫",
+          "title": "中職》傷癒歸隊後首次獲選單場MVP 陳文杰：很高興有把握住",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：74歲劉姓男子於昨日午間駕駛小貨車停靠台中市石岡區豐勢路路邊，準備開門下車時，因未注意後方來車，導致行經的49歲徐姓女騎士撞擊車門噴飛。事故造成徐姓女子頭部及手腳多處擦挫傷，隨後被送往東勢農會醫院救治。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此事故凸顯都會區及鄉鎮道路「開門殺」風險仍高，尤其高齡駕駛對後方動態判斷可能受限。雖為單一事件，但反映機車騎士在混合車流中面臨的突發性危險，特別是停車開門瞬間缺乏預警。長期來看，此類事故可能促使地方政府加強路邊停車規範宣導，或推動車輛加裝後方警示系統。對保險業而言，此類事故頻發可能影響機車與汽車第三者責任險的理賠頻率與費率調整。此外，若類似案例累積，將強化社會對「荷爾蒙安全距離」與「開門前確認後方」的認知，進而影響交通法規修訂或執法強度。 <a href=\"https://news.ltn.com.tw/news/society/breakingnews/5517964\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：陳文杰在連續兩場比賽後段兩人在壘時上場打擊，前一日於9局下擊出雙殺打，當日8局下擊出致勝二壘安打，成為7月傷癒歸隊後首次獲選單場MVP。陳文杰表示對前天的雙殺打感到關鍵，並對此次把握機會獲選MVP感到高興。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：陳文杰在傷癒歸隊後迅速展現關鍵打擊能力，從前一日雙殺打到當日致勝安打的轉變，顯示其心理調適與技術狀態已回歸巔峰。此表現對球隊戰力具有直接提振作用，尤其在季後賽關鍵時刻，能穩定軍心並提升進攻效率。從產業角度觀之，球員傷癒後的即時貢獻度是評估球隊深度與管理層醫療復健策略的重要指標，陳文杰的案例證明專業復健流程能有效縮短球員回歸賽場的時間成本。此外，其連續兩場在關鍵時刻上場打擊的決策，反映教練團對其狀態的信任，這將影響未來戰術佈局與替換策略。此事件亦凸顯職棒聯盟中「關鍵先生」角色的稀缺性，具備此特質的球員往往能成為球隊奪冠的關鍵變數，對球迷關注度與商業價值亦有正面加成。 <a href=\"https://sports.ltn.com.tw/news/breakingnews/5518503\">[來源]</a></div>"
         },
         {
-          "title": "高雄OL來台北弄丟行李箱 捷警還原動線物歸原主",
+          "title": "17縣市有感！新北雙溪20:36發生規模5.6地震 最大震度3級",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：23歲蔡姓女子在高雄某公司任職，近日赴台北出差。工作結束後，她於回程當日搭乘台北捷運至市政府站下車，發現17吋行李箱遺失。行李箱內裝有重要物品。台北捷運警察協助還原其行動動線，最終成功尋回行李箱並歸還失主。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此事件雖為單一社會案件，但凸顯都會區大眾運輸系統中旅客行李安全管理的潛在風險。隨著跨城商務與旅遊活動頻繁，旅客在轉乘或匆忙下車時易發生遺失事件，對捷運營運單位而言，需強化站內監控與動線引導機制，以提升失物尋回效率。此外，此類事件若頻繁發生，可能影響旅客對捷運系統安全性的信心，進而影響搭乘意願。捷運公司可考慮導入更先進的行李追蹤技術或加強站務人員巡邏頻率，以預防類似事件。長期來看，建立快速失物協尋平台，整合各運具與警方資源，將有助於提升整體運輸安全與服務品質。 <a href=\"https://news.ltn.com.tw/news/society/breakingnews/5517971\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：新北市雙溪區於今日晚間20時36分發生芮氏規模5.6地震，震源深度為95.7公里，最大震度達3級，全臺共有17個縣市有震感。此數據由中央氣象署發布。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次地震雖規模達5.6，但震源深度接近96公里，屬深層地震，能量在傳播至地表時已大幅衰減，因此最大震度僅3級，未造成重大災情。深層地震通常對地表建築物的衝擊較淺層地震小，但震感範圍可能較廣，此次17縣市有感即反映此特性。對產業而言，深層地震對基礎設施、製造業產線及物流運輸的干擾風險相對較低，但仍需關注長期地質活動對區域安全評估的影響。政府與企業應持續強化地震預警系統與防災演練，以應對未來可能發生的淺層強震風險。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5518506\">[來源]</a></div>"
         },
         {
-          "title": "不只軍艦、無人艇能靶船打沉！環太軍演4型直升機齊射飛彈轟靶艦",
+          "title": "台積電入列 外媒點名3檔首選AI寶藏股 成長空間續噴",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：2026年環太平洋軍事演習的擊沉操演動用海、空及陸基火力，其中直升機部隊扮演重要角色。美國、澳洲、紐西蘭及義大利分別出動AH-64「阿帕契」與MH-60R「海鷹」等四型直升機，齊射飛彈轟擊靶艦，展現多國聯合空中火力對水面目標的打擊能力。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次演習顯示直升機已從傳統支援角色轉型為關鍵反艦打擊平台，透過多國協同操作不同型號直升機（如AH-64與MH-60R）實施精準飛彈攻擊，強化了海上非對稱作戰與快速反應能力。此趨勢反映現代海戰中空中機動火力對水面艦艇的威脅日益提升，促使各國加速整合無人機與有人直升機的聯合作戰體系。長期來看，此類演練將推動亞太地區海軍戰術革新，並可能引發區域軍備競賽，特別是針對反艦飛彈與防空系統的升級需求。 <a href=\"https://news.ltn.com.tw/news/def/breakingnews/5517982\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：外媒 The Motley Fool 於週日（26 日）報導，在晶片股拋售潮背景下，點名三檔值得買入的人工智慧首選股票，其中包含台積電。該報導指出輝達未列入首選名單，原因是其成長空間可能已達極限。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此報導反映國際投資機構對 AI 半導體產業的估值邏輯正在發生轉變。在晶片股經歷拋售潮後，市場開始重新評估不同環節的成長潛力。The Motley Fool 將台積電列為首選，顯示市場認為晶圓代工龍頭在 AI 晶片需求爆發下，仍具備穩健的產能擴張與技術護城河，且估值相對合理。相反地，輝達雖為 AI 晶片領導者，但被認為前期漲幅過大，未來成長空間可能受限，因此未被列為首選。這暗示產業資金可能從高估值的設計廠轉向具備實質產能與技術壟斷力的製造環節，台積電作為 AI 晶片製造的關鍵樞紐，其戰略地位與長期成長確定性獲得國際媒體肯定，有利於穩定市場信心並吸引長期資金佈局。 <a href=\"https://ec.ltn.com.tw/article/breakingnews/5518425\">[來源]</a></div>"
         },
         {
-          "title": "免費營養午餐2-2》午餐免費照顧學生 老師被忽略挨批跟風政策做半套",
+          "title": "五月天冠佑愛女聽原子少年決賽曲得共鳴 林佳辰感動發聲",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：台中市新學年起公私立國中小學實施營養午餐免費政策，國小學生週一至週五需在校用餐。台中市教育產業工會理事長林碩杰指出，導師的午餐指導工作負擔加重，但雙北市除提供午餐指導費外，亦提出導師每...（內容截斷）。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：台中市推動營養午餐免費政策雖能減輕家長經濟負擔並提升學生營養攝取，但執行層面可能忽略教師權益。導師需承擔額外午餐指導工作，若缺乏相應津貼或人力支援，將加劇教師過勞風險，進而影響教學品質。此現象反映政策規劃時需更周全考量執行細節，避免「做半套」引發勞資爭議。長期而言，政府應建立配套機制，如增聘專職人員或調整導師工作負荷，以確保政策永續性。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5517864\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：五月天完成大巨蛋演唱會後暫時休息，鼓手冠佑與家人前往美國度假。冠佑大女兒劉芯妤（小玫瑰）曾於五月天演唱會上獻唱與蕭秉治共同創作的歌曲《最完美的存在》。近期劉芯妤聆聽《原子少年》決賽曲目後產生共鳴並感動發聲。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此事件雖屬娛樂圈家庭動態，但折射出台灣音樂產業中「星二代」與「創作新生代」的連結趨勢。冠佑女兒劉芯妤不僅參與五月天大型演唱會演出，更與知名音樂人蕭秉治合作創作，顯示業界對具備音樂素養的年輕世代給予高度資源支持。此外，她對《原子少年》決賽曲目的共鳴，反映該選秀節目在音樂質感與情感傳達上已獲得專業音樂人後代的認可，有助於提升節目公信力與年輕族群關注度。此類跨世代、跨平台的音樂互動，將持續強化台灣流行音樂生態的多元性與傳承力。 <a href=\"https://ent.ltn.com.tw/news/breakingnews/5518492\">[來源]</a></div>"
         },
         {
-          "title": "免費營養午餐2-1》台中免費營養午餐將上路 4菜一湯恐成絕響",
+          "title": "國有房地出租新制上路！可續租3次、最長20年 「台北星鑽」率先登場",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：台中市自新學年度起實施公私立國中小學營養午餐免費政策，每生每餐補助60元。教育局規定午餐至少需包含3菜1湯。近期各校進行午餐招標時，部分學校維持原4菜1湯規格，卻出現無人投標的情況。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：台中市推動免費營養午餐政策雖具社會福利意義，但每餐60元補助標準與「4菜1湯」的高規格要求之間存在成本矛盾。當學校堅持高規格招標時，因食材、人力及營運成本上升，導致廠商無利可圖而放棄投標，反映政策執行面可能面臨供應鏈斷鏈風險。若無法調整規格或提高補助，恐影響午餐供應穩定性，甚至迫使學校降低品質以符合預算，最終削弱政策初衷。此案例顯示地方政府在推動大型福利政策時，需更精準評估市場承載力與成本結構，避免理想化規範導致執行困境。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5517863\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：財政部國有財產署為加速活化國有資產並降低管理維護成本，修正發布「國有非公用不動產出租管理辦法」及「國有非公用不動產標租作業要點」。新制度規定，未來標租國有房地的承租人於租期屆滿前可申請續租，最多可續租 3 次，使得租期最長可達 20 年，旨在提升民間參與投資意願，其中「台北星鑽」項目將率先實施此新制。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：國有房地標租新制將租期上限延長至 20 年並允許續租三次，此舉將顯著改變不動產投資的風險評估模型。長期穩定的租約能降低民間投資者的不確定性，特別有利於需要長期資本回收的商業開發、旅館或長租公寓等業態，有助於吸引大型機構投資人進場。對於國有財產署而言，長期租約能減少頻繁招標的行政成本與空置風險，提升資產管理效率。然而，20 年的長租期可能導致租金調整機制僵化，若未搭配合理的租金隨市場浮動條款，長期來看可能無法反映土地增值收益。此外，「台北星鑽」作為首發案例，其後續營運成效將成為市場觀察新制是否真正活化資產的關鍵指標，若成功將可能帶動其他縣市國有地標租的熱度，進而影響整體不動產市場的供給結構。 <a href=\"https://estate.ltn.com.tw/article/28517\">[來源]</a></div>"
         },
         {
-          "title": "收到馬斯克傳訊「我愛妳」 日本6旬婦被詐70萬日圓",
+          "title": "中國海警船部署台灣東部水域 紐時：危機時恐阻美國援台",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：日本熊本縣上天草市一名65歲婦女收到假冒特斯拉執行長馬斯克的訊息，內容包含「我愛妳」等字句，該婦女信以為真並依照指示匯款70萬日圓（約新台幣13.8萬元），事後警方確認此為詐騙集團所為。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此事件凸顯高知名度企業家成為詐騙集團常用偽裝對象的趨勢，顯示詐騙手法正從傳統隨機撒網轉向針對特定群體的心理操縱。受害者因對馬斯克全球影響力與財富地位的認知，降低對異常訊息的防備心，反映數位時代下名人效應被惡意利用的風險。此類案件若頻繁發生，可能促使日本政府加強對跨國詐騙的監控與宣導，並推動電信業者與社交平台建立更嚴謹的訊息驗證機制。長期來看，公眾對數位身分真實性的信任危機可能加劇，進而影響線上金融交易與社群互動的穩定性。 <a href=\"https://news.ltn.com.tw/news/world/breakingnews/5517910\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：北京上月宣布海警船將在台灣東部水域展開「例行性執法巡邏」，此舉引發外界憂慮升高。該海域被視為關鍵戰略區域，因一旦中國對台發動攻擊，台灣極可能需仰賴此區域接收來自美國及其盟友的軍事與經濟援助。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：中國海警船部署台灣東部水域，標誌著其對台施壓策略從傳統軍事演習轉向常態化執法行動，此舉意在逐步壓縮台灣戰略縱深。該海域若被中國海警實質控制，將嚴重阻礙美軍及盟友在危機時刻的補給路線，削弱台灣外部支援能力。長期而言，此部署可能迫使美國重新評估其區域軍事介入成本與風險，並加速推動盟友間的非軍事化協調機制。此外，此舉亦可能引發區域軍備競賽，促使日本、菲律賓等國加強海上監視與防禦部署，進一步加劇東亞地緣政治緊張。 <a href=\"https://news.ltn.com.tw/news/politics/breakingnews/5518447\">[來源]</a></div>"
         },
         {
-          "title": "桃園南門市場凌晨又傳火警 男擅闖店家燒金紙辯「改運」",
+          "title": "健康網》更年期不只熱潮紅 尿意老是憋不住可能缺了它",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：桃園市南門市場於去年大火重建後，今年26日凌晨4點50分再度發生火警。警方調查發現火災為人为因素，現場逮捕一名36歲蔡姓男子。該男子擅自闖入店家燃燒金紙，辯稱此舉是為了改運祈福。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：南門市場在經歷去年嚴重火災並完成重建後，短短時間內再度發生人為火警，顯示市場在安全管理與人員進出管控上仍存在顯著漏洞。此次事件雖未造成重大傷亡，但頻繁的火災風險將嚴重打擊商戶信心，可能導致租戶流失或租金下滑，進而影響市場整體營運穩定性。此外，民眾對市場安全性的疑慮可能降低消費意願，對周邊商圈產生負面外溢效應。建議管理單位應強化夜間巡邏、增設監控系統並嚴格規範進出人員，以杜絕類似事件再次發生，重建公眾信任。 <a href=\"https://news.ltn.com.tw/news/society/breakingnews/5517955\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：台中榮總婦產科醫師謝筱芸指出，更年期女性常以為熱潮紅、盜汗及睡眠品質變差是最困擾的問題，但門診發現頻尿、尿意憋不住等泌尿道症狀更常被女性隱忍與忽略。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此新聞揭示更年期健康議題的認知落差，顯示大眾對更年期症狀的關注多集中於血管舒縮症狀（如熱潮紅），卻低估了泌尿生殖系統萎縮帶來的影響。頻尿與尿失禁若未被及時診斷與治療，將嚴重影響女性生活品質與心理健康，甚至導致社交退縮。從產業角度來看，此現象暗示婦科泌尿、盆底復健及相關藥物或醫療器材市場存在未被充分開發的需求。醫療機構若能加強衛教宣導，將頻尿列為更年期常規篩檢項目，不僅能提升患者就醫率，亦能帶動相關檢查、物理治療及藥物處方的市場成長。此外，此議題亦可能促進女性健康科技產品（如智能尿失禁監測設備）的研發與應用，為大健康產業創造新的增長點。 <a href=\"https://health.ltn.com.tw/article/breakingnews/5507238\">[來源]</a></div>"
         },
         {
-          "title": "川普停止空襲伊朗引揣測 美前防長爆：恐準備升級攻擊規模",
+          "title": "第三任嫩妻神隱！洪榮宏唱到一半她直衝台前 身份曝光竟是大咖歌后",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：美國中央司令部（CENTCOM）此前曾連續13天空襲伊朗軍事目標，但於24日停止空襲行動，當日無任何空襲發生。據美媒報導，此次空襲暫停是由美國總統川普親自下令。前美國國防部長對此情況提出評論，認為這可能預示著美國準備升級攻擊規模。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：川普政府暫停對伊朗的連續空襲，顯示其戰略可能從持續消耗轉向更集中的打擊或外交施壓。前防長指出此舉可能為升級攻擊規模做準備，暗示美國正重新評估軍事選項，可能針對更高價值目標或更大範圍進行精準打擊。此舉將影響中東地緣政治穩定，可能引發伊朗及其代理勢力的反制行動，同時考驗區域盟友對美國軍事承諾的信心。若美國確實準備升級，將加劇區域緊張局勢，並可能引發國際社會對衝突擴大的擔憂。 <a href=\"https://news.ltn.com.tw/news/world/breakingnews/5517939\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：金曲歌王洪榮宏於台北國際會議中心舉辦「舊情綿綿」演唱會，台語歌后龍千玉出席力挺。龍千玉自稱是洪榮宏的「頭號粉絲」，在演唱會期間激動衝至台前獻花，並表示感到害羞。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此事件展現台灣台語樂壇資深藝人間的深厚情誼與跨世代支持，龍千玉以「頭號粉絲」身份公開站台，不僅強化洪榮宏演唱會的話題性，也凸顯台語音樂圈人脈網絡的緊密性。在當前娛樂市場競爭激烈、觀眾注意力分散的背景下，資深歌手的互相加持能有效提升活動能見度與票房吸引力。此類互動有助於維繫台語音樂的文化影響力，並吸引不同年齡層觀眾回流現場演出市場，對台語音樂產業的持續發展具有正面示範效應。 <a href=\"https://ent.ltn.com.tw/news/breakingnews/5518491\">[來源]</a></div>"
         },
         {
-          "title": "李四川今啟動市場掃街 蘇巧慧：提政見願景、不掉以輕心",
+          "title": "被全球網友「狂製作迷因」  哈蘭德拍片笑讚：大家超有才！",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：國民黨新北市長參選人李四川於26日啟動市場掃街行程，首站為板橋區。民進黨新北市長參選人蘇巧慧已進入第二輪市場掃街，她表示希望把握接觸市民機會，向民眾提出政見與願景，並提醒選民不掉以輕心。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：新北市長選舉進入關鍵階段，兩位主要候選人李四川與蘇巧慧均選擇以市場掃街作為接觸選民的核心策略，顯示基層動員與面對面溝通在地方選舉中的重要性。李四川首站選擇板橋區，該區人口密集且為交通樞紐，具高度代表性，有助於擴大曝光與爭取中間選票。蘇巧慧則強調已進入第二輪掃街，顯示其競選團隊持續強化在地連結，並透過重複接觸建立信任感。此類密集掃街行動反映選戰重心已從政策辯論轉向情感連結與在地服務形象塑造，對選民投票意願可能產生實質影響。 <a href=\"https://news.ltn.com.tw/news/politics/breakingnews/5517972\">[來源]</a></div>"
-        },
-        {
-          "title": "高雄市待售新成屋逼近1.6萬宅  楠梓和鳳山最多",
-          "confidence": 60,
-          "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：內政部調查顯示，去年第 4 季全國待售新成屋數量增至 11 萬 2501 宅，創下統計以來新高。其中高雄市待售新成屋數量逼近 1.6 萬宅，為全國最高，楠梓區與鳳山區的待售新成屋數量均超過 2000 宅。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：高雄市待售新成屋庫存逼近 1.6 萬宅且創下歷史新高，顯示該區域供給量顯著超過當前市場消化能力。楠梓與鳳山作為高雄人口成長與重劃區開發熱點，待售量均破 2000 宅，反映建商過去幾年大規模推案後，面臨去化速度放緩的壓力。此現象可能導致未來房價承壓，建商需透過降價促銷或調整產品策略來加速去化，同時也可能影響後續新案推案意願，短期內高雄房市將進入庫存調整期。 <a href=\"https://ec.ltn.com.tw/article/breakingnews/5517970\">[來源]</a></div>"
-        },
-        {
-          "title": "苗栗就業中心8/1聯合徵才 23廠商提供1505個職缺",
-          "confidence": 60,
-          "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：勞動部勞動力發展署桃竹苗分署苗栗就業中心將於8月1日上午9點至下午1點，在台灣中油公司苗栗市紫園禮堂舉辦「『馬』力全開．職達夢想」聯合徵才活動。此次活動共有23家廠商參與，提供總計1505個工作職缺。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次苗栗就業中心舉辦的聯合徵才活動，顯示地方政府與勞動部正積極透過大型徵才平台對接在地勞動力與企業需求。23家廠商提供超過1500個職缺，反映苗栗地區在特定產業（如中油相關或周邊製造業）仍存在顯著的人力缺口，或正處於擴張期。此類集中式徵才有助於降低求職者的搜尋成本，並提升媒合效率。對於區域經濟而言，若能有效填補這些職缺，將有助於穩定在地就業率並促進消費動能。然而，廠商提供的職缺結構與求職者技能是否匹配，將是活動成敗的關鍵。若職缺多屬基層或技術性不足，可能面臨招募困難；反之若涵蓋高技術職缺，則需檢視當地人才供給是否充足。長期來看，此類活動若能結合職前培訓或產業轉型輔導，將更能深化區域人力資本價值。 <a href=\"https://news.ltn.com.tw/news/life/breakingnews/5517949\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：挪威足球球星哈蘭德（Erling Haaland）被視為 2026 年世界盃新生代選手中最具話題與人氣者，引發全球網友製作並瘋傳大量與其相關的網路迷因。哈蘭德針對此現象拍攝影片，公開讚賞網友的才華。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：哈蘭德現象顯示現代體育產業中，運動員的個人 IP 價值已超越場上表現，延伸至社群媒體的迷因文化與二次創作領域。這種高熱度的網路討論不僅強化了球員的商業吸引力，也為 2026 年世界盃預熱，創造了自發性的免費行銷效應。對於體育行銷與品牌合作而言，能引發迷因傳播的運動員將成為更受青睞的代言對象，因為其觸及年輕族群的效率遠高於傳統廣告。此趨勢也反映足球產業正加速數位化與社群化，球員需具備與網路文化互動的能力，以維持長期關注度。 <a href=\"https://news.ltn.com.tw/news/novelty/breakingnews/5518291\">[來源]</a></div>"
         }
       ],
       "watchlist": [
         {
-          "title": "高雄小港騎士閃黑狗自摔送醫 犬隻受傷逃離現場",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5517973",
+          "title": "油價再度逼近100美元！通膨蠢蠢欲動  G7多數央行最快9月升息",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5518504",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "健康網》這樣量血壓不準！醫談如何正確量血壓",
-          "url": "https://health.ltn.com.tw/article/breakingnews/5517621",
+          "title": "王凱驟逝租屋處留藥袋 生活作息不正常曾服藥助眠",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5518494",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "民族團結法懲獨、盤查台灣公務員！ 學者：中國對台複合式施壓",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5517946",
+          "title": "問題進口白蘿蔔 食藥署：未流入市售通路，溯源調查最高罰2億",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5518462",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "喬治王子9月進伊頓公學 禁帶智慧型手機 只能拿「磚頭機」",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5518496",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "台中裝修老屋申報許可還不夠 漏報空污費恐挨罰 議員促設一站式機制",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5518317",
           "tier": 2,
           "seen_count": 1
         }
       ],
       "no_signal": false,
-      "deep_count": 37,
-      "watch_count": 3
+      "deep_count": 35,
+      "watch_count": 5
     },
     {
       "name": "TW Social",
       "anchor": "TW-Social",
-      "archive_url": "./history/2026-07-26_03-37/index.html#TW-Social",
+      "archive_url": "./history/2026-07-26_13-43/index.html#TW-Social",
       "stories": [],
       "watchlist": [
+        {
+          "title": "[請益] 大盤正2是投資還是投機",
+          "url": "https://www.ptt.cc/bbs/Stock/M.1785073178.A.536.html",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "[新聞] 雷虎、尚茂等7/27打入處置 聯亞等42檔列",
+          "url": "https://www.ptt.cc/bbs/Stock/M.1785072474.A.F92.html",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "[新聞] 蘇姿丰秀最強AI機櫃！AMD Helios量產 台",
+          "url": "https://www.ptt.cc/bbs/Stock/M.1785072340.A.579.html",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "[新聞] 全球軍工訂單爆發 元大航太防衛科技ETF逆",
+          "url": "https://www.ptt.cc/bbs/Stock/M.1785070798.A.790.html",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "[新聞] 黃仁勳喊「這次不一樣」！晶片股不會崩盤",
+          "url": "https://www.ptt.cc/bbs/Stock/M.1785070456.A.602.html",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "[新聞] AI概念股不只半導體大廠！日本馬桶、味",
+          "url": "https://www.ptt.cc/bbs/Stock/M.1785057452.A.9D4.html",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "[新聞] 抗震存股1／千張0050怎麼存？　素人大媽",
+          "url": "https://www.ptt.cc/bbs/Stock/M.1785057300.A.1E7.html",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "[新聞] 台股小資族超多 86％手上不到5張",
+          "url": "https://www.ptt.cc/bbs/Stock/M.1785055573.A.A8D.html",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "[新聞] 才捲致癌油風暴！福壽飼料廠又火警　最",
+          "url": "https://www.ptt.cc/bbs/Stock/M.1785052616.A.509.html",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "Re: [情報] google財報亮眼",
+          "url": "https://www.ptt.cc/bbs/Stock/M.1785052443.A.093.html",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "[新聞] 擁抱黃仁勳！SK、三星、現代CEO訪輝達",
+          "url": "https://www.ptt.cc/bbs/Stock/M.1785050107.A.C80.html",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "[新聞] 黃仁勳發布首篇X貼文！　馬斯克秒轉發：J",
+          "url": "https://www.ptt.cc/bbs/Stock/M.1785046771.A.BDC.html",
+          "tier": 4,
+          "seen_count": 1
+        },
         {
           "title": "Re: [請益] 請問大家損益還好嗎？",
           "url": "https://www.ptt.cc/bbs/Stock/M.1785032934.A.68A.html",
@@ -703,68 +735,14 @@
           "seen_count": 1
         },
         {
-          "title": "[新聞] 夜盤續跌445點！專家警告下週面臨三大利",
-          "url": "https://www.ptt.cc/bbs/Stock/M.1785003266.A.D37.html",
+          "title": "Re: [討論] 30歲後 要開始準備轉PM、FAE嗎",
+          "url": "https://www.ptt.cc/bbs/Tech_Job/M.1785065162.A.016.html",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Re: [請益] 需要為上漲/下跌找理由嗎？",
-          "url": "https://www.ptt.cc/bbs/Stock/M.1784998042.A.F0D.html",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "[新聞] 大贏家!「大賣空」本尊貝瑞 加碼放空美空",
-          "url": "https://www.ptt.cc/bbs/Stock/M.1784994623.A.D55.html",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "[請益] 請問大家損益還好嗎？",
-          "url": "https://www.ptt.cc/bbs/Stock/M.1784994139.A.555.html",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "[新聞] 學者：大陸42銀行資產跌破淨值 恐病入膏",
-          "url": "https://www.ptt.cc/bbs/Stock/M.1784993126.A.C7E.html",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Re: [新聞] 英特爾財報財測大好 股價為什麼還崩跌？",
-          "url": "https://www.ptt.cc/bbs/Stock/M.1784990284.A.D03.html",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "[情報] 1218 泰山 本公司總經理遭羈押",
-          "url": "https://www.ptt.cc/bbs/Stock/M.1784989761.A.C68.html",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "[新聞] AI熱潮撐經濟！台經院上修今年GDP至10.38",
-          "url": "https://www.ptt.cc/bbs/Stock/M.1784987905.A.DA4.html",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "[新聞] 目標價跳升42%！「記憶體指標大廠」EPS",
-          "url": "https://www.ptt.cc/bbs/Stock/M.1784987522.A.262.html",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "[新聞] 英特爾財報財測大好 股價為什麼還崩跌？",
-          "url": "https://www.ptt.cc/bbs/Stock/M.1784986088.A.DE6.html",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Re: [情報] google財報亮眼",
-          "url": "https://www.ptt.cc/bbs/Stock/M.1784985198.A.CA8.html",
+          "title": "[討論] 30歲後 要開始準備轉PM、FAE嗎",
+          "url": "https://www.ptt.cc/bbs/Tech_Job/M.1785046552.A.3C4.html",
           "tier": 4,
           "seen_count": 1
         },
@@ -773,125 +751,147 @@
           "url": "https://www.ptt.cc/bbs/Tech_Job/M.1785034486.A.442.html",
           "tier": 4,
           "seen_count": 1
-        },
-        {
-          "title": "[請益] Offer 請益",
-          "url": "https://www.ptt.cc/bbs/Tech_Job/M.1784994333.A.E7D.html",
-          "tier": 4,
-          "seen_count": 1
         }
       ],
       "no_signal": true,
       "deep_count": 0,
-      "watch_count": 20
+      "watch_count": 22
     },
     {
       "name": "Technology",
       "anchor": "Technology",
-      "archive_url": "./history/2026-07-26_03-37/index.html#Technology",
+      "archive_url": "./history/2026-07-26_13-43/index.html#Technology",
       "stories": [
         {
-          "title": "企業 AI 成本救星來了！Anthropic 以 Fable 一半價格推出 Opus 5",
+          "title": "聯準會「鷹」霾未散欠投資！瑞銀財管 CIO 估黃金將下探 3,850 美元",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：Anthropic 於上週五正式推出全新 AI 模型 Claude Opus 5。該模型主打以 Fable 版本一半的價格，提供接近頂級的效能表現，旨在成為企業降低 AI 成本的解決方案。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：Anthropic 推出定價為 Fable 一半的 Opus 5，標誌著高階 AI 模型市場進入價格競爭與普及化的新階段。此舉將大幅降低企業導入頂級模型能力的門檻，加速 AI 在複雜任務中的商業化應用。對於預算敏感的大型企業而言，Opus 5 提供了更具成本效益的選擇，可能促使市場從單純追求模型參數規模轉向追求性價比。這將迫使競爭對手重新評估其定價策略，進而引發整個生成式 AI 產業的價格戰，長期來看有利於 AI 技術的廣泛滲透與生態系擴張。 <a href=\"https://technews.tw/2026/07/26/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：因美國與伊朗緊張局勢升級，黃金價格近期維持在每盎司 4,100 美元附近盤整。瑞銀財富管理投資總監辦公室預估黃金價格將下探至 3,850 美元。聯準會鷹派立場持續，市場面臨投資不足問題。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：黃金價格雖受地緣政治風險支撐，但聯準會維持鷹派立場將壓抑無息資產吸引力。瑞銀 CIO 預測黃金下探 3,850 美元，反映市場對流動性收緊與投資不足的擔憂。若美國經濟數據強勁或通膨受控，聯準會可能延後降息，進一步加劇黃金回調壓力。地緣衝突若未升級，黃金避險需求將減弱，價格可能回歸基本面。投資者應關注聯準會政策轉向訊號及中東局勢演變，以評估黃金中長期走勢。 <a href=\"https://finance.technews.tw/2026/07/26/lack-of-investment/\">[來源]</a></div>"
+        },
+        {
+          "title": "外資狂掃緯創連五紅！這六檔「高瑋創含量 ETF」最高報酬飆破 5%",
+          "confidence": 60,
+          "heat": 22,
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：台股上週五盤面高檔震盪，成交量前十個股中僅緯創與反向 ETF 收在平盤之上。外資連續五日買超緯創，推動股價連五紅。市場關注六檔高瑋創含量 ETF，其中部分報酬率飆破 5%。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：外資連續買超緯創顯示對 AI 伺服器供應鏈的長期信心，緯創作為關鍵代工夥伴，其股價表現直接反映產業趨勢。高瑋創含量 ETF 報酬率突破 5%，凸顯市場對創新科技題材的追捧，這類 ETF 因聚焦高成長潛力股，在資金輪動中具備較強動能。然而，台股高檔震盪暗示短期波動風險，投資人需留意獲利回吐壓力。長期來看，AI 與半導體產業仍是台股核心驅動力，相關 ETF 若持續吸引資金挹注，將有利於市場結構優化。 <a href=\"https://finance.technews.tw/2026/07/26/innovation-etf/\">[來源]</a></div>"
+        },
+        {
+          "title": "攜手民間登月球踏火星，NASA 啟動 41 項前瞻太空技術合作案",
+          "confidence": 60,
+          "heat": 22,
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：美國太空總署（NASA）近日宣布，已從 37 家美國企業提交的提案中，選拔出 41 項太空技術合作計畫。此舉旨在攜手民間力量，推動登月球及踏火星的任務目標。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：NASA 此次選拔 41 項合作計畫，標誌著美國太空政策從單純政府主導轉向深度依賴民間產業生態系的關鍵轉折。透過將 37 家企業的提案轉化為具體合作案，NASA 不僅能分散研發風險與成本，更能加速商業太空技術的成熟度，特別是針對月球與火星任務所需的關鍵技術。這種公私協力模式將刺激美國太空供應鏈的創新活力，促使民間企業在推進系統、生命維持及資源探勘等領域投入更多資源，進而鞏固美國在未來深空探索領域的領導地位，並為建立可持續的月球基地及火星任務奠定技術與商業基礎。 <a href=\"https://technews.tw/2026/07/26/nasa-41-space-lunar-mars/\">[來源]</a></div>"
+        },
+        {
+          "title": "AI 依賴會演變成 AI 成癮嗎？醫界警告：過度依賴恐損害心理健康",
+          "confidence": 60,
+          "heat": 22,
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：隨著生成式人工智慧滲透日常生活，精神醫學界開始關注 AI 依賴是否可能演變成成癮的新興隱憂，並警告過度依賴恐損害心理健康。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此新聞標誌著 AI 產業發展進入深層社會影響評估階段。過去市場聚焦於效率提升與成本降低，但醫界介入預示著監管與倫理框架將成為 AI 產品上市的新門檻。若過度依賴導致心理健康問題被廣泛證實，將迫使科技大廠在產品設計中強制納入「防成癮機制」或「使用時長限制」，這可能短期內抑制用戶黏著度與廣告變現效率。長期來看，這將催生針對 AI 心理健康風險評估的第三方審計服務市場，並促使企業從單純追求演算法精準度，轉向開發具備「數位健康」認證的合規產品。產業競爭焦點將從技術參數轉向社會責任與使用者福祉的平衡能力。 <a href=\"https://technews.tw/2026/07/26/ai-dependence-addiction-mental-health-risks/\">[來源]</a></div>"
+        },
+        {
+          "title": "神雲科技搭載第六代 AMD EPYC  伺服器處理器，推進代理式 AI 基礎架構",
+          "confidence": 60,
+          "heat": 22,
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：神達控股旗下子公司神雲科技推出搭載第六代 AMD EPYC 伺服器處理器的新產品，旨在推進代理式 AI 基礎架構的發展。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：神雲科技此次推出搭載第六代 AMD EPYC 處理器的伺服器，顯示出伺服器廠商正積極佈局代理式 AI（Agentic AI）所需的基礎設施。隨著 AI 應用從單純的生成式內容轉向具備自主規劃與執行能力的代理式 AI，對伺服器運算效能、記憶體頻寬及 I/O 吞吐量的要求將大幅提升。第六代 AMD EPYC 處理器在核心數與能效比上的優勢，能有效支撐多代理協同運作的複雜場景。此舉不僅強化了神雲在高效能運算市場的競爭力，也預示著伺服器產業將加速朝向支援自主 AI 代理的硬體架構轉型，以滿足未來企業對自動化決策與執行的高階需求。 <a href=\"https://technews.tw/2026/07/26/mitac-gen6-amd-epyc-server/\">[來源]</a></div>"
+        },
+        {
+          "title": "Google 前產品主管創「Ghost Font」，人眼可見但 AI 一頭霧水",
+          "confidence": 60,
+          "heat": 22,
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：Google 前產品經理 Eric Lu 開發了一款名為「Ghost Font」的字型，該字型在網路上引發關注。此字型設計特點為人類肉眼可以正常閱讀，但人工智慧系統難以識別或理解其內容，被描述為專門針對 AI 識別機制設計的「反 AI 字型」。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：Ghost Font 的出現標誌著人機互動與資訊安全領域的新趨勢，顯示人類正主動尋求技術手段以區隔自身與 AI 的資訊處理能力。隨著生成式 AI 與 OCR 技術的普及，大量非結構化文字數據被自動化抓取與分析，此類字型可能成為保護個人隱私、防止未經授權的數據爬取或干擾 AI 訓練數據質量的潛在工具。然而，其長期有效性取決於 AI 模型的適應能力，若 AI 透過大量樣本學習或引入多模態識別機制，可能逐漸克服此類視覺干擾。此外，若此技術被廣泛應用，可能引發關於資訊透明度、內容驗證與數位權衡的倫理爭議，特別是在新聞、法律文件或學術出版等需要高可信度的領域。產業界需關注此類技術對內容審核、數據採集及版權保護流程的衝擊，並評估是否需要建立新的標準或法規來規範其使用。 <a href=\"https://infosecu.technews.tw/2026/07/26/ghost-font-the-anti-ai-font-only-humans-can-read/\">[來源]</a></div>"
+        },
+        {
+          "title": "靠大數據引流 5,300 萬日客！觀光署結盟日本導航 NAVITIME 合作",
+          "confidence": 60,
+          "heat": 22,
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：交通部觀光署與日本旅遊科技企業株式會社 NAVITIME 達成合作，旨在利用大數據技術精準吸引日本旅客來台觀光。此次合作目標是透過數位轉型策略，爭取每年約 5,300 萬名日本旅客的市場商機，標誌著台灣觀光產業在數位化行銷與國際客源拓展上的重要進展。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此次合作顯示台灣觀光產業正積極從傳統行銷轉向數據驅動的精準策略。日本作為台灣重要的客源市場，擁有龐大的旅遊消費潛力，透過與 NAVITIME 這類具備導航與大數據分析能力的科技巨頭結盟，能有效提升台灣旅遊資訊在日本市場的曝光度與觸及率。此舉不僅能優化日本旅客的行程規劃體驗，更能將潛在流量轉化為實際到訪人數，對提升台灣觀光收入與產業競爭力具有顯著助益。長期來看，此類跨國科技合作模式若成功複製，將有助於台灣建立更完善的智慧觀光生態系，並強化在東亞旅遊市場中的數位優勢。 <a href=\"https://technews.tw/2026/07/26/navitime-japan/\">[來源]</a></div>"
+        },
+        {
+          "title": "跟 AirPods 一樣大的 VPodDuo，10 分鐘精準揪出病毒與癌症",
+          "confidence": 60,
+          "heat": 22,
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：美國伊利諾大學厄巴納─香檳分校研發出名為 VPodDuo 的檢測裝置，其體積與 AirPods 相當。該裝置能在 10 分鐘內精準檢測出病毒與癌症相關指標，相關技術細節由 Technews 科技新報報導。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：VPodDuo 的出現標誌著醫療檢測設備向微型化與即時化邁進的重要里程碑。傳統病原體與癌症篩檢往往需要大型實驗室設備與數小時至數天的等待時間，而此項技術將檢測時間壓縮至 10 分鐘且體積縮小至消費電子產品等級，極大提升了篩檢的可及性與效率。這不僅有利於醫療資源匱乏地區的早期疾病篩查，更可能重塑居家自我檢測市場，讓個人能隨時監控健康狀況。若此技術能成功量產並通過法規認證，將對快速診斷（POCT）產業產生結構性衝擊，促使醫療體系從被動治療轉向主動預防，同時吸引大量資本投入微型生物感測器領域。 <a href=\"https://technews.tw/2026/07/26/vpodduo-detects-pathogens-cancer/\">[來源]</a></div>"
         },
         {
           "title": "一天喝五杯咖啡也無妨？研究揭開咖啡的護肝潛力",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：根據 Technews 科技新報報導，咖啡不僅是許多人開啟一天的提神飲品，近年研究陸續發現其可能與大腦健康有關，且新研究揭示咖啡具有護肝潛力，甚至指出一天喝五杯咖啡也無妨。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此研究結果若經大規模臨床驗證，將顯著改變大眾對咖啡攝取量的安全認知，可能推動健康飲食指南的調整。對於咖啡產業而言，這將強化咖啡作為功能性飲品的市場定位，有利於提升高單價精品咖啡或添加護肝成分產品的銷售潛力。同時，這也可能促使食品飲料業者加速開發針對肝臟健康的咖啡相關產品線。然而，產業界仍須注意個體差異，避免過度行銷導致消費者忽略自身健康狀況而過量攝取。長期來看，若護肝功效獲得醫學界廣泛認可，咖啡將從單純的提神飲料轉型為具有預防醫學價值的日常保健食品，進而影響全球咖啡供應鏈的價值分配與品牌策略。 <a href=\"https://technews.tw/2026/07/26/study-uncovers-coffees-liver-protective-potential/\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：根據 Technews 科技新報報導，咖啡不僅是許多人開啟一天的儀式與提神飲品，近年研究陸續發現其可能與大腦健康有關，且新研究進一步揭開咖啡具有護肝潛力，甚至指出一天喝五杯咖啡也無妨。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此研究結果若經大規模臨床驗證，將顯著改變大眾對咖啡攝取量的安全認知，打破過去認為過量飲用可能傷身的迷思。對咖啡產業而言，這將成為強有力的行銷訴點，有助於提升消費者信心並擴大市場滲透率，特別是針對健康意識較高的族群。然而，產業界在推廣時仍須謹慎，避免過度解讀單一研究而忽略個體差異，建議結合營養學專業建議進行溝通。長期來看，此發現可能促使食品飲料業開發更多強調肝臟保健功能的咖啡衍生產品，創造新的產品線與營收成長點。 <a href=\"https://technews.tw/2026/07/26/study-uncovers-coffees-liver-protective-potential/\">[來源]</a></div>"
+        },
+        {
+          "title": "企業 AI 成本救星來了！Anthropic 以 Fable 一半價格推出 Opus 5",
+          "confidence": 60,
+          "heat": 22,
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：Anthropic 於上週五正式推出全新 AI 模型 Claude Opus 5。該模型主打以 Fable 版本一半的價格，提供接近頂級的效能表現，旨在成為企業降低 AI 成本的解決方案。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：Anthropic 推出定價為 Fable 一半的 Opus 5，顯示生成式 AI 市場正從單純追求模型極致性能，轉向重視性價比與商業落地可行性。此舉將大幅降低企業導入高階 AI 能力的門檻，加速 AI 在大型組織中的普及化應用，特別是對成本敏感的企業客戶而言，Opus 5 提供了更具吸引力的替代方案。這可能迫使競爭對手重新評估其定價策略，進而引發市場價格戰，促使整個產業鏈更聚焦於效率優化與成本控制，而非僅是參數規模的堆疊。 <a href=\"https://technews.tw/2026/07/26/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/\">[來源]</a></div>"
         },
         {
           "title": "從被嫌「像糰子」到拿下全球七成市占，鈴茂器工如何稱霸壽司機器人市場？",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：日本每十家迴轉壽司店中，近八家使用同款機器捏壽司。該款機器在日本壽司機器人市場的市占率高達八成，全球市占率亦突破七成。鈴茂器工（Suzumo）是該領域的領導廠商，其產品曾因外觀被形容為「像糰子」而受質疑，但最終成功壟斷市場。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：鈴茂器工在壽司機器人市場取得絕對主導地位，顯示自動化設備在餐飲業滲透率已達關鍵臨界點。其高市占率反映日本迴轉壽司產業對標準化、高效率生產的剛性需求，且該機器能克服早期外觀與技術質疑，證明產品成熟度與市場接受度已高度契合。此現象預示未來餐飲自動化將從「可選」轉為「必選」，尤其在高人力成本與少子化背景下，類似專精型機器人將成為連鎖餐飲的基礎設施。同時，全球七成市占率暗示國際市場擴張潛力巨大，可能引發其他國家廠商跟進或合作，重塑全球壽司供應鏈結構。 <a href=\"https://technews.tw/2026/07/26/suzumo/\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：日本每十家迴轉壽司店中，近八家使用同款機器捏壽司。該款機器在日本壽司機器人市場佔有率高達八成，全球市佔率亦突破七成。鈴茂器工（Suzumo）是該領域的領導廠商，其產品曾遭批評外觀「像糰子」，但最終成功壟斷市場。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：鈴茂器工能從被質疑外觀設計到壟斷全球七成壽司機器人市場，顯示產業競爭核心已從單純的機械功能轉向極致的效率與標準化。在迴轉壽司高度依賴快速出餐與品質一致性的背景下，該機器的高市佔率意味著其已成為行業基礎設施，形成極高的進入門檻。此現象反映自動化設備在餐飲業的滲透率將持續提升，特別是針對高重複性、低容錯率的製程。未來競爭者若無法在速度、成本或食材適應性上大幅超越現有標準，將難以撼動鈴茂器工的龍頭地位。此外，隨著全球勞動力短缺加劇，此類自動化解決方案的需求預計將從日本擴散至其他亞洲及歐美市場，推動相關供應鏈的技術升級。 <a href=\"https://technews.tw/2026/07/26/suzumo/\">[來源]</a></div>"
         },
         {
           "title": "難敵 2 奈米與 DRAM 成本壓力！高通晶片 9 月起全面雙位數調漲",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：高通（Qualcomm）已向客戶發送內部信件，預告自 9 月 1 日起對出貨產品全面調漲價格，預期漲幅為雙位數。此次調價主要源於難以抵禦 2 奈米製程技術帶來的成本壓力，以及 DRAM 記憶體成本上升的雙重影響。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：高通此次全面調漲雙位數價格，標誌著半導體產業進入成本驅動型漲價週期。2 奈米製程雖能提升效能，但其研發與產能成本極高，加上 DRAM 等關鍵零組件價格波動，迫使晶片大廠將成本轉嫁至下游。此舉可能壓縮手機品牌商的利潤空間，尤其對中低階機型造成較大衝擊，或加速市場向高單價旗艦機型集中。長期來看，若成本壓力持續，將促使品牌商加速導入自研晶片或尋求替代供應商，進而改變供應鏈權力結構。 <a href=\"https://technews.tw/2026/07/26/qualcomm-is-about-to-raise-prices/\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：高通（Qualcomm）已向客戶發送內部信件，預告自 9 月 1 日起對出貨產品進行全面價格調整。此次調漲預期將達到雙位數百分比，主要驅動因素包括難以抵禦的 2 奈米製程技術成本壓力以及 DRAM 記憶體成本的上升。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：高通此次宣布全面雙位數調漲晶片價格，標誌著半導體供應鏈成本結構的顯著轉變。2 奈米製程的導入雖能提升效能，但其研發與製造成本極高，加上 DRAM 等關鍵零組件價格波動，迫使晶片設計大廠必須將成本轉嫁至下游。此舉將直接衝擊智慧型手機、車用電子及物聯網設備的製造商利潤空間，可能導致終端產品售價上漲或壓縮廠商毛利。長期來看，這可能加速產業整合，促使品牌廠商尋求更多元化的晶片供應商以分散風險，或加速推動自研晶片策略以擺脫對單一供應商的依賴。同時，價格上漲也可能抑制部分對價格敏感市場的需求，進而影響高通未來的營收成長動能。 <a href=\"https://technews.tw/2026/07/26/qualcomm-is-about-to-raise-prices/\">[來源]</a></div>"
         },
         {
           "title": "時速 56 公里就可能失控，雨天駕駛必看的 4 個反直覺物理真相",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：台灣駕駛人每年約有三分之一時間需面對雨天駕駛情境。Technews 科技新報報導指出，時速 56 公里即可能導致車輛失控，並整理了四個關於雨天駕駛的反直覺物理真相，旨在協助駕駛人理解雨中防滑的關鍵知識。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此報導強調雨天行車安全與物理法則的緊密關聯，顯示產業界與媒體正逐步從單純的車輛性能宣傳，轉向更重視駕駛行為教育與環境適應性的安全議題。隨著極端氣候頻繁，台灣雨季長且降雨型態多變，提升大眾對低摩擦係數路面的認知，將成為降低交通事故率的關鍵。此趨勢可能促使車廠在 ADAS（先進駕駛輔助系統）開發中，更強化濕地煞車與循跡控制演算法的優化，同時帶動保險業與政府單位重新評估雨天行車風險模型。此外，媒體對「反直覺物理真相」的聚焦，反映消費者對科學化安全知識的需求上升，未來相關教育內容或將成為車用科技行銷的重要切入點。 <a href=\"https://technews.tw/2026/07/26/lose-control-56kmh-4-counter-intuitive-physics-truths-rainy-day-driving/\">[來源]</a></div>"
-        },
-        {
-          "title": "韋伯望遠鏡最新觀測，極端熔岩行星巨蟹座 55e 佈滿氫氣與火山雲",
-          "confidence": 60,
-          "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：NASA 的詹姆斯·韋伯太空望遠鏡（JWST）對距離地球約 41 光年的超級地球「巨蟹座 55e」進行了最新觀測。觀測結果顯示，這顆極端熔岩行星的大氣層中佈滿氫氣，並存在火山雲。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：韋伯望遠鏡對巨蟹座 55e 的觀測成果，標誌著系外行星大氣層分析技術的重大突破。該行星被確認擁有氫氣大氣層及火山雲，這為理解超級地球的形成與演化提供了關鍵實證數據。此發現有助於科學家釐清高溫岩石行星是否可能保留原始大氣，或是由火山活動持續補充氣體。對於未來搜尋地外生命或宜居環境的指標而言，掌握火山活動與大氣成分的關聯性至關重要。此類觀測數據將推動下一代太空望遠鏡的設計方向，並促使天文學界重新評估類地行星的潛在多樣性。隨著觀測技術的精進，人類對系外行星環境的認知將從理論推演轉向實證科學，進而影響太空探索策略的制定。 <a href=\"https://technews.tw/2026/07/26/webb-telescope-unveils-lava-planet-55-cancri-e/\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：台灣駕駛人一年中約有三分之一時間需面對雨天駕駛情境。Technews 科技新報報導指出，時速 56 公里即可能導致車輛失控，並整理了四個關於雨天駕駛的反直覺物理真相，旨在協助駕駛人理解如何避免打滑。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：此報導強調雨天行車安全與物理原理的關聯，顯示產業對主動安全技術與駕駛輔助系統的需求日益提升。隨著極端氣候頻繁，車輛在濕滑路面的穩定性控制成為關鍵議題，促使車廠加速導入電子穩定程序（ESP）、胎壓監測及自適應巡航等技術。此外，此類科普內容有助於提升消費者對車輛安全性能的認知，進而影響購車決策，推動高安全規格車型的市場滲透率。長期來看，政府與產業界可能需加強雨天駕駛教育與道路基礎設施改善，以減少事故發生率。 <a href=\"https://technews.tw/2026/07/26/lose-control-56kmh-4-counter-intuitive-physics-truths-rainy-day-driving/\">[來源]</a></div>"
         },
         {
           "title": "馬斯克「無聊公司」洽談新一輪融資！目標估值預計達 200 億美元",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：馬斯克旗下的隧道建設公司「無聊公司（Boring Company）」正計劃進行新一輪融資，目標估值預計達 200 億美元。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：無聊公司尋求 200 億美元估值的新融資，顯示市場對其隧道挖掘技術商業化前景的持續關注。此舉可能反映該公司正處於擴大基礎設施建設規模或技術升級的關鍵階段，需大量資本支持。若融資成功，將強化其在地下交通解決方案領域的競爭地位，並可能加速全球城市交通擁堵問題的創新應對方案落地。然而，高估值也意味著投資者對其未來營收增長與技術落地效率有較高期待，若執行不及預期，可能面臨估值回調風險。 <a href=\"https://finance.technews.tw/2026/07/26/boring-company/\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：馬斯克旗下的隧道建設公司「無聊公司（Boring Company）」正計劃進行新一輪融資，目標估值預計達到 200 億美元。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：無聊公司尋求 200 億美元估值的新融資，顯示其隧道挖掘技術已從實驗階段轉向大規模商業化擴張的關鍵節點。此舉不僅需要龐大資金支持地下基礎設施的高昂建設成本，也反映市場對其解決城市交通擁堵方案的潛在認可。若融資成功，將加速其在全球主要都會區的項目落地，可能重塑地下物流與交通基礎設施的產業格局，並對傳統土木工程與城市規劃領域構成競爭壓力。然而，高估值也意味著投資方對其技術成熟度與盈利模式有更高期待，若項目進度或成本控管不如預期，可能引發資本市場波動。 <a href=\"https://finance.technews.tw/2026/07/26/boring-company/\">[來源]</a></div>"
+        },
+        {
+          "title": "韋伯望遠鏡最新觀測，極端熔岩行星巨蟹座 55e 佈滿氫氣與火山雲",
+          "confidence": 60,
+          "heat": 22,
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：NASA 的詹姆斯·韋伯太空望遠鏡（JWST）對距離地球約 41 光年的超級地球「巨蟹座 55e」進行了最新觀測。觀測結果顯示，這顆極端熔岩行星的大氣層佈滿氫氣，且存在火山雲。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：韋伯望遠鏡對巨蟹座 55e 的觀測結果，標誌著系外行星大氣層分析技術的重大突破。該行星被確認擁有氫氣大氣層及火山雲，這為理解超級地球的形成與演化提供了關鍵實證數據。此發現挑戰了過去對於極端高溫行星大氣成分的假設，顯示火山活動在維持行星大氣結構中扮演重要角色。對於未來系外行星搜尋任務而言，此類觀測數據將引導科學家更精準地篩選潛在宜居行星或類地行星候選者，並推動太空望遠鏡儀器朝向更高解析度與更寬光譜範圍發展。此外，火山雲的偵測也暗示了行星內部地質活動的活躍程度，這將成為評估行星長期氣候穩定性與潛在生命存在條件的新指標。 <a href=\"https://technews.tw/2026/07/26/webb-telescope-unveils-lava-planet-55-cancri-e/\">[來源]</a></div>"
         },
         {
           "title": "4 年營收翻倍破 800 億日圓，解析 3COINS 靠「週週推百款新品」打造的圈粉商模",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：3COINS 從 300 日圓均一商店起家，透過每週上架上百款新品及員工社群行銷策略，成功吸引日本消費者。該品牌在四年內營收翻倍，突破 800 億日圓。目前 3COINS 已進軍台灣市場，旨在捕捉當地市場份額。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：3COINS 的成功模式顯示均一價零售業在產品迭代速度與社群互動上的巨大潛力。其「週週推百款新品」的策略有效創造了稀缺感與重複購買動機，解決了傳統折扣店商品更新慢的痛點。進軍台灣市場意味著該品牌正將日本驗證過的商業模式複製至亞洲其他高消費力地區，這可能對台灣現有百元店市場造成衝擊，迫使競爭對手加速產品創新或調整定價策略。長期來看，若 3COINS 能維持高頻率新品上架並適應在地化需求，將有機會在台灣市場佔據顯著份額，並重新定義均一價零售的消費者體驗標準。 <a href=\"https://finance.technews.tw/2026/07/26/3coins-debuts-taiwan-capture-market-share/\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：3COINS 從 300 日圓均一商店起家，透過每週上架上百款新品及員工社群行銷策略，成功吸引日本消費者。該品牌在四年內營收翻倍，突破 800 億日圓，並計劃進軍台灣市場以擴大市佔率。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：3COINS 的成功模式顯示均一價零售業在產品迭代速度與社群互動上的巨大潛力。其「週週推百款新品」的策略有效維持消費者新鮮感，降低庫存風險並提升回購率，這在傳統零售業中極為罕見。進軍台灣市場將測試其模式在亞洲其他地區的適應性，若成功複製，可能對當地均一價商店及快時尚品牌構成競爭壓力。然而，台灣市場消費習慣與日本存在差異，3COINS 需調整選品與行銷策略以適應本地需求。長期來看，此模式若能在台灣站穩腳跟，將推動零售業向更高頻次新品開發與數位化行銷轉型。 <a href=\"https://finance.technews.tw/2026/07/26/3coins-debuts-taiwan-capture-market-share/\">[來源]</a></div>"
         },
         {
           "title": "AI 跑分不再是唯一，科技巨頭新戰場：模型的「性格」將決定勝負",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：當前人工智慧（AI）產業的競爭焦點正從單純比拚模型智力（IQ）轉向評估模型是否為值得合作的對象。科技巨頭的新戰場在於模型的「性格」將決定最終勝負，這標誌著 AI 評估標準的轉變。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：AI 產業正經歷從技術指標驅動向應用體驗驅動的關鍵轉型。過去市場過度關注基準測試分數（Benchmark Scores），但隨著大模型能力趨於同質化，分數差異已難以成為決定性因素。未來競爭核心將轉移至模型的「性格」，即其互動風格、價值觀對齊度、溝通直覺及在複雜情境下的行為模式。這意味著科技巨頭必須在模型微調與人類反饋強化學習（RLHF）階段投入更多資源，以塑造符合特定場景需求的個性化特徵。對於企業用戶而言，選擇 AI 夥伴時將更看重其協作順暢度與信任感，而非單純的推理速度或知識廣度。此趨勢將迫使開發者重新定義產品差異化策略，並可能催生針對「性格特徵」的新一輪評估標準與市場分類。 <a href=\"https://technews.tw/2026/07/26/ai-competition-personality-over-iq/\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：當前人工智慧（AI）的競爭焦點正從單純比拚模型智力（IQ）轉向評估其是否為值得合作的對象。科技巨頭的新戰場已擴展至模型的「性格」，這將成為決定市場勝負的關鍵因素。此趨勢標誌著 AI 評估標準的轉變，不再僅限於傳統跑分數據。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：AI 產業正經歷從技術導向到應用導向的結構性轉變。過去市場過度關注基準測試（Benchmark）中的智力分數，但隨著大模型能力趨於同質化，單純的 IQ 優勢已難以構建護城河。未來競爭核心將轉移至模型的「性格」，即其互動風格、價值觀對齊度、安全性及與人類協作的順暢度。這意味著科技巨頭必須在模型微調與人類反饋強化學習（RLHF）上投入更多資源，以塑造符合特定場景需求的個性化 AI。對於企業而言，選擇 AI 夥伴時將更重視其行為模式是否穩定可靠，而非僅看參數量或測試分數。此趨勢將加速 AI 產品從通用工具向垂直領域專屬助手的演進，並可能重塑軟體開發與服務交付的標準流程。 <a href=\"https://technews.tw/2026/07/26/ai-competition-personality-over-iq/\">[來源]</a></div>"
         },
         {
           "title": "抗失智從 40 歲就該開始，掌握 14 項風險因子為大腦提前存好「認知儲備」",
           "confidence": 60,
           "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：失智症目前尚無法治癒，但可透過預防措施降低風險。隨著台灣邁入超高齡社會，失智人口持續增加。相關研究指出，抗失智的預防工作應從 40 歲開始，透過掌握 14 項風險因子，為大腦建立「認知儲備」以延緩或避免失智症發生。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：隨著全球及台灣人口結構快速老化，失智症已成為公共衛生與醫療產業的重大挑戰。由於目前缺乏治癒手段，產業重心正從「治療」轉向「預防與早期介入」。40 歲作為關鍵介入點，意味著中年健康市場、數位健康監測工具、認知訓練應用程式及相關營養補充品將迎來顯著成長契機。掌握 14 項風險因子（如高血壓、糖尿病、聽力損失、社會孤立等）的數據化分析與個人化健康管理方案，將成為醫療科技與保險產業的新藍海。此外，政府與民間機構合作推動的社區認知篩檢與教育計畫，亦將帶動相關服務業發展。未來，整合多維度風險評估與長期追蹤的 AI 驅動預防平台，將成為產業競爭關鍵。 <a href=\"https://technews.tw/2026/07/26/anti-dementia-efforts-start-40-master-14-risk-factors-build-brain-cognitive-reserve/\">[來源]</a></div>"
-        },
-        {
-          "title": "能計步、當開關還能變形，哈佛最新「多穩態」智慧布料顛覆穿戴裝置想像",
-          "confidence": 60,
-          "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：哈佛大學研究團隊成功將日常針織布料轉化為可程式化材料，開發出具備「多穩態」特性的新型智慧布料。該布料能在多種穩定形狀間自由切換，並具備計步、作為開關使用及變形等功能，旨在顛覆現有穿戴裝置的想像與應用模式。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：哈佛大學此項多穩態智慧布料技術，標誌著穿戴式裝置從「附加電子元件」向「材料本質智慧化」的關鍵轉折。傳統智慧手環或衣物需依賴硬質感測器與電池，導致舒適度與耐用性受限；此項技術透過材料本身的物理特性實現形狀記憶與功能切換，大幅降低對外部硬體依賴，有望解決穿戴裝置長期存在的異物感與續航痛點。在產業應用上，該技術可快速導入運動監測（如自動計步）、醫療復健（如可變形支撐護具）及軍事防護（如隨環境變形的裝甲）等領域，重塑智慧紡織品市場格局。然而，大規模量產仍面臨針織工藝標準化、長期形變穩定性及成本控制的挑戰，需觀察後續與紡織巨頭的合作進度。 <a href=\"https://technews.tw/2026/07/26/harvard-multistability-smart-knitted-fabric/\">[來源]</a></div>"
-        },
-        {
-          "title": "港大 AI 血液檢測，提前 15 年攔截六大心血管疾病",
-          "confidence": 60,
-          "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：香港大學李嘉誠醫學院研究團隊開發出名為 CardiOmicScore 的人工智慧血液檢測技術，該技術能提前 15 年預測並攔截六大心血管疾病。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：港大醫學院推出的 CardiOmicScore 技術標誌著心血管疾病預防策略的重大轉折，將診斷時間軸大幅前移至症狀出現前 15 年。此突破意味著醫療體系可從被動的治療模式轉向主動的風險管理，透過早期介入顯著降低中風、心肌梗塞等重症發生率與醫療成本。在產業層面，此技術將加速 AI 醫療診斷工具的臨床應用與商業化進程，促使保險業與健康管理機構重新評估風險模型，並可能帶動相關生物標記檢測與數據分析服務的需求爆發。然而，大規模推廣仍需克服臨床驗證、數據隱私規範及醫療資源分配等挑戰。 <a href=\"https://technews.tw/2026/07/26/ai-blood-test-detects-six-major-cardiovascular-diseases-15-years-early/\">[來源]</a></div>"
-        },
-        {
-          "title": "Fortinet 漏洞擴大，台企資安拉警報",
-          "confidence": 60,
-          "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：Fortinet 防火牆及 VPN 憑證外洩事件（FortiBleed）持續延燒，資安公司 Hudson Rock 指出相關漏洞影響範圍擴大，引發台灣企業對資安風險的高度關注與警報。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：FortiBleed 漏洞事件顯示關鍵基礎設施供應商的安全缺陷可能對依賴其產品的台灣企業造成連鎖衝擊。由於 Fortinet 產品廣泛應用於企業網路邊界防護，憑證外洩可能導致攻擊者繞過驗證機制，進而竊取敏感資料或植入惡意程式。此事件將迫使台灣企業加速檢視現有網路架構，並可能推動資安預算重新分配，優先強化端點檢測與回應（EDR）及零信任架構部署。長期而言，此類事件將促使產業更重視供應商風險管理，並加速導入多因素認證與即時威脅情資整合機制，以降低單點故障風險。 <a href=\"https://infosecu.technews.tw/2026/07/25/fortinet-vulnerabilities-widen-raising-cybersecurity-alarm-taiwanese-companies/\">[來源]</a></div>"
-        },
-        {
-          "title": "日本 ATT12 望遠鏡落腳南極，預計揭開千萬個塵封星系誕生之謎",
-          "confidence": 60,
-          "heat": 22,
-          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：由日本筑波大學主導的次世代觀測設施「南極十二公尺太赫茲望遠鏡」（Antarctic 12 m Terahertz Telescope，簡稱 ATT12）已落腳南極。該望遠鏡預計將揭開千萬個塵封星系誕生之謎，利用太赫茲波段進行觀測以探索宇宙早期星系的形成過程。</div>",
-          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：ATT12 望遠鏡落腳南極標誌著天文觀測技術向極端環境與高頻段探測的戰略性轉移。南極大氣乾燥且穩定，極少的水氣干擾使得太赫茲波段的觀測成為可能，這對於捕捉宇宙早期星系形成時的微弱訊號至關重要。此項目若成功，將大幅提升人類對宇宙黎明時期星系演化歷程的理解，並可能引發全球天文台在極地佈局的競爭。此外，日本在該領域的領先地位將強化其在國際太空科學合作中的話語權，同時帶動相關精密儀器製造與極地物流產業的發展。然而，極地運作的維護成本與技術挑戰仍是長期運營的關鍵變數。 <a href=\"https://technews.tw/2026/07/25/antarctic-12-m-terahertz-telescope/\">[來源]</a></div>"
+          "fact_html": "<div class=\"fact-block\"><strong>事實</strong>：失智症目前仍無法治癒，但並非無可作為。隨著台灣邁入超高齡社會，失智人口持續攀升。相關觀點指出，抗失智的預防工作應從 40 歲開始，透過掌握 14 項風險因子，為大腦提前建立「認知儲備」以應對潛在風險。</div>",
+          "judgment_html": "<div class=\"judgment-block\"><strong>判斷</strong>：在超高齡社會加速來臨的背景下，失智症防治策略正從被動醫療轉向主動預防。文章強調 40 歲即為關鍵介入點，顯示產業關注點已延伸至中年族群的健康管理與早期篩檢。掌握 14 項風險因子意味著預防醫學將更趨個人化與數據化，這將帶動相關健康監測設備、認知訓練應用及預防性保健產品的市場需求。對於醫療體系而言，建立針對中年族群的認知儲備評估機制，將成為未來公共衛生政策與商業保險產品設計的重要依據，有助於減輕長期照護的社會負擔。 <a href=\"https://technews.tw/2026/07/26/anti-dementia-efforts-start-40-master-14-risk-factors-build-brain-cognitive-reserve/\">[來源]</a></div>"
         }
       ],
       "watchlist": [],
       "no_signal": false,
-      "deep_count": 14,
+      "deep_count": 18,
       "watch_count": 0
     }
   ]
