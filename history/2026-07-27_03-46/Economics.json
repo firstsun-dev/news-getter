@@ -1,0 +1,20 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-07-27_03-46",
+  "stories": [
+    {
+      "title": "Oil markets are on edge again",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/26/oil-markets-are-on-edge-again",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據《經濟學人》報導，儘管轟炸可能已暫停，但能源供應仍處於脆弱狀態，油市再度陷入不穩。",
+      "judgment": "油市的不穩定性反映地緣政治風險對能源供應鏈的持續衝擊。即使軍事行動暫時停歇，基礎設施受損、物流中斷或產能恢復緩慢等因素，仍可能導致供應缺口擴大。此類情境通常會推升油價波動性，進而影響全球通膨預期與企業成本結構。若供應脆弱性持續，可能促使消費國加速能源轉型或增加戰略儲備，同時強化區域能源合作以分散風險。長期來看，此類不確定性將加速能源市場從依賴傳統化石燃料轉向多元化供給體系。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/07/26/oil-markets-are-on-edge-again"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
