@@ -1,0 +1,44 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-07-27_14-52",
+  "stories": [
+    {
+      "title": "Don’t Let AI Make Bad Analytics Worse",
+      "url": "http://feeds.harvardbusiness.org/2026/07/dont-let-ai-make-bad-analytics-worse",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論指出，企業需要紀律來防止有缺陷的分析被放大。文章標題為「別讓 AI 讓糟糕的分析更糟」，強調在引入人工智慧技術時，若缺乏適當的管理與規範，可能會導致原本就存在問題的數據分析結果被錯誤地擴大化。",
+      "judgment": "此新聞點出當前企業導入 AI 進行數據分析時的核心風險：技術本身無法修正基礎數據或邏輯的缺陷，反而可能加速錯誤決策的傳播。若企業未建立嚴謹的數據治理框架與分析驗證機制，AI 的自動化與擴散能力將使「垃圾進、垃圾出」的問題倍增，造成資源浪費與戰略誤判。這要求管理層在追求 AI 效率的同時，必須優先強化基礎分析品質與人工覆核流程，確保技術應用建立在可靠的數據基礎上，避免技術賦能變成風險放大。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/07/dont-let-ai-make-bad-analytics-worse"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "3 Questions to Pressure-Test Your Priorities",
+      "url": "http://feeds.harvardbusiness.org/2026/07/3-questions-to-pressure-test-your-priorities",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Harvard Business Review 發表文章探討如何在所有事項看似緊急的情況下，做出更少、更好且更清晰的高風險決策。文章標題為「3 Questions to Pressure-Test Your Priorities」，旨在提供方法以壓力測試優先順序。",
+      "judgment": "在當前商業環境中，組織常面臨資訊過載與多重緊急任務並存的挑戰，導致決策品質下降與資源分散。此文章提出的「壓力測試優先順序」概念，強調透過結構化提問來篩選真正關鍵的戰略重點，有助於企業避免陷入「緊急但不重要」的陷阱。這種方法能提升高階管理團隊的決策效率，確保資源集中於高影響力項目，進而增強組織的敏捷性與長期競爭力。對於處於快速變動的產業而言，建立此類決策框架將成為維持戰略聚焦的關鍵能力。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/07/3-questions-to-pressure-test-your-priorities"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Rewired takes: How AI is unlocking creativity and heralding the rise of the agent manager",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-how-ai-is-unlocking-creativity-and-heralding-the-rise-of-the-agent-manager",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據麥肯錫 Featured Insights 的報導，企業正在重新評估其工作方式、團隊結構以及在新時代中管理者的定義。該文章標題為「Rewired takes: How AI is unlocking creativity and heralding the rise of the agent manager」，探討人工智慧如何釋放創造力並預示「代理經理」角色的興起。",
+      "judgment": "企業對工作模式與團隊結構的重新評估，顯示人工智慧已從單純的自動化工具轉變為重塑組織核心邏輯的關鍵驅動力。隨著 AI 代理（AI Agents）能力的提升，傳統管理職能正經歷根本性轉變：管理者不再僅是任務分配者，而是轉向成為協調人類與 AI 代理協作的「代理經理」。這種轉變將迫使企業重新設計職責分工，將重複性決策與執行工作移交給 AI，使人類員工專注於戰略規劃、創造性解決問題及情感連結等高價值活動。長期來看，未能適應此結構性變革的企業可能面臨效率落後與人才流失的風險，而率先建立「人機協作」新範式的組織將獲得顯著的競爭優勢。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-how-ai-is-unlocking-creativity-and-heralding-the-rise-of-the-agent-manager"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
