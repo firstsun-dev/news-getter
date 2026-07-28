@@ -1,0 +1,32 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-07-28_14-25",
+  "stories": [
+    {
+      "title": "What Makes Chinese Companies So Competitive?",
+      "url": "http://feeds.harvardbusiness.org/podcast/2026/07/what-makes-chinese-companies-so-competitive",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Harvard Business Review 發布了一期訪談，內容為與研究員 Dan Wang 的對話，探討中國公司的競爭優勢。該對話聚焦於中國的工程思維如何驅動創新。",
+      "judgment": "中國企業展現出的強大競爭力，核心在於其獨特的工程思維模式。這種思維不僅強調技術落地與快速迭代，更將創新視為解決實際問題的系統性工程，而非單純的理論突破。在當前全球供應鏈重組與技術壁壘升高的背景下，這種務實且高效的創新路徑，使中國企業能迅速將研發成果轉化為市場產品，縮短從概念到量產的週期。對於國際競爭對手而言，這意味著單純依靠專利佈局或品牌溢價已不足以維持優勢，必須重新審視自身的研發流程與工程文化，學習如何將技術與市場需求更緊密地結合，以應對來自中國企業的挑戰。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/podcast/2026/07/what-makes-chinese-companies-so-competitive"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Why AI will elevate instead of replace commercial teams",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/why-ai-will-elevate-instead-of-replace-commercial-teams",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Covestro 首席商業長 Monique Buch 認為人工智慧應被視為一項商業策略，而非單純的技術升級。此觀點出自麥肯錫 Featured Insights 發布的文章，標題為「為何人工智慧將提升而非取代商業團隊」。",
+      "judgment": "將 AI 定位為商業策略而非技術工具，標誌著企業數位轉型思維的成熟。此觀點暗示 AI 的價值不在於自動化取代人力，而在於增強商業團隊的決策品質與客戶互動深度。當企業高層如 Covestro 的 CCO 將 AI 納入核心戰略時，意味著組織將重新設計商業流程，使銷售與行銷人員能利用 AI 洞察進行更高價值的客戶經營。這種策略轉向有助於緩解市場對 AI 取代人力的焦慮，並推動商業團隊從執行層面轉向策略層面，最終提升整體營收成長與市場競爭力。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/why-ai-will-elevate-instead-of-replace-commercial-teams"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

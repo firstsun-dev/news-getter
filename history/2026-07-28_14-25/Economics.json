@@ -1,0 +1,20 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-07-28_14-25",
+  "stories": [
+    {
+      "title": "AI revenues are growing fast, but not fast enough",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據《經濟學人》報導，全球在人工智慧領域的投資金額達數兆美元，但相關營收增長速度雖快，仍不足以支撐如此龐大的資本支出。報導指出，目前 AI 技術的投資回報率存在高度不確定性，市場對未來收益的預期與實際表現之間存在落差。",
+      "judgment": "儘管 AI 產業營收呈現快速成長，但相對於數兆美元的資本投入，其回報速度顯得緩慢，顯示產業可能面臨投資過熱與商業化落地滯後的風險。若企業無法在短期內轉化為可觀的利潤，將可能引發資本市場對 AI 泡沫的擔憂，進而影響後續融資環境與技術研發投入。此現象也凸顯出 AI 應用場景尚未完全成熟，需進一步突破技術瓶頸與市場接受度，方能實現預期中的經濟效益。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
