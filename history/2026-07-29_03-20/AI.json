@@ -1,0 +1,51 @@
+{
+  "category": "AI",
+  "timestamp": "2026-07-29_03-20",
+  "stories": [
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "OpenAI 發布一份新的領域報告，展示科學家如何利用 AI 編碼代理（AI coding agents）來現代化科學計算。該技術應用於加速基因組學及其他領域的軟體開發與科學發現過程。",
+      "judgment": "此新聞標誌著科學計算領域正從傳統手動編程轉向由 AI 代理驅動的自動化模式。AI 編碼代理的引入不僅能顯著縮短軟體開發週期，還能降低科學研究中的技術門檻，使研究人員能更專注於核心科學問題而非程式實作細節。在基因組學等數據密集型領域，這種轉變將加速新發現的產出速度，並可能引發跨學科研究方法的革新。長期來看，這將推動科學計算基礎設施的現代化，促使學術機構與企業重新評估其技術堆疊與人才培養策略，以適應 AI 代理協作的新型工作流。",
+      "used_source_urls": [
+        "https://openai.com/index/scientific-computing-agentic-ai"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "Hugging Face 發布了 LiquidAI 的 LFM2.5-Encoders 模型，該模型專為在 CPU 上進行快速長上下文推論而設計。",
+      "judgment": "LFM2.5-Encoders 的推出標誌著邊緣 AI 與高效能推論的重要進展。傳統上，長上下文處理高度依賴 GPU 資源，限制了其在成本敏感或資源受限環境（如筆記型電腦、嵌入式設備）中的應用。此模型透過優化架構，使 CPU 能高效處理長序列數據，大幅降低推論門檻與硬體成本。這將促進更多企業在本地部署大型語言模型，提升數據隱私與即時反應能力，同時加速 AI 在 IoT、行動裝置等邊緣場景的普及。長期來看，此技術可能重塑模型部署策略，減少對雲端 GPU 的依賴，推動去中心化 AI 生態系的發展。",
+      "used_source_urls": [
+        "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "AllenAI 推出了 OlmoEarth 平台，這是一個用於行星規模地理空間推論的基礎設施。該平台旨在處理大規模的地理空間數據，支持在地球範圍內進行推論任務。",
+      "judgment": "OlmoEarth 平台的推出標誌著地理空間分析領域的重要進展，特別是在大規模數據處理和推論能力方面。通過整合先進的 AI 技術，該平台能夠高效處理行星級別的地理空間數據，為氣候變化監測、城市規劃、災害管理等應用提供強大支持。這不僅提升了地理空間分析的精度和效率，還可能推動相關產業的創新與發展。例如，在環境保護領域，OlmoEarth 可以幫助科學家更快速地識別生態變化趨勢；在農業領域，則能優化資源配置並提高產量。此外，該平台的開放性可能促進學術界與產業界的合作，加速技術落地應用。",
+      "used_source_urls": [
+        "https://huggingface.co/blog/allenai/olmoearth-infrastructure"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [
+    {
+      "title": "Opus 5 >> Fable 5",
+      "url": "https://www.bensbites.com/p/opus-5-fable-5",
+      "tier": 3,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": false
+}

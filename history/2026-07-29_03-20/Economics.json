@@ -1,0 +1,20 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-07-29_03-20",
+  "stories": [
+    {
+      "title": "Retail investors should beware perpetual futures",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/28/retail-investors-should-beware-perpetual-futures",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據《經濟學人》報導，永恆期貨（perpetual futures）這種在加密貨幣領域流行的特殊金融產品，正逐漸進入主流市場。該產品被描述為「奇特」，且其普及趨勢已引起關注。",
+      "judgment": "永恆期貨從加密貨幣小眾市場走向主流，標誌著高風險衍生性金融商品正滲透至更廣泛的投資群體。這類產品通常缺乏到期日，依賴資金費率機制維持價格追蹤，對散戶投資者而言極具複雜性與潛在風險。當此類工具進入傳統金融體系或主流投資平台時，若缺乏適當的投資者教育與監管框架，可能導致散戶因誤解機制而遭受重大損失。此趨勢反映金融創新與風險擴散的雙面性，監管機構需審慎評估是否需加強披露要求或限制散戶參與門檻，以維護市場穩定與投資者權益。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/07/28/retail-investors-should-beware-perpetual-futures"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
