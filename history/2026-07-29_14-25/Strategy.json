@@ -1,0 +1,32 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-07-29_14-25",
+  "stories": [
+    {
+      "title": "Lion Finance: Competing like a fintech, winning as a bank",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/lion-finance-competing-like-a-fintech-winning-as-a-bank",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Archil Gachechiladze 擔任 Lion Finance 及格魯吉亞銀行（Bank of Georgia）的首席執行官，他描述了該集團如何透過專注的執行與文化變革，推動了強勁的財務績效表現。",
+      "judgment": "Lion Finance 的案例顯示，傳統金融機構若能成功融合金融科技公司的敏捷執行力與銀行本身的穩健優勢，將能創造顯著的競爭壁壘。Archil Gachechiladze 所強調的文化變革與專注執行，是打破傳統銀行僵化體質的關鍵。這種「像金融科技一樣競爭，像銀行一樣獲勝」的策略，不僅能提升客戶體驗與營運效率，更能有效應對數位化浪潮下的市場挑戰。對於其他尋求轉型的地區性銀行而言，此模式提供了可複製的範本，證明組織文化重塑與戰略聚焦是驅動財務成長的核心動力，而非單純依賴技術投資。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/industries/financial-services/our-insights/lion-finance-competing-like-a-fintech-winning-as-a-bank"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Research: How AI Agents Broaden the Scope of Knowledge Work",
+      "url": "http://feeds.harvardbusiness.org/2026/07/research-how-ai-agents-broaden-the-scope-of-knowledge-work",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論發表研究指出，AI 代理（AI Agents）在知識工作中的應用，其帶來的效率提升僅是故事的一部分。該研究標題為「研究：AI 代理如何擴大知識工作的範圍」，強調 AI 代理對知識工作領域的影響不僅限於單純的效率優化。",
+      "judgment": "AI 代理的興起標誌著知識工作範疇的結構性轉變。傳統觀點常將 AI 視為提升既有流程效率的工具，但本研究暗示 AI 代理具備重新定義工作邊界的能力。這意味著企業不應僅關注自動化帶來的成本節省，更應思考如何利用 AI 代理拓展人類員工的職能範圍，使其能處理更複雜、跨領域或創新型任務。這種轉變可能導致組織架構重組、人才技能需求升級，以及知識工作價值鏈的重新分配。長期來看，成功整合 AI 代理的企業將能創造新的商業模式與服務範式，而非僅在現有框架內微調效率。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/07/research-how-ai-agents-broaden-the-scope-of-knowledge-work"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
