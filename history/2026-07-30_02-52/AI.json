@@ -1,0 +1,20 @@
+{
+  "category": "AI",
+  "timestamp": "2026-07-30_02-52",
+  "stories": [
+    {
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "OpenAI 發布文章指出，透過調整兩個 API 設定，成功將 GPT-5.6 在 ARC-AGI-3 基準測試中的分數提升了三倍。這兩項設定分別為「保留推理過程」與「啟用壓縮功能」，不僅顯著提高了模型表現，還同時提升了運算效率。",
+      "judgment": "此新聞揭示了大型語言模型在處理高難度邏輯推理任務時，推理策略與資源管理的重要性。ARC-AGI 系列基準測試旨在評估模型的通用人工智能潛力，其難度遠超傳統語義理解任務。OpenAI 透過「保留推理」讓模型展現思維鏈，並利用「壓縮」技術優化上下文窗口，這種組合策略證明了在保持推理透明度的同時，能有效控制計算成本。這表明未來模型優化將不再僅依賴參數量增長，而是轉向更精細的推理控制與系統效率調優。對於開發者而言，這意味著在部署高階模型時，應仔細評估 API 參數對推理深度與資源消耗的平衡，以在成本與效能間取得最佳解。",
+      "used_source_urls": [
+        "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

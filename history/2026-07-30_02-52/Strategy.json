@@ -1,0 +1,44 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-07-30_02-52",
+  "stories": [
+    {
+      "title": "The Case for Hiring Job Hoppers",
+      "url": "http://feeds.harvardbusiness.org/2026/07/the-case-for-hiring-job-hoppers",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論的新研究指出，頻繁跳槽的員工具備異常強大的快速適應能力，並能迅速交付成果。",
+      "judgment": "這項研究挑戰了傳統企業對頻繁跳槽者的偏見，顯示這類人才在動態市場中可能成為關鍵資產。隨著產業變遷加速，組織更需要能快速學習與適應新環境的員工，而非僅依賴長期穩定但可能缺乏靈活性的勞動力。企業若重新評估招聘策略，納入對跳槽者的正面考量，將有助於提升整體組織的敏捷性與創新能力。此趨勢可能促使更多公司調整績效評估與人才發展機制，以吸引並留住具備高適應力的人才。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/07/the-case-for-hiring-job-hoppers"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Embrace AI Without Damaging Trust: Lessons from the “Financial Times”",
+      "url": "http://feeds.harvardbusiness.org/2026/07/embrace-ai-without-damaging-trust-lessons-from-the-financial-times",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論（HBR）舉辦了一場高管大師班，由哈佛商學院教授桑德拉·J·蘇克（Sandra J. Sucher）主講。該課程主題為「擁抱 AI 而不損害信任：從《金融時報》汲取的教訓」，旨在探討企業在引入人工智慧技術時如何維護信任關係。",
+      "judgment": "在人工智慧快速普及的當下，企業面臨的最大挑戰並非技術本身，而是如何在自動化決策中維持利益相關者的信任。桑德拉·J·蘇克教授透過《金融時報》的案例指出，信任是企業最珍貴的無形資產，一旦因 AI 應用不當（如數據濫用、演算法偏見或缺乏透明度）而受損，修復成本極高且往往不可逆。產業界應將信任視為 AI 戰略的核心指標，而非事後補救措施。這意味著企業在部署 AI 時，必須建立嚴格的倫理框架、確保演算法可解釋性，並保持人類在關鍵決策中的監督角色。未能平衡效率與信任的企業，將在長期競爭中失去客戶忠誠度與品牌聲譽，最終導致市場份額流失。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/07/embrace-ai-without-damaging-trust-lessons-from-the-financial-times"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Research: How AI Agents Broaden the Scope of Knowledge Work",
+      "url": "http://feeds.harvardbusiness.org/2026/07/research-how-ai-agents-broaden-the-scope-of-knowledge-work",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論發布了一篇標題為「研究：AI 代理如何擴大知識工作的範圍」的文章。該文章指出，效率提升僅是故事的一部分，暗示 AI 代理對知識工作的影響不僅限於效率層面。",
+      "judgment": "此新聞標題與簡短內容揭示了企業對 AI 代理（AI Agents）價值認知的轉變。傳統觀點往往將 AI 視為單純的效率工具，用於自動化重複性任務以降低成本。然而，「擴大知識工作範圍」這一論點表明，AI 代理正在從執行者轉變為協作者或擴展者，能夠處理更複雜、更具創造性或需要更高認知能力的任務。這意味著企業應重新評估 AI 的應用場景，不再僅關注流程自動化，而是探索如何利用 AI 增強人類的決策能力、解決問題的能力以及創新潛力。這種轉變可能導致知識工作性質的根本性變化，要求員工具備更高階的提示工程、監督 AI 輸出以及整合 AI 建議的能力。對於產業而言，這標誌著從「替代人力」到「增強人力」的戰略重心轉移，企業需投資於員工培訓和新的工作流程設計，以充分釋放 AI 代理在擴大知識邊界方面的潛力。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/07/research-how-ai-agents-broaden-the-scope-of-knowledge-work"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
