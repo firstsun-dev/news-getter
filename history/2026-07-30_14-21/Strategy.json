@@ -1,0 +1,32 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-07-30_14-21",
+  "stories": [
+    {
+      "title": "AI transformations: Views from AMD, Dell, Liquid AI, and Mercedes-Benz",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/ai-transformations-views-from-amd-dell-liquid-ai-and-mercedes-benz",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "AMD、Dell、Liquid AI 和 Mercedes-Benz 的高階主管在麥肯錫訪談中，探討了如何以人工智慧為核心架構企業流程，並強調企業全面轉型的关键在於人員而非僅是技術。",
+      "judgment": "此訪談凸顯當前 AI 轉型趨勢正從單純的技術導入轉向組織與流程的深度重構。AMD、Dell 等硬體與解決方案供應商，結合 Liquid AI 的模型創新與 Mercedes-Benz 的產業應用，顯示出跨領域協作的重要性。企業若僅關注技術堆疊而忽略人員適應性與流程再造，將難以實現真正的價值轉化。此觀點強化了 AI 轉型需以人為本的戰略思維，對產業界在資源配置與變革管理上提供明確指引。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/ai-transformations-views-from-amd-dell-liquid-ai-and-mercedes-benz"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "The new advantage in the age of AI: Building in the real world",
+      "url": "https://www.mckinsey.com/industries/real-estate/our-insights/the-new-advantage-in-the-age-of-ai-building-in-the-real-world",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "隨著 AI 加速數位經濟發展，實體限制如住房、電力及基礎設施成為關鍵瓶頸。Hines 聯合執行長 Laura Hines-Pierce 指出，下一個價值創造時代將由執行力而非資本定義。",
+      "judgment": "在 AI 驅動數位經濟擴張的背景下，產業重心正從純粹的軟體與演算法競爭，轉向實體基礎設施的供給能力。住房短缺、電力供應不足及基礎設施老舊，已成為阻礙 AI 算力部署與數據中心擴建的實質障礙。這意味著房地產與基礎建設產業的角色將從被動支援轉為主動驅動者。Hines-Pierce 強調執行力勝過資本，暗示市場將獎勵那些能高效整合資源、快速完成實體建設的企業，而非僅擁有資金但缺乏執行效率的投資者。此趨勢將重塑產業價值鏈，促使資本流向具備強大專案管理與建設能力的實體資產開發商，同時可能加劇具備實體資產優勢的企業與純數位科技巨頭之間的戰略合作需求。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/industries/real-estate/our-insights/the-new-advantage-in-the-age-of-ai-building-in-the-real-world"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

@@ -1,0 +1,164 @@
+{
+  "category": "Global",
+  "timestamp": "2026-07-30_14-21",
+  "stories": [
+    {
+      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國在伊朗企圖攻擊美軍後發動了「猛烈」打擊。此前雙方曾短暫停火，但現在雙方已重新開始發射導彈攻擊。",
+      "judgment": "美國對伊朗發動的「猛烈」打擊標誌著中東地區緊張局勢的顯著升級。此前雙方曾經歷短暫的停火期，但隨著伊朗企圖攻擊美軍，美國迅速採取報復行動，導致衝突重新爆發。這種導彈互襲的態勢表明，地區穩定性正受到嚴重威脅，可能引發更廣泛的地緣政治動盪。對於全球能源市場而言，中東局勢的不確定性可能推高油價，進而影響全球經濟。此外，這一衝突的升級也可能促使其他區域勢力介入，進一步複雜化局勢。長期來看，若雙邊對話未能恢復，衝突可能演變為更持久的軍事對抗，對國際安全構成重大挑戰。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "波蘭總理表示，造成波蘭境內深坑的飛彈極可能來自俄羅斯。該飛彈在距離烏克蘭邊界約 100 公里的 Tarnawa Kolonia 村附近墜落，形成一個寬達 10 公尺（33 英尺）的彈坑。",
+      "judgment": "此事件標誌著俄羅斯與烏克蘭衝突首次直接波及北約成員國領土，極大提升了區域安全風險。波蘭作為北約東翼前線國家，其領土遭襲擊可能觸發北約第五條集體防禦條款，導致軍事對抗升級。此類事件將迫使北約加強東翼防禦部署，並可能加速西方對烏克蘭的軍事援助規模與速度。同時，全球能源與糧食供應鏈可能因戰爭擴大而面臨更大波動，推高通膨壓力。俄羅斯若持續此類行動，將進一步孤立自身並引發國際社會更嚴厲制裁。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Nicaraguan leader proposes extending presidential term by another year",
+      "url": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "尼加拉瓜領導人丹尼爾·奧爾特加（80歲）提出修憲提案，旨在將其總統任期延長一年。這並非奧爾特加首次通過修改憲法來延長其執政時間。",
+      "judgment": "尼加拉瓜領導人丹尼爾·奧爾特加提議延長總統任期，顯示該國政治權力結構持續向個人集權方向發展。此舉可能進一步削弱民主制度與權力制衡機制，引發國內反對勢力反彈及國際社會對人權與法治的擔憂。長期而言，這種政治不確定性可能影響外國投資意願，加劇經濟孤立風險，並可能導致區域穩定性受衝擊。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Thousands evacuated in Crete as Europe battles wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "強風助長克里特島雷西姆諾地區的野火，導致數千人被迫撤離。歐洲正持續與野火作戰，希臘島嶼遭受野火肆虐。",
+      "judgment": "此次克里特島野火事件凸顯南歐地區在氣候變遷背景下面臨的極端天氣風險加劇。強風助長火勢蔓延，迫使大規模撤離，顯示當地防災體系與應急資源可能面臨壓力。若此類事件頻繁發生，將對希臘旅遊業造成直接衝擊，並可能推高保險成本與基礎設施修復支出。長期而言，歐盟需加強跨國消防合作與早期預警機制，以應對日益嚴峻的野火威脅。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Three children among eight dead in Russian strikes on Ukraine, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "俄羅斯對烏克蘭發動空襲，造成至少八人死亡，其中包括三名兒童。在克里維里赫市附近的一個村莊，一名六歲女孩和兩名分別為 11 歲及 17 歲的男孩在襲擊中喪生，該村莊共有六人遇難。",
+      "judgment": "此次襲擊造成平民重大傷亡，特別是兒童死亡，凸顯俄羅斯軍事行動對烏克蘭非戰鬥人員的嚴重威脅。這類事件不僅加劇人道危機，也可能影響國際社會對烏克蘭的支援力度及對俄羅斯的制裁態度。長期而言，平民傷亡的累積可能強化烏克蘭國內的抵抗意志，同時促使西方國家重新評估軍事援助的規模與速度。此外，針對兒童的傷亡事件容易引發全球輿論譴責，可能進一步孤立俄羅斯在國際舞台上的地位。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Pesticide-sprayed tomatoes suspected to have killed 15 elephants in Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "肯亞南部發生數十年來最嚴重的象群死亡事件，共15頭大象死亡。調查已排除人為蓄意謀殺的可能性，初步懷疑死因與噴灑農藥的番茄有關。",
+      "judgment": "此事件凸顯農業擴張與野生動物保護之間的緊張關係。肯亞南部作為農業重鎮，農藥使用若缺乏規範，可能透過食物鏈或水源污染威脅大型哺乳動物生存。15頭大象同時死亡不僅是生態危機，更可能引發國際關注，促使肯亞政府加強農藥管理與農業實踐監管。長期而言，若未能有效平衡農業發展與生態保育，將影響該國生物多樣性與旅遊業收入，進而衝擊經濟穩定。此案例亦提醒全球農業供應鏈需重視環境外部性，推動可持續農業技術以降低對野生動物的衝擊。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 BBC News 報導，美國總統特朗普正考慮在 OpenAI 發生駭客攻擊事件後，對人工智慧實施新的管制措施。這標誌著其政府對該技術的態度轉變，此前其行政團隊採取的是較為放任、不干預的立場。",
+      "judgment": "特朗普政府從「放任」轉向「管制」的態勢，顯示美國高層已意識到 AI 安全風險（如 OpenAI 遭駭）可能威脅國家安全或社會穩定。此政策轉向可能加速美國建立 AI 監管框架，包括強化資料保護、演算法審查及供應鏈安全標準。對產業而言，這將增加合規成本，尤其對依賴開放源碼或跨境資料流動的 AI 企業構成挑戰；同時也可能促使企業加大在資安與合規技術的投資。長期來看，此舉可能重塑全球 AI 治理格局，引發其他國家跟進或採取對等措施，進而影響國際技術合作與競爭態勢。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
+      "url": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "澳洲政府已對通訊軟體 Telegram 提起訴訟，指控其未能移除被指稱為「支持恐怖主義」的內容。Telegram 方面向 BBC 表示拒絕接受這些指控，並聲明將在法庭上進行抗辯。",
+      "judgment": "此案標誌著澳洲政府對數位平台內容監管採取更強硬的執法姿態，可能成為全球監管加密通訊應用程序的先例。若法院判決 Telegram 敗訴，將迫使該平台在澳洲建立更嚴格的內容審查機制，甚至可能影響其全球運營策略。此舉也可能引發其他國家效仿，要求平台承擔更重的法律責任以移除非法內容，進而加劇平台與政府間的監管衝突。對 Telegram 而言，長期抗辯可能增加營運成本並影響用戶信任，尤其在其主打隱私保護的市場定位上形成挑戰。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
+      "url": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "70歲的烏干達反對派領袖自2024年11月起被羈押，並面臨叛國罪指控，但他予以否認。該領袖近期在法庭上暈倒，其妻子表示他目前已入住加護病房（ICU）。",
+      "judgment": "烏干達反對派領袖在審判期間健康惡化並被送入加護病房，此事件極可能加劇該國的政治緊張局勢。作為長期在野的領袖，其健康危機不僅可能導致審判程序延宕，更可能引發支持者的大規模抗議或國際社會對烏干達司法程序及人權狀況的嚴厲批評。若該領袖因健康原因無法繼續受審或死亡，將造成反對派陣營的權力真空，可能引發內部派系鬥爭或激進化運動。此外，政府對高齡反對派領袖的羈押與健康照護問題，將成為國際人權組織關注的焦點，可能影響烏干達與西方國家的外交關係及援助政策。此事件凸顯了烏干達政治生態中反對派與執政當局之間的深刻對立，以及司法系統在處理政治案件時面臨的壓力與爭議。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Singapore fines French teen $465 for viral straw-licking stunt",
+      "url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "一名 19 歲的法國青少年在新加坡因進行病毒式傳播的吸管舔舐惡作劇而被處以 465 美元罰款。該青少年的律師表示，當事人對造成麻煩感到「非常抱歉」。",
+      "judgment": "此事件凸顯新加坡對公共秩序與行為規範的嚴格執法態度，即便涉及外國遊客或短期停留者亦不例外。在數位媒體時代，個人行為透過社群平台迅速擴散，可能引發公共衛生疑慮或社會秩序干擾，新加坡政府透過即時裁罰展現其維護社會規範的決心。此案例對國際遊客形成明確警示：在新加坡境內進行可能影響公共秩序或衛生安全的行為，無論動機是否為娛樂或網路流量，均可能面臨法律後果。長期而言，此類執法案例有助於強化新加坡作為安全、有序旅遊目的地的品牌形象，但也可能對依賴年輕族群的創意內容產業產生寒蟬效應，促使創作者在規劃跨國拍攝或挑戰活動時更加審慎評估當地法規風險。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
+      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國前首席衛生官員安東尼·福奇在關於新冠病毒起源的參議院聽證會上拒絕回答問題。福奇表示，他擔心共和黨議員可能會設下陷阱，並利用他的證詞以偽證罪起訴他。此次聽證會氣氛緊張，福奇作為前美國最高衛生官員，在面對議員提問時選擇保持沉默以保護自身免受法律風險。",
+      "judgment": "福奇在參議院聽證會上的拒絕回應，反映了美國政治極化背景下，科學專家與政治權力之間的深刻裂痕。這一事件不僅阻礙了對病毒起源這一關鍵科學問題的深入探討，更可能加劇公眾對政府透明度與科學獨立性的懷疑。從產業角度看，公共衛生政策制定與科學諮詢機制若持續受政治干擾，將削弱全球防疫協調效率，影響疫苗研發、流行病監測等相關產業的資源配置與信任基礎。此外，此類政治化聽證可能導致未來科學顧問在公開場合更加謹慎，進而延遲危機應對決策。長期而言，若科學證據無法脫離政治博弈，將損害美國在國際衛生治理中的領導地位，並可能促使其他國家建立更獨立的科學諮詢體系，重塑全球公共衛生合作格局。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Watch: Giant iceberg turns over near  Greenland's coast",
+      "url": "https://www.bbc.co.uk/news/videos/cdx7lg950gdo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "BBC News 報導，一名路人拍攝到格陵蘭海岸附近一座巨大冰山翻轉並倒塌的畫面，該事件引發了巨大的波浪。",
+      "judgment": "此事件凸顯了北極地區氣候變遷對冰川穩定性的直接衝擊。冰山翻轉與倒塌不僅是自然現象，更反映了全球暖化導致冰層結構脆弱化，進而增加極端海象風險。這類事件可能加速海平面上升，並對沿海生態系統與人類活動構成威脅。此外，極地冰層的動態變化也提醒國際社會需加強氣候監測與減緩措施，以應對日益頻繁的極端天氣事件。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/videos/cdx7lg950gdo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Watch: Japanese mall explodes after magnitude 6.8 earthquake",
+      "url": "https://www.bbc.co.uk/news/videos/c9d8ggpdgqlo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "日本發生規模 6.8 地震後，一處永旺（Aeon）購物中心發生爆炸並倒塌。目前搜救隊伍仍在現場尋找倖存者。",
+      "judgment": "此次地震引發購物中心爆炸與倒塌，顯示日本基礎設施雖具備抗震設計，但在極端震度下仍可能因次生災害（如瓦斯洩漏引發爆炸）導致結構性損毀。此事件將促使日本政府與民間企業重新檢視大型商業設施的防災機制，特別是燃氣管線與緊急斷氣系統的即時反應能力。長期來看，可能加速推動建築法規修訂，強化對既有老舊商場的耐震補強與自動斷氣裝置的強制安裝。同時，保險業對地震相關風險的評估模型也可能調整，進而影響商業地產的保費與投資策略。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/videos/c9d8ggpdgqlo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
