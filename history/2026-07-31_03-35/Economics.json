@@ -1,0 +1,20 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-07-31_03-35",
+  "stories": [
+    {
+      "title": "Oil prices remain highly flammable",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/30/oil-prices-remain-highly-flammable",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據《經濟學人》報導，海灣地區緊張局勢升溫，可能導致油價迅速飆升至三位數。",
+      "judgment": "海灣地緣政治緊張局勢的升級對全球油價構成直接威脅，顯示原油市場極度脆弱。若衝突擴大，供應中斷風險將推升油價至每桶 100 美元以上，進而加劇全球通膨壓力並衝擊依賴進口能源的經濟體。此情境凸顯地緣政治風險對能源定價權的關鍵影響，企業與政策制定者需預備應對高油價衝擊的緩衝機制。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/07/30/oil-prices-remain-highly-flammable"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
