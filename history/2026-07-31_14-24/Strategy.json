@@ -1,0 +1,44 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-07-31_14-24",
+  "stories": [
+    {
+      "title": "From drift to dynamism: Reinventing Japan to compete in a new era",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/from-drift-to-dynamism-reinventing-japan-to-compete-in-a-new-era",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "麥肯錫發表報告指出，大膽行動以刺激企業活力，能為日本在新時代開拓轉型機會並重置其成長軌跡。",
+      "judgment": "日本經濟長期面臨成長停滯與人口結構挑戰，此報告強調透過激進的企業改革與活力重塑，是打破現狀的關鍵。若日本能成功推動企業治理改革、提升生產力並加速數位轉型，將有助於吸引外資並重振國內消費信心。然而，這需要政府與企業層面的協同努力，克服既有的組織僵化與文化阻力。成功與否將決定日本能否在亞洲競爭格局中重新佔據有利地位，並為全球成熟經濟體提供轉型範例。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/featured-insights/future-of-asia/from-drift-to-dynamism-reinventing-japan-to-compete-in-a-new-era"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "AI and IT Teams Often Clash. But They Don’t Have To.",
+      "url": "http://feeds.harvardbusiness.org/2026/07/ai-and-it-teams-often-clash-but-they-dont-have-to",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論報導指出，AI 團隊與 IT 團隊之間常發生衝突，但透過特定方法可以避免。文章以三家公司的案例為基礎，說明這些企業如何成功解決雙方常見的衝突問題，並促進協作。",
+      "judgment": "AI 與 IT 團隊的衝突源於目標差異：AI 團隊追求創新與快速迭代，而 IT 團隊重視系統穩定與安全合規。這種張力若未妥善管理，將延緩企業數位轉型進度。成功案例顯示，建立跨部門溝通機制、明確角色分工以及共同制定治理框架，能有效化解對立。企業應將 AI 視為 IT 生態的一部分，而非獨立單位，透過聯合專案與共享 KPI 促進融合。此趨勢反映未來組織需具備更靈活的協作文化，以釋放 AI 技術的完整潛力。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/07/ai-and-it-teams-often-clash-but-they-dont-have-to"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "How the Best CEOs Lead Transformation",
+      "url": "http://feeds.harvardbusiness.org/2026/07/how-the-best-ceos-lead-transformation",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論（HBR）舉辦了一場 Executive Live 線上對話活動，邀請 Russell Reynolds Associates 執行長 Constantine Alexandrakis 參與，主題為「最佳執行長如何領導轉型」。",
+      "judgment": "此活動凸顯高階管理層對企業轉型領導力的迫切需求。在快速變動的商業環境中，執行長的角色已從單純的營運管理者轉變為變革的催化劑。Russell Reynolds Associates 作為頂尖的高階人才獵頭公司，其執行長參與此類對話，暗示市場對於具備轉型思維的領導人才需求激增。企業若缺乏明確的轉型策略與執行力，將難以在競爭中生存。此類對話不僅提供理論框架，更透過實務經驗分享，協助企業領袖掌握轉型關鍵，如建立願景、重塑組織文化及推動數位化變革。對於投資人或企業治理者而言，關注此類領導力趨勢有助於評估企業的長期競爭力與風險管理能力。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/07/how-the-best-ceos-lead-transformation"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
