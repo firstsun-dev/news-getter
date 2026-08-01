@@ -1,0 +1,86 @@
+{
+  "category": "Social Sentiment",
+  "timestamp": "2026-08-01_13-43",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Reddit Stock Collapses 23% as AI Eats Away at User Growth",
+      "url": "https://www.reddit.com/r/technology/comments/1vcc9rg/reddit_stock_collapses_23_as_ai_eats_away_at_user/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Google Earth's new AI image generation function didn't survive a day after users deepfaked disasters",
+      "url": "https://www.reddit.com/r/technology/comments/1vch6ss/google_earths_new_ai_image_generation_function/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "BMW Is Showing Full-Screen Ads on Its Cars' Main Dashboard Control Display",
+      "url": "https://www.reddit.com/r/technology/comments/1vc6845/bmw_is_showing_fullscreen_ads_on_its_cars_main/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "One California town found Flock's license plate cameras were wrong 71% of the time",
+      "url": "https://www.reddit.com/r/technology/comments/1vcm1ly/one_california_town_found_flocks_license_plate/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Zuckerberg advertises the goodness of his AI with a Bowie song about the impending destruction of the world within Five Years",
+      "url": "https://www.reddit.com/r/technology/comments/1vccqff/zuckerberg_advertises_the_goodness_of_his_ai_with/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Country Music Is Coming Out Strong Against Data Centers | From Brad Paisley and Willie Nelson to Tanya Tucker and even Gavin Adcock, country artists are decrying the industrial facilities",
+      "url": "https://www.reddit.com/r/technology/comments/1vciidi/country_music_is_coming_out_strong_against_data/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+      "url": "https://www.reddit.com/r/technology/comments/1vcaffj/anthropics_claude_breached_3_orgs_uploaded_pypi/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://www.reddit.com/r/technology/comments/1vch0bz/ten_advances_in_mathematics_and_theoretical/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "VC-backed startups commit more fraud, and researchers think they know why",
+      "url": "https://www.reddit.com/r/technology/comments/1vchr2p/vcbacked_startups_commit_more_fraud_and/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The SCREEN Act Threatens Privacy Far Beyond Adult Websites",
+      "url": "https://www.reddit.com/r/technology/comments/1vcfxq9/the_screen_act_threatens_privacy_far_beyond_adult/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "#WorldDNA | India cashes in on the AI buildout AI data centre boom powers India's manufacturing surge $157 billion in investments fuel India's AI infrastructure push Kripa Aryal brings you more - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOWJ3Y1NxYkh3MWFLQlNRclFuRDJ4VVVWblRQcG0zVjFoYndJN3VwS051RGJqRENGSWxGeDA4NDh1Y2RhUlBOS0NyTVA4bVB3ajEzVmdYVXNwZHlKZGhfRFU3Um42aUc1Y1pLTUJERjc5LTZ1eV9tYzVUcDlFTUZGSlI0aTR2anluRHE3ak96Nlp0XzZiSHUzc2kzb2pBZ1BGbjJHYlRDT3o1ZUdTcmNfT3p4U3Y3T0ZUazQzT2stYmlHNEpRU3Z3U29kWEUyVnp3dmVv?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "India cashes in on the AI buildout AI data centre boom powers India's manufacturing surge India's AI gold rush is in cables Diksha Bisla gets you more - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUWtOdGF2VkVtZGlFaUt6XzZybDZsNkJGaHRhS3p4aklWQTVUZUVpblB4eFYwX3JWS1JlZzAwQktydV9Da2xSSjNwNlRBUEtaNkwtNFA3R3EwUE1nbnR0ZklfR0VJTGNZTGV1NlQyeFZNeDU0QjJmTjNDMk1CdXBhYnRWS0FMd0h6WGRIVXdTbHNCLW4zWWNOeUJRWHcyS0pFNHFfbEg2LTdRWFp5QUxCWUp2bXR0dkZrSHFJNjlKWDN6QTd5SWRSQTJpNGNwLWxPc2V3?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The US technology sector is entering a new phase of the artificial intelligence (AI) investment cycle, one where investors are no longer willing to give Big Tech a free pass on soaring capital expenditure (capex). - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTUhTYlJ2LUxrQ2JZVlhYbm1fRm5WTk84YlJtLUs1eWhDV0Y0TXBWNV8xdDREQ203am85ZklkN095Vy1IRGhlYlpFUzh4WmExZnF2azY3SW1BRlYzMGRwNUZ3WE1SUUlNOFl3cF91enZqdkt2aDRxNEl5ekZ3cXlSSk1GQ0xTTUtOTmZPQWdza1FRUWtCUFRveVg5SU5pNTJ2aldNeTFrY0wtd0JfTGtnQndiNnZxMmVERS11bHhuYWhVQllQd0h6dkNqSm5YWXJ6TWdqdDdfRFQ4ZVE?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}

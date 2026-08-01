@@ -1,0 +1,20 @@
+{
+  "category": "AI",
+  "timestamp": "2026-08-01_13-43",
+  "stories": [
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "OpenAI 發布了關於數學和理論計算機科學中長期未解決問題的新成果，涵蓋幾何學、密碼學和複雜性理論等領域的進展。",
+      "judgment": "OpenAI 在數學與理論計算機科學領域的突破，顯示其研究範疇已從生成式 AI 擴展至基礎科學問題。這些進展可能加速 AI 在密碼學安全、幾何建模及複雜系統分析等領域的應用，並提升 AI 解決抽象邏輯問題的能力。此類成果若持續深化，將強化 OpenAI 在基礎科學與 AI 交叉領域的領導地位，同時可能引發學術界與產業界對 AI 輔助科學發現的更多投資與合作。",
+      "used_source_urls": [
+        "https://openai.com/index/ten-advances-in-mathematics"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
