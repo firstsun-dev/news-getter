@@ -1,0 +1,195 @@
+{
+  "category": "Technology",
+  "timestamp": "2026-08-02_13-43",
+  "stories": [
+    {
+      "title": "F-47 開始打造原型機，美國空軍：必然會在本屆政府任期內升空",
+      "url": "https://technews.tw/2026/08/02/usaf-is-building-f47-prototypes-and-maiden-flight-set-in-2028/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國空軍證實由波音主導開發的第六代戰機 F-47 已正式進入工程與製造發展階段，並開始打造原型機。美國空軍表示該戰機必然會在本屆政府任期內完成首飛，首飛時間預計設定於 2028 年。",
+      "judgment": "F-47 原型機的啟動標誌著美國空軍第六代戰機計畫從概念設計邁向實質驗證的關鍵轉折點。波音作為主承包商，其工程與製造發展階段的推進顯示美國在空優戰力維持上的決心，旨在應對未來潛在對手在第六代戰機領域的競爭。2028 年的首飛時程若如期達成，將確保美國在下一代空中優勢技術上的領先地位，並為後續量產與部署奠定基礎。此進度也反映美國國防預算對先進航空平台的持續投入，以及跨部門協作在加速武器系統開發上的成效。然而，原型機階段仍面臨技術整合、成本控管及測試風險等挑戰，需密切關注後續測試數據與時程調整。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/usaf-is-building-f47-prototypes-and-maiden-flight-set-in-2028/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "你的夢境並非隨機，心理學家：大腦在睡眠中「改寫現實」",
+      "url": "https://technews.tw/2026/08/02/dreams-brain-rewriting-reality/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "義大利盧卡高等研究學院（IMT School for Advance Studies）的心理學家提出，夢境並非隨機產生，而是大腦在睡眠過程中主動「改寫現實」的結果。該研究探討了為何部分夢境清晰如電影，而部分則支離破碎的現象，指出這與大腦在睡眠狀態下對現實經驗的重組與處理機制有關。",
+      "judgment": "此研究若經證實，將對神經科學、心理治療及睡眠科技產業產生深遠影響。首先，在臨床應用上，理解大腦如何透過夢境重構現實，可能為創傷後壓力症候群（PTSD）或焦慮症提供新的治療途徑，透過干預夢境內容來協助患者修復心理創傷。其次，對於睡眠監測與輔助設備產業，此發現將推動開發更精準的夢境解析技術，從單純的生理數據監測轉向認知內容分析，創造高價值的個人化健康服務市場。此外，在人工智慧與虛擬實境領域，模擬大腦「改寫現實」的機制可能啟發新一代的沉浸式體驗設計，讓用戶在虛擬環境中獲得更真實的情感與記憶連結。然而，該技術的商業化仍面臨倫理挑戰，特別是涉及潛意識操控的風險，產業界需建立嚴謹的規範以確保技術應用於正向發展。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/dreams-brain-rewriting-reality/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "AI 也有政治立場？7 萬次測驗揭露多數 LLM 穩定偏向自由左派",
+      "url": "https://technews.tw/2026/08/02/mainstream-ai-models-liberal-left/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Technews 科技新報報導，一項涵蓋 7 萬次測驗的研究顯示，主流大型語言模型（LLM）在經濟與社會價值觀上呈現穩定的自由左派政治立場。儘管推動 AI 發展的力量源自資本主義，但這些模型展現的價值觀與開發它們的資本主義背景存在差異。",
+      "judgment": "此研究結果揭示了大型語言模型在訓練過程中可能無意間內化了特定意識形態，這對 AI 產業的應用場景與監管政策產生深遠影響。首先，企業在部署 LLM 於公共服務、新聞摘要或教育領域時，必須審慎評估其潛在的政治偏見，以避免引發社會爭議或信任危機。其次，這可能促使開發者投入更多資源進行「去偏見化」訓練或開發可自定義價值觀的模型，以滿足不同市場與文化背景的需求。此外，監管機構可能將此現象納入 AI 倫理審查範疇，要求模型透明度與價值觀中立性成為合規重點。長期來看，若無法有效解決此問題，可能導致部分用戶群體對主流 AI 服務產生排斥，進而推動去中心化或區域化 AI 模型的興起。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/mainstream-ai-models-liberal-left/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "63% 員工坦承誇大 AI 能力，美國職場「假裝很懂」成生存法則",
+      "url": "https://technews.tw/2026/08/02/63-of-employees-admit-to-pretending-they-understand-ai/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Technews 科技新報報導，一項調查顯示 63% 的美國員工承認曾誇大自身對人工智慧（AI）工具的掌握程度。在職場會議中，面對關於 AI 應用的提問，許多員工選擇不承認仍在摸索，而是編造一套說詞來假裝精通。這種「假裝很懂」的行為已成為美國職場的一種生存法則，反映出員工在面對快速變化的技術環境時，為避免被視為落後或能力不足而採取的應對策略。",
+      "judgment": "此現象揭示企業在推動 AI 轉型時面臨的深層文化與溝通斷層。當 63% 的員工選擇掩飾對 AI 的不熟悉，顯示組織內部缺乏安全的學習環境，導致員工因恐懼被標籤化而不敢承認知識缺口。這將嚴重阻礙真實的技術導入與效率提升，因為決策層可能誤判團隊的實際能力，進而制定不切實際的 AI 應用策略。長期而言，若企業不建立容錯機制與系統性的 AI 培訓，這種「假裝文化」將導致技術投資回報率低落，甚至引發因誤用 AI 工具而產生的營運風險。企業需從績效評估與心理安全感著手，將「承認不懂」轉化為學習契機，方能真正釋放 AI 潛力。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/63-of-employees-admit-to-pretending-they-understand-ai/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "《財富》公布 2026 年《財富》世界 500 強榜單",
+      "url": "https://finance.technews.tw/2026/08/02/fortune-announces-2026-fortune-global-500-list/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "《財富》雜誌正式發布 2026 年《財富》世界 500 強榜單（2026 Fortune Global 500™），該榜單由 Technews 科技新報報導。",
+      "judgment": "《財富》世界 500 強榜單的發布是全球企業競爭格局的重要指標，反映各產業龍頭在營收與市場佔有率上的變化。2026 年榜單的出爐，將成為評估科技、能源、金融等關鍵產業趨勢的基準，並影響投資人對全球經濟動能的判斷。此類排名不僅象徵企業規模，更隱含供應鏈重組、技術轉型與地緣政治對跨國營運的衝擊。觀察榜單變動可預見未來產業資源流向，特別是新興市場企業的崛起或傳統巨頭的轉型成效，將直接牽動全球資本配置策略。",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/08/02/fortune-announces-2026-fortune-global-500-list/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "美國開發新型「海軍模組化飛彈」取代 SM 系列，還可從潛艦發射",
+      "url": "https://technews.tw/2026/08/02/us-navy-is-developing-new-nmm-to-replace-standard-missile-family/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國海軍近期公布「海軍模組化飛彈」（Naval Modular Missile, NMM）計畫，旨在開發新型飛彈以取代現有的標準飛彈（Standard Missile）系列。該新型飛彈具備從潛艦發射的能力，展現了美國海軍在艦載防衛系統上的革新方向。",
+      "judgment": "美國海軍推動 NMM 計畫以取代 SM 系列，顯示其正積極尋求飛彈系統的模組化與多功能化，以應對未來海戰中日益複雜的威脅環境。此舉不僅能降低後勤維護成本，還能透過模組設計快速整合不同任務需求，提升作戰彈性。特別是 NMM 具備潛艦發射能力，意味著美國海軍將強化水下平台對海、對陸及防空的多重打擊能力，進一步擴大戰略威懾範圍。此發展可能促使全球主要海軍強權加速更新其飛彈系統，引發新一轮的海軍武器競賽。此外，模組化設計也可能促進民間科技與軍事應用的融合，推動相關供應鏈的技術升級。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/us-navy-is-developing-new-nmm-to-replace-standard-missile-family/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "GCAP 進度有望提早兩年，李奧納多執行長：2027 年後無法增加新成員國",
+      "url": "https://technews.tw/2026/08/02/gcaps-development-can-be-done-2-year-earlier-says-by-leonardos-ceo-mariani/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "由英國、義大利與日本聯合開發的第六代戰鬥機「全球作戰航空計劃」（GCAP），原定於 2035 年服役。李奧納多公司執行長馬里亞尼表示，該計畫的開發進度有望提早兩年完成。此外，馬里亞尼指出，若要在 2027 年後增加新的成員國加入該計畫將無法實現。",
+      "judgment": "GCAP 計畫若能提前兩年完成，將顯著改變全球第六代戰鬥機的競爭格局，使英義日三國在技術成熟度上領先於其他競爭對手。此進度加速可能源於三國在技術整合與資源投入上的優化，但也意味著後續的測試與量產階段將面臨更緊迫的時間壓力。對於潛在的國際合作夥伴而言，2027 年的截止期限是一個關鍵門檻，錯過此時間點將失去參與核心開發與分潤的機會，這可能促使其他國家加速尋求替代方案或加強現有聯盟。長期來看，GCAP 的提前服役將對區域防空體系產生深遠影響，並可能引發新一轮的軍備競賽，特別是在亞太與歐洲地區。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/gcaps-development-can-be-done-2-year-earlier-says-by-leonardos-ceo-mariani/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "不用安裝額外感測器，AI 機器人能即時分析氣泡監測潛水員呼吸",
+      "url": "https://technews.tw/2026/08/02/ai-can-turn-a-cloud-of-scuba-bubbles-into-an-early-warning-for-divers/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "明尼蘇達大學雙城分校開發了一套人工智慧系統，使水下機器人能夠即時觀察並分析潛水員的呼吸狀況。該技術無需潛水員安裝額外的穿戴式感測器，而是透過直接觀察與分析潛水員呼出的氣泡來獲取數據，從而實現對潛水員狀態的監測。",
+      "judgment": "此項技術突破標誌著水下安全監測領域從依賴硬體感測器轉向純視覺與數據驅動的新範式。傳統潛水安全多仰賴潛水員佩戴的複雜感測設備，不僅增加負擔且存在故障風險。明尼蘇達大學的 AI 系統透過分析氣泡特徵即時判斷呼吸狀況，大幅降低了設備依賴性與部署成本，同時提升了監測的靈活性。對於商業潛水、科學探勘及軍事行動而言，這種非侵入式監控能顯著降低人員風險，並為水下機器人自主協同作業提供關鍵數據支持。隨著演算法精度的提升，未來此類系統有望成為水下作業的標準安全配備，推動水下機器人產業向更高階的自主感知與決策能力發展。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/ai-can-turn-a-cloud-of-scuba-bubbles-into-an-early-warning-for-divers/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "iPhone 顯示「SOS」別慌，蘋果五招教你快速自救",
+      "url": "https://ccc.technews.tw/2026/08/02/how-to-fix-iphone-stuck-sos-mode/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Technews 科技新報報導，當 iPhone 狀態列顯示「SOS」或「僅限 SOS」時，用戶無需恐慌。蘋果提供五種方法協助用戶快速解決此問題，恢復正常通訊功能。",
+      "judgment": "iPhone 頻繁出現「SOS」模式通常反映基地台訊號覆蓋不足、SIM 卡接觸不良或系統軟體異常。此現象雖屬常見技術問題，但若大規模發生可能影響用戶對行動通訊穩定性的信心。蘋果透過官方指引提供五招自救方案，顯示其重視用戶端問題的快速修復機制，有助於降低客服成本並維持品牌信賴度。對產業而言，此類問題凸顯了硬體與軟體整合測試的重要性，尤其在 5G 頻段切換或新系統更新時更需加強相容性驗證。長期來看，強化 SIM 卡模組設計與網路切換演算法，將是減少此類異常的關鍵方向。",
+      "used_source_urls": [
+        "https://ccc.technews.tw/2026/08/02/how-to-fix-iphone-stuck-sos-mode/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "百年老店為何慘輸後起之秀？空巴交機量達波音兩倍，揭開航空巨頭翻盤真相",
+      "url": "https://finance.technews.tw/2026/08/02/inside-the-turning-point-in-the-boeing-airbus-rivalry/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "空中巴士由歐洲多國於半世紀前聯合成立，初期在美國製客機壟斷市場中求生存。近期空巴交機量達波音兩倍，顯示其產能與獲利能力已超越百年老店波音，標誌著航空巨頭競爭格局發生翻轉。",
+      "judgment": "空巴交機量超越波音兩倍，反映全球航空製造業權力結構的劇烈重組。波音長期依賴的美國市場優勢與技術壟斷已被歐洲聯盟式合作模式瓦解，空巴透過跨國资源整合與供應鏈優化，實現產能擴張與成本效率提升。此趨勢將迫使波音加速重組生產線、調整產品策略，並可能引發全球航空供應鏈的重新洗牌。長期來看，空巴的崛起將強化歐洲在高端製造業的戰略地位，同時促使美國政府重新評估對本土航空業的補貼與監管政策，以應對國際競爭壓力。",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/08/02/inside-the-turning-point-in-the-boeing-airbus-rivalry/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Q2 獲利大爆發！聯電轉型 AI 供應鏈浮出水面，矽光子成未來三年成長最強引擎",
+      "url": "https://technews.tw/2026/08/02/umc-ai-bet-on-silicon-photonics-becomes-a-key-revenue-driver/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "聯電宣布將首批 12 吋矽光子量產晶圓交付新加坡客戶，標誌其 AI 布局正式浮出水面。根據財訊雙週刊報導，此舉顯示聯電在第二季獲利大幅增長，並確認矽光子技術將成為未來三年最強的成長引擎。",
+      "judgment": "聯電成功將矽光子技術導入量產並交付客戶，顯示其從傳統製程向高附加價值 AI 供應鏈轉型的戰略已見成效。矽光子技術作為解決 AI 運算數據傳輸瓶頸的關鍵，其量產化意味著聯電已掌握下一代資料中心與高效能運算的核心需求。此轉型不僅能提升產品組合的毛利率，更將使聯電在未來三年內受惠於全球 AI 基礎建設擴張的紅利，鞏固其在成熟製程與特殊製程領域的競爭地位。隨著新加坡客戶的訂單落地，預期將吸引更多國際大廠尋求合作，進一步驅動營收結構優化。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/umc-ai-bet-on-silicon-photonics-becomes-a-key-revenue-driver/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "青安 3.0 增設三大門檻防炒房，專家：利息再低仍難解年輕人「頭期款」痛點",
+      "url": "https://finance.technews.tw/2026/08/02/qingan-3-0-housing-market-buying-sentiment-observation/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "青安 3.0 政策新增所得、年齡與總價三大門檻，旨在防堵炒房行為。根據 Technews 科技新報報導，此舉能否帶動房市買氣備受關注。房市專家指出，新制核心目標在於抑制投機，但即便利息再低，仍難以解決年輕人面臨的頭期款籌措痛點。",
+      "judgment": "青安 3.0 透過設定所得、年齡及總價門檻，顯示政府政策導向從單純鼓勵購屋轉向精準抑制投機炒作。此舉雖能過濾部分非自住需求，穩定市場預期，但對年輕首購族而言，核心障礙已非貸款利率高低，而是高房價下的頭期款積累難度。若缺乏配套措施協助解決初始資金問題，單靠降低利息或調整貸款條件，難以實質提升年輕族群的購屋能力與市場買氣。長期來看，房市復甦需依賴供給面調整或更全面的財富分配機制，而非僅依賴金融工具。",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/08/02/qingan-3-0-housing-market-buying-sentiment-observation/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "讓 AI 接手所有能做的事？專家：先分清是「工作」還是「健身」",
+      "url": "https://technews.tw/2026/08/02/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "生成式 AI 日益普及，引發關於哪些任務應交給 AI 處理、哪些應由人類自行完成的討論。資安專家、哈佛大學甘迺迪學院教授布魯斯·施奈爾提出觀點，建議人們在決定是否使用 AI 前，應先分辨該任務屬於「工作」還是「健身」性質。",
+      "judgment": "布魯斯·施奈爾提出的「工作」與「健身」區分框架，為企業與個人應用生成式 AI 提供了重要的策略指引。將重複性、效率導向的任務視為「工作」，適合交由 AI 處理以提升產能；而將需要學習、成長或建立人類核心能力的任務視為「健身」，則應保留給人類親自執行。此觀點暗示未來產業競爭關鍵不在於全面自動化，而在於精準識別哪些能力需透過人機協作強化。若企業過度依賴 AI 處理所有任務，可能導致員工核心技能退化，長期削弱組織創新與應變能力。反之，若能依此框架優化任務分配，將有助於平衡效率與人才發展，建立可持續的 AI 整合模式。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "不熟 AI 也能脫穎而出，專家教你用「具體實例」打造必勝面試策略",
+      "url": "https://technews.tw/2026/08/02/how-to-talk-about-ai-job-interviews/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "隨著企業加速引進人工智慧工具，職場面試內容已發生變化，面試官開始額外考察應徵者對 AI 的應用能力。專家建議，即使應徵者不熟悉 AI 技術，仍可透過提供具體實例來展現解決問題的能力，以此作為打造必勝面試策略的關鍵。",
+      "judgment": "此新聞反映 AI 技術普及已從單純的工具導入轉化為人才評估的核心維度。企業不再僅關注傳統專業技能，而是將「AI 協作能力」納入篩選標準，這意味著未來職場競爭將更側重於人機協同的實戰經驗。對於求職者而言，即便缺乏深度技術背景，若能透過具體案例證明如何利用 AI 提升效率或解決痛點，將成為差異化競爭的關鍵。此趨勢將迫使教育體系與職業培訓機構調整課程，從單純的技術教學轉向強調應用場景與實證經驗的培養，同時也可能加速淘汰無法適應新工具生態的傳統勞動力，促使產業人才結構向具備數位素養的方向轉型。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/how-to-talk-about-ai-job-interviews/"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [
+    {
+      "title": "20 歲輟學生吸金 3,100 萬美元！Omen AI 專攻液冷監控，成 AI 散熱市場新星",
+      "url": "https://technews.tw/2026/08/02/omen-ai-liquid-cooling/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "不再只會說「我懂你」，英國研究：AI 提供具體行動指引安撫效果超越人類",
+      "url": "https://technews.tw/2026/08/02/ai-comfort-better-than-humans/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "這麼熱，誰想曬太陽！歐洲掀「Coolcation」避暑潮，極端高溫會重塑觀光版圖嗎？",
+      "url": "https://technews.tw/2026/08/02/will-extreme-heat-reshape-europe-tourism-industry/",
+      "tier": 2,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": false
+}
