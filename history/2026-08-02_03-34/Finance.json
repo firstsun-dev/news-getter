@@ -1,0 +1,32 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-08-02_03-34",
+  "stories": [
+    {
+      "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal",
+      "url": "https://www.investing.com/news/commodities-news/iran-threatens-to-strike-othernations-energy-fields-if-us-launches-fresh-attacks-4829654",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "特朗普表示將暫緩對伊朗發動新的攻擊，希望促成快速協議。伊朗方面威脅，若美國發動新攻擊，將打擊其他國家的能源設施。",
+      "judgment": "特朗普暫緩對伊朗的軍事行動，顯示美國在當前地緣政治緊張局勢下傾向外交解決，這可能短期內緩解中東能源供應風險。然而，伊朗的威脅表明其仍具備強硬反制能力，若談判破裂，可能引發區域衝突並衝擊全球油價。此動態反映大國博弈中軍事與外交手段的交替運用，對能源市場穩定性構成潛在不確定性。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/iran-threatens-to-strike-othernations-energy-fields-if-us-launches-fresh-attacks-4829654"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "US Treasury undertakes historic intervention in yen market",
+      "url": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "紐約聯邦儲備銀行出售歐元以購買日圓，此舉被視為美國財政部在日圓市場進行的歷史性干預行動。該行動發生在市場近期猜測東京方面可能已介入以支撐日圓匯率之後。",
+      "judgment": "紐約聯準會直接出售歐元購入日圓的行動，顯示美國當局對日圓匯率波動的高度關注，並可能意在穩定市場預期或配合日本央行的政策立場。此類跨國貨幣干預極為罕見，通常發生在匯率波動嚴重影響全球金融穩定時。若此舉確為協調行動，可能緩解日圓過度貶值壓力，進而影響全球匯率市場動向，特別是對依賴日圓融資的企業及亞洲貨幣區產生連鎖效應。然而，干預效果取決於後續政策協調與市場信心，若缺乏持續支持，短期效果可能有限。",
+      "used_source_urls": [
+        "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

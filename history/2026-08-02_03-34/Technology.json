@@ -1,0 +1,159 @@
+{
+  "category": "Technology",
+  "timestamp": "2026-08-02_03-34",
+  "stories": [
+    {
+      "title": "iPhone 顯示「SOS」別慌，蘋果五招教你快速自救",
+      "url": "https://ccc.technews.tw/2026/08/02/how-to-fix-iphone-stuck-sos-mode/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Technews 科技新報報導，當 iPhone 狀態列顯示「SOS」或「僅限 SOS」時，蘋果提供了五種自救方法。該文章指出此現象發生時用戶無需恐慌，並詳細介紹了相關解決方案。",
+      "judgment": "iPhone 出現 SOS 模式通常代表行動網路訊號異常或 SIM 卡識別問題，這在產業層面反映了硬體與通訊協定整合的潛在風險。雖然此類問題多為個別用戶經驗，但若大規模發生可能影響品牌信譽。蘋果提供官方自救指南有助於降低客服成本並提升用戶滿意度。此現象也凸顯了 5G 網路部署初期可能面臨的訊號穩定性挑戰，產業需持續優化通訊模組與韌體相容性。",
+      "used_source_urls": [
+        "https://ccc.technews.tw/2026/08/02/how-to-fix-iphone-stuck-sos-mode/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "AI 也有政治立場？7 萬次測驗揭露多數 LLM 穩定偏向自由左派",
+      "url": "https://technews.tw/2026/08/02/mainstream-ai-models-liberal-left/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Technews 科技新報報導，一項涉及 7 萬次測驗的研究顯示，主流大型語言模型（LLM）在經濟與社會價值觀上呈現穩定的自由左派傾向。儘管推動 AI 發展的動力源自資本主義，但這些模型所展現的政治立場與開發環境存在差異。",
+      "judgment": "此現象揭示大型語言模型在訓練過程中可能無意間內化了特定數據集的意識形態偏差，即便其商業基礎建立在資本主義邏輯之上。這種系統性的政治傾向可能影響模型在政策建議、社會議題討論及內容生成時的客觀性，進而引發監管機構與公眾對 AI 中立性的質疑。若模型持續輸出帶有強烈意識形態色彩的內容，可能導致用戶信任度下降，並迫使企業投入更多資源進行價值對齊（Value Alignment）調整。此外，這也可能成為不同政治光譜國家制定 AI 監管政策的關鍵考量，要求開發者提高訓練數據的透明度與多樣性，以確保 AI 系統在全球市場中的適用性與公信力。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/mainstream-ai-models-liberal-left/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "63% 員工坦承誇大 AI 能力，美國職場「假裝很懂」成生存法則",
+      "url": "https://technews.tw/2026/08/02/63-of-employees-admit-to-pretending-they-understand-ai/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Technews 科技新報報導，一項調查顯示 63% 的美國員工承認曾誇大對 AI 工具的掌握程度。在職場會議中，面對關於 AI 應用的提問，許多員工選擇不承認自己仍在摸索，而是編造說詞來假裝精通。這種「假裝很懂」的行為已成為美國職場的一種生存法則，反映出員工在 AI 技術快速普及背景下所面臨的壓力與應對策略。",
+      "judgment": "此現象揭示企業在推動 AI 轉型時，員工可能因害怕被視為落後或缺乏技能而選擇掩飾真實能力，這將導致組織內部對 AI 實際應用成效的評估失真。若管理層無法掌握員工真實的 AI 素養，將難以制定有效的培訓計畫或資源分配策略，進而影響整體數位轉型的進度與投資回報。此外，這種文化若持續蔓延，可能抑制團隊間的知識分享與協作，因為員工更傾向於隱藏弱點而非尋求協助。長期來看，企業需建立心理安全的環境，鼓勵誠實面對技術落差，並提供系統性的技能提升管道，才能真正釋放 AI 的商業價值。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/63-of-employees-admit-to-pretending-they-understand-ai/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "百年老店為何慘輸後起之秀？空巴交機量達波音兩倍，揭開航空巨頭翻盤真相",
+      "url": "https://finance.technews.tw/2026/08/02/inside-the-turning-point-in-the-boeing-airbus-rivalry/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "空中巴士由歐洲多國於半世紀前聯合成立，初期在美國製客機壟斷市場中求生存。近期空巴交機量達到波音兩倍，顯示其產能與獲利能力已超越這家百年老店，標誌著航空巨頭競爭格局的翻轉。",
+      "judgment": "空巴交機量達波音兩倍，反映全球航空製造業權力結構發生根本性轉移。此現象源於波音近年頻繁的生產與安全危機，導致供應鏈斷裂與客戶信心下滑，反觀空巴透過穩定的產能規劃與歐洲政府長期支持，成功擴大市佔率。此趨勢將加速航空公司採購策略轉向空巴機隊，進一步壓縮波音訂單能見度，並可能引發波音被迫重組生產線或尋求政府紓困。長期來看，若波音無法有效解決品管與管理問題，其全球領導地位恐將被空巴全面取代，重塑航空製造雙寡頭格局。",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/08/02/inside-the-turning-point-in-the-boeing-airbus-rivalry/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "GCAP 進度有望提早兩年，李奧納多執行長：2027 年後無法增加新成員國",
+      "url": "https://technews.tw/2026/08/02/gcaps-development-can-be-done-2-year-earlier-says-by-leonardos-ceo-mariani/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "由英國、義大利與日本聯合開發的第六代戰鬥機「全球作戰航空計劃」（GCAP），原定於 2035 年服役。義大利李奧納多公司執行長馬里亞尼表示，該計畫的開發進度有望提早兩年完成。馬里亞尼同時指出，若要在 2027 年後增加新成員國加入 GCAP 計畫將無法實現。",
+      "judgment": "GCAP 計畫若能提前兩年完成，將顯著改變全球第六代戰機的發展時程與競爭格局。此進度加速意味著參與國（英、義、日）能更早部署具備先進匿蹤、AI 輔助與無人機協同能力的戰機，對區域防空優勢產生實質影響。然而，2027 年後無法新增成員國的聲明，顯示該計畫在技術整合與成本分攤上已進入關鍵階段，新成員加入可能破壞既有架構或延誤時程。這對其他潛在合作國（如澳洲或北約成員）構成明確的時間窗口限制，若未能在期限前達成協議，將被迫尋求替代方案或接受次級合作地位。此外，進度提前也可能引發供應鏈壓力，特別是關鍵航電與引擎技術的產能是否能同步擴張，將成為計畫成敗的關鍵變數。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/gcaps-development-can-be-done-2-year-earlier-says-by-leonardos-ceo-mariani/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "不用安裝額外感測器，AI 機器人能即時分析氣泡監測潛水員呼吸",
+      "url": "https://technews.tw/2026/08/02/ai-can-turn-a-cloud-of-scuba-bubbles-into-an-early-warning-for-divers/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "明尼蘇達大學雙城分校開發了一套人工智慧系統，使水下機器人能夠即時觀察並分析潛水員的呼吸狀況。該技術無需依賴潛水員穿戴額外的感測器，而是透過直接觀察與分析潛水員呼出的氣泡來獲取數據。",
+      "judgment": "此項技術突破標誌著水下安全監測領域從「被動穿戴式感測」向「主動視覺感知」的轉型。傳統潛水安全高度依賴潛水員佩戴的感測器，存在設備故障、電池耗盡或佩戴不當等風險。明尼蘇達大學的 AI 系統利用水下機器人作為移動監控節點，透過計算機視覺即時解讀氣泡特徵，不僅降低了潛水員的裝備負擔，更提供了非接觸式的即時預警機制。這意味著未來水下作業、軍事潛水或深海探險將能建立更立體的安全網，機器人可作為潛水員的「第二雙眼睛」，在異常發生初期即發出警告。長期來看，此技術將推動水下機器人與 AI 視覺算法的深度融合，促使產業發展出更智能的自主水下作業系統，並可能衍生出針對氣泡數據的標準化分析協議，提升整體水下作業的安全標準與效率。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/ai-can-turn-a-cloud-of-scuba-bubbles-into-an-early-warning-for-divers/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Q2 獲利大爆發！聯電轉型 AI 供應鏈浮出水面，矽光子成未來三年成長最強引擎",
+      "url": "https://technews.tw/2026/08/02/umc-ai-bet-on-silicon-photonics-becomes-a-key-revenue-driver/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "聯電宣布將首批 12 吋矽光子量產晶圓交付新加坡客戶，標誌其 AI 布局正式浮出水面。根據財訊雙週刊報導，此舉顯示聯電轉型 AI 供應鏈的進程，且矽光子技術被視為未來三年成長最強引擎。聯電第二季獲利出現大爆發，顯示其策略調整已見成效。",
+      "judgment": "聯電成功將矽光子技術導入量產並交付客戶，顯示其在 AI 基礎設施供應鏈中的關鍵地位正在提升。矽光子技術作為光電整合的核心，能有效解決高速資料傳輸瓶頸，成為 AI 運算不可或缺的元素。聯電此舉不僅鞏固其代工服務的多樣性，更預示未來三年將透過此技術驅動營收成長。隨著 AI 需求持續擴張，具備矽光子量產能力的晶圓代工廠將享有更高議價能力與市場佔有率，聯電的轉型策略若持續深化，將有助於其在競爭激烈的半導體產業中建立差異化優勢。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/umc-ai-bet-on-silicon-photonics-becomes-a-key-revenue-driver/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "讓 AI 接手所有能做的事？專家：先分清是「工作」還是「健身」",
+      "url": "https://technews.tw/2026/08/02/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "生成式 AI 日益普及，引發關於哪些任務應交由 AI 處理、哪些應由人類親自動手的討論。資安專家、哈佛大學甘迺迪學院教授布魯斯·施奈爾提出觀點，建議人們在決定是否使用 AI 前，需先分辨該任務屬於「工作」還是「健身」。",
+      "judgment": "布魯斯·施奈爾提出的「工作」與「健身」區分法，為企業與個人應用 AI 提供了關鍵的戰略框架。將 AI 視為單純提升效率的「工作」工具，雖能短期降低成本，但若過度依賴，可能導致人類關鍵技能退化，如同長期不運動導致肌肉萎縮。在資安、決策與創意領域，人類透過處理複雜任務所累積的直覺與判斷力，是 AI 難以完全取代的核心資產。產業界應避免盲目追求全自動化，而應將 AI 定位為協作夥伴，保留人類在關鍵環節的參與，以維持組織的長期適應力與創新能力。此觀點提醒決策者，技術導入需兼顧效率與人才發展，避免因短視近利而削弱未來的競爭力。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "青安 3.0 增設三大門檻防炒房，專家：利息再低仍難解年輕人「頭期款」痛點",
+      "url": "https://finance.technews.tw/2026/08/02/qingan-3-0-housing-market-buying-sentiment-observation/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "青安 3.0 政策新增所得、年齡與總價三大門檻，旨在防堵炒房行為。根據 Technews 科技新報報導，此舉能否帶動房市買氣備受關注，但房市專家指出，新制核心在於防堵投機，即便利息再低，仍難以解決年輕人面臨的頭期款痛點。",
+      "judgment": "青安 3.0 透過設定所得、年齡及總價三重門檻，顯示政府政策重心已從單純鼓勵購屋轉向嚴格篩選真實自住需求，以抑制短期投機炒作。此舉雖能提升市場公平性，但對整體買氣的提振效果可能有限，因為政策未直接針對年輕族群最大的資金障礙——頭期款提供解決方案。在低利率環境下，若缺乏對首購族資本積累的直接協助，僅靠降低利息難以突破購屋門檻，導致房市買氣復甦力道受限。長期來看，此政策可能促使市場回歸理性，但也可能延緩年輕世代進場速度，需搭配其他財稅或社會住宅政策方能有效緩解居住壓力。",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/08/02/qingan-3-0-housing-market-buying-sentiment-observation/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "不熟 AI 也能脫穎而出，專家教你用「具體實例」打造必勝面試策略",
+      "url": "https://technews.tw/2026/08/02/how-to-talk-about-ai-job-interviews/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "隨著企業加速引進人工智慧工具，職場面試已新增相關考題，面試官除評估專業能力外，亦關注應徵者對 AI 的應用。專家建議，即使不熟練 AI 技術，應徵者仍可透過提供具體實例來展現解決問題的能力，以此打造必勝面試策略。",
+      "judgment": "此現象顯示 AI 已從單純的技術工具轉變為職場核心競爭力指標，但企業對人才的需求正從「技術操作」轉向「情境應用」。面試策略的演變反映產業界更重視應徵者將 AI 融入實際工作流程的思維，而非僅是程式碼撰寫能力。對於非技術背景人才而言，強調具體案例能降低技術門檻帶來的焦慮，同時凸顯其跨領域整合價值。長期來看，這將促使企業調整人才評鑑標準，從單一技能考核轉向問題解決與創新應用能力的綜合評估，進而推動職場教育與培訓內容的轉型，使 AI 素養成為各職能必備的基礎能力。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/how-to-talk-about-ai-job-interviews/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "氣候變遷加劇野火風險，美國押寶消防無人機「快打部隊」搶救初期火勢",
+      "url": "https://technews.tw/2026/08/02/california-drones-wildfire/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "氣候變遷使美國野火季節趨近全年常態性風險，加州消防單位正引入能自主飛行的消防無人機作為救災新工具，旨在搶救初期火勢。",
+      "judgment": "加州消防單位部署自主飛行無人機應對野火，標誌著救災模式從被動反應轉向主動預防與早期介入。隨著氣候變遷加劇，傳統人力與大型機具在初期火勢控制上面臨反應時間與安全風險的雙重挑戰，無人機「快打部隊」的應用能有效填補黃金救援時間的缺口。此趨勢將加速無人機技術在公共安衛領域的商業化落地，帶動感測器、AI 火災識別演算法及自動投擲滅火裝置等供應鏈需求。長期來看，政府預算將持續向智慧防災科技傾斜，促使產業生態系從單純硬體製造轉向整合即時數據分析與自動化決策系統，提升整體防災韌性。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/california-drones-wildfire/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "哈伯最新視角！NGC 4654 拖曳狹長氣體尾流，展現極度不對稱宇宙奇觀",
+      "url": "https://technews.tw/2026/08/02/hubble-captures-spiral-galaxy-warped-by-gravitational-interaction/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈伯太空望遠鏡拍攝到位於室女座星系團的螺旋星系 NGC 4654，該星系呈現極度不對稱的外貌，並拖曳著狹長的氣體尾流。",
+      "judgment": "NGC 4654 所展現的狹長氣體尾流與不對稱結構，是星系間引力交互作用的直接證據。此類現象通常發生於星系團內，當星系高速穿過團內介質或與其他星系發生引力擾動時，會導致星系盤面扭曲並剝離氣體。這類觀測對於理解星系演化至關重要，因為氣體是恆星形成的原料，被剝離的氣體意味著該星系未來的恆星形成率將顯著下降，進而影響其演化成紅且死的橢圓星系。哈伯望遠鏡的高解析度影像提供了關鍵數據，讓天文學家能精確模擬引力潮汐力與 ram pressure stripping 的機制，深化對室女座星系團動力學環境的認知。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/02/hubble-captures-spiral-galaxy-warped-by-gravitational-interaction/"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [
+    {
+      "title": "英國推 14 歲起學 AI 兼企業實習，終結大學至上應對失業潮",
+      "url": "https://technews.tw/2026/08/02/uk-to-teach-ai-from-age-14-pair-students-with-internships-to-tackle-job-loss/",
+      "tier": 2,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": false
+}

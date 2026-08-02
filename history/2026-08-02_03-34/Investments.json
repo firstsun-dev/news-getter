@@ -1,0 +1,111 @@
+{
+  "category": "Investments",
+  "timestamp": "2026-08-02_03-34",
+  "stories": [
+    {
+      "title": "Berkshire Hathaway shares hit eight-month high",
+      "url": "https://www.cnbc.com/2026/08/01/-berkshire-hathaway-shares-hit-eight-month-high.html",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "由沃倫·巴菲特建立的伯克希爾·哈撒韋公司本週股價上漲至八個月來的新高。該 conglomerate 的股價表現顯示出強勁的上升趨勢，市場觀察指出若其能追平標普 500 指數的漲幅，未來可能還有更多獲利空間。",
+      "judgment": "伯克希爾·哈撒韋股價創下八個月新高，反映市場對其多元化業務組合及現金儲備的重新定價。在當前宏觀環境下，投資者可能正尋求避險資產，而伯克希爾作為價值投資的象徵，其股價上漲暗示資金流向大型穩健企業。若該公司能持續追平標普 500 指數表現，將進一步鞏固其作為市場基準的地位，並可能帶動其他價值型股票的回暖。然而，需關注其龐大現金部位是否能在未來投資機會中有效部署，以維持長期增長動能。",
+      "used_source_urls": [
+        "https://www.cnbc.com/2026/08/01/-berkshire-hathaway-shares-hit-eight-month-high.html"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [
+    {
+      "title": "Berkshire Hathaway shares hit eight-month high - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdVZ0SENQaXc3MXZuNmN3ZDhfWmd5WUhWZWFYaVFWb0gta0I1Zi10RUlrNlhLUzg1c185VV9yc3RWSV9LZTdaTHdUMV9BOUdsc2NfMWpFMlRQTDQ4VUx5cWdmaU1oOFZQTENodHpqVFpkZWRFQnk5NGJHbVZ5ZlFRT2s2NHNLLTRtU2NNNNIBkgFBVV95cUxPU3NOTUFETVBZdWtjelliMlJWZG42TjNubWphV2IwLXpGOHVLaXJQZUdTS2FKU3VueFFHVHpiSnNzSjlJMnpkNnMzbERDYjVmdFhPNlNaRjRkcl9nZDRaZEVxSWhwZkZ6dlhZSnZyU2p2bHpzZlg2ckluTGVqb1pmMHJfSHFNUDdEbXY1NVNUSEhyUQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Both Berkshire Hathaway and Micron Stocks Look Cheap on the Surface. But I Like 1 Better Than the Other. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdkpyWlQyMUlfR0hYQkVRd0k4Y1Z2b3RaRmt0SFd3azV4YXpvRFpwVkpWUFRxcnZkWTF1dHRkYko0MHFPS2wwSWJMc2pnaFJXVmFwY3pFa2JpN2o2SVU1QlJYeFpmOU8zZVZ6eXJXZWJpejVHenJpZ0dLTW1seHdnY05yNmV2X21iUzRNUndhWjJOWUhJMEsyRjV6a1NVWXlMcWtWeg?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Berkshire Hathaway's Record $397 Billion Cash Pile Gives Greg Abel Room for Buybacks or a Big Acquisition - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVFVYMXRwVG43d2tVZy0xdVB3Vy1oYkI0aVNuamc1SVBKak40MHAtNkNHX1ItUG9CY3M3ejl4eEVjYm9mYUxvSmszZjhuVTBvMXFZcFRhZW9QZ3liZEUxZ2EyZ1p6SnJibENwd3VUYU5LeC1VRUthbndlNjlWcnFwZUhpR1ZZWXJ1ZXc?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Berkshire Hathaway's Record $397 Billion Cash Pile Gives Greg Abel Room for Buybacks or a Big Acquisition - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmF1czZxcTZ5Z2xjb1RBUmkzYmU1eFJrVS03SHBoMndCYlhITi05VGtaN1JJQV90MmYxSXBNQ2tlZzFyVWE3VGtSRG81d2hsbUNTUFNLRHFtS2VLVTJmME1kU05DTW9KdlBBbGhheVpOYkNoRXBwLUdfNTlESlgtc3ZOYnVwdWM3RUZtdjJ3YjJJbUcxYXB0SA?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Warren Buffett's Berkshire Hathaway Is Sounding a Warning. What History Tells Us. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc2NrdFhlMHQ2WFh3Vy01ZFp1YzItRWd1QmpQWXNIX3JocjM0S0xrX2lFQlZUOUxraDRMWFZsVXdlN3JJaEhJTlVKZC1MdFZpOWIyckhfYTBGZ3lDbHkwXzJ1S1ZEZ0Jsb3lyZ1dab2ZDcThTal9uVk93dUZSVGltQlQ5bWl4Z2hfdHg4UjVabGFoaTdWNVlrOQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Warren Buffett's Berkshire Could Buy Almost Any S&P 500 Company With Its $397 Billion Cash Pile, but Keeps Waiting for a Better Price - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTm1QZEtCdnEtMkNleEg1X09kelh3V212R2JTcmhVZEdjY1ZCR1lyZVduVDBES1hrUldta0dKWGc2Z2pDTWJURVlYTTNCamc4RnZxVEkxXzloSkpKbEVmNWlvSlZrbjJGWWlmWU4wVFZCV1ZwSF9jTVNZM21tdzYxal9KSC11UGNvNFpTWmtyM0xLeWlGSXNZ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Warren Buffett and Greg Abel Have Already Made Close to $8 Billion in Gains and $424 Million in Dividends This Year on 1 of Their Oldest, Most Boring Stocks - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZzdXV3F5NmV0QVlZcXBGdUhYYVZsWl9lSkhPY0huemhhNk9oSDZMUUZqeUZhT0wxTFJwX0dVSnRKbVNpVjlFVkNrdVZYODNnZWlJX09Vb1BQakl3d3ZfMzFOcHFydURYNjloQk5XQzQ1cC10Z29IU2dGMFBuR0V5OGVmUGswYmpPbm1mel9EU0o?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Both Berkshire Hathaway and Micron Stocks Look Cheap on the Surface. But I Like 1 Better Than the Other. - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVkdCdTVrTTNGVkg5NGF3MGh6Nl96NHBFc3JLMlpnOGppQ0ZzeTJDZnp6dEpHTjlpNm1lb2FCSUhSTTVEbGppNGQwOHZlc2EwOWgtYV84czBjS0Y2SWNNVWpGSTRCMjFBWXdReUR4ZjlLdzFleWUtOWo5OGhEaFpWc0xxc0F3RFdi?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Warren Buffett Says You Don't Need 20 Right Calls To Get Rich — '4 Or 5 Will Probably Do It' - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQM0hyUlNPQzJsUDFqNHdnTEF3V1MxQjhxanlRY0xPOGxrenQ0VVFhekp4YXFaSUowdW83UUV4WWdUSGJfVlpISjkzQzd3UlZoS1JENXZXcGdqTkYxVXJyenNwZlVxeGQtZmQ4cUhzeDNmVHpkMUNfc2FfYi1naWk5MDVOTms0YlVyYW9HTTQ3R2htekVGLXBBYWduUTBTd1d3VHo1bWZPWHdodEpZNlk4bWJRdWs2bmxoTWNuVlQxU1RhT3VXNEZiWWw1OThNQ2NsTE1mZUxHUWRxLUVNRUZrZXJWb0xvaWVrRFdHRkRJSU43MmM?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Berkshire Hathaway May Have Bought Back a Record $11 Billion of Stock While Micron’s Earnings Surge — But One Looks Like a Safer Bet - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aenRkTERiUlB3anNDUTM3N3Q3UTc1TkNjdUJyLWpTNFJ5TlhlR0JlalNNZ3NwNWVCdTBfWDQtTTlDQ0VTdmY3R3N0US1oTDJ4RWdjdWRtVGVlN2JhUlFVdkZ1WFMzbDYwZDNTaHRmOVlMZGhEcmc?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Berkshire Hathaway Approaches Analyst Price Target as Short-Term Rate Benefit Fades - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGhHWE1wNEhxVDZHcnNmamdvUlNSREFrNS1ScWNPdDY3MF9URVZCN3NRQ1FlOGlsZnVBLW4ya3RRM0o0M2JpMmdENzNpWTJhaUlBekpmbjdWUWFtSkUxY3pnZHdPSVlHX2YzSE55ZkQyY0V0X3ZBSU42VEFuMnRCX2liUTJjV3J2ZUY0NGZUTU0zOHU4N3dhQ1hjNHZoSUVPaFozWWVPTQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Warren Buffett’s favorite fund quadrupled your money - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMDlSbHpzQzZuRFBiU3NCc3UtbXVpQWpsWUZrem1idG16OWpubjNJVkprUVNUM2dHeVZQUUNhNVowRFRoUnB2Y280SWpMMC1VbEJWUmlUbm00LS1mckwzbDJha2h6MnVkeVVZMkJHX3QzQkF6ODc3bGNjbFBOa2R6RmQxNnpOUndmeFgyX2hoQQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Big Tech Faces Capex Vigilantes As Earnings Surge - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVXBpTGlHNFlBMjgyOEcwSUxUMjBRWG0yVGlnYWdLR1hDQmNYY1duY01FUnFmYlVqekJjT2FGTy1qdWNDVzA4LUdzYTdNUFh6S0F4aVM3UjdhRnpBYXVQc1cyMUU5bU11S3cyODBLcVlVQm94SmQtUWxqQXF3V0FWejRLQzBGejFtWktCRlZtOXo0TllwaGhRcG1pVGhmckNxNVpv?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "VOO ETF Crosses $1 Trillion: Buffett Legacy Validated, With One Caveat - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUUM0VU5ncWwzR2pwSE5FYmFDUDBBUGhOclE0dG1BOUVpVVBrMjRCUnFtWllIWGo4UkQxdE5KdjhsaU5jaUl5Yy0ydGhjR3pjYXppNU5KcVgwNlpOV01lam5OSjZJamlIQmhmX001SkFzTmFjT3NwRGNzc0ZaQ0FPc0hrNzJVa254LTQ5ZzFScFdDZ3dIV1V5Qmg0X2lkZVU0RG1yVGlSb0xKMHg4Y0xmOWJWR2Vwdl8t?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Quote of the day by investor Warren Buffett on AI capex: \"That's real money... That kind of money wasn't even put in the railroad business\" — outlining his bullish long-term thesis on AI - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNbEFNOXFVV0dqWGRTME55d3drdG9veWFSSGRIOGdQN2V0SDFHN18yVUdRaUZoVlhWS0otTEpwQ1JTaTVNcmJGR1lKUDdhQ2NZZEVDQjBzd3BWWk1jWDZ2aVpGOEZCRTUzeTV2SDJIY2ZCejFwX29EY1ZuVGxJdVVNRVV2NjRIcjhEYzZEeUJva1NPd2JuU0lGcF9tWkgteml4TFQ2dkpJbTNyZ1pzX2s5aUlHblpYbG1Za3RUcm1TcENqOUpmYi1vSGdod013OXJaZEVPc2ZYZmVmOXR2eUFQS0tRNHJGeldmc3JoQWtUdEVxZ1h1aXdTb2JsRWljNHVGSFphb2lKUEc2eWVXNFk3dXQ1YmR1Tnc0dWpXc3FKdHBKZjJLcnZsRDd5bWJ0SkE?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": false
+}
