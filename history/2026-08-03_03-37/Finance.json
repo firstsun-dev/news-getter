@@ -1,0 +1,164 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-08-03_03-37",
+  "stories": [
+    {
+      "title": "Australia’s home price retreat gathers pace in July, Cotality data shows",
+      "url": "https://www.investing.com/news/economic-indicators/australias-home-price-retreat-gathers-pace-in-july-cotality-data-shows-4829700",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Cotality 數據顯示，澳洲房價在 7 月加速下跌。此數據由 Investing.com Bonds 報導，標題指出澳洲房價回調步伐在 7 月加快。",
+      "judgment": "澳洲房價在 7 月加速下跌的跡象，顯示房地產市場正經歷顯著的調整期。這可能與高利率環境、經濟放緩壓力以及消費者信心受挫有關。房價持續回調將對建築業、相關服務業及銀行信貸風險產生連鎖影響，同時可能促使監管機構重新評估貨幣政策走向。若跌勢延續，將進一步抑制家庭消費與投資意願，對整體經濟成長構成下行壓力。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/australias-home-price-retreat-gathers-pace-in-july-cotality-data-shows-4829700"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "UK hiring falls but demand for AI skills jumps, job site Indeed says",
+      "url": "https://www.investing.com/news/economic-indicators/uk-hiring-falls-but-demand-for-ai-skills-jumps-job-site-indeed-says-4829717",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Indeed 網站數據，英國整體招聘人數出現下降，但對人工智慧（AI）相關技能的需求卻顯著上升。",
+      "judgment": "英國勞動力市場呈現出結構性分化特徵：傳統招聘活動放緩反映宏觀經濟需求疲軟或企業成本管控趨嚴，但 AI 技能需求的激增顯示產業正加速向技術驅動轉型。這種「總量收縮、結構升級」的現象可能導致短期內技術人才短缺與一般職位失業並存的矛盾局面。企業為維持競爭力，將被迫增加在 AI 領域的資本支出與人才投資，進而推動相關教育培訓產業發展。長期來看，若英國無法快速填補 AI 人才缺口，可能削弱其在全球數位經濟中的競爭地位；反之，若能成功轉型，則有望提升全要素生產率。此趨勢也暗示政策制定者需重新評估職業教育與移民政策，以適應技術變革帶來的勞動力市場重組。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/uk-hiring-falls-but-demand-for-ai-skills-jumps-job-site-indeed-says-4829717"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "China private factory PMI eases in July - RatingDog PMI",
+      "url": "https://www.investing.com/news/economy-news/china-private-factory-pmi-eases-to-in-july-expansion-extends-for-eighth-months-4829745",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "中國私營工廠採購經理人指數（PMI）在 7 月放緩，但擴張態勢已連續第八個月持續。該數據由 Investing.com Bonds 報導，標題指出中國私營工廠 PMI 在 7 月放緩，同時強調擴張持續第八個月。",
+      "judgment": "中國私營工廠 PMI 雖在 7 月放緩，但連續八個月的擴張顯示私營部門仍具韌性，反映政策刺激與內部需求復甦的初步成效。然而，放緩跡象可能暗示外部需求疲軟或原材料成本壓力上升，需關注後續數據是否進一步走弱。若放緩趨勢持續，可能影響整體經濟增長預期，並對貨幣政策調整產生壓力。長期來看，私營部門的穩定擴張是經濟復甦的關鍵指標，但需警惕潛在風險對產業鏈的衝擊。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economy-news/china-private-factory-pmi-eases-to-in-july-expansion-extends-for-eighth-months-4829745"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Two die as firefighting helicopters collide in Greece, French blaze changes course",
+      "url": "https://www.investing.com/news/commodities-news/greece-battles-wildfires-hungary-shuts-nuclear-power-plant-due-to-drought-4829687",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "希臘發生兩架消防直升機相撞事故，造成兩人死亡。同時，法國野火火勢改變方向。希臘正持續與野火搏鬥，而匈牙利因乾旱問題關閉了一座核電廠。",
+      "judgment": "希臘野火導致消防直升機相撞並造成人員死亡，顯示極端氣候下救災風險急劇上升，可能加劇當地保險業賠付壓力與基礎設施修復成本。法國火勢轉向反映氣候變遷使火災路徑更難預測，增加跨國協調難度。匈牙利因乾旱關閉核電廠，凸顯水資源短缺對能源供應的衝擊，可能推升區域電力價格並迫使能源結構調整。這些事件共同指向氣候極端化對能源安全、公共衛生及經濟穩定的多重威脅，長期將加速各國對防災韌性與綠色能源轉型的投資需求。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/greece-battles-wildfires-hungary-shuts-nuclear-power-plant-due-to-drought-4829687"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Australia confirms first mass mortality event from H5 bird flu in native seabirds",
+      "url": "https://www.investing.com/news/commodities-news/australia-confirms-first-mass-mortality-event-from-h5-bird-flu-in-native-seabirds-4829757",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "澳洲確認發生首例由 H5 型禽流感病毒導致的本土海鳥大規模死亡事件。此消息由 Investing.com Gold 報導，標題明確指出澳洲官方已證實該起事件，標誌著該國本土海鳥首次面臨此類大規模死亡危機。",
+      "judgment": "澳洲首次確認 H5 型禽流感導致本土海鳥大規模死亡，顯示該病毒已擴散至澳洲野生生態系統，可能對當地生物多樣性構成嚴重威脅。此事件雖未直接提及對家禽產業或全球金價的即時衝擊，但禽流感爆發常引發市場對供應鏈中斷及物價波動的擔憂，進而間接影響大宗商品情緒。若疫情持續擴散，可能促使澳洲加強邊境檢疫與農業監控，增加相關產業成本。長期來看，野生鳥類疫情若與家禽交叉感染，將加劇全球禽流感風險，影響肉類與蛋類供應穩定性，進而波及相關農產品期貨市場。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/australia-confirms-first-mass-mortality-event-from-h5-bird-flu-in-native-seabirds-4829757"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil slumps on hopes of Iran deal, yen spikes suddenly after intervention",
+      "url": "https://www.investing.com/news/commodities-news/oil-slumps-on-hopes-of-iran-deal-yen-spikes-suddenly-after-intervention-4829735",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "原油價格因伊朗協議的希望而下跌，日圓在干預後突然飆升。",
+      "judgment": "原油價格下跌反映市場對地緣政治風險緩解的預期，若伊朗協議達成，全球能源供應緊張局勢可能緩和，進而壓低油價。日圓突然飆升則顯示日本央行或相關機構可能進行了外匯干預，以遏制日圓過度貶值，這可能影響全球匯市波動及日本出口競爭力。此事件凸顯地緣政治與貨幣政策對大宗商品及外匯市場的即時衝擊，投資者需密切關注後續協議進展及干預措施的持續性。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-slumps-on-hopes-of-iran-deal-yen-spikes-suddenly-after-intervention-4829735"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Gold climbs as Trump delays Iran strike, softer oil eases inflation concerns",
+      "url": "https://www.investing.com/news/commodities-news/gold-climbs-as-trump-delays-iran-strike-softer-oil-eases-inflation-concerns-4829739",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "黃金價格上漲，原因包括特朗普推遲對伊朗的軍事打擊行動，以及油價走軟緩解了市場對通貨膨脹的擔憂。",
+      "judgment": "黃金價格的上漲反映了地緣政治風險溢價的暫時消退與宏觀經濟預期改善的雙重驅動。特朗普推遲對伊朗的軍事行動降低了中東局勢升級的緊迫性，減少了市場對戰爭風險的恐慌性買盤，但黃金仍獲支撐，顯示投資者更關注宏觀因素。油價走軟直接緩解了通脹壓力，降低了市場對聯儲局維持高利率的預期，從而削弱了美元走勢並提升無息資產黃金的吸引力。此現象表明，當前黃金定價邏輯正從單純的避險驅動轉向對實際利率與通脹預期的敏感反應。若油價持續低迷且地緣衝突未進一步升級，黃金短期內可能面臨震盪整理，但中長期仍受惠於全球貨幣寬鬆預期。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/gold-climbs-as-trump-delays-iran-strike-softer-oil-eases-inflation-concerns-4829739"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil drops to 3-wk low as Trump calls off Iran strike, announces fresh talks",
+      "url": "https://www.investing.com/news/commodities-news/oil-drops-to-3wk-low-as-trump-calls-off-iran-strike-announces-fresh-talks-4829733",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Gold 報導，油價跌至三週低點，原因是前美國總統特朗普宣布取消對伊朗的軍事打擊行動，並宣佈將啟動新的談判。此消息直接導致市場對中東地緣政治風險升高的擔憂緩解，進而引發原油價格下跌。",
+      "judgment": "油價因特朗普取消對伊朗軍事打擊並推動新談判而跌至三週低點，顯示地緣政治風險溢價在市場定價中佔有重要地位。此事件表明，當市場預期軍事衝突可能性降低時，原油供應中斷的擔憂將迅速消退，導致價格回調。對於能源產業而言，這意味著短期內油價波動將更受政治談判進展而非實際供需基本面驅動。若談判持續推進，油價可能維持震盪或進一步下探；反之，若談判破裂，地緣風險將再次推高油價。此動態也提醒投資者需密切關注美國中東政策變化，因其對全球能源市場具有顯著影響。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-drops-to-3wk-low-as-trump-calls-off-iran-strike-announces-fresh-talks-4829733"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil tumbles as Trump cancels attack on Iran to reach nuclear deal",
+      "url": "https://www.investing.com/news/commodities-news/oil-tumbles-as-trump-cancels-attack-on-iran-to-reach-nuclear-deal-4829728",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Gold 報導，油價下跌是因為特朗普取消對伊朗的攻擊，轉而尋求達成核協議。",
+      "judgment": "油價因特朗普取消對伊朗軍事行動並轉向外交談判而下跌，顯示地緣政治風險緩解對原油市場的直接衝擊。此舉可能降低中東供應中斷的擔憂，進而壓抑油價溢價。若核協議進展順利，伊朗原油出口可能逐步恢復，增加全球供給，進一步壓低價格。然而，協議細節與執行時間表仍具不確定性，市場需持續觀察後續發展。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-tumbles-as-trump-cancels-attack-on-iran-to-reach-nuclear-deal-4829728"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Trump says US will hold off on fresh Iran attack in hope of quick deal",
+      "url": "https://www.investing.com/news/commodities-news/iran-threatens-to-strike-othernations-energy-fields-if-us-launches-fresh-attacks-4829654",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國總統特朗普表示，美國將暫緩對伊朗發動新的攻擊，希望以此促成快速達成協議。伊朗方面威脅，若美國發動新的攻擊，將打擊其他國家的能源設施。",
+      "judgment": "特朗普暫緩對伊朗攻擊的表態，顯示美國在軍事行動與外交談判之間尋求平衡，可能短期內降低中東地緣政治風險，進而緩解原油供應中斷的擔憂。然而，伊朗的強硬威脅表明雙方互信薄弱，若談判破裂，衝突升級風險仍高，可能導致全球能源市場波動加劇。此舉亦反映美國在能源安全與地緣戰略上的權衡，若協議達成，可能穩定油價；若失敗，伊朗對能源設施的威脅將成為市場主要風險因子。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/iran-threatens-to-strike-othernations-energy-fields-if-us-launches-fresh-attacks-4829654"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Japan vows to intervene again with US over yen if needed",
+      "url": "https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "日本財務大臣片山皋月確認，若日圓出現失序波動，日本將再次與美國聯合干預匯市。此舉旨在應對匯率的不穩定走勢，雙方已就共同行動達成共識。",
+      "judgment": "日本重申與美國合作干預匯市的立場，顯示東京方面對日圓過度貶值的擔憂持續升溫。此舉可能短期內支撐日圓匯率，並向市場傳遞政策制定者維護匯率穩定的強烈信號。然而，若缺乏實質的貨幣政策調整或財政支持，單靠干預難以扭轉長期趨勢。此外，美日協調干預可能引發其他經濟體對匯率操縱的關注，進而影響全球外匯市場穩定性。此事件也凸顯了美日經濟政策協調的重要性，尤其在當前全球利率分化加劇的背景下。",
+      "used_source_urls": [
+        "https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "America’s biggest companies report ‘rock solid’ profits as consumers face higher costs",
+      "url": "https://www.ft.com/content/b4f150ea-9ea3-4bb4-b1e0-014cf1f0df26?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Financial Times Markets 報導，美國大型企業財報顯示獲利穩健，標普 500 指數成分股預計將迎來五年來最強的獲利表現，儘管消費者正面臨更高的生活成本。",
+      "judgment": "此現象顯示美國大型企業具備強大的定價權與成本轉嫁能力，能在通膨壓力下維持高獲利。這可能導致消費端需求逐漸疲軟，進而影響未來幾個季度的營收成長動能。若獲利持續強勁而消費放緩，市場可能重新評估企業盈餘的可持續性，並對估值產生壓力。",
+      "used_source_urls": [
+        "https://www.ft.com/content/b4f150ea-9ea3-4bb4-b1e0-014cf1f0df26?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Trump says Iran talks to take place on Monday, sets no deadline for deal",
+      "url": "https://www.investing.com/news/commodities-news/trump-says-iran-talks-to-take-place-on-monday-sets-no-deadline-for-deal-4829719",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Gold 報導，前美國總統川普表示與伊朗的談判將於週一舉行，但未設定達成協議的最後期限。此消息源自單一來源報導，強調談判時間已定但結果時程未明。",
+      "judgment": "此消息顯示地緣政治緊張局勢可能出現轉機，若談判順利進行，將有助於緩解中東地區不確定性，進而穩定原油供應預期。然而，由於未設定協議期限，市場仍面臨談判破裂或延宕的風險，可能導致油價波動加劇。投資者可密切關注談判進展，以評估對能源市場及相關資產價格的潛在影響。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/trump-says-iran-talks-to-take-place-on-monday-sets-no-deadline-for-deal-4829719"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

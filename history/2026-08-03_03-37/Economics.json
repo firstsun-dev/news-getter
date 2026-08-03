@@ -1,0 +1,20 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-08-03_03-37",
+  "stories": [
+    {
+      "title": "What will Kevin Warsh do if America’s economy breaks?",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/02/what-will-kevin-warsh-do-if-americas-economy-breaks",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "The Economist 報導指出，美國聯邦準備理事會（Fed）正面臨不確定的挑戰，包括人工智慧（AI）相關股票價格下跌以及油價飆升的風險。該報導聚焦於凱文·沃什（Kevin Warsh）在這種經濟情境下可能採取的行動。",
+      "judgment": "Fed 面臨 AI 股權修正與能源價格上漲的雙重壓力，顯示科技成長股與傳統能源市場之間的波動可能加劇宏觀經濟不穩定。若 AI 板塊大幅回調，將衝擊科技產業投資信心與整體股市表現；同時油價上漲可能推升通膨預期，迫使 Fed 在降息與抗通膨之間做出更艱難的權衡。此情境下，Fed 的政策反應將成為市場關注焦點，尤其若沃什被賦予關鍵角色，其決策可能影響全球資本流動與風險資產定價。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/02/what-will-kevin-warsh-do-if-americas-economy-breaks"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

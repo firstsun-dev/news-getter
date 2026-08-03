@@ -1,0 +1,68 @@
+{
+  "category": "Global",
+  "timestamp": "2026-08-03_03-37",
+  "stories": [
+    {
+      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+      "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "俄羅斯軍隊表示，其於夜間襲擊了烏克蘭在黑海的港口及船隻。烏克蘭方面則聲稱，其對俄羅斯的一座主要煉油廠和機場發動了襲擊，莫斯科方面報告此次襲擊造成八人死亡。",
+      "judgment": "此次衝突升級顯示烏克蘭正採取更主動的遠程打擊策略，直接針對俄羅斯能源基礎設施與軍事設施，旨在削弱俄軍後勤補給與戰爭經濟能力。俄羅斯對黑海港口與船隻的攻擊則反映其試圖維持對烏克蘭海上貿易路線的封鎖，以壓制烏克蘭經濟。雙方互襲關鍵基礎設施可能加劇全球能源市場波動，並促使西方國家重新評估對烏克蘭軍事援助的範圍與限制。長期而言，這種相互破壞基礎設施的模式可能延長衝突，增加人道危機風險，並對區域安全架構造成深遠影響。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "以色列對加薩城、汗尤尼斯和代爾拜拉赫發動空襲，造成至少 13 人死亡。以色列方面表示，這些空襲的目標是哈馬斯的軍事人員。此次攻擊發生在哈馬斯同意解除武裝協議之後。",
+      "judgment": "此次事件顯示即便在達成解除武裝協議後，加薩地帶的軍事衝突仍未完全止息，反映出協議執行過程中的高度不確定性與脆弱性。以色列堅持針對軍事人員進行打擊，表明其對協議落實程度的懷疑或對殘餘武裝力量的持續清除行動。這可能導致地區緊張局勢升級，影響國際社會對和平進程的信心，並可能引發人道主義危機的進一步惡化。長期來看，若無法建立有效的監督機制與互信基礎，類似衝突恐將反覆發生，阻礙中東和平進程的實質推進。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "在希臘發生一起消防直升機相撞事故，造成兩名機組人員死亡，分別為丹麥籍與希臘籍人士。事故中一名英國籍飛行員與另一名希臘籍機組人員倖存。",
+      "judgment": "此次希臘消防直升機相撞事故凸顯了高空救災作業的極高風險性，尤其在火災頻發的地中海地區，直升機常需密集執行滅火任務。事故導致兩機相撞並造成人員傷亡，顯示在惡劣天候或能見度不佳情況下，空中交通協調與避險機制可能存在挑戰。此事件可能促使希臘及歐盟相關單位重新檢視消防航空隊的飛行安全規範、機組員訓練標準以及空中管制程序。長期而言，若類似事故頻傳，將影響公眾對空中滅火行動的信心，並可能導致政府增加對航空安全技術（如防撞系統）的投資，同時也可能延緩部分滅火任務的執行效率，進而影響整體火災應對能力。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "At the scene of deadly Moscow bomb blast",
+      "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據俄羅斯媒體報導，莫斯科一家義大利餐廳發生爆炸裝置引爆事件，造成三人死亡及21人受傷。",
+      "judgment": "此次莫斯科餐廳爆炸事件造成人員傷亡，顯示俄羅斯境內公共場所仍面臨安全威脅。此類針對餐飲場所的襲擊可能加劇民眾對公共安全的擔憂，進而影響當地消費意願與商業活動。若此類事件頻發，可能促使俄羅斯政府加強公共區域的安保措施，增加營運成本，並對旅遊業與外資餐飲品牌在俄發展構成潛在風險。長期而言，安全不確定性將抑制投資信心，並可能引發國際社會對該地區穩定性的重新評估。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+      "url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "烏干達揭幕了一座紀念以色列總理兄弟約納坦·內塔尼亞胡的雕像。約納坦·內塔尼亞胡是恩德培救援行動中唯一陣亡的以色列士兵，當時他領導任務解救了超過 100 名人質。",
+      "judgment": "烏干達為以色列前總理兄弟揭幕雕像，象徵該國與以色列關係的重大轉折。恩德培行動發生於 1976 年，當時烏干達由伊迪·阿明統治，曾支持劫機者並與以色列敵對。此次紀念活動顯示烏干達當前政府試圖修復歷史裂痕，並深化與以色列的外交與安全合作。此舉可能強化兩國在反恐、情報共享及農業技術等領域的互動，同時向國際社會傳遞烏干達轉向親西方與親以色列立場的訊號。然而，此舉也可能引發部分非洲國家或阿拉伯世界的不滿，需觀察區域外交反應。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
