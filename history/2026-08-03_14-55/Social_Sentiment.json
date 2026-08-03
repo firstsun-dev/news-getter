@@ -1,0 +1,116 @@
+{
+  "category": "Social Sentiment",
+  "timestamp": "2026-08-03_14-55",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Sam Altman says a 'cool use case' for ChatGPT is a daily AI podcast about your kids. The replies were brutal",
+      "url": "https://www.reddit.com/r/technology/comments/1vedkbv/sam_altman_says_a_cool_use_case_for_chatgpt_is_a/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Return-to-office mandates are killing workplace trust",
+      "url": "https://www.reddit.com/r/technology/comments/1ve84hh/returntooffice_mandates_are_killing_workplace/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The voice of Shinji actor Megumi Ogata in Evangelion says AI voice cloning is 'heartbreaking,' calls for Japanese government to intervene: \"My voice is a part of my identity. Why can’t Japan establish rules for content use or tell the world, ‘this is our policy,’ or ‘this is a problem for us?’\"",
+      "url": "https://www.reddit.com/r/technology/comments/1ve360z/the_voice_of_shinji_actor_megumi_ogata_in/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "How Rogue Officers Turned a Nationwide Camera Network Into a Tool for Stalking /// Flock’s array of license-plate cameras was built to fight crime. But at least 50 law enforcement officers were charged with or accused of misusing it and other systems.",
+      "url": "https://www.reddit.com/r/technology/comments/1ve9iel/how_rogue_officers_turned_a_nationwide_camera/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Country music stars unite against data centers spreading across rural America",
+      "url": "https://www.reddit.com/r/technology/comments/1vec9va/country_music_stars_unite_against_data_centers/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Dozens of police officers accused of using license plate cameras to track women",
+      "url": "https://www.reddit.com/r/technology/comments/1ved6tq/dozens_of_police_officers_accused_of_using/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "ICE Collected Nearly 1 Million People’s DNA Last Year—Including Young Children",
+      "url": "https://www.reddit.com/r/technology/comments/1veej1n/ice_collected_nearly_1_million_peoples_dna_last/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Why a Flock Worker Quit: ‘They Lied’ / Jonathan Paz’s job was to convince cities to buy Flock cameras. After initially being enthusiastic about the company, he started to get disillusioned.",
+      "url": "https://www.reddit.com/r/technology/comments/1veeczs/why_a_flock_worker_quit_they_lied_jonathan_pazs/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Linux didn't just eat 10% of Windows market share, AI bots are inflating the numbers",
+      "url": "https://www.reddit.com/r/technology/comments/1vead0q/linux_didnt_just_eat_10_of_windows_market_share/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier | Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+      "url": "https://www.reddit.com/r/technology/comments/1ve7eoi/the_openai_and_anthropic_ai_hacking_sprees_are_a/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Google Earth’s new AI feature lets anyone fabricate completely bullshit satellite images — ‘I put refugees near the Mexican border. Then I planted a nuclear plant in Iran. Then I put a fatal crash on a street in Amsterdam’: OSINT researcher",
+      "url": "https://www.reddit.com/r/technology/comments/1veauek/google_earths_new_ai_feature_lets_anyone/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost",
+      "url": "https://www.reddit.com/r/technology/comments/1ve9o10/alibaba_unveils_its_largest_ai_model_yet/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The AI Bailout Could Be Baked Into the AI Bubble /// Private credit companies are key owners of AI-related assets. Many of their parent private equity firms own life insurers that are dumping grounds for bad loans—and subject to state bailouts.",
+      "url": "https://www.reddit.com/r/technology/comments/1vececl/the_ai_bailout_could_be_baked_into_the_ai_bubble/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Nearly 1,900 U.S. Public Schools Within a Mile of a Data Center /// Research shows lower math scores among students attending schools nearby.",
+      "url": "https://www.reddit.com/r/technology/comments/1vee9yb/nearly_1900_us_public_schools_within_a_mile_of_a/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Armed robots are on the horizon, as Silicon Valley pitches new military tech",
+      "url": "https://www.reddit.com/r/technology/comments/1vdyhvz/armed_robots_are_on_the_horizon_as_silicon_valley/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
+      "url": "https://www.reddit.com/r/technology/comments/1veek9z/the_guardrail_guy_went_viral_for_posting_about/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "There are new warnings Australia could face economic chaos if the nation doesn't harness locally-held AI. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPelQwUTNKX1FOeTctSnNGNmVsV3hDWGR1X1hKeldXVE1PQnRXNi1nUG9mRkNTakxxeW5ybWgwdEZ2ZzZEMmY0TzRHZmZaM0cxQi1GQ0VoajM0U1FzNFhReXdlN3FnQ0FSZm4xM1ZyMkZENi1RN3p4NkVndVFnOGNGblAwWFYxeksyQW5UZ3p2SGQzWExKLTNBbjVNbG52NVN0eGgwNmlTU01ZeUhRcnVOV3NRVExaaUNfTzJxNncxVm9ES25OTTNrTXhiRWpRWlZnalNuckRZTTM?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "In case you missed it 💡 🤖 Big Tech's AI Spending to Reach $760 Billion in 2026 🌊 Drowning Is a Health Equity Issue 🏠 Housing Cost Pressure Across Major EU Economies 📚 Estimated Quarter of Llama AI Sources Came From Books 💖 Thanks for Donating to - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWVFwd2RKblF5cXE4VTBHdUp5dzBDMGJxLVhDYVZEcHd4VHRaUGdYbGVjREJOdE85dDhvdXBLTHVJMjZsaGNBUFRVd01RblpuOVFOdzhOaTFrZVVsSl9naE1KT2VEVEtUM1E2TVJKcUhmTEY4TThGOE5jT1dsWXNJOElEM2ZBSVpBeVB6QWF1YTlaUUE3cnljVFpCTVh0V2IyS0ltajVnS3BuaEpNV21odGVZb0hJdjhuVTBpMElQLVdZTTJIZVlRc1VSUVZLdW5UanZGcDdKTWxfZw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}

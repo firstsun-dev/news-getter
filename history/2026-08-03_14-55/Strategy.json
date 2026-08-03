@@ -1,0 +1,44 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-03_14-55",
+  "stories": [
+    {
+      "title": "Don’t Let AI Flatten Your Leadership Style",
+      "url": "http://feeds.harvardbusiness.org/2026/08/dont-let-ai-flatten-your-leadership-style",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論發表文章《不要讓 AI 扁平化你的領導風格》，探討如何在人工智慧時代保護個人的判斷力、聲音與存在感。文章標題與摘要指出，領導者面臨的挑戰是如何避免過度依賴 AI 而喪失獨特的領導特質。",
+      "judgment": "隨著生成式 AI 在商業決策中的普及，領導者面臨「風格扁平化」的風險，即過度依賴演算法建議導致個人判斷力與獨特領導聲音的喪失。此現象可能削弱組織的創新能力與員工對領導者的信任，因為 AI 傾向於提供平均化、數據驅動的建議，而非基於直覺與情境的獨特見解。產業未來將更重視領導者如何平衡 AI 工具的效率與人類特有的情感智慧與戰略判斷。若領導者未能主動維護自身風格，組織文化可能趨於同質化，降低在複雜市場中的適應力。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/dont-let-ai-flatten-your-leadership-style"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "What to Consider Before Giving Advice on a Global Team",
+      "url": "http://feeds.harvardbusiness.org/2026/08/what-to-consider-before-giving-advice-on-a-global-team",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論的研究指出，美國、中國和印度員工在溝通風格上存在顯著差異，導致他們對相同的指導意見產生截然不同的解讀，進而可能引發信任流失。",
+      "judgment": "在全球化團隊管理中，溝通風格的差異是影響協作效率與信任建立的關鍵變數。美國員工傾向直接表達，中國員工重視含蓄與面子，印度員工則可能結合階級與情境進行回應。若管理者未意識到這些文化差異，單一的指導方式可能被誤讀為冒犯或無效，導致團隊凝聚力下降。此現象凸顯跨文化溝通培訓的必要性，企業需建立適應多元背景的回饋機制，以減少誤解並提升全球團隊的整體績效。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/what-to-consider-before-giving-advice-on-a-global-team"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Research: Employees from Lower-Class Backgrounds Negotiate Less—and Face More Backlash",
+      "url": "http://feeds.harvardbusiness.org/2026/08/research-employees-from-lower-class-backgrounds-negotiate-less-and-face-more-backlash",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論發表研究指出，來自較低階層背景的員工在薪資或資源談判中較少主動發起協商，且當他們嘗試協商時，更容易遭遇負面反應與反彈。該研究探討了領導者如何重新設計談判制度以應對此類偏見。",
+      "judgment": "此研究揭示了職場中深層的階級偏見結構，對企業人才管理與公平性構成重大挑戰。來自低階層背景的員工因缺乏談判經驗或恐懼社會懲罰而選擇沉默，導致其薪酬與晉升機會長期落後，加劇組織內部的不平等。若企業不主動介入，將面臨人才流失、創新動力不足及聲譽風險。領導者需從制度面著手，例如標準化薪酬談判流程、提供談判培訓、建立匿名反饋機制，並強化管理者的偏見意識訓練。這不僅是道德責任，更是提升組織效能的關鍵策略。忽略此問題將使企業在多元人才競爭中處於劣勢，影響長期競爭力。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/research-employees-from-lower-class-backgrounds-negotiate-less-and-face-more-backlash"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
