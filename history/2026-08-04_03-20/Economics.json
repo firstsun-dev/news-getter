@@ -1,0 +1,20 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-08-04_03-20",
+  "stories": [
+    {
+      "title": "How China gets better bang for its buck than America in AI",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據《經濟學人》報導，中國在人工智慧領域的投資遠落後於美國，但其模型效能表現優於預期。儘管資金投入較少，中國在 AI 技術應用上展現出更高的投資報酬率。",
+      "judgment": "中國在 AI 投資落後美國的情況下仍能實現更高效率，顯示其資源配置策略與產業生態系具有獨特優勢。這可能源於中國政府對關鍵技術的集中投入、數據規模效應以及快速商業化應用能力。此現象挑戰了傳統認為「高投入必然帶來高產出」的產業邏輯，暗示未來全球 AI 競爭將不僅取決於資本規模，更取決於技術整合效率與市場適應速度。美國若持續忽視成本效益，可能面臨長期競爭力下滑風險。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/03/how-china-gets-better-bang-for-its-buck-than-america-in-ai"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

@@ -1,0 +1,260 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-08-04_03-20",
+  "stories": [
+    {
+      "title": "South Korea inflation cools, but back-to-back rate hike not ruled out",
+      "url": "https://www.investing.com/news/economic-indicators/south-korea-july-inflation-28-yy-weaker-than-expected-4832540",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "韓國 7 月通膨率年增率為 2.8%，低於市場預期。儘管通膨放緩，市場對於韓國央行是否會連續兩次升息仍持保留態度，升息可能性尚未被排除。",
+      "judgment": "韓國 7 月通膨數據低於預期顯示物價壓力有所緩解，這通常會降低央行進一步緊縮貨幣政策的急迫性。然而，標題指出「連續升息未被排除」，暗示央行可能仍關注通膨預期或匯率穩定等長期因素，而非僅看單月數據。若通膨持續高於目標區間或韓元貶值壓力加劇，央行仍可能採取預防性升息措施。此情況反映韓國央行在平衡經濟成長與物價穩定之間的謹慎立場，市場需密切關注後續通膨趨勢及央行官員言論，以判斷利率走向。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/south-korea-july-inflation-28-yy-weaker-than-expected-4832540"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "US construction spending unexpectedly falls in June",
+      "url": "https://www.investing.com/news/economic-indicators/us-construction-spending-unexpectedly-falls-in-june-4831699",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Bonds 報導，美國六月營建支出意外下滑。該數據顯示美國建築活動在該月份出現未預期的收縮現象，具體數值與前月相比呈現負成長趨勢。",
+      "judgment": "美國六月營建支出意外下滑，顯示在高利率環境下，建築業面臨資金成本壓力，導致投資意願降溫。此數據可能反映房地產市場持續疲軟，並對整體經濟成長構成下行風險。若此趨勢持續，可能促使聯準會重新評估貨幣政策走向，進而影響債券市場收益率曲線。此外，營建活動放緩也可能拖累相關產業鏈，包括建材、設備製造及勞動力市場。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/us-construction-spending-unexpectedly-falls-in-june-4831699"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "U.S. manufacturing sector activity accelerates to over four year high in July",
+      "url": "https://www.investing.com/news/economic-indicators/us-manufacturing-sector-activity-accelerates-to-over-four-year-high-in-july-4831637",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Bonds 報導，美國製造業活動在七月加速成長，達到四年多來的最高水平。該新聞標題明確指出製造業部門活動加速，並強調此為超過四年的高點。",
+      "judgment": "美國製造業活動在七月顯著回升至四年多來的最高水平，顯示該產業正經歷強勁復甦。此數據可能反映需求回暖、供應鏈改善或政策刺激效應，將對整體經濟成長產生正面推動力。製造業的擴張通常伴隨就業增加與投資上升，進而提振消費者信心與股市表現。然而，需持續觀察通膨壓力與利率政策是否會抑制後續成長動能。此趨勢若持續，將強化美元資產吸引力，並可能影響全球供應鏈佈局策略。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/us-manufacturing-sector-activity-accelerates-to-over-four-year-high-in-july-4831637"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Shipping traffic at key Gulf waterways little changed on uncertain peace talks",
+      "url": "https://www.investing.com/news/commodities-news/shipping-traffic-at-key-gulf-waterways-little-changed-on-uncertain-peace-talks-4832728",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Gold 報導，由於和平談判前景不明，關鍵海灣水道的船舶交通量幾乎未受影響。市場對地緣政治緊張局勢的反應相對平淡，顯示航運活動在當前不確定性下仍維持穩定運作。",
+      "judgment": "海灣水道作為全球能源運輸的關鍵節點，其航運流量對地緣政治風險極為敏感。此次和平談判的不確定性未導致船舶交通量顯著波動，反映市場已對中東局勢保持警惕，並可能已將風險計入當前航運成本與保險費率中。此現象暗示短期內供應鏈中斷風險可控，但若談判破裂或衝突升級，可能引發突發性航運中斷，進而推升油價與運費。長期來看，航運公司需持續評估替代路線與風險對沖策略，以應對潛在的地緣政治衝擊。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/shipping-traffic-at-key-gulf-waterways-little-changed-on-uncertain-peace-talks-4832728"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Manufacturing PMI Edges Higher, Signals Continued Expansion",
+      "url": "https://www.investing.com/news/economic-indicators/manufacturing-pmi-edges-higher-signals-continued-expansion-93CH-4831508",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Bonds 報導，製造業採購經理人指數（PMI）小幅上升，顯示製造業持續擴張。該數據由 Investing.com 發布，標題為「製造業 PMI 小幅上升，顯示持續擴張」，連結為 https://www.investing.com/news/economic-indicators/manufacturing-pmi-edges-higher-signals-continued-expansion-93CH-4831508。",
+      "judgment": "製造業 PMI 的上升表明製造業活動仍處於擴張區間，這通常被視為經濟復甦或穩健增長的訊號。此趨勢可能反映企業訂單增加、生產活動放緩放緩或庫存調整趨於穩定。對產業而言，持續擴張可能帶動相關供應鏈需求，包括原材料、物流及設備投資。然而，若擴張幅度有限，可能暗示經濟動能仍受外部因素（如地緣政治風險或通膨壓力）制約。投資者應關注後續 PMI 數據是否持續改善，以評估製造業對整體經濟的貢獻度。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/manufacturing-pmi-edges-higher-signals-continued-expansion-93CH-4831508"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil ticks up after selloff as talks to end US-Iran war remain uncertain",
+      "url": "https://www.investing.com/news/commodities-news/oil-ticks-up-after-selloff-as-talks-to-end-usiran-war-remain-uncertain-4832678",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "原油價格在經歷拋售後出現小幅回升，市場關注點集中在結束美國與伊朗戰爭的談判前景仍不明朗。",
+      "judgment": "油價的波動直接反映了地緣政治風險對能源市場的即時影響。美國與伊朗之間的緊張關係是當前原油定價的關鍵變數，談判前景的不確定性導致市場情緒脆弱，任何關於衝突升級或緩和的消息都可能引發價格劇烈震盪。投資者需密切關注外交談判進展，因為若談判破裂，中東供應鏈中斷的風險將推高油價；反之，若達成協議，地緣溢價消退可能導致油價回調。此類不確定性增加了能源供應鏈的規劃難度，並可能影響全球通膨預期。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-ticks-up-after-selloff-as-talks-to-end-usiran-war-remain-uncertain-4832678"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Cuba’s power grid collapses again during restoration efforts after nationwide blackout",
+      "url": "https://www.investing.com/news/commodities-news/cubas-power-grid-collapses-again-during-restoration-efforts-after-nationwide-blackout-4832731",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "古巴在嘗試恢復全國大停電後的電力系統時，電網再次發生崩潰。此次事件發生在全國範圍停電後的修復過程中，顯示該國電力基礎設施面臨嚴重挑戰。",
+      "judgment": "古巴電網的再次崩潰凸顯其電力基礎設施的脆弱性與長期結構性問題。在修復過程中發生二次停電，可能延緩經濟活動恢復，加劇民生困難，並影響外資對該國能源部門的信心。此類頻繁停電事件若持續，將迫使政府尋求國際援助或加速能源轉型，但也可能因資金與技術限制而陷入惡性循環。對區域能源市場而言，古巴的不穩定可能影響加勒比海地區的電力互聯計畫，並促使鄰國加強自身電網韌性以應對潛在連鎖反應。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/cubas-power-grid-collapses-again-during-restoration-efforts-after-nationwide-blackout-4832731"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil holds losses as Trump touts Iran talks, Tehran denies negotiations",
+      "url": "https://www.investing.com/news/commodities-news/oil-holds-losses-as-trump-touts-iran-talks-tehran-denies-negotiations-4832658",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "原油價格持穩下跌，因前美國總統特朗普宣稱與伊朗進行談判，但德黑蘭方面否認正在進行任何談判。",
+      "judgment": "油價下跌主要反映地緣政治風險溢價的消退。特朗普宣稱與伊朗談判的消息若被市場視為可信，將顯著降低中東供應中斷的擔憂，從而壓低原油價格。然而，伊朗官方明確否認談判，顯示雙方立場存在巨大落差，這種信息不對稱可能導致市場波動加劇。若伊朗後續證實無談判意願，地緣政治緊張局勢可能升溫，進而支撐油價反彈。長期來看，油價走勢將取決於實際談判進展及伊朗核計劃的動態，投資者需密切關注官方消息以評估風險溢價的變化。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-holds-losses-as-trump-touts-iran-talks-tehran-denies-negotiations-4832658"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Manufacturing PMI Surges, Exceeding Forecasts and Previous Levels",
+      "url": "https://www.investing.com/news/economic-indicators/manufacturing-pmi-surges-exceeding-forecasts-and-previous-levels-93CH-4831565",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Bonds 報導，製造業採購經理人指數（PMI）出現大幅上升，不僅超越了市場預期，也高於前一期水平。該消息由 Investing.com 發布，標題明確指出製造業 PMI 激增並超出預測與先前數值。",
+      "judgment": "製造業 PMI 的顯著上升通常被視為經濟擴張的強烈信號，表明製造業活動正在加速。當 PMI 超越市場預期及前值時，往往意味著企業訂單增加、生產活動活躍，可能帶動就業與投資成長。此數據對債券市場而言具有雙重影響：一方面，經濟強勁可能降低違約風險，支撐信用債表現；另一方面，若成長過熱引發通膨擔憂，可能促使央行維持或提高利率，進而壓制債券價格。投資者可關注後續非農數據與通膨指標，以確認此趨勢是否持續。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/manufacturing-pmi-surges-exceeding-forecasts-and-previous-levels-93CH-4831565"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "US oil exports in July fall to lowest level in eight months, data shows",
+      "url": "https://www.investing.com/news/commodities-news/us-oil-exports-in-july-fall-to-lowest-level-in-eight-months-data-shows-4832367",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據數據顯示，美國 7 月石油出口量降至八個月來的最低水平。",
+      "judgment": "美國 7 月石油出口量下滑至八個月新低，顯示全球需求疲軟或國內煉油廠維護導致出口減少。此趨勢可能反映地緣政治緊張局勢下，國際買家轉向其他供應源，或美國國內庫存增加抑制出口動能。若出口持續低迷，將壓低美國原油價格溢價，並可能影響 OPEC+ 產量決策。長期來看，此數據暗示全球能源市場供需平衡趨於鬆動，需密切關注後續月份數據以確認趨勢是否延續。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/us-oil-exports-in-july-fall-to-lowest-level-in-eight-months-data-shows-4832367"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil prices slide after massive July gains as Trump calls off attack on Iran",
+      "url": "https://www.investing.com/news/commodities-news/oil-drops-to-3wk-low-as-trump-calls-off-iran-strike-announces-fresh-talks-4829733",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "油價在經歷七月大幅上漲後出現下滑，原因是美國總統特朗普取消對伊朗的攻擊行動，並宣布將展開新的談判。此消息導致油價跌至三週低點。",
+      "judgment": "油價下跌主要反映地緣政治風險溢價的消退。特朗普取消對伊朗的軍事行動並轉向外交談判，直接降低了中東地區爆發衝突的預期，進而削弱了市場對供應中斷的擔憂。此舉顯示美國政策從強硬對抗轉向對話，可能穩定區域局勢，抑制油價因戰爭恐慌而產生的波動。長期來看，若談判取得實質進展，將進一步壓低油價風險溢價，促使價格回歸供需基本面。然而，若談判破裂或伊朗採取反制措施，油價仍可能重回升勢。投資者需密切關注後續談判進展及中東局勢變化。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-drops-to-3wk-low-as-trump-calls-off-iran-strike-announces-fresh-talks-4829733"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Gold steadies as traders assess Fed outlook, Middle East risks",
+      "url": "https://www.investing.com/news/commodities-news/gold-steadies-as-traders-assess-fed-outlook-middle-east-risks-4832673",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "黃金價格在交易員評估聯準會政策前景與中東地緣政治風險的背景下保持穩定。市場參與者正密切關注聯準會未來的利率決策方向，同時對中東地區潛在的衝突升級保持警惕，這些因素共同影響了黃金的短期走勢。",
+      "judgment": "黃金價格的穩定反映了市場在宏觀經濟政策與地緣政治風險之間的微妙平衡。聯準會的利率預期是影響黃金定價的關鍵因素，若聯準會維持高利率或延後降息，將對黃金構成壓力；反之，若通膨數據放緩或經濟放緩跡象顯現，可能推動降息預期升溫，進而支撐金價。同時，中東風險作為傳統的避險需求驅動因素，若局勢惡化，將進一步推升黃金的避險買盤。當前市場處於觀望狀態，投資者需密切關注聯準會官員的言論、美國經濟數據（如非農就業、CPI）以及中東局勢的動態變化。若地緣政治風險升溫或聯準會釋放鴿派信號，黃金有望突破近期震盪區間；反之，若風險降溫且聯準會維持鷹派立場，金價可能面臨回調壓力。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/gold-steadies-as-traders-assess-fed-outlook-middle-east-risks-4832673"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Gold slightly higher as slide in oil prices offset by clouded Fed rate outlook",
+      "url": "https://www.investing.com/news/commodities-news/gold-climbs-as-trump-delays-iran-strike-softer-oil-eases-inflation-concerns-4829739",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "黃金價格小幅上漲，主要受油價下跌抵消聯準會利率前景不明朗的影響。油價下滑緩解了通膨擔憂，而聯準會的利率決策方向仍不確定，導致黃金市場呈現波動上揚的走勢。",
+      "judgment": "黃金價格的走勢顯示市場對宏觀經濟因素的高度敏感。油價下跌減輕了通膨壓力，這通常會降低黃金作為抗通膨工具的吸引力，但聯準會利率前景的不確定性反而支撐了黃金的避險需求。這種矛盾現象反映投資者對未來貨幣政策的謹慎態度，預期聯準會可能維持高利率或延後降息，進而推升黃金作為非生息資產的相對價值。長期來看，若油價持續低迷且通膨數據放緩，黃金可能面臨短期回調壓力；但若地緣政治風險升溫或聯準會轉向鴿派，黃金將有機會突破阻力位。此趨勢需密切關注聯準會會議紀錄及全球原油供需變化。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/gold-climbs-as-trump-delays-iran-strike-softer-oil-eases-inflation-concerns-4829739"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Trump targets Chevron, Exxon over profits, demands lower gasoline prices",
+      "url": "https://www.investing.com/news/commodities-news/trump-calls-on-oil-companies-to-lower-gasoline-prices-4831767",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國前總統特朗普公開批評雪佛龍（Chevron）和埃克森美孚（Exxon）等石油公司，指責其獲取過高利潤，並要求這些企業降低汽油價格。特朗普在公開言論中將高油價歸咎於石油巨頭的定價策略，呼籲企業採取行動以減輕消費者負擔。",
+      "judgment": "特朗普對石油巨頭的公開施壓，反映了美國政治層面對能源價格的高度關注，這可能對油價走勢及企業定價策略產生短期干擾。雖然企業利潤受市場供需、地緣政治及煉油成本等多重因素影響，但政治人物的直接干預可能引發市場波動，甚至促使監管機構介入調查。長期來看，若政府持續施壓，石油公司可能被迫調整定價或增加投資以回應政策壓力，進而影響全球能源市場的穩定性。此外，此類言論也可能加劇美國國內對能源政策的爭議，影響未來能源立法方向。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/trump-calls-on-oil-companies-to-lower-gasoline-prices-4831767"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "FirstFT: Japan confirms historic joint yen intervention with US",
+      "url": "https://www.ft.com/content/bbcf5c49-0ca3-4af4-a408-e0a723227042?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "日本確認與美國進行歷史性的聯合日元干預行動。此消息由金融時報市場版報導，同時提及緬甸釋放昂山素季照片引發健康疑慮，以及阿斯利康投資者對潛在大型併購談判表示擔憂。",
+      "judgment": "日本與美國首次聯合干預匯市，標誌著全球主要經濟體在應對日元過度貶值壓力上的政策協調升級。此舉可能短期內穩定匯率波動，但長期效果取決於兩國貨幣政策分歧是否收斂。若美國維持高利率而日本持續寬鬆，干預效果可能有限，反而加劇市場對政策可信度的質疑。此外，此舉可能引發其他出口導向型經濟體跟進干預，導致全球匯率戰風險上升。投資者需關注後續日本央行與美聯儲的政策信號，以及干預規模是否足以扭轉市場預期。",
+      "used_source_urls": [
+        "https://www.ft.com/content/bbcf5c49-0ca3-4af4-a408-e0a723227042?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Trump says talks with Iran are going on ’right now’",
+      "url": "https://www.investing.com/news/commodities-news/trump-says-talks-with-iran-are-going-on-right-now-4832077",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Gold 報導，前美國總統特朗普表示，目前正與伊朗進行談判。此消息由特朗普本人直接發表，確認雙邊對話正在當下進行中。",
+      "judgment": "特朗普公開確認與伊朗進行談判，顯示地緣政治緊張局勢可能出現轉機，這對黃金等避險資產價格構成潛在壓力。若談判進展順利，中東地區不確定性降低，將削弱市場對黃金的需求，導致金價回調。反之，若談判破裂或進展緩慢，地緣風險升溫將支撐金價上漲。此事件凸顯政治動態對大宗商品市場的即時影響，投資者需密切關注後續談判細節及雙方立場變化。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/trump-says-talks-with-iran-are-going-on-right-now-4832077"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "How big was the American JPY intervention?",
+      "url": "https://www.ft.com/content/e279135e-cd6e-46d4-b80b-2e6b0c0901a9",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Financial Times Markets 發布一篇標題為「美國對日圓干預規模有多大？」的文章，內容指出目前對於美國干預日圓的具體規模僅能進行猜測，尚未有確切數據或官方確認。",
+      "judgment": "該新聞反映市場對美國潛在外匯干預行動的關注與不確定性。由於缺乏具體數據，市場參與者難以精確評估干預力度及其對匯率走勢的即時影響。此類模糊性可能加劇短期波動，並促使投資者密切關注後續官方聲明或市場流動性變化。若未來確認干預規模，將對日圓匯率、美日利差預期及全球外匯市場情緒產生顯著影響。",
+      "used_source_urls": [
+        "https://www.ft.com/content/e279135e-cd6e-46d4-b80b-2e6b0c0901a9"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Aston Martin creditors threaten legal action after branding rights sale plan",
+      "url": "https://www.ft.com/content/48cd3b97-dc85-4732-8428-58fd8bfe5958?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Aston Martin 的債券持有人已發送信函給該汽車製造商，警告若公司繼續推進品牌權利的出售計劃，他們將採取法律行動。債權人明確表示可能提起訴訟，旨在撤銷與 HPS 的交易並阻止資產處置。",
+      "judgment": "此事件顯示 Aston Martin 在財務重組過程中面臨嚴峻的債權人反對，特別是針對品牌資產處置的爭議。品牌權利作為豪華車企的核心價值，其出售可能引發債權人對資產低估或優先償債順序的擔憂。若訴訟爆發，將延遲重組進程，增加法律成本，並可能影響市場對該公司流動性與治理穩定性的信心。長期而言，若無法與債權人達成共識，可能迫使公司尋求更嚴格的債務協商或外部干預，進而影響其戰略自主性與品牌長期價值。",
+      "used_source_urls": [
+        "https://www.ft.com/content/48cd3b97-dc85-4732-8428-58fd8bfe5958?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "UBS fined $125mn over lax money laundering controls",
+      "url": "https://www.ft.com/content/03c413f2-6ad5-45d1-b5ac-fdb6ed8b4cff?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "瑞士銀行UBS因未能實施足夠的反洗錢控制措施，被美國監管機構處以1.25億美元罰款。該銀行此前已因類似問題受到美國監管機構的制裁，但仍未有效改善其合規機制。",
+      "judgment": "UBS此次被罰款1.25億美元，凸顯全球金融監管機構對反洗錢合規要求的日益嚴格。作為全球系統重要性銀行，UBS的合規漏洞不僅影響其自身聲譽與財務狀況，也可能引發監管機構對其他大型銀行的更嚴厲審查。此事件可能促使銀行業加大在反洗錢技術與流程上的投資，以符合國際標準。此外，若UBS未能有效整改，未來可能面臨更多監管處罰或業務限制，進而影響其全球市場競爭力。",
+      "used_source_urls": [
+        "https://www.ft.com/content/03c413f2-6ad5-45d1-b5ac-fdb6ed8b4cff?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Japan vows further yen intervention with US if needed",
+      "url": "https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "日本財務大臣片山皋月確認，若必要時將與美國聯合進行外匯干預，以應對日圓的「無序波動」。此舉旨在穩定匯率市場，防止日圓過度貶值對經濟造成衝擊。",
+      "judgment": "日本與美國協調外匯干預的承諾，顯示兩國在應對匯率劇烈波動上的政策協調性增強。此舉可能短期內支撐日圓匯率，減少進口成本上升壓力，但長期效果取決於美日利差及全球資本流動趨勢。若干預頻繁，可能引發市場對日本財政負擔的擔憂，同時影響全球外匯市場流動性。此政策也反映美國對亞洲貨幣穩定的關注，可能強化跨大西洋經濟合作框架。",
+      "used_source_urls": [
+        "https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Iranian tanker tolls: totally legit after all?",
+      "url": "https://www.ft.com/content/06f8f1a1-50a1-43d0-a236-c2d65ff38e87",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Financial Times Markets 發布標題為「Iranian tanker tolls: totally legit after all?」的文章，內容提及「Nice Suezmax you've got there. Shame if something happened to it」，暗示伊朗油輪通行費或相關活動可能涉及威脅或非法行為。",
+      "judgment": "該新聞暗示伊朗油輪在蘇伊士型（Suezmax）航線上的活動可能涉及灰色地帶操作，甚至隱含對船舶安全的威脅。此類行為若被證實，可能引發國際海事安全疑慮，影響全球油運供應鏈穩定，並可能招致國際制裁或監管加強。長期來看，若伊朗持續利用油輪作為地緣政治工具，將加劇中東地區緊張局勢，推升油價波動風險，並促使主要消費國加速能源來源多元化。此外，保險業與航運公司可能提高對相關航線的風險評估，導致運費上漲或航線調整。",
+      "used_source_urls": [
+        "https://www.ft.com/content/06f8f1a1-50a1-43d0-a236-c2d65ff38e87"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
