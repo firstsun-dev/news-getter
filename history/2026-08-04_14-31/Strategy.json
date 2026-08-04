@@ -1,0 +1,68 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-04_14-31",
+  "stories": [
+    {
+      "title": "Climate Goals Are Worth Setting—Even If They’re Aspirational",
+      "url": "http://feeds.harvardbusiness.org/2026/08/climate-goals-are-worth-setting-even-if-theyre-aspirational",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論的新研究指出，企業設定溫室氣體排放目標，即使這些目標具有願景性質，也能鼓勵供應商投資氣候創新技術，進而推動去碳化進程。",
+      "judgment": "企業設定具願景性質的氣候目標，雖未必能立即達成，但能產生顯著的供應鏈槓桿效應。研究顯示，這類目標能促使供應商主動投資創新技術以符合買方要求，形成自下而上的去碳化動力。此現象改變了傳統對「未達成目標即失敗」的評價框架，強調目標設定本身即具策略價值。在產業層面，這意味著企業應更重視目標的溝通與協作功能，而非僅聚焦於短期合規。長期而言，此趨勢將加速全球供應鏈的綠色轉型，並重塑企業間的合作模式與競爭優勢來源。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/climate-goals-are-worth-setting-even-if-theyre-aspirational"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "A New Way to Measure Customer Referrals",
+      "url": "http://feeds.harvardbusiness.org/2026/08/a-new-way-to-measure-customer-referrals",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論本週內幕通訊中，執行編輯葛蕾琴·蓋維特探討了為何轉介應獲得更多戰略關注、為何頻繁跳槽的員工可能被低估，以及領導者對人工智慧實際影響的學習。",
+      "judgment": "此內容顯示企業管理層正重新評估傳統人才與客戶獲取策略。將轉介納入戰略焦點，意味著企業可能從被動等待推薦轉向主動設計轉介機制，以降低成本並提升客戶忠誠度。同時，對跳槽員工價值的重新審視，暗示組織文化可能正從追求穩定轉向重視多元經驗帶來的創新價值。此外，領導者對 AI 影響的關注，反映企業正從技術導入階段進入成效驗證階段，需建立更精確的評估指標。這些趨勢共同指向企業管理範式的轉變：從依賴直覺轉向數據驅動決策，並更重視非傳統人才與客戶關係的長期價值。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/a-new-way-to-measure-customer-referrals"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Escaping the pilot trap: Building HR for the agentic era",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/escaping-the-pilot-trap-building-hr-for-the-agentic-era",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據麥肯錫的觀點，能夠建立最有效代理型人力資源（Agentic HR）職能組織，不僅僅是擴大試點規模。這些組織會先定義該職能的人類與代理操作模式，然後再逆向進行實施。",
+      "judgment": "此新聞點出企業在導入代理型人工智慧（Agentic AI）於人力資源領域時，常見的策略誤區在於過度關注技術試點的擴大，而忽略了底層操作模式的重新定義。成功的關鍵在於「先定義、後實施」的逆向工程思維。這意味著企業必須首先釐清人類員工與 AI 代理之間的協作邊界、決策權限及工作流程，建立清晰的人機操作模型，才能確保後續的技術部署能真正轉化為組織效能。若缺乏此基礎，單純擴大試點規模往往導致資源浪費與整合失敗。此趨勢顯示 HR 職能的數位轉型正從工具輔助階段邁向自主代理協作的新紀元，要求組織具備更宏觀的架構設計能力。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/escaping-the-pilot-trap-building-hr-for-the-agentic-era"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Why Great Turnarounds Start with Culture, Not Strategy",
+      "url": "http://feeds.harvardbusiness.org/podcast/2026/08/why-great-turnarounds-start-with-culture-not-strategy",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論報導了與威瑞森（Verizon）執行長丹·舒爾曼（Dan Schulman）的對話，討論該電信巨頭如何在人工智慧（AI） disrupt 的背景下進行重塑。",
+      "judgment": "在人工智慧快速演進的產業環境中，電信巨頭面臨轉型壓力。舒爾曼的觀點強調文化重塑優先於策略調整，這反映產業趨勢：技術變革需以組織文化為基礎才能有效落地。若企業僅聚焦策略而忽略文化，可能導致執行斷層。此案例顯示，傳統產業在面對 AI 衝擊時，需透過內部文化變革驅動創新，而非單純依賴外部策略規劃。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/podcast/2026/08/why-great-turnarounds-start-with-culture-not-strategy"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Why Metaphysic AI Looked to Hollywood for a Digital Rights Model",
+      "url": "http://feeds.harvardbusiness.org/podcast/2026/08/why-metaphysic-ai-looked-to-hollywood-for-a-digital-rights-model",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Harvard Business Review 報導指出，當個人的作品能被數位化捕捉、複製並變現時，引發了關於價值歸屬權的爭議。Metaphysic AI 公司參考好萊塢的數位權利模型來應對此挑戰，探討在數位複製技術普及的背景下，如何界定誰有權主張由此產生的價值。",
+      "judgment": "Metaphysic AI 借鑑好萊塢權利管理模式的舉動，標誌著生成式 AI 產業正從單純的技術開發轉向複雜的權利治理階段。隨著數位孿生與深度偽造技術成熟，個人肖像與聲音的商業化邊界日益模糊，傳統版權法難以涵蓋此類新型態資產。好萊塢長期建立的集體談判與授權分潤機制，為 AI 公司提供了可複製的合規路徑，有助於降低法律風險並建立市場信任。此趨勢將促使更多 AI 企業建立類似的權利管理框架，進而重塑內容創作產業的價值分配結構，使個人創作者能更直接地從其數位分身獲利，同時推動產業標準化與合規化進程。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/podcast/2026/08/why-metaphysic-ai-looked-to-hollywood-for-a-digital-rights-model"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
