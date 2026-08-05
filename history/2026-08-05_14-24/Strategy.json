@@ -1,0 +1,32 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-05_14-24",
+  "stories": [
+    {
+      "title": "How Much Time Do Your Employees Spend Botsitting?",
+      "url": "http://feeds.harvardbusiness.org/2026/08/how-much-time-do-your-employees-spend-botsitting",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據哈佛商業評論報導，人工智慧雖能每週自動化數小時的工作，但同時需要大量的人類監督。領導者必須將這種隱藏的人力勞動納入考量。",
+      "judgment": "此新聞揭示了 AI 導入企業後的關鍵盲點：自動化並非完全取代人力，而是將工作性質從「執行」轉為「監督」。企業若僅計算 AI 節省的時間而忽略「機器人監看（botsitting）」所需的人力成本，將導致對生產力提升的誤判。這種隱藏勞動可能包括驗證 AI 輸出、修正錯誤、處理例外狀況及維持系統穩定。長期來看，這將改變組織的人力配置策略，從減少人力轉向培養具備 AI 協作與監督能力的員工。領導者需重新設計工作流程與績效指標，將監督成本納入 ROI 計算，避免過度依賴 AI 而引發品質風險或員工疲勞。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/how-much-time-do-your-employees-spend-botsitting"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "In pursuit of progress: Americans’ aspirations for economic mobility",
+      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/in-pursuit-of-progress-americans-aspirations-for-economic-mobility",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "麥肯錫發布報告《追求進步：美國人對經濟流動性的願景》，指出在美國迎來 250 週年之際，美國民眾分享了他們對更美好生活的願景、面臨的障礙，以及在國家變遷中擴大經濟機會的優先事項。",
+      "judgment": "此報告揭示了美國社會在國家歷史里程碑時刻對經濟流動性的深切關注。隨著美國邁向建國 250 週年，民眾對改善生活品質的渴望與現實障礙之間的張力，成為政策制定與商業策略的關鍵考量。報告強調的「擴大經濟機會」優先事項，暗示未來產業投資將更傾向於能促進社會流動性的領域，如職業培訓、基礎設施建設及包容性創新。對於企業而言，理解這些民眾願景有助於調整人才策略與市場定位，以應對社會結構變遷帶來的挑戰與機遇。此外，經濟流動性的提升將直接影響消費市場結構與勞動力供給質量，進而重塑產業競爭格局。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/in-pursuit-of-progress-americans-aspirations-for-economic-mobility"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
