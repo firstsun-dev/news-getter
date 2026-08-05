@@ -1,0 +1,44 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-05_03-15",
+  "stories": [
+    {
+      "title": "A New Way to Measure Customer Referrals",
+      "url": "http://feeds.harvardbusiness.org/2026/08/a-new-way-to-measure-customer-referrals",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論本週《Insider》電子報由總編輯 Gretchen Gavett 撰寫，內容涵蓋三個主題：為何客戶推薦值得獲得更多戰略關注、為何頻繁跳槽的員工可能被低估，以及領導者從中學習到關於人工智慧實際影響的見解。",
+      "judgment": "該報導指出企業需重新審視客戶推薦的戰略價值，暗示傳統衡量指標可能不足以反映真實的客戶忠誠度與品牌擴散效應。同時，文章提及對頻繁跳槽員工的價值重估，反映人才市場動態變化下，企業對流動性人才潛在貢獻的認知轉變。此外，領導者對 AI 實際影響的學習過程，顯示組織正從技術導入階段轉向務實評估其商業成果。這些趨勢共同指向企業需在客戶關係管理、人才策略與技術應用三方面進行更精細的數據驅動決策，以應對快速變化的市場環境。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/a-new-way-to-measure-customer-referrals"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Why the AI-Powered Enterprise Urgently Needs a New Leadership Mindset",
+      "url": "http://feeds.harvardbusiness.org/sponsored/2026/08/why-the-ai-powered-enterprise-urgently-needs-a-new-leadership-mindset",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論刊登由安永（EY）贊助的內容，標題為「為什麼 AI 驅動企業亟需新的領導思維」。該文章指出，隨著人工智慧技術在企業中的應用日益普及，傳統的管理模式已無法應對新挑戰，企業領導者必須轉變思維，以適應 AI 時代的運營需求。",
+      "judgment": "在 AI 技術快速演進的背景下，企業若僅將 AI 視為工具而非戰略核心，將難以發揮其最大價值。安永透過此贊助內容強調，領導者需具備跨領域協作、數據驅動決策及倫理治理等新能力，方能引導組織成功轉型。此趨勢顯示，未來企業競爭力將取決於領導層對 AI 的戰略理解與執行力，而非單純技術導入。缺乏相應思維變革的企業，可能面臨效率落後與市場邊緣化風險。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/sponsored/2026/08/why-the-ai-powered-enterprise-urgently-needs-a-new-leadership-mindset"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Climate Goals Are Worth Setting—Even If They’re Aspirational",
+      "url": "http://feeds.harvardbusiness.org/2026/08/climate-goals-are-worth-setting-even-if-theyre-aspirational",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論的新研究指出，企業設定溫室氣體排放目標能鼓勵供應商投資氣候創新技術，進而推動減碳進程。該研究強調，即使這些目標具有願景性質（aspirational），仍對產業產生實質激勵作用。",
+      "judgment": "企業設定具願景性的氣候目標，雖可能無法立即達成，但能形成強大的供應鏈傳導效應。供應商為配合客戶的減碳要求，主動投資清潔技術與創新流程，加速整體產業的低碳轉型。此現象顯示，目標設定本身即是一種戰略工具，能引導資源流向綠色創新領域。在監管壓力與投資者關注日益增加的背景下，企業透過設定高遠目標，不僅提升品牌聲譽，更實質驅動供應鏈重組與技術升級。這種「願景驅動型」減碳策略，正成為全球企業氣候治理的重要趨勢。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/climate-goals-are-worth-setting-even-if-theyre-aspirational"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

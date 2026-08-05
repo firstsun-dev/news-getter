@@ -1,0 +1,39 @@
+{
+  "category": "AI",
+  "timestamp": "2026-08-05_03-15",
+  "stories": [
+    {
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "Hugging Face 發布了 LiquidAI 的 LFM2.5-2.6B 模型，該模型旨在支援在各種裝置上部署本地代理（local agents）。此舉標誌著小型語言模型在邊緣運算與本地化應用上的進展，讓開發者能夠在無需依賴雲端基礎設施的情況下運行 AI 代理。",
+      "judgment": "LFM2.5-2.6B 的推出顯示產業正加速朝向邊緣 AI 與本地化部署發展。隨著模型參數量優化至 26 億，其在效能與資源消耗間取得平衡，使手機、IoT 裝置等受限環境也能運行複雜代理任務。這將降低企業對雲端算力的依賴，提升資料隱私與回應速度，同時推動開源生態系在本地運算領域的擴張。長期來看，此趨勢可能重塑 AI 基礎設施架構，促使硬體廠商與軟體開發者更緊密合作以優化端側模型效能。",
+      "used_source_urls": [
+        "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "OpenAI 針對近期涉及其模型的第三方網路安全評估事件進行說明，並概述了旨在加強人工智慧模型測試與評估的新防護措施。",
+      "judgment": "OpenAI 主動公開說明第三方評估事件並推出新防護措施，顯示其正從被動回應轉向主動建立更嚴謹的模型安全治理框架。此舉有助於緩解外界對 AI 模型被濫用於網路攻擊的擔憂，同時提升監管機構與合作夥伴的信任度。在產業層面，這可能促使其他 AI 開發者跟進建立類似的第三方評估機制，推動行業標準化。然而，若評估過程缺乏透明度或標準不一，仍可能引發爭議。長期來看，強化安全評估將成為 AI 產品上市的必要條件，增加開發成本但降低潛在風險。",
+      "used_source_urls": [
+        "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [
+    {
+      "title": "What my agent knows about me",
+      "url": "https://www.bensbites.com/p/what-my-agent-knows-about-me",
+      "tier": 3,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": false
+}

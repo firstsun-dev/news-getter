@@ -1,0 +1,20 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-08-05_03-15",
+  "stories": [
+    {
+      "title": "Investors in Situational Awareness deserved to lose their shirts",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "The Economist 報導指出，一家對沖基金的困境更多反映了該基金本身的問題，而非其 24 歲的創始人。該基金投資於情境意識（situational awareness）相關領域，投資者因此蒙受損失。",
+      "judgment": "此事件凸顯投資者在評估新興科技領域時，過度依賴創始人背景而忽略基本面風險的盲點。情境意識技術雖具潛力，但市場波動與技術落地不確定性高，投資者應更審慎評估商業模式與團隊執行力。此案例也反映金融市場對年輕創業者的高風險偏好可能導致非理性投資行為，進而引發資金損失。產業界需加強對早期科技項目的盡職調查，避免盲目追隨熱點。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
