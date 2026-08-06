@@ -1,0 +1,44 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-06_14-27",
+  "stories": [
+    {
+      "title": "Growth favors the bold: AI as force multiplier",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/growth-favors-the-bold-ai-as-force-multiplier",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "麥肯錫指出，在 AI 驅動的增長新世界中，七種迷思阻礙了增長。克服這些迷思需要領導者專注於重新設計商業決策的制定方式。",
+      "judgment": "該內容強調 AI 時代的增長障礙主要源於認知誤區而非技術限制。企業若無法識別並破除這七種迷思，將難以釋放 AI 的潛力。關鍵在於領導層必須從根本上重構商業決策機制，將 AI 視為倍增器而非單純工具。這意味著組織需打破傳統決策流程，建立數據驅動且敏捷的商業模式，以適應 AI 帶來的快速變化。未能及時調整決策架構的企業，可能在競爭中落後，而率先重構者將獲得顯著增長優勢。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/growth-favors-the-bold-ai-as-force-multiplier"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "AI Experiments Need Domain Experts. Here’s How to Support Them.",
+      "url": "http://feeds.harvardbusiness.org/2026/08/ai-experiments-need-domain-experts-heres-how-to-support-them",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據哈佛商業評論報導，若缺乏適當的支援架構，最接近實際工作的領域專家往往會默默退出創新流程。該文章強調在 AI 實驗中，領域專家的參與至關重要，但現有環境常未能提供足夠支持，導致他們無法有效貢獻專業知識。",
+      "judgment": "此現象揭示企業在推動 AI 轉型時常忽略的關鍵盲點：技術團隊與領域專家之間的斷層。若缺乏系統性支援機制，領域專家因時間壓力、工具不足或溝通障礙而退出，將導致 AI 模型脫離實際業務情境，降低落地成功率。長期而言，這不僅浪費資源，更可能使企業錯失由深度行業洞察驅動的創新機會。成功導入 AI 需建立跨職能協作框架，包含專屬時間分配、簡化技術介面及雙向反饋機制，確保領域專家能持續參與實驗設計與驗證。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/ai-experiments-need-domain-experts-heres-how-to-support-them"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "How AI-enabled execution became Reckitt’s ‘tenfold game changer’",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/how-we-help-clients/how-ai-enabled-execution-became-reckitts-tenfold-game-changer",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Reckitt 透過 RGMx 系統改善了定價、促銷與產品組合策略。同時，該公司導入名為 Smart Execution 的解決方案，利用人工智慧與數據技術，強化產品在銷售點的可用性，並深化與零售商的合作關係。",
+      "judgment": "Reckitt 的案例顯示，消費品產業正從單純的策略規劃轉向執行層面的數位化轉型。RGMx 與 Smart Execution 的結合，標誌著企業不再僅依賴歷史數據進行決策，而是透過即時數據與 AI 演算法動態優化銷售點的庫存與陳列。這種「策略加執行」的雙重驅動模式，能顯著提升供應鏈效率與市場反應速度，為同業樹立了以數據驅動實現十倍增長的標竿。未來，未能整合 AI 執行層面的企業，將在零售夥伴關係與產品可得性上逐漸落後，導致市場份額流失。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/industries/consumer-packaged-goods/how-we-help-clients/how-ai-enabled-execution-became-reckitts-tenfold-game-changer"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

@@ -1,0 +1,44 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-08-06_14-27",
+  "stories": [
+    {
+      "title": "African countries are souring on the dollar",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/06/african-countries-are-souring-on-the-dollar",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據《經濟學人》2026年8月6日報導，非洲國家對美元的信心正在下降。該報導指出，人民幣及當地貨幣將從這一趨勢中受益。",
+      "judgment": "非洲國家對美元依賴度的降低，標誌著全球貨幣體系中美元霸權在發展中國家面臨實質挑戰。此趨勢可能源於美元波動性增加、美國貨幣政策外溢效應，或是非洲國家尋求貿易結算多元化以降低匯率風險。若此現象持續，將加速區域內本幣結算機制的建立，並提升人民幣在非洲貿易與投資中的使用比例。長期來看，這可能促使國際儲備貨幣格局從單極向多極過渡，削弱美元在全球貿易融資與外匯儲備中的絕對主導地位，同時為新興市場貨幣創造更大的國際化空間。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/06/african-countries-are-souring-on-the-dollar"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "How—and how much—should central banks talk?",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/06/how-and-how-much-should-central-banks-talk",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "The Economist 於 2026 年 8 月 6 日發表文章，探討中央銀行應如何以及應在多大程度上進行溝通。文章標題指出，央行溝通的藝術在於說得恰到好處，不多不少。",
+      "judgment": "中央銀行的溝通策略直接影響市場預期與貨幣政策傳導效率。過度溝通可能導致市場對政策路徑產生誤解或過度反應，而溝通不足則可能引發不確定性與波動。在當前宏觀經濟環境下，央行需在透明度與靈活性之間取得平衡，以維持市場穩定並有效引導預期。此議題對於全球金融市場參與者而言至關重要，因央行言論往往成為資產定價的關鍵變數。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/06/how-and-how-much-should-central-banks-talk"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "India’s IT sector is surviving artificial intelligence",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據《經濟學人》報導，印度資訊科技（IT）產業正在經歷人工智慧（AI）技術的衝擊。儘管 AI 技術的普及使得許多畢業生的就業環境更加艱難，但該產業整體仍處於生存狀態。",
+      "judgment": "印度 IT 產業正面臨 AI 帶來的結構性挑戰，特別是對初級工程師和畢業生的需求可能因自動化而萎縮。然而，產業整體的生存能力顯示其具備轉型潛力，可能透過提升高階技能、轉向 AI 相關服務或優化成本結構來適應新環境。長期來看，若印度能成功將勞動力從重複性編碼任務轉向更高價值的解決方案設計與 AI 整合，該產業仍有望維持競爭力。反之，若無法有效升級人才技能，則可能面臨人才流失與市場份額下降的風險。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
