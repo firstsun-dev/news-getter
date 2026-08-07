@@ -1,0 +1,32 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-07_13-18",
+  "stories": [
+    {
+      "title": "AI fluency: The next foundation of US economic competitiveness",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/ai-fluency-the-next-foundation-of-us-economic-competitiveness",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "麥肯錫指出，人工智慧（AI）的發展速度超過組織的適應能力。要達到下一個生產力前沿，取決於經濟體系中的勞動者是否能夠獲得所需的習慣與技能。",
+      "judgment": "此新聞強調 AI 技術迭代速度與組織轉型速度之間的顯著落差，預示著未來競爭力的關鍵將從單純的技術部署轉向人力資本的「AI 素養」（AI fluency）。若企業無法加速員工的技能重塑與習慣養成，將難以釋放 AI 帶來的生產力紅利，進而影響整體經濟競爭力。這意味著企業策略需從基礎設施投資轉向大規模的人才發展計畫，教育體系與職業培訓機構也需重新定義技能標準。未能掌握此趨勢的組織可能面臨效率落後與市場份額流失的風險，而能率先建立 AI 素養生態系的國家或企業，將掌握下一階段的經濟主導權。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/ai-fluency-the-next-foundation-of-us-economic-competitiveness"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "How to close the agentic adoption gap",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-close-the-agentic-adoption-gap",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "麥肯錫指出，AI 轉型本質上是工作方式的重新構建，這需要變革領導力（change leadership），而不僅僅是變革管理（change management）。",
+      "judgment": "AI 轉型的成功關鍵在於從單純的流程優化轉向根本性的工作模式重構。傳統變革管理側重於執行既定計劃與控制風險，但面對 AI 帶來的不確定性與快速迭代，組織更需要具備願景驅動、適應性強的變革領導力。這種領導力能引導組織突破現有框架，重新定義人機協作模式，從而縮小「代理式採用差距」（agentic adoption gap）。若企業僅停留在管理層面的調整，將難以釋放 AI 的潛在價值，導致轉型停滯或失敗。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-close-the-agentic-adoption-gap"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
