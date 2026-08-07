@@ -1,0 +1,20 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-07_02-57",
+  "stories": [
+    {
+      "title": "AI Experiments Need Domain Experts. Here’s How to Support Them.",
+      "url": "http://feeds.harvardbusiness.org/2026/08/ai-experiments-need-domain-experts-heres-how-to-support-them",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據哈佛商業評論報導，若缺乏適當的支援架構，最接近實際工作的領域專家往往會默默退出創新流程。該文章強調 AI 實驗需要領域專家的參與，並探討如何為他們提供必要的支持。",
+      "judgment": "在 AI 技術快速發展的背景下，領域專家的參與至關重要。若企業未能建立有效的支援機制，將導致關鍵人才流失，進而削弱 AI 項目的實際應用價值與創新潛力。此現象凸顯組織在推動數位轉型時，必須重視跨領域協作與人才保留策略。唯有透過結構化的資源配置與管理機制，才能確保領域專家持續貢獻其專業知識，提升 AI 實驗的成功率與商業價值。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/ai-experiments-need-domain-experts-heres-how-to-support-them"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
