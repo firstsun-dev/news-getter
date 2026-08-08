@@ -1,0 +1,44 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-08_02-05",
+  "stories": [
+    {
+      "title": "Research: How Remote Work Is Narrowing Early-Career Opportunities",
+      "url": "http://feeds.harvardbusiness.org/2026/08/research-how-remote-work-is-narrowing-early-career-opportunities",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據哈佛商業評論的研究，企業對初階求職者的僱用意願降低，導致新生代獲得的工作機會減少。遠距工作模式的普及被認為是造成此現象的關鍵因素之一，使得企業在招募新人時更加保守。",
+      "judgment": "遠距工作常態化正重塑人才培育生態，企業因缺乏面對面指導機制而縮減對初階人才的投資，這將導致產業面臨技能斷層與創新動力減弱的長期風險。當資深員工與新人互動頻率下降，非正式知識傳承（如觀察學習、即時反饋）受阻，企業傾向於直接聘請具備即戰力的中階人才以降低成本，進而壓縮新人進入門檻。此趨勢若持續，不僅加劇青年失業問題，更可能削弱產業整體的長期競爭力與人才庫深度。政策制定者與企業需重新設計混合工作模式下的導師制度與數位化培訓架構，以平衡效率與人才發展需求。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/research-how-remote-work-is-narrowing-early-career-opportunities"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Algorithmic Shopping Is Here. Is Your Company Ready?",
+      "url": "http://feeds.harvardbusiness.org/2026/08/algorithmic-shopping-is-here-is-your-company-ready",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論發表文章指出演算法購物時代已經到來，企業高階主管需面對此趨勢。文章提出針對高階管理團隊的五項支柱審查框架，以評估企業是否已為演算法購物做好準備。",
+      "judgment": "演算法購物的興起標誌著消費決策權從人類轉向自動化系統，這將徹底重塑零售與行銷產業的競爭格局。企業若無法透過五項支柱審查，將面臨被市場邊緣化的風險。此趨勢要求企業不僅要升級技術基礎設施，更需重新定義客戶體驗策略與數據治理架構。未能適應此變革的公司將失去對消費行為的洞察能力，進而導致營收下滑與品牌價值萎縮。產業領導者應立即啟動內部審計，確保組織具備應對演算法驅動市場的敏捷性與戰略視野。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/algorithmic-shopping-is-here-is-your-company-ready"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Crafting Strategy in the Age of AI",
+      "url": "http://feeds.harvardbusiness.org/2026/08/crafting-strategy-in-the-age-of-ai",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論發表文章探討人工智慧時代的戰略制定，指出人類戰略家應利用 AI 釋放時間，專注於發揮其獨特的判斷力。",
+      "judgment": "在人工智慧快速發展的背景下，企業戰略制定的核心價值正從數據處理與模式識別轉向人類獨特的判斷力與情境理解。AI 能夠高效處理海量資訊並提供分析基礎，但最終的戰略決策仍需人類結合道德考量、組織文化及非結構化資訊進行綜合判斷。此轉變要求企業重新定義戰略家的角色，從繁瑣的數據分析中解脫，轉而培養批判性思維、創造力及跨領域整合能力。若企業能成功將 AI 作為輔助工具而非替代者，將大幅提升戰略的靈活性與適應性，從而在不確定的市場環境中建立競爭優勢。反之，若過度依賴 AI 而忽視人類判斷，可能導致戰略缺乏深度與人文關懷，難以應對複雜多變的商業挑戰。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/crafting-strategy-in-the-age-of-ai"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
