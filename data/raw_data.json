@@ -5,10 +5,10 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "content": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "fingerprint": "0a79905e7acf97097c830dd8654f0c70fa0d7a4139151022cf0ee143ac037e6e",
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "content": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+      "fingerprint": "bc535b981e9c06a6d802eb7052bbbb815b27032931ce30171a765467777563cb",
       "seen_count": 1,
       "sources": [
         {
@@ -23,9 +23,9 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "US Senate narrowly confirms Todd Blanche as attorney general",
+      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
       "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-      "content": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off.",
+      "content": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
       "fingerprint": "1daa6d6090fd39c756fb00f8a8cd7edc17087e071d387be5e4ad46aac07920df",
       "seen_count": 1,
       "sources": [
@@ -41,10 +41,82 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "The phone book that led us to Assad's spy chief in hiding",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
-      "content": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
-      "fingerprint": "e053d7298790b477046f0a32110149eafb0177a08a6cb83cc35c185f1edef472",
+      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "content": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+      "fingerprint": "7ce544aaccbb5bc02ead0296ac42ee893882aedd6eddef5798096d0c41339c78",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Messi's father Jorge dies aged 68 after illness",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+      "content": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
+      "fingerprint": "7e4c6b547bc02624c3675b70ef04fb7bd90fc2393ecf403adbbfb29b9aa944cc",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+      "content": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
+      "fingerprint": "fb43c1a336ab28b9d5f6f6dae2e85bc68e074c6e93f559dd3bb6a9b1faafd7f5",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+      "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+      "content": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
+      "fingerprint": "c20e102b4b445109560831b3452fc81284795c63347c739daa4844092e2740da",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Paris tells e-scooter riders to wear safety gear or face fines",
+      "link": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
+      "content": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
+      "fingerprint": "e4c8b17895d1d40c3913c4d4231af5a3abc906eeaa98ab4d1540f1bbf19f1cb3",
       "seen_count": 1,
       "sources": [
         {
@@ -77,10 +149,46 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-      "content": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
-      "fingerprint": "7ce544aaccbb5bc02ead0296ac42ee893882aedd6eddef5798096d0c41339c78",
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "content": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "fingerprint": "0a79905e7acf97097c830dd8654f0c70fa0d7a4139151022cf0ee143ac037e6e",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "link": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+      "content": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+      "fingerprint": "7ef84614386a0edfcc94d5f36ef13b2afcb9ea360a60dda657486dede7691f6a",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "content": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
+      "fingerprint": "ef07dd28d3dbb858b2c58d98db556a9cdfb339226215d277f6a360f1bf7230b6",
       "seen_count": 1,
       "sources": [
         {
@@ -113,10 +221,10 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
-      "content": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
-      "fingerprint": "2704d98f21cc59a03ccfd58b3ffb97069f8b5c55ffa19e427d146aacd619a978",
+      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+      "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+      "content": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
+      "fingerprint": "28ff02d1b87639423b2d4680f7f48004a17522705520e7a95aa00f84e57d9e71",
       "seen_count": 1,
       "sources": [
         {
@@ -131,47 +239,11 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-      "content": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
-      "fingerprint": "790541e4e1e5e714fdbe13c5eb01e13ed2b536a47d33b71af19b507e31238b93",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "BBC News",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "BBC News",
-      "category": "Global",
-      "tier": 2,
-      "role": "professional",
-      "title": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
-      "link": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
-      "content": "For decades, an Indian man's lime shoes have been a grim trail marker for many climbing the world's highest peak.",
-      "fingerprint": "4f800d1969761f69afc173e1aae9a11f9e4e998a6f920e13564d0611cdbe3c41",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "BBC News",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "BBC News",
-      "category": "Global",
-      "tier": 2,
-      "role": "professional",
-      "title": "Scale of devastation shocks US city's fire-seasoned residents",
-      "link": "https://www.bbc.co.uk/news/articles/cvglpvgljzdo?at_medium=RSS&at_campaign=rss",
-      "content": "One Spokane resident tells the BBC she realised the immense danger when she heard the fire had jumped over the river.",
-      "fingerprint": "be3e55c6c4004b291b0151b53ce4adcba2fad6a5073b37a9133a1cf8c9310f0d",
-      "seen_count": 1,
+      "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+      "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+      "content": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
+      "fingerprint": "c20e102b4b445109560831b3452fc81284795c63347c739daa4844092e2740da",
+      "seen_count": 2,
       "sources": [
         {
           "name": "BBC News",
@@ -183,11 +255,29 @@
   ],
   "Finance": [
     {
+      "source": "Investing.com Bonds",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "China’s producer inflation eases in July, below expectations",
+      "link": "https://www.investing.com/news/economic-indicators/chinas-producer-inflation-eases-in-july-below-expectations-4847696",
+      "content": "",
+      "fingerprint": "e76ef049fd41b1b2de6147d4321675a083b56d8e827fd4d96795fbeb7201c034",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Investing.com Bonds",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
       "source": "Investing.com Gold",
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself",
+      "title": "Iran says deal on Strait of Hormuz is close but not enough to open the waterway",
       "link": "https://www.investing.com/news/commodities-news/iran-says-deal-on-strait-of-hormuz-is-close-but-will-not-open-the-waterway-by-itself-4847656",
       "content": "",
       "fingerprint": "f741def2e5c9e875d1fb345910860d30116af0c3320b9473ffff12adba308c1f",
@@ -201,122 +291,14 @@
       ]
     },
     {
-      "source": "Investing.com Gold",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Citadel Securities’ Rubner says it’s time to start buying gold again",
-      "link": "https://www.investing.com/news/commodities-news/citadels-rubner-says-its-time-to-start-buying-gold-again-4847142",
-      "content": "",
-      "fingerprint": "a9742e840fc08b19e3f90d6325dd86a47c671ff44d3c5a2cbb0aae6c9fc25bea",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Investing.com Gold",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Investing.com Gold",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "New Colombia president pledges robust fight against crime, fiscal austerity in maiden speech",
-      "link": "https://www.investing.com/news/commodities-news/de-la-espriella-to-take-office-as-colombia-president-on-pledges-of-security-crackdown-4845932",
-      "content": "",
-      "fingerprint": "9fc92cb433f328c41b79cb9646eef4a5d230413ee24b7ca01d79fb89ec47e6bf",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Investing.com Gold",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Investing.com Gold",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "US to partially restart activities in Mexico’s avocado hub",
-      "link": "https://www.investing.com/news/commodities-news/us-to-partially-restart-activities-in-mexicos-avocado-hub-4847555",
-      "content": "",
-      "fingerprint": "8271a5192defed28bfc4a606bb0ecebee0385fc5745968e3164f244e2532d159",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Investing.com Gold",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
       "source": "Financial Times Markets",
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Landmark crypto bill stalls in US Senate despite $225mn spending push",
-      "link": "https://www.ft.com/content/352a15ac-53c4-46eb-b75e-957f0388dc79?syn-25a6b1a6=1",
-      "content": "Lobby struggles to pass top priority in Congress as lawmakers spar over legislation",
-      "fingerprint": "5e41ccd5ac72020ff75065029f99d65a776a511bb22bd0d89c359d5e5f20b8c9",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Financial Times Markets",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Financial Times Markets",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Currency interventions have a mixed record",
-      "link": "https://www.ft.com/content/d2248ee9-edb5-445c-b89b-425e033a19fa?syn-25a6b1a6=1",
-      "content": "You can’t fight macro with FX interventions",
-      "fingerprint": "ab49efedee40d4dabd9a40a3330a37ab445b04dafc030b9d682aaf41f5e0f6d7",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Financial Times Markets",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Financial Times Markets",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "The US bares its financial weak spot",
-      "link": "https://www.ft.com/content/fb49381a-3e09-4666-85b0-7a171e01394e?syn-25a6b1a6=1",
-      "content": "Yen intervention points to the squishy underbelly of American weakness",
-      "fingerprint": "0c1b89fd90748104d41727443eb3bc26bbe7a6ba69c906679e52ee3b8ebaffc0",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Financial Times Markets",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Financial Times Markets",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "A short history of valuing stocks",
-      "link": "https://www.ft.com/content/5ef8cb99-deae-4c9a-be1f-be791ae6b1cd",
-      "content": "I’ve spent my career trying to find what shares are really worth — will it protect me from losses in the next crisis?",
-      "fingerprint": "54c470c3763020a4efbcf39179dcf789eb50a5ca4dcd75955ad134f7e9d7cb06",
+      "title": "Tehran says US must ‘rectify its behaviour’ before Iran reopens strait",
+      "link": "https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1",
+      "content": "Senior security official wants Washington to pay compensation for war damage",
+      "fingerprint": "31e11d4023d6d77b34480eb732b078e7a3359d3bc2e4c7dac9791fe1bda93922",
       "seen_count": 1,
       "sources": [
         {
@@ -333,10 +315,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Berkshire Hathaway Buys Back $4.5 Billion of Its Own Shares - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYWN5d0ZqdFVlUlhIMUQzcG5GMHE0cFJPZGc4UGJiNC1pWXVFb0h5S0RkbWpCNWFwVHNOakpxUDBnUlZmYll0ZFZ0TmhCZHgyUlUzOVFaX0JzNWZEem9vcldhVUdVOXhIem1fdlpIUUdCS0lLS2MyUWE5bnNXOFJIQ1ZhMFJoLWFTTDFvcWtyRFZ5cGFuVnBXNGdxS0NwaW1zaXpDUkNWLUZqbzRmclE?oc=5",
-      "content": "Berkshire Hathaway Buys Back $4.5 Billion of Its Own Shares Bloomberg.com Greg Abel finally puts Buffett’s cash pile to work Financial Times Berkshire Hathaway earnings, CPI inflation data, & more: What to Watch Yahoo Finance Berkshire Hathaway Beats Earnings Views, Ups Buybacks, Cuts Cash Hoard Investor's Business Daily Berkshire Hathaway Is Set to Report Earnings Saturday. Here’s What You Need to Know Investopedia One Thing I’m Watching: Berkshire Hathaway’s Cash Hoard WSJ Berkshire Hathaway Q2 earnings on deck; look for buybacks, cash, float (BRK.B:NYSE) Seeking Alpha Greg Abel Reports Saturday Morning. Berkshire Stock Just Hit a 52-Week High and Is Still Behind the S&P 500 This Year. The Motley Fool Here Is Berkshire Hathaway Stock's 2026 Outlook, According To Experts Forbes",
-      "fingerprint": "bb33b63cf1f71a0225de6c8831b77cf5aa43b60bd9db72cbc60ef342ea9f14f1",
+      "title": "Greg Abel finally puts Buffett’s cash pile to work - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObkdieWhTMkIxM0FYSDRGMmQxZU02bzRfMzBJMVFrVWVLNzhDSG4tbC1GUm9FQ2luajZETlZvdURGVkpEX2tBOTNlOGFiMlU1V3VXNkNLd0JCVjNuYUFNVTVkRDcxMTdzcEJnVVg4N05nb0M1WEQ2X3Q1NVdqQXlacndNVTI?oc=5",
+      "content": "Greg Abel finally puts Buffett’s cash pile to work Financial Times Berkshire Hathaway's new CEO Greg Abel spends a chunk of the company's massive cashpile Dallas News Berkshire Hathaway, Under a New CEO, Starts to Spend Its Cash Pile WSJ Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard CNBC Berkshire accelerates buybacks, lowers cash stake as profit tops forecasts Reuters Berkshire Hathaway Buys Back $4.5 Billion of Its Own Shares Bloomberg.com Warren Buffett's successor is finally spending the huge cash pile he built at Berkshire Hathaway businessinsider.com Berkshire Operating Earnings Rise 16% in Second Quarter. Buybacks Hit $4.5 Billion. barrons.com Berkshire Beats Earnings Views, Ups Buybacks, Cuts Cash Hoard Investor's Business Daily",
+      "fingerprint": "6206d4fdd4fa96434428516320cbbb864e7722321efc7f3dbb27c85f6578c6bf",
       "seen_count": 1,
       "sources": [
         {
@@ -351,10 +333,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Berkshire Hathaway Inc. News Release - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS3NHSzVzTHctYjhxanlwdmNMbWtDRHZBZkp4djkxUUZhaXVlN3JnckFLNnpYSkdURUlTclVBYUVNVFUwNG5wNzJJenJrRFhIVElITkFfREhkNGxDdHlmajlBTTNocXRMb2ZEWm1JWXZOZnB4SkVvMlMyWnhRbm9qa1lpeWR4dXc5YWY1U0NhbnMweFlXMmE4MkRmeEY5R2w5MkE?oc=5",
-      "content": "Berkshire Hathaway Inc. News Release Yahoo Finance",
-      "fingerprint": "388d1c026366e251b42b83a25a5a3b398cd2b81f7ba6c1d53fd30a6c8997a2fc",
+      "title": "Berkshire Hathaway Earnings: Cash Balances Retreat on Increased Investments and Share Buybacks in Q2 - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMm9DTDNMRjNDNG1PRzZnWF8zLXJMeURJM0NKdVNLMzVYbVVxNm9DVS13M1pNVDF0WVBUQ3M2SGZYM1JRb1BCR3lqYXFsdlpmb1RoSTRsSHc2NTh1eDAyQzBZN3djOFVuY28zQ0o1anpRekd3UG9DSlFKRnNPV1kxc2dadHZ4UXl4NTdTTDUxVmRkSEhQeUdJQV9sWVFQbmk5X0dYYWRUWC1NeWQ2Y3BYMXBoMVRlNlVyU2xFY09LM2lJZw?oc=5",
+      "content": "Berkshire Hathaway Earnings: Cash Balances Retreat on Increased Investments and Share Buybacks in Q2 Morningstar",
+      "fingerprint": "e695bd91ccb5569038c1b6797de75b7237a9bfdc9d88c2bb24b6ccc0003df5e3",
       "seen_count": 1,
       "sources": [
         {
@@ -369,10 +351,46 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Berkshire Operating Earnings Rise 16% in Second Quarter. Buybacks Hit $4.5 Billion - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0w3S2hXRU1uaGlyZVIwbTc5ZExLeE5GSjdGNGVYVHhhQ0x6dWJjMkRDRmZzSVl3cGJhLWQxSWVWT1NMV0VDbUFkM1lPbVZvNk03Wnpfb3k0VEI5MXFIbFhUZ3h5TE5ndVBESVkxWmhrckltMlk1UGlCbHFodmF5enlCUkxyU01G?oc=5",
-      "content": "Berkshire Operating Earnings Rise 16% in Second Quarter. Buybacks Hit $4.5 Billion Barron's",
-      "fingerprint": "8ee447976006bab120c33947f69b35a7c31be71f1046aedf33b9e4d3be61d1eb",
+      "title": "Berkshire Hathaway Earnings Beat As Abel Deploys Buffett’s Cash Hoard - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSnBsZ2lLU0hiSk5yY2xsQVRfZTVmMWZza0pBYV8xdXg5VTFtQXo5dy0zMEpoNExzZWdOcnc2RzVSTVpiTDd3aWo0MFIzbU1CWTJ2RmI4MU9xUTNzendfcVRrOVVBWVB5Z3dyZ2NsQ0F1dGxrRENld2l5OU81T3NCeUFtV2JzczV5cXFqSkVEQ0xZS1ctbGZFeVQzVU9jeklya2szaEprelh0NWhwbnhnal9aamlQaUlkZ2NlYw?oc=5",
+      "content": "Berkshire Hathaway Earnings Beat As Abel Deploys Buffett’s Cash Hoard Forbes",
+      "fingerprint": "c9f6c14e22c5cf26e2a46b364660ff5f30d4cbae2af5563cb6392ae34218e753",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway Just Did Something It Hasn’t Done in More Than 3 Years - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWHZtSWtScFBscGpnS1ZhakNyTkJrdVFNTHotalA3NEFQd2ctWXpzNFhES2tfQ0M1SXFHYzhIT0JELVdlQTRCakFtVGlJVDl2RUhULURrZ1huR3k0azZRM0RWbnhxSDBMcGVldGZ0Z2hHVHFxSWhkV2UzeGNrQ3NjT21zY0RpUHFoVVFmTWMwRDVfZ2hnazJFTzlQZnZSSGhHNVpyOA?oc=5",
+      "content": "Berkshire Hathaway Just Did Something It Hasn’t Done in More Than 3 Years Yahoo Finance",
+      "fingerprint": "01ed936d83f5d0084dba70e266f2f0cfa728ec1917b64933d998c73a61eca467",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway's new CEO Greg Abel spends a chunk of the company's massive cashpile - AP News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdDJRN1VtN3BjamtTandUNHQ5dmJYVUZfTmx2RmJrdjhKS3h0V2FwNUFpcTZiLWdKT0l5U3ZHY1ZRLW9Gc3lHRU5qWUhKUGdMb2hJTFRHTkVZTTFEYXVnM1hJMk0wbUN5WjFUdXhXemRpR25Rc2xvYk9Ob3VRWmh3M3FLMHN5anBJdm4xd3E0Q0wtYk8zd2xudFZZby1RbzdQcDdUS2NXX0c3dnk1UlRXQUx3?oc=5",
+      "content": "Berkshire Hathaway's new CEO Greg Abel spends a chunk of the company's massive cashpile AP News",
+      "fingerprint": "6f4488cb7c974aac413d7e6be887c5a52c53ed3fca4101c5d0257e42f2e35924",
       "seen_count": 1,
       "sources": [
         {
@@ -405,10 +423,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Berkshire’s profit doubles as equity holdings surge; Cash nears $360 billion - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTVCWGg0dmRiWUg4SXA3TzJQU1lwWjE1eTEyTkV3R1hyS0taUXl3UXhsNE5RSzRJR3ZBV1JhaGo4RUpuUDI3WXhOMlBiNXJtSzgxSmxuY3VGUHRIU3JEOXF4NXV5TUMtVnZ3eVEybUFVd3l0eTloR2VCUWF6YUJfdEhqM2w5aXhXLXBtUEV6X0xtaGxPQWJtbERGellRenE4c2c3Y001Y1NwQWJGa0VfS0NxbGpGc2ZEa1M5aHlsRGVoNU00ZzhuSEtn?oc=5",
-      "content": "Berkshire’s profit doubles as equity holdings surge; Cash nears $360 billion Investing.com",
-      "fingerprint": "2ef8cd98116d65ccbed96a3ca2d1e9c945494555dcee28419fd23b05a12cb5a0",
+      "title": "Berkshire Hathaway buys $10 billion in Alphabet stock and repurchases $4.5 billion in shares - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTFh2ZGUzaFZrNG9XQTd2dVBHLVdzU3dqb0xmMjNEa0d1SVFKaHpRMHpoNm5HZjJ0UUlqQTNIOF9mTmJvWVpwYkwtaHNvYkJFNjBvZktiVWRHSWk0amtDR21zNW9PeGlobWR1YXV5ZXoyWE0wSU01eThKeEQ0NjR0SWFSNjVob1J1bTdIcl9uTW5xSkFjUUhERUZJZzBHRkFSdDRhamdwYUVvU19TOUtwZXdjWUtuazhwRHZUVjNOWWdMOS1URmlzMGlSTG5XOUZlVnJyZDh2Q0Zsdw?oc=5",
+      "content": "Berkshire Hathaway buys $10 billion in Alphabet stock and repurchases $4.5 billion in shares Fortune",
+      "fingerprint": "6e8432bd2c1d6215508896b7424dfd721cdefe29e00e2964cabaf80ed02610ae",
       "seen_count": 1,
       "sources": [
         {
@@ -423,10 +441,442 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Berkshire says operating profit rises, conducts stock buybacks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNanEtR0taa1FKLWV2SVExLS1nRmp5Y2FXcXduQnpLU0ljOElYdXRRQUJiOEx6cktnWEFSVGcwYUNrMjBuNk5kVVhFbkpzQzhoR2VqT3dCRVZFdWdyMkxLaVBNcjJlWnFTVWM3NGNudTJPbnlUU0pXWlItcFpZcEFhdjExZ3JtUUxyOFg4RFJ2LXhmVmFkMEFvQWRVRXRCRXJROG9oVDkxb2Q3elRUd05BZlItQTQ1Mm9jNHd5NDVR?oc=5",
-      "content": "Berkshire says operating profit rises, conducts stock buybacks Reuters",
-      "fingerprint": "3b3afedc6103af066b1614483c666075426ebb08875de32cc00b910f9dd36014",
+      "title": "Berkshire Hathaway Inc. News Release - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS3NHSzVzTHctYjhxanlwdmNMbWtDRHZBZkp4djkxUUZhaXVlN3JnckFLNnpYSkdURUlTclVBYUVNVFUwNG5wNzJJenJrRFhIVElITkFfREhkNGxDdHlmajlBTTNocXRMb2ZEWm1JWXZOZnB4SkVvMlMyWnhRbm9qa1lpeWR4dXc5YWY1U0NhbnMweFlXMmE4MkRmeEY5R2w5MkE?oc=5",
+      "content": "Berkshire Hathaway Inc. News Release Yahoo Finance",
+      "fingerprint": "388d1c026366e251b42b83a25a5a3b398cd2b81f7ba6c1d53fd30a6c8997a2fc",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway Buys Back $4.5 Billion of Its Own Shares - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTE4aEoyR2xYOWtLR3ZsMDFsQ3dXZlVFZ3dnRDBUeEE3SEdiV1RmSnlRc2xkODhESVdWVU9mcWRWd05ETUUyOEt6NGlhRnktSDdOTjdHMmg2YS03Y09FN292T1d2VWlOaUx3UEt4SVNpUzV3Q3JIZnNNWVpPR2RtNU83dHFXNDVVS2I3aHdpSnE2TVpGY0l4UnhKSQ?oc=5",
+      "content": "Berkshire Hathaway Buys Back $4.5 Billion of Its Own Shares Yahoo Finance",
+      "fingerprint": "b02da006aa60c57dbdf5f8e8c3f60a7fdb1666ccfd1985eabed6d6691e18eae2",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Warren Buffett's Successor, Greg Abel, Just Ended Berkshire Hathaway's 14-Quarter Selling Streak. Is This the Screaming Buy Signal Investors Have Been Waiting For? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdTJsclVvY25fZjBuTGZNUkpWOXEtQk1SZ2o4NFFhd05KdkoxTmZpQU11aTIxcUdYaVRPSG5wakFUcEdRME84b3Njc2lBWGpkVENTN0VMZWJCOU9EUjhIU2tlUjhpRlhxcmpLWVVPdEpzZWhndzJLMjNJT3RDSjVTQ0lnZ1pZU2dQUldHUi1tSmhtZW9wYUhoMTlRaEppZjFyb3c?oc=5",
+      "content": "Warren Buffett's Successor, Greg Abel, Just Ended Berkshire Hathaway's 14-Quarter Selling Streak. Is This the Screaming Buy Signal Investors Have Been Waiting For? Yahoo Finance",
+      "fingerprint": "370d84cc4416903b54a10997d4d4c09571a60d94988c3f8552061b435f86c460",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire’s profit doubles as equity holdings surge; buys back $4.5 bln shares - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHZFdmgxZW9JTnM2cFdKRkVjQXQ0dVdEN2dFc3oxNzRPRnRWOWEyVThmTGdqaUwxQTBfcGc1bldMVktodzRxZHBvWmFDRlpRMVgyTm5MTm5jdTM3UmxBakdGTUNTY3FNNXpPeWVycjVEMmk0UUwySDAyeHZibVFJYXUxLXp0SnBTRzZGSEpuRlpwMFVyZm1tVmdieWlEeUI0SjVjMDdrVjA?oc=5",
+      "content": "Berkshire’s profit doubles as equity holdings surge; buys back $4.5 bln shares Yahoo Finance",
+      "fingerprint": "c3d4ec04d09e1cd868884c31a48123491f236229e25aa393d1a396535210a43f",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway profit doubles, fueled by a near $13 billion investment gain - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMF85WkFHMlhXbmN3c0lkN3pGbWtVQXdwc0VHR0hlS1gyM3UzNmZFNEI1dUxDY1I4bHE1X1JkMkJ4bjFYQUhESkVCZzRwWGduR0VDazZaM3lmaFZOQW5KNVlxbUtFX0tqUVctbjk4N0ZnSnJEOW80NW94R08wM3ZmcnZzV2xubUt6YzB2MTFQNmJXc3RTdjBqaGxwUVN4ajlYWm1pLUp5RW1zNjcxNmRqVFR2c2dxREctU2pjVA?oc=5",
+      "content": "Berkshire Hathaway profit doubles, fueled by a near $13 billion investment gain MarketWatch",
+      "fingerprint": "991da75c98a3d3b65bcd78c22c1fb600749b27063e18e8fea91b31d8d4a2de08",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Warren Buffett's Successor, Greg Abel, Just Ended Berkshire Hathaway's 14-Quarter Selling Streak. Is This the Screaming Buy Signal Investors Have Been Waiting For? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNdDlCRjc0QmZVSWk4Tk9OTzFCQUJtUXU3VHFKRHRCTjFDSno3RUFaMmY1aEFfMzhlcmszeExyYXM0VTByU0R2YVd1OEZwU2NlRXVWZ09KQXN5ZElRNF94VkZqUmJxaVBnYlRZdS1UMjllUHI5d2ZVb1lXSHpCUjNUQW12dlVuTHg4TC1FV0xYYkxORmtVUXdfVTdwelZBX2ZSRUR3WXV0V1JmR3Q3RWM1UzVjVVU4VVpTQzNxNXh1M3cwVVNuaVRPU3JIMXAxVWJCcmZQZG1DVmpsN1E4MGFxY05Zbjg1Y1VnSUU5VXBaSE1VeGpZS3N1XzNVVk0xS3pBOElPcUxnZTdyY2NSdkJlS2owRnFQYmo0SDBpcDlCZzRGNTI2VE0wRXd3?oc=5",
+      "content": "Warren Buffett's Successor, Greg Abel, Just Ended Berkshire Hathaway's 14-Quarter Selling Streak. Is This the Screaming Buy Signal Investors Have Been Waiting For? The Motley Fool",
+      "fingerprint": "0b02a9f48423e256a61fe6776d537b770aa4bbfbd34720673fd8202642b0a1c3",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "NetJets boosts Berkshire Hathaway aviation revenues 15% in Q2 - Private Jet Card Comparisons",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdjNqSUNXNW9TOEIwcnc5VzFYUjk4MzlTcmJHTXpsLXVlYWZqdmY0NVpGSjBNTDVIa0ZYU0NFTEFta2QwVHpQMEVXMERubExwS05FMkd2Z3BVY2J0YVhhOV9DLUN6VHJZOTFDNWFsNnZwRXpPSU8xVWQzSF9UT3A0SzBYNjdVZWxQbVZidHdqVmNQd3pGaGVXQXhCcVZIQW9sbjhvRGJJeGU2WkhUUS00?oc=5",
+      "content": "NetJets boosts Berkshire Hathaway aviation revenues 15% in Q2 Private Jet Card Comparisons",
+      "fingerprint": "b12ef36d7bb1e56ffb04d0e0699de9fe606185a2e874f53146f9d8aa606b7648",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Don't Be Fooled: Warren Buffett's and Greg Abel's $366 Billion Warning to Wall Street Echoes Louder Than Ever - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWG8yRHZ2LUhWYndOdno5OHJ3SmZhakEtcUk3OFJsd285UENQQjh2cDBWS0pGSkcwdE4weERLSTdNbEdnUk03UjQ5b2R0UXVrTzF2aVpBLTVoa1RzZHdkVGdFVnZRZGNxQWtrYkdSLUJ4T0xONDNCdWF1LS1zOEtqaGJwMjhiQWxXWTlLUkJFZ0pnb1lDLUZsZXJnWGxxZw?oc=5",
+      "content": "Don't Be Fooled: Warren Buffett's and Greg Abel's $366 Billion Warning to Wall Street Echoes Louder Than Ever Yahoo Finance",
+      "fingerprint": "ddec0cefbe96b8310b1e784e43fb032fbe493b566d5c8083f574a698d481d8a1",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway insurance earnings fall 14% in Q2 2026 - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcWEtd0k0cm9WVVJlVXlPVG05YnNxWjBuZ050bWZwTnZiMUIxWHduVEVTNFJZVTBiVVhnaGRmeVRzTTBjZWUyZExoVWxELWNtOW5WWm1ZOFc4dnNBMGpwYXlKYTBVbUxESklHMkhpc1kzN2ZQTV9XT1pSSmpodm0tdg?oc=5",
+      "content": "Berkshire Hathaway insurance earnings fall 14% in Q2 2026 eciks.org",
+      "fingerprint": "ea4f972743c06ba1e36a70312d11fb0cc4d2bc297db0a445187d9f382ad8c267",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "US Earns Berkshire Hathaway - The Northern Virginia Daily",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdDhyemVpYm1NczFuemRfTDkxUTl5WGVRUUNGbGExaTdTZkFNcjY3MjRQZVVrLVJWX3ByenNuVktmQ3FGX2tNclg3SXlJZ3RXNW1JUEtQRlZDVWR2TjU5TURzS0k2cklTa0FGUl9EYU5qREtzVHhfaWJ3RTcwNGU0dXZHRkJDYVh4ZlB1OHFDSTIzdERBb2FlT0w0UTFpN3pERGJkaVphXzZZNWV1T29jeFQ5dEhXaWVrUjMwRW5kR0tlLUE?oc=5",
+      "content": "US Earns Berkshire Hathaway The Northern Virginia Daily",
+      "fingerprint": "a81eb4faac406905c2a1303b57fbf9418a42fb49ab6ac8ce99aff3982c6250b6",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway P&C reinsurance boosted by Tokio Marine deal, as property volumes fall - Reinsurance News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ2o2U2xkMWoyaTFKTmRXY3JBdkVaTU5Gd0VpNUdLX0R3d0lnd3JHSFFoUzF0OW94LV9lWWFjYno3NTZ4QjBXSHBHdTVrMVVrRnVZNXU2WlpLdjBiRldvX2c5bnllNFpXRWZ1M2FfcVF6SEFyNWhGMk9keHhxLU5OVk05WDhRczVMaHJ1eldCajFzb1E2RTVKZGJLcUhPSU5ibXliVWJ4R2FZTjhCb3A5N2pvc1VydFNT?oc=5",
+      "content": "Berkshire Hathaway P&C reinsurance boosted by Tokio Marine deal, as property volumes fall Reinsurance News",
+      "fingerprint": "48bad16c6b41e960e6d9be87af56c9deffe10cd7df59d9448f448b1406bbca42",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway's Decisive Capital Deployment Shift Changes Everything For My Thesis (Rating Upgrade) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONmsxd3JxNlZJUVJBV2tvQUVTZ1d6Sks0c0xYS3lXRnpOWmVLYXA0R0hRVzByNWtVbXNNVFN6eUsxWjhaOVN5UHBRRG5GSmFSY2h1Z2QybnBQVG1UazRTRUdGZDF6czdUbzE5Zl91MXpld3Y3TnN0MzRSX3RzR2M1ZkpkZUF3NTBMYUhOTVI5UU12TkxmNmZ5WmM5WFhMMjVRSU9nR2REdlIzVVRBRGtwQm9kQUpjUV9MUEowdDFNTF9tdmlfQlE?oc=5",
+      "content": "Berkshire Hathaway's Decisive Capital Deployment Shift Changes Everything For My Thesis (Rating Upgrade) Seeking Alpha",
+      "fingerprint": "7bd6e0161a781e621f2a42c55023222d2ecb876dba1d6b9c05e13d361b8cefaf",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "$Berkshire Hathaway-B (BRK.B.US)$ Solid earnings report. Back to ATH 🚀 - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV09mWjY3a1AwVGRTR3JzdzNfU3JtQkhpdHdjUUp0dWNLdlVDY1ptcGpKQ1BzVjNaSjBFeFdGOG5pNGk2cEFycENxUnlnbm94Rm1JVldVMWlKNDJHbzJ3Z1dudWUtSHpXMGhfbmhtU3JDR283QWV3cG5Pc0RXOGRXWG11dmRCejY3c1hydlZad3I4VzQwTEt4VlZkSW9fRGJwNXc1QVhmS3c?oc=5",
+      "content": "$Berkshire Hathaway-B (BRK.B.US)$ Solid earnings report. Back to ATH 🚀 Moomoo",
+      "fingerprint": "79dfc767681b92cc07cfdccf8be6a270b8f0ba0ceab973d4f606ee31b2aba048",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway pre-tax underwriting earnings fall 14% to $2.18 billion in Q2 2026 - theinsurer.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVUM5dndyaU1Kd1l5MzEyb0QwWThXZlBwWXdZSTlqUVdEVDR3VXBBbkhpamJPMExlVDRCZmlkWFVodlA5VHBDV0ZQWF91eWlSMThoWklsTEdXQ2laZDRWaGRtOWtiU3ptYmNSdXV6VGRvZUMyWXU3OXVhVkozNHBUYVZtTFhXM2piRUlSRlZ0ZFQyOU1tSUV6dHNjUURvcTBhSXA2N0JDN09XUWo3N2JEVFMtcWxHT3NkT3lCOVJ4QTk3QQ?oc=5",
+      "content": "Berkshire Hathaway pre-tax underwriting earnings fall 14% to $2.18 billion in Q2 2026 theinsurer.com",
+      "fingerprint": "307a987cb58a9e8ebff06010b1c2c0d3b7e6dc90d93cb2b1b2ea40a1256fa072",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway, Under a New CEO Greg Abel, Invests New Assets - Eurasia Business News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0dSQW9qTE81WVlJeXpwMU1zRzhGbGtjUGw0azR6RzNuLU5jemw4ZHFRZHNHUHUyOGk1YjJYSU4wdldGMlU2TG13b0tRR2pGS2t5YjJmVFdqcm51cnJDdWRYaUo4OFRQeHhjMjAwNnlyNHJ5ZTlMYTFjQ2hjRXpGeVg2NXRMemVPNWF5ak80N2tack84TS1XamRIVFh5WllfZ0RiZEx1QnQxQzQ?oc=5",
+      "content": "Berkshire Hathaway, Under a New CEO Greg Abel, Invests New Assets Eurasia Business News",
+      "fingerprint": "510606b4b15d34c994cd5cb87d93cfba168b96494360ba56316e4b3846a12bfe",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway Inc. (BRK-A) Stock Forecasts - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbnNVbmp5cm8yQnhsaEw3WlhTZzRuaFcwSE8ydlBZN3ByT3RHWFlydmFqVS1IMlVHM3BnX19GcGZ4Sk9DZWRfRzVjX2VJLW45ZGlIeWdYa3ZYSkVJYVJzb1MwbjMzckxCUnB0d1NNemcyakFKZ0s2SlRzX2FxNDFGSTMwN1ZhZFU3a0NpMw?oc=5",
+      "content": "Berkshire Hathaway Inc. (BRK-A) Stock Forecasts Yahoo Finance",
+      "fingerprint": "262c669824d1cb2b82e85fecbd8eb889e6802984b2ff784eebf8ef0272c2a4f6",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway reports Q2 2026 earnings this morning - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tUFRUZTRIeTRsNVpueE9SNW9vaXlpVXpXTFRrWXpSeXg1ODRMQkh3djRJNjY0TUhpNGJ3ejhPbXVoV2lUX2ROUEVSOWFzU0tGeHgzMjROWE1raDFnNVVQbVFGR2Y?oc=5",
+      "content": "Berkshire Hathaway reports Q2 2026 earnings this morning eciks.org",
+      "fingerprint": "8645bb4ad917e07846336837e9fa1359f38e1aa8452bb49558a39347b22f1bff",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "US Earns Berkshire Hathaway - Journal-News.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQmVyYjJlaTN4ZFVPeUF1QmtsNlphWkJOZHRaU2JFRDhfaTYwcTg4ZVNvY1Zlc2JnT21DckpoSG5QZGsydU03ZllZNjBuOFRPbERXN2NWX2FHRGdmZXQtM2E0WnNqb1RiYWZBMWFYU2pMMWdveF9tNEFIRjg3UXJuejlxLVlRT0VaM3QzYmtHQkNnSE5RSzktbDBlNnY0UlliYjBwS2VwZkRKTnRaY1FqM1YtTjg1YXps?oc=5",
+      "content": "US Earns Berkshire Hathaway Journal-News.com",
+      "fingerprint": "a2b7451de9e0c1992e535ed53c6895955e768cc7a53002ec0762ed01506fd4cc",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Greg Abel puts some of Warren Buffett’s $500b cash pile to work - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNFh1V2o3MExNcDFnV040VUhXOWVZSDhSWTdRMk95Z1NMSmllYWtKLUdVdFowSURYOXc3QVhpT2ZSUm1XWmpkUXBzS01YVGZ0V1ZjZVFmYzRCTlJmMk5tTS1ieU9MNE43M050d194RnRYN3U1MVhmOVpnSURtZGoyOHd1WXNXRzdvMzRQUDdROEg4ZnNkaWZibjhLT1ZJQXdYSUZLdjZ3eDd6endwZ1ZFUU1DU2t1N050?oc=5",
+      "content": "Greg Abel puts some of Warren Buffett’s $500b cash pile to work AFR",
+      "fingerprint": "00faec63ce41a107aeef7b1276ade872c72351015809893cf14be4ae4f540ca2",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Warren Buffett Warned About the Dot-Com Bubble. Now, the Stock Market Is Flashing the Same Warning Signal. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWHByOVJnSGozLWVfcE8zT0RYNlBtUUZaZzhaYjducDRWWjhPcTBCQkllZzFRZ0pka3ZMQUxzUURvMjFJSUZIQmdNTEVla1E5eThHMU1zMTJIQU8tQmsxNnltSm9vajJicWg0Zm93UTBsejJkMVh2S3lOWTZaYXVpWVdURUUyZ0hiaEZRcDNRQWlWODZQNEIxcHlR?oc=5",
+      "content": "Warren Buffett Warned About the Dot-Com Bubble. Now, the Stock Market Is Flashing the Same Warning Signal. Yahoo Finance",
+      "fingerprint": "5b7d6222e346207f0687e42d88ed854987a437f48af4f77b148c132f8306802d",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway's new CEO Greg Abel spends a chunk of the company's massive cashpile - morning-times.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdkt2QmZvbHA5cGlfd3NSd2Zrd01LVExhWmNWOGtuRFRKc3ltd0x2RTFzakZTQmhvX1RmLUdKckFCVWRPbGdfajA4dDRkVFk1ZFlSaEpnWVZ2QkRNMHRVOXlRMWJ5X3N4M2lEQzhBb1l1T1FydF9pT01adDJoSlA4OUs1SWtfcG1PNWZ4YThDeWpPMm4yRUlJc2toSkt0UkJHZzRjNVJkbE5yNGpJM0pLeDdaNzgyaVpWc3M0aHBQM0tDSlJiRGFOMnFxN1l5SndubHFpMmFDeDRUbTVEN09fUm1rcWdIdVRmd2RBR0NwNlJmU3UwOGlwNWNGX0x0S0ZNcE4zWVV4bzY?oc=5",
+      "content": "Berkshire Hathaway's new CEO Greg Abel spends a chunk of the company's massive cashpile morning-times.com",
+      "fingerprint": "3352f4fa3094a38f200024d5df1bb19ad322d7aaa861c5b4fa731a9c0800a534",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway buys back $4.5 billion of its own shares - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlc5VkV6d28wdnAzU3ZoMTR1ekNwQUx4Rk40REs4aWZLa2dWYkU1cVN4cmdQT3F1MVRFYUp6OUVOUFN4MjNtOGJTMTZOWjhoZ09KM1BocUVsXy12S3BvU2Q1cm9qOHRadlRsTlBKNmhkb09WQUxVWHFlN3lVZzRVVWhYcDRMUUpORHFZbXhnQUF3RDZ5aEEyTDhRMnhFLTZtM2hPVFF6MmNLM3ZUbVRsdGVUcWpOZw?oc=5",
+      "content": "Berkshire Hathaway buys back $4.5 billion of its own shares TradingView",
+      "fingerprint": "c963ccc5bf6973b7b2f7c54975886ef7c746992e16824fd976c38c169a818228",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway Inc. Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONzNqdVFnQmFVVU85T0FfMGF4T29BTmN5Uk9UNm9KSWNyeVVZM3JabE1CQmhBN2xZS2Q2d2laay0wUnB1Tk9zTGpDREIya0RNc0IzcGVhN0p1YW1ka2hxOEh1eXhRY01xU0tuT3dMNkVRQUVWSWR5M1Mzc1hyOGJxQW84cVY0bk5BS050VW5ZWGMtRjlfbEVOVzMzbDFUUFM1MzA1UURWMlFJVVJIc0l2UXlrYkJkWDBDdU50SGVnc0RLYi1YVU9KMi1mMm5Mc04waVRnV2dzU3M1Mk5wM09meTNqSk9nM3M?oc=5",
+      "content": "Berkshire Hathaway Inc. Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 marketscreener.com",
+      "fingerprint": "fd98e9fdef11b5f6697d9c9c10ea5b370a10f4de2264b774c632f811a95322b4",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Greg Abel finally puts Warren Buffett’s $28b cash pile to work - AFR",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZk1qRWJVUUk5d094cS1lQlE1SEdFcmZiTEhRaVBKOWJWeVo5YlhMek5laTdnZEVJUW5TTEZMdUNMb2hIdTRvdFR6d0JmZTliNHViMXR5VlNHeXU2SEhTRWNTUTlmZS1xLTJrenhuZXBGT24xYmY4SWs2MkZ3bmVPSXF1dWJkNE9JUnFOX3RxcFRrd2wtLUtPb2pWdjV0Xy1tVjhRaWRGRFRhVS0tT3pr?oc=5",
+      "content": "Greg Abel finally puts Warren Buffett’s $28b cash pile to work AFR",
+      "fingerprint": "c6f723e26f6816cd77338ab433ac3e181fc7fba5d88445432979aa35e1d7f988",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway Q2 cash drops amid buybacks (BRK.A:NYSE) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbWE0dThxVkROMDFkSGlyRWhIdWdSa2ktN0d6czU2OUV5SXVJcTBsWF96cWRjTDJaaHd5ZWhIR3BZdjVzb19xSWF3ZVZPd2FGTTF6RE5XS18teXJuS3dFcG1MNWJBanRrZS0tVWdldkxoSll5OGRFbWRpRHFVWDBDLThXMlk2UmxpeXZETQ?oc=5",
+      "content": "Berkshire Hathaway Q2 cash drops amid buybacks (BRK.A:NYSE) Seeking Alpha",
+      "fingerprint": "3ce2f491447d64ee5e9adc8fede093cce1bd0f7852d7373c51e28340a7518bb5",
       "seen_count": 1,
       "sources": [
         {
@@ -459,6 +909,132 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
+      "title": "Why Warren Buffett Called This Investment His ‘Most Gruesome’ Mistake — ‘Deserves a Spot in the Guinness Book’ - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLUdzb0FMeUZYdm1mMXlwQ0NDcWhtdUtPU3NBNHJnQzJDVDVTQnJMamFwYzNKTERwU2hJc1R3ZDB4VFZ6UFlHWTl3SEtzUW1FTUdJSFNLQUhTYUdIWFR6N051eG5penJoZl9IWGF0Ul9iaDVyUXlBOUNERnJLUEVObk1CWUVtdG5DczlYNV9wU3REb1hDQ1NfX2pxeWcyUXdsMDNV?oc=5",
+      "content": "Why Warren Buffett Called This Investment His ‘Most Gruesome’ Mistake — ‘Deserves a Spot in the Guinness Book’ Yahoo Finance",
+      "fingerprint": "e06876848a54160412853df43285b333b535f8bd12c711d6ee451f2af0e1b484",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Abel Puts Berkshire's Massive Cash Reserve to Work as Operating Profit Jumps 16% - Briefs Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZFRiSjVURV9MODZHcHdyVVZjWTc3ZkFwMzZ4cDZOSjZMMmpHaTE2Nl9uYzRNdm1uMFRkeE1oc3VGNy1KMjFLVUJxRVN5MTFQUlQyRW02MERRWEtlVENWejBSeXZ4LUlsRXd0UFB5WU1NYks4WGpwSGhrS0FId2xieV9mSHFzS0ZLOTRRWlppVXlRQQ?oc=5",
+      "content": "Abel Puts Berkshire's Massive Cash Reserve to Work as Operating Profit Jumps 16% Briefs Finance",
+      "fingerprint": "d71ac9fd5eba8269f6b03fccc7607bfa2ab1bd9b73ac9c3e9b1db9b305447469",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Santander, Berkshire Hathaway among gainers; HSBC, Sezzle in losers: week's financials wrap (XLF:NYSEARCA) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdDlpWEdXMGZUWEtjUDFvV2FXZXRwVE1oaEZXQURBVXhEQkJDaE1hcGtrQk1GMHc2VTNQZUNIWGsyYzFlZi15czNCd3lTODNCMnJtOHVHN1B6UHFvWXdjTFN1b3JJZ20yUjd2NWJUSFgwV0oxTmlyamp6NUZwZmVVUFNOWWNlRE81dWh0ckpSU1ZPMGViQTk1bF9VbUpIQTR0a2QtWGlURzBuRERKRmM1UVRSenI5SFl0bGFHdGdJaVFsZw?oc=5",
+      "content": "Santander, Berkshire Hathaway among gainers; HSBC, Sezzle in losers: week's financials wrap (XLF:NYSEARCA) Seeking Alpha",
+      "fingerprint": "81f17f5836832918cfa720c723ac0e631318c1d3c8c5770d356461b540743c8f",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "US Earns Berkshire Hathaway - WV News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdlFMWFFTMmhsZzFoaWQ5ek9tczllc2lTQU43OFYyZDRTRzVBNm1mc25zNE1ORXptR3ludGRfbC1oVVZGX0tSSW1yYTI5NVpIbnJCLTVTckExM1dXWW02UWR0SkVUR2t1Tl9qbFlfMDkwZGdtM0ltZVVYb0E1bzVpR2o4SmJuTm9EWm1wLXVQS19wbVRyWGhxNmU0SHdJcEszenVIekJjMlNTdjlRakE0?oc=5",
+      "content": "US Earns Berkshire Hathaway WV News",
+      "fingerprint": "a46029a9139eebb3d087b1b2197c7485a6d8214394ec6a032494fded53d6c437",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway Q2 earnings: Profit rises 16% to $12.98 billion as buybacks accelerate - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOeXQ2dTQxUUh3SG1GSURyVFRaaHFSX2tDd09PN3V5NkNYQVJjZ0VFWkZZc2hCNGp5OU5ranNvRkkwdk0yNnljMllNaG9WM1NXd0o3Q1ppb2RQejYtNGxVNnZYckl3Wjg5TDBlTHNweW9uZDNfbWlxY2RtNUw2QVgxOEw1dC1PSDc3Sk5kUHlOYjFqOEZCU0lhTzM0ZEVBb2NXLU1sQkVQc0p2OVhOTVAzU053bnBON0hvcnlhYl9YcXpEc05zSktYRTdZR0dESzh3NlFqLUVvTGs3WTluT205UE5HaXk3VENqUWlvU3poTFRiSWZKMUcyRkdpZTRtLVdjQnZuWGxjcjRJU3RM0gGSAkFVX3lxTE4yWmhxa3plcWJjNkhJM1hIUUowN0prS09rR3RhOUVHR2FRMVJKdTdkU1JWZmFHQkdxSklYN0IxVG9hSVZLOXdSNUZhLUZwV0FNSWZyOGprNnVxZk1ySDdXTndOdUJDLVJDVXBZczJuMEhteC1CUzcxY0djSFJXVi03azd6N2lCWldNRUowU3NIblo1bS1lYUY4ZmhIZjE2SnVERG5mM0FrTG9DNFpTSm83WVl3aEtBZUFScXB0TVMwWGNPUW03bFFMLVA4b3ZwWi1xdm9BOEpjNXBxT09yS0lLdmprYVFDaXZCTnlDVFBMZjBWejJuTWR2TFNyWjd0NEhWekNIZkpDWjJ0THBGMjRydWc?oc=5",
+      "content": "Berkshire Hathaway Q2 earnings: Profit rises 16% to $12.98 billion as buybacks accelerate The Times of India",
+      "fingerprint": "8953f5b79732637291891a5e1572456a0b371fd19e19b2016919def54eb290c4",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Futures: Big Earnings Ahead; What To Do Now As Bulls Rule - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUk1TGt3SGVRbFVCa2R3cFBJVFFBdHZfTXBiSDE0SlgxS01CX2tWWV9iTUlmOWF4OWd1NzRKLTRYTHgxSUVEUGl1Vmw0OVROUTgwNjhSVVcybmJoVkc5b1IwUDN5Nm5TUEh0RHQyb2RwbjFLcHZTZlU3cGpCUFdwWEgyWXFlNWFaRUtac1hQWWFuTlZVZFdteTY2eHpsOG5IUkFkQk05SFNUajFFakpQVTJKekZ5dw?oc=5",
+      "content": "Futures: Big Earnings Ahead; What To Do Now As Bulls Rule Investor's Business Daily",
+      "fingerprint": "b94b039a53d791094755b1238a87a836aea7ccebc5b87b66aeb7b2285061fe7a",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway's new CEO Greg Abel spends a chunk of the company's massive cashpile - Times West Virginian",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSnBkQjZWaFNEN09oRElFTFE5WEhZcmxldm5lMnJ0OVE3d3JJM3BFdmhaWllzM0UwNWdHMUl4ZlFIYXhLaGNmcktmczg2RGZlZzBaamM3bU5HcGp0Sk1ZM0pJWWkxNlJubElXemFNZnlNVjZ2WGRWWGFnd3ZhcnIwbWstQlZZUWk5aUxMODJLUW45MWJQc1JidkZ3d1hCb19INzlRN1FBWXRZLTEzMG9xczZTN3d3ZzJVUmRpZ3JFT2VwQTQyOGNrcWZWVWZ4bng4cWZYbUc1TExUTXNHdHl1OTFXNC1yT1hCVzk2MHlRdnZ4T21UVkdGei1iZU5iRVBPZlQ0?oc=5",
+      "content": "Berkshire Hathaway's new CEO Greg Abel spends a chunk of the company's massive cashpile Times West Virginian",
+      "fingerprint": "7ebd426b0e3759d501b57f27fe2b769106fa32f7319f8bf648e0f9e22c20adf4",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
       "title": "Greg Abel's First Big Deal as Berkshire CEO Was a $6.8 Billion Bet on Homebuilder Taylor Morrison, With Buffett Praising Abel's Execution - The Motley Fool",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUpuQW85R0FWdVFBVjhpRjBJbFlwRGRHYTViTF8xSV9VTG9fQXJtM3Q2bjZLbEFDOHI0WjlwdkxxMXEyT1NVNHpGQUpHWDhBaUN5OXhtbU5wT25LOGlyRVlvaEl4SFY4YmVyTGNWWTQ4YmpCN3JMUGtJUTVfOElfYkg0bWUwU0kzb3YzdjJJOXFTRnJ6Nlp5SA?oc=5",
       "content": "Greg Abel's First Big Deal as Berkshire CEO Was a $6.8 Billion Bet on Homebuilder Taylor Morrison, With Buffett Praising Abel's Execution The Motley Fool",
@@ -477,10 +1053,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Berkshire Hathaway (BRK.A) Makes Greg Abel’s First Big CEO Deal In Housing - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWlpPSWp5UWNKdHk2aE8xT3c5SzlRU2h0dGx2dmpiNmthR1Iwa3c5UVI3V2ZvNU4yczl4LVFRZEgyaXpfMFB2MzRrcDVETVA0N1ExQkFYUWtDZ3BNeGc1TGlfNkdoR0dpRVBURGJZVDNNWDRqT3R6R25TcjgzVl9hMEZYYnp4Y05xSG56RXVVYkZ3MlBTOVJmUEpZWQ?oc=5",
-      "content": "Berkshire Hathaway (BRK.A) Makes Greg Abel’s First Big CEO Deal In Housing Yahoo Finance",
-      "fingerprint": "aca6c17b15685dfb54f8cb0450444b2df57d0bcaff435123cb4ee47f61c81462",
+      "title": "US Earns Berkshire Hathaway - Goshen News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUZ6YzdTdk9aUVNQWURlbmNWc3Z0MDV3NHVLenVIMFNnbGs4ZzVYZlFxb3JoMWEwZ2E1RTlSV1RZamN5MnNPQjRVaXNnd2RHMTFuMlpldklUOUM0VEV2eWpMVkQ3Z01tU2Fzb1gtX3Y1U2FFa0FnM3pCWm1VLVFTUmFkZU9ObER6NmFFWUlaWG9iaHRyR1QxNDdzMjNJMVBFbVdkbzlXM3BBVzVhc0FTd0JaT0ZOcWdhWWltYmZB?oc=5",
+      "content": "US Earns Berkshire Hathaway Goshen News",
+      "fingerprint": "51c06ba827a5552cf6a190d15b4359e7ff288e5baf25ef705a472d9b63bb95e9",
       "seen_count": 1,
       "sources": [
         {
@@ -495,10 +1071,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "What To Do As Bulls Take Charge; Buffett's Berkshire Beats - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUk1TGt3SGVRbFVCa2R3cFBJVFFBdHZfTXBiSDE0SlgxS01CX2tWWV9iTUlmOWF4OWd1NzRKLTRYTHgxSUVEUGl1Vmw0OVROUTgwNjhSVVcybmJoVkc5b1IwUDN5Nm5TUEh0RHQyb2RwbjFLcHZTZlU3cGpCUFdwWEgyWXFlNWFaRUtac1hQWWFuTlZVZFdteTY2eHpsOG5IUkFkQk05SFNUajFFakpQVTJKekZ5dw?oc=5",
-      "content": "What To Do As Bulls Take Charge; Buffett's Berkshire Beats Investor's Business Daily",
-      "fingerprint": "b94b039a53d791094755b1238a87a836aea7ccebc5b87b66aeb7b2285061fe7a",
+      "title": "Warren Buffett Warned About the Dot-Com Bubble. Now, the Stock Market Is Flashing the Same Warning Signal. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2lTV1JXUGM2Z3ZYUDJTa2J1aFhxSlhpT0hHczRJRmNQWVlJWWJscUkxWVFmNkhsSVQ1QVc0bGZxb3BhQ25lZTRybVZfd3FGX2ZmTDZtdDYtWTZ4MlhXX2VTeHZvQlhNSTFEbmdXakRpa1JWRzRzT2lHcUlidi0xazVpY3pVREJBOW5KbVE3MWJid2xoY2lYMw?oc=5",
+      "content": "Warren Buffett Warned About the Dot-Com Bubble. Now, the Stock Market Is Flashing the Same Warning Signal. The Motley Fool",
+      "fingerprint": "2a96ee8daf7d457fd0faf2d2c4e8074a65c21ccc6c50a31e3c5aa51b0709e376",
       "seen_count": 1,
       "sources": [
         {
@@ -513,10 +1089,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Berkshire says operating profit rises, conducts stock buybacks - The Lufkin Daily News",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZnNXa05PZUlJSzk1eWljZHg5NFhNMTV3ejNwU19NdnVYU3lPd3prZVd4akExLUo3X0gzMFV5bGRKbGlRUmtMamdIS3QzeHVlZUVSbU1Rek13U08yTjQwSUtkcG9fZHFGYktieGhXbDQ0VjN6RXdTNE1BaGpwUzNibWk3akl3eWhMQ2NKOUliZFJWa1VUSHo2dFQ1Rzdicmh5NGpwd21ZV01VUnpSWWRKMWV3ZnRYaHN6bC1xRDQ5LXhTb2JOcVQzNUFBTWZremZqV3Q2RnhqbDlHdlBtSW5LZHA0V3RKYm1FMjljNV8wMjlSM0k?oc=5",
-      "content": "Berkshire says operating profit rises, conducts stock buybacks The Lufkin Daily News",
-      "fingerprint": "d03ab6a6196aa15ba067b84a566ee4ff450aed3b33fbbad7f0e6e14ed12eba43",
+      "title": "US Earns Berkshire Hathaway - The Herald Journal",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaVBscUJ3WmViRHNlbUM0UWt2RHk2TGNOZ0NVRGpqTUk4Nm9qajB1WW12ZTBpSnFrTndDeUpLTm1heWVsWEw5RlVWdnBYQUVFM0dKamFvcVVOUnR4ZWliNE1hVm01WHdJYUhVa3dZR2ZLUzRWWkRnNFBDTmVCTGdLNFJsTG9QNGpyYnN5ZHB1MHp5ZExuWVRlOG5EQjdObGtGeGlSOEFwNk4?oc=5",
+      "content": "US Earns Berkshire Hathaway The Herald Journal",
+      "fingerprint": "97be630d91af28ed3454c04e402713e392396d30d5f6c5fb1aef6ec2c5cdc50a",
       "seen_count": 1,
       "sources": [
         {
@@ -531,10 +1107,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Warren Buffett Has Recommended the Same Investment for Decades -- and the Long-Term Results Have Been Extraordinary - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb05KZTgwM0hRUzF1Qkc1TnZ3M3kwQkRFbzdlX1hNdkhWSEY2NWtZNkFWNGxhUVNSdGNOMXZLcy1fS08wamtQaDRXMXpRbXRlUFVsMFdmNWlyakxpaFFXMkVxQlE4OFN6eklPbGNxSkFKY2RQVzdVcXBwMkFsaXkwMGRpc2hPdjZtRVhBS2FPd1Ytc1hnVlN2QTA0X29UZW8tVHVvNnB4TGdyWE0?oc=5",
-      "content": "Warren Buffett Has Recommended the Same Investment for Decades -- and the Long-Term Results Have Been Extraordinary Yahoo Finance",
-      "fingerprint": "994400f8104ec8383598bd984b18b1333aa96295410f554750dae15aba9b3384",
+      "title": "Berkshire Hathaway Buys Back $4.5 Billion Of Shares As Operating Profit Jumps 16% - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ0g0QzlSWFVheEd1N2VDUmp6aXR4aWRvajNWNWtJakZEY0w5b0hydS1ZOXNkMndzc2lHU01Ick0yZ29zSi1VT0hwMlhBdmUwelRPY1VSQzJUY2xocHppdTEyNGc1Y0EwN05ZNFhPcjlTRzV6NE9QaGIyMGhySWszLTRsOFhZYThfRVowOWFsM0tENVJfYnB0Zm56bnV4RmhNR0ZTdlF3ZWVESl9ER1c4T2hOd1RUUlV5TzNmRWdHVV_SAcgBQVVfeXFMUGRydTRlVHp0cEtRcXVyNHV3S3FRNDVQTXhORjVDeFRvS1cwTmdFWGRZUXM3dEdLWkR4cUc4cHBzX2xoTjNqU2NibmFxOEdOYmlySG1VcVhkajVMazRwUlBXeDRIY3NqUnpoVXRjLW5rOGFPM2ZIUjhueTg1VEw2cG1aSlhrZW9rejdJWDhzWnR3OFA0VWVGQjdzcENrVDRqemNHdVNrNlNyRktxYm5QeEN2UWdTdEpBaVZMSUVBOGlPc0hJZm14bmw?oc=5",
+      "content": "Berkshire Hathaway Buys Back $4.5 Billion Of Shares As Operating Profit Jumps 16% NDTV Profit",
+      "fingerprint": "fac8db6748655427d1347306901da61bf5e15e92ff7e998ae0164c5fc5c0e695",
       "seen_count": 1,
       "sources": [
         {
@@ -549,10 +1125,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Warren Buffett Set a Personal Goal to Give Away His Entire $140 Billion Berkshire Stake by 2034. Here's What That Means for Future Share Supply. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRnZXeldZWHhqY1NwaXFOSTFtZkZwdGJxMHZ6LV83QnUxQjBwdVJUcTlnU3l5TkVwamZNSUY0eHNvd1Z6alhJVjNDX0hVbUtWSXFCZXRkRXhHR3J5U25JVzBESVpqRzd2dWFSSmR2R1d6Zm1HZ3ZkUzFfU2h6eUc5Z1M2UFQwLTcxcnNRVVJYcWFaU2RfNmdOdg?oc=5",
-      "content": "Warren Buffett Set a Personal Goal to Give Away His Entire $140 Billion Berkshire Stake by 2034. Here's What That Means for Future Share Supply. The Motley Fool",
-      "fingerprint": "4b6560951c7c924b05982646e85f2d987e80c4d0506e57cb34ee6dab785bfc85",
+      "title": "Berkshire Hathaway's net profit for the second quarter doubled year-over-year, with Alphabet becoming its largest equity holding. - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRGk3RnVpTlZLRUF2ZzR2a0lsZUtsSHFoWFVudHl2cmN2MW41bC00LWlUT0ZNaGxfaTlCWEs4c1QwZDZKVlEtX3AtaDBqcGpfaU9HcVlEd1prNm5EQl9RNDZnc0htS2tkRUY1WXZHSF9MTll3ZDZyUmJjd2RiejdQcEVfT0gtVmdkZDBpeWZBa2thZDdfd2ZrY0VEV21KakdJV0JxUjAxRQ?oc=5",
+      "content": "Berkshire Hathaway's net profit for the second quarter doubled year-over-year, with Alphabet becoming its largest equity holding. Moomoo",
+      "fingerprint": "934c0d8c6ee12abb886aec5a2d04cad0b668c1f5ef7e560bade142bbcf59b18d",
       "seen_count": 1,
       "sources": [
         {
@@ -585,10 +1161,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Greg Abel leaves Berkshire’s energy holdings untouched, signaling confidence - eciks.org",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDNjY1VUhWTXJjdG5zRXNzbGUwM1JXWVdMRC1EWnBkV2p0SVhFVWNnZXdPd0h0RERuV05QdWNTcnBjbTRjUTFYWEFGbWwybi1IM29MU2xXSEdUbkM4d0pITjFBOUVnT3oyeml3?oc=5",
-      "content": "Greg Abel leaves Berkshire’s energy holdings untouched, signaling confidence eciks.org",
-      "fingerprint": "1509fa74cb0099ed0f693ffbfa77e6044362725413936fdc0cdd5a8076ae9b69",
+      "title": "Berkshire Hathaway's new CEO Greg Abel spends a chunk of the company's massive cashpile - Eagle-Tribune",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRnI1NTJoNHJBZUFlTGdkYzIzUWUxY0U2QUhkUjd3RU5nazJ6OEpIS2doTlVBU1pxclNzemdDU1d5eVk1UHZ2TU45MThSMzhLTGVreUpfeDBibmJMNXd2S2dLNzFyckdmWmdHVEtxZ2hJWTNhRzJVMlFlQnJTazRzOFI4cG9Cdnh1WUJFZk03dWpuY3JjVURFc1pxX2daQWNSQ1NCYnVveHplV2hLaUhsOXVtenJIcUpTcVhMZlFEN0tJT1JiM2txYzJmN1pPMEwyZHNEV0pySVNrRVBfbm9kLU8zRjJUclBqYTByZWJYR3NzbWtNa3dTcmlmUWpMUTVJ?oc=5",
+      "content": "Berkshire Hathaway's new CEO Greg Abel spends a chunk of the company's massive cashpile Eagle-Tribune",
+      "fingerprint": "9071367ca40f1a5a16f84a02cf61bbb5587946b8e5582cd4272b38efbc9a0ba7",
       "seen_count": 1,
       "sources": [
         {
@@ -603,10 +1179,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Warren Buffett: 3 Overlooked Investing Techniques To Boost Your Returns - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZFAxcWpWaGhQOWprS2YyWjh6SWtwOVpNdnZENkZLWUY2cXlEbVR5cWstN2FGdTk2eHpPd2tVWGF6UkRNRE1yaHdzejZUZXE4akFPRjliQzdpOTZvS0xCb3FzOEdQeGRieGhDSDJKdC1JUnIzaVNseUxTLVNRWXcwQzhoelFDQnlE?oc=5",
-      "content": "Warren Buffett: 3 Overlooked Investing Techniques To Boost Your Returns AOL.com",
-      "fingerprint": "5dbf509cf7a379ea0e8e9dc5620424c4beae512238e96be6112aaff7fc2d9c8b",
+      "title": "Warren Buffett’s Berkshire invests $10B in Google as Abel deploys cash - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yYTlEUEdWZzQzcXRTTlVFQXRYQ1J3TWFmY0daMkJWUXc3N0pUNlgxakNPTUQ3N0hpem9nbEJ6VHRYc0FOb1BZWk5jdURyUDhPY0pGMUh3VFlaMjQ1alVEMEVEVW5ud05pTWZ1U0RzM2F1Zw?oc=5",
+      "content": "Warren Buffett’s Berkshire invests $10B in Google as Abel deploys cash eciks.org",
+      "fingerprint": "71f1b3967fd9aae87352696711cbeea2ddb80bcf07552136916e59f436849e21",
       "seen_count": 1,
       "sources": [
         {
@@ -621,10 +1197,136 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Greg Abel's First Big Deal as Berkshire CEO Was a $6.8 Billion Bet on Homebuilder Taylor Morrison, With Buffett Praising Abel's Execution - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mTnJFQzhHZFd5Y3AzajhoaG9ueUF2S3Flb1BOSFlmeXNDdXV6bmZLcTNaTWxlWHB6YUltSDRUSHZWeDR2eloyTWxFTUJMalNxeWFhMDNxcWI4YlBNVmx1UVoxUUExM3kwdUlicXdoRlRrUTd5NGZJZw?oc=5",
-      "content": "Greg Abel's First Big Deal as Berkshire CEO Was a $6.8 Billion Bet on Homebuilder Taylor Morrison, With Buffett Praising Abel's Execution AOL.com",
-      "fingerprint": "1db2dfb13cc3472e00bcdb397215e6b51343941d378aa5f634f7effe1564d02b",
+      "title": "Berkshire Hathaway Just Did Something It Hasn’t Done in More Than 3 Years - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeFphNm9lcnVDMlNTZGFxX1VsUGF0UGY2NWtULWFxdFpPUXRBUE1oNFNoZ2xhdVB6WlpYSmJXWTQ3Wm44NjNyS1FkNHhEQlFUa0NkSmNLcVJpdkQteHlZV2VPMW1OQ0x0NmdMdl9mNHFKcHNHVVlCYVU3YzJObFRUOG9jdzBLQlo1?oc=5",
+      "content": "Berkshire Hathaway Just Did Something It Hasn’t Done in More Than 3 Years AOL.com",
+      "fingerprint": "727b829b5f981572bf76488d616fc7fbb32569df91815e3d41c0696d930ae546",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway accelerates share buybacks as quarterly profit beats forecasts - Межа. Новини України.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TQm9qN01wei1lbW9tVXZGVDRQN1RReUJWNDFoaHpCb0kzTmFlLUljby1KUkVFcENtc2ZnMmJFNGNnZTBmcGlpanpoUWNLMWpTT2hTVDNvWFF1U3ZmUm1jRFdVRkpRWmk3bENqaWtnNzFpY3hJMmRV?oc=5",
+      "content": "Berkshire Hathaway accelerates share buybacks as quarterly profit beats forecasts Межа. Новини України.",
+      "fingerprint": "005200e89ccb7cceac358515008d34a02a264849db8c6d2ae38cbb33c7ff783a",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway's new CEO Greg Abel spends a chunk of the company's massive cashpile - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbTczYjZyejJxUnZVZEIzazJIZVJod1hoLTBIamNQeEQ5U1duY25FY3QtLUQwTkNOQnZlT0luRDJaOFB2eFhRaGRZUWhUSGxkeEU2ZUlaVmpldUFyRC0tU21DNnhqbFR3a2NIVTBid3VCVWZLRmMxWUJUZ09VUC1HQU9WdGFqV1VCYW4yc0xqR3VwRjhHVXRkNXBhN1NtUmxCSjYzd01nXzNvTVdZWEVSZW14SFlCcXlaX24zcWNwU1pEczNjRVdjdTZpek5RcEV3alFYbHBqbw?oc=5",
+      "content": "Berkshire Hathaway's new CEO Greg Abel spends a chunk of the company's massive cashpile marketscreener.com",
+      "fingerprint": "b0104b27cd1ba476b4ed68fb94b9d933cd4ae6b6d6e3014505cf7eff09f2b21f",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Earnings More Than Double in Q2 - stl.news",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyZ3BaYktRQjdQVmNTa1hTWElwZzQ2TG14LWY1VHJENFRPREZ3TzBWR200SThUdlVhci1XS2lSMkZ5SmdtUjdtdUhEMHloa2h6R00zWm5neVhoc0dDZ0lXSUNJVEU0UlE3U1otT3pqZGY?oc=5",
+      "content": "Berkshire Earnings More Than Double in Q2 stl.news",
+      "fingerprint": "f5c99ebb9fe983753c2da359556831b3e4d095484063d966b98b46eebc1c5c40",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire's First Major Move to Deploy Cash Since Buffett's Retirement: Share Buybacks and Net Stock Purchases in Q2 - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVTNGYnBIMlpFZlhsNXlMbHhiamNiTjM1RVl2c3FFdlVhcG1iMk16a0lGUHlBajBPTFg1ZldJWTMyZW04cVVpbFVrVnBVN21BaDlOU0tyWmxvaXVHTFhHdERrNGNoc05UNDNrS0ZndkgzaVBoTmQ3VWtrSVJPWi1NamhFUF9kVEtDV0p4M1dwTU9yWThPVVI5MjVQVHlwU2gz?oc=5",
+      "content": "Berkshire's First Major Move to Deploy Cash Since Buffett's Retirement: Share Buybacks and Net Stock Purchases in Q2 Moomoo",
+      "fingerprint": "9d6f3a37b8a0c55b5b64618de2df97d7adfe694ae2c4518f9042480f3f199fa5",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway ends 14-quarter stock sellin... - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdy10dE9nODZDTkh1eFpoTTRVQ1ptS3VFMXVzUS1jMF9WaXRjMUZLZXVNTGVKLTVyNVlWcUM2THltSWlrZDVwQmFkRkpwejRLS2N6b1kyOG1uN2JISXpYSmNtV3ptYUZuLWtQY2JOMlFkeUhPVkVoWXZrX3VFTFJpaDFKcWxkQTY5ckxaaGhKejNiWWxjbFV3?oc=5",
+      "content": "Berkshire Hathaway ends 14-quarter stock sellin... Pluang",
+      "fingerprint": "edd1b2810528169d4b3b9cd931071843761a4c66b8a4490a7c40135bbe5c2dd3",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway Q2 Net Profit Doubles to $25.67 Billion; Rare Nearly $20 Billion Net Stock Purchase - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oM1ZLME8tN1RsVUk2aVFnOFh5Y0FFMGs2Z3FVWkI3UW5vUHl0aGJqR1dKZUo4dWlLMV9aQkZfalZSTFVGTkxBVUdhZnpQQ2xiTks5ZHRDaTAwZ0R1THNzNElZUFl0NTNZdHJpTzdXOE9QUXgwTHc?oc=5",
+      "content": "Berkshire Hathaway Q2 Net Profit Doubles to $25.67 Billion; Rare Nearly $20 Billion Net Stock Purchase finance.biggo.com",
+      "fingerprint": "7a9e9ad4aa0ae86719ffc407f817f9f32eed6911e9d0a77e3aeabba258d846b3",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway (NYSE:BRK.A; NYSE:BRK.B) Stock: $24 Billion Asset Move Takes Focus as FX-Driven Gains Emerge - TechStock²",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYllTMU0tbldQMHM5V2xjNExYN0Y3WC1DeS0xelN0b09CTWRWTGkwTXRtckdZWjFGcFhOcnplbWwzUUQ4VW1uaDNBd3RubmVCSGktMWd3MWF2Wjh1M0czMEVfN3dXY0dOVzZJSy1pZzVHR0FKRjg4eFotODY5MUxTUWtvTzhjUG42NXdlT0hya2tZbmd4OTYtbTdkYW1KclU1RlQ3X0FGMWVVUHRuYVcwVHNENnNLMDB4SEUzUWIwb3RNYUk?oc=5",
+      "content": "Berkshire Hathaway (NYSE:BRK.A; NYSE:BRK.B) Stock: $24 Billion Asset Move Takes Focus as FX-Driven Gains Emerge TechStock²",
+      "fingerprint": "870c78f9d43a3eb2834a807dc388431583263be52f80f4f32cc292e114ff46a4",
       "seen_count": 1,
       "sources": [
         {
@@ -651,76 +1353,24 @@
           "role": "aggregator"
         }
       ]
-    },
+    }
+  ],
+  "Product/Growth": [
     {
-      "source": "Google News: Berkshire",
-      "category": "Investments",
-      "tier": 4,
-      "role": "aggregator",
-      "title": "Berkshire says operating profit rises, conducts stock buybacks - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMXhKWlAtSV9IckFkWXRpSUNfMDFPd3IwTk5FR1p1YmRES2c1bUFnQTc1TnB6enhWQk9xUV9SU3FNYUdYUnJjZGpOM3NYM3VsaE1vMTdYNGJ1eUUwZldHTms1bnRmcEQ2QmpJNkFveEl6eU1RdUlGM0VoanJGRHhoX05DRE5ZZExy?oc=5",
-      "content": "Berkshire says operating profit rises, conducts stock buybacks AOL.com",
-      "fingerprint": "75d4f096062beabf2081767db66bdbfacd59dc5cdc413e4d6f210920945f25b4",
+      "source": "Lenny's Newsletter",
+      "category": "Product/Growth",
+      "tier": 3,
+      "role": "expert",
+      "title": "🧠 Community Wisdom: Crafting outreach that reads as authentic, finding design partners, what counts as a moat when anyone can build, making a product vision stick, and more",
+      "link": "https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach",
+      "content": "👋 Hello and welcome to this week’s edition of ✨ Community Wisdom ✨ a subscriber-only email, delivered every Saturday, highlighting the most helpful conversations in our members-only Slack community . Read more",
+      "fingerprint": "4931e9ce36bdf7e9cbc652d8a718b7df7d06b18ae3bd5825c02eabda8cdbbe03",
       "seen_count": 1,
       "sources": [
         {
-          "name": "Google News: Berkshire",
-          "tier": 4,
-          "role": "aggregator"
-        }
-      ]
-    },
-    {
-      "source": "Google News: Berkshire",
-      "category": "Investments",
-      "tier": 4,
-      "role": "aggregator",
-      "title": "Berkshire’s profit doubles as equity holdings surge; Cash nears $360 billion - Investing.com Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYzFQS3dfSUU1ajVESG9DUXdidDYxaXdrYUk4RnB6M21wRHU3TGs2WnlkeFVpcnF2WjM1ZllsVnFQSTRnM1lZczhMOU1NTUtpMjliNTFIdjNqU0g2UnBRVlhiTGlwR3kycjVUN3dVcUlMaFhjZURyMkdUcTFOa0gxWW5mOTB1dHVJNmdiLVo3WE9TRnFybGNsQ2tfc1FqdjZNQ2ZBUDUxUFFZM0JVVmo2djRMRkppQko0MmNZY3lLSFE1OFp4OEU0cQ?oc=5",
-      "content": "Berkshire’s profit doubles as equity holdings surge; Cash nears $360 billion Investing.com Nigeria",
-      "fingerprint": "ee0c586630b2610028b9c1432d7def20f58c314a75cebc25fa67a83d7d3263d9",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Google News: Berkshire",
-          "tier": 4,
-          "role": "aggregator"
-        }
-      ]
-    },
-    {
-      "source": "Google News: Berkshire",
-      "category": "Investments",
-      "tier": 4,
-      "role": "aggregator",
-      "title": "Warren Buffett Set a Personal Goal to Give Away His Entire $140 Billion Berkshire Stake by 2034. Here's What That Means for Future Share Supply. - AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcC1wRGdnbm9zOE9Ya29zSnZRX0U3WEJuaHJHZGdWX0xJUGVVa21VcUVGa3FxdjNoTEQ5NndwNTVMaVROMTJNM3J2ajJhaHNIZUFRbGZNQUd3WXNjbnpHRF9VZzI2Y0htU3FJd1ROanNzdFJ1MUV2cUNIbldlQzdaZnpB?oc=5",
-      "content": "Warren Buffett Set a Personal Goal to Give Away His Entire $140 Billion Berkshire Stake by 2034. Here's What That Means for Future Share Supply. AOL.com",
-      "fingerprint": "3944e218e743a3fcd065bc63704371a8e60be601b043710f601b815d2bd2c002",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Google News: Berkshire",
-          "tier": 4,
-          "role": "aggregator"
-        }
-      ]
-    },
-    {
-      "source": "Google News: Berkshire",
-      "category": "Investments",
-      "tier": 4,
-      "role": "aggregator",
-      "title": "Berkshire’s profit doubles as equity holdings surge; buys back $4.5 bln shares - Investing.com Canada",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV3A1QWlzVkUzOVdkLU5FaWhCbkVEcnhUdVY4VXhtRkwxcHNMaGNncTVVSlN4YW9ZUjdyM2tEUHBELUQzbjJYVXNyY3pTZGU0VzA1d0txc01TSV8yNFcxdWtRa0JTUXBlbmN1b3JjMEJMUXB5X1lUR2FVMnVFRE9lWjNWU2FqMjI5eWE0R0kwSTRBa25fVGx2Q2NJQWdxLWVTOWVxOE5LbVR4cFMyWno4YXlUU3VIV2V5N0tBT1g1S2JoR05HaVQtTg?oc=5",
-      "content": "Berkshire’s profit doubles as equity holdings surge; buys back $4.5 bln shares Investing.com Canada",
-      "fingerprint": "82a31c56ede2343aab9148c071e9c2b089db96a9c692b607e9ef113652a9fcfe",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Google News: Berkshire",
-          "tier": 4,
-          "role": "aggregator"
+          "name": "Lenny's Newsletter",
+          "tier": 3,
+          "role": "expert"
         }
       ]
     }
@@ -731,10 +1381,10 @@
       "category": "Technology",
       "tier": 2,
       "role": "professional",
-      "title": "關掉九成門市業績反升 40%，日本連鎖店 GEO 靠老遊戲「新鮮感」收服 Z 世代逆勢成長",
-      "link": "https://ccc.technews.tw/2026/08/08/nostalgia-trendiest-fresh-sensation-gen-z/",
-      "content": "在實體零售業普遍面臨數位化衝擊的今天，「縮減門市」往往意味著業務收縮或衰退。然而，日本知名連鎖零售巨頭 GEO […]",
-      "fingerprint": "d3be21978ed139eaa2abe6608491c21dd6ebd07e3d720c2d81da1b6d6f948d67",
+      "title": "熱浪竟掀起百億「起司金庫」危機，帕瑪森起司到阿里山茶的共同難題",
+      "link": "https://technews.tw/2026/08/09/extreme-heat-threatens-italys-parmesan-heartland/",
+      "content": "今年 6 月，歐洲迎接破紀錄的熱浪，義大利多地氣溫突破 40°C。不只人類受不了，乳牛也熱得吃不下，產奶量最多 […]",
+      "fingerprint": "5e81a44d9f8c941b990c456aaba782b03ac8d1c75599cf58679e319013f118e3",
       "seen_count": 1,
       "sources": [
         {
@@ -749,10 +1399,10 @@
       "category": "Technology",
       "tier": 2,
       "role": "professional",
-      "title": "沒跟著燒錢市值衝上 5 兆美元？蘋果如今恐不得不加入算力競賽",
-      "link": "https://finance.technews.tw/2026/08/08/apple-ai-capex-increase/",
-      "content": "生成式 AI 掀起全球科技業新一輪投資競賽，微軟、Meta、Alphabet、亞馬遜等科技巨頭近兩年相繼宣布提 […]",
-      "fingerprint": "35acd42c1896fe0ded4faaed045267c3e8c56693c143f9de2978b586755b42b3",
+      "title": "做夢其實超耗腦力，日本最新研究揭開大腦在「快速動眼期」的能量悖論",
+      "link": "https://technews.tw/2026/08/09/brain-rem-sleep-energy-paradox/",
+      "content": "日本東北大學的一項最新小鼠研究發現，大腦在「快速動眼睡眠」（REM）期間，雖然血流量增加，且星狀膠質細胞內的丙 […]",
+      "fingerprint": "5918b42882d29c254edc3c6cbffdb0f0e492cfa6859eab17d1ae636bea0a9f8d",
       "seen_count": 1,
       "sources": [
         {
@@ -767,10 +1417,10 @@
       "category": "Technology",
       "tier": 2,
       "role": "professional",
-      "title": "AI 讓 RAM 價格倒退回 2007 年水準，20 年降價趨勢逆轉",
-      "link": "https://finance.technews.tw/2026/08/08/ai-ram-hbm/",
-      "content": "AI 熱潮正徹底改寫記憶體市場，軟體效能專家兼 GitHub 開發者 Daniel Lemire 指出，受高頻 […]",
-      "fingerprint": "8ab1651864dc5aa0f214ce3ea2a051bb0dbc2778a302df716e60e48e7cf67645",
+      "title": "為何不推熔斷、保留預收款？一文看懂證交所「處置股改制」背後考量",
+      "link": "https://finance.technews.tw/2026/08/09/twse-disposition-stock-reform-considerations/",
+      "content": "根據《財訊》雙週刊報導，證交所 3 日公告修正「公布注意暨處置規定」，8 月 10 日起實施，處置期間縮短、撮 […]",
+      "fingerprint": "e61bbdb98844e100765fd214b3f1acb330265e0639fc49207fbdbe9dd1a14072",
       "seen_count": 1,
       "sources": [
         {
@@ -785,10 +1435,10 @@
       "category": "Technology",
       "tier": 2,
       "role": "professional",
-      "title": "Google 把 Gemini 逆風翻盤的希望，全押在這個人身上",
-      "link": "https://technews.tw/2026/08/08/google-all-in-koray-kavukcuoglu/",
-      "content": "一覺醒來，拿了諾貝爾獎、靠 AlphaGo 封神的哈薩比斯（Demis Hassabis）主動交出 DeepM […]",
-      "fingerprint": "2be4aaaee9d3f1421faddd271fca75b1e6e9ae7684d19e07764257fc047655fe",
+      "title": "醫療 AI 評測敲響警鐘，OpenAI、Anthropic 等主流模型皆陷「資訊遺漏」盲點",
+      "link": "https://technews.tw/2026/08/09/medical-ai-hidden-fatal-flaw/",
+      "content": "一項名為 NOHARM 的最新獨立醫療 AI 基準研究直指當前主流臨床 AI 工具的共通盲點。這項測試涵蓋了包 […]",
+      "fingerprint": "dccf406d524324c57f504f96c0e603f328fcdb00235eecc5306bc34b2ddc232c",
       "seen_count": 1,
       "sources": [
         {
@@ -803,10 +1453,10 @@
       "category": "Technology",
       "tier": 2,
       "role": "professional",
-      "title": "尋找地球深處的「黃金廚房」，科學家揭開海底火山鍊金之謎",
-      "link": "https://technews.tw/2026/08/08/hidden-golden-kitchen-earth-seafloor/",
-      "content": "地球上超過 99.9% 的黃金與貴金屬，早在 45 億年前就隨鐵元素沉降並深藏於地核。然而，科學界長久以來一直 […]",
-      "fingerprint": "1112bd75a7f63270b91095692c0af80d6ff62a94dbb791eaefe62b1d16159be1",
+      "title": "「落後群創」真是最後稻草？彭双浪欽點接班人、友達二把手柯富仁無預警「裸辭」投變數",
+      "link": "https://finance.technews.tw/2026/08/09/auo-president-vs-ceo/",
+      "content": "從寄予厚望的接班人，到隔日生效的突兀裸辭，友達營運長柯富仁下台後，這艘面板巨艦究竟會走向何方？ 沉寂多時的面板 […]",
+      "fingerprint": "bfa54873047ee42ea4c752d062a15c5d09f14bdc67cc84f91d9330a4dcc045f5",
       "seen_count": 1,
       "sources": [
         {
@@ -821,10 +1471,10 @@
       "category": "Technology",
       "tier": 2,
       "role": "professional",
-      "title": "Synology 群暉科技發表 DiskStation neo+ 系列，以低入手門檻享有高效能體驗",
-      "link": "https://technews.tw/2026/08/08/synology-diskstation-neo-plus/",
-      "content": "Synology 群暉科技推出 DiskStation neo+ 系列，包含 DS1825neo+、DS152 […]",
-      "fingerprint": "e112b6024216c64fbdae1e1b800115ba23d7845d2afb30f9d324f62341c48939",
+      "title": "不是全新星系，「小紅點」真面目是星系中央超大質量黑洞活動的短暫印記",
+      "link": "https://technews.tw/2026/08/09/evolutionary-mystery-cosmic-little-red-dots/",
+      "content": "詹姆斯‧韋伯太空望遠鏡於 2022 年發現「小紅點」以來，這些遙遠、緻密且呈現紅色的天體便成為天文學家高度關注 […]",
+      "fingerprint": "589f979c71a61e33f8d64f06aa173c0385bf50c517e6dc4417d387b4c2b842b0",
       "seen_count": 1,
       "sources": [
         {
@@ -839,10 +1489,10 @@
       "category": "Technology",
       "tier": 2,
       "role": "professional",
-      "title": "集英社強勢推出百語漫畫平台 MANGA MILLION，大舉進軍全球市場",
-      "link": "https://technews.tw/2026/08/08/shueisha-launches-multi-language-manga-platform-manga-million-global-market-push/",
-      "content": "全球頂尖漫畫出版商集英社（Shueisha Inc.）宣布全新數位平台 MANGA MILLION 正式上線。 […]",
-      "fingerprint": "c91661ab280702b296e78c39ebbb888d4b47fd0aea4e99c63d1996ea46435da3",
+      "title": "運動不只讓心臟更強壯，還會重塑心臟的神經網路",
+      "link": "https://technews.tw/2026/08/09/exercise-does-not-just-strengthen-the-heart/",
+      "content": "運動對心血管健康的好處不少，除了能降低血壓、改善血脂，還可讓心臟肌肉變得更有力。然而，心臟要正常運作，靠的不只 […]",
+      "fingerprint": "25664b8f884005bbbc223bc151d43aef5b39a7dff4380782acb6b4d340a761c1",
       "seen_count": 1,
       "sources": [
         {
@@ -857,266 +1507,14 @@
       "category": "Technology",
       "tier": 2,
       "role": "professional",
-      "title": "首見「AI 互駭」！Google 開發套件曝漏洞，揭露代理對代理攻擊風險",
-      "link": "https://infosecu.technews.tw/2026/08/08/ai-mutual-hacking-google-sdk-vulnerability/",
-      "content": "資安機構 Pillar Security 的研究人員近日披露，他們在 Google 廣泛使用的 Agent D […]",
-      "fingerprint": "71401f90a0730398544c9b0a7b5e729d466929ae638443b76bc99bf7cde30c0d",
+      "title": "NASA 攜手跨國團隊升空追擊日全食，揭開太陽日冕與大氣之謎",
+      "link": "https://technews.tw/2026/08/09/nasa-chase-total-solar-eclipse/",
+      "content": "2026 年 8 月 12 日，一場備受矚目的日全食即將登場。屆時，月球本影將以高達每小時 5,000 英里的 […]",
+      "fingerprint": "02902995c651b755e2d820d851373096b82a730b11656a4ec621a255c3321135",
       "seen_count": 1,
       "sources": [
         {
           "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "Edge 跟進 Chrome 淘汰 MV2，廣告攔截器不能用了",
-      "link": "https://technews.tw/2026/08/08/edge-chrome-mv2/",
-      "content": "微軟（Microsoft）正式加快 Edge 瀏覽器淘汰 Manifest V2（MV2）擴充功能的腳步，預計 […]",
-      "fingerprint": "fd25c27cd7173ae9175a0502b5f99744ad672a2573240147cf326909b4b3a504",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "教 AI 設計晶片！Anthropic 研究工程師年薪最高 85 萬美元",
-      "link": "https://technews.tw/2026/08/08/anthropic-ic-design/",
-      "content": "AI 不只要寫程式、生成內容，如今更進一步跨足晶片設計。Anthropic 正積極籌組內部晶片團隊、推進客製化 […]",
-      "fingerprint": "c38c803aaf92a011b66cb6e616263bcb3b2adb8d1a26ca82f164633204dd3d06",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "終結企業的「AI 落地噩夢」！新創 June 出奇招，用自動化軟體取代昂貴工程師大軍",
-      "link": "https://finance.technews.tw/2026/08/08/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "content": "美國時間 3 日，名為 June 的新創脫離隱身模式，宣布拿到 2,000 萬美元（約新台幣 6.46 億元） […]",
-      "fingerprint": "d55a7a793c798772e6b7691e0d885dd1c6b8546e0f73ea4215bfc8350ab67564",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "AI 解密百萬張衛星照片：全球藻華擴散恐引爆海洋生態與經濟危機",
-      "link": "https://technews.tw/2026/08/08/ai-global-ocean-algal-bloom/",
-      "content": "在人工智慧（AI）分析超過 120 萬張衛星影像後，科學家首次拼湊出全球浮游藻類的完整圖像。研究發現，海洋表面 […]",
-      "fingerprint": "e767c0c57368933fa8019b250203edb563376d5586c639fc34c89612eb1a4612",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "升息怕壓垮財政、不升又救不了匯率，解析日本「保日圓」的兩難困境",
-      "link": "https://finance.technews.tw/2026/08/08/japan-dilemma-save-yen/",
-      "content": "美國與日本罕見聯手進場買進日圓，讓一路重貶的日圓終於止血。然而，干預雖逼退短線投機資金，外資卻評估長期效果有限 […]",
-      "fingerprint": "33b4dc13e4be4164506b30b15ce853d4a3eb322e5dd6e8eecfc8a0ca5f2ec455",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "霸主地位的起點，30 年前 AT&T 如何靠「預設值」助微軟稱霸市場？",
-      "link": "https://technews.tw/2026/08/08/att-internet-explorer-default-advantage-30-years-ago/",
-      "content": "30 年前，AT&T 在激烈的瀏覽器大戰，為微軟（Microsoft）敞開一扇至關重要的大門。 199 […]",
-      "fingerprint": "47e5cdd1be630517b63fef4e0e08553b3b02061315411692ea9a3f4dcdd0f424",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "台積電、CSP 大舉建廠背後的推手！研華北美接單強勁，無懼零件飆漲樂觀看旺下半年",
-      "link": "https://finance.technews.tw/2026/08/08/advantech/",
-      "content": "《財訊》報導，AI 投資熱未退，當市場焦點都放在台積電擴產、輝達、Google 等 CSP 大舉投資 AI 資 […]",
-      "fingerprint": "fd7f915ebe0c3e2554b5a6fd59f5cdd8c6c8d5b2eed8fb56e68ee30996305274",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "P-1 AI 獲 5,000 萬美元融資，推出代理式 AI 工程師「Archie」化解實體工程人才荒",
-      "link": "https://technews.tw/2026/08/08/could-agentic-ai-bring-american-manufacturing-back/",
-      "content": "美國航空航太與工業領域正面臨嚴重的工程師短缺問題。P-1 AI 近日宣布完成 5,000 萬美元 A 輪融資的 […]",
-      "fingerprint": "d6f59b42f3c96b3fd5bdc80c299ef0fa97d76cf3ff0d05d5d6d2b2a8e6031cae",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "佳世達總座親督軍注資擎壤、翔隆，百人無人機小隊強攻美日市場",
-      "link": "https://technews.tw/2026/08/08/qisda-general-manager-personally-oversees-investment-q-land-s-long-100-person-drone-team-aggressively-targeting-us-japan-markets/",
-      "content": "近年，橫跨多事業群的科技集團佳世達接連投資兩家無人機新創，並由總經理親自督軍。 他們的目標是憑堅強的製造實力與 […]",
-      "fingerprint": "ba87175fd0e5e6ffbf0387824ca3711da378b03c5fab73959af03d87c891dc6f",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "避免二選一僵局，美軍考慮增加低當量核武攻擊選項",
-      "link": "https://technews.tw/2026/08/08/the-pentagon-is-considering-increase-lower-yield-nuclear-options/",
-      "content": "美國五角大廈近日啟動了針對美國核武戰略與使用指引（Employment Guidance）的最新審查。兩名美軍 […]",
-      "fingerprint": "dc3355a48df6716907dea64f95081d7ba9fa693033abe7caa0749b4099cad1c6",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "iThome 最新新聞",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "研究人員揭露駭客入侵Oracle資料庫，並以Oracle為跳板在Windows執行惡意指令的手法",
-      "link": "https://www.ithome.com.tw/news/177979",
-      "content": "資安業者Huntress近日發現甲骨文資料庫遭到駭客入侵後被用以當成跳板，對Windows發動攻擊、竊取用戶密碼。\nHuntress本周揭露了一起利用傳統SQL注入（SQL injection）漏洞結合Oracle資料庫內建Java功能，成功將攻擊工具包khunt寫入資料庫內部，最終取得Windows作業系統SYSTEM權限的進階攻擊案例。",
-      "fingerprint": "f50d79d5fa12165ab4eb4504a37bc77c86edbca4f661172df6fd1589634d1fd7",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "iThome 最新新聞",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "iThome 最新新聞",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "Gitea修補CVSS 9.8重大漏洞，攻擊者無須登入即可遠端執行程式碼",
-      "link": "https://www.ithome.com.tw/news/177977",
-      "content": "開源Git服務平臺Gitea揭露重大漏洞CVE-2026-59774，遠端攻擊者不需要登入帳號，只要伺服器上存在可公開存取的儲存庫，就可能藉由文件處理功能讀取伺服器內的檔案，取得內部存取權杖後，甚至可以在系統上執行程式碼。漏洞CVSS 3.1風險評分達9.8分，官方已在Gitea 1.27.1修補。",
-      "fingerprint": "ecd34c392adbf7abb31f685060f5a1d4713d2904bfa7cad838f5aef2a75bc6c0",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "iThome 最新新聞",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Digitimes TW",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "週末新聞速寫：美調查中企遠端存取NVIDIA晶片｜字節跳動新模型參數規模近Mythos｜美砸30億美元拚礦產自主",
-      "link": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000764513_6Z14VXXP2D8X2K20NZOC3",
-      "content": "Credit: DIGITIMES",
-      "fingerprint": "bdb73114af5efaef8b52ede048af77cf047a0ece96ee59249a94a2296f43d648",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Digitimes TW",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "TechOrange",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "【AI 原生新創極速生長】產品全面圍繞 AI 開發，過半新創人均產值衝破 40 萬美元",
-      "link": "https://techorange.com/2026/08/08/startup-insights/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "content": "亞馬遜網路服務（AWS）與研究顧問公司 Strand Partners，聯合發佈全球新創趨勢報告《Engines of Growth》，針對 20 個國家、共 3,413 位新創創辦人與高階決策者進行調查，將觀察焦點鎖定在「AI 原生新創（AI-native startups）」。 報告對「AI 原生新創」提出三大核心定義： 第一，企業創立時間小於五年，且在最先進的維度（如自研客製化模型、多模型整合或部署自主代理系統）應用 AI； 第二，技術就緒度極高，已為下一波技術（如邊緣 AI、實體 AI 與機器人技術）做足準備； 第三，產品或服務在誕生之初就是「AI 首發（AI first）」，即完全圍繞 AI 的能力建置而成。 這項研究揭示這群新興企業正在重塑全球經濟的生產力邊界，他們與一般將 AI 僅視為工具外掛的企業有著本質上的基因落差，並正以極低的創業門檻與極高的營運效率，對傳統巨頭與既有體制發起破壞式的效率挑戰。 📎 這份報告適合誰閱讀？ 新創公司創辦人、共同創辦人與高階決策者 傳統實體產業（特別是金融服務、醫療與生命科學、能源）的企業高層與行業專家 政府決策者與產業政策制定者 技術主管、軟體開發與雲端基礎設施決策者 🔴 報告洞見 AI 原生新創 年營收成長率，是一般新創的兩倍 在過去二十年裡，全球科技新創界建立起一套成熟的「獨角獸養成劇本」：一家企業通常需要擴編至數百甚至數千名員工，並耗費平均約 7 年的時間，方能跨過 10 億美元的估值門檻；然而，AI 原生新創的出現，徹底撕毀這套歷史常規，將這一進程縮短了一半的時間。 根據報告的數據統計，當前的 AI 原生新創平均僅需 3.5 年即可達到 10 億美元的估值 。這種極速成長並非空泛的資本炒作，而是具備驚人的財務指標與營運效率： 年營收成長率高達 156% ：AI 原生新創的平均年營收成長率高達 156%，相較之下，全球一般新創僅為 65%，而大型企業則為 12%。 高達 5.2 倍的百萬營收概率 ：他們年營收突破 100 萬美元的機率，是一般新創的 5.2 倍。 96% 的營收成長預期 ：高達 96% 的 AI 原生新創創辦人預期 AI 將持續驅動其未來的營收成長（對比一般新創的 90% 與大企業的 81%）。 46% 的 AI 支出增幅 ：其 AI 相關預算支出較上年大幅成長 46% ，遠高於一般新創（35%）與大型企業（28%）的資金調配。 最令資本市場震撼的，是其極致的輕資產營運韌性與高人均產值： 高達 55% 的 AI 原生新創，每位員工平均產值超過 40 萬美元 ，而全球一般新創能達到此門檻的比例僅為 34%，大型企業更只有 23%。 這意味著 AI 原生新創正以大約「一半的員工編制」，實現同等甚至更高的業務產出。 為進一步解析其估值的推算邏輯，報告建立了一個模擬推估模型：若一家企業當前的年營",
-      "fingerprint": "275597001a4091fc26b350154e8b06aac471f1fbd974ca1390c833eb134865b8",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "TechOrange",
           "tier": 2,
           "role": "professional"
         }
@@ -1129,10 +1527,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "Scientist says RAM pricing has reverted to normalized 2007 levels — memory prices have been falling exponentially for decades, but the AI shortage undid 20 years of progress in a matter of months",
-      "link": "https://www.reddit.com/r/technology/comments/1vih1y7/scientist_says_ram_pricing_has_reverted_to/",
-      "content": "submitted by /u/Logical_Welder3467 [link] [comments]",
-      "fingerprint": "cf669a576c3fc69b1e7a0088bca36a44baaa850d68ed03274bed3d947ba5d56d",
+      "title": "Amazon secretly circumvents community vote for massive AI data center using 45-year-old rules — Gilroy residents locked out of public comment window",
+      "link": "https://www.reddit.com/r/technology/comments/1viwmsi/amazon_secretly_circumvents_community_vote_for/",
+      "content": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "fingerprint": "399d4c8a8b808a0e628d531aa6b0816b6519e1703c541eb6b89b5da9e0aae11b",
       "seen_count": 1,
       "sources": [
         {
@@ -1147,10 +1545,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "Meta CTO says employees should use AI productivity gains to do more work — not take more time off",
-      "link": "https://www.reddit.com/r/technology/comments/1vih7xo/meta_cto_says_employees_should_use_ai/",
-      "content": "submitted by /u/Logical_Welder3467 [link] [comments]",
-      "fingerprint": "5d41488533aef414979b871578abcb5524672a49fbed0d897f9a437b4826030e",
+      "title": "AI creates 16 new viruses that never existed in nature after learning DNA pattern from 9 trillion nucleotides experts warn such applications are way ahead of necessary guardrails",
+      "link": "https://www.reddit.com/r/technology/comments/1vj98g5/ai_creates_16_new_viruses_that_never_existed_in/",
+      "content": "submitted by /u/jluizsouzadev [link] [comments]",
+      "fingerprint": "cca8c5aedd38c64669a0e10a67ba016eae3df8359f461039ce695063259022fa",
       "seen_count": 1,
       "sources": [
         {
@@ -1165,10 +1563,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "'Only One Conclusion': Radical Study Suggests Life on Earth Arose Twice",
-      "link": "https://www.reddit.com/r/technology/comments/1vimjoc/only_one_conclusion_radical_study_suggests_life/",
-      "content": "submitted by /u/tw1st3d_m3nt4t [link] [comments]",
-      "fingerprint": "5defe842dba5b86f9605e664016902543a79c1c6a94ff884bfb681fdf5401708",
+      "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
+      "link": "https://www.reddit.com/r/technology/comments/1vj1sa7/new_amazon_data_center_stokes_worry_it_would_be/",
+      "content": "submitted by /u/Dry_Ant2664 [link] [comments]",
+      "fingerprint": "f93f67d45b154fc0e9149b94708678880057454eb63891bf309729317527b9d4",
       "seen_count": 1,
       "sources": [
         {
@@ -1183,10 +1581,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "‘Humans will be a rounding error on the internet’ says Cloudflare exec",
-      "link": "https://www.reddit.com/r/technology/comments/1vit52t/humans_will_be_a_rounding_error_on_the_internet/",
-      "content": "submitted by /u/Logical_Welder3467 [link] [comments]",
-      "fingerprint": "66c07b3932f77f0e5a9eba80deec8b3881250dcad0549a7498d0b50720df70d5",
+      "title": "Chandler drops Flock cameras after misuse audit",
+      "link": "https://www.reddit.com/r/technology/comments/1vj1uzu/chandler_drops_flock_cameras_after_misuse_audit/",
+      "content": "submitted by /u/eightdollarbeer [link] [comments]",
+      "fingerprint": "7ba7ffd80c698c25b920c154eb7addac01dae238948cd98e13d89612f655302a",
       "seen_count": 1,
       "sources": [
         {
@@ -1201,10 +1599,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "The FCC Moves to Retroactively Ban Drones With LiDAR Obstacle Avoidance",
-      "link": "https://www.reddit.com/r/technology/comments/1vikph1/the_fcc_moves_to_retroactively_ban_drones_with/",
-      "content": "submitted by /u/damontoo [link] [comments]",
-      "fingerprint": "24a252dc2fb73b7567300f6166ce7a9a33ccc9da7940ab06cd5005b3f410a3b5",
+      "title": "Sinclair CEO Chris Ripley \"Couldn't Be Happier\" About Expected FCC Repeal Of Ownership Cap",
+      "link": "https://www.reddit.com/r/technology/comments/1vj67xb/sinclair_ceo_chris_ripley_couldnt_be_happier/",
+      "content": "submitted by /u/esporx [link] [comments]",
+      "fingerprint": "fca35dbf2a409eaab70c8b18118a96014c8846283cff779b8e41e38e263e1801",
       "seen_count": 1,
       "sources": [
         {
@@ -1219,10 +1617,82 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "75% of European businesses fear a US tech Kill Switch as much as a ransomware attack — switching off US cloud and services could deal an economic death blow, with sovereign alternatives desperately needed",
-      "link": "https://www.reddit.com/r/technology/comments/1vikcw8/75_of_european_businesses_fear_a_us_tech_kill/",
-      "content": "submitted by /u/IKeepItLayingAround [link] [comments]",
-      "fingerprint": "c844963cc92c490734eb9d75514198ce4c01c8bb7a77e5485cd58ad253039c13",
+      "title": "Savannah Police Department fires 6 employees over Flock Safety System misuse | GBI conducting independent criminal investigation into unauthorized system searches",
+      "link": "https://www.reddit.com/r/technology/comments/1vj73s2/savannah_police_department_fires_6_employees_over/",
+      "content": "submitted by /u/mepper [link] [comments]",
+      "fingerprint": "9512bda1347e0da47f025096b8dfbacfbca0d28080a1ba38ca9ce83fbfc5d59b",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "Cloudflare says humans could become a \"rounding error\" as bots generate 1,000 times more internet traffic",
+      "link": "https://www.reddit.com/r/technology/comments/1vivxn6/cloudflare_says_humans_could_become_a_rounding/",
+      "content": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "fingerprint": "2f43be40762dbdb69b99f47bcf0a392fa5653f4e33a9254f31ce73fa0f7fef91",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "Flock wanted to put license plate cameras on 350,000 Uber and Lyft dashcams",
+      "link": "https://www.reddit.com/r/technology/comments/1vj3buk/flock_wanted_to_put_license_plate_cameras_on/",
+      "content": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "fingerprint": "9692aff0f581b219ab6dee04b1664ec0ae6a02bebee51c03e7289714c5543938",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "Chinese Scientists Made Glowing Plants with Firefly DNA to Replace Streetlights",
+      "link": "https://www.reddit.com/r/technology/comments/1vj91hl/chinese_scientists_made_glowing_plants_with/",
+      "content": "submitted by /u/_Dark_Wing [link] [comments]",
+      "fingerprint": "d7795acd9d77351b9b7e50b2a5602297b9ff9c26f2b1e8173b0ec8b930dfcf38",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "Amazon's AI Warehouses Are Struggling With A Real Human Problem",
+      "link": "https://www.reddit.com/r/technology/comments/1vj35cz/amazons_ai_warehouses_are_struggling_with_a_real/",
+      "content": "submitted by /u/fmcortez [link] [comments]",
+      "fingerprint": "b6c992ea2e772ab20b3b501bdd937ed0f8009bfe71247c9cabe4b428175093c0",
       "seen_count": 1,
       "sources": [
         {
@@ -1255,10 +1725,136 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
-      "link": "https://www.reddit.com/r/technology/comments/1vihpii/microsoft_edge_is_about_to_lock_out_older_ad/",
-      "content": "submitted by /u/TurbulentTopic39 [link] [comments]",
-      "fingerprint": "4f0629d7ec2df2c848372c41f0fb610c792e5c5bb8b270afef94cbe4117c5cde",
+      "title": "New Orleans will use AI to answer 911 calls instead of a human",
+      "link": "https://www.reddit.com/r/technology/comments/1vj4qlb/new_orleans_will_use_ai_to_answer_911_calls/",
+      "content": "submitted by /u/gdelacalle [link] [comments]",
+      "fingerprint": "1c96ce386b099d4f801a11d1856ca715871e8a0d68b63a83a9c973308b391c2f",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "20% of workers say they use AI for tasks that used to be given to colleagues, poll finds",
+      "link": "https://www.reddit.com/r/technology/comments/1vj8rrq/20_of_workers_say_they_use_ai_for_tasks_that_used/",
+      "content": "submitted by /u/joe4942 [link] [comments]",
+      "fingerprint": "5b4654399b667aa80826d0e6ae311f93b9625fccea824c046d2487632e9a0c64",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "America’s Cyber Forces Grapple With Cluster of Deaths by Suicide",
+      "link": "https://www.reddit.com/r/technology/comments/1vj328e/americas_cyber_forces_grapple_with_cluster_of/",
+      "content": "submitted by /u/tw1st3d_m3nt4t [link] [comments]",
+      "fingerprint": "79f317a8fd9d27e994c63e1d159ede5fe345ae8362f4650fdbc27d3cd3f2c3f3",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
+      "link": "https://www.reddit.com/r/technology/comments/1vj3z5h/new_amazon_data_center_stokes_worry_it_would_be/",
+      "content": "submitted by /u/Stukwan [link] [comments]",
+      "fingerprint": "733eb62e0cdfec5aec3009a63fe7f1dd83fd07c876cd63b8746a0e7dd8c35b89",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "How Amazon Built a Data Center in a California Town Without Anyone Noticing",
+      "link": "https://www.reddit.com/r/technology/comments/1vixm2b/how_amazon_built_a_data_center_in_a_california/",
+      "content": "submitted by /u/Justgototheeffinmoon [link] [comments]",
+      "fingerprint": "5d1aea009148781821369f4972799f350070e4f13d239c3c7b1098a2c13ea337",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "New Ukrainian robot called VORON traps Russian drones using airborne nets",
+      "link": "https://www.reddit.com/r/technology/comments/1vj6bt2/new_ukrainian_robot_called_voron_traps_russian/",
+      "content": "submitted by /u/Choobeen [link] [comments]",
+      "fingerprint": "0bc78d82e5a30ccac3a39781a98cdab8a86bfc38c086649289c2253dee6df084",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "We tested the impact of SSD speed on gaming performance in 11 titles & we analyzed from SATA to PCIe 5.0 to see whether upgrading to a faster NVMe SSD would have an impact",
+      "link": "https://www.reddit.com/r/technology/comments/1viveyk/we_tested_the_impact_of_ssd_speed_on_gaming/",
+      "content": "submitted by /u/_Dark_Wing [link] [comments]",
+      "fingerprint": "2349c574ea5484e3aaaeb6e5fc1668b76a4e2e970897c748711dbd629be4e44d",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "Developer ported Word for Windows 1.1a from 1990 to run natively on Windows 11",
+      "link": "https://www.reddit.com/r/technology/comments/1vizqrn/developer_ported_word_for_windows_11a_from_1990/",
+      "content": "submitted by /u/gdelacalle [link] [comments]",
+      "fingerprint": "321f5b8a6c0de877706657309eccfab0ed3bd1074eb834d027d0ea530ecf73c4",
       "seen_count": 1,
       "sources": [
         {
@@ -1285,40 +1881,330 @@
           "role": "heat"
         }
       ]
-    },
+    }
+  ],
+  "TW Social": [
     {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
+      "source": "PTT Stock",
+      "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "Big Tech AI Spree Revives Accounting Devices That Toppled Enron",
-      "link": "https://www.reddit.com/r/technology/comments/1viney9/big_tech_ai_spree_revives_accounting_devices_that/",
-      "content": "submitted by /u/create-third-places [link] [comments]",
-      "fingerprint": "d1d0b6d193239170eb3e289b182d8701122118bd6370785aa8a9de34571641f3",
+      "title": "Re: [新聞] 谷歌AI管理階層調整內幕：Hassabis原擬",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1786236690.A.72F.html",
+      "content": "今月四月\nGoogle超過600名員工聯名致信首席執行官\n要求模型不用於機密工作(牽涉AI自主武器、大規模監控)\n今年五月\nDeepMind為了上述目的(向公司施壓)開始籌組工會",
+      "fingerprint": "97c30ce95057f1da952eb5e485ba4a87b0eae4d25f38ce96d398dd7422838506",
       "seen_count": 1,
       "sources": [
         {
-          "name": "Reddit r/technology",
+          "name": "PTT Stock",
           "tier": 4,
           "role": "heat"
         }
       ]
     },
     {
-      "source": "X/FB Social Trends (via Google)",
-      "category": "Social Sentiment",
+      "source": "PTT Stock",
+      "category": "TW Social",
       "tier": 4,
-      "role": "aggregator",
-      "title": "AI was supposed to kill tech jobs. Plot twist: Atlassian says it's creating more developers — and turning everyone else into one, too. https://bit.ly/3Ujtmy4 - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeGM4UFd1SGlXUXREUGxBbTc2dG9fcmgtTHNHanpfcnRjaXNMNE1CcGkyZGhDODVLQWdNbWdHQkxnWHJxWXY3RmItbnZVcTBHcS1TTHB6ck9tNzdzNC1CbXRyOEhGU1NfQmxyNHZqVnNJUUpGQnlLekhkVWpQUUp2WnVMd1BfU1UzRlJ0WEVrOVlVMVZwM0twYndUaDhhcEFzUXlJbW9vMV93RE1XZ3AtZ0ZCTl9ZeFRLVk50WW1Sck5PcnpuczdfM2NkOGUwVUxna1N5azBwRnY?oc=5",
-      "content": "AI was supposed to kill tech jobs. Plot twist: Atlassian says it's creating more developers — and turning everyone else into one, too. https://bit.ly/3Ujtmy4 facebook.com",
-      "fingerprint": "211710c1952edd618eba7d933c827fd722cc47dfc43f23827a583e6a1c7d9e7b",
+      "role": "heat",
+      "title": "[新聞] 巴菲特退場　波克夏重啟投資引關注",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1786231446.A.D87.html",
+      "content": "巴菲特退場　波克夏重啟投資引關注\nhttps://www.businessinsider.tw/article/5603\nAug 08, 2026, 06:22 PM Lauren Edmonds\n波克夏新任執行長阿貝爾一改巴菲特囤積現金策略。最新財報揭示，公司龐大現金儲備已用\n於回購股票與投資，標誌著策略由守轉攻，進入新篇章。",
+      "fingerprint": "03c16fa3999e68d44ce76c9a1841af45ad63284009c195b84e08351303729b8e",
       "seen_count": 1,
       "sources": [
         {
-          "name": "X/FB Social Trends (via Google)",
+          "name": "PTT Stock",
           "tier": 4,
-          "role": "aggregator"
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "Re: [新聞] 谷歌AI管理階層調整內幕：Hassabis原擬",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1786224607.A.EFC.html",
+      "content": "狗家的AI 有Google DeepMind, Brain 還有Google Cloud (Vertex AI)\nBrain頭就是Jeff 被DeepMind Demis重組Hassabis帶後 Jeff就權力下降很多\n兩個月前在gemini模型聽到落後御二家後 pre-train部門要求更多算力把一堆post-train\n(*pre-train決定了foundation model基礎 post-train決定模型有多聰明)卡搶走\n造就post-train人沒卡可用 跑去帶老婆放假 @@ 本以為要憋大招 結果出來這些事情",
+      "fingerprint": "47a6d6da5e36680a637676d0a9938e5e7fbc289cf560ede2374923121c3b5537",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[新聞]蘋果要出手了？爆料：iPhone 17最快下週",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1786217135.A.AB0.html",
+      "content": "原文標題：蘋果要出手了？爆料：iPhone 17最快下週突襲漲價　恐不等9月\n原文連結：https://3c.ltn.com.tw/news/67137\n發布時間：2026/08/08 10:20\n記者署名：吳佩樺\n原文內容：",
+      "fingerprint": "a00a54cbd7c2187ab58b37eb95fecc2c32f7fabfcf86a5eb296a17f2e9ec0468",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "Re: [新聞] 操盤美股免熬夜！　納斯達克12/6正式實",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1786214974.A.5F1.html",
+      "content": "韓國今年12小時交易，早上八點開到晚上八點(台灣時間)\n韓國明年接著實施24小時交易，是對接國際，想吸引更多資金進韓國\n納斯達克年初有說要23小時，改的速度很快年底就有\n至於亞洲納斯達克，其實是在韓國，早在1996年七月就成立了\nhttps://reurl.cc/zOrE20",
+      "fingerprint": "a3156aa0479255752af4e9cd0270b4c9e7e54b6b4d1e54ec9d78b4a4ec5bf963",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "Re: [新聞] 谷歌AI管理階層調整內幕：Hassabis原擬",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1786210674.A.768.html",
+      "content": "我不這樣看捏\n※ 引述《Ensidia (要宅的這麼神是有難度的)》之銘言：\n: 上面這篇\n: 幾個重要細節沒有提\n: 1.Jeff Dean離職創立Discovery Loop不假",
+      "fingerprint": "89ba2d62f937972a9ac5d00fee4602c62840c78880343d1f5c23db47682aba0b",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[情報] 6640 均華 7月營收 M:102.16% Y:266.01%",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1786210374.A.E11.html",
+      "content": "1. 標題：6640 均華 7月營收 Mom:102.16% Yoy:266.01%\n2. 來源：公開資訊觀測站\n3. 網址：https://mops.twse.com.tw/mops/#/web/t05st10_ifrs\n4. 內文：\n民國115年07月   單位：新台幣仟元",
+      "fingerprint": "970fb5ff9b3d6c6f494d1f1927e8ee2fe78a550ae76f18f8137237dc67b37ac5",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "Re: [新聞] 谷歌AI管理階層調整內幕：Hassabis原擬",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1786207594.A.A34.html",
+      "content": "上面這篇\n幾個重要細節沒有提\n1.Jeff Dean離職創立Discovery Loop不假\n但母公司GOOGLE是其重要投資人\n且提供Discovery Loop所需計算雲端資源",
+      "fingerprint": "a694f783cf4b38b920b5141092bce9d58c2fd14c843807539f33366ad6fa5ab3",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[新聞] 谷歌AI管理階層調整內幕：Hassabis原擬",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1786201910.A.9CB.html",
+      "content": "文章標題 請使用 原新聞標題 勿刪減或自創標題，違者4-1處分\n原文標題： 谷歌AI管理階層調整內幕：Hassabis原擬與Jeff Dean同時離職，因擔憂股價\n崩盤勸其暫留\n原文連結： https://m.cnyes.com/news/id/6566606\n發布時間： 2026-08-08",
+      "fingerprint": "f756cacbdb0f0b8e298d1b32cff59f2cedfaa0db9cfb900be9767cc5ad5d6fb6",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[公告] DarkerWu, ShaoJi 分身仔水桶",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1786200508.A.0FF.html",
+      "content": "經帳號部確認 DarkerWu, ShaoJi 為分身帳號\n┌─────────────────────────────────────┐\n│ 文章代碼(AID): #1gTpPgRs (ID_Multi) [ptt.cc] Re: [申請] 多重帳號查詢 (St │\n│ 文章網址: https://www.ptt.cc/bbs/ID_Multi/M.1786197610.A.6F6.html        │\n│ 這一篇文章值 11 Ptt幣                                                    │",
+      "fingerprint": "ec21669ca468c3bb6f90af4cc25c69aa27e1ae9501aa1f2d3478c60e32ba8443",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[新聞] 美股重大變革》23小時交易只是第一步　那",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1786199968.A.E54.html",
+      "content": "原文標題：美股重大變革》23小時交易只是第一步　那斯達克下一盤更大的棋\n原文連結：https://www.peoplenews.tw/articles/economic-news/48590\n發布時間：2026-08-08\n記者署名：蕭 雅雯\n原文內容：",
+      "fingerprint": "fca2cda2fae3d3b7e1ce11e43239297266dc1bde8aa06d946eebc30e47d50f3b",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[新聞] 傳中國民眾在港投保收益需繳稅 香港保險",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1786194679.A.BF9.html",
+      "content": "原文標題：傳中國民眾在港投保收益需繳稅 香港保險股大跌\n原文連結：https://www.cna.com.tw/news/acn/202608060099.aspx\n發布時間：2026/8/6 12:31\n記者署名：張謙\n原文內容：",
+      "fingerprint": "6b0cc2d84aa5827356589a3290a77027421ccf8b8deccbb9ecab9529ecfe66ec",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[情報] 3708 上緯投控 Q2淨值241元/庫藏股決議",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1786193632.A.B4B.html",
+      "content": "標題：公告本公司董事會通過115年第二季合併財務報告\n來源：公開資訊觀測站\n網址：https://mopsov.twse.com.tw/mops/web/t146sb05\n內文：\n1.提報董事會或經董事會決議日期:115/08/07",
+      "fingerprint": "d382b1dda8ad74f381647bc96cba5d209935af0848946db7525cc7ef70ccc5ab",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[標的] 5289宜鼎/討論",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1786193070.A.5A5.html",
+      "content": "標的：5289 宜鼎\n分類：討論\n分析/正文：\n宜鼎在今年開出令人震驚的EPS\n股價也是低的令人震驚",
+      "fingerprint": "85ce9a4e315f170ad352430857ac388c00e7fef21e40757a321f5843eb2a1dd4",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[情報] 4772 台特化 7月營收",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1786189655.A.B97.html",
+      "content": "標題：4772 台特化 7月營收\n來源：公開資訊觀測站\n網址：https://mops.twse.com.tw/mops/#/web/home\n內文：\n民國115年07月",
+      "fingerprint": "9ae1c5f9864455947032c9c9280751a0412c91961364390cbc80bcf4a917f58a",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[情報] 2353 宏碁 辭任兆基屋管股份有限公司之",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1786189004.A.D89.html",
+      "content": "標題：本公司即日起辭任兆基屋管股份有限公司之董事長及法人董事\n來源：MOPS\n網址：https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2353\n內文：\n1.事實發生日:115/08/07",
+      "fingerprint": "6d70444be549f9d2a7766d14323cea019d9a19e3f46aee9012aacc07bd49459f",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[情報] 7751 竑騰 115年7月營收",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1786188275.A.82A.html",
+      "content": "標題：7751 竑騰 115年7月營收\n來源：公開資料觀測站\n網址：\nhttps://mops.twse.com.tw/mops/#/web/t05st10_ifrs\n內文：",
+      "fingerprint": "b3009017dc74b4cf61120de71a7fbd4178d56be8fd6e2ff8cf37a6fde93030a7",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Tech_Job",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[請益] ASML offer (製造Sr. Team leader)",
+      "link": "https://www.ptt.cc/bbs/Tech_Job/M.1786227323.A.46B.html",
+      "content": "大家好！想問大家想法…我是台灣系統廠在墨西哥的主管 帶團隊約10人 目前派駐將進入\n第五年\n年薪約2.5M 領台幣 因公司會補稅 扣稅後實拿約2.45M 工作已經很輕鬆朝8晚5..往上匯\n報的廠長和總經理人非常好 也是一路提拔我的人..共事的團隊也超級好….先生是墨西哥\n人 年薪稅前約3M 在這裡我們領養了多隻貓 現在生活真的很穩定 但是最終還是想回台灣",
+      "fingerprint": "a8206a79efdadc89ccefe40874bfa1a2b11584273280b0fd0b0723c761dd7a46",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Tech_Job",
+          "tier": 4,
+          "role": "heat"
         }
       ]
     }
@@ -1329,10 +2215,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "中職》自評表現80分 MVP黃韋盛回應職業意識：要更主動去練習",
-      "link": "https://sports.ltn.com.tw/news/breakingnews/5533299",
-      "content": "中信兄弟總教練平野惠一在今天賽前被問及黃韋盛的狀況時，認為他還需要更多「我想要更好」的職業心態，結果黃韋盛今天把握對台鋼雄鷹擔任先發第7棒一壘手的機會，貢獻兩支安打和勝利...…",
-      "fingerprint": "4b8095bc0acf75ca132d7eeaf603bc69b50be8e7507970c778dab4216cb63baa",
+      "title": "獨家》鐵道音樂嘉年華染紅？ 1日站長體驗竟戴中共國徽帽",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5533470",
+      "content": "為慶祝集集線復駛，交通部觀光署日月潭風景區管理處8日在車埕火車站鐵道廣場舉辦「鐵道音樂嘉年華」，其中1日站長體驗活動，竟然提供多頂中共五星國徽的車長帽供民眾配戴拍照，令家長傻眼...…",
+      "fingerprint": "2618a5a34741a7a5442705322bf4ce40722df72bb71dcf6fde82a2253ab352ff",
       "seen_count": 1,
       "sources": [
         {
@@ -1347,10 +2233,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "海水倒灌！基隆愛四路夜市周邊淹水   深及小腿肚",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533294",
-      "content": "白海豚颱風逼近，基隆市今天下午下起間歇性降雨，愛四路夜市到仁一路303巷晚間6點多淹水，水深及小腿肚，有些店家擺在騎樓的貨物受損，工務處已緊急抽水。另基隆港小艇碼頭也有越浪情形...…",
-      "fingerprint": "24c50e0f8bdc9f04db6643b6c0ca7463bf34bb292d4c9b2b1ba5186d85b90035",
+      "title": "U17女排世錦賽》詹子昀攻全場最高23分 台灣女排惜敗波多黎各",
+      "link": "https://sports.ltn.com.tw/news/breakingnews/5533489",
+      "content": "台灣女排今在2026年世界U17女子排球錦標賽預賽以25：23、21：25、24：26、25：18、12：15惜敗波多黎各，目前預賽戰績1勝2負，接下來將在8月11日迎戰...…",
+      "fingerprint": "096da2e2206c46634f8d00ca864b33240db30876cb86911c9b6f2419d3e1e31c",
       "seen_count": 1,
       "sources": [
         {
@@ -1365,10 +2251,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "「海峽困境」！中國的阿基里斯之踵",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5533162",
-      "content": "〔財經頻道／綜合報導〕川普近期對巴拿馬運河的主權聲索，以及對北極圈內格陵蘭島的吞併，凸顯地緣政治中一個至關重要的概念：海洋霸權、「誰控制了海洋，誰就控制了世界。外媒《外交家》（Modern Di...…",
-      "fingerprint": "bcf24596411c46304739fc83a97e549270f0ffbc1592771b36a6b3814d8600e8",
+      "title": "基隆小貨車閃前車竟90度翻覆 駕駛一度受困",
+      "link": "https://news.ltn.com.tw/news/society/breakingnews/5533484",
+      "content": "基隆市消防局今日上午9時許接獲民眾報案指稱，基金一路上有輛小貨車翻覆，且司機受困車內。消防局立刻派遣安樂分隊，趕往現場救援。消防隊員抵達時，發現司機受困在駕駛座內無法逃出，隨即...…",
+      "fingerprint": "685e2a2ea91e42b78f54f8373f2b541eac2b9da26399b3a4c64fb64cd5d4cf6a",
       "seen_count": 1,
       "sources": [
         {
@@ -1383,10 +2269,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "健康網》性愛途中「軟掉」別難過 網紅醫提6原因與解方",
-      "link": "https://health.ltn.com.tw/article/breakingnews/5533060",
-      "content": "〔健康頻道／綜合報導〕部份的男人時常遇到性愛期間突然失去勃起狀態，「軟掉」的尷尬局面。泌尿科網紅醫師蕾娜（Rena Malik）透過影片，詳細說明了勃起的生理機制，並解析性行為過程中無法維持勃起...…",
-      "fingerprint": "3ded7e3278dbe5e0cd1188413268912a7f2611077a4f4471f105a29f3e31a936",
+      "title": "巴威侵襲傷痕還在白海豚又來 苗栗南庄301農路落石不斷",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533466",
+      "content": "苗栗縣南庄鄉山區之前因巴威颱風侵襲導致不少道路「肝腸寸斷」，其中通往鹿山、鹿湖、鹿場的301農路因坍方導致居民出入交通受阻，目前仍未修復完成；301農路受來勢洶洶的白海豚颱風影...…",
+      "fingerprint": "b9bef448c646dd1f2a8ec24d71b765f85507df0562ef0a51654ccff646f838e0",
       "seen_count": 1,
       "sources": [
         {
@@ -1401,10 +2287,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "中職》父親節沒收到女兒連繫 平野惠一點名兩選手表現「期待以上」",
-      "link": "https://sports.ltn.com.tw/news/breakingnews/5533295",
-      "content": "在父親節這天贏球，中信兄弟總教練平野惠一表示沒收到女兒的父親節祝福，反而是岳東華祝自己父親節快樂，他認為今天能以6：1擊敗台鋼雄鷹，除了獲選單場MVP的黃韋盛拿出期待以上...…",
-      "fingerprint": "9016af7687ec6253dc9b8c6b2e6dc2c7ca100dc5a5719c62a118fb1760b95e15",
+      "title": "新竹甲醛炊粉掀食安風暴 歸農雙重檢驗把關",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533481",
+      "content": "台南歸仁區農會的炊粉，取材當地的優質秈米製作，遠近馳名，由於新竹市有業者竟被檢出甲醛，因此提高要求標準，自己與廠商都將產品送驗，雙重把關，避免食安風暴延燒，讓民眾吃得放心。\n...…",
+      "fingerprint": "9021e2b06aaa18015af00e80253139d298a337a450391c7f42fdc8dc6e6f32f1",
       "seen_count": 1,
       "sources": [
         {
@@ -1419,10 +2305,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "手刀對獎！8/8 今彩539、3星彩、4星彩獎號出爐",
-      "link": "https://news.ltn.com.tw/news/society/breakingnews/5533288",
-      "content": "今天（8月8日）台彩各項開獎獎項及獎號。\n\n今彩539：05、11、24、31、32。\n\n39樂合彩：05、11、24、31、32。\n\n3星彩：219。\n\n4星彩...…",
-      "fingerprint": "764caf58749485c61c7f203c0e7606479ae33347b42e635c7c504e9bf0ed35ca",
+      "title": "日本長野縣土石崩落堵路 安曇野市390名旅客受困",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5533438",
+      "content": "日本長野縣安曇野市327號縣道槍岳矢村線，8日晚間因強降雨引發土石崩落堵住道路，使得當地山屋、溫泉旅館約有390名住宿旅客受困，目前尚未收到人員傷亡或車輛損壞通報。\n\n綜合日...…",
+      "fingerprint": "5fea887d4677d2a23652556d8a4abb5bad3c9c9870eef981597f633c2c14c573",
       "seen_count": 1,
       "sources": [
         {
@@ -1437,10 +2323,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "比基尼辣翻全場！「Summer Body」總決賽5寶媽奪亞軍  外貿女強人秀美腿",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533293",
-      "content": "World Gym世界健身俱樂部今天舉辦「Summer Body」總決賽，今年吸引逾200人報名，61位好手角逐，有五寶媽健身有成，獲獎亞軍，還有甩肉 15公斤的外貿女強人走秀...…",
-      "fingerprint": "b10ffaac659359b598c5e5c4fd4c26c8163553b3be8bae4d7db3efbe803695e5",
+      "title": "自由開講》725上街後 蔣盧失分比得分多",
+      "link": "https://talk.ltn.com.tw/article/breakingnews/5532430",
+      "content": "當媒體播出台中市議員質詢與台中市長盧秀燕針鋒相對，盧市長為法條中「得」將責任拋給中央，但同一個「得」字在國家教育研究院「重編國語辭典修訂本」還有「ㄉㄟˇ」的念法，有「應該、必須、需要」...…",
+      "fingerprint": "9f3e892cf00062f78803122f853576a6ef6aea8f81050410583527fb7fefcc8d",
       "seen_count": 1,
       "sources": [
         {
@@ -1455,10 +2341,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "林志玲4歲帥兒正臉曝光！網驚呼顏值超高：基因太好了",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5533290",
-      "content": "日本天團EXILE的成員AKIRA今天（8日）在三創CLAPPER STUDIO開唱，林志玲則曬出帶著4歲兒子「小寶貝」到農場採蕃茄的照片，雖然林志玲用墨鏡遮住兒子的臉，...…",
-      "fingerprint": "6fa38d57bfcd01d9ff3ff69873d468049efff2451728d7dfce91561e45dcf566",
+      "title": "陳子玄公開爸爸年輕帥照   憂粉絲人數被超車",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5533462",
+      "content": "女星陳子玄過去以八點檔《世間情》、《天之驕女》打開知名度，近年成立個人工作室，轉為自行接案，昨（8）日適逢一年一度父親節，罕見公開爸爸年輕時珍藏帥照，憂心自己會開始掉粉。...…",
+      "fingerprint": "046965e7473bc63dd7d006ccb908f0a3f53386b6cc6f0461579dca1ae0ccd4d9",
       "seen_count": 1,
       "sources": [
         {
@@ -1473,10 +2359,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "白海豚來襲放颱風假？這些縣市宣布了（不斷更新）",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533287",
-      "content": "白海豚颱風來勢洶洶，今（8日）晚到明天白天降雨最顯著，預計明晚才會逐漸緩和。本報在此為讀者整理各縣市停班停課資訊，方便快速掌握。\n\n連江縣\n\n全天停班停課\n\n宜蘭縣\n...…",
-      "fingerprint": "d62f764959fbdcbd9ee8c1593849ed9a221815e869ed9486fb1e6ba7f5762556",
+      "title": "MLB》苦！台灣怪力男李灝宇大比分領先只上場代跑 明恐連6戰蹲板凳",
+      "link": "https://sports.ltn.com.tw/news/breakingnews/5533472",
+      "content": "老虎今天以8：0大勝巨人，台灣怪力男李灝宇連續5場比賽從板凳出發，今天更是只在9局上上場代跑，沒有打擊機會。\n\n\n巨人今天派出右投魯普（Landen Roupp）先發，李灝...…",
+      "fingerprint": "f099b852201aed8d6ca7cd1169620f3c7fe3ff47a4dd08a9b793a144464d0ef8",
       "seen_count": 1,
       "sources": [
         {
@@ -1491,10 +2377,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "（直擊）AKIRA唱一半！超大咖神秘嘉賓突襲 林志玲4歲兒「奶音告白」全場瘋了",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5533286",
-      "content": "日本天團EXILE的成員AKIRA出道20年，首場個人演唱會「URBAN SAVAGE」今天（8日）起一連兩天在台北登場，更找來師兄弟共12人助陣，最大咖的神秘嘉賓則是4...…",
-      "fingerprint": "b4aa997a6f00138c086dcb761235840b1eb6669191c91f26f3266f7c2e1e6d35",
+      "title": "慈濟買BNT遭詐10.6億 呱吉轟陳沂「垃圾」：混淆時間序丟錯誤推論",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5533455",
+      "content": "慈濟委託私人疫苗掮客買BNT疫苗遭詐10.6億元，引發各界關注。網紅陳沂在臉書整理「案情」，聲稱：「問題是被騙的只有慈濟，台積電跟郭董都沒有啊！不能因此說BNT都是在騙吧？要洗台...…",
+      "fingerprint": "b933a84bda114bfbbbbaf1242d823d2a48373effae2758a40bdc898b08789983",
       "seen_count": 1,
       "sources": [
         {
@@ -1509,10 +2395,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "WTT冠軍賽》0:7落後連轟9分！張本智和橫掃眼鏡哥攜手篠塚、松島進4強",
-      "link": "https://sports.ltn.com.tw/news/breakingnews/5533292",
-      "content": "持外卡參賽的日本好手篠塚大登今晚在2026年WTT橫濱冠軍賽男單8強戰，以4:2扳倒世界排名第4的法國「眼鏡弟」F.勒布朗；世界排名第5的張本智和也以直落四橫掃「眼鏡哥」...…",
-      "fingerprint": "36388febf64fc6622622d20195d79866813983edaae60fe2b2bd6064e578c0ff",
+      "title": "新北風強雨驟沒放颱風假 侯友宜臉書湧留言質疑「標準在哪」？",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5533463",
+      "content": "受到白海豚颱風外圍環流影響，新北市從昨天（8日）深夜開始風強雨驟，今天早上仍狂風暴雨，卻未放颱風假，大批網友湧入新北市長侯友宜臉書留言，質疑「這種風雨不放假？」、「政府現在無作...…",
+      "fingerprint": "68cdfad18f8daccca90f7a0888b497f277ebd4e3a4282d6cf6c01f438095d183",
       "seen_count": 1,
       "sources": [
         {
@@ -1527,10 +2413,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "藍白強推公投印同張票 莊瑞雄：行政部門必須評估救濟機制",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5533289",
-      "content": "國民黨團提案修「公投法」，主張將多項公投案印同張選票，立法院會決議逕付二讀，民進黨團昨提復議案也被藍白否決。民進黨團幹事長莊瑞雄今（8）日表示，若藍白最後仍強行通過三讀，行政部...…",
-      "fingerprint": "486c4eaec682ae08633b3b94ca3a096202134f3222243c014279280ab34c12fa",
+      "title": "光陽 Nice 車系全面退場！旗下車款陸續改名 RTS 有望回歸 Racing",
+      "link": "https://auto.ltn.com.tw/news/32549",
+      "content": "光陽近期陸續調整旗下產品陣容，其中全新 G7 取代 KRV，同時主打旅跑的 Roma GT 也下架，近日曾經女性速克達代表 Nice 車系更是悄悄退場，不僅是早先下架的 Nice XL，連 Nice LED 也在官網上消失，改由 Laddi 115 接替市場定位。…",
+      "fingerprint": "6084fedde9c15d05233c11ad48034e4012a9870631be1c4bacae7a2a7665f183",
       "seen_count": 1,
       "sources": [
         {
@@ -1545,10 +2431,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "健康網》身上突冒紅疹 醫談PLEVA：好發年輕人",
-      "link": "https://health.ltn.com.tw/article/breakingnews/5497257",
-      "content": "〔健康頻道／綜合報導〕身上突然冒出數百顆紅疹，竟然不是水痘！皮膚科醫師黃星瑋在臉書粉專「皮膚星知識｜黃星瑋醫師」表示，最近門診來了一位年輕男性，短短幾週內，胸腹部及四肢陸續冒出大量紅色丘疹。\n\n...…",
-      "fingerprint": "313746c9f4487f6041bcd478f5ba1e1bcecd0c3eddb56110dc1214bcc16a00bb",
+      "title": "2026竹塹中元城隍祭8/12開跑！ 活動交管措施一次看",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533450",
+      "content": "為迎接傳承逾百年的竹塹重要民俗盛事「2026竹塹中元城隍祭」，系列活動將自8月12日「福門大開」揭開序幕，陸續辦理8月13日「夯枷解厄」、8月22日「城隍嘉年華」、8月25日「...…",
+      "fingerprint": "14d64c9c0efaee7cf3f7bea491965faeab25aa1590b6a99b28cbf8bbcc56ee2c",
       "seen_count": 1,
       "sources": [
         {
@@ -1563,10 +2449,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "江國賓父親節收愛女「1限定暖舉」 林佑星吐喪父心聲惹鼻酸",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5533281",
-      "content": "今是父親節，《百味人生》演員江國賓、林佑星、亮哲、劉曉憶到台南頑皮世界參與「百味人生88同樂會」。活動中，江國賓深情演唱《含笑食堂》片尾曲《必巡》，亮哲則唱跳五月天《戀愛...…",
-      "fingerprint": "a842d3de27c19e29c72879eb54c69b41268128cc2dc2de7523e3b43f10c15c61",
+      "title": "高雄男酒駕又毒駕遭攔查  2友人咆哮干擾也遭管束帶回",
+      "link": "https://news.ltn.com.tw/news/society/breakingnews/5533471",
+      "content": "高市苓雅分局今（9）日清晨5時41分巡邏經中華、四維路口，發現顏姓男子（21歲）開車自路邊起駛未打方向燈，警組尾隨至中華三路、中正四路口將顏男攔下，取締違規並實施酒測、唾液毒品...…",
+      "fingerprint": "6bb732b37c3e945e9bfe167ccfe8ba803213df93a73f3ce8be4a8f55c0b49c13",
       "seen_count": 1,
       "sources": [
         {
@@ -1581,10 +2467,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "漢光42》漢光演習架路障鄉親錯愕！ 在地後備軍人出馬神救援",
-      "link": "https://news.ltn.com.tw/news/def/breakingnews/5533262",
-      "content": "今年「漢光42號」實兵演練，軍方特別找來熟悉地方生態的後備軍人出馬，這群「在地人」化身溝通橋梁，用最接地氣的方式向鄉親說明，成功化解疑慮。\n\n​第四作戰區為了驗證戰時協調機制...…",
-      "fingerprint": "58bc827cb510f7a450ed25e7b829012345d3c640db1684d654c0cd2f53d4cc85",
+      "title": "白海豚螺旋雨帶籠罩北台灣 吳德榮：中部以北有劇烈降雨",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533457",
+      "content": "今（9日）早「白海豚」颱風螺旋雨帶正籠罩北台灣，中部以北有劇烈降雨發生，今晚有擴及南部山區的機率，各地皆有較強陣風，應注意防範。\n\n中央大學大氣科學系兼任副教授吳德榮今天在氣...…",
+      "fingerprint": "23557e38d1e8c3ea54dfe29b5435f62adfe6a3e9edafa1a6a8dec06b103c6749",
       "seen_count": 1,
       "sources": [
         {
@@ -1599,10 +2485,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "13萬變3萬！民團批社宅政見「跳票再腰斬」：還要地方一起背鍋",
-      "link": "https://estate.ltn.com.tw/article/28590",
-      "content": "社會住宅推動聯盟、OURs都市改革組織及多個民團8日召開記者會，針對中央社宅興辦計畫提出批評，指行政院2026年7月修正新版「百萬戶租屋家庭支持計畫（2025～2032年）」，將直接興辦社會住宅的8年新增目標，從選前承諾的13萬戶大砍至3萬戶，砍幅達77%，…",
-      "fingerprint": "b922a62d17c02a41c88bef0de3ca718c4042dc68e6ea1f45e24b570cab3b0eae",
+      "title": "波克夏「現金山」開始動了 阿貝爾接班後大買股票6450億元",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5533430",
+      "content": "〔財經頻道／綜合報導〕波克夏海瑟威（Berkshire Hathaway）於台灣時間8日晚間公布第2季財報，第2季營運表現強勁，營運獲利較去年同期成長16%，達到129.8億美元（約新台幣4186.1...…",
+      "fingerprint": "23dc13c58a60cf5de312516d9f68e86d239bff73832974fb55727940e55810f3",
       "seen_count": 1,
       "sources": [
         {
@@ -1617,10 +2503,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "質量太陽30倍！瀕死恆星爆炸 天文學家罕見完整記錄畫面曝",
-      "link": "https://news.ltn.com.tw/news/world/breakingnews/5533283",
-      "content": "美國兩個研究團隊把握難得的機會，從一顆演化到生命晚期的龐大恆星，出現第一個爆炸訊號開始，一路觀測其死亡過程，發現大質量恆星的死亡方式，比天文學家過去所知更多，而且這場超新星爆炸...…",
-      "fingerprint": "f8aa7315b95564527e1f8ad56b4baef6c956a01015bfa433a8a101bfe04c6262",
+      "title": "萬里龜吼港越籍攤商疑遭歧視 李四川心疼：政治別帶到攤子裡",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5533452",
+      "content": "新北萬里區龜吼漁港一名越籍新住民黎姓攤商近日反映遇到顧客質疑她講話口音、堅稱她是中國人、要她不要講台語，直呼客人很奇怪；國民黨新北市長參選人李四川昨天在臉書發聲「妳沒有錯」，今...…",
+      "fingerprint": "d62cd3e6c79e6d190a7f6ea7c2c2bce3126f1e0344cb9d65c679780c15a8a92b",
       "seen_count": 1,
       "sources": [
         {
@@ -1635,10 +2521,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "悲傷父親節 台南學甲小轎車被壓在大貨車下成廢鐵 男駕駛當場死亡",
-      "link": "https://news.ltn.com.tw/news/society/breakingnews/5533276",
-      "content": "台南市學甲區光華里南1線路段，今天（8日）下午5點3分發生驚悚車禍造成1死，1輛大貨車和小轎車對撞後，小轎車掉落在路側水溝，因碰撞、擠壓轎車車體有如一團廢鐵，40多歲郭姓駕駛受...…",
-      "fingerprint": "743c6ce562c8c2be9edad406c53ff3b8a1dbb0b629eab118137f16f75b0d81e7",
+      "title": "颱風夜路樹倒塌、婦人倒臥雨中 桃警連夜救援忙翻",
+      "link": "https://news.ltn.com.tw/news/society/breakingnews/5533436",
+      "content": "受到白海豚颱風外圍環流影響，桃園市各地強風豪雨不斷，桃園、楊梅等地都傳出路樹倒塌意外，楊梅裕成路樹木遭強風吹倒，還壓到路邊停放的車輛，巨大聲響把附近居民驚醒，颱風夜也讓員警忙翻...…",
+      "fingerprint": "40fd3e788b6d8b84bfce60aec5a06b9e9969aafdbcedc374bf8aca1b1501e5eb",
       "seen_count": 1,
       "sources": [
         {
@@ -1653,10 +2539,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "不是台灣！Costco展店踢鐵板  4千多坪新賣場卡關了",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5533271",
-      "content": "〔財經頻道／綜合報導〕Costco持續擴張展店，不過在佛羅里達州卻踢到鐵板。Costco計畫在龐帕諾比奇（Pompano Beach）大型開發案「The Pomp」內開設新門市，面積超過16萬平...…",
-      "fingerprint": "13bfe126a545d5e8d5e75612f43a9c4237c9679465b652f9a91b4a5240a2617a",
+      "title": "第1個沒有爸爸父親節  小優句句思念有洋蔥",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5533420",
+      "content": "〔娛樂頻道／綜合報導〕8日是一年一度父親節，藝人小優在臉書發文表示，昨是她第一個沒有爸爸的父親節，坦言如果是以前，應該會去爸爸最愛的熱炒店，全家人聚在一起，陪父親喝最愛的酒。\n\n\n小優難過表示，...…",
+      "fingerprint": "4b56f286c5d4a2eabc26264066fbdee9fe7f20876b97749a16e9786544f14921",
       "seen_count": 1,
       "sources": [
         {
@@ -1671,10 +2557,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "連江縣明天停班停課",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533278",
-      "content": "連江縣政府今天晚間宣布，受到颱風白海豚暴風圈來襲影響，連江縣9日全日停班，全日停課，呼籲鄉親儘量留在家中勿出門。…",
-      "fingerprint": "9aaa7c194aa336fe32d9f0a19ee1a7b920507dfd9553453f86aca5bbfa9e204f",
+      "title": "白海豚颱風奔襲馬祖 海巡警告：闖警戒區最高罰25萬",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533459",
+      "content": "中央氣象署已發布「白海豚颱風」海上警報，受外圍環流影響，馬祖地區有強陣風及長浪，海巡署金馬澎分署第10岸巡隊呼籲民眾切勿於颱風期間前往港區及岸際從事觀浪及水上遊憩等危險性活動，...…",
+      "fingerprint": "7325880a2b30300fb9d5ec61b6f9c51c7d8295b6f700cff09f110b7117ca0eb7",
       "seen_count": 1,
       "sources": [
         {
@@ -1689,10 +2575,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "警報響起！高雄女無照騎未掛牌機車硬闖拒檢恐噴10萬元  一原因溫馨反轉",
-      "link": "https://news.ltn.com.tw/news/society/breakingnews/5533237",
-      "content": "高雄市鳳山區昨天上午10時許進行「城鎮韌性演習」，正當警報聲大作，一名女子竟騎未懸掛號牌的「幽靈機車」、也未戴安全帽，公然在曹公路上橫衝直撞，警方示意停靠，女子當場拒檢狂飆，最...…",
-      "fingerprint": "7e10f165aeef194e7eca2a55b458916e0c50632d84c294386003918a9e5e0138",
+      "title": "19歲女大生產下死嬰裹屍藏家中 家人聞異味驚見陪同報案",
+      "link": "https://news.ltn.com.tw/news/society/breakingnews/5533439",
+      "content": "台北市一名19歲鄒姓女大生6天前在家中產下一名男嬰，但男嬰已經沒有呼吸心跳死亡，怎料鄒女竟將男嬰屍體以毛巾包裹放在家中，直到昨天（8日）父親節家人聞到異味詢問後，鄒女才坦承鑄下...…",
+      "fingerprint": "9d478b76b978b9cf61986c02f02f4e019983551f874a93350745e4b996fc9ded",
       "seen_count": 1,
       "sources": [
         {
@@ -1707,10 +2593,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "打造高齡安居新北 蘇巧慧：入住住宿式長照機構補助調升到每年24萬",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5533263",
-      "content": "民進黨立委、新北市長參選人蘇巧慧今（8）日出席高齡健康產業博覽會，體驗現場展出的智慧科技與輔具器材，聆聽智慧照顧如何導入醫療第一線。她說，新北市是全國高齡長者最多的城市，老年人...…",
-      "fingerprint": "16e1d3fa27f99aec48489f4fce762a3a8009d6c239dee54416213e081328797f",
+      "title": "注意！ 明天不是網路壞掉 台中防空演習首度挑戰「行動網路降速」",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533453",
+      "content": "為強化全民防空應變能力及提升防衛韌性，台中市城鎮韌性（防空）演習將於8月10日（星期一）下午2點30分至3點舉行。演習期間將實施防空警報發放、疏散避難、交通及其他必要管制等實做...…",
+      "fingerprint": "22d06f16bd6fd5aed450b47163739c2eecc450ac09a9260daad33a9c4eb3eb01",
       "seen_count": 1,
       "sources": [
         {
@@ -1725,10 +2611,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "漢光42》聯手護台！海巡八里艦、海陸突擊艇「同框」畫面曝",
-      "link": "https://news.ltn.com.tw/news/def/breakingnews/5533269",
-      "content": "面對中共灰色地帶襲擾，海軍、海巡聯合作戰已是大勢所趨，但長年以來僅是檯面下進行，「只能做、不能說」。然而，國軍今年漢光42號演習不僅由海巡八里艦率光華6號飛彈快艇緊急出港；在海...…",
-      "fingerprint": "7684483e680d89ee7ae5ee0a70318024508d45b0f464dbdf2a6eab58516f9f3f",
+      "title": "白海豚掃尾！ 桃園市臨時宣布復興區今日停班停課",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533456",
+      "content": "桃園市復興區公所因應氣象署預測白海豚颱風於今（8月9日）日於台中以北會有豪大雨的機會，也鑑於巴威颱風對復興區多處道路造成的重創，白海豚颱風的雨勢可能隨時讓復興區的原本脆弱的道路...…",
+      "fingerprint": "832423217812a1fac2972178ffc521d7a0e7ab2b54b96cc0ff83e876395f163d",
       "seen_count": 1,
       "sources": [
         {
@@ -1743,10 +2629,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "中國下1場重大競賽阻礙者竟是「這動物」比輝達晶片還難搞",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5533274",
-      "content": "〔財經頻道／綜合報導〕外媒報導指出，中國下一場重大競賽的阻礙者竟然是個意想不到的對手：猴子。過去八年，中國實驗用靈長類動物的價格飆升超過1000%，一隻食蟹猴的價格如今高達約26294美元（台幣...…",
-      "fingerprint": "53e386a00e193454dec5ba7dae1bbced09beca51cde21b0bab3b1e4f3077f920",
+      "title": "假投資騙1500萬 男子「控台收水」還拉少年下水",
+      "link": "https://news.ltn.com.tw/news/society/breakingnews/5533432",
+      "content": "陳姓男子加入詐騙集團擔任「控台」及「收水」，今年3月間以假投資虛擬貨幣手法，向被害人詐取高達1500萬元，甚至拉未成年少年一同交水製造金流斷點；苗栗地院法官近期審結，依違反詐欺...…",
+      "fingerprint": "544de02a33ec61f69758ddea86408af3cc70a0dffeb970036b473925dcdda6e5",
       "seen_count": 1,
       "sources": [
         {
@@ -1761,10 +2647,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "健康網》凱格爾運動男性做更好！醫提3點：須持續數週",
-      "link": "https://health.ltn.com.tw/article/breakingnews/5509816",
-      "content": "〔健康頻道／綜合報導〕大家多少聽過「凱格爾運動」。那麼男生需要做嗎？內湖三總泌尿外科主治醫師江佩璋於Threads「江佩璋醫師｜泌尿專科」表示，練對骨盆底，可能幫助射精控制與硬度。\n\n\n江佩璋表...…",
-      "fingerprint": "bd979f379c5c25d3997bd1ffe87e0e4ae31953d1f018efa4cf0f32cf3da9e440",
+      "title": "完整錄音曝光！中國藉颱風「管制海峽」 陸委會：可笑至極！",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5533449",
+      "content": "中國海事局6日晚間突發公告，宣稱受白海豚颱風影響，將對「行經台灣海峽南口北上的船舶」實施交通管制。中國海事部門甚至透過無線電廣播，向行經海峽的各國船舶強制播報，本報掌握完整廣播...…",
+      "fingerprint": "f0c150d252de21c81c455b711f8dd0be1609e6951f88f010baabff84bd85aa49",
       "seen_count": 1,
       "sources": [
         {
@@ -1779,10 +2665,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "澎湖「13小孩擠10坪屋」父母都離家 縣府帶隊探視吃閉門羹",
-      "link": "https://news.ltn.com.tw/news/society/breakingnews/5533205",
-      "content": "澎湖尖山有戶人家有13個小孩，媽媽離家，孩子們擠住10坪屋子。今（8）日父親節，澎湖縣政府秘書長林文藻帶領衛生局長陳淑娟、社會處長周柏雅等人，在議員許育愷、村長王家興陪同下去探...…",
-      "fingerprint": "9defb752fa57f29e6599b076929532378478645dcb0af6d5d4014cf6a0c1023a",
+      "title": "美伊戰事恐難靠空中力量取勝  美最高將領正尋求擺脫伊朗戰爭",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5533419",
+      "content": "美國與伊朗關係目前仍緊張，知情人士透露，美國參謀長聯席會議主席凱恩上將（Dan Caine）私下與川普的其他高級顧問會晤，明確表示「美國需要找到擺脫與伊朗戰爭的途徑」。\n\n根...…",
+      "fingerprint": "a24b49a7dab63ff7c20c5431a16465be2437c14dbd63aa17c4a6846d3b3ac86d",
       "seen_count": 1,
       "sources": [
         {
@@ -1797,10 +2683,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "原民博物館被遷址 蘇巧慧竟答有美術館 李競辦：不尊重原住民",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5533270",
-      "content": "新北市藍營質疑原定在新北市三鶯地區設立的國立原住民族博物館，在民進黨政府上任後遭拔除並改址高雄，民進黨新北市長參選人蘇巧慧8日回應表示「現在有新北美術館」，李四川競選辦公室發言...…",
-      "fingerprint": "f354c9043a89bf8ddaab35852c7c2ca382d16a9adfbd8c593764e3af1ee68538",
+      "title": "逢日本「大吉日」  高雄市議長康裕成赴八王子祭見證190對新人幸福時刻",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533446",
+      "content": "日本東京都八王子市「2026八王子祭」適逢令和8年8月8日，被視為難得「大吉日」，共190對新人選在這天登記結婚，高市議長康裕成與高市議會國民外交促進會議員受邀到場，見證最幸福...…",
+      "fingerprint": "22e0a1bc43487f96f0b9eeb4943fca6d7d6df2a488620b5614f6c7aeb4155f0d",
       "seen_count": 1,
       "sources": [
         {
@@ -1815,10 +2701,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "高球》冠軍當父親節最佳禮物！王偉軒慶璉禾登豐公開賽3連霸",
-      "link": "https://sports.ltn.com.tw/news/breakingnews/5533273",
-      "content": "2026肇喜登峰巡迴賽第5站─慶璉禾登豐公開賽，今在彰化高爾夫球場完成最終回合，原本領先3桿的王偉軒在被追平及超前後，展現超強抗壓力，最後5洞抓下4鳥，終以2桿之差3連霸...…",
-      "fingerprint": "dc51248fc86cce3ea157018f393f4f6f986bc5c91fa9a63988256214db3e811a",
+      "title": "自由開講》遺贈修法「受益者負擔」的精神與實務",
+      "link": "https://talk.ltn.com.tw/article/breakingnews/5529042",
+      "content": "行政院於115年7月30日通過《遺產及贈與稅法》部分條文修正草案，並將送交立法院審議。此次修法，主要是配合憲法法庭113年憲判字第11號判決。從而修正遺贈稅法第6條，原條文增訂被...…",
+      "fingerprint": "65f17b91ef8ef58c02e6e5c382f7ae6a40b1cc127df0a66aaf661129404e2f5d",
       "seen_count": 1,
       "sources": [
         {
@@ -1833,10 +2719,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "向鹽找解方！擺脫依賴中國  美新創公司押注鈉離子電池",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5533268",
-      "content": "美國政府亟思擺脫電池及其所需關鍵礦產對中國的依賴，一項研發已數十年的鈉離子電池技術或許可讓美國達成此目標。華爾街日報報導，關鍵材料取自食鹽中常見成分的鈉基電池，可能較傳統...…",
-      "fingerprint": "eaec6e30620333d26da3896ff27fb8df63c5833d4e7b73793d4d15498c1cbf7f",
+      "title": "健康網》臉不會愈洗愈油！專家談「代償性出油」原因",
+      "link": "https://health.ltn.com.tw/article/breakingnews/5532995",
+      "content": "〔健康頻道／綜合報導〕每到換季或夏日，是否總被滿臉油光搞得心煩意亂？明明T字部位油脂分泌旺盛、粉刺與青春痘冒不停，兩頰卻乾到緊繃甚至刺痛。面對這種「外油內乾」的肌膚危機，網路上說法五花八門：有人...…",
+      "fingerprint": "45d7c7383f572b5c8e0b13950ebcf6d2dfb7fbd5e0bd112cf8a33a7544275670",
       "seen_count": 1,
       "sources": [
         {
@@ -1851,10 +2737,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "自由開講》毒油會下架，謊言不會──誰在餵養台灣的認知污染？",
-      "link": "https://talk.ltn.com.tw/article/breakingnews/5524550",
-      "content": "當地方政府平時掌握第一線查核權，出了問題卻說「都是中央沒有把關」；中央依法發布警示，又被指責「早就該知道」。如果依照這樣的邏輯，地方自治便只剩下接受掌聲的功能，而所有政治成本都由中央承...…",
-      "fingerprint": "a367b0188d4125012f89e564b2c0c9b9f3bd8f3ccfc67ecd79030e0b92e7e93b",
+      "title": "白海豚強風大雨來襲！公路局預警性封閉2路段",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533445",
+      "content": "中度颱風白海豚持續通過台灣北方海面，且昨晚起颱風外圍雲系進入台灣北部陸地，帶來可觀降雨，交通部公路局指出，截至今（9）日上午9時，桃園市復興區台7線、新北市淡水區台61線部分路...…",
+      "fingerprint": "71f31d77154280de9ed01a538ab2b5182e93164eb8bcbb2d9ac31dd2dff965af",
       "seen_count": 1,
       "sources": [
         {
@@ -1869,10 +2755,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "健康網》GG大小看鼻子 真的？泌尿醫解析",
-      "link": "https://health.ltn.com.tw/article/breakingnews/5517427",
-      "content": "〔健康頻道／綜合報導〕過去曾謠傳：仔細看男性的鼻子可觀察出他的生殖器尺寸，這是真的嗎？泌尿科醫師黃冠鈞在臉書粉專「黃冠鈞醫師-泌尿科診間日誌」表示，部分研究確實提到兩者有正相關，也就是觀察同一人...…",
-      "fingerprint": "5cadf07737afb882c007712c9a7173e2a79ddacbc6abae33c937692dc99b9393",
+      "title": "累積7世福報的故宮龍藏經爆紅  南院免排隊成避暑賞寶熱點",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533425",
+      "content": "傳說瞻仰一次就可累積7世福報的國寶重器《龍藏經》，故宮本院特展第二檔再度掀起搶看熱潮，不少民眾排隊逾3個鐘頭只為一睹傳奇藏密經典的盛世風采。故宮南院表示，《龍藏經》在南院是常設...…",
+      "fingerprint": "dae5b9510ef38e6fc8ffb6aaab19d96b35f1a85a9f0e448d41f9d926bc6ebf68",
       "seen_count": 1,
       "sources": [
         {
@@ -1887,10 +2773,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "白海豚來襲 淡水民眾直擊疑似龍捲風 畫面驚人",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533266",
-      "content": "中度颱風白海豚外圍環流8日逐漸進逼北台灣，位於淡水區中山北路三段與育英路口遭疑似龍捲風吹襲，瞬間強風捲起路面雜物，還造成路樹倒塌，龍捲風畫面也被民眾拍攝到，在Threads上瘋...…",
-      "fingerprint": "c24bed5edf9ed5fdf9220336e6b5102bb85db55b84a430199bddfa7699370dfc",
+      "title": "高雄8旬嬤迷途牽車徘徊  警靠在地「人情GPS」助返家",
+      "link": "https://news.ltn.com.tw/news/society/breakingnews/5533442",
+      "content": "「警察先生，我不知道要去哪……」高雄市梓官區蚵仔寮地區八旬萬姓老婦，獨自牽著腳踏車在路口徘徊、神情茫然，岡山警分局赤崁派出所所長陳威傑和警員高韻涵陪著阿嬤牽腳踏車散步，沿途打聽...…",
+      "fingerprint": "97671625b80c51e1bf5ac3e8e9c99f4e5aa1009be2b2f1df87168258e4391285",
       "seen_count": 1,
       "sources": [
         {
@@ -1905,10 +2791,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "中島健人快閃首爾！狂撩韓粉「主角是我」：別被我曬中暑了",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5533267",
-      "content": "日星中島健人近期快閃泰國曼谷、南韓首爾舉行街頭快閃，為亞洲巡迴催票房。今天（8日）他在南韓時間7時許現身盤浦漢江公園的月光廣場演唱，吸引上百人朝聖，現場氣氛十分熱烈。\n\n...…",
-      "fingerprint": "ef9cf5e58f0ac8ad415ef5e5d3148f139ecb5583f66c640d6f17776b4c1cbe16",
+      "title": "別害怕說「我不知道」  486先生：這是開始進步起點",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5533423",
+      "content": "「願意低頭學習的人，最後才能抬頭看見更大的世界」，團購電商名人「486先生」陳延昶今（9）日上午提醒網友粉絲，不要害怕說「我不知道」，因為一句誠實的「我不知道」，往往是一...…",
+      "fingerprint": "a6cdd7e8152bc93ba64a554c1504735cc4a6238ae4c235adb0df5da5633a043c",
       "seen_count": 1,
       "sources": [
         {
@@ -1923,10 +2809,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "捷運三鶯線車站漏水 新北捷運局：開放式月台 會持續改善精進",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533238",
-      "content": "白海豚颱風來襲，8日下午起為新北市帶來間歇性的強風豪雨，有民眾搭乘新近通車的捷運三鶯線，發現位於月台區的買票機台前出現漏水情形，影片畫面在Threads上瘋傳。新北市捷運工程局...…",
-      "fingerprint": "7f251a31afe6ad95a1d8caf82eec157167cf2cae7b2d53023c5e1f2ce0f94c3d",
+      "title": "MLB》老鬼！42歲三屆塞揚神獸薛哲狂飆3516K 締大聯盟史詩級偉業",
+      "link": "https://sports.ltn.com.tw/news/breakingnews/5533435",
+      "content": "藍鳥42歲三屆塞揚強投薛哲（Max Scherzer），今天面對費城人繳出6局失2分優質先發，同時也飆出生涯第3516次三振，正式獨居大聯盟歷史三振榜第10名。\n\n\n薛哲首...…",
+      "fingerprint": "f0f1e6c13b02b2175324ed2d1baecbe232a019060168f8b8827ac08b2a3d3dca",
       "seen_count": 1,
       "sources": [
         {
@@ -1941,10 +2827,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "日職》遭軟銀強投復仇！台灣重砲林安可完全熄火 慘吞2K提前退場",
-      "link": "https://sports.ltn.com.tw/news/breakingnews/5533257",
-      "content": "西武獅台灣重砲林安可今天扛先發第4棒，但遭軟銀強投上茶谷大河封鎖，3打數完全熄火，打擊率降至0.228。\n\n\n林安可在7月24日與上茶谷大河交手時，曾從他手中敲出全壘打，結...…",
-      "fingerprint": "5f51974d28fccbc51a6e7df4c142737b3b4fbd2420fc416cfed3bdac16be3f63",
+      "title": "台南指標大樓延遲投信致權益受損 經理：有致歉但住戶不接受",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533437",
+      "content": "台南市東區中華東路上1處80年代指標性的住宅大樓社區，遭住戶投訴管理員無故延遲投遞重要信件，導致住戶錯失領取股東會紀念品的時效，權益受損。住戶怒批當班組長面對詢問不僅無歉意、還...…",
+      "fingerprint": "86bf4e81ea68edc027d7bb28a7584ad6d166803b593197c5fdb5b0e9b589cbb7",
       "seen_count": 1,
       "sources": [
         {
@@ -1959,10 +2845,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "不爽「台青e家」被封！國台辦大罵民進黨 梁文傑回一句酸爆",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5533171",
-      "content": "中國國台辦推出「台青e家」平台，整合赴中就業、實習、升學等資訊，吸引台灣年輕人登錄求職資料，網站更出現共青團職缺。陸委會發言人梁文傑昨天說，「台青e家」違反兩岸條例，已經封鎖。國...…",
-      "fingerprint": "30cd8674ce49783dcba991da756239ab39ef956a68301dc0ff12b6302bb43274",
+      "title": "與少女相戀發生性關係 男大生遭退學提告遭法院駁回",
+      "link": "https://news.ltn.com.tw/news/society/breakingnews/5533431",
+      "content": "台東縣王姓男大學生與年僅14歲少女談戀愛，多次在公共場所無障礙廁所及影城包廂內發生性行為。經少女父親發現並提告後，法院判刑1年6個月，校方召開性別平等教育委員會及學生獎懲委員會...…",
+      "fingerprint": "64157aa3dc79c5fb8b66a076b157cae2e4ef1416d956251a53f915fe2cd34e6a",
       "seen_count": 1,
       "sources": [
         {
@@ -1977,10 +2863,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "台中男發酒瘋「太沒品」秀下限 竟尿警察身上....下場出爐",
-      "link": "https://news.ltn.com.tw/news/society/breakingnews/5533229",
-      "content": "台中市霧峰區朱姓男子喝酒後發酒瘋，不僅丟東西、揮舞小刀，警方到場管束時還推擠警員、拍落密錄器，甚至在被壓制時直接尿在警察身上，讓對方制服褲濕透、沾滿污穢，台中地院近日審理後，依...…",
-      "fingerprint": "fb5f8373e6263d9538cb2055541c376a849b27a4b4b33dcae8a3ef8f3df5d0c4",
+      "title": "熊本再震！規模4.2極淺層地震 最大震度4級",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5533428",
+      "content": "日本熊本縣7月28日發生規模7.1強震，今（9日）早8時02分（台灣時間早上7時02分）又傳來震源深度僅10公里的規模4.2極淺層地震，於縣內上天草市測到最大震度4級。\n\n據...…",
+      "fingerprint": "e1bb5a41d48b8465747fbc947691cefcbb15bcb80954461523d49c18a97e97fb",
       "seen_count": 1,
       "sources": [
         {
@@ -1995,10 +2881,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "白海豚沒來「尖石甜柿先落果」？  鄉長曾國大：媒體報導有誇張",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533223",
-      "content": "新竹縣尖石鄉在626豪雨、711巴威颱風強降雨中，多處道路柔腸寸斷，正值收成的水蜜桃搶收造成損失。沒想到，今天白海豚颱風沒來，再度傳出正值成熟期的甜柿嚴重落果？尖石鄉長曾國大受...…",
-      "fingerprint": "19f64e09a1e7e0d8874d28060ec33d038da8ca7b35b463cb092c5788cd77b0a9",
+      "title": "白海豚颱風持續減弱 氣象署：最快明晨解除海警",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533433",
+      "content": "中度颱風白海豚昨晚起帶來明顯降雨，中央氣象署預報中心副主任伍婉華指出，目前白海豚颱風有減弱趨勢，預計6小時內減弱至輕度颱風上限，但今日中部以北、東北部地區、南部山區持續有雨，且...…",
+      "fingerprint": "84b432be4150c5229a85e9771e36b0211f6bd1a0df72c3d9465646be42e6dc64",
       "seen_count": 1,
       "sources": [
         {
@@ -2013,10 +2899,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "隨軍直擊》教召部隊15分鐘內完成砲陣地部署 朝紅色海灘待命",
-      "link": "https://news.ltn.com.tw/news/def/breakingnews/5533255",
-      "content": "〔記者方瑋立／台南隨軍採訪〕漢光42號演習實兵驗證進入4天，第四作戰區全旅動員教召的步兵部隊砲兵營，今（8日）受命後在台南市中心演練射擊前準備程序（演練陣地佔領），快速機動多門105公釐牽...…",
-      "fingerprint": "d0623f11d9decd334c027a8029228131a5931872688e1dac8295cfdb7543d22b",
+      "title": "吳鳳登機溫馨插曲 收到平安符小心藏包包",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5533422",
+      "content": "藝人吳鳳近日搭機飛往土耳其時，發生了一件溫馨的小插曲。就在一家人準備登機時，一位台灣朋友走過來說：「吳鳳，我知道你每年都會參加媽祖活動，這是我特地從白沙屯媽祖那裡求來的平...…",
+      "fingerprint": "fb4d1e3c61c082b6706ab7fad2e1d3d2f00d889fbf368740936b3aa7a03c1dcb",
       "seen_count": 1,
       "sources": [
         {
@@ -2031,10 +2917,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "宜蘭縣明正常上班、上課",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5533256",
-      "content": "白海豚颱風逼近，中央氣象署發布海上颱風警報，不過，宜蘭縣未在警戒區，宜蘭縣政府宣布明天（９日）正常上班、上課，但受颱風外圍環流影響，有局部大雨或強陣風，請民眾慎防山區坍方、落石...…",
-      "fingerprint": "e2f1768a78d9b5bfc4ae8a9e0739ef33c6ae278c55399e099108263d5f3ba39d",
+      "title": "跨境醫美風險大3-3》海外醫美誰把關？假心得、仲介招攬 衛福部：都可能違法",
+      "link": "https://health.ltn.com.tw/article/breakingnews/5533411",
+      "content": "跨境醫美熱潮下，社群平台成為海外醫美重要招攬管道。衛福部醫事司表示，非醫療機構不得刊播醫療廣告，若透過IG、Threads、網站或說明會招攬民眾赴海外接受醫美，甚至以心得文...…",
+      "fingerprint": "f2165aad759d05ccf6dedef98d48e3fb236e5f3252a7f6e2faae89c3e9db054c",
       "seen_count": 1,
       "sources": [
         {
