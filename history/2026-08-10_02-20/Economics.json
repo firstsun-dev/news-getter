@@ -1,0 +1,20 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-08-10_02-20",
+  "stories": [
+    {
+      "title": "How China became the world’s great oil power",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/09/how-china-became-the-worlds-great-oil-power",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據《經濟學人》報導，中國共產黨已取代 OPEC 成為全球石油市場的主要決策者。該報導標題指出中國已成為世界級的石油強權，並強調在石油領域的權力轉移中，中國共產黨現在掌握主導權。",
+      "judgment": "中國取代 OPEC 成為全球石油市場主導力量，標誌著全球能源地緣政治格局的劇烈重組。過去 OPEC 長期透過產量配額與價格協調機制掌控全球油價，但隨著中國成為最大原油進口國及煉油能力擴張，其對供應鏈的掌控力已轉化為實質議價權。中國透過長期購油合約、戰略儲備調度及與產油國的雙邊合作，逐步削弱 OPEC 的集體行動效力。此趨勢將迫使傳統產油國調整出口策略，並可能加速全球能源貿易從「產量主導」轉向「需求主導」的結構性轉變。長期來看，中國若持續強化能源自主與多元化供應網絡，將進一步壓縮 OPEC 的政策空間，並重塑全球能源安全架構。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/09/how-china-became-the-worlds-great-oil-power"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

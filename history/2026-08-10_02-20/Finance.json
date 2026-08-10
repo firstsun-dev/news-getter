@@ -1,0 +1,116 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-08-10_02-20",
+  "stories": [
+    {
+      "title": "UK’s jobs market shows signs of stabilisation, REC/KPMG say",
+      "url": "https://www.investing.com/news/economic-indicators/uks-jobs-market-shows-signs-of-stabilisation-reckpmg-say-4847763",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 REC/KPMG 報告，英國就業市場顯示出穩定跡象。該報告由 Investing.com Bonds 報導，標題為「英國就業市場顯示穩定跡象，REC/KPMG 表示」。",
+      "judgment": "英國就業市場的穩定跡象可能反映經濟活動的逐步恢復，這對債券市場具有正面意義。穩定的就業數據通常意味著消費力維持，進而支撐經濟增長，降低央行進一步降息的需求。然而，若穩定僅是短期現象，則可能掩蓋潛在的結構性問題，如勞動力短缺或薪資壓力。投資者應持續關注後續數據以確認趨勢。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/uks-jobs-market-shows-signs-of-stabilisation-reckpmg-say-4847763"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "China CPI eases, PPI deflation moderates in July",
+      "url": "https://www.investing.com/news/economic-indicators/china-cpi-eases-ppi-deflation-moderates-in-july-4847797",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "中國 7 月消費者物價指數（CPI）放緩，生產者物價指數（PPI）通縮幅度減緩。此數據由 Investing.com Bonds 報導，標題為「中國 7 月 CPI 放緩，PPI 通縮減緩」。",
+      "judgment": "中國 7 月 CPI 放緩與 PPI 通縮減緩的跡象，顯示國內需求仍顯疲軟，但通縮壓力略有緩解。CPI 放緩可能反映消費復甦力道不足，而 PPI 通縮減緩則暗示工業端價格下跌速度趨緩，可能與部分原材料價格穩定或產能調整有關。此數據對中國貨幣政策制定具參考價值，若通縮壓力持續，可能促使央行進一步寬鬆以刺激經濟。然而，需觀察後續數據確認趨勢是否反轉，以及政策效果能否有效提振內需。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/china-cpi-eases-ppi-deflation-moderates-in-july-4847797"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Japan posts first current account deficit in nearly 1-1/2 years",
+      "url": "https://www.investing.com/news/economic-indicators/japan-posts-first-current-account-deficit-in-nearly-112-years-4847794",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "日本錄得近 112 年來的首次經常帳赤字。此數據由 Investing.com Bonds 報導，標題指出日本出現近 1 年半來的首次經常帳赤字，具體數據顯示為歷史性轉折。",
+      "judgment": "日本出現近 112 年來的首次經常帳赤字，標誌著其長期依賴出口與海外投資收益的經濟模式面臨結構性挑戰。此現象可能源於能源進口成本上升、日圓貶值導致輸入性通膨加劇，以及全球需求疲軟削弱出口競爭力。若此趨勢持續，將對日圓匯率穩定性構成壓力，並可能迫使日本央行調整貨幣政策以應對通膨與經濟成長失衡。此外，經常帳赤字可能削弱日本作為全球資本淨債權國的地位，影響其國際金融市場信心。長期而言，日本需推動產業升級與能源自主，以恢復經常帳平衡。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/japan-posts-first-current-account-deficit-in-nearly-112-years-4847794"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Yemen’s Houthis attack Saudi refinery after kingdom signs defence pact",
+      "url": "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-saudi-aramco-jazan-refinery-fire-extinguished-4847714",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "葉門胡塞武裝宣稱攻擊了沙烏地阿拉伯的阿美石油公司（Saudi Aramco）位於賈贊（Jazan）的煉油廠。根據報導，該煉油廠發生火災，但火勢已被撲滅。此次襲擊發生在沙烏地阿拉伯簽署國防協議之後。",
+      "judgment": "胡塞武裝對沙烏地阿美石油公司賈贊煉油廠的襲擊，凸顯了中東地緣政治緊張局勢對全球能源供應鏈的持續威脅。儘管火勢已被撲滅，顯示沙烏地阿拉伯在關鍵能源設施的防禦與應變能力有所提升，但此類針對能源基礎設施的攻擊若頻繁發生，將可能擾亂原油加工與出口，進而影響區域乃至全球的油價穩定。沙烏地阿拉伯近期簽署國防協議，顯示其正積極尋求外部安全支持以應對來自也門方向的威脅，這可能促使區域軍事部署調整，並進一步加劇地緣政治風險溢價。長期來看，能源生產國需持續強化設施防護與分散化策略，以維持供應鏈韌性。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-saudi-aramco-jazan-refinery-fire-extinguished-4847714"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil rises on uncertainty over reopening of Hormuz",
+      "url": "https://www.investing.com/news/commodities-news/oil-rises-as-uncertainty-continues-over-reopening-of-strait-4847759",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Gold 報導，油價上漲，原因是市場對海峽重新開放的不確定性持續存在。",
+      "judgment": "油價上漲反映地緣政治風險對能源供應的潛在威脅。海峽作為全球關鍵石油運輸通道，其封閉或重新開放的不確定性直接影響市場對供應中斷的預期，進而推升油價。此現象顯示地緣政治事件對大宗商品價格的即時衝擊力，投資者需密切關注相關動態以評估風險。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-rises-as-uncertainty-continues-over-reopening-of-strait-4847759"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Iran says Oman deal is in ’final stages’ but US must act to open Hormuz",
+      "url": "https://www.investing.com/news/commodities-news/iran-says-oman-deal-is-in-final-stages-but-us-must-act-to-open-hormuz-4847732",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "伊朗表示與阿曼的協議已進入最後階段，但強調美國必須採取行動以開放霍爾木茲海峽。",
+      "judgment": "伊朗與阿曼的協議進展顯示中東地區外交動向趨於緩和，但伊朗將霍爾木茲海峽的開放與美國行動掛鉤，凸顯地緣政治風險仍高。若美國未採取實質措施，可能導致海峽通航受阻，進而影響全球油運供應鏈與油價波動。此事件反映中東國家在區域穩定與大國博弈間的平衡策略，對能源市場與國際貿易路線構成潛在威脅。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/iran-says-oman-deal-is-in-final-stages-but-us-must-act-to-open-hormuz-4847732"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil gains as Hormuz reopening remains elusive, Houthi attacks stoke supply risks",
+      "url": "https://www.investing.com/news/commodities-news/oil-gains-as-hormuz-reopening-remains-elusive-houthi-attacks-stoke-supply-risks-4847788",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "原油價格上漲，原因是霍爾木茲海峽重新開放的前景不明，且胡塞武裝的襲擊加劇了供應風險。",
+      "judgment": "霍爾木茲海峽作為全球石油運輸的關鍵咽喉，其通關受阻直接威脅全球能源供應鏈的穩定性。胡塞武裝的持續襲擊行為，不僅增加了航運保險成本，更迫使部分油輪繞行，推高了運輸時間與成本。這種地緣政治風險的升溫，導致市場對未來供應中斷的擔憂加劇，進而支撐油價上漲。若局勢持續惡化，可能引發更廣泛的能源價格波動，影響全球經濟復甦步伐，並促使各國加速能源多元化戰略以應對潛在的供應衝擊。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-gains-as-hormuz-reopening-remains-elusive-houthi-attacks-stoke-supply-risks-4847788"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Iran ties Hormuz reopening to US concessions on several demands",
+      "url": "https://www.investing.com/news/commodities-news/iran-ties-hormuz-reopening-to-us-concessions-on-several-demands-4847760",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "伊朗將重新開放霍爾木茲海峽與美國在多項要求上做出讓步掛鉤。",
+      "judgment": "伊朗此舉顯示其將霍爾木茲海峽的通行權作為地緣政治談判籌碼，若美國未在核協議、制裁解除或區域影響力等核心議題上讓步，海峽可能面臨封鎖風險。霍爾木茲海峽是全球約 20% 石油運輸的關鍵通道，一旦關閉將導致油價劇烈波動，衝擊全球供應鏈與能源安全。此舉可能加劇中東緊張局勢，促使國際市場加速能源來源多元化，並強化區域國家對美國安全承諾的質疑。長期而言，若衝突升級，可能引發大國直接介入，改變全球能源地緣格局。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/iran-ties-hormuz-reopening-to-us-concessions-on-several-demands-4847760"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Tehran says US must meet new conditions before Iran reopens strait",
+      "url": "https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "伊朗表示美國必須滿足新條件才會重新開放海峽。伊朗的言論趨於強硬，同時正推動與阿曼達成協議以重新開放該水道。",
+      "judgment": "伊朗強硬表態要求美國滿足新條件才重開海峽，顯示地緣政治緊張局勢升級，可能直接衝擊全球能源供應鏈穩定。若海峽封閉或通航受阻，將推升油價波動，影響亞洲與歐洲能源進口成本。伊朗與阿曼的潛在協議雖提供外交緩衝，但取決於美國回應，若談判破裂，區域衝突風險將擴大，進而干擾國際航運與保險成本。此發展亦可能促使更多國家加速能源來源多元化，長期削弱中東地緣政治對全球市場的單向影響力。",
+      "used_source_urls": [
+        "https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
