@@ -1,0 +1,32 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-10_13-23",
+  "stories": [
+    {
+      "title": "Solutions for the Black maternal-health crisis",
+      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/solutions-for-the-black-maternal-health-crisis",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國醫院協會的 Joy Rhoden 指出，數據、社區合作夥伴關係、擴展的護理團隊以及專注於解決健康差異，對於改善產婦健康結果至關重要。",
+      "judgment": "Black 產婦健康危機的解決方案需要多維度的系統性介入。Joy Rhoden 強調的數據驅動決策能精準識別差異，而社區合作夥伴關係則能建立信任並擴大服務覆蓋範圍。擴展護理團隊有助於填補專業人力缺口，提供連續性照護。這些策略共同指向一個核心：必須從結構性層面解決健康差異，而非僅依賴傳統醫療模式。這將推動醫療機構重新設計服務流程，並促進跨部門資源整合，以應對長期存在的產婦健康不平等問題。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/solutions-for-the-black-maternal-health-crisis"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "The Predictable Executive Career Arc Is Over",
+      "url": "http://feeds.harvardbusiness.org/2026/08/the-predictable-executive-career-arc-is-over",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論指出，在工作壽命延長與技術快速變遷的時代背景下，高階主管的職業發展軌跡已不再具有可預測性。領導者必須為多種可能的未來情境做好準備，以應對當前環境的不確定性。",
+      "judgment": "傳統線性且可預期的企業高階主管職涯路徑已宣告終結，這標誌著領導力發展模式的根本性轉變。隨著技術迭代加速與人口結構變化，組織無法再依賴既定的晉升階梯來培養未來領袖。企業必須重新設計人才發展策略，從單一軌道轉向多元情境模擬，強化領導者的適應力與抗壓性。此趨勢將迫使組織打破科層制思維，建立更靈活的內部流動機制，並重視跨領域經驗的累積。未能及時調整的人才策略將導致關鍵領導人才流失或能力錯配，進而影響組織在動盪市場中的競爭力。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/the-predictable-executive-career-arc-is-over"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
