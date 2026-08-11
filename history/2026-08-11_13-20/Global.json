@@ -1,0 +1,140 @@
+{
+  "category": "Global",
+  "timestamp": "2026-08-11_13-20",
+  "stories": [
+    {
+      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "烏克蘭總統澤倫斯基表示，俄羅斯使用北韓提供的彈道导弹襲擊烏克蘭扎波羅熱地區，造成至少 6 人死亡、19 人受傷。此次襲擊涉及俄羅斯盟友北韓的武器。",
+      "judgment": "此事件標誌著俄烏衝突中武器供應鏈的重大升級，顯示北韓已從間接支援轉向直接提供戰略級彈道导弹給俄羅斯。這不僅延長了俄羅斯的彈藥庫存，更可能改變戰場動態，使烏克蘭面臨更頻繁且難以攔截的遠程打擊。國際社會需重新評估對北韓的制裁有效性，並加速向烏克蘭提供先進防空系統。此舉也可能引發北韓與西方關係進一步惡化，甚至影響全球地緣政治平衡。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "據報導，美國總統特朗普在土耳其參加北約峰會期間，為應對伊朗威脅，參與了一項欺騙行動。記者被錯誤告知他將與他們一同乘坐空軍一號離開，實際上他卻躲藏在餐飲卡車中，以秘密方式更換飛機。",
+      "judgment": "此事件顯示美國總統在面對潛在安全威脅時，採取極端隱蔽的行動策略，反映出當前地緣政治緊張局勢下對高層領導人保護的重視。特朗普選擇隱藏在餐飲卡車中而非直接乘坐專機，可能是為了避免被敵對勢力鎖定行蹤，特別是針對伊朗的潛在威脅。這種做法雖能提升短期安全性，但也可能引發公眾對政府透明度與領導人形象管理的質疑。長期而言，若此類隱蔽行動成為常態，可能削弱公眾對政府危機應對能力的信任，並影響國際盟友對美國領導力的信心。此外，媒體被刻意誤導的做法也可能加劇新聞自由與國家安全之間的張力，需進一步觀察後續政策調整與輿論反應。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "敘利亞前總統巴沙爾·阿薩德被缺席判處死刑。他因在敘利亞內戰期間犯下戰爭罪和反人類罪而被定罪。此判決由 BBC News 報導。",
+      "judgment": "阿薩德被缺席判處死刑標誌著敘利亞內戰後過渡司法的重要轉折點，儘管其本人已流亡且無法實際執行刑罰，但此判決具有強烈的象徵意義與政治衝擊。它反映了國際社會對敘利亞政權暴行的正式譴責，可能強化區域內反對勢力的合法性，並對其他潛在戰犯產生威懾效果。然而，由於敘利亞當前政局仍由阿薩德支持者掌控，此判決在國內實際執行可能性極低，更多是作為國際法理上的定調。此事件可能影響中東地緣政治平衡，促使區域國家重新評估與敘利亞現政權的關係，同時也可能加劇敘利亞內部派系對立。長期而言，若國際壓力持續，可能推動更多國家支持過渡司法機制，但短期內難以改變敘利亞現狀。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "At least 132 killed in Colombia's largest  earthquake in years",
+      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哥倫比亞發生數年來最大規模地震，造成至少 132 人死亡。超過 480 人受傷，另有更多人被認為被困在倒塌的建築物下。",
+      "judgment": "此次地震是哥倫比亞近年來的重大災難，顯示該國位於地震帶的脆弱性。高死亡人數與大量受困者表明基礎設施抗災能力不足，可能對當地建築規範與城市規劃產生深遠影響。災後重建將需要大量資源，可能拖累短期經濟成長，並促使政府加強防災體系與應急機制。長期而言，此事件可能推動區域性地震風險評估與建築標準的升級，以減少未來類似災害的衝擊。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Libyan authorities battle big blaze at major oil refinery",
+      "url": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "利比亞當局正在對抗扎維亞煉油廠發生的大規模火災。該煉油廠於週一遭受無人機襲擊，這是兩天內發生的第三起此類事件。",
+      "judgment": "扎維亞煉油廠作為利比亞關鍵的能源基礎設施，在短時間內連續遭受三次無人機襲擊，顯示該國能源設施正面臨極高的安全威脅與不穩定性。此類頻繁的攻擊不僅直接導致生產中斷，可能引發國內燃油短缺與價格波動，更可能衝擊全球油價，特別是對依賴利比亞原油出口的地區造成供應鏈風險。若火災持續或設施受損嚴重，將進一步削弱利比亞的出口能力，加劇其經濟困境，並可能引發區域地緣政治緊張局勢升級。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Australia PM under fire for remarks on Japanese counterpart's melon gifts",
+      "url": "https://www.bbc.co.uk/news/articles/c0jl6ewvq42o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "澳洲總理因對日本首相贈送哈密瓜的言論引發爭議，前日本駐澳大使批評這些言論具有性別歧視色彩，並認為此舉背叛了兩國間的緊密關係。",
+      "judgment": "此事件凸顯外交禮儀與性別意識在國際關係中的敏感性。澳洲總理對日本贈禮的評論被指涉性別歧視，可能影響兩國互信基礎，尤其在日本重視禮儀與階級文化的背景下。前日本大使的公開譴責顯示此言論已觸及外交層面的不滿，若未妥善處理，可能削弱雙邊合作氛圍。此外，此類爭議也反映全球對性別平等議題的高度關注，政府領導人需更謹慎措辭以避免誤解。長期而言，若澳洲未能展現對日本文化與外交禮節的尊重，可能影響未來在貿易、安全等領域的協作效率。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c0jl6ewvq42o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國總統特朗普簽署行政命令，限制兒童疫苗接種並要求將麻疹、腮腺炎及德國麻疹（MMR）混合疫苗拆分為單獨注射。美國兒科學會對此舉表示強烈反對，稱該建議對兒童健康構成危險。",
+      "judgment": "特朗普政府拆分 MMR 疫苗的行政命令可能嚴重衝擊公共衛生體系。醫學界共識認為 MMR 混合疫苗安全有效，拆分注射不僅增加兒童接種次數與疼痛感，更可能因多次就醫導致接種率下降，進而引發麻疹等可預防疾病的爆發。美國兒科學會已明確警告此舉危險，顯示政策與科學證據背道而馳。長期來看，若接種率持續下滑，將削弱群體免疫屏障，增加醫療系統負擔，並可能引發國際社會對美國公共衛生政策的質疑。此舉亦可能加劇家長對疫苗安全性的誤解，進一步助長反疫苗情緒，對全球疫苗推廣工作產生負面示範效應。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
+      "url": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "加州著名的禿鷹傑基（Jackie）在經過數週的密集治療後去世。傑基與其伴侶影子（Shadow）多年來透過大熊禿鷹巢穴攝影機（Big Bear Eagle Nest Cam）被數百萬觀眾觀看。",
+      "judgment": "傑基的去世標誌著一個深受公眾關注的野生動物保護案例的終結。作為透過網路直播被數百萬觀眾長期追蹤的明星禿鷹，她的存在不僅提升了公眾對禿鷹保育的意識，也成為生態旅遊與自然教育的重要象徵。她的死亡可能引發對野生動物醫療介入成效、棲地保護政策以及人類活動對猛禽生存影響的進一步討論。此外，這對伴侶中的倖存者影子未來的生存狀況與繁殖前景，將成為保育團體與公眾持續關注的焦點。此事件也凸顯了數位科技在現代自然保育中的雙重角色：既讓公眾能近距離觀察野生動物，也讓個體動物的生死成為全球性的公共議題。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c62vj8eywdlo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Watch: Family escapes home during Colombia earthquake",
+      "url": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哥倫比亞發生近年規模最大的地震之一，造成至少 169 人死亡。當局已宣布進入緊急狀態。相關報導包含民眾在地震期間逃離家園的影像記錄。",
+      "judgment": "此次地震造成重大人員傷亡並觸發緊急狀態，顯示哥倫比亞在地震風險管理與應變機制上面臨嚴峻挑戰。作為南美洲地震帶的一部分，該國基礎設施與建築規範需重新檢視以應對未來潛在災害。緊急狀態的宣布意味著政府將動用額外資源進行搜救與災後重建，可能對短期內公共財政與社會穩定產生影響。國際援助與技術支援可能隨之介入，以協助恢復秩序與重建受損社區。此事件也凸顯了區域性防災合作的重要性，特別是針對地震高風險國家的預警系統與公眾教育。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
+      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 BBC News 報導，華爾街大型企業已承諾向輝達（Nvidia）提供 5000 億美元資金，用於支持人工智慧（AI）項目的蓬勃發展。這筆資金將專門用於開發新的數據中心，以容納、運營和冷卻處理 AI 數據與運算所需的數英里堆疊電腦晶片。",
+      "judgment": "此筆高達 5000 億美元的資金注入，標誌著全球科技產業正進入大規模基礎設施建設的新階段。華爾街巨頭的行動顯示市場對 AI 運算能力的長期需求具有高度信心，這將直接加速數據中心的擴建速度，並強化輝達在晶片供應鏈中的核心地位。此舉不僅解決了當前 AI 模型訓練與推理所需的硬體瓶頸，更可能引發後續對電力供應、冷卻技術及土地資源的激烈競爭。長期來看，這將推動半導體產業鏈的資本支出大幅增長，並可能重塑雲端服務提供商的市場格局，使擁有強大硬體基礎設施的企業在 AI 生態系中佔據更顯著的優勢。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Young girl finds whale stranded on Australian beach",
+      "url": "https://www.bbc.co.uk/news/videos/c1w148g9e5vo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "在澳洲昆士蘭州，一名年輕女孩發現一隻座頭鯨擱淺在海灘上。隨後隨著潮水上漲，這隻座頭鯨成功脫困並重返大海。",
+      "judgment": "此事件雖為單一偶發案例，但凸顯了澳洲東海岸作為座頭鯨遷徙路線的重要生態地位。昆士蘭海域頻繁出現擱淺或滯留鯨魚的現象，往往與海洋環境變化、氣候因素或人類活動干擾有關。此次鯨魚能自行脫困，顯示自然潮汐力量在特定條件下可發揮關鍵作用，但也反映出當地社區對海洋生物危機的即時反應能力。長期而言，此類事件提醒政府與非政府組織需加強海岸監測機制、提升公眾教育，並制定更完善的鯨豚救援標準作業程序，以減少因擱淺造成的物種損失與生態衝擊。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/videos/c1w148g9e5vo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

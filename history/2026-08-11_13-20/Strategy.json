@@ -1,0 +1,32 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-11_13-20",
+  "stories": [
+    {
+      "title": "The Innovation Strategy Most Companies Miss",
+      "url": "http://feeds.harvardbusiness.org/podcast/2026/08/the-innovation-strategy-most-companies-miss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論報導了與達特茅斯學院的 Vijay Govindarajan 及麻省理工學院的 Amos Winter 的對話，討論為何針對新興市場而非已開發市場進行產品設計能帶來益處。",
+      "judgment": "此觀點挑戰了傳統由已開發市場驅動創新的模式，暗示企業若優先考量新興市場的需求與限制，可能發展出更具成本效益、適應性更強且具備規模化潛力的解決方案。這種「由下而上」的創新策略不僅能幫助企業在新興市場建立先發優勢，其衍生出的簡化技術或商業模式也可能反哺已開發市場，創造新的競爭壁壘。對於資源有限或尋求第二成長曲線的企業而言，重新評估市場進入順序與設計思維，是提升長期韌性與創新效率的關鍵戰略轉折。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/podcast/2026/08/the-innovation-strategy-most-companies-miss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "“Leadership Drift” Is Stalling Your AI Strategy",
+      "url": "http://feeds.harvardbusiness.org/2026/08/leadership-drift-is-stalling-your-ai-strategy",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論的研究指出，領導團隊常因無意間的集體慣性而無法做出決策，這種現象被稱為「領導漂移」，正阻礙企業的人工智慧策略推進。",
+      "judgment": "領導漂移現象顯示企業在推動 AI 轉型時，不僅面臨技術挑戰，更受制於組織決策機制的僵化。當高層團隊因避免衝突、過度共識或責任分散而陷入集體無作為，AI 投資便難以轉化為實際商業價值。此問題凸顯出 AI 策略失敗的主因往往不在技術本身，而在於領導力與組織文化的斷層。企業需重新設計決策流程，建立明確的 AI 治理架構，並培養具備數據驅動思維的領導者，以打破慣性、加速策略執行。若無法解決此結構性瓶頸，即便擁有先進技術與充足資源，AI 轉型仍將停滯不前。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/leadership-drift-is-stalling-your-ai-strategy"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
