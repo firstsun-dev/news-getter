@@ -1,0 +1,140 @@
+{
+  "category": "Global",
+  "timestamp": "2026-08-11_02-10",
+  "stories": [
+    {
+      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "俄羅斯官員表示，烏克蘭發動的無人機襲擊造成至少 13 人死亡，另有 75 人受傷。此次襲擊發生在俄羅斯境內深處，被描述為自莫斯科全面入侵以來最致命的烏克蘭無人機攻擊之一。",
+      "judgment": "此次襲擊標誌著烏克蘭對俄羅斯本土打擊能力的顯著提升，顯示其無人機技術與戰術已能深入俄境核心區域，對俄羅斯後方基礎設施與人員安全構成實質威脅。這不僅可能加劇俄羅斯國內的社會不穩定，也可能迫使莫斯科重新評估其防空部署與戰爭成本。從產業角度看，此類高強度無人機作戰將加速全球對反無人機系統、電子戰設備及智能偵察技術的投資需求，同時推動無人機製造供應鏈的擴張與技術迭代。此外，襲擊造成的傷亡與破壞可能進一步影響俄羅斯能源與物流產業的運作穩定性，進而波及全球能源市場與供應鏈安全。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "At least 132 killed in Colombia's largest  earthquake in years",
+      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哥倫比亞發生規模 7.4 的強震，震央位於太平洋沿岸的喬科省，震感波及數百公里外的城市。此次地震造成至少 132 人死亡，被描述為該國數年來規模最大的地震。",
+      "judgment": "此次哥倫比亞 7.4 級地震造成至少 132 人死亡，顯示該國西部沿海地區面臨嚴峻的災害風險。喬科省地質活動頻繁且基礎設施相對薄弱，高震級地震往往導致嚴重人員傷亡與建築損毀。此事件將迫使哥倫比亞政府緊急動員救援資源，並可能加速推動建築規範的檢討與抗震標準的提升。長期而言，這類重大災害將影響國際社會對該國災難管理能力的評估，並可能促使區域性防災合作機制的強化。此外，地震對當地經濟活動、交通網絡及旅遊業將造成短期衝擊，重建工作需大量資金投入，可能增加國家財政負擔。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "以色列總理內塔尼亞胡拒絕了特朗普提出的加沙15點計劃。特朗普政府對此表示不以為意，認為這只是內塔尼亞胡在即將到來的大選前的競選言論。",
+      "judgment": "內塔尼亞胡對特朗普加沙計劃的拒絕，反映了以色列國內政治壓力與國際外交策略之間的張力。特朗普政府將此視為競選 rhetoric，顯示其對以色列內部政治動態的敏銳觀察，並暗示未來可能仍有調整空間。此事件凸顯中東和平進程中，美國與以色列關係的複雜性，以及選舉週期對外交政策走向的潛在影響。若內塔尼亞胡在大選後仍堅持立場，可能導致美以關係短期緊張，但長期來看，雙方仍可能尋求妥協以推動地區穩定。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "加拿大奧肯納根地區發生野火，導致超過 12,000 人被迫撤離，部分房屋已被燒毀。受災居民擔心其住所是否還能倖存，並表示經歷了多次危急情況。",
+      "judgment": "此次野火事件凸顯加拿大西部氣候變遷下極端天氣頻發的風險，對當地社區造成嚴重衝擊。超過 12,000 人撤離顯示災害規模龐大，可能對區域經濟、住房市場及公共衛生系統帶來長期壓力。若火勢持續擴大，將進一步影響旅遊業與農業，這兩項為奧肯納根地區的重要產業支柱。此外，居民對房屋存毀的焦慮反映災後重建與保險理賠可能面臨挑戰，政府需加速提供緊急援助與長期復原計畫。此事件亦可能促使聯邦與地方政府重新評估森林管理政策與防災預算分配。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Canada flight cancelled after child refuses to wear seat belt",
+      "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "加拿大發生一起航班因兒童拒絕繫安全帶而取消的事件，該事件引發了關於商業飛機上兒童安全與紀律的辯論。",
+      "judgment": "此事件凸顯航空業在執行安全規範時面臨的挑戰，特別是涉及兒童乘客的紀律問題。航班取消顯示航空公司對安全規則的嚴格堅持，但也可能導致運營成本增加與旅客不滿。長期來看，這可能促使航空公司加強行前宣導、優化兒童安全政策，或與家長進行更明確的溝通，以平衡安全與服務效率。此類事件若頻繁發生，可能影響公眾對航空安全的信心，並推動相關法規或行業標準的調整。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "30 years later, a former gang member will stand trial for Tupac's murder",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "距離圖帕克（Tupac）遇害已過去三十年，其聲譽持續增長。一名前幫派成員將於近期因圖帕克謀殺案接受審判。",
+      "judgment": "此案標誌著美國嘻哈音樂史上最具爭議的謀殺案之一進入新的司法階段。圖帕克作為文化偶像的地位隨時間推移不降反升，顯示其藝術影響力已超越時代限制。前幫派成員受審可能引發對 90 年代東岸與西岸嘻哈衝突的重新檢視，並可能影響相關音樂產業的版權與歷史敘事權。若審判結果確立兇手身份，將為長期懸而未決的懸案畫下句點，同時可能帶動圖帕克相關音樂、傳記及紀錄片的市場需求。此事件亦凸顯司法系統對冷案的持續追蹤能力，對其他未結案件具有示範效應。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "New train service connects Finland and Sweden for first time in decades",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "芬蘭與瑞典之間在數十年後首次恢復火車服務。該新服務將實現從葡萄牙到拉普蘭的火車旅行，這被認為是歐洲最長的火車旅程。",
+      "judgment": "芬蘭與瑞典間新火車服務的開通標誌著北歐鐵路網絡的重要整合，將大幅提升跨國交通效率並促進區域旅遊經濟。此路線連接葡萄牙至拉普蘭，形成歐洲最長火車旅程，不僅強化了南歐與北歐的陸路連結，也為長途鐵路旅遊創造新市場機會。對產業而言，這將刺激相關基礎設施投資、提升跨境物流效率，並可能推動歐盟推動的綠色交通轉型目標。長期來看，此類跨國鐵路網絡的擴展有助於減少航空碳排放，符合歐洲可持續發展戰略。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "世界衛生組織（WHO）發出警告，表示伊波拉病毒的傳播速度目前快於防疫人員的應對進度。當前感染率居高不下，加劇了外界對於相關當局難以有效控制該疾病的擔憂。",
+      "judgment": "WHO 的警告顯示伊波拉疫情已進入高度危險階段，防疫體系面臨嚴重挑戰。感染率高企意味著病毒傳播鏈尚未被切斷，若無法迅速提升檢測、隔離與治療能力，疫情可能進一步擴散至周邊地區甚至跨國傳播。此情況將對當地醫療資源造成巨大壓力，並可能引發國際社會的緊急援助需求。長期來看，若控制不力，將嚴重影響區域經濟穩定與公共衛生安全，凸顯全球防疫協調機制在面對突發傳染病時的脆弱性。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國總統特朗普簽署行政命令，旨在限制兒童疫苗接種並拆分麻疹、腮腺炎及德國麻疹（MMR）聯合疫苗。美國兒科學會對此舉表示強烈反對，稱其關於拆分 MMR 疫苗的建議是「危險的」。",
+      "judgment": "特朗普簽署限制兒童疫苗並拆分 MMR 疫苗的行政命令，標誌著美國公共衛生政策可能出現重大轉向。此舉直接挑戰了長期以來的疫苗接種標準，即通過聯合疫苗提高接種效率並減少兒童注射次數。美國兒科學會將其定性為「危險」，預示著醫學界與行政部門之間將爆發激烈衝突。若該政策實施，可能導致疫苗接種率下降，進而增加麻疹等可預防傳染病的爆發風險，對公共衛生安全構成威脅。此外，此舉可能引發法律訴訟，並影響全球疫苗政策走向，削弱國際社會對美國疫苗安全性的信心。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "莫斯科法院裁定，俄羅斯唯一的自由派反戰政黨不得參加下個月的議會選舉。",
+      "judgment": "此判決標誌著俄羅斯政治空間的進一步收縮，剝奪了唯一合法反對派參與立法機構的權利，實質上確立了執政黨在即將到來的選舉中的壟斷地位。這不僅削弱了選舉的競爭性與合法性，也向國內外的反對聲音發出強烈威懾信號，顯示克里姆林宮正系統性地消除任何潛在的政治挑戰。長期來看，這將加劇俄羅斯政治體制的封閉性，可能導致社會不滿情緒在體制外積累，同時削弱國際社會對俄羅斯民主程序的認可度，進一步孤立該國。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Watch: What we know about suspected crime boss Daniel Kinahan",
+      "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "涉嫌犯罪集團首腦丹尼爾·金納漢（Daniel Kinahan）被列為全球通緝犯之一，他在從杜拜被引渡至愛爾蘭後，已在愛爾蘭度過了首次被羈押的夜晚。",
+      "judgment": "丹尼爾·金納漢的引渡與羈押標誌著國際執法合作在打擊跨國犯罪組織方面取得重大突破。作為長期在逃的嫌疑人，其落網可能對愛爾蘭及國際犯罪網絡產生震盪效應，促使相關司法管轄區加強對犯罪集團資產與人員的追查。此事件也凸顯了杜拜作為潛在避風港的監管漏洞，可能引發國際社會對引渡協定與跨境執法協調機制的重新檢視。長期而言，這將強化全球對高風險犯罪分子的追緝力度，並可能推動更多國家完善相關法律框架以應對類似威脅。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

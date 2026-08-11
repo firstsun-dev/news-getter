@@ -1,0 +1,56 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-11_02-10",
+  "stories": [
+    {
+      "title": "What Does AI Talent Look for in an Employer?",
+      "url": "http://feeds.harvardbusiness.org/2026/08/what-does-ai-talent-look-for-in-an-employer",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據人才匹配平台 CoffeeSpace 的分析，AI 人才在選擇雇主時，特別關注領導者的三種特定屬性。此分析結果由哈佛商業評論報導，探討了 AI 領域專業人士在求職過程中對潛在雇主的評估標準。",
+      "judgment": "在 AI 人才競爭日益激烈的背景下，企業若僅提供高薪或技術資源已不足以吸引頂尖人才。根據 CoffeeSpace 平台的數據分析，AI 專業人士更傾向於選擇具備特定領導特質的雇主。這意味著企業高層必須重新審視其領導風格與組織文化，以符合 AI 人才對創新、自主性及技術願景的期待。若企業無法展現這些關鍵領導屬性，將面臨人才流失與招募困難的風險，進而影響其 AI 戰略的執行與長期競爭力。此趨勢顯示，人才戰爭的本質已從單純的薪資競爭轉向領導力與文化價值的比拼。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/what-does-ai-talent-look-for-in-an-employer"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "When Every Company Has AI, What Creates Advantage?",
+      "url": "http://feeds.harvardbusiness.org/sponsored/2026/08/when-every-company-has-ai-what-creates-advantage",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "這則來自哈佛商業評論的內容標明為 AWS 與 4MINDS 的贊助內容，標題為「當每家公司都擁有 AI 時，什麼能創造優勢？」，探討在人工智慧普及化背景下企業競爭優勢的來源。",
+      "judgment": "當人工智慧技術逐漸成為基礎設施而非差異化因素時，企業的競爭優勢將不再取決於是否擁抱 AI，而是如何將 AI 與獨特的業務流程、數據資產及組織文化深度整合。AWS 與 4MINDS 的贊助內容暗示，未來勝出的企業需具備將技術轉化為實際商業價值的執行力，而非僅停留在技術導入層面。此趨勢將加速產業重組，促使企業重新評估其核心能力與數位轉型策略。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/sponsored/2026/08/when-every-company-has-ai-what-creates-advantage"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "What You Can Learn from a Competitor’s Job Postings",
+      "url": "http://feeds.harvardbusiness.org/2026/08/what-you-can-learn-from-a-competitors-job-postings",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Harvard Business Review 發表文章探討如何從競爭對手的招聘廣告中解讀其戰略優先事項。文章指出招聘廣告是揭示企業未來發展方向與資源配置的重要訊號，企業可透過分析這些公開資訊來推測競爭對手的業務重心與技術佈局。",
+      "judgment": "在高度競爭的產業環境中，競爭對手的招聘廣告往往比財報或新聞稿更早透露其戰略轉向。分析這些數據可幫助企業識別對手正在投資的新技術領域、擴張的市場區域或試圖解決的組織瓶頸。例如，若多家競爭對手同時大量招募 AI 工程師，可能預示該產業正加速數位轉型；若某公司開始招聘特定區域的銷售人員，則暗示其市場擴張計畫。這種情報收集方式成本低且即時性高，能協助企業提前調整自身策略，避免被動應對。然而，解讀時需謹慎區分短期專案需求與長期戰略佈局，並結合其他市場訊號交叉驗證，以確保判斷的準確性。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/what-you-can-learn-from-a-competitors-job-postings"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "The Predictable Executive Career Arc Is Over",
+      "url": "http://feeds.harvardbusiness.org/2026/08/the-predictable-executive-career-arc-is-over",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論指出，在工作壽命延長與技術快速變遷的時代背景下，高階主管的職業發展軌跡已不再具有可預測性。文章強調領導者必須為多種可能的未來情境做好準備，以應對當前環境的不確定性。",
+      "judgment": "傳統高階主管的線性職涯路徑已因人口結構改變與技術颠覆而瓦解，這意味著企業與個人均需重新定義成功標準。組織不能再依賴既有的升遷模式來培養領導人才，而應建立更具彈性的能力發展架構，鼓勵跨領域經驗累積與持續學習。對於個人而言，單一職涯規劃已不足以應對未來風險，需培養適應力與多元技能組合。此趨勢將促使企業更重視內部人才流動機制，並可能加速高階管理團隊的年齡與背景多元化。長期來看，這將重塑領導力培訓體系，使組織更能應對快速變動的市場環境。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/the-predictable-executive-career-arc-is-over"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
