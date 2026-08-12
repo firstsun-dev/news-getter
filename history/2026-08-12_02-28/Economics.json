@@ -1,0 +1,20 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-08-12_02-28",
+  "stories": [
+    {
+      "title": "Hooray for index funds—just don’t call them passive",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/11/hooray-for-index-funds-just-dont-call-them-passive",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "《經濟學人》於2026年8月11日發表文章，標題為「為指數基金歡呼——但別稱其為被動」。文章指出，由傑克·博格（Jack Bogle）創立的指數基金已徹底改變了市場格局，且其運作過程涉及大量的主動選擇，而非單純的被動跟隨。",
+      "judgment": "這篇文章的核心論點在於挑戰市場對指數基金的傳統認知，即將其簡單標籤為「被動投資」。事實表明，指數基金的構建與維護需要管理層在成分股選取、權重分配及再平衡機制上做出大量主動決策。這種「被動中的主動」特性意味著指數基金並非完全脫離人為判斷，而是將主動管理的焦點從個股選股轉移到了市場結構與規則的執行上。對於產業而言，這意味著監管機構與投資者需重新審視指數基金的風險屬性，不能因其追蹤指數就假設其無主動風險。此外，隨著指數基金規模擴大，其在市場定價中的話語權增強，其內部的選擇機制將對整體市場流動性與價格發現產生更深遠的影響。這也暗示未來金融產品設計將更透明地展示這些「隱藏的主動性」，以滿足投資者對風險與回報結構的精確理解需求。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/11/hooray-for-index-funds-just-dont-call-them-passive"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

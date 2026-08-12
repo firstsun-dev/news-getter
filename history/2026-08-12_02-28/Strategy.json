@@ -1,0 +1,56 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-12_02-28",
+  "stories": [
+    {
+      "title": "Why Family Businesses Lose Control",
+      "url": "http://feeds.harvardbusiness.org/2026/08/why-family-businesses-lose-control",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據哈佛商業評論的文章，家族企業失去控制權的主要原因通常並非領導力不足，而是所有權者缺乏準備。",
+      "judgment": "家族企業面臨的最大挑戰往往不在於管理層的能力，而在於所有權結構與治理機制的成熟度。當家族成員未能充分理解所有權的責任、缺乏財務素養或未建立清晰的傳承規劃時，即使擁有優秀的領導團隊，企業仍可能因決策失誤或內部衝突而失去控制。此現象凸顯了家族企業需強化所有權教育、建立專業治理框架，並提前規劃接班策略，以確保企業長期穩定發展。若忽視所有權準備，將導致企業在關鍵時刻無法有效應對市場變化或內部矛盾，最終影響競爭力與生存能力。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/why-family-businesses-lose-control"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "The untapped prize: Asia’s high-net-worth insurance market",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-untapped-prize-asias-high-net-worth-insurance-market",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據麥肯錫報告，亞洲高淨值個人保險市場的競爭已經展開。保險公司具備有利條件，能夠應對不斷演變的客戶需求。",
+      "judgment": "亞洲高淨值保險市場正成為保險業新的增長引擎，顯示出巨大的未開發潛力。隨著亞洲財富累積加速，高淨值客戶對財富保護、傳承及風險管理的複雜需求日益增加，傳統保險產品已難以完全滿足。報告指出保險公司若能精準定位此市場，並提供客製化解決方案，將能掌握顯著競爭優勢。此趨勢將促使保險業加速數位化轉型與高階顧問服務升級，同時可能引發跨業合作（如與私人銀行、家族辦公室聯手）以提供更完整的財富管理生態系。長期來看，成功切入此市場的業者將獲得高利潤率與客戶忠誠度，並重塑亞洲保險業的競爭格局。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/industries/financial-services/our-insights/the-untapped-prize-asias-high-net-worth-insurance-market"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Driving Change When You Lack Authority",
+      "url": "http://feeds.harvardbusiness.org/2026/08/driving-change-when-you-lack-authority",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論於8月10日發行的The Insider電子報中，總編輯Gretchen Gavett撰寫文章，探討在缺乏正式權威的情況下如何影響他人、董事會關係的經營，以及「機器人代管」所隱藏的勞動問題。",
+      "judgment": "在現代組織中，正式職位並非推動變革的唯一途徑。Gretchen Gavett的文章強調，缺乏正式權威的員工仍需透過人際影響力、建立信任與策略性溝通來促成改變。這反映當前企業治理與組織行為的趨勢：權力結構日益扁平化，跨部門協作與非正式領導力成為關鍵競爭力。此外，「機器人代管」一詞暗示自動化技術普及後，人類需承擔更多監控與維護AI系統的隱形工作，這可能導致員工負擔加重與角色模糊。企業若忽略此類隱藏勞動，將面臨人才流失與效率下降的風險。因此，組織應重新評估績效指標與資源分配，以支持非正式領導者並合理分擔自動化帶來的額外負擔。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/driving-change-when-you-lack-authority"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "“Leadership Drift” Is Stalling Your AI Strategy",
+      "url": "http://feeds.harvardbusiness.org/2026/08/leadership-drift-is-stalling-your-ai-strategy",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論研究指出，領導團隊常因無意間的集體慣性而無法做出決策，這種「領導漂移」現象正阻礙企業的人工智慧策略推進。",
+      "judgment": "領導漂移現象顯示企業在推動 AI 轉型時，面臨的並非技術瓶頸，而是組織決策機制的失效。當高階管理團隊因慣性迴避關鍵決策，AI 投資便容易陷入停滯，導致資源浪費與市場機會流失。此現象凸顯企業需重新審視決策流程，建立明確的 AI 治理架構與責任歸屬，以打破集體無為的僵局。若無法解決此問題，即使擁有先進技術，企業仍將難以實現 AI 帶來的實質價值。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/leadership-drift-is-stalling-your-ai-strategy"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

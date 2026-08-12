@@ -1,0 +1,27 @@
+{
+  "category": "AI",
+  "timestamp": "2026-08-12_02-28",
+  "stories": [
+    {
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "IBM Research 在 Hugging Face 發布文章，介紹名為 ALTK-Evolve 的研究項目，該項目旨在通過優化策略減少生成 ACE（自動代碼解釋）任務所需的 token 數量，從而提升效率。",
+      "judgment": "此研究顯示大型語言模型在代碼生成與解釋領域正從單純追求性能轉向效率優化。減少 token 消耗意味著降低推理成本與延遲，對企業部署 AI 助手至生產環境具有關鍵意義。ALTK-Evolve 若能有效平衡準確率與資源消耗，將推動開源模型在資源受限場景（如邊緣計算）的應用普及，並可能引發業界對模型壓縮與推理優化技術的新一輪競爭。",
+      "used_source_urls": [
+        "https://huggingface.co/blog/ibm-research/altk-evolve-sldd"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [
+    {
+      "title": "Make it readable",
+      "url": "https://www.bensbites.com/p/make-it-readable",
+      "tier": 3,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": false
+}

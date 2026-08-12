@@ -1,0 +1,248 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-08-12_02-28",
+  "stories": [
+    {
+      "title": "Japan business mood rises as semiconductor boom lifts manufacturers: Reuters poll",
+      "url": "https://www.investing.com/news/economic-indicators/japan-business-mood-rises-as-semiconductor-boom-lifts-manufacturers-reuters-poll-4852968",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據路透社民調顯示，日本企業信心因半導體產業繁榮而回升，製造業情緒改善。該調查由Investing.com Bonds報導，指出半導體需求增長帶動製造商營運展望轉佳。",
+      "judgment": "日本製造業信心回升反映全球半導體週期復甦對實體經濟的傳導效應，尤其對依賴出口與高科技製程的日企構成直接利多。此趨勢可能加速日本資本支出擴張，並強化其在全球晶片供應鏈中的戰略地位。若半導體需求持續強勁，將進一步提振日本工業生產指數與企業投資意願，進而支撐整體經濟成長動能。然而，需留意地緣政治風險與原材料價格波動可能帶來的不確定性。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/japan-business-mood-rises-as-semiconductor-boom-lifts-manufacturers-reuters-poll-4852968"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Global youth unemployment rises amid sluggish job creation and looming AI risk, UN labour agency says",
+      "url": "https://www.investing.com/news/economic-indicators/global-youth-unemployment-rises-amid-sluggish-job-creation-and-looming-ai-risk-un-labour-agency-says-4852946",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "聯合國勞工機構指出，全球青年失業率上升，主因是就業創造疲軟以及人工智慧（AI）帶來的潛在風險。",
+      "judgment": "全球青年失業率上升反映勞動市場結構性挑戰加劇。就業創造速度未能匹配青年勞動力增長，顯示經濟復甦力道不足。更關鍵的是，AI 技術快速發展可能加速取代初級與重複性工作，而青年群體多集中於此類職位，面臨更高失業風險。此趨勢若持續，將擴大貧富差距、削弱消費動能，並可能引發社會不穩定。政策制定者需加速推動教育轉型、技能再培訓，並建立 AI 過渡期的社會安全網，以緩解技術變革對年輕勞動力的衝擊。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/global-youth-unemployment-rises-amid-sluggish-job-creation-and-looming-ai-risk-un-labour-agency-says-4852946"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "US existing home sales fall further; small business sentiment at 11-month high",
+      "url": "https://www.investing.com/news/economic-indicators/us-existing-home-sales-post-second-straight-monthly-decline-in-july-4851999",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Bonds 報導，美國 7 月成屋銷售量連續第二個月下滑。同時，美國小型企業信心指數上升至 11 個月來的高點。",
+      "judgment": "美國成屋銷售量連續兩月下滑，顯示在高利率環境下，購屋需求持續受到抑制，房地產市場動能疲軟可能對整體經濟成長構成壓力。然而，小型企業信心指數攀升至 11 個月高點，反映中小企業對未來營運前景持樂觀態度，可能源於勞動力市場穩健或通膨預期降溫。這兩項指標呈現分歧訊號：房地產市場仍處調整期，但中小企業部門展現韌性。若成屋銷售持續低迷，可能拖累建築業與相關消費支出；反之，若小企業信心能轉化為實際投資與僱用，將有助於支撐經濟軟著陸。投資人應密切關注聯準會後續利率決策，以及房地產市場是否出現觸底跡象。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/us-existing-home-sales-post-second-straight-monthly-decline-in-july-4851999"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Acting US FDA chief urges confidence in lettuce as agency updates produce safety guidance",
+      "url": "https://www.investing.com/news/economic-indicators/us-fda-finalizes-new-guidance-on-freshly-cut-produce-4852206",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國代理食品藥物管理局（FDA）局長呼籲公眾對萵苣保持信心，同時該機構正式更新了關於新鮮切塊農產品的安全指導方針。此舉旨在回應相關食品安全疑慮，並透過發布新的監管指引來強化消費者對萵苣等切塊蔬果的信心。",
+      "judgment": "FDA 此次更新新鮮切塊農產品安全指導方針，顯示監管機構正積極介入以穩定市場信心，特別是在萵苣等易受食安事件影響的品項上。此舉有助於降低零售端與餐飲業的庫存風險，並可能減少因恐慌性下架造成的供應鏈中斷。長期來看，更明確的指導方針將促使生產與加工業者投入更多資源於衛生控制與追溯系統，進而提升整體產業的合規門檻與消費者信任度。然而，短期內若執行細節未明，仍可能導致部分中小企業面臨適應成本上升的壓力。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/us-fda-finalizes-new-guidance-on-freshly-cut-produce-4852206"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "API reports significant rise in US crude oil inventories",
+      "url": "https://www.investing.com/news/economic-indicators/api-reports-significant-rise-in-us-crude-oil-inventories-93CH-4852688",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國石油協會（API）報告顯示，美國原油庫存出現顯著上升。此數據由 Investing.com Bonds 報導，標題為「API reports significant rise in US crude oil inventories」，相關新聞連結為 https://www.investing.com/news/economic-indicators/api-reports-significant-rise-in-us-crude-oil-inventories-93CH-4852688。",
+      "judgment": "API 報告顯示美國原油庫存顯著增加，這通常被市場解讀為需求疲軟或供應過剩的信號，可能對國際油價構成下行壓力。庫存上升意味著煉油廠開工率可能不足或進口量增加，導致市場供需平衡向供大於求傾斜。此數據將影響交易員對未來油價走勢的預期，並可能引發期貨市場的多頭回調。若後續 EIA 數據確認此趨勢，將進一步強化油價下跌動能，對能源板塊股票及相關商品期貨產生負面影響。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/api-reports-significant-rise-in-us-crude-oil-inventories-93CH-4852688"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Drones hit residential buildings in Russia’s Black Sea port of Novorossiysk, mayor says",
+      "url": "https://www.investing.com/news/commodities-news/drones-hit-residential-buildings-in-russias-black-sea-port-of-novorossiysk-mayor-says-4853589",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據市長表示，無人機襲擊了俄羅斯黑海港口諾沃羅西斯克的住宅建築。",
+      "judgment": "此次針對諾沃羅西斯克住宅區的無人機襲擊，凸顯了俄羅斯黑海沿岸關鍵基礎設施與民用區域面臨的持續安全威脅。諾沃羅西斯克作為俄羅斯在黑海最重要的石油出口樞紐之一，其港口運作與周邊穩定直接影響全球能源供應鏈。若襲擊頻繁導致港口設施受損或營運中斷，可能推升原油運輸風險溢價，進而影響國際油價波動。此外，民用建築受損反映衝突範圍擴大至非軍事目標，可能加劇地緣政治緊張，促使市場對能源供應不確定性升溫，進而影響大宗商品投資策略與風險評估模型。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/drones-hit-residential-buildings-in-russias-black-sea-port-of-novorossiysk-mayor-says-4853589"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil prices near 2-week high as Hormuz remains closed, Houthi strikes continue",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-near-2week-high-as-hormuz-remains-closed-houthi-strikes-continue-4853577",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "油價接近兩週高點，原因是霍爾木茲海峽持續封閉，且胡塞武裝的襲擊行動仍在持續。",
+      "judgment": "霍爾木茲海峽作為全球最重要的石油運輸通道之一，其封閉直接衝擊全球原油供應鏈的穩定性。胡塞武裝持續的襲擊行動加劇了地緣政治風險，導致市場對中東地區能源供應中斷的擔憂升溫。這種供應不確定性推動油價上漲至兩週高點，可能引發全球能源成本上升，進而影響通膨預期與經濟成長前景。若封鎖持續或襲擊擴大，油價波動性將進一步加劇，對依賴進口能源的國家造成顯著壓力。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-prices-near-2week-high-as-hormuz-remains-closed-houthi-strikes-continue-4853577"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Existing home sales slightly surpass forecasts, indicating market stability",
+      "url": "https://www.investing.com/news/economic-indicators/existing-home-sales-slightly-surpass-forecasts-indicating-market-stability-93CH-4851966",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Bonds 報導，現有房屋銷售數據略微超越市場預期，顯示市場趨於穩定。",
+      "judgment": "現有房屋銷售數據超越預期，反映美國房地產市場在利率高壓環境下展現韌性。此數據暗示消費者信心未受嚴重侵蝕，可能緩解對經濟衰退的擔憂，並對債券市場產生正面影響，因經濟穩定性降低通膨反彈風險。然而，高抵押貸款利率仍可能限制未來增長空間，投資者需持續關注後續數據以確認趨勢。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/existing-home-sales-slightly-surpass-forecasts-indicating-market-stability-93CH-4851966"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil rises as doubts over US-Iran deal heighten supply concerns",
+      "url": "https://www.investing.com/news/commodities-news/oil-rises-as-doubts-over-usiran-deal-heighten-supply-concerns-4853549",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "油價上漲，原因是市場對美國與伊朗達成協議的疑慮加劇，引發對原油供應的擔憂。",
+      "judgment": "油價上漲反映地緣政治風險對能源市場的即時影響。美國與伊朗協議的不確定性可能導致中東地區供應中斷，進而推升全球原油價格。此類波動通常會傳導至下游產業，增加運輸與製造成本，並可能引發通膨壓力。投資者可關注後續外交進展及 OPEC+ 產量政策調整，以評估長期趨勢。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-rises-as-doubts-over-usiran-deal-heighten-supply-concerns-4853549"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Trump says his plane faced ’greater risk’ in flight change",
+      "url": "https://www.investing.com/news/commodities-news/trump-says-his-plane-faced-greater-risk-in-flight-change-4853571",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Gold 報導，前美國總統特朗普表示，其專機在飛行路線變更後面臨更大的風險。該新聞標題明確指出特朗普對飛行安全變更的擔憂，內容源自單一來源的報導。",
+      "judgment": "此事件雖屬政治人物個人行程安全議題，但可能間接影響市場對美國政治穩定性的預期。若特朗普持續強調飛行風險，可能引發輿論對其安全防護措施的關注，進而影響其政治聲望。在黃金市場方面，若此類政治不確定性升溫，可能促使投資者尋求避險資產，對金價形成支撐。然而，由於目前僅有單一消息來源且未涉及具體政策或經濟數據，對大宗商品市場的實際影響仍有限。長期來看，若此類安全爭議頻繁出現，可能削弱市場對美國政治領導層穩定性的信心，進而影響美元資產吸引力。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/trump-says-his-plane-faced-greater-risk-in-flight-change-4853571"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Brazil inflation eases to 4.4% in July, opens door for rate cut",
+      "url": "https://www.investing.com/news/economic-indicators/brazil-inflation-eases-to-44-in-july-opens-door-for-rate-cut-93CH-4851595",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "巴西7月通膨率降至4.4%，較前月下降，此數據顯示通膨壓力緩解，為巴西央行未來可能降息創造條件。",
+      "judgment": "巴西7月通膨率降至4.4%，低於市場預期，顯示物價上漲壓力顯著放緩。此趨勢若持續，將強化巴西央行在未來會議中啟動降息週期的可能性，以刺激經濟成長。降息預期可能吸引外資流入巴西債券市場，壓低殖利率並推升本幣雷亞爾匯價。然而，需關注全球大宗商品價格波動及國內財政政策對通膨的潛在影響，若通膨反彈，央行可能延後降息時程。整體而言，此數據為巴西貨幣政策轉向提供關鍵支撐，但政策執行仍需謹慎評估宏觀風險。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/brazil-inflation-eases-to-44-in-july-opens-door-for-rate-cut-93CH-4851595"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "ICE canola futures drop as soyoil declines",
+      "url": "https://www.investing.com/news/commodities-news/ice-canola-futures-drop-as-soyoil-declines-93CH-4852758",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Gold 報導，ICE 油菜籽期貨價格下跌，主要受豆油價格走跌影響。市場顯示油菜籽期貨與豆油價格呈現聯動走勢，豆油價格下滑帶動油菜籽期貨同步走低。",
+      "judgment": "油菜籽期貨價格下跌反映全球植物油市場整體疲軟，豆油作為主要替代油品，其價格走勢對油菜籽具有顯著傳導效應。此現象顯示市場對植物油供需預期轉弱，可能源於主要產區豐收預期、需求放緩或宏觀經濟因素影響。若豆油價格持續低迷，將進一步壓抑油菜籽期貨反彈空間，建議關注北美與歐洲產區天氣狀況及全球食用油庫存數據，以評估後續價格走勢。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/ice-canola-futures-drop-as-soyoil-declines-93CH-4852758"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Four crew, two rescuers killed in Red Sea attack; US strikes ship in Gulf of Oman",
+      "url": "https://www.investing.com/news/commodities-news/three-killed-in-attacks-on-ships-in-red-sea-gulf-sources-say-4851681",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "紅海及亞丁灣海域發生襲擊事件，造成四名船員及兩名救援人員死亡。美國隨後在阿曼灣對一艘船隻發動打擊行動。",
+      "judgment": "紅海與阿曼灣的襲擊事件直接威脅全球關鍵航運通道，可能導致航運公司改道好望角，增加運輸成本與時間，進而推升運費與供應鏈不確定性。此類地緣政治風險若持續升溫，將對全球能源與商品貿易流動產生顯著衝擊，並可能引發保險費用上漲及航運保險條款重談。長期而言，區域安全穩定性將成為影響國際物流與貿易成本的關鍵變數。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/three-killed-in-attacks-on-ships-in-red-sea-gulf-sources-say-4851681"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "US crude oil inventories rise as fuel stocks decline",
+      "url": "https://www.investing.com/news/commodities-news/us-crude-oil-inventories-rise-as-fuel-stocks-decline-93CH-4852789",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Gold 報導，美國原油庫存出現上升趨勢，同時燃料庫存則呈現下降走勢。此數據反映了當前美國能源市場中原油與精煉產品庫存結構的變化。",
+      "judgment": "原油庫存上升通常暗示短期內供給相對充裕或需求疲軟，可能對油價構成下行壓力；而燃料庫存下降則顯示下游精煉產品如汽油或柴油的需求仍具支撐，反映經濟活動或季節性因素帶動消費。兩者背離現象顯示煉廠可能正調整產出結構以應對市場變化。若此趨勢持續，可能導致原油與燃料價差（裂解價差）擴大，有利於煉油商利潤，但對原油價格形成抑制。投資人應密切關注後續庫存數據及煉廠開工率變化，以評估供需平衡點。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/us-crude-oil-inventories-rise-as-fuel-stocks-decline-93CH-4852789"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Gold pulls back from over two-month high amid rising oil, caution ahead of CPI",
+      "url": "https://www.investing.com/news/commodities-news/gold-climbs-to-10week-high-as-fomo-china-demand-fuel-bullish-momentum-4850702",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "黃金價格從兩個月高位回落，背景是油價上漲以及市場對即將公布的消費者物價指數（CPI）數據保持謹慎態度。此前黃金曾因中國需求引發的錯失恐懼（FOMO）情緒而攀升至10週高點。",
+      "judgment": "黃金價格的短期回調反映了市場在宏觀數據發布前的典型避險行為。油價上漲通常會推升通膨預期，這可能促使聯準會維持高利率政策更長時間，進而對以美元計價的黃金構成壓力。然而，此前推動黃金上漲的中國實體需求與FOMO情緒顯示出黃金作為避險資產的長期支撐力依然強勁。CPI數據的公布將成為關鍵轉折點，若通膨數據低於預期，可能重啟黃金的上漲趨勢；反之，若通膨黏性強，黃金可能面臨進一步的技術性修正。投資者需密切關注油價走勢與通膨數據的互動，以判斷黃金是否已進入短期調整階段或僅為上漲途中的正常回檔。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/gold-climbs-to-10week-high-as-fomo-china-demand-fuel-bullish-momentum-4850702"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "US appeals court voids Biden-era efficiency rule for stoves, ovens",
+      "url": "https://www.investing.com/news/commodities-news/us-appeals-court-voids-bidenera-efficiency-rule-for-stoves-ovens-4852726",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國上訴法院裁定廢除拜登政府時期針對爐竈和烤箱制定的能源效率法規。該判決推翻了先前實施的相關標準，意味著這些家電產品將不再受該特定效率規則的約束。",
+      "judgment": "此判決對家電製造業與能源政策產生直接影響。首先，製造商無需再投入額外成本以符合被廢除的嚴格能效標準，短期內可能降低合規成本並維持現有產品線設計。然而，這也可能延緩家電產品的技術升級與節能轉型，長期來看可能影響整體能源消耗效率。對於消費者而言，市場上可能出現更多低能效但價格較低的產品選項，但也可能面臨更高的長期用電成本。此判決反映了美國司法體系對行政機構監管權限的制衡，未來類似環保或能效法規的制定與執行將面臨更嚴格的司法審查，產業界需更謹慎評估政策變動風險。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/us-appeals-court-voids-bidenera-efficiency-rule-for-stoves-ovens-4852726"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil prices settle up as Iran says Strait of Hormuz to stay shut",
+      "url": "https://www.investing.com/news/commodities-news/oil-steadies-near-oneweek-highs-as-usiran-peace-deal-hopes-dim-4850678",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "油價收盤上漲，伊朗表示將繼續封鎖霍爾木茲海峽。此消息導致美伊和平協議的希望減弱，油價在接近一周高點的位置走穩。",
+      "judgment": "伊朗宣布持續封鎖霍爾木茲海峽，直接衝擊全球原油供應鏈的關鍵節點，因該海峽承載約三分之一的海運原油交易。此舉加劇地緣政治風險，使市場對中東局勢惡化的擔憂升溫，進而推升油價。美伊和平協議希望的減弱，進一步削弱了市場對供應穩定的預期，促使交易員重新評估風險溢價。短期內，油價可能維持高位震盪，若封鎖持續或擴大，將對全球能源成本與通膨壓力產生顯著影響。長期來看，此事件可能加速各國尋求能源來源多元化，並強化戰略儲備的必要性。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-steadies-near-oneweek-highs-as-usiran-peace-deal-hopes-dim-4850678"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "US fires on ship it says violated Iran blockade",
+      "url": "https://www.ft.com/content/ac651a05-9285-4020-85e2-47fcd8936320?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國中央司令部表示，一艘巴拿馬籍船隻因違反伊朗封鎖線，在忽略美軍多次警告後遭到美軍開火攻擊。",
+      "judgment": "此事件顯示中東海域的緊張局勢持續升溫，美國對伊朗相關封鎖行動的執行力度顯著加強。船隻被指違反封鎖且無視警告，反映區域海上安全風險增加，可能影響國際航運路線與保險成本。若此類衝突頻繁發生，將進一步擾亂全球能源供應鏈，並可能引發更廣泛的地緣政治對抗。美國軍事介入的升級也暗示其對中東戰略利益的堅定立場，可能促使其他區域勢力調整其海上行動策略。",
+      "used_source_urls": [
+        "https://www.ft.com/content/ac651a05-9285-4020-85e2-47fcd8936320?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Why the yen matters",
+      "url": "https://www.ft.com/content/f52478de-29af-41bd-a390-9f8102ac32a8?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Financial Times Markets 報導探討了日圓的重要性，並提出關於美國為何會干預外國債券市場的問題。該報導標題為「為何日圓至關重要」，內容聚焦於日圓在國際金融市場中的角色以及美國可能介入外國債券市場的原因。",
+      "judgment": "日圓作為全球主要儲備貨幣之一，其匯率波動對國際資本流動、套利交易及全球債券市場具有深遠影響。美國若干預外國債券市場，可能反映其對全球金融穩定或美元地位的擔憂。此舉可能引發其他央行跟進，改變全球流動性格局，並影響新興市場債務成本。此外，日圓走勢與美債收益率的互動關係，將成為市場關注焦點，進而影響外匯與債券投資策略。",
+      "used_source_urls": [
+        "https://www.ft.com/content/f52478de-29af-41bd-a390-9f8102ac32a8?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Volatility tumbles as markets shrug off Middle East risks",
+      "url": "https://www.ft.com/content/39fde44e-9a63-401e-8f8e-ddf5d7f512e4?syn-25a6b1a6=1",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Financial Times Markets 報導，市場波動性顯著下降，VIX 恐慌指數回落至戰前水平，顯示投資者對中東風險的反應趨於平淡。與此同時，油價回升至每桶約 90 美元。儘管地緣政治風險依然存在，投資者發出警告，指出市場可能正陷入自滿情緒，忽視潛在的不穩定因素。",
+      "judgment": "VIX 指數回落至戰前水平而油價卻維持在每桶 90 美元的高位，顯示市場定價機制出現明顯的割裂。這種現象暗示投資者過度樂觀地假設中東衝突不會進一步升級或影響全球供應鏈，從而低估了地緣政治風險對能源價格的潛在衝擊。若衝突擴大導致油運中斷或產能受損，當前被壓抑的波動性可能瞬間反彈，引發資產價格劇烈調整。此外，油價高企若持續，將對全球通膨預期構成壓力，進而影響央行貨幣政策走向，增加經濟軟著陸的不確定性。投資者需警惕這種「自滿」情緒掩蓋下的系統性風險，特別是當市場對地緣政治消息反應鈍化時，往往預示著突發事件可能帶來更大的市場震盪。",
+      "used_source_urls": [
+        "https://www.ft.com/content/39fde44e-9a63-401e-8f8e-ddf5d7f512e4?syn-25a6b1a6=1"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
