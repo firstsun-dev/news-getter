@@ -1,0 +1,39 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-08-13_13-26",
+  "stories": [
+    {
+      "title": "When Japan buys yen, it unwinds a dangerous trade",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/13/when-japan-buys-yen-it-unwinds-a-dangerous-trade",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據《經濟學人》報導，全球最大套利交易者正開始退出其部位。該新聞標題指出，當日本購買日圓時，正在解除一項危險的交易。",
+      "judgment": "日本作為全球最大套利交易者的角色，其退出部位預示著全球流動性結構的重大轉變。套利交易依賴低利率貨幣（如日圓）融資並投資高收益資產，當日本央行或相關機構開始購買日圓以支撐匯率或調整政策時，將迫使大量套利部位平倉。這可能引發全球資產價格波動，特別是對新興市場債券、美股及高收益資產造成壓力。此舉標誌著長期低利率環境的終結，可能加速全球資本重新配置，並增加金融市場的不確定性。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/13/when-japan-buys-yen-it-unwinds-a-dangerous-trade"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Is China’s debt-bomb squad about to blow up?",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/13/is-chinas-debt-bomb-squad-about-to-blow-up",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "The Economist 報導指出，負責化解信貸危機的中國企業正面臨困境。文章標題質疑中國處理債務問題的專責團隊是否即將失控，內容摘要提及這些被賦予化解信貸危機任務的公司自身正陷入麻煩。",
+      "judgment": "中國負責化解信貸危機的機構或企業若自身陷入困境，預示著債務重組與風險隔離機制可能失效。這類「債務炸彈拆除小組」通常承擔將壞帳從銀行體系轉移至特殊目的載體（SPV）或進行資產處置的任務，若其資本充足率不足或流動性枯竭，將導致壞帳無法有效出清，進而拖累金融系統穩定性。此現象可能加劇市場對中國隱性債務問題的擔憂，影響外資信心與人民幣匯率穩定。若情況惡化，可能迫使政府直接介入，增加財政負擔或引發更廣泛的信貸緊縮。長期而言，這將削弱中國金融體系化解結構性風險的能力，並可能延遲經濟轉型進程。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/13/is-chinas-debt-bomb-squad-about-to-blow-up"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [
+    {
+      "title": "Can Singapore ever build a proper stock market?",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/13/can-singapore-ever-build-a-proper-stock-market",
+      "tier": 2,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": false
+}
