@@ -1,0 +1,32 @@
+{
+  "category": "AI",
+  "timestamp": "2026-08-13_02-29",
+  "stories": [
+    {
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "Hugging Face 發布了關於 OlmoEarth 嵌入技術的新聞，標題為「介紹 OlmoEarth 嵌入：來自 OlmoEarth Studio 的自定義嵌入導出以進行下游分析」。該內容指出 Allen AI 推出了 OlmoEarth Studio，允許用戶導出自定義嵌入，用於後續的數據分析任務。",
+      "judgment": "OlmoEarth 嵌入的推出標誌著地理空間數據分析領域的重要進展。通過提供自定義嵌入導出功能，開發者和研究人員可以更靈活地將地理數據整合到機器學習模型中，從而提升下游分析的準確性和效率。這一技術可能推動更多跨領域應用，例如環境監測、城市規劃和災害預警系統。此外，OlmoEarth Studio 的開放性有助於降低技術門檻，促進學術界和產業界的協作創新。長期來看，這可能加速地理空間 AI 模型的普及，並為相關行業帶來顯著的商業價值。",
+      "used_source_urls": [
+        "https://huggingface.co/blog/allenai/olmoearth-embeddings"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "Hugging Face 發布了 LiquidAI 開發的 LFM2.5-VL-3B 模型，該模型專為提升邊緣設備的視覺能力而設計，旨在實現更優異且更快的視覺處理效能。",
+      "judgment": "LFM2.5-VL-3B 的推出標誌著多模態模型在邊緣計算領域的重要進展。隨著 AI 應用從雲端向端側轉移，對低延遲、高隱私及低功耗的需求日益增長。此模型針對邊緣設備優化，意味著企業可將視覺識別、物體檢測等任務直接部署在本地設備上，減少對網路頻寬的依賴並提升即時反應能力。這將加速智慧製造、自動駕駛及智慧監控等產業的落地應用，同時降低運營成本。然而，邊緣設備的硬體限制仍可能影響模型規模與複雜度，未來需持續觀察其在實際場景中的效能表現與生態整合情況。",
+      "used_source_urls": [
+        "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

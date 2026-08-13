@@ -1,0 +1,20 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-08-13_02-29",
+  "stories": [
+    {
+      "title": "Kevin Warsh is struggling to escape his predecessor’s problems",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/12/kevin-warsh-is-struggling-to-escape-his-predecessors-problems",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據《經濟學人》報導，聯準會主席凱文·沃許正面臨前任主席留下的棘手問題，包括高通膨、疲軟的就業數據以及總統的干預。這些因素共同構成了聯準會當前運作的重大挑戰。",
+      "judgment": "沃許所處的聯準會環境極為複雜，高通膨與就業市場疲軟同時存在，顯示經濟可能面臨滯脹風險，這限制了貨幣政策的調整空間。此外，總統干預中央銀行獨立性的現象，可能削弱市場對聯準會政策可信度的信心，進而影響長期利率與投資決策。若無法有效平衡抗通膨與支撐就業的雙重目標，沃許的領導將面臨嚴峻考驗，甚至可能引發金融市場波動。此情況也凸顯美國政治與貨幣政策交織的結構性矛盾，對全球經濟穩定性構成潛在威脅。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/12/kevin-warsh-is-struggling-to-escape-his-predecessors-problems"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

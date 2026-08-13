@@ -1,0 +1,32 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-13_02-29",
+  "stories": [
+    {
+      "title": "AI Makes Building Easy. Choosing What to Build Is Harder.",
+      "url": "http://feeds.harvardbusiness.org/2026/08/ai-makes-building-easy-choosing-what-to-build-is-harder",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論指出，當所有人皆能取得類似的 AI 工具時，團隊的競爭優勢不再取決於技術能力，而在於對問題本質的理解。",
+      "judgment": "在 AI 工具日益普及且門檻降低的趨勢下，技術執行力已逐漸成為基礎設施而非差異化來源。企業若僅專注於導入 AI 技術而忽略對市場痛點與使用者需求的深度洞察，將難以建立長期護城河。未來的競爭焦點將從「如何快速建構產品」轉移至「為何要建構此產品」的戰略思考。組織需重新調整人才結構，強化問題定義、策略規劃與跨領域協作能力，以在技術同質化環境中創造獨特價值。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/ai-makes-building-easy-choosing-what-to-build-is-harder"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Before Rolling Out a New Strategy, Assess Your Team’s Readiness",
+      "url": "http://feeds.harvardbusiness.org/2026/08/before-rolling-out-a-new-strategy-assess-your-teams-readiness",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論指出，在推行新策略前必須評估團隊準備度，並明確提出有三項條件將決定該計畫能否成功執行。",
+      "judgment": "企業在推動新策略時，常過度聚焦於策略本身的邏輯與市場機會，卻忽略執行端的人為因素。根據哈佛商業評論的觀點，策略成敗的關鍵不在於規劃的完美程度，而在於團隊是否具備執行該策略的準備度。若缺乏對團隊能力、資源配置與心理狀態的系統性評估，再優異的策略也可能因執行斷層而失敗。此觀點強調組織變革中「人」的核心地位，提醒管理層在策略 rollout 前應建立結構化的評估機制，以降低執行風險並提升轉型成功率。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/before-rolling-out-a-new-strategy-assess-your-teams-readiness"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
