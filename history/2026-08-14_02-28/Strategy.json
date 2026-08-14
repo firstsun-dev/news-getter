@@ -1,0 +1,20 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-14_02-28",
+  "stories": [
+    {
+      "title": "Why Agentic AI Could Transform Procurement",
+      "url": "http://feeds.harvardbusiness.org/2026/08/why-agentic-ai-could-transform-procurement",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論指出，經濟可見性、流程結構與持續存在的摩擦力的結合，為採購領域創造了巨大的機會。",
+      "judgment": "採購領域長期面臨流程碎片化與資訊不透明的挑戰，而代理式 AI（Agentic AI）的出現有望成為關鍵轉折點。透過整合經濟可見性與結構化流程，代理式 AI 不僅能自動化處理重複性任務，更能主動識別並解決供應鏈中的摩擦點，從而大幅提升採購效率與戰略價值。此技術的應用將促使採購職能從傳統的執行層面轉向更具預測性與策略性的角色，重新定義企業與供應商之間的互動模式，並可能引發採購軟體市場與人才需求的結構性變革。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/why-agentic-ai-could-transform-procurement"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

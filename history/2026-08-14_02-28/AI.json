@@ -1,0 +1,27 @@
+{
+  "category": "AI",
+  "timestamp": "2026-08-14_02-28",
+  "stories": [
+    {
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "Hugging Face 與 Amazon 合作推出整合方案，透過 Strands Agents、LeRobot 及 Hugging Face Storage Buckets，讓使用者能從單一平台完成機器人數據的記錄、訓練與部署。此方案支援串流數據循環，旨在簡化機器人開發流程並提升效率。",
+      "judgment": "此合作標誌著機器人開發工具鏈的重要整合趨勢，將代理框架（Strands Agents）、機器人學習庫（LeRobot）與雲端儲存（Hugging Face Storage Buckets）結合，大幅降低開發門檻。串流數據循環的引入，使模型能即時利用新數據進行迭代訓練，加速機器人適應真實環境的能力。對產業而言，這將促進中小型企業快速部署自訂機器人解決方案，同時強化 Hugging Face 在機器人 AI 生態系的核心地位。長期來看，此類整合平台可能成為機器人開發的標準基礎設施，推動自動化技術更廣泛應用於製造、物流與服務業。",
+      "used_source_urls": [
+        "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [
+    {
+      "title": "Grok Bot is not what you think",
+      "url": "https://www.bensbites.com/p/grok-bot-is-not-what-you-think",
+      "tier": 3,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": false
+}

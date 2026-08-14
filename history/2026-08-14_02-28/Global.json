@@ -1,0 +1,188 @@
+{
+  "category": "Global",
+  "timestamp": "2026-08-14_02-28",
+  "stories": [
+    {
+      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "在巴勒斯坦村莊 Qusra，以色列軍隊要求當地家庭離開住所，並佔用部分房屋作為兵營。Qusra 市長表示，以色列定居者對房屋進行了圍困，導致居民被迫撤離。",
+      "judgment": "此事件凸顯巴以衝突中定居者與軍隊行動對平民生活的直接衝擊。以色列軍隊佔用民居作為兵營，可能加劇當地人道危機，並引發國際社會對佔領區人權狀況的關注。長期而言，此類行動可能激化地區緊張局勢，影響和平進程，同時削弱巴勒斯坦社區的穩定性與經濟基礎。若持續發生，可能導致更多國際制裁或外交壓力，進一步複雜化中東地緣政治格局。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國調查人員發布的初步報告指出，上月一架從希臘飛往德國的瑞安航空航班上，引擎風扇葉片斷裂，導致引擎零件擊碎機艙窗戶，致使一名乘客頭部被吸出窗外。",
+      "judgment": "此次事件凸顯航空引擎部件疲勞或製造缺陷可能引發的災難性後果。風扇葉片斷裂不僅直接破壞機身結構完整性，更造成極端安全風險，顯示現行維護檢查程序可能未能及時偵測潛在裂紋。此類事故將促使監管機構加強對引擎葉片檢測頻率與標準的審查，並可能引發對瑞安航空機隊安全記錄的廣泛質疑，進而影響其營運成本與品牌信譽。長期而言，航空業需投入更多資源於預測性維護技術與材料科學研究，以預防類似高風險事件重演。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "羅馬尼亞因高溫導致多瑙河水位大幅下降，被迫關閉境內唯一的核電廠 Cernavodă。該核電廠產出羅馬尼亞 20% 的電力，目前預計未來 10 天內不會重啟。",
+      "judgment": "此次事件突顯了氣候變遷對歐洲能源安全的直接衝擊，特別是依賴水力冷卻的核能設施在極端高溫與乾旱條件下的脆弱性。Cernavodă 核電廠停運將立即造成羅馬尼亞電力供應缺口達 20%，極可能引發國內電價飆升或需緊急進口電力，進而增加國家能源成本。從產業角度來看，這將迫使羅馬尼亞加速評估核電廠冷卻系統的韌性改造，或重新審視能源組合中對氣候風險較低的再生能源比例。此外，多瑙河水位異常也警示其他沿河國家的類似設施可能面臨相同風險，促使歐盟層級重新檢視核能設施的氣候適應標準與備援機制，長期可能影響歐洲核能產業的投資信心與營運策略調整。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國航空母艦亞伯拉罕·林肯號（USS Abraham Lincoln）在海上連續航行超過 250 天，導致船員面臨嚴重困境。據報導，數千名水手遭遇食物短缺和水管破裂等設施故障問題。部分船員因無法忍受艱苦條件，甚至考慮跳海。",
+      "judgment": "此事件凸顯美國海軍長期部署策略對人員福祉與戰備能力的潛在衝擊。連續超過 250 天的海上作業已超出常規輪替標準，可能導致船員身心疲憊、士氣低落，進而影響作戰效率與艦隊穩定性。食物短缺與基礎設施故障反映後勤支援系統在高強度部署下的脆弱性，若未及時改善，恐引發更大規模的紀律問題或人才流失。此類事件若頻繁發生，將削弱美國海軍在全球戰略部署中的可信度，並促使國防部門重新評估部署週期與後勤資源配置。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Person fined after using foghorn to wake sleeping polar bear",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 BBC News 報導，當地法規禁止無故騷擾、吸引或追逐北極熊。一名人士因使用霧笛驚醒正在睡覺的北極熊而被處以罰款。",
+      "judgment": "此事件凸顯北極熊棲息地管理與人類活動衝突的嚴肅性。當地法規明確禁止干擾北極熊，顯示該區域對野生動物保護的重視。使用霧笛驚醒北極熊不僅違反法規，更可能對動物造成生理壓力或引發攻擊行為，增加人熊衝突風險。此類罰款案例具有警示作用，強化公眾對生態保護的認知，並促使旅遊業者與居民遵守規範。長期而言，若類似違規行為頻繁發生，可能迫使政府加強執法力度或調整區域管理政策，以平衡人類活動與野生動物保育需求。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Family of Irish plane crash victim awarded $29m in damages",
+      "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國芝加哥陪審團裁定，將 2900 萬美元賠償金判給愛爾蘭空難受害者 Michael Ryan 的家人。該訴訟由其遺孀 Naoise Connolly Ryan 提起，被告為波音公司。",
+      "judgment": "此判決標誌著波音公司在面對空難民事訴訟時面臨嚴峻的法律與財務挑戰。2900 萬美元的賠償金額顯示美國司法體系在處理涉及大型製造商的安全事故時，傾向於對受害者家屬給予高額補償。此案例可能產生連鎖效應，促使其他空難受害者家屬效仿提起類似訴訟，進而增加波音公司的潛在負債與法律訴訟成本。此外，這也可能影響投資者對波音公司長期財務穩定性的評估，並迫使公司在產品安全與風險管理上投入更多資源以應對未來的法律風險。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Air India to test all pilots for banned substances",
+      "url": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "印度航空（Air India）宣布將對所有飛行員進行禁藥檢測。此舉源於該航空公司一架飛機於上週突然失去高度，導致多名乘客受傷的事件。",
+      "judgment": "印度航空此舉標誌著在發生嚴重飛行安全意外後，立即採取嚴格的內部管控措施。對全體飛行員進行禁藥檢測，顯示該公司正試圖重建公眾與監管機構對其飛行安全的信任。此事件可能引發印度民航監管部門對該航空公司更嚴格的審查，甚至影響其營運許可。長期來看，若檢測結果顯示存在系統性問題，將迫使印度航空全面改革其飛行員健康監測與管理流程，並可能導致營運成本上升。此案例亦可能成為全球航空業在飛行員藥物管理方面的參考範例，促使其他航空公司加強類似檢測機制，以預防類似意外再次發生。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
+      "url": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "四名加拿大冰球明星在性侵案被判無罪後仍被停賽。第五名球員已復職，但上訴委員會認定該小組全體違反了加拿大冰球聯盟的行為準則。",
+      "judgment": "此事件凸顯體育組織在處理性侵指控時，法律判決與內部紀律處分之間的顯著落差。儘管法院宣判無罪，加拿大冰球聯盟仍依據其行為準則對球員實施停賽，顯示體育機構對道德標準的獨立裁量權高於司法結果。這種做法可能引發關於程序正義與球員權益的爭議，同時強化聯盟對維護公眾形象與道德底線的決心。長期而言，此類處分可能影響球員職業生涯，並促使其他體育組織重新審視其紀律機制，以平衡法律無罪推定與組織價值觀。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Mangione 的律師團隊將與聯邦檢察官會面，背景是關於辯訴交易協議的報導。Mangione 面臨兩項聯邦指控，罪名為導致死亡的跟蹤行為，每項指控的最高刑罰均為終身監禁。",
+      "judgment": "此案涉及聯邦層級的嚴重刑事指控，若辯訴交易達成，可能大幅改變訴訟走向與最終量刑結果。兩項導致死亡的跟蹤罪均可能判處終身監禁，顯示案件嚴重性極高。若被告接受認罪協議，將避免冗長審判並可能獲得較輕刑罰，但需視檢察官是否同意減刑條件。此類案件對公眾安全、法律程序透明度及司法效率均有深遠影響，亦可能引發社會對跟蹤行為刑事化與量刑標準的討論。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Three men will be executed on the same day as death penalties rise in US",
+      "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 BBC News 報導，儘管對死刑的反對聲浪日益增加，美國仍有某個州推動死刑執行數量上升。該州計劃在同一天處決三名男子，顯示美國部分地區死刑執行頻率正在提高。",
+      "judgment": "此事件反映美國死刑政策的地域性分歧加劇。雖然全國層面反對死刑的趨勢明顯，但特定州份如報導所指，仍堅持並擴大死刑適用，顯示司法體系在聯邦與州層級間的價值衝突。這種現象可能導致社會對司法正義的認知分裂，並影響國際人權評價。長期來看，若死刑執行持續集中於少數州，將強化該地區作為美國死刑執行的核心地帶，同時可能引發更多法律挑戰與社會運動。此外，同一天處決三人也凸顯司法程序效率與道德爭議的張力，可能促使立法機構重新審視死刑制度的合憲性與必要性。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Who could replace White House Press Secretary Karoline Leavitt?",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "BBC News 報導探討誰可能接替白宮新聞發言人卡羅琳·利維特（Karoline Leavitt）的職位。該職位需要管理與媒體的複雜關係，同時滿足特朗普的高標準期望。",
+      "judgment": "白宮新聞發言人作為政府與媒體之間的關鍵橋樑，其人選變動往往反映行政團隊的溝通策略調整。在特朗普政府時期，該職位不僅需具備專業的新聞應對能力，更需適應其獨特的領導風格與高壓期望。若利維特離職，繼任者將面臨平衡媒體透明度與政治敘事的挑戰，這可能影響公眾對政府政策的理解與信任。此外，此職位的人選選擇也體現了特朗普團隊對媒體關係的重視程度，以及其對內部溝通效率的考量。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Presidential pardon for French alleged spy accused of plotting Mali coup",
+      "url": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "法國被指控策劃馬里政變的涉嫌間諜Yann Vezilier獲得赦免。法國政府尚未對此赦免決定發表評論，此前曾將相關指控稱為「毫無根據」。",
+      "judgment": "Yann Vezilier獲得赦免一事，凸顯了法國與馬里之間長期緊張的外交關係可能出現轉機。法國此前堅稱對Vezilier的指控毫無根據，此次赦免雖未伴隨官方評論，但可能暗示雙方在秘密外交層面已達成某種默契，或法國試圖透過此舉緩和與馬里軍政府的對立。馬里近年與西方關係惡化，轉而尋求俄羅斯支持，若法國能透過赦免間諜案釋放善意，或許有助於重建雙邊對話管道，進而影響西非地區的地緣政治平衡。然而，若馬里政府仍堅持指控，此舉也可能被解讀為法國單方面妥協，未必能實質改善關係。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
+      "url": "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "BBC News 報導了位於田納西州金斯波特（Kingsport）的選民觀點，該地擁有一座為美國軍隊供應彈藥的工廠。隨著伊朗戰爭緊張局勢升溫，當地選民對是否支持對伊朗採取軍事行動產生了分歧。儘管該地區整體上忠於特朗普，但選民對於戰爭的必要性存在不同看法，部分人認為行動是正當的，另一部分人則質疑在該地進行此類行動的商業合理性。",
+      "judgment": "田納西州金斯波特作為美國關鍵彈藥生產基地，其選民對伊朗戰爭的分歧反映了美國國內在軍事介入問題上的深層矛盾。儘管該地區政治傾向保守且支持特朗普，但戰爭帶來的經濟與社會成本可能削弱當地對長期軍事行動的支持。彈藥工廠的存在使當地經濟與國防政策緊密綁定，但戰爭升級可能引發供應鏈壓力與國際制裁風險，進而影響區域經濟穩定。此外，選民對戰爭正當性的質疑顯示，即使是在傳統支持強硬國防政策的群體中，對具體軍事行動的合法性與必要性也存在審視。這種分歧可能促使政策制定者在未來決策中更謹慎評估軍事行動的長期影響，並加強與地方社區的溝通以維持社會共識。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "India and Pakistan: Rivals With Divergent Views of the Global Order",
+      "url": "https://www.pewresearch.org/global/2026/08/13/india-and-pakistan-rivals-with-divergent-views-of-the-global-order/",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "根據皮尤研究中心的調查，印度人和巴基斯坦人普遍將對方國家列為首要威脅，且雙方均對對方改善關係的承諾持懷疑態度。",
+      "judgment": "印巴兩國長期以來的敵對關係已深植於民眾認知中，這種相互視為主要威脅的態勢嚴重阻礙了區域穩定與合作。雙方對彼此善意缺乏信任，使得外交談判與衝突緩解機制難以取得實質進展。這種對立不僅影響雙邊貿易與安全對話，也可能波及南亞整體的地緣政治格局，增加區域衝突風險。若缺乏外部調解或內部政策轉向，這種互信缺失將持續成為區域和平的主要障礙。",
+      "used_source_urls": [
+        "https://www.pewresearch.org/global/2026/08/13/india-and-pakistan-rivals-with-divergent-views-of-the-global-order/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Public opinion of India is mixed across 36 countries",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/13/public-opinion-of-india-is-mixed-across-36-countries/",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "皮尤研究中心對 36 個國家的調查顯示，全球對印度的看法差異顯著。其中，斯里蘭卡對印度的正面評價最高，達 79%；巴基斯坦對印度的正面評價最低，僅為 7%。",
+      "judgment": "這項數據揭示了印度在地緣政治與軟實力擴張上的極端兩極化現狀。印度作為新興大國，其國際形象高度依賴於鄰國關係與歷史糾葛。在斯里蘭卡獲得高支持率，反映印度在南亞區域合作中可能扮演了相對積極或受歡迎的角色，有助於其推動區域經濟整合與外交影響力。然而，在巴基斯坦僅有 7% 的正面評價，凸顯了印巴之間長期存在的政治與安全衝突對輿論的深刻影響，這將持續阻礙印度在該區域的戰略拓展。這種分裂的輿論格局意味著印度在制定外交政策時，必須採取差異化策略：一方面鞏固與友好鄰國的關係以擴大影響力，另一方面需面對與敵對國家關係僵化的現實挑戰。此外，全球其他國家的混合看法也暗示印度尚未形成統一的國際品牌認知，這可能影響其吸引外資、人才流動及全球治理話語權的建構。",
+      "used_source_urls": [
+        "https://www.pewresearch.org/short-reads/2026/08/13/public-opinion-of-india-is-mixed-across-36-countries/"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
