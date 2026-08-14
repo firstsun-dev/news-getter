@@ -1,0 +1,116 @@
+{
+  "category": "Global",
+  "timestamp": "2026-08-14_13-20",
+  "stories": [
+    {
+      "title": "'Unprecedented' rain in Japan kills eight people",
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "日本遭遇前所未有的暴雨，造成八人死亡。風暴導致超過兩萬戶家庭斷電，並使七千人滯留在東京成田機場。",
+      "judgment": "此次暴雨事件顯示日本基礎設施在極端氣候下的脆弱性，特別是電力供應與交通樞紐的應變能力。成田機場大規模滯留反映航空業在惡劣天氣下的營運風險，可能導致航班取消潮與旅客損失，進而影響日本旅遊業與物流效率。斷電問題則凸顯電力網對氣候變遷的適應不足，長期可能促使政府加速投資韌性基礎建設。此類極端天氣頻率若增加，將迫使產業重新評估風險管理策略，並推動防災技術與應急系統的升級需求。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國發布一份新報告指出，中國透過將貨物轉運至關稅較低的國家，以規避特朗普政府實施的高額關稅。報告顯示涉及數十個國家協助中國進行此類避稅行為。",
+      "judgment": "此事件凸顯全球貿易體系中關稅規避的複雜性，可能迫使美國重新評估其貿易政策與盟友合作機制。若數十個國家被證實協助中國避稅，將加劇國際貿易摩擦，並可能引發美國對這些國家實施反制措施。長期來看，這將促使全球供應鏈重組，企業需更謹慎評估轉運風險，同時推動多邊貿易談判聚焦於關稅漏洞的修補。此趨勢也可能加速區域貿易協定的發展，以減少對單一市場關稅政策的依賴。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國航空母艦亞伯拉罕·林肯號（USS Abraham Lincoln）在海上連續航行超過 250 天，導致數千名水手面臨食物短缺和水管破裂等惡劣條件。部分水手因無法忍受現狀，甚至考慮跳海。",
+      "judgment": "此事件暴露了美國海軍長期部署策略中的人員福利與後勤支援漏洞。連續超過 250 天的海上部署遠超常規輪替標準，直接導致生活設施故障與物資供應不足，嚴重影響船員身心健康與士氣。若此類情況成為常態，將削弱海軍作戰效能，增加人員流失風險，並可能引發公眾對軍事管理能力的質疑。長期而言，海軍需重新評估部署時長上限，強化後勤補給機制，並引入更嚴格的心理健康監測措施，以維持戰備狀態與人員穩定性。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Stolen Matisse artworks recovered by police in Brazil",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "巴西警方在聖保羅大都會區一處民宅查獲八幅法國藝術家馬蒂斯的作品，並逮捕一名男子。這些藝術品此前遭竊，現已由警方成功追回。",
+      "judgment": "此次馬蒂斯作品在巴西被成功追回並逮捕嫌疑人，顯示國際藝術品犯罪網絡的偵查與跨國協作機制正在發揮作用。對於藝術市場而言，高價值現代藝術品（如馬蒂斯作品）的竊案往往涉及複雜的黑市交易鏈，此次行動有助於穩定市場信心，並可能促使保險公司與博物館重新評估藏品安全策略。此外，巴西作為南美洲藝術品走私的重要樞紐，此類案件的成功破獲可能引發當地執法部門對藝術品犯罪更嚴格的打擊行動，進而影響全球藝術品流通的合規成本與風險評估模型。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "尚比亞總統選舉計票工作因針對投票人員的襲擊指控而暫停。選舉委員會表示，暴力事件導致已標記的選票被盜。",
+      "judgment": "尚比亞總統選舉計票暫停並發生選票被盜事件，顯示該國民主程序正面臨嚴重安全挑戰。此類暴力干擾可能延遲結果公布，引發政治不確定性，甚至觸發憲政危機或國際社會介入。若襲擊被證實為有組織行為，將削弱選舉公信力，影響未來投資信心與區域穩定。BBC 報導指出選舉委員會已確認選票失竊，凸顯執法與選務保護機制存在漏洞，需立即強化安全措施並展開獨立調查以恢復公眾信任。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "US missionary released following kidnap in Niger, Christian group says",
+      "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國傳教士 Kevin Rideout 於去年十月在尼日爾首都住所外遭綁架，目前據基督教團體表示已獲釋並與美國官員會合。",
+      "judgment": "Kevin Rideout 的獲釋標誌著尼日爾安全局勢中一個罕見的正面發展，特別是在該國長期面臨武裝組織威脅的背景下。此次事件凸顯了西方公民在薩赫勒地區面臨的持續風險，同時也可能影響美國與尼日爾軍政府之間的外交互動。若此釋放是透過談判達成，可能暗示當地非國家行為者與國際勢力之間存在某種溝通管道，這對於未來類似人質危機的處理具有參考價值。然而，單一人質獲釋並不意味著整體安全環境改善，尼日爾仍處於政治動盪與武裝衝突的高風險狀態，國際組織與外交人員在該區域的活動仍需高度謹慎。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
+      "url": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Deivi Delfín 與其兄弟在委內瑞拉發生致命地震導致母親喪生後，遷移至哥倫比亞，卻在當地遭遇了另一場致命災難。",
+      "judgment": "此事件凸顯了氣候與地質災害對遷移人口的疊加風險，特別是從高風險區（如委內瑞拉）逃離的難民，往往因資源匱乏與居住環境脆弱，在接收國（如哥倫比亞）面臨二次災害威脅。這類連環災難不僅加劇人道危機，也對區域移民政策與災害預警機制提出嚴峻挑戰，顯示國際社會需建立更完善的跨國災難應對與難民安置協作框架，以保護最脆弱群體免受多重災害衝擊。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+      "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "BBC News 報導印度太陽任務的新發現，旨在解答太陽日冕溫度為何比表面高出數百萬度，以及日冕如何維持其無法解釋的高溫這兩個長期存在的太陽謎題。",
+      "judgment": "印度太陽任務的新發現標誌著太陽物理學領域的重要進展，特別是針對日冕加熱機制這一長期未解之謎。日冕溫度遠高於太陽表面的現象一直是太陽物理學的核心難題，新數據可能為理解太陽磁場能量傳輸與耗散提供關鍵線索。此類發現不僅有助於完善太陽活動模型，還能提升對太陽風、日冕物質拋射等空間天氣現象的預測能力，進而保護地球上的衛星通訊、電力網路等關鍵基礎設施。對印度而言，此任務的成功強化了其在全球太空科學領域的地位，並可能推動相關高科技產業鏈的發展，包括衛星製造、數據分析與太空探測技術的應用。長期來看，這類基礎科學突破將促進國際合作，並為未來深空探測任務奠定理論與技術基礎。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Watch: What happens if Luigi Mangione pleads guilty today?",
+      "url": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Luigi Mangione 被指控殺害 United Healthcare 執行長 Brian Thompson。其律師團隊於週五與聯邦檢察官進行會面。",
+      "judgment": "此事件標誌著針對高層醫療保險主管的暴力犯罪進入關鍵法律程序階段。若 Mangione 認罪，將大幅縮短司法審判時間，並可能影響美國醫療保險產業對高階主管安全防護的投入策略。此案件已引發公眾對醫療體系成本與可及性的廣泛討論，可能促使立法者重新檢視相關法規。聯邦檢察官的介入顯示此案具有跨州性質，未來判決結果將成為類似案件的重要判例，影響企業高層安全風險評估模型。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
