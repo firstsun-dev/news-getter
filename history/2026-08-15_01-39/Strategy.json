@@ -1,0 +1,32 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-15_01-39",
+  "stories": [
+    {
+      "title": "How to Develop a Game-Changing Worldview",
+      "url": "http://feeds.harvardbusiness.org/2026/08/how-to-develop-a-game-changing-worldview",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "前百思買（Best Buy）執行長 Hubert Joly 表示，發展改變遊戲規則的世界觀有助於企業開始認真思考長期策略。此內容出自哈佛商業評論（Harvard Business Review）的文章，標題為「如何發展改變遊戲規則的世界觀」。",
+      "judgment": "在快速變遷的商業環境中，企業領導者若能培養出突破性的世界觀，將能更有效地制定長期戰略，從而應對市場的不確定性與競爭壓力。Hubert Joly 作為前百思買執行長，其經驗顯示，重新定義企業視角不僅能激發創新，還能引導組織在數位轉型與消費者行為改變中保持競爭力。這種世界觀的轉變要求企業超越短期財務指標，深入理解宏觀趨勢、技術演進與社會價值，進而重塑商業模式。對於產業而言，這意味著領導者需具備跨領域思維與前瞻性視野，以驅動可持續成長。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/how-to-develop-a-game-changing-worldview"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Research: The Innovation Problems AI Can’t Solve",
+      "url": "http://feeds.harvardbusiness.org/2026/08/research-the-innovation-problems-ai-cant-solve",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論研究指出，生成式人工智慧雖能加速創新進程，但同時可能導致思維狹隘化、強化既有偏見，並使團隊與客戶之間的距離拉大。",
+      "judgment": "生成式 AI 在創新領域的雙面刃效應值得產業高度關注。雖然其能顯著提升效率與產出速度，但若過度依賴，可能抑制人類創意的多元性，使解決方案趨於同質化。此外，AI 模型訓練數據中的潛在偏見若未被有效識別與修正，將被放大並固化於產品設計中，進而損害品牌信譽與市場接受度。更關鍵的是，當團隊過度仰賴 AI 生成洞察時，可能減少與真實客戶的直接互動，導致對市場需求的理解脫節。產業界在導入 AI 工具時，應建立人機協作的平衡機制，保留人類在批判性思考、倫理判斷及客戶同理心方面的核心角色，以確保創新不僅快速，更具備深度與社會價值。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/research-the-innovation-problems-ai-cant-solve"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
