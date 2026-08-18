@@ -1,0 +1,32 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-18_01-39",
+  "stories": [
+    {
+      "title": "How to Respond to the Coming AI Cost Shock",
+      "url": "http://feeds.harvardbusiness.org/2026/08/how-to-respond-to-the-coming-ai-cost-shock",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論指出，領導者必須針對即將到來的 AI 成本衝擊，設計新的預算編列、人力規劃及風險管理方法。",
+      "judgment": "AI 技術的快速普及正從單純的技術投資轉變為顯著的營運成本壓力，這標誌著企業數位轉型進入深水区。過去企業多關注 AI 帶來的效率提升與營收增長，卻往往低估了模型訓練、推理運算及數據儲存所產生的持續性高額支出。當 AI 成本衝擊來臨，傳統的固定預算模式將難以適應動態變化的算力需求，迫使企業重新審視資源配置策略。領導者需將 AI 視為核心營運成本而非一次性專案支出，建立更具彈性的財務模型。同時，人力規劃也需調整，從單純的技術導入轉向人機協作模式，以平衡自動化帶來的成本節省與新技能培訓的投入。風險管理方面，企業應預先評估過度依賴 AI 可能帶來的財務波動，並制定應對方案，確保在成本上升時仍能維持營運穩定性。此趨勢將篩選出具備前瞻性財務規劃能力的企業，使其在競爭中脫穎而出。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/how-to-respond-to-the-coming-ai-cost-shock"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "An Analysis of 1,000 Meetings Shows How the Best Leaders Shape Conversations",
+      "url": "http://feeds.harvardbusiness.org/2026/08/an-analysis-of-1000-meetings-shows-how-the-best-leaders-shape-conversations",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論發表一項研究，分析了 1000 場會議，探討優秀領導者如何塑造對話。文章指出，每一項策略、決策與轉型都始於對話。",
+      "judgment": "此研究強調領導者在會議中引導對話的關鍵角色，顯示高效會議不僅是資訊交換，更是策略形成的核心場域。優秀領導者透過主動塑造對話結構與氛圍，能提升團隊決策品質與執行效率。在當前組織面臨快速變革的環境下，此發現凸顯了溝通能力作為領導力的核心指標，企業應重視領導者的對話引導訓練，以強化組織敏捷性與創新能力。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/an-analysis-of-1000-meetings-shows-how-the-best-leaders-shape-conversations"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

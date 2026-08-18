@@ -1,0 +1,20 @@
+{
+  "category": "AI",
+  "timestamp": "2026-08-18_01-39",
+  "stories": [
+    {
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "Hugging Face 發布了一篇標題為「Same Cluster, 33 Points More Utilization: What Changed Was the Order」的文章，探討在相同集群環境下，僅透過調整順序即可將 GPU 利用率提升 33 個百分點的事實。該文章由 Dharma-AI 團隊撰寫，屬於 GPU 管理系列文章的第二部分，旨在分享優化資源使用的具體經驗。",
+      "judgment": "此案例凸顯了在高成本 AI 基礎設施中，軟體層面的調度策略對硬體效能的影響往往被低估。在硬體規格不變的前提下，透過優化任務排程順序（Order）即可實現 33% 的利用率躍升，這意味著企業無需立即追加資本支出購買新 GPU，即可透過演算法與管理策略大幅降低單位運算成本。對於依賴大規模訓練的 AI 公司而言，這證明了運維團隊在資源調度上的專業度直接轉化為財務優勢。隨著模型規模擴大，這種「軟性優化」將成為維持競爭力的關鍵，促使產業從單純追求硬體堆疊轉向更精細的資源管理架構。",
+      "used_source_urls": [
+        "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
