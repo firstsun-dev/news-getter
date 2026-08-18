@@ -1,0 +1,98 @@
+{
+  "category": "Social Sentiment",
+  "timestamp": "2026-08-18_12-57",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Honey loses over 7 million users and 7,000 stores following YouTuber’s viral expose",
+      "url": "https://www.reddit.com/r/technology/comments/1vr6zn9/honey_loses_over_7_million_users_and_7000_stores/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Aaron Rodgers Secretly Funded Security Cameras in His Neighborhood Amid Privacy Concerns: Report",
+      "url": "https://www.reddit.com/r/technology/comments/1vr8l1q/aaron_rodgers_secretly_funded_security_cameras_in/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Cherokee Nation bans hyperscale data centers on its lands, won't support projects without consultation - energy and water consumption, air quality, noise, and cultural resource protection among concerns",
+      "url": "https://www.reddit.com/r/technology/comments/1vr8ydl/cherokee_nation_bans_hyperscale_data_centers_on/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "GoldenEye 007 for N64 has been 100% decompiled & success of half-decade project opens up possibilities for complex mods and ports",
+      "url": "https://www.reddit.com/r/technology/comments/1vr9h6k/goldeneye_007_for_n64_has_been_100_decompiled/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US",
+      "url": "https://www.reddit.com/r/technology/comments/1vrlxpo/you_can_finally_buy_a_fairphonea_sustainable/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "A 69-Year-Old Just Became the First Person Jailed for Protesting AI. No Regrets. - Gadget Review",
+      "url": "https://www.reddit.com/r/technology/comments/1vr9s5g/a_69yearold_just_became_the_first_person_jailed/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "US Army battalion reportedly offers troops days off to play GTA 6 if they re-enlist",
+      "url": "https://www.reddit.com/r/technology/comments/1vr6uh3/us_army_battalion_reportedly_offers_troops_days/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices",
+      "url": "https://www.reddit.com/r/technology/comments/1vrjgdi/memory_prices_climb_500_in_12_months_up_to_10x/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "ABC Files First Amendment Lawsuit Against FCC",
+      "url": "https://www.reddit.com/r/technology/comments/1vrnlts/abc_files_first_amendment_lawsuit_against_fcc/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "‘Preserve the stuff we own’: how right-to-repair laws are surging across the US",
+      "url": "https://www.reddit.com/r/technology/comments/1vrasrx/preserve_the_stuff_we_own_how_righttorepair_laws/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "As Wisconsin cities flee Flock, its shared camera network loses value | “Network effect” can run in reverse.",
+      "url": "https://www.reddit.com/r/technology/comments/1vr6m5k/as_wisconsin_cities_flee_flock_its_shared_camera/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Quote of the day by Microsoft CEO Satya Nadella: \"Our industry does not respect tradition – it only respects innovation\" — a communiqué stamping authority",
+      "url": "https://www.reddit.com/r/technology/comments/1vrn09d/quote_of_the_day_by_microsoft_ceo_satya_nadella/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Online job postings point to AI creating a two-speed economy, with firms hiring senior workers who have AI skills while cutting back elsewhere as high employment costs continue to bite. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ1pfRUVFbjJXTEJwYjlWZEtJYmVYU3pEWjAzVGlSQ2xiam1GczhNeG14cXViUmlpekljZXZUU3dST3IyQm5oVkhQaVd0azNuR1hZQVVOM1Y3NUFrNjFoNnpKbE1Ic1FzTk9qU3FiZGlyMmxBWmF4b1ZGOVFiXzBFdmZXbWx4dU14QnVjZFdMN2ZUUk9lamZzYjBXVHBXMTEzQjBaNGpZbldWS19qVlZtRVlRdldRcEc2bGRGN29FUUtiZFpwQVNXYzhIMUJ6ek96Q2hLdTZjeG93dnM?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The next phase of AI will be defined by how deeply businesses embed it into everyday work. At the ET World Leaders Forum 2026, Nigel Vaz, CEO, Publicis Sapient, will share perspectives on how businesses can move from learning and experimenting with AI - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLUFkaDQzdkxGZVZpcG9RUGs0U2t1cFp6bmxOOWZSV05RV2xwT0k3RVZ3NDRTVHF1aWxlaE9HZ1l4WkdsRHQ3UkV2QlBfSG9FYWltNUtrWVRUbGkxNDFidFVfa3VqZHFaaUxyNldpOFRTdVdST05RZUxYS2NMREpVekhWbGdzTGZDdnhnWGREQy1JQzB5TDExSEhhZW9NSGtzZjYzcTl2MmpoS3NTRWFZdGZrR1k5MzR1b1dFY0NKOUlhVEp4QlVZSnRVdThLbWhLMjlXQ3phdFloMEE?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "An analysis by Harvard Business School Professor shows how AI creates significant value not only for the technology's developers, but for companies that use it to innovate. How should organizations think about future AI investments? - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUEJtbldCRC1yRXh1Nm4tbDNjWm9CdnNocG9JNUNGNTJIeFN6UmNKbUFTVlFlbWx0RmI4Zk9RWUFzbC1uN21tQ05zNTJSZHlJY1IxWEtBczJhdmFtbnZJZ0JjYW1vYURPYjJmYmIzUWtNcDFzcHhmTXA4TE9HQ1NrMTB6M2xIcHh4V2ZlVUl4OVFUczliR3EwRk5DOTdKOVowajlrLWZkYXFhbVVKUjFvZ3RFdklCZWdOc2VkNk81VTJiZHNueEh5ZmZ0aGhQZDNid1R4RjBzY1g?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
