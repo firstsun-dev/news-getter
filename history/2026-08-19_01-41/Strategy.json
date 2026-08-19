@@ -1,0 +1,44 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-19_01-41",
+  "stories": [
+    {
+      "title": "Research: What Physical Retail Stores Deliver in a Digital Economy",
+      "url": "http://feeds.harvardbusiness.org/2026/08/research-what-physical-retail-stores-deliver-in-a-digital-economy",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據哈佛商業評論的研究，在數位經濟中，最成功的零售商將投資圍繞企業整體價值進行組織，而非僅關注個別通路的績效表現。",
+      "judgment": "此研究指出零售業的戰略重心正從單一通路優化轉向全企業價值最大化。在數位化浪潮下，實體店面不再僅是銷售點，而是承擔體驗展示、即時服務與品牌信任建立等關鍵功能。成功企業不再將線上與線下視為競爭關係，而是整合資源以創造協同效應。這種策略要求組織架構、數據系統與績效指標的全面重組，以支持跨通路的無縫顧客旅程。長期來看，未能適應此範式轉移的零售商可能面臨市場份額流失與品牌價值稀釋的風險。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/research-what-physical-retail-stores-deliver-in-a-digital-economy"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Can an AI-Powered Scribe Curb Physician Burnout?",
+      "url": "http://feeds.harvardbusiness.org/podcast/2026/08/can-an-ai-powered-scribe-curb-physician-burnout",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論指出，在患者就診期間使用自動化筆記工具具有減少醫師行政負擔的潛力，但相關權衡取捨情況複雜。",
+      "judgment": "自動化筆記工具雖被視為緩解醫師職業倦怠的關鍵技術，但其實際效益取決於技術成熟度與臨床工作流的整合程度。若工具無法精準理解醫學語境或增加醫師校對時間，反而可能加劇認知負荷。產業觀察顯示，此類 AI 應用需從單純的語音轉文字進階至具備臨床推理輔助能力，方能真正釋放醫療人力。此外，數據隱私與病歷準確性責任歸屬亦是醫療機構導入前必須評估的風險點，這將決定該技術在醫療產業的普及速度與深度。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/podcast/2026/08/can-an-ai-powered-scribe-curb-physician-burnout"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Strategy Making Gets an AI Boost",
+      "url": "http://feeds.harvardbusiness.org/2026/08/strategy-making-gets-an-ai-boost",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論（Harvard Business Review）於 8 月 17 日發行的《The Insider》通訊中，編輯長 Gretchen Gavett 撰寫文章探討人工智慧（AI）如何改變策略制定過程，並提及傳統職業發展軌跡的終結等議題。",
+      "judgment": "此新聞標誌著企業策略制定範式的重大轉變。過去策略制定多依賴高階管理者的經驗與直覺，呈現線性且階層分明的傳統職業路徑；然而，AI 的介入正加速數據驅動的決策模式，使得策略分析更即時、精確且具備預測性。這不僅壓縮了傳統中階管理職在資訊彙整與初步分析上的價值，更可能重塑組織的人才結構，迫使企業重新定義領導力與專業技能的需求。長期來看，無法有效整合 AI 工具進行策略規劃的企業，將在市場反應速度與資源配置效率上落後，進而影響其競爭優勢。此趨勢顯示，未來的策略制定將從「人主導、AI 輔助」轉向「AI 驅動、人負責最終判斷與倫理把關」的協作模式。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/strategy-making-gets-an-ai-boost"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

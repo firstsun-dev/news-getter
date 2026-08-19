@@ -1,0 +1,32 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-08-19_01-41",
+  "stories": [
+    {
+      "title": "Stock indices no longer reflect equity reality",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/18/stock-indices-no-longer-reflect-equity-reality",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "The Economist 於 2026 年 8 月 18 日發表文章指出，股票指數已不再反映股權現實。文章標題為「Stock indices no longer reflect equity reality」，並引用諺語「謊言、該死的謊言和股市」來形容當前市場指標與實際股權狀況之間的脫節現象。",
+      "judgment": "股票指數與股權現實的脫節顯示市場定價機制可能出現結構性扭曲，這可能源於指數編制方法未能及時反映企業所有權結構的變化，或市場參與者過度依賴指數作為投資基準而忽略基本面。此現象若持續，將削弱指數作為市場風向標的可靠性，進而影響機構投資者的資產配置決策與風險管理策略。長期來看，這可能促使監管機構或指數編制公司重新審視指數權重計算方式，以確保其更能準確反映真實的股權分佈與市場動態。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/18/stock-indices-no-longer-reflect-equity-reality"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "The White House’s absurd claim of a Chinese transshipment “scam”",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "《經濟學人》於2026年8月18日發表文章，標題為「白宮荒謬的中國轉運騙局指控」，指出美國對中國商品徵收的高關稅已產生可預見的後果。文章質疑白宮關於中國透過轉運規避關稅的說法，並探討相關貿易政策的實際影響。",
+      "judgment": "白宮指控中國利用轉運規避關稅，但《經濟學人》認為此說法缺乏實質證據，屬政治話術。高關稅政策雖旨在保護本土產業，卻可能導致全球供應鏈重組、通膨壓力上升及貿易夥伴反彈。若美國持續以不實指控推動貿易限制，將削弱其國際信譽，並促使中國加速尋找替代市場或深化區域合作。長期而言，此類政策可能加劇全球貿易碎片化，不利於經濟復甦。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
