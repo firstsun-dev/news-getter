@@ -1,0 +1,20 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-19_12-59",
+  "stories": [
+    {
+      "title": "Michelle Williams on why public health is public wealth",
+      "url": "https://www.mckinsey.com/mhi/our-insights/michelle-williams-on-why-public-health-is-public-wealth",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Michelle Williams 作為流行病學與公共衛生領域的領導者，主張社會應將人口健康視為建構繁榮社區的基礎設施，而非慈善事業。",
+      "judgment": "此觀點標誌著公共衛生敘事從道德義務轉向經濟戰略的範式轉移。將健康定義為基礎設施，意味著政府與企業需像投資交通或能源網絡般，對預防醫學、流行病監測及醫療系統進行長期資本配置。這種思維轉變將重塑產業投資邏輯，促使資源從被動的治療端轉向主動的預防端，進而推動數位健康、大數據流行病學及社區醫療基礎設施等領域的創新與擴張。長期而言，強化公共衛生基礎設施將直接提升勞動力生產力與社會韌性，成為國家競爭力的核心指標。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/mhi/our-insights/michelle-williams-on-why-public-health-is-public-wealth"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
