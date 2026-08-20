@@ -1,0 +1,20 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-08-20_01-39",
+  "stories": [
+    {
+      "title": "Why bond markets are unnerving rich-world politicians",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/19/why-bond-markets-are-unnerving-rich-world-politicians",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據《經濟學人》報導，在股市持續創下新高之際，債券殖利率正令人不安地攀升。該報導指出，這種現象正在讓富裕國家的政治人物感到憂慮。",
+      "judgment": "債券殖利率的上升與股市高漲形成對比，顯示市場對未來通膨預期或財政政策的不確定性增加。這可能迫使富裕國家的政府重新評估其債務管理策略，並可能導致借貸成本上升，進而影響公共支出與經濟成長。若殖利率持續攀升，可能引發對政府財政可持續性的擔憂，進而影響政治穩定與政策制定。此趨勢也暗示全球資本市場對經濟前景的審慎態度，可能促使投資者重新配置資產，從高風險資產轉向更安全的避險工具。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/19/why-bond-markets-are-unnerving-rich-world-politicians"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

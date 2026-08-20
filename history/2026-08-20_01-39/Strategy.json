@@ -1,0 +1,32 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-20_01-39",
+  "stories": [
+    {
+      "title": "Is Your Organizational Culture Too Nice?",
+      "url": "http://feeds.harvardbusiness.org/2026/08/is-your-organizational-culture-too-nice",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論指出，當領導者將和諧置於坦誠之上時，可能會損害組織績效。",
+      "judgment": "過度追求和諧而犧牲坦誠的組織文化，往往導致關鍵問題被掩蓋，決策品質下降，進而削弱整體競爭力。在快速變動的商業環境中，缺乏建設性衝突與真實反饋的團隊難以適應挑戰。此現象凸顯了心理安全感與坦誠溝通之間的微妙平衡：真正的心理安全並非避免衝突，而是鼓勵成員在尊重基礎上提出異議。若企業未能建立容許並獎勵坦誠的文化機制，將可能陷入「表面和諧、實質停滯」的陷阱，長期而言不利於創新與績效提升。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/is-your-organizational-culture-too-nice"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "AI Is Undermining Leaders’ Judgment. Here’s What to Do About It.",
+      "url": "http://feeds.harvardbusiness.org/2026/08/ai-is-undermining-leaders-judgment-heres-what-to-do-about-it",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論指出，旨在增強決策能力的 AI 工具，實際上可能導致領導者的判斷力變弱。",
+      "judgment": "隨著生成式 AI 在企業決策中的滲透，領導者面臨「自動化偏誤」的風險，即過度依賴演算法建議而削弱自身批判性思考與直覺判斷。這種現象可能導致組織在面對複雜、非結構化或需要倫理權衡的情境時，做出缺乏深度洞察的決策。長期而言，若領導者喪失獨立判斷能力，將降低組織的韌性與創新適應力。企業應重新設計決策流程，將 AI 定位為輔助工具而非決策主體，並強化領導者的數據素養與批判思維訓練，以平衡技術效率與人類智慧。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/ai-is-undermining-leaders-judgment-heres-what-to-do-about-it"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

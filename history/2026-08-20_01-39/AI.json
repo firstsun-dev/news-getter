@@ -1,0 +1,32 @@
+{
+  "category": "AI",
+  "timestamp": "2026-08-20_01-39",
+  "stories": [
+    {
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "Hugging Face 發布了關於 LiquidAI 的 LFM2.5 Q4_0 檢查點的資訊，這些檢查點是透過量化感知蒸餾（Quantization-Aware Distillation）技術生成的。",
+      "judgment": "此次發布標誌著 LiquidAI 在模型壓縮與效率優化領域的技術進展。透過量化感知蒸餾技術生成的 Q4_0 檢查點，意味著模型在保持較低位元精度（4-bit）的同時，仍能維持較高的推理準確度。這對於邊緣計算設備、行動裝置以及需要低延遲應用的場景具有重要意義，能有效降低硬體成本與能耗。此技術路線若被廣泛採用，將加速大型語言模型在資源受限環境中的部署，並可能引發產業界對高效能、低資源消耗模型架構的進一步競爭與投資。",
+      "used_source_urls": [
+        "https://huggingface.co/blog/LiquidAI/qad"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "OpenAI 重申為符合資格的 API 客戶提供零資料保留政策，並預覽了名為 Private Safety Processing 的新功能。該功能旨在不損害資料隱私的前提下，為進階 AI 安全提供處理能力。",
+      "judgment": "OpenAI 此次宣佈的零資料保留政策與 Private Safety Processing 預覽，標誌著生成式 AI 產業在企業級應用中對資料隱私與安全治理的重視達到新高度。隨著大語言模型在金融、醫療等敏感領域的滲透，企業客戶對於訓練數據與推理數據是否被留存至模型供應商端極為敏感。OpenAI 透過明確的零保留承諾，直接回應了企業對合規性與資料主權的擔憂，這將顯著降低大型機構採用先進模型的門檻。同時，Private Safety Processing 的推出顯示出業界正尋求在「安全過濾」與「隱私保護」之間取得平衡，這可能成為未來 API 服務的標準配置。此舉不僅鞏固了 OpenAI 在企業市場的信任基礎，也可能迫使競爭對手跟進類似的隱私保護機制，從而推動整個產業向更透明、更安全的資料處理架構演進。",
+      "used_source_urls": [
+        "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
