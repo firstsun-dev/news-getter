@@ -1,0 +1,32 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-08-20_13-01",
+  "stories": [
+    {
+      "title": "However you measure it, China’s job market is weak",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據《經濟學人》報導，中國的就業市場無論如何衡量都顯得疲弱，部分勞工正返回農村地區務農。",
+      "judgment": "中國就業市場的疲弱反映其經濟結構調整中的深層挑戰，尤其是製造業與服務業需求放緩導致失業率上升。勞工回流農村現象顯示城市就業機會不足，可能加劇農村人口壓力與消費需求萎縮。長期而言，若政府未能有效刺激內需或推動產業升級，將影響經濟成長動能與社會穩定。此趨勢也凸顯中國在應對人口老化與青年失業問題上的政策壓力，需透過更積極的財政與貨幣政策來緩解結構性失衡。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "The high cost of phantom tollbooths",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/20/the-high-cost-of-phantom-tollbooths",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "The Economist 於 2026 年 8 月 20 日發表題為《The high cost of phantom tollbooths》的文章，主張航行自由值得維護。",
+      "judgment": "文章標題暗示隱形收費站（phantom tollbooths）帶來高昂成本，可能隱喻國際貿易或航運中非關稅壁壘、過度監管或地緣政治阻礙所產生的隱性經濟負擔。在當前全球供應鏈重組與海洋爭端頻發的背景下，維護航行自由不僅是法律原則，更是降低全球貿易摩擦成本、確保能源與貨物流通效率的關鍵。若各國以安全或主權為由設置隱形障礙，將推高物流成本並削弱多邊貿易體系韌性。此觀點呼應國際社會對開放航道的長期需求，尤其在關鍵海峽與航道日益政治化的趨勢下，堅持航行自由有助於遏制保護主義蔓延，維持全球經濟穩定。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/20/the-high-cost-of-phantom-tollbooths"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
