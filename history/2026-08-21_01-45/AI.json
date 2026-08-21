@@ -1,0 +1,27 @@
+{
+  "category": "AI",
+  "timestamp": "2026-08-21_01-45",
+  "stories": [
+    {
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "Hugging Face 發布文章介紹 LiquidAI 推出的 LFM2.5-DSpark 技術，該技術能將推理速度提升最高達 3.2 倍。",
+      "judgment": "LFM2.5-DSpark 技術實現高達 3.2 倍的推理加速，顯示液態神經網絡（Liquid Neural Networks）架構在效率優化上取得實質突破。此進展對邊緣運算與即時 AI 應用具重大意義，因推理延遲降低可直接提升終端設備的回應速度與能源效率。隨著模型部署成本成為產業關鍵考量，此類加速技術可能促使更多企業採用液態架構替代傳統 Transformer，尤其在資源受限場景。長期來看，若該技術能維持準確性並擴大支援模型規模，將加速 AI 模型在行動裝置、IoT 及即時決策系統中的普及化。",
+      "used_source_urls": [
+        "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [
+    {
+      "title": "Simple agents",
+      "url": "https://www.bensbites.com/p/simple-agents",
+      "tier": 3,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": false
+}
