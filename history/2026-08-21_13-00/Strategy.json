@@ -1,0 +1,32 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-21_13-00",
+  "stories": [
+    {
+      "title": "The Science of Developing Creative Talent",
+      "url": "http://feeds.harvardbusiness.org/2026/08/the-science-of-developing-creative-talent",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論分析超過 15 年間 4,200 多位音樂家與數百家唱片公司的數據，指出有三個關鍵因素有助於創意職涯蓬勃發展。",
+      "judgment": "此研究透過大規模長期數據分析，為創意產業的人才培育提供了實證基礎。過去創意人才的成功常被歸因於天賦或運氣，但本研究顯示系統性因素至關重要。對於音樂產業而言，這意味著唱片公司與管理機構應重新審視其資源分配策略，從單純依賴明星效應轉向建立支持創意人才長期成長的生態系統。這三個關鍵因素可能涉及導師制度、跨領域合作機會或特定的市場曝光策略，具體應用需進一步探討。此發現不僅適用於音樂產業，對電影、設計、科技等依賴創意的行業同樣具有參考價值，提示企業在人才發展上應採取更科學、數據驅動的方法，以提升整體產業的創新產出與人才留存率。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/the-science-of-developing-creative-talent"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Beyond the copilot: Scaling the agentic product development life cycle",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據麥肯錫的洞察，目前僅有少數軟體團隊在整合人工智慧後看到實質影響。關鍵在於啟動以人工智慧為驅動的產品開發系統全面重新設計，而非僅僅部署新工具。",
+      "judgment": "當前產業正處於從輔助型 AI（Copilot）向代理型 AI（Agentic AI）過渡的關鍵節點。許多企業誤將 AI 視為單一工具升級，導致投資回報率低落，僅少數團隊能展現實質成效。真正的轉折點在於重構整個產品開發生命週期，將 AI 深度嵌入流程而非表面應用。這意味著組織需重新定義角色分工、自動化決策路徑並建立新的協作模式。未能進行系統性重構的企業將面臨技術落後與效率瓶頸的風險，而率先完成此變革者將獲得顯著競爭優勢。此趨勢將加速軟體開發的自動化與智能化，推動產業標準的重新洗牌。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
