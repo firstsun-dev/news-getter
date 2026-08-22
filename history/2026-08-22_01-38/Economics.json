@@ -1,0 +1,20 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-08-22_01-38",
+  "stories": [
+    {
+      "title": "Tracking the cost of Donald Trump’s tariffs",
+      "url": "https://www.economist.com/interactive/trump-tariff-costs-tracker",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 The Economist 的報導，美國的全球有效關稅率目前為 10.0%。該數據來自於追蹤唐納德·川普關稅成本的互動式工具，顯示了當前美國關稅政策的實際水平。",
+      "judgment": "美國全球有效關稅率達到 10.0% 是一個顯著的經濟指標，這表明貿易保護主義政策正在對全球供應鏈產生實質影響。高關稅率可能導致進口商品成本上升，進而推高國內通貨膨脹壓力，並可能引發其他國家的報復性關稅措施。從產業角度來看，依賴進口原材料或組件的製造業將面臨成本增加挑戰，而出口導向型產業則可能因貿易壁壘而失去競爭力。此外，這種關稅政策可能加速全球供應鏈重組，促使企業尋求替代市場或本地化生產以規避關稅風險。長期而言，這可能改變全球貿易格局，影響跨國投資決策與產業佈局策略。",
+      "used_source_urls": [
+        "https://www.economist.com/interactive/trump-tariff-costs-tracker"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

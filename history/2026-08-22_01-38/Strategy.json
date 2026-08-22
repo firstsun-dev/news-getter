@@ -1,0 +1,44 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-22_01-38",
+  "stories": [
+    {
+      "title": "What Separates AI Agents That Ship to Production from Those That Don’t",
+      "url": "http://feeds.harvardbusiness.org/sponsored/2026/08/what-separates-ai-agents-that-ship-to-production-from-those-that-dont",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "這是一則來自哈佛商業評論的贊助內容，由 AWS 與 Arize 提供，標題為「什麼區分了能部署至生產環境的 AI 代理與不能的 AI 代理」。",
+      "judgment": "此內容標誌著 AI 產業正從實驗性原型開發轉向生產環境部署的關鍵階段。AWS 與 Arize 的聯合贊助顯示，基礎設施供應商與可觀測性平台正成為企業導入 AI 代理的核心夥伴。隨著企業對 AI 代理的期待從單純的對話功能轉向實際業務自動化，能夠穩定運行、可監控且具備錯誤處理能力的代理將成為市場主流。此趨勢將加速 AI 技術在企業級應用中的落地，同時提高對系統穩定性與可維護性的要求，促使相關工具鏈與服務需求大幅增長。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/sponsored/2026/08/what-separates-ai-agents-that-ship-to-production-from-those-that-dont"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "The Missing Piece of Your Transformation Strategy",
+      "url": "http://feeds.harvardbusiness.org/2026/08/the-missing-piece-of-your-transformation-strategy",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "企業日益依賴供應商及其他合作夥伴構成的複雜網絡，但在策略規劃過程中，並未顯著地讓這些外部夥伴參與其中。",
+      "judgment": "企業轉型策略常因忽略供應鏈與生態系夥伴的參與而失敗。當企業依賴複雜的供應商網絡卻未將其納入策略對話時，會導致執行斷層、創新機會流失及風險應對遲緩。這種「策略孤島」現象使企業難以快速適應市場變化，因為關鍵的資源與能力掌握在外部夥伴手中。成功的轉型需從單向指令轉向協作生態，透過早期介入、數據共享與共同目標設定，將供應商轉化為策略資產。這不僅能提升供應鏈韌性，更能激發跨邊界創新，形成競爭壁壘。忽略此環節的企業，即便擁有先進技術或清晰願景，仍可能因執行層面的脫節而無法實現預期轉型成果。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/the-missing-piece-of-your-transformation-strategy"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "The Science of Developing Creative Talent",
+      "url": "http://feeds.harvardbusiness.org/2026/08/the-science-of-developing-creative-talent",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論分析超過 15 年間 4,200 多名音樂家與數百家唱片公司的數據，指出有三個關鍵因素有助於創意職涯蓬勃發展。",
+      "judgment": "此研究透過大數據驗證了創意人才培育的科學基礎，對文化創意產業具有深遠影響。過去業界常依賴直覺或經驗法則發掘新星，但該研究明確指出存在可量化的成功因子，這意味著唱片公司、經紀機構及教育單位可依據這三個因素重新設計人才招募與培訓策略。對於投資方而言，這提供了更客觀的評估框架，能降低對創意產業投資的不確定性。此外，研究涵蓋長週期數據，顯示創意成就非偶發事件，而是可被系統性培養的結果，這將促使產業從「尋找天賦」轉向「系統性開發天賦」的營運模式，進而提升整體產業的產出效率與人才留存率。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/the-science-of-developing-creative-talent"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
