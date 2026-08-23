@@ -1,0 +1,212 @@
+{
+  "category": "Technology",
+  "timestamp": "2026-08-23_12-52",
+  "stories": [
+    {
+      "title": "韓國晶片貿易順差飆新高，半導體出口受惠 AI 熱潮",
+      "url": "https://technews.tw/2026/08/23/south-korea-s-chip-boom-is-incredible/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Technews 科技新報報導，人工智慧（AI）熱潮已將韓國晶片產業轉變為具全球規模的產業。韓國晶片貿易順差創下新高，半導體出口顯著受惠於 AI 需求增長。",
+      "judgment": "韓國晶片貿易順差創下新高，顯示 AI 驅動的高階半導體需求正成為支撐韓國出口經濟的關鍵引擎。此趨勢反映全球科技供應鏈對 AI 運算能力的依賴加深，使擁有先進製程與記憶體技術的韓國企業獲得顯著競爭優勢。長期來看，這將強化韓國在全球半導體產業中的戰略地位，但也可能加劇對單一技術領域的依賴風險。若 AI 需求放緩或地緣政治干擾供應鏈，韓國出口結構可能面臨波動。此外，此現象也凸顯各國加速佈局半導體自主生產的必要性，以應對未來技術競爭。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/23/south-korea-s-chip-boom-is-incredible/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "動物園裡的雙向奔赴，科學家發現人類圍觀或許是亞洲小爪水獺最愛的活動",
+      "url": "https://technews.tw/2026/08/23/otters-enjoy-human-visitors/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據發表於《Journal of Zoologic》的研究，科學家發現人類圍觀或許是亞洲小爪水獺最愛的活動。人們造訪動物園時常擔心熱鬧人潮會對動物造成心理壓力，但這項研究顯示雙向奔赴的現象存在，暗示水獺可能從人類的關注中獲得正向回饋。",
+      "judgment": "此研究結果挑戰了傳統動物園管理對於「減少人為干擾」的單一思維，顯示特定物種如亞洲小爪水獺可能演化出適應人類存在的行為模式。這意味著動物園在規劃展覽時，可重新評估互動式設計的價值，將人流量轉化為動物福利的潛在資源，而非單純的壓力源。然而，此結論僅適用於特定物種，若過度推廣至所有動物，恐忽略其他物種對噪音與視覺干擾的負面反應。產業上，這可能促使動物園導入更精準的物種行為監測系統，以數據驅動展覽設計，平衡教育功能與動物福祉。長期來看，若能驗證此現象的普遍性，將重塑公眾對動物園倫理的認知，推動「參與式保育」的新模式。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/23/otters-enjoy-human-visitors/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "吃了會看見「小人國」？神祕蘑菇為何會引發集體幻覺，科學家：找不到致幻成分",
+      "url": "https://technews.tw/2026/08/23/scientists-identify-mushroom-behind-tiny-people-hallucinations/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Technews 科技新報報導，有患者就醫時表示出現頭暈症狀，並宣稱看見許多「小人」在房間走動甚至跳入碗中。科學家針對引發此類集體幻覺的神祕蘑菇進行研究，卻發現無法找到具體的致幻成分，導致該現象的成因目前仍不明確。",
+      "judgment": "此事件凸顯了生物毒素研究與臨床毒理學之間的斷層。當患者出現特定且一致的幻覺症狀（如看見小人），卻無法在檢測中發現已知致幻物質時，顯示現有檢測技術可能尚未涵蓋該蘑菇中的新型化合物，或是致幻機制涉及非傳統神經受體路徑。這對食品衛生安全與公共衛生監測構成挑戰，因為若無法鎖定致幻源頭，將難以建立有效的篩檢標準或預防措施。此外，這類「無成分可查」的集體中毒案例，可能引發公眾對野生菌類採食風險的恐慌，進而影響相關產業的供應鏈管理與消費者信心。未來需投入更多資源進行分子層級的深入分析，以釐清致幻機制並開發對應的解毒或檢測方案。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/23/scientists-identify-mushroom-behind-tiny-people-hallucinations/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Ox Alpha 模型竄紅 AI 圈，免費試用背後身分引發猜測",
+      "url": "https://technews.tw/2026/08/23/ox-alpha-is-a-frontier-ai-model-built-for-efficient-coding-and-agentic-work/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "一款名為「Ox Alpha」的神祕 AI 模型近期被上傳至 OpenRouter 與 OpenCode 平台，引發開發者社群關注。該模型被標榜為專為高效編程與代理工作（agentic work）設計的前沿模型，且提供免費試用，其背後開發者身分目前引發外界猜測。",
+      "judgment": "Ox Alpha 模型的出現顯示 AI 模型分發渠道正趨向多元化，開發者透過 OpenRouter 等聚合平台直接接觸前沿模型，降低了技術驗證門檻。免費試用策略雖能迅速累積用戶數據與社群聲量，但也可能暗示開發者試圖透過市場反饋快速迭代，或為後續商業化鋪路。若該模型確實如標榜般在編程與代理任務上表現優異，將對現有開源編程助手市場構成競爭壓力，並可能加速企業採用自主代理工作流的決策。然而，開發者身分不明可能帶來信任風險，長期發展取決於其技術透明度與後續支援能力。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/23/ox-alpha-is-a-frontier-ai-model-built-for-efficient-coding-and-agentic-work/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "DARPA 新計畫 SHINE 鎖定受損迴路，助大腦精準自我修復",
+      "url": "https://technews.tw/2026/08/23/darpa-shine/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國國防高等研究計畫署（DARPA）正推動名為 SHINE 的新計畫，旨在透過非侵入式技術協助受傷大腦重建受損的神經迴路，以促進大腦的精準自我修復。",
+      "judgment": "DARPA 啟動 SHINE 計畫標誌著神經修復技術從侵入式向非侵入式的重要轉折，此舉將大幅降低臨床應用門檻與風險。該計畫若成功，不僅能加速軍方創傷性腦損傷（TBI）患者的復健進程，更將帶動民用醫療領域的腦機介面與神經調控產業爆發。非侵入式技術的成熟將催生新型穿戴式醫療設備市場，並促使藥廠與科技巨頭加速投入神經再生療法研發。長期來看，此技術可能重塑神經精神疾病治療範式，使精準神經修復成為常規醫療選項，進而引發全球腦科學產業鏈的重組與價值鏈上移。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/23/darpa-shine/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "華為針對亞太地區以安全智慧連結理念，全面升級星河 AI 網路，躍升產業數位智能化",
+      "url": "https://infosecu.technews.tw/2026/08/23/huawei-upgrades-xinghe-ai-network-asia-pacific-secure-intelligent-connectivity-digital-intelligence/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "華為於峇里島舉辦「華為資料通訊創新高峰會 2026•亞太」，吸引近 500 位產業領袖與技術專家參與。華為在會上宣布針對亞太地區全面升級星河 AI 網路，並提出安全智慧連結理念，旨在推動產業數位智能化轉型。",
+      "judgment": "華為此次在亞太區全面升級星河 AI 網路，標誌著其從傳統網路設備供應商向 AI 驅動的智慧網路解決方案提供商的戰略轉型。在亞太地區數位化需求激增的背景下，強調「安全」與「智慧連結」的結合，直接回應了區域內企業對資料隱私與網路韌性的高度關注。此舉不僅能鞏固華為在亞太市場的既有客戶基礎，更有助於其在面對國際競爭時，透過差異化的安全架構與 AI 整合能力建立技術壁壘。長期來看，這將加速亞太地區基礎設施的智能化升級，並可能重塑區域內資料通訊市場的競爭格局，促使其他廠商加速跟進 AI 與安全融合的技術路線。",
+      "used_source_urls": [
+        "https://infosecu.technews.tw/2026/08/23/huawei-upgrades-xinghe-ai-network-asia-pacific-secure-intelligent-connectivity-digital-intelligence/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "AI 當心理諮商師夠格嗎，專家解析：現有模型有「知識」卻缺乏「智慧」",
+      "url": "https://technews.tw/2026/08/23/ai-generated-mental-health-advice-gets-uplifted-via-a-strong-dose-of-artificial-wisdom/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "隨著越來越多使用者將生成式 AI 作為心理支持與情緒傾訴對象，外界對於此類工具能否提供可靠建議的討論持續升溫。專家指出，現有 AI 模型雖然具備豐富的「知識」，但在提供心理諮商服務時仍缺乏關鍵的「智慧」。",
+      "judgment": "此現象顯示生成式 AI 在心理健康領域的應用正處於從「資訊提供」轉向「深度互動」的關鍵瓶頸期。雖然大語言模型能迅速檢索大量心理學理論與案例知識，但心理諮商的核心在於對人類複雜情緒的共情、情境判斷及倫理決策，這正是當前模型所欠缺的「智慧」。若產業僅依賴現有模型直接提供諮商建議，可能面臨誤導使用者或忽略潛在危機的風險。未來產業發展方向應聚焦於如何將人工智慧與人類專家的判斷力結合，或開發能模擬人類智慧決策的新一代架構，以確保在提供心理支持時的準確性與安全性，避免技術濫用帶來的社會隱憂。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/23/ai-generated-mental-health-advice-gets-uplifted-via-a-strong-dose-of-artificial-wisdom/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "三人小組產出抵 40 人，AI 未釀失業潮卻悄悄顛覆勞動市場遊戲規則",
+      "url": "https://technews.tw/2026/08/23/ai-not-causing-job-loss-research-truth-jobs-not-disappearing-vulnerable-positions/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國人工智慧公司 Anthropic 執行長阿莫迪與 OpenAI 執行長奧特曼參與討論，指出三人小組利用 AI 工具產出可抵得過去四十人的工作量。研究顯示 AI 尚未引發大規模失業潮，但正在悄悄顛覆勞動市場的遊戲規則，改變工作模式與效率標準。",
+      "judgment": "此現象顯示 AI 技術已從單純的自動化輔助轉向深度協作模式，大幅提升了小型團隊的產能邊際效益。雖然短期內未造成大規模裁員，但勞動市場結構正發生根本性變化：企業對人力規模的需求可能縮減，轉而追求具備 AI 協作能力的高效率人才。這將迫使傳統職位重新定義，低重複性、高標準化的工作內容面臨被整合或淘汰的風險，而具備策略思考與 AI 工具調度能力的職位價值將顯著提升。長期來看，勞動市場將從「人數競爭」轉向「人機協作效率」的競爭，教育體系與企業培訓需加速調整以應對此新常態。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/23/ai-not-causing-job-loss-research-truth-jobs-not-disappearing-vulnerable-positions/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "流量見頂後的第二成長曲線，LINE 台灣將「日常需求」轉化為商機的突圍之道",
+      "url": "https://finance.technews.tw/2026/08/23/ine-has-90percent-reach-how-can-it-keep-growing/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "LINE 台灣於 2017 年由陳立人擔任執行長，面對核心業務成長觸頂的挑戰，致力於將「日常需求」轉化為商業機會，以尋找第二成長曲線。該報導探討在流量見頂後，LINE 台灣如何突破現狀並維持成長。",
+      "judgment": "LINE 台灣在用戶滲透率已達極高水準的背景下，單純依賴流量擴張的傳統模式已難以為繼。陳立人領導下的策略轉向，標誌著從「流量經營」進化為「場景經營」的關鍵轉型。將日常需求轉化為商機，意味著 LINE 需深化支付、購物、生活服務等生態系整合，透過高頻次的日常應用場景提升用戶黏著度與變現效率。此策略若成功，將使 LINE 從通訊工具轉型為不可或缺的生活基礎設施，有效抵禦市場飽和帶來的成長停滯風險，並為台灣數位經濟注入新動能。",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/08/23/ine-has-90percent-reach-how-can-it-keep-growing/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "記憶體成本攀升，NVIDIA 明年起調漲 AI 伺服器價格、漲幅逾 15%",
+      "url": "https://technews.tw/2026/08/23/nvidia-notifies-customers-of-ai-related-price-hikes-above-15-percent/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "NVIDIA 已通知部分大型客戶，由於記憶體成本大幅飆升，搭載 NVIDIA 晶片的 AI 伺服器價格將從明年起進行調整，漲幅超過 15%。",
+      "judgment": "此次 NVIDIA 調漲 AI 伺服器價格逾 15%，直接反映記憶體等關鍵零組件成本結構的劇烈變化。在 AI 算力需求持續爆發的背景下，記憶體供應瓶頸與價格波動已成為影響整體 AI 基礎設施成本的核心變數。此舉將迫使雲端服務供應商與企業客戶重新評估資本支出預算，可能加速推動自研記憶體解決方案或尋求替代供應商，同時也可能抑制部分對價格敏感的邊緣 AI 應用部署速度。長期來看，若記憶體成本無法回穩，AI 硬體供應鏈將面臨更頻繁的價格重估，進而影響全球 AI 產業的擴張節奏與利潤分配結構。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/23/nvidia-notifies-customers-of-ai-related-price-hikes-above-15-percent/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "AI 化身第一道篩檢工具，及早揪出全球 10 億人的脂肪肝危機",
+      "url": "https://technews.tw/2026/08/23/theres-a-fatty-liver-epidemic-ai-could-help-get-ahead-of-it/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "全球脂肪肝負擔持續攀升，研究人員正利用人工智慧技術作為第一道篩檢工具，旨在及早發現原本難以察覺的早期風險。根據最新整理，此舉目標是應對全球約 10 億人面臨的脂肪肝危機，透過 AI 技術提升篩檢效率與早期診斷能力。",
+      "judgment": "脂肪肝已成為全球性的健康隱憂，影響人數高達 10 億，傳統篩檢方式往往難以在早期階段精準識別風險，導致病情惡化。人工智慧在此領域的應用，標誌著醫療篩檢模式的重大轉變，從被動治療轉向主動預防。AI 能夠分析大量影像與臨床數據，識別出人類醫師可能忽略的細微病變特徵，從而大幅降低漏診率並縮短診斷時間。這不僅能減輕醫療系統的負擔，更能透過早期介入改善患者預後，降低肝硬化與肝癌的發生風險。隨著演算法的成熟與數據庫的擴充，AI 輔助篩檢有望成為常規醫療流程的一部分，特別是在醫療資源匱乏的地區，將極大提升公共衛生防護網的覆蓋率與效率。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/23/theres-a-fatty-liver-epidemic-ai-could-help-get-ahead-of-it/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "毛利率飆 65%、股價卻重挫二成，On 跑鞋寧放慢成長也不降價的祕密",
+      "url": "https://finance.technews.tw/2026/08/23/on-running-shoes-secret-65-gross-margin-20-stock-plunge-prefers-slow-growth-no-price-cuts/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "On（昂跑）於2026年第二季公布財報，毛利率創新高達65%，但股價當日重挫20%，創上市以來最大單日跌幅。公司選擇放慢成長速度，堅持不降價策略，以維持高毛利。",
+      "judgment": "On 跑鞋在毛利率達65%的情況下股價仍重挫，反映市場對其高成長預期與當前策略的矛盾。公司選擇不降價、放慢成長，顯示其重視品牌定位與長期利潤結構，而非短期營收擴張。此策略雖能維持高毛利，但在競爭激烈的運動鞋市場中，可能面臨成長放緩的風險，導致投資人信心動搖。若市場持續偏好高成長標的，On 需進一步溝通其長期價值主張，以穩定股價。",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/08/23/on-running-shoes-secret-65-gross-margin-20-stock-plunge-prefers-slow-growth-no-price-cuts/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "長得像海馬卻不是海馬？3D 骨骼掃描與基因定序揭開深海「海木偶」身世",
+      "url": "https://technews.tw/2026/08/23/sea-muppet/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "澳洲南部深海最新研究透過微型電腦斷層掃描與基因定序技術，推翻了科學界對幾種奇特小魚的長期分類認知。這些外形酷似海馬的生物，經證實並非海馬，而是被重新歸類為「海木偶」。研究團隊利用先進的 3D 骨骼掃描技術，深入分析了其骨骼結構與基因序列，從而釐清了其真實身世。",
+      "judgment": "此項研究展示了跨領域技術（3D 掃描與基因定序）在生物分類學中的關鍵應用價值。傳統依賴外部形態的分類方式常導致誤判，而高精度影像與分子生物學證據的結合，能有效修正長期存在的科學認知錯誤。對於海洋生物多樣性資料庫而言，此類修正將提升數據準確性，進而影響生態模型建構與保育策略的制定。此外，該發現可能激發更多針對深海未知物種的探索投資，推動相關檢測設備與分析軟體的產業發展。在學術與應用層面，這標誌著生物分類正邁向更精確的整合分析時代，有助於重新評估深海生態系的複雜性與演化路徑。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/23/sea-muppet/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "治了癌症卻痛了關節，破解免疫療法副作用謎團：「免疫記憶」竟是發炎加劇元兇",
+      "url": "https://technews.tw/2026/08/23/immune-memory/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "癌症免疫療法雖為患者帶來抗癌新曙光，但伴隨的副作用使部分患者苦不堪言。美國德州大學安德森癌症中心的研究指出，免疫記憶竟是導致發炎加劇的元兇，這解釋了為何患者在治癒癌症後仍面臨關節疼痛等問題，研究團隊正致力於破解此副作用謎團。",
+      "judgment": "此研究揭示了免疫療法副作用的關鍵機制，即免疫記憶細胞在清除癌細胞後持續引發發炎反應，導致關節疼痛等長期併發症。這發現將推動臨床治療策略的轉變，未來可能發展出針對免疫記憶的調節療法，在保留抗癌效果的同時降低自體免疫反應。對產業而言，這將刺激針對免疫相關不良事件（irAEs）的輔助藥物研發需求，並促使藥廠在臨床試驗設計中更重視長期安全性追蹤。若此機制能成功轉化為臨床應用，將大幅提升患者生活品質，進而提高免疫療法的市場接受度與滲透率，成為生物製劑領域的新競爭焦點。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/23/immune-memory/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "群創法說焦點「騰籠換鳥」！未回應台積電 CoPoS 合作問題，TGV 玻璃基板最快 2028 年量產",
+      "url": "https://technews.tw/2026/08/23/innolux-earnings-call-26q2/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "群創於 18 日舉行線上法說會，外界關注焦點包含 FOPLP 量產狀況及玻璃基板技術進展。公司未回應台積電 CoPoS 合作相關問題，並指出 TGV 玻璃基板最快將於 2028 年量產。",
+      "judgment": "群創在法說會中採取「騰籠換鳥」策略，顯示其正積極從傳統顯示面板產業轉型至高附加價值的半導體封裝領域。TGV（玻璃通孔）技術被定位為 2028 年量產的關鍵節點，這意味著群創正押注玻璃基板在 AI 伺服器與高效能運算（HPC）領域的長期需求，以應對傳統面板市場飽和的挑戰。然而，對於台積電 CoPoS 合作議題的迴避，可能反映雙方技術整合或商業條款尚未成熟，亦或群創希望先確立自身在玻璃基板製程的獨立競爭力，再與晶圓大廠進行深度綁定。此舉若成功，將使群創從週期性強烈的面板廠轉型為具備半導體封裝能力的關鍵供應商，但 2028 年的量產時程仍面臨技術良率提升與客戶驗證的挑戰。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/23/innolux-earnings-call-26q2/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "星雲大師、王永慶被收服，40 年老字號鈺通營造靠「極限完工」創 24 年營收新高",
+      "url": "https://finance.technews.tw/2026/08/23/yuh-tong-construction/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "鈺通營造成立 40 年，承接範圍涵蓋廟宇、校園、醫院及無人機廠等多類工程。該公司秉持不挑案子的經營策略，專注於處理他人不願承接的項目，並透過「極限完工」的執行能力，創下 24 年來營收新高紀錄。",
+      "judgment": "鈺通營造的成長模式顯示，在營建業競爭激烈的環境下，專注於利基市場與高難度專案能創造差異化優勢。該公司不挑案子的策略使其能累積多元工程經驗，從傳統廟宇到新興無人機廠，展現跨領域適應力。透過「極限完工」建立口碑，不僅解決客戶痛點，更在市場中建立獨特品牌定位。此模式對中小型營造廠具參考價值，顯示在大型建商主導的市場中，靈活應變與專業執行力仍是生存關鍵。長期來看，若能持續強化專案管理與技術升級，將有助於鞏固市場地位並拓展更高價值工程領域。",
+      "used_source_urls": [
+        "https://finance.technews.tw/2026/08/23/yuh-tong-construction/"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "學生負責下令，AI 負責讀大學：AI 代理「幫上課」成高等教育危機",
+      "url": "https://technews.tw/2026/08/23/i-found-a-prompt-that-keeps-ai-agents-from-taking-tasks-too-far/",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據《紐約時報》報導，AI 代理技術正將大學線上課程的作弊問題推向新階段。學生只需下達簡單指令，例如「登入並完成我的測驗」，即可讓 AI 代理代為執行上課與測驗任務，此現象已引發高等教育領域的嚴重危機。",
+      "judgment": "此現象標誌著學術誠信挑戰從單純的「答案生成」升級為「全流程代理執行」。過去學生多利用生成式 AI 輔助寫作或解題，而新一代 AI 代理具備自主操作介面、登入系統及完成複雜任務鏈的能力，使得傳統防作弊機制（如防抄襲軟體或線上监考）面臨失效風險。高等教育機構若僅依賴技術手段攔截，將陷入無休止的攻防戰；未來教育評估模式必須從「結果導向」轉向「過程導向」，例如增加面對面口試、實作評量或強調批判性思維的現場解題，以確保學習成效。此外，此趨勢也可能迫使教育科技廠商重新設計身份驗證與行為分析系統，以區分人類操作與代理行為。",
+      "used_source_urls": [
+        "https://technews.tw/2026/08/23/i-found-a-prompt-that-keeps-ai-agents-from-taking-tasks-too-far/"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
