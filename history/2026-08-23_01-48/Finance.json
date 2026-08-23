@@ -1,0 +1,56 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-08-23_01-48",
+  "stories": [
+    {
+      "title": "Germany’s Merz to press cabinet for faster pro-growth reforms",
+      "url": "https://www.investing.com/news/economic-indicators/germanys-merz-to-press-cabinet-for-faster-progrowth-reforms-4872393",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "德國總理梅爾茨（Merz）計劃向內閣施壓，要求加快推動促進經濟增長的改革措施。此舉旨在應對德國經濟面臨的挑戰，通過加速政策落地以提振市場信心與經濟活力。",
+      "judgment": "梅爾茨推動加速改革顯示德國政府正試圖扭轉經濟停滯局面，這可能對歐元區整體經濟穩定產生正面影響。若改革成功，將有助於提升德國作為歐洲經濟引擎的地位，並可能帶動周邊國家投資信心。然而，改革速度與內容若未能平衡各方利益，可能引發政治阻力或社會不滿，進而影響政策執行效果。長期來看，此舉若能有效改善德國財政結構與產業競爭力，將強化歐元區在面對全球經濟波動時的韌性。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/germanys-merz-to-press-cabinet-for-faster-progrowth-reforms-4872393"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Putin says Ukraine opened ’Pandora’s box’ with strikes on economic targets",
+      "url": "https://www.investing.com/news/commodities-news/putin-says-ukraine-opened-pandoras-box-with-strikes-on-economic-targets-4872370",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "俄羅斯總統普京表示，烏克蘭對經濟目標的襲擊打開了「潘朵拉之盒」。此言論出自普京針對烏克蘭近期針對俄羅斯經濟基礎設施發動攻擊的回應，強調此類行動可能引發更廣泛的衝突升級與後果。",
+      "judgment": "普京將烏克蘭對經濟目標的襲擊形容為打開「潘朵拉之盒」，暗示此類行動可能導致衝突範圍擴大與不可預測的後果。從產業角度來看，這可能加劇能源與大宗商品市場的波動，特別是若俄羅斯採取報復性措施，將進一步影響全球能源供應穩定性。此外，地緣政治風險上升可能促使投資者轉向避險資產，如黃金與美元，進而影響全球金融市場情緒。此事件也凸顯了戰爭對基礎設施與經濟活動的長期破壞性，可能延緩戰後重建進程並增加區域不穩定性。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/putin-says-ukraine-opened-pandoras-box-with-strikes-on-economic-targets-4872370"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Iran condemns US plans to announce new sanctions",
+      "url": "https://www.investing.com/news/commodities-news/iran-condemns-us-plans-to-announce-new-sanctions-4872376",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "伊朗譴責美國計劃宣佈新的制裁措施。此消息由 Investing.com Gold 報導，標題為「伊朗譴責美國計劃宣佈新的制裁」，相關新聞連結為 https://www.investing.com/news/commodities-news/iran-condemns-us-plans-to-announce-new-sanctions-4872376。",
+      "judgment": "伊朗對美國擬實施新制裁的強烈譴責，顯示美伊關係持續緊張，可能進一步加劇中東地緣政治風險。此類制裁通常針對伊朗的能源出口、金融交易或核計劃相關實體，若正式實施，將可能限制伊朗原油供應，進而推升國際油價波動。對於全球能源市場而言，中東不穩定因素增加可能引發供應中斷擔憂，促使投資者轉向避險資產。此外，制裁升級也可能影響區域盟友（如俄羅斯、中國）與伊朗的能源合作，改變全球能源貿易流向。長期來看，若制裁未能緩解伊朗核計劃爭議，地緣政治溢價將持續存在，對全球經濟復甦構成潛在威脅。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/iran-condemns-us-plans-to-announce-new-sanctions-4872376"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "US hits Canadian goods with 50% tariffs after trade talks fail",
+      "url": "https://www.investing.com/news/commodities-news/us-canadian-trade-teams-to-meet-again-as-tariffs-deadline-looms-4871745",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國在與加拿大的貿易談判失敗後，對加拿大商品實施了50%的關稅。此舉標誌著雙方貿易關係的緊張升級，且相關貿易團隊預計將再次會面以應對即將到來的關稅期限。",
+      "judgment": "美國對加拿大商品實施50%的高額關稅，顯示雙邊貿易摩擦已從談判階段轉向實際制裁，這將直接衝擊北美供應鏈的穩定性。加拿大作為美國重要的能源與原材料供應國，此舉可能導致美國製造業成本上升，進而推升通膨壓力。同時，加拿大可能採取反制措施，進一步惡化雙邊貿易環境。長期來看，這可能促使兩國企業加速供應鏈重組，減少對彼此市場的依賴，並推動區域貿易協定的重新談判。然而，短期內市場波動將加劇，特別是能源與金屬等大宗商品價格可能因貿易不確定性而劇烈震盪。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/us-canadian-trade-teams-to-meet-again-as-tariffs-deadline-looms-4871745"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
