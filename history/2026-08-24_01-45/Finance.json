@@ -1,0 +1,80 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-08-24_01-45",
+  "stories": [
+    {
+      "title": "Europe EV market share tops 25% in July as France, Germany drive growth",
+      "url": "https://www.investing.com/news/economic-indicators/europe-ev-market-share-tops-25-in-july-as-france-germany-drive-growth-4872477",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com 報導，歐洲電動車市場佔比在七月突破 25%，主要由法國和德國推動成長。",
+      "judgment": "歐洲電動車市場佔比突破 25% 顯示該地區能源轉型加速，法國與德國作為主要引擎，反映政策補貼與基礎建設投資成效顯著。此趨勢將強化歐洲車廠在電動車領域的競爭力，同時對傳統燃油車供應鏈造成壓力。長期來看，若此成長動能持續，將促使更多資本投入電池技術與充電網絡，進一步鞏固歐洲在全球電動車市場的領導地位。然而，需關注地緣政治風險與原材料價格波動可能帶來的挑戰。",
+      "used_source_urls": [
+        "https://www.investing.com/news/economic-indicators/europe-ev-market-share-tops-25-in-july-as-france-germany-drive-growth-4872477"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "US vows ’economic D-Day’ as Iran threatens to halt all oil exports",
+      "url": "https://www.investing.com/news/commodities-news/us-vows-economic-dday-as-iran-threatens-to-halt-all-oil-exports-4872522",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國誓言對伊朗採取「經濟 D 日」行動，作為回應伊朗威脅將停止所有石油出口的措施。此事件源於中東地緣政治緊張局勢升級，伊朗以切斷石油供應作為反制手段，而美國則承諾將實施嚴厲經濟制裁以應對潛在的能源市場衝擊。",
+      "judgment": "伊朗威脅全面停止石油出口將直接衝擊全球原油供應穩定性，可能引發油價劇烈波動，尤其若霍尔木兹海峡運輸受阻，將加劇市場恐慌。美國宣示「經濟 D 日」顯示其準備動用金融制裁與能源替代方案，試圖削弱伊朗經濟並維持市場平衡。此舉可能加速全球能源轉型進程，促使消費國加速儲備釋放與替代能源開發，同時強化美國在中東能源話語權。長期而言，地緣風險升溫將推高能源成本結構，影響全球通膨預期與產業供應鏈佈局。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/us-vows-economic-dday-as-iran-threatens-to-halt-all-oil-exports-4872522"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil falls ahead of US announcement on new Iran sanctions",
+      "url": "https://www.investing.com/news/commodities-news/oil-falls-1-ahead-of-us-announcement-to-impose-further-sanctions-on-iran-4872489",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Gold 報導，油價在美國宣布對伊朗實施進一步制裁前下跌約 1%。市場預期美國即將公布針對伊朗的新制裁措施，此消息導致原油價格出現波動。",
+      "judgment": "油價在制裁消息公布前下跌，顯示市場對地緣政治風險的反應呈現複雜性。雖然制裁通常被視為供應中斷的利多因素，但此次下跌可能反映市場對美國制裁執行力度或伊朗實際產能影響的疑慮。此外，若市場認為制裁已提前被定價，或全球需求前景疲軟抵消了供應風險，則可能導致價格反轉。此事件凸顯原油市場對地緣政治消息的敏感度，以及投資者對政策實際影響的重新評估。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-falls-1-ahead-of-us-announcement-to-impose-further-sanctions-on-iran-4872489"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Oil prices drop nearly 1% as U.S. prepares more Iran sanctions",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-drop-nearly-1-as-us-prepares-more-iran-sanctions-4872509",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據 Investing.com Gold 報導，油價下跌近 1%，原因是美國準備對伊朗實施更多制裁。",
+      "judgment": "油價下跌反映市場對地緣政治風險的定價調整。美國擬加強對伊朗制裁，理論上應限制伊朗原油出口，進而推升全球供應緊張預期，但此次油價反跌，顯示市場可能已提前消化制裁預期，或認為制裁執行力度與時程尚不確定。此外，若制裁未立即影響實際供應，加上全球需求前景疲軟或美元走強，均可能壓抑油價。此現象凸顯當前油價對地緣政治消息的反應趨於鈍化，投資者更關注實質供需數據而非單一地緣事件。長期而言，若制裁確實導致伊朗出口大幅減少，油價仍具上行壓力，但短期波動將受宏觀經濟因素主導。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/oil-prices-drop-nearly-1-as-us-prepares-more-iran-sanctions-4872509"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Italy extends diesel tax cut to Wednesday amid rising fuel prices",
+      "url": "https://www.investing.com/news/commodities-news/italy-extends-diesel-tax-cut-to-wednesday-amid-rising-fuel-prices-93CH-4872473",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "義大利政府宣布延長柴油稅減免措施至週三，以應對不斷上漲的燃料價格。此舉旨在緩解因能源成本上升對消費者及企業造成的財務壓力。",
+      "judgment": "義大利延長柴油稅減免顯示政府正積極介入能源市場以穩定物價，這可能短期內抑制國內通膨壓力並支撐消費信心。然而，此類財政干預若長期持續，可能壓縮政府預算空間，並對歐元區整體財政紀律產生潛在影響。從產業角度看，運輸與物流業將直接受益於成本降低，但能源稅收減少可能削弱公共投資能力。此外，若全球油價持續波動，此類臨時性措施的效果將受限，需搭配更結構性的能源政策方能長效解決問題。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/italy-extends-diesel-tax-cut-to-wednesday-amid-rising-fuel-prices-93CH-4872473"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Iran says new sanctions threatened by ’desperate’ US will fail",
+      "url": "https://www.investing.com/news/commodities-news/iran-says-new-sanctions-threatened-by-desperate-us-will-fail-4872444",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "伊朗表示，美國威脅實施的新制裁將失敗，並形容美國為「絕望的」。此消息由 Investing.com Gold 報導，標題為「伊朗稱美國威脅的新制裁將失敗」。",
+      "judgment": "伊朗對美國新制裁威脅的強烈反擊，顯示地緣政治緊張局勢可能進一步升級。若制裁確實實施，可能導致中東原油供應不穩，進而推升國際油價波動。然而，伊朗的堅定立場也可能促使區域內其他產油國調整策略，以平衡市場供需。長期來看，此類制裁與反制行動可能加速全球能源市場多元化，減少對中東原油的依賴。此外，若制裁未能有效遏制伊朗，美國在國際外交上的可信度可能受損，影響其未來對其他國家的制裁效力。",
+      "used_source_urls": [
+        "https://www.investing.com/news/commodities-news/iran-says-new-sanctions-threatened-by-desperate-us-will-fail-4872444"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
