@@ -1,0 +1,236 @@
+{
+  "category": "Global",
+  "timestamp": "2026-08-24_13-02",
+  "stories": [
+    {
+      "title": "King of Norway's health has worsened, palace says",
+      "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "挪威國王哈拉爾因血液細菌感染正在醫院接受抗生素治療，王宮表示其健康狀況惡化。",
+      "judgment": "挪威國王哈拉爾的健康惡化可能對國家穩定與王室形象產生短期影響，但挪威作為君主立憲制國家，政府運作不受君主健康狀況直接干擾。此事件可能引發國際社會對歐洲王室成員健康議題的關注，並促使媒體進一步追蹤治療進展。長期而言，若國王健康持續不穩，可能加速王儲哈康的攝政角色強化，進而影響王室權力結構的過渡安排。此類事件也提醒各國王室需加強公共健康風險管理與透明度，以維持公眾信任。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "特斯拉在中國召回近三百萬輛汽車，原因是隱藏式車門把手存在問題。此次召回還涉及其他品牌，包括中國汽車製造商小鵬汽車、小米和吉利。",
+      "judgment": "此次大規模召回事件凸顯了電動車市場快速擴張下的品質管控挑戰。特斯拉作為全球電動車龍頭，在中國召回近三百萬輛車，顯示其市場佔有率極高，但也暴露了設計或供應鏈潛在風險。隱藏式車門把手雖具美學與空氣動力學優勢，但在緊急情況下可能影響乘員逃生或救援效率，引發監管機構介入。此外，小鵬、小米、吉利等中國本土品牌亦受波及，反映中國電動車產業在快速技術迭代中普遍面臨安全驗證壓力。此事件可能促使中國監管部門加強對新車設計標準的審查，並推動企業提升召回響應速度與透明度。長期來看，若處理得當，可強化消費者對電動車安全性的信心；反之，若頻繁發生類似事件，可能影響整體產業聲譽與市場擴張速度。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國財政部長 Scott Bessent 表示，伊朗正面臨美國有史以來最強大的金融攻勢。他宣稱美國將切斷與伊朗的所有經濟聯繫，並警告任何與伊朗進行金融合作的国家也將面臨孤立。",
+      "judgment": "美國財政部長 Scott Bessent 的聲明標誌著對伊朗經濟制裁策略的重大升級，從局部限制轉向全面經濟隔離。此舉旨在通過切斷所有經濟聯繫，迫使伊朗在核協議或地區行為上做出讓步。若美國成功實施此政策，將對全球能源市場產生深遠影響，特別是中東地區的石油供應穩定性可能受到衝擊。此外，這一策略可能引發地緣政治緊張局勢，促使伊朗尋求與其他非西方國家（如中國或俄羅斯）加強經濟合作，從而改變全球貿易格局。然而，該政策的成效取決於國際社會的協調程度，若其他主要經濟體未能配合，美國單方面制裁的效果可能受限。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "贊比亞總統哈卡因德·希奇萊馬的第二任期就職典禮籌備工作似乎正在繼續進行。與此同時，隨著選舉請願截止日期的臨近，進入贊比亞法院的途徑受到阻礙。",
+      "judgment": "此事件顯示贊比亞政治生態在總統第二任期開始前夕面臨潛在的法律與程序挑戰。雖然就職典禮籌備工作看似順利推進，象徵行政權力的平穩過渡，但「進入法院途徑受阻」這一事實引發對司法獨立性及選舉爭議解決機制的擔憂。若選舉請願截止日前的法律途徑被無故阻斷，可能削弱選舉結果的合法性基礎，並增加社會動盪風險。此情況可能影響國際投資者對贊比亞法治環境的信心，進而波及該國經濟穩定。此外，若法院無法正常運作以處理選舉爭議，可能導致反對派採取非制度性手段表達不滿，進一步加劇政治緊張局勢。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "俄羅斯第二大線上零售商 Ozon 表示，其位於俄羅斯南部的多個倉庫在夜間襲擊中遭烏克蘭軍隊打擊，受影響地點包括達吉斯坦和克拉斯諾達爾地區。",
+      "judgment": "此次針對 Ozon 倉庫的襲擊標誌著烏克蘭對俄羅斯後勤與物流基礎設施的打擊範圍顯著擴大。Ozon 作為俄羅斯電商巨頭，其南部倉庫網絡承擔著大量民生與商業物資的配送功能，遭襲擊將直接衝擊俄羅斯南部供應鏈的穩定性，可能導致局部地區商品短缺與物流延遲。此類行動不僅反映烏克蘭具備精確打擊俄羅斯深層經濟目標的能力，也顯示戰爭已從傳統軍事前線延伸至對敵方經濟命脈的系統性削弱。長期而言，若此類襲擊頻繁化，將迫使俄羅斯電商企業增加物流分散度與防禦成本，進而推升營運開支並影響消費者體驗，對俄羅斯整體零售業構成結構性壓力。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "China probes use of formaldehyde to keep cabbages fresh",
+      "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "中國正調查在白菜中使用甲醛以保持新鮮的情況。甲醛是一種致癌物質，在中國用於食品防腐是被禁止的。中國是全球最大的白菜生產國。",
+      "judgment": "此次調查凸顯中國食品安全監管面臨的挑戰，尤其是在蔬菜供應鏈中非法添加化學物質的問題。作為全球最大的白菜生產國，中國若無法有效遏制此類違規行為，將嚴重打擊消費者信心，並可能引發國際市場對中國農產品安全性的質疑。長期來看，這可能迫使監管機構加強檢測頻率與處罰力度，增加生產與流通成本。同時，此事件也可能加速推動有機或無添加農產品的市場需求，促使產業結構向更透明、可追溯的方向轉型。若處理不當，恐對中國農業出口造成負面影響，並削弱全球對其食品安全體系的信任。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Four arrested over suspected poisoning of elephants in Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "肯亞發生大象死亡事件，當局已逮捕四人，調查人員正檢視這些死亡是否由噴灑在番茄作物上的殺蟲劑所導致。",
+      "judgment": "此事件凸顯肯亞農業擴張與野生動物保護之間的緊張關係。若調查證實殺蟲劑為致死原因，將迫使政府重新評估農藥使用規範，並可能引發對小農的嚴格監管或補償機制。長期而言，此類衝突可能加速農業轉型，推動有機耕作或生態友善農業，以減少對野生動物棲地的威脅。此外，國際社會對肯亞野生動物保護的關注可能增加，影響旅遊業與國際援助流向。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "New Zealand to introduce bill for under-16s social media ban",
+      "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "紐西蘭政府計劃提出一項法案，禁止 16 歲以下兒童使用社群媒體。該提案已面臨國會議員的反對，這些議員認為此禁令將無法達到預期效果。",
+      "judgment": "紐西蘭政府推動的未成年人社群媒體禁令法案，反映了全球各國對數位平台監管日益嚴格的趨勢。然而，該法案在立法階段即遭遇國會議員的強烈反對，顯示政策執行面存在顯著挑戰。反對者認為單純的年齡限制禁令難以有效落實，可能因技術繞過或身份驗證困難而流於形式。此爭議凸顯政府在保護兒童網路安全與維護言論自由及技術可行性之間的平衡難題。若法案最終通過但執行不力，可能削弱公眾對政府數位治理能力的信任；反之，若妥協修改，則可能延緩對兒童網路環境的保護進程。此案例亦可能成為其他國家制定類似政策時的參考範例，特別是關於如何設計具可執行性的年齡驗證機制。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "前巴基斯坦板球隊隊長呼籲為前總理伊姆蘭·汗提供適當的醫療照護。他們表示，巴基斯坦遵守法院命令的醫療評估是基本的體貼行為。",
+      "judgment": "前板球隊隊長公開呼籲政府遵守法院命令，為伊姆蘭·汗提供醫療評估，顯示巴基斯坦政治與司法體系正處於高度緊張狀態。此舉可能反映社會對政治人物醫療待遇的關注，並凸顯司法獨立性與行政執行之間的衝突。若政府持續拒絕執行法院命令，可能引發國際社會對人權與法治的質疑，進而影響巴基斯坦的國際形象與外交關係。此外，此事件也可能加劇國內政治對立，影響政局穩定。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Four arrested over boxing champion's murder in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "南非發生拳擊冠軍謀殺案，四名嫌疑人已被逮捕。其中一名嫌疑人將於週一出庭，面臨謀殺及企圖謀殺的指控。",
+      "judgment": "此案件突顯南非社會治安問題的嚴峻性，尤其針對公眾人物的暴力犯罪可能加劇民眾對司法系統效能的疑慮。拳擊冠軍作為體育界象徵，其遇害不僅衝擊體育產業形象，也可能引發對運動員安全防護機制的檢討。若司法程序能迅速且公正地處理此案，有助於穩定社會情緒；反之，若案件延宕或證據不足，可能進一步削弱公眾對法治的信心。此外，此類高調犯罪事件可能促使政府加強對公共場合及知名人士的安保措施，並推動相關立法以應對暴力犯罪。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Guinea rubbish landfill collapse kills 31",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "幾內亞首都一處主要垃圾填埋場發生堆體坍塌事故，政府表示大量垃圾掩埋了數棟房屋，造成至少 31 人死亡。",
+      "judgment": "此次幾內亞首都垃圾填埋場坍塌事件造成重大人員傷亡，凸顯了發展中國家在快速城市化進程中廢棄物管理基礎設施的嚴重不足。事故直接暴露了垃圾堆體穩定性評估缺失、違規傾倒以及缺乏有效監測機制的問題。這類災害不僅造成即時的人命損失，更可能引發長期的公共衛生危機與環境污染，加劇當地社區的貧困與不穩定。從產業角度看，此事件將迫使幾內亞政府及國際援助機構重新審視廢棄物處理的投資優先級，可能加速引入現代化垃圾分類、填埋技術及工程監測系統的需求。同時，這也警示其他面臨類似基礎設施短板的非洲國家，必須將廢棄物安全納入城市規劃的核心，以避免重蹈覆轍。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "1986 年世界盃足球賽四分之一決賽中，迭戈·馬拉多納對陣英格蘭時打入著名的「上帝之手」進球所使用的足球，已在拍賣會上售出，成交價格為 250 萬英鎊。",
+      "judgment": "此次拍賣以 250 萬英鎊成交，創下體育紀念品拍賣的新紀錄，凸顯了馬拉多納作為足球史上最具標誌性人物之一的巨大商業價值與文化影響力。這不僅僅是一次單一的收藏品交易，更反映了全球體育收藏市場對「歷史性瞬間」實體證物的極高溢價意願。在體育產業中，具有爭議性或傳奇色彩的歷史文物往往能引發更廣泛的媒體關注與公眾討論，從而轉化為更高的市場價值。此類高價成交將進一步刺激體育博物館、私人收藏家及投資機構對頂級足球歷史文物的競逐，可能推動相關拍賣行開發更多專項賽事紀念品業務，並促使體育聯盟與博物館更重視歷史檔案的保存與商業化開發。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "加拿大與美國的企業主正面臨貿易戰升級帶來的不確定性與擔憂。隨著雙邊報復性進口關稅不斷提高，企業經營環境惡化。部分企業主表示，若情況持續，其業務規模可能縮減一半。",
+      "judgment": "加拿大與美國之間的貿易摩擦升級，顯示全球供應鏈正承受顯著壓力。報復性關稅的累積效應將直接推高企業成本，壓縮利潤空間，並可能導致投資延遲或撤資。對於高度依賴跨邊境貿易的中小企業而言，這種不確定性尤為致命，可能引發區域性經濟放緩。長期來看，若雙邊談判未能緩解緊張局勢，將加速產業鏈重組，促使企業尋求替代市場或本地化生產，進而改變北美貿易格局。此趨勢也警示其他經濟體需審慎評估自身在貿易衝突中的脆弱性。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Shein aims for almost $27bn valuation in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "快時尚巨頭希音（Shein）計劃於9月1日在香港開始股票交易，此次上市目標估值接近270億美元。",
+      "judgment": "希音選擇在香港上市並設定近270億美元的估值，顯示其在全球快時尚市場擴張的戰略意圖。此舉可能強化其在亞洲市場的供應鏈整合能力，並提升品牌國際化形象。然而，快時尚行業正面臨環保與勞工議題的壓力，希音需證明其可持續發展策略以獲得投資者長期支持。此外，香港作為國際金融中心，為希音提供了接觸亞洲資本的渠道，但市場波動與監管環境變化仍可能影響其股價表現。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+      "url": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "BBC News 報導指出，在塔利班重返阿富汗掌權五年後，該組織正重塑國家。BBC 跟隨該組織的高層人物，觀察其如何透過離婚政策、智慧型手機使用規範及控制手段來管理阿富汗。",
+      "judgment": "塔利班掌權五年後持續深化對社會各層面的控制，顯示其政權正從軍事征服轉向制度化治理。透過限制離婚自由與監控智慧型手機使用，塔利班試圖重塑社會價值觀並鞏固權力基礎。此舉可能加劇國際社會對人權狀況的擔憂，進而影響援助資金流入與外交關係正常化進程。長期而言，若無法平衡內部控制與經濟發展需求，阿富汗可能面臨更嚴重的孤立與人道危機。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Australian shark attack victim grateful for 'second chance at life'",
+      "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Leah Stewart 於六月在澳洲遭鯊魚襲擊，手臂與腿部遭受多處咬傷。她在倖存後表示對獲得「第二次生命機會」感到感激。",
+      "judgment": "此事件凸顯澳洲沿海水域鯊魚襲擊風險的持續存在，對當地旅遊業與水上活動安全規範構成潛在壓力。雖然單一事件未必引發大規模政策變動，但可能促使地方政府加強海灘監控、增設防鯊網或提升公眾教育。從產業角度看，這可能影響潛水、衝浪等水上運動的保險成本與遊客信心，特別是在夏季旅遊旺季。長期而言，若類似事件頻發，將迫使相關產業投資更多資源於安全技術與應急系統，以維持澳洲作為安全旅遊目的地的品牌形象。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "The formidable challenges facing new Tata boss",
+      "url": "https://www.bbc.co.uk/news/articles/c20drryz7nvo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "印度企業界最受矚目的 Tata Sons 執行長職位目前懸缺。尋找新的領導人是一項艱鉅的任務。",
+      "judgment": "Tata Sons 作為印度最大且最具影響力的企業集團之一，其領導層變動不僅關係到集團內部戰略方向，更將對印度整體商業生態產生深遠影響。當前尋找新 CEO 的過程面臨巨大挑戰，反映出該職位對候選人資歷、戰略視野及跨文化管理能力的極高要求。在缺乏明確繼任者或過渡方案的情況下，決策延遲可能導致戰略執行不連貫，進而影響旗下多元業務（如汽車、鋼鐵、IT 服務）的市場競爭力。此外，這一過程也凸顯了印度家族企業在現代化治理與專業化管理之間的平衡難題，若處理不當，可能引發投資者信心波動或人才流失風險。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/articles/c20drryz7nvo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
+      "url": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國內華達州發生野火，火勢蔓延至雷諾市郊區。數萬名居民收到撤離警告，數千人已緊急撤離家園。BBC News 報導指出，當地居民形容情況為「嚇到要死」，顯示災情嚴重且緊迫。",
+      "judgment": "內華達州野火事件凸顯美國西部氣候變遷加劇下的極端天氣風險，對當地社區安全與基礎設施構成直接威脅。數萬人的撤離行動將導致短期內交通擁堵、醫療資源緊張及經濟活動停擺，並可能引發保險理賠激增與房地產價值波動。若火勢持續擴大，將迫使州政府啟動聯邦緊急援助機制，增加公共財政負擔。長期而言，此類頻繁災難將加速推動區域性防災基礎建設投資，並促使保險業重新評估西部地區風險模型，進而影響保費結構與承保範圍。此外，災後重建需求可能帶動建築與清潔產業短期繁榮，但亦需警惕環境復原與生態系統受損的長期成本。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "What do locals think of IndyCar in Washington DC?",
+      "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "美國總統唐納德·特朗普於週日與數百名民眾聚集在華盛頓特區街頭觀看印地賽車（IndyCar）賽事。",
+      "judgment": "總統親自出席華盛頓特區的印地賽車賽事，顯示該項賽事已具備高度的政治與社會能見度。此類高層級人物的參與不僅能提升賽事在主流媒體的曝光率，也可能強化賽車運動與國家形象或城市行銷的連結。對於產業而言，這意味著印地賽車在爭取政府支持、商業贊助及大眾關注方面擁有潛在優勢，有助於擴大受眾基礎並提升賽事品牌價值。",
+      "used_source_urls": [
+        "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
