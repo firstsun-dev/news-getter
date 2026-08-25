@@ -1,0 +1,32 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-25_12-59",
+  "stories": [
+    {
+      "title": "The state of AI in 2026: On the road to ROI",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據麥肯錫的報告，組織正在部署代理式編碼工具，並努力應對 AI 帶來的成本挑戰，同時仍試圖從員工個人使用 AI 所產生的效益中獲取更多價值。",
+      "judgment": "此趨勢顯示 AI 應用正從實驗階段轉向實際價值創造與成本控制的平衡期。組織開始採用代理式編碼工具，意味著 AI 不僅是輔助工具，更逐漸具備自主執行任務的能力，這將大幅提升軟體開發效率並可能重塑技術團隊結構。然而，企業同時面臨成本壓力，反映 AI 基礎設施與運算資源的開支日益顯著，迫使企業必須精確衡量投資回報率（ROI）。未來競爭關鍵在於如何將員工個人層面的 AI 使用效益，轉化為組織層面的系統性優勢，並透過自動化與流程優化來抵消成本上升的風險。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "McKinsey’s Fangning Zhang on China’s growing role in life sciences R&D",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/mckinseys-fangning-zhang-on-chinas-growing-role-in-life-sciences-r-and-d",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "麥肯錫合夥人張方寧討論了推動中國藥物發現加速的因素，指出激烈競爭正在推動速度與成本效率的提升，並探討全球研發領導者應如何建立真正的中國戰略。",
+      "judgment": "中國在生命科學研發領域的崛起正重塑全球創新格局。張方寧指出，中國藥物發現的加速源於政策支持、人才回流及本土企業對研發的持續投入。激烈的市場競爭迫使企業提升研發速度並優化成本結構，這使中國成為全球藥企不可忽視的戰略市場。對於國際研發領導者而言，僅將中國視為製造基地已不足夠，必須制定深度本地化策略，包括與本土創新生態系合作、適應監管環境變化，以及建立靈活的供應鏈體系。若未能及時調整戰略，全球企業可能錯失中國市場帶來的技術突破與規模效應。",
+      "used_source_urls": [
+        "https://www.mckinsey.com/industries/life-sciences/our-insights/mckinseys-fangning-zhang-on-chinas-growing-role-in-life-sciences-r-and-d"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
