@@ -1,0 +1,32 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-25_01-40",
+  "stories": [
+    {
+      "title": "The Right Way to Deliver Bad Earnings News",
+      "url": "http://feeds.harvardbusiness.org/2026/08/the-right-way-to-deliver-bad-earnings-news",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論指出，IBM 發布的第二季財報信函凸顯了財務資訊揭露時程的挑戰，並為企業領導者提供了五項關鍵教訓。",
+      "judgment": "IBM 在第二季財報揭露過程中所面臨的時程挑戰，反映了當前資本市場對企業透明度與溝通策略的高度要求。在資訊即時化的環境下，企業若未能妥善規劃財報發布時機與內容呈現方式，可能引發投資人誤解或市場波動。哈佛商業評論提出的五項教訓，強調領導者應在財報不佳時，主動、清晰且具同理心地與投資人溝通，以維持信任並穩定股價。此案例顯示，財務溝通已不僅是合規動作，更是戰略管理的一環，影響企業長期資本成本與品牌信譽。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/the-right-way-to-deliver-bad-earnings-news"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "How to Spot a Toxic Leader—Before Hiring Them",
+      "url": "http://feeds.harvardbusiness.org/2026/08/how-to-spot-a-toxic-leader-before-hiring-them",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論發表文章，提出六個步驟協助招聘經理在聘用前評估候選人的互動技巧，以識別潛在的有毒領導者。",
+      "judgment": "在當前企業治理與人才戰略中，識別並避免聘用有毒領導者至關重要。有毒領導者不僅會破壞團隊士氣、增加員工流失率，還可能導致組織文化腐蝕與長期績效下滑。哈佛商業評論提出的六步驟評估框架，為招聘流程提供了結構化的工具，強調在面試階段即介入對候選人人際互動能力的深度檢視。此方法有助於企業從源頭降低管理風險，提升組織韌性。隨著遠距工作與混合辦公模式的普及，領導者的溝通與情緒管理能力更顯關鍵，此類評估標準將成為未來高階人才篩選的標準配備。企業若能有效應用此框架，將能顯著優化領導團隊品質，進而驅動可持續成長。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/how-to-spot-a-toxic-leader-before-hiring-them"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
