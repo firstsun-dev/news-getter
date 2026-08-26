@@ -1,0 +1,32 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-26_13-04",
+  "stories": [
+    {
+      "title": "A Formula for Calculating Your Company’s Geopolitical Exposure",
+      "url": "http://feeds.harvardbusiness.org/2026/08/a-formula-for-calculating-your-companys-geopolitical-exposure",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Harvard Business Review 發表文章指出，能夠計算自身地緣政治風險的組織將在戰略上領先。該文章標題為「計算公司地緣政治暴露度的公式」，強調掌握相關數學模型與計算方法的企業將具備競爭優勢。",
+      "judgment": "在地緣政治日益複雜的當前環境下，企業若能建立量化模型來評估其全球供應鏈、市場佈局及資產配置所面臨的政治風險，將能更精準地制定應對策略。此類分析能力不僅有助於風險緩衝，更能轉化為戰略先機，使企業在政策變動或區域衝突發生前預先調整營運模式。缺乏此類數據驅動決策能力的企業，則可能因反應遲緩而面臨更大的不確定性與潛在損失。因此，將地緣政治因素納入常規財務與戰略規劃，已成為現代企業治理的關鍵環節。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/a-formula-for-calculating-your-companys-geopolitical-exposure"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Research: To Get Employees to Use a Benefit, Make Signing Up a Little Harder",
+      "url": "http://feeds.harvardbusiness.org/2026/08/research-to-get-employees-to-use-a-benefit-make-signing-up-a-little-harder",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論發表研究指出，在員工福利註冊過程中加入少量有意義的摩擦，可以提升需要持續努力行為的後續執行率。該研究強調，適度的註冊難度有助於改善員工對福利的使用情況。",
+      "judgment": "此研究結果對企業福利管理策略具有深遠影響。傳統觀點認為簡化流程能提升參與率，但該研究反轉此認知，指出適度摩擦能篩選出真正有需求的員工，並強化其承諾感。在產業應用上，企業可重新設計福利註冊機制，例如增加確認步驟或簡短問卷，以確保員工理解福利價值並願意長期使用。這不僅能降低福利資源浪費，還能提升員工滿意度與忠誠度。然而，實施時需謹慎平衡摩擦程度，避免過度複雜化導致員工放棄。此策略特別適用於需要持續投入的福利項目，如健康計畫或退休儲蓄。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/research-to-get-employees-to-use-a-benefit-make-signing-up-a-little-harder"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
