@@ -1,0 +1,32 @@
+{
+  "category": "Strategy",
+  "timestamp": "2026-08-26_01-45",
+  "stories": [
+    {
+      "title": "What Slows Innovation Down",
+      "url": "http://feeds.harvardbusiness.org/2026/08/what-slows-innovation-down",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "哈佛商業評論在8月24日發行的The Insider電子報中，總編輯Gretchen Gavett撰寫文章探討人工智慧如何可能加深人類瓶頸，並討論AI如何成為對話的守門人等議題。",
+      "judgment": "根據哈佛商業評論的報導，AI技術的普及並未如預期般完全消除效率瓶頸，反而可能因過度依賴或錯誤配置而加深人類在決策與創意流程中的限制。這顯示產業在導入AI時，需重新審視組織流程與人力配置，避免技術成為新的阻礙。若企業未能有效整合AI與人類協作機制，將可能導致創新速度放緩，影響整體競爭力。此現象提醒產業領袖應重視AI治理與人才培訓，以確保技術真正驅動創新而非成為絆腳石。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/what-slows-innovation-down"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Do Your B2B Customers See the Value You Deliver?",
+      "url": "http://feeds.harvardbusiness.org/2026/08/do-your-b2b-customers-see-the-value-you-deliver",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "Harvard Business Review 指出，企業應明確識別為客戶所創造的具體作為，並將價值量化嵌入銷售流程中，以確保 B2B 客戶能清晰看見並理解供應商所交付的價值。",
+      "judgment": "在 B2B 市場競爭日益激烈的環境下，價值傳遞的透明度直接影響成交率與客戶忠誠度。許多供應商雖具備實質解決方案，卻因未能將抽象效益轉化為可量化的數據，導致客戶低估其貢獻。將價值量化嵌入銷售流程，不僅能強化銷售團隊的說服力，更能建立客觀的績效評估基準，促使內部資源聚焦於高價值活動。此策略有助於縮短銷售週期、提升定價權，並降低客戶流失風險。長期而言，這將推動產業從「產品導向」轉向「價值導向」的商業模式，重塑 B2B 採購決策邏輯。",
+      "used_source_urls": [
+        "http://feeds.harvardbusiness.org/2026/08/do-your-b2b-customers-see-the-value-you-deliver"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

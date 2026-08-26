@@ -1,0 +1,39 @@
+{
+  "category": "AI",
+  "timestamp": "2026-08-26_01-45",
+  "stories": [
+    {
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "Hugging Face 發布了一篇關於 IBM Granite 4.2 大型語言模型（LLMs）構建方式的文章，標題為「Granite 4.2 LLMs: How They're Built」，該文章詳細介紹了 Granite 4.2 模型的技術架構與開發細節。",
+      "judgment": "IBM Granite 4.2 的發布標誌著企業級開源模型在專業領域的進一步深化。隨著模型構建技術的透明化，開發者能更有效地將此類模型整合至企業工作流中，特別是在需要高準確度與合規性的場景。此舉可能加速開源生態系中垂直領域模型的競爭，促使其他廠商優化其模型架構以應對市場需求。長期來看，這將推動 AI 技術從通用大模型向專用、高效能模型轉變，降低企業部署成本並提升應用效率。",
+      "used_source_urls": [
+        "https://huggingface.co/blog/ibm-granite/granite-4-2"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "Hugging Face 發布了一篇關於「量化感知修復」（Quantization-Aware Healing）技術的文章。該技術涉及一個經過壓縮的 4-bit 模型，其性能表現優於其原始的全精度模型。此內容由 MultiverseComputingCAI 在 Hugging Face 部落格上發表。",
+      "judgment": "此項技術突破顯示模型壓縮與量化技術已進入新階段，不再僅追求極致的參數減少，而是能透過特定修復機制在降低位元深度（如 4-bit）的同時，甚至超越原始全精度模型的性能。這對於邊緣計算、行動裝置部署及降低雲端推理成本具有重大產業意義。企業可藉此在有限硬體資源下運行更高效的 AI 模型，加速生成式 AI 在資源受限環境的落地應用。此趨勢可能促使更多硬體廠商優化對低精度模型的支援，並改變現有模型壓縮與微調的標準流程。",
+      "used_source_urls": [
+        "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [
+    {
+      "title": "Agents on your mobile",
+      "url": "https://www.bensbites.com/p/agents-on-your-mobile",
+      "tier": 3,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": false
+}

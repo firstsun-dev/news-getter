@@ -1,0 +1,20 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-08-26_01-45",
+  "stories": [
+    {
+      "title": "What makes a great investor?",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/25/what-makes-a-great-investor",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "The Economist 於 2026 年 8 月 25 日發表文章探討成為偉大投資者的要素，標題指出關鍵在於「大量的運氣」以及「獨特且怪異的性格」。",
+      "judgment": "該觀點強調投資成功並非單純依賴理性分析或系統化策略，運氣與非傳統性格特質扮演關鍵角色。這暗示在高度不確定的金融市場中，過度依賴量化模型可能忽略人性與隨機性因素。對於產業而言，這可能促使機構投資人重新評估人才篩選標準，不再僅看重學術背景或歷史績效，而是納入心理特質與風險承受力的多元評估。同時，此論點也可能引發對投資教育體系的反思，強調培養適應不確定性的思維模式，而非僅教授技術分析。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/25/what-makes-a-great-investor"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
