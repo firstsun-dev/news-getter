@@ -1,0 +1,68 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-08-27_22-08",
+  "stories": [
+    {
+      "title": "The economic costs of Donald Trump’s immigration crackdown",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/27/the-economic-costs-of-donald-trumps-immigration-crackdown",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "The Economist 報導指出，唐納德·特朗普的移民打擊政策導致美國勞動力規模縮小，進而造成經濟增長放緩。",
+      "judgment": "特朗普政府實施的嚴厲移民政策直接削減了美國勞動力供給，這在人口老齡化背景下加劇了勞動力短缺問題。勞動力減少將抑制潛在產出增長，推高工資成本，並可能引發通脹壓力。長期來看，若移民流入持續受阻，美國經濟將面臨結構性增長瓶頸，企業擴張受限，創新活力下降，最終拖累整體經濟表現與全球競爭力。此趨勢若持續，可能迫使政策制定者重新評估移民與經濟增長之間的平衡關係。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/27/the-economic-costs-of-donald-trumps-immigration-crackdown"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Scott Bessent takes on the bond market",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/27/scott-bessent-takes-on-the-bond-market",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "The Economist 報導標題為「Scott Bessent 挑戰債券市場」，副標題指出此舉為聯準會製造麻煩。該新聞來源於 The Economist，發布於 2026 年 8 月 27 日，探討 Scott Bessent 在債券市場的角色及其對聯準會政策可能產生的影響。",
+      "judgment": "Scott Bessent 作為關鍵金融人物介入債券市場，可能對聯準會的貨幣政策獨立性與市場預期管理構成挑戰。在當前宏觀經濟環境下，債券收益率的波動往往反映市場對通膨、成長及政策路徑的重新定價。若 Bessent 的行動導致長期利率顯著上升或波動加劇，將迫使聯準會更謹慎地平衡抗通膨與維持經濟穩定之間的關係。此舉亦可能凸顯財政政策與貨幣政策之間的張力，進而影響全球資本流動與美元資產吸引力。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/27/scott-bessent-takes-on-the-bond-market"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "China should be loosening budgetary policy. It’s doing the opposite",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/27/china-should-be-loosening-budgetary-policy-its-doing-the-opposite",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "The Economist 於 2026 年 8 月 27 日發表文章指出，中國當前正在收緊預算政策，而非放寬。文章標題明確表示中國本應放寬預算政策，但實際做法卻相反。該報認為這種緊縮措施在微觀層面雖有優點，但在宏觀層面卻產生負面影響。",
+      "judgment": "中國選擇在經濟需要刺激時反而收緊預算政策，顯示其政策優先級可能偏向控制債務風險與微觀結構調整，而非短期總需求管理。這種做法雖有助於改善財政紀律與資源配置效率（微觀層面），但可能抑制消費與投資，加劇通縮壓力，並削弱經濟復甦動能（宏觀層面）。若此趨勢持續，可能延緩中國經濟結構轉型進度，並增加外部需求依賴度。在當前全球經濟不確定性高企的背景下，此政策取向可能使中國面臨更大的增長下行風險，同時影響市場對其財政可持續性的信心。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/27/china-should-be-loosening-budgetary-policy-its-doing-the-opposite"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "How India’s central bank subsidised the diaspora",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/27/how-indias-central-bank-subsidised-the-diaspora",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據《經濟學人》報導，印度中央銀行實施了一項針對海外僑民的補貼方案，該方案有助於穩定盧比匯率。",
+      "judgment": "印度央行透過補貼海外僑民的金融方案來穩定盧比，顯示新興市場央行在面對匯率波動時，正轉向更主動的資本流動管理策略。此舉可能反映印度政府試圖利用龐大海外僑匯作為緩衝工具，以減輕外資流出或全球金融動盪對本國貨幣的衝擊。長期而言，若此類政策成為常態，可能改變國際投資者對印度資本管制風險的評估，進而影響外資流入意願與盧比定價機制。然而，過度依賴僑匯補貼也可能掩蓋結構性經濟問題，如貿易逆差或生產力不足，需觀察其是否具備可持續性。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/27/how-indias-central-bank-subsidised-the-diaspora"
+      ],
+      "body_md": ""
+    },
+    {
+      "title": "Tax breaks for charity donations are a poor way to do good",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/27/tax-breaks-for-charity-donations-are-a-poor-way-to-do-good",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "The Economist 於 2026 年 8 月 27 日發表文章，標題為「慈善捐贈的稅收減免是行善的糟糕方式」，並明確主張應廢除針對慈善捐贈的稅收減免政策。",
+      "judgment": "該觀點指出，現行透過稅收減免鼓勵慈善捐贈的機制存在效率低落與資源分配不均的問題。稅收減免往往使高所得者受益更多，因其邊際稅率較高，能獲得更大的減稅效益，而中低收入群體因稅負較低或無稅負可減，難以從中獲益。此外，這種政策可能扭曲捐贈行為，使資金流向能產生稅務優惠的領域，而非社會最迫切的需求。若廢除此類減免，政府可將資源重新配置至更直接、透明的公共福利項目，提升整體社會福祉。此舉亦有助於簡化稅制，減少逃稅與避稅空間，強化財政公平性。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/27/tax-breaks-for-charity-donations-are-a-poor-way-to-do-good"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}

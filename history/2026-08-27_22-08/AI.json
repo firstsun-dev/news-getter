@@ -1,0 +1,33 @@
+{
+  "category": "AI",
+  "timestamp": "2026-08-27_22-08",
+  "stories": [
+    {
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "confidence": 78,
+      "heat": 22,
+      "fact_summary": "OpenAI News 發布一項針對超過 1,000 名學生的隨機研究，該研究探討了 ChatGPT、批判性思維訓練、原創性以及學生在真實大學作業中的表現之間的關係。",
+      "judgment": "此研究標誌著教育科技領域從單純的工具應用轉向評估 AI 與人類認知能力協同效應的關鍵轉折。過去關於生成式 AI 的討論多集中於學術誠信或效率提升，而此項大規模隨機對照試驗則提供了實證數據，證明在結合批判性思維訓練的前提下，AI 工具能顯著提升學生的回答質量與思維廣度。這預示著未來教育模式將不再將 AI 視為威脅，而是作為強化高階思維能力的輔助架構。對於教育機構而言，這意味著課程設計需從禁止使用 AI 轉向整合 AI 輔助的批判性思維教學法。同時，這也為 AI 開發者提供了明確的產品方向，即未來的教育類 AI 產品應更強調引導用戶進行深度思考與邏輯驗證，而非僅提供答案。此趨勢若被廣泛驗證，將重塑高等教育對學生能力的評估標準，並推動企業在招聘時更重視人機協作下的問題解決能力。",
+      "used_source_urls": [
+        "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [
+    {
+      "title": "The Ox Alpha mystery ends with Z.ai",
+      "url": "https://therundownai.beehiiv.com/p/the-ox-alpha-mystery-ends-with-z-ai",
+      "tier": 3,
+      "seen_count": 1
+    },
+    {
+      "title": "Who let the agents in",
+      "url": "https://www.bensbites.com/p/who-let-the-agents-in",
+      "tier": 3,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": false
+}
