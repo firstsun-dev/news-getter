@@ -1,0 +1,20 @@
+{
+  "category": "Economics",
+  "timestamp": "2026-08-27_08-47",
+  "stories": [
+    {
+      "title": "Why is Russia deliberately weakening its currency?",
+      "url": "https://www.economist.com/finance-and-economics/2026/08/26/why-is-russia-deliberately-weakening-its-currency",
+      "confidence": 60,
+      "heat": 22,
+      "fact_summary": "根據The Economist報導，俄羅斯正刻意削弱其盧布匯率。報導指出，強勢盧布對俄羅斯政府預算造成了負面影響，這成為俄羅斯採取此項貨幣政策的主要原因。",
+      "judgment": "俄羅斯刻意貶值盧布的舉措，顯示其財政政策正從維持匯率穩定轉向優先保障預算平衡。強勢盧布雖有助於降低進口成本，但會削弱能源出口收入（以盧布計價），進而壓縮政府稅收。在制裁背景下，俄羅斯可能透過貶值來維持出口競爭力並增加本幣收入，以支撐軍事與社會支出。此策略雖短期緩解財政壓力，但可能加劇國內通膨，並削弱民眾購買力。長期而言，若盧布持續走弱，將影響外資信心與資本流動，進一步限制經濟復甦空間。此舉也反映俄羅斯在制裁環境下，正調整宏觀政策框架以適應戰時經濟需求。",
+      "used_source_urls": [
+        "https://www.economist.com/finance-and-economics/2026/08/26/why-is-russia-deliberately-weakening-its-currency"
+      ],
+      "body_md": ""
+    }
+  ],
+  "watchlist": [],
+  "no_signal": false
+}
