@@ -1,0 +1,188 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-09-01_04-42",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Australia current account deficit up less than expected in Q2",
+      "url": "https://www.investing.com/news/economic-indicators/australia-current-account-deficit-up-less-than-expected-in-q2-4883445",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "South Korea factory activity logs ninth straight month of expansion, PMI shows",
+      "url": "https://www.investing.com/news/economic-indicators/south-korea-factory-activity-logs-ninth-straight-month-of-expansion-pmi-shows-4883411",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "China private manufacturing growth strengthens in August, RatingDog PMI shows",
+      "url": "https://www.investing.com/news/economic-indicators/china-private-manufacturing-growth-strengthens-in-august-ratingdog-pmi-shows-4883446",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Japan manufacturing new business rises at fastest pace since 2018, PMI shows",
+      "url": "https://www.investing.com/news/economic-indicators/japan-manufacturing-new-business-rises-at-fastest-pace-since-2018-pmi-shows-4883408",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "South Korea’s Aug exports up 68.7% y/y, expand for 15th straight month",
+      "url": "https://www.investing.com/news/economic-indicators/south-koreas-aug-exports-up-687-yy-expand-for-15th-straight-month-4883402",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "S .Korea exports surge above forecasts in Aug on strong chip demand",
+      "url": "https://www.investing.com/news/economic-indicators/s-korea-exports-surge-above-forecasts-in-aug-on-strong-chip-demand-4883394",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "UK retailers raise prices by most since 2024, BRC data shows",
+      "url": "https://www.investing.com/news/economic-indicators/uk-retailers-raise-prices-by-most-since-2024-brc-data-shows-4883366",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Brazil, US agree to hold new meetings to discuss tariffs as talks resume",
+      "url": "https://www.investing.com/news/economic-indicators/brazil-us-agree-to-hold-new-meetings-to-discuss-tariffs-as-talks-resume-4883286",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Trump’s oil deal with Venezuela raises red flags for some major producers, sources say",
+      "url": "https://www.investing.com/news/commodities-news/trumps-oil-deal-with-venezuela-raises-red-flags-for-some-major-producers-sources-say-4883471",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Gold steadies after two-day drop as Iran strikes revive inflation risks",
+      "url": "https://www.investing.com/news/commodities-news/gold-steadies-after-twoday-drop-as-iran-strikes-revive-inflation-risks-4883434",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Exclusive-Officials: US firm to take over some Venezuela oilfields previously run by Chinese, Russian firms",
+      "url": "https://www.investing.com/news/commodities-news/exclusiveus-oil-firm-to-take-over-some-venezuelan-oilfields-previously-run-by-chinese-russian-companies-officials-say-4883359",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Oil prices rise as latest fighting resurrects Middle East supply disruption risks",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-latest-fighting-resurrects-middle-east-supply-disruption-risks-4883418",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "White House releases terms of oil deal with North American Blue Energy Partners",
+      "url": "https://www.investing.com/news/commodities-news/white-house-releases-terms-of-oil-deal-with-north-american-blue-energy-partners-4883415",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Firms including Chevron, ONGC, GE Vernova on track to sign final pacts in Venezuela, sources say",
+      "url": "https://www.investing.com/news/commodities-news/firms-including-chevron-ongc-ge-vernova-on-track-to-sign-final-pacts-in-venezuela-sources-say-4883383",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Oil extends gains as Trump threatens further Iran strikes",
+      "url": "https://www.investing.com/news/commodities-news/oil-extends-gains-as-trump-threatens-further-iran-strikes-4883412",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "With US bill’s fate in balance, Ukraine to lobby US on Russia sanctions",
+      "url": "https://www.investing.com/news/commodities-news/with-us-bills-fate-in-balance-ukraine-to-lobby-us-on-russia-sanctions-4883325",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Brent surges, sees best day since end of July as U.S-Iran resume military strikes",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-climb-after-us-strikes-iranian-launchers-on-larak-island-4882083",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Bullion prices rally in August, with spot gold notching best month since January",
+      "url": "https://www.investing.com/news/commodities-news/gold-steadies-after-sharp-selloff-as-warsh-revives-fed-hike-bets-4882094",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Shein shares slide 10% in Hong Kong trading debut",
+      "url": "https://www.ft.com/content/06e22622-3e92-46a5-842f-bfa269687aaa?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "This time it really was different",
+      "url": "https://www.ft.com/content/15de7725-234a-448a-9cc6-12500a47aada",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "A bankruptcy brawl on the golf course",
+      "url": "https://www.ft.com/content/986af514-adb7-4fe1-9490-e1ceba63be24?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Can Trump’s 65bn-barrel deal revive Venezuela’s oil industry?",
+      "url": "https://www.ft.com/content/58840205-448b-4d17-9dd7-0313c8b8ed81?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Revolut’s mission to dominate banking",
+      "url": "https://www.ft.com/content/f9f240f9-4077-421f-b320-6dc895d65fd1?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "How Aston Martin’s latest financing sparked a bondholder revolt",
+      "url": "https://www.ft.com/content/241ca2e1-7135-4505-84db-dfa39bde5a1d?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "How viable is Trump’s oil deal with Venezuela?",
+      "url": "https://www.ft.com/content/140dc968-a23a-4ba8-8119-9b476cbbca06?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Japan’s benchmark bond yield hits 3% for first time since 1996",
+      "url": "https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Trump says US will hit Iran ‘hard’ as conflict reignites",
+      "url": "https://www.ft.com/content/8b09b3fc-bb61-4d9f-aac6-bcef9883fa16?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "US regulator claims Amazon manipulated advertising prices",
+      "url": "https://www.ft.com/content/bafde798-4860-45bb-9226-633a211e8508?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "KKR is the rare private equity firm that bets on itself",
+      "url": "https://www.ft.com/content/865e4bd5-f960-423c-a1bc-931074c74157?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "George Santos banned from prediction platform Kalshi for manipulation",
+      "url": "https://www.ft.com/content/eddde22c-aa99-468d-9fb0-36f3edd6e04f?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
