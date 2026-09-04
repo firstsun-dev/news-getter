@@ -1,0 +1,20 @@
+{
+  "category": "AI",
+  "timestamp": "2026-09-04_04-05",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "tier": 1,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
