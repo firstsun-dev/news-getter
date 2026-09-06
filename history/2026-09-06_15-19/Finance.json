@@ -1,0 +1,26 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-09-06_15-19",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Russian gold floods through Hong Kong in wake of western sanctions",
+      "url": "https://www.ft.com/content/39b0c966-b153-4706-9325-2f6176ba3752?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "How the UK can stop accidentally exporting its best tech start-ups",
+      "url": "https://www.ft.com/content/354ef76f-6a68-4e19-ab2d-7a6853170725?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "OPEC+ keeps oil output policy unchanged for October",
+      "url": "https://www.investing.com/news/commodities-news/opec-set-to-keep-oil-output-policy-unchanged-on-sunday-sources-say-4890267",
+      "tier": 2,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
