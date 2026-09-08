@@ -1,0 +1,38 @@
+{
+  "category": "AI",
+  "timestamp": "2026-09-08_16-27",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Inside OpenAI's agent-powered research boom",
+      "url": "https://therundownai.beehiiv.com/p/inside-openai-agent-powered-research-boom",
+      "tier": 3,
+      "seen_count": 1
+    },
+    {
+      "title": "The first GPT-6 model",
+      "url": "https://www.bensbites.com/p/the-first-gpt-6-model",
+      "tier": 3,
+      "seen_count": 1
+    },
+    {
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "tier": 1,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
