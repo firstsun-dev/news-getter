@@ -1,0 +1,170 @@
+{
+  "category": "Social Sentiment",
+  "timestamp": "2026-09-11_16-17",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Dating Apps Are Dying",
+      "url": "https://www.reddit.com/r/technology/comments/1wd8dnz/dating_apps_are_dying/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Polish developer builds app, called Zuckoff, that detects nearby Meta smart glasses.",
+      "url": "https://www.reddit.com/r/technology/comments/1wdaeuk/polish_developer_builds_app_called_zuckoff_that/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "68% of US Voters Back Sanders/Casar Bill for AI Pause, Ban on Superintelligence: Poll",
+      "url": "https://www.reddit.com/r/technology/comments/1wdcagx/68_of_us_voters_back_sanderscasar_bill_for_ai/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "SpaceX sues to block Texas from releasing Terafab tax-break records",
+      "url": "https://www.reddit.com/r/technology/comments/1wdj8x9/spacex_sues_to_block_texas_from_releasing_terafab/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "‘We Did Not Invite You.’ Citizens Rage at Town Hall Over Proposed Nuclear AI Data Center / The University of Michigan is partnering with Los Alamos National Labs to build a massive data center in a small Michigan township. The residents say they were never consulted.",
+      "url": "https://www.reddit.com/r/technology/comments/1wdh2yj/we_did_not_invite_you_citizens_rage_at_town_hall/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "GTA V modder adds 235 working Flock Cameras to Los Santos, allowing players to destroy “a scourge on America”",
+      "url": "https://www.reddit.com/r/technology/comments/1wdf8wd/gta_v_modder_adds_235_working_flock_cameras_to/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Apple’s foldable iPhone poses a $1,999 question: Who is it for?",
+      "url": "https://www.reddit.com/r/technology/comments/1wdenzv/apples_foldable_iphone_poses_a_1999_question_who/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Iran likely to reverse-engineer captured US underwater drone",
+      "url": "https://www.reddit.com/r/technology/comments/1wd2hdi/iran_likely_to_reverseengineer_captured_us/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Uber CEO says laying off 3,300 workers will help lower prices for customers",
+      "url": "https://www.reddit.com/r/technology/comments/1wdgipf/uber_ceo_says_laying_off_3300_workers_will_help/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Google’s emissions shot up 48 percent over five years due to AI",
+      "url": "https://www.reddit.com/r/technology/comments/1wdiooj/googles_emissions_shot_up_48_percent_over_five/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "In posts attacking ChatGPT, Katie Miller didn’t disclose her stake in its rival",
+      "url": "https://www.reddit.com/r/technology/comments/1wdbtn5/in_posts_attacking_chatgpt_katie_miller_didnt/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Meta is asking some of its employees to become managers again in a new reorg",
+      "url": "https://www.reddit.com/r/technology/comments/1wd89wx/meta_is_asking_some_of_its_employees_to_become/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "California bans addictive social media features for children under 16 and tightens AI chatbot rules",
+      "url": "https://www.reddit.com/r/technology/comments/1wdf52l/california_bans_addictive_social_media_features/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "PlayStation Ditched Hideo Kojima’s ‘Physint’ on Budget Concerns, Missed Deadlines",
+      "url": "https://www.reddit.com/r/technology/comments/1wdguzl/playstation_ditched_hideo_kojimas_physint_on/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Albany investigator arrested for allegedly using Flock camera to track ex-girlfriend: Sheriff",
+      "url": "https://www.reddit.com/r/technology/comments/1wdgmov/albany_investigator_arrested_for_allegedly_using/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Anthropic Is Building AI to Predict Which Activists Police Should Watch",
+      "url": "https://www.reddit.com/r/technology/comments/1wdiily/anthropic_is_building_ai_to_predict_which/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google: “Bankruptcy cannot become the new land grab for AI.”",
+      "url": "https://www.reddit.com/r/technology/comments/1wd2xbf/panic_builds_over_bankrupt_spirits_looming_data/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "UK economy grows by most since early 2025 on possible AI boost Click the link in the comments below. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVmZFdlNBMjI2VnI1ZDhDU29HcHV5a0o3cXI3Y0FBcUUtZU1WTlF0dUZ0UUExcnBrQ254OGh6dDBaRjA3bjlURXJNMl9NLTZlRWlNd1ZzaUsyTGJ4aGNYQlRLeWJONkJOYWszaFlfVl95UnAtaUNsaktIREU0SV9QWDItSUxGNVRkUXBqdFpuUUJxQ3pHYnFjLWQ2d1V4ZUo0eFA0OE1aaVVsTTdyWF9EWUU3cS15bXg5aF9maGtBaWo2TVk3SGE1d195RFJFbWJiV3lF?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "$1 Trillion: The AI Investment Boom Investments in the artificial intelligence ecosystem are projected to reach $1 trillion in 2026, with the US expected to account for $581 billion, according to Goldman Sachs. #NewsInNumbers - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONmNrdWgxajJOV1ZUT2JsNnFMRm1wYU5mSVpBbm5hN3ZuMHV1N0pFZ3R3akNKZXNLa2txclRxc0h0dGo4MFNBQ056RmszVjVuWWxyVmNzend1a3FBbnlLbUtVajVDYVkyX0hiYWxyVVhSelcyYW1lR2VGc3p0WDBBU2RCczBiNEU0V3ZKNkQ1aWpCZmtUTFBPc3BPeU5ueHZ1bHBjOUVrNUpDbXRpWHlCLUtSaW1CZC1zMmhfeGdoVlFlcjhGbG9ObnJQRWdZU2pHNmhoaG9OcFQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "AI could supercharge economic growth by 2030, but knowledge workers might end up feeling the pinch | Artificial intelligence could significantly accelerate economic growth by 2030, but faster AI adoption may also put pressure on employment and wages of k - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc091NGpNenVtOTExRkQ1VzlPMVJBUlpzZ1VPeWFsSVFBWG5HZzhhdTJ5Q01GYS1jWmJWQjFxbFV6alI0TjVWYUZtWVhEWFRfV2wtM1N1ZG1TOUpGRVVKblVmQmx5ZWhGeWlKcklnS3c4bDhoSnc5TXlqYW42eUpqRnd3MmRQX1FjWWZkd0FhSl9YZlZVYXd0MjhDOTZGYlhWenhVWEJBQXUxTnRhQkFLTTltWWo1YURlZ1BxOWdNQ3c5T0QzdnVBY19mRWJWVzNIM0ctY1dMUDJCNm8?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Turning one crore AI certifications into actual paychecks is where the real challenge begins | While the Prime Minister committed India from the Red Fort on 15 August to skilling one crore young people in artificial intelligence within the year in a serious commit - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT2dvVTBmeXVGcnRyMWZBT0dtUlJLc1N5bmd2dUUtOHZGeWJVaGlOOXJkZTRaWXFPN3ZuLXZ5c2xiMVU5VHNZaEN3MDFNRGFZZG5xQVhQRXJkWjhnWXhhSlNObVM0Vnd6dmdUMkhFUG0wMGk4djg1R01rTF9EM0UzQWN4REVHeGJsblR6N09FWW5GOUx1cEZYQWVick05ZGlmdE9Rc0pnbWF1V0ZmR212UnMyRDhhenM3bVRZZ05hQVNVXzB0SWZoZTF0c1NETmlqaUZ5Z3hqanhPX2M?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "AI promises major opportunities, but also significant risks – for the economy, employment, security and perhaps even human civilisation. But in Westminster, AI is far from a priority. Listen to the full podcast here: https://ft.trib.al/wsb5mkY - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWDRkdWpyNXFDM28yRWExRHNTSlRTRVU2WVoyZ2lYcy1uVlB4NTJmN3hSbGhwVEtkS2FHV1FZSi0wZUxrNlZMSFJ2UmU0OWFFejZjQ1FMSnFMOWlOSkdWczlEWU52VzdFR3IxdzFGWDVXY2w1LTlBVXliR1FDQWstVzljMzBiaFBNVjYyUVdWWC1YWG1ja245Y2dLS3UwZnhLSFpfY0kyZWhhRXlQWVgxWHJiZjI1Qk4tNTRDRGJpR0JoNFR4V3A2VkF3bnEyQUdudzJmbVBXNkFGZ3Zu?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "#WallStreet brokerages see S&P 500 extending rally in 2026 on #AI, #earnings #ETMarkets - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYVJkSHp4R0l2ekhVQ1dveXFSY2hOQnllamtMTmNTMVAzNF93RkNWaTNjc2RjbExVdjNLZXNjdUNxWkdGUFdPcS1ETVRtMkM4N1NKRjkySHhtR0wzbUlhaXF4NTJtcW1zb3dGSVZ0Wmp1WGdMWVMzQmd1V1lweklNY29CY2pHU3NXWVVOUjhxQ2k3RHRvSnJSZ29yRDZTMXBUVFpDdFNkcXJBbGJ2Q3pDd0sxRHhjbHNJM0JscWctYmFTTVJGMlM1WExQaDh5X2VIRWo1TE1R?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Anthropic has published an economic model projecting how AI might reshape the US economy by 2030, and its three scenarios range from barely perceptible to a boom with no historical precedent, including one in which GDP grows 15% a year while nearly a - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT2JJVnpsalIxSWVYRkVlUnVBMXcwR0NqZ2pBVWV4N1JhVDNZQzFDcl8wNE1yQUg0RDY5VW5xOXFFRHRUal95U0xEeU5NLUZHUWZ2MGRiTFQxbjhNVTZ4WEpTbFJuMXN1aVMycVp3aXFKX2xLaEY5bFpvUkJJTExFRGVxdTllNzAwSGd5R29Lb05vazItSVR3R2Y2VGNFVks5dWdQWkVpSjd5Y3BMbjZLVlRmdjI1c0ZlZW44MjZiMVJxR2pWcFdqV0lMZzNiLXRHdlh6Mw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Why investors need a clearer view of the risks of AI, not just the opportunities, to tackle inequalities. Source: WORLD ECONOMIC FORUM #LMD #LMDInternational #OnlineExclusives - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPalRDQmdENkNBOXlkc21HVDZNSUg1T2cyWUh2RkF4WUxGamp1UDFKOVN1UEpmZ0tGVGI3YkVULWliU3NHVmVMTThsYzE3LTU1NEFJaG5MTnhseUtxUk9OR1B5ODdvX0FlODU4WmpYN1FFUkljbkRXT1R3T0pqVGhMVVN3WHpWNEg1QUM1VVBtejRHbTBSeTJKMmJRQ3lxTUl4QXpqcmtseU1IX3UzYzhDNzZrcnh2MFFxTEMydUtOS2dManUwR1RMUnBaTi05ZTIybXc?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The adoption of artificial intelligence (AI) is a game changer that could lift the economy up the value chain. The discourse during the three-day 27th World Knowledge Forum (WKF), themed “Promethean Moment: Architecting the Co-Intelligence Order,” extensiv - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNanBPV0tkUFZoZkRnYzVnMU9EaU0yc2lwa3BHRzFSbFB0aTlTS2lrUXpXUmxMUjhBUGNseWFBdDh0dk1EWXlYR3hVZzVTdGZ3ZU9IRkJBT0M2QzJXSUZfV293cHN5c25jMFl2SVliRTFVcFBHS3haUXBmRVExUkhiLVhjeHd4dkhXTEVyQk9hMHV3dmJYN2NOM3VvTFBIMHpKSzktd0VPVnJES3E5V01FX0JUSUhWaHBfSVNuQm9xbjJ1eEdNTEVVUzE4V2UxdFpITzJkNDZDTHBjNVZqa2xMOURYY2hHX00?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The AI boom is lifting the region unevenly, favoring economies that are more closely integrated into the global technology supply chain, the agency said in a note. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUnZyeG5TWmRTV3A1Vlg5WmtPcU0wME1LQWxOUXlxSFBlZng4eko2R1F5X3liS3NKZS1OeVJUMUpTMF9uWUdvUjR5bEYtVkN1bFVGSWV5ZDNmdC00bHgyOFJwMzZGRXpNUDA3UFRNelNudjlJT0M0b3F0Z3ZRbVhqQlpURGFCeUt2Rmd1VnlId19hdHZJNUhPa3NYUGJSYnVWUDgweEd4TzA3VFhRMVNsX0FGY2Q5LVkwRTRSckN2LWxQaVpMT2tKNUhuajZFc3dpMmhWVTlPQ0dBaHc?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
