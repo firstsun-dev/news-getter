@@ -5,10 +5,10 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "content": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-      "fingerprint": "1a1defb3379a5c7e3f77b76444d8ccbe5aaa359078ab7af2684b8206d84616b4",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "content": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "fingerprint": "8c61ee59a26eb8695a47b2bbe2b516daef2808684ee432239c20fcc9a3cfa1ec",
       "seen_count": 1,
       "sources": [
         {
@@ -23,10 +23,10 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-      "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
-      "content": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
-      "fingerprint": "a55c3c350c9abddc3fab3827b473ae1ebbdd0e08c07eb30e2a93d85d2bb9c9aa",
+      "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+      "content": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
+      "fingerprint": "f389eb2dd9404372850c7bd7521d491bd28d309f430e02644bebbf9b636fd018",
       "seen_count": 1,
       "sources": [
         {
@@ -41,7 +41,61 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+      "title": "French officials investigate if malicious act caused train derailment",
+      "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+      "content": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
+      "fingerprint": "e6ed1f3983b734039e85fdd76ca2751ea5f42ab4d929761118d7d40bbe27e323",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+      "content": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
+      "fingerprint": "ca25ba01e0eaa90f934374e53942f185d2b26b67cf1f4cbfc951fedcea006b82",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "link": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+      "content": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
+      "fingerprint": "adef82d11cc903b4905c6cd2be64108fe3a8d574934a31a20c95b6ff12ec0fec",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
       "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
       "content": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
       "fingerprint": "d344a2875d4f6a14dbd6959ef477d4798e27b637cdfd2effc2743adc5399ef5e",
@@ -59,10 +113,28 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Passenger train derails in France leaving at least 44 injured",
-      "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-      "content": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
-      "fingerprint": "7f16c3464a2172ba09ef8527ef00e9f25b1a132247aab8911faa5e811061fb03",
+      "title": "Record heatwaves in France set to make champagne stronger",
+      "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+      "content": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
+      "fingerprint": "0728ac7e390092c8438c88144226e9d116d233ec6ad8ffe80b07076c88c8235a",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Teen boy rescued after days adrift in Alaskan waters",
+      "link": "https://www.bbc.co.uk/news/articles/c7907l5nyddo?at_medium=RSS&at_campaign=rss",
+      "content": "The 15-year-old boy was rescued while the other two passengers from the capsized fishing vessel, his brother and cousin, died.",
+      "fingerprint": "78887c3f53e5ca1a2977945f1ba4ea39bd42ce90959f69e0f5df529698d7958a",
       "seen_count": 1,
       "sources": [
         {
@@ -95,10 +167,10 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Israel says it has destroyed major underground Hezbollah base",
-      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "content": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
-      "fingerprint": "580f76d318f39f9eae7ca4eea16771a98ee6452291cacb02a338336a06906b16",
+      "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
+      "content": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
+      "fingerprint": "6e693e74f1ef32ebae3538ed25471bb42d68dcd9392f1f8369289031629e71bc",
       "seen_count": 1,
       "sources": [
         {
@@ -113,10 +185,10 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-      "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-      "content": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
-      "fingerprint": "35431e33dbe50b1884b15f1ca8d620dfd331e6331bc385999f0a736188e86071",
+      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+      "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+      "content": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+      "fingerprint": "0ca76b202ee744d2a1cedd4412fa5908208f20737fa66397cba5720915d145ec",
       "seen_count": 1,
       "sources": [
         {
@@ -131,10 +203,10 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-      "content": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
-      "fingerprint": "3e1252003369371952201e2e631a3d8061a1185bd9825192edd28016eda8d013",
+      "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
+      "content": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
+      "fingerprint": "6e2146ee4c37458ca0bf297be33aabcd9b2d32081dca33239db6180601c42e47",
       "seen_count": 1,
       "sources": [
         {
@@ -149,70 +221,16 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Six Nigerians accused of romance scams to be extradited to the US",
-      "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
-      "content": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
-      "fingerprint": "e580212fc3b0f7bfa40061327e607e25c6bdb32e71d336d2d748ad5feb9d7d17",
+      "title": "Firefighters say this antioxidant helped them - their union warns it could be risky",
+      "link": "https://www.bbc.co.uk/news/articles/crk3n5z60pvo?at_medium=RSS&at_campaign=rss",
+      "content": "Glutathione, an antioxidant, has been offered as a treatment at some of the largest US wildfires in recent years.",
+      "fingerprint": "1364a75cf91f350d877372b8aed8c30c78ee6d1ec5db0c47d81c889624d41983",
       "seen_count": 1,
       "sources": [
         {
           "name": "BBC News",
           "tier": 2,
           "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "BBC News",
-      "category": "Global",
-      "tier": 2,
-      "role": "professional",
-      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-      "content": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
-      "fingerprint": "53f9dccf3e6c28f42fb0c994ccba32c56056bf8fb326a2e2c3874c09f0e575f5",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "BBC News",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "BBC News",
-      "category": "Global",
-      "tier": 2,
-      "role": "professional",
-      "title": "How global trade and oil prices could be hit by Houthi advance",
-      "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-      "content": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
-      "fingerprint": "06c713bd731adff4f80858f7a74e454166f75e07bf2f3baec9d52c5eea4fffac",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "BBC News",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Pew Research",
-      "category": "Global",
-      "tier": 1,
-      "role": "primary",
-      "title": "Weekly: 9.12.26",
-      "link": "https://www.pewresearch.org/newsletter/weekly-roundup/weekly-9-12-26/",
-      "content": "Weekly Roundup The latest findings from Pew Research Center · Subscribe ↗ From our research The share of U.S. grandparents ages 65 and older who are in touch with their grandkids at least a few times a month, including 15% who are in touch with them daily.",
-      "fingerprint": "784adbc892deb2b5c4cf7e3a0fceae91617055bbc0ba8d1f0732001ad6d10b6b",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Pew Research",
-          "tier": 1,
-          "role": "primary"
         }
       ]
     }
@@ -223,10 +241,10 @@
       "category": "Economics",
       "tier": 2,
       "role": "professional",
-      "title": "Surging bond yields presage pain—and not just for bond investors",
-      "link": "https://www.economist.com/finance-and-economics/2026/09/11/surging-bond-yields-presage-pain-and-not-just-for-bond-investors",
-      "content": "Stubborn inflation, corporate demand for capital and big public debts are squeezing holders of government bonds",
-      "fingerprint": "74d73c65522d23646883155140f32eeea7f77e49692297d8f083918f8d6d91e9",
+      "title": "Wanted: new business, finance and economics interns",
+      "link": "https://www.economist.com/finance-and-economics/2026/09/12/wanted-new-business-finance-and-economics-interns",
+      "content": "The Economist invites applications for the Marjorie Deane internship",
+      "fingerprint": "4100fc1683d0a0d047e0c54ac7dcbac57ebb042a0db108af1cf37768a1809555",
       "seen_count": 1,
       "sources": [
         {
@@ -243,10 +261,10 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Brazil’s Marcelo Kayath would be strong pick for Finance Ministry, Eduardo Bolsonaro says",
-      "link": "https://www.investing.com/news/economic-indicators/brazils-marcelo-kayath-would-be-strong-pick-for-finance-ministry-eduardo-bolsonaro-says-4898324",
+      "title": "Analysis-Houthi advance in Yemen puts U.S. in a new bind",
+      "link": "https://www.investing.com/news/economic-indicators/analysishouthi-advance-in-yemen-puts-us-in-a-new-bind-4898657",
       "content": "",
-      "fingerprint": "eaed7f34e9431f96ac9658b19b4f70a514da6339fdb0986e5ec01ffa5e5dd73d",
+      "fingerprint": "422af885f03206a7f66c0bb790ddcee612a34c8444bd617af9393c7059ad1cb3",
       "seen_count": 1,
       "sources": [
         {
@@ -261,10 +279,10 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Federal Budget Deficit Narrows More Than Expected",
-      "link": "https://www.investing.com/news/economic-indicators/federal-budget-deficit-narrows-more-than-expected-93CH-4898307",
+      "title": "Meloni sees Italy 2026 growth at 1%, matching euro zone",
+      "link": "https://www.investing.com/news/economic-indicators/meloni-sees-italy-2026-growth-at-1-matching-euro-zone-4898632",
       "content": "",
-      "fingerprint": "64ca4f9d08a7a6059cb187e0dc652a593d6c1223a5e9409db2235b399cb810d9",
+      "fingerprint": "68fc49f3e924da978fa47b5f12fc4f755aa70586e5ce1a5449235c7db2c57af3",
       "seen_count": 1,
       "sources": [
         {
@@ -275,72 +293,18 @@
       ]
     },
     {
-      "source": "Investing.com Bonds",
+      "source": "Investing.com Gold",
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "US consumer sentiment deteriorates in September, inflation expectations rise",
-      "link": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-deteriorates-in-september-inflation-expectations-rise-4898148",
+      "title": "Iran and UAE back joint BRICS statement urging restraint in war",
+      "link": "https://www.investing.com/news/commodities-news/brics-agrees-on-joint-declaration-before-new-delhi-summit-sources-say-4898638",
       "content": "",
-      "fingerprint": "da898f3bfd484d0dfc7d133e8f1446cdbfb272cb3a2560b7d22dd5a15844542d",
+      "fingerprint": "c8c90422c25e1f24fa22171a1ee620047a0e7e29da75a208ce82f96085009306",
       "seen_count": 1,
       "sources": [
         {
-          "name": "Investing.com Bonds",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Investing.com Bonds",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Michigan Consumer Sentiment Falls Short of Expectations",
-      "link": "https://www.investing.com/news/economic-indicators/michigan-consumer-sentiment-falls-short-of-expectations-93CH-4898097",
-      "content": "",
-      "fingerprint": "f6dea903a4a4a7bdb1d078151c0b84e4ab01b10a5011d8eeff500cc5a526bf7c",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Investing.com Bonds",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Investing.com Bonds",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Stocks, bonds rally after August inflation report",
-      "link": "https://www.investing.com/news/economic-indicators/august-core-inflation-reading-boosts-ratehike-expectations-4897942",
-      "content": "",
-      "fingerprint": "21797fa4949c06694935f49fbf63d1bc4667be6d794a53fae1af54db7e4d7361",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Investing.com Bonds",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Investing.com Bonds",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "U.S. consumer price growth firm in August, boosting Fed rate hike bets",
-      "link": "https://www.investing.com/news/economic-indicators/us-consumer-prices-rise-by-04-monthonmonth-in-august-matching-estimates-4897887",
-      "content": "",
-      "fingerprint": "6df3fa875cc0ccc4fdfb2de03c528990ff18bc608e53aeb350f505c80706bb67",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Investing.com Bonds",
+          "name": "Investing.com Gold",
           "tier": 2,
           "role": "professional"
         }
@@ -369,230 +333,14 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Oil on track to settle above $100 a barrel after whopping 20% two-week surge",
-      "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-brent-tests-110-a-barrel-as-meast-supply-risks-grow-4897144",
+      "title": "Trump says Iran probably responsible for attack on Saudi pipeline",
+      "link": "https://www.investing.com/news/commodities-news/trump-says-iran-probably-responsible-for-attack-on-saudi-pipeline-4898645",
       "content": "",
-      "fingerprint": "9ed4dd2f297e846aeaad601f47c2cb11c13a5d4d981817a2ed4548108b6a0c0d",
+      "fingerprint": "c2f73493de496d453835dcb75429881054ca4ba20546c47e293a84c6c46aa143",
       "seen_count": 1,
       "sources": [
         {
           "name": "Investing.com Gold",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Investing.com Gold",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Oil grades decline as US drilling rises and Hormuz talks advance",
-      "link": "https://www.investing.com/news/commodities-news/oil-grades-decline-as-us-drilling-rises-and-hormuz-talks-advance-93CH-4898422",
-      "content": "",
-      "fingerprint": "05310518289d757af8ea88a3bcc05d4532eaa6f01c94e2234d57d2447366223a",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Investing.com Gold",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Investing.com Gold",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Argentine farmers boost soybean sales on price rally",
-      "link": "https://www.investing.com/news/commodities-news/argentine-farmers-boost-soybean-sales-on-price-rally-93CH-4898409",
-      "content": "",
-      "fingerprint": "dde7270651ced43e25e24ed0f029ba1df511a2083a5b8085593e05232f45615a",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Investing.com Gold",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Investing.com Gold",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Oil falls but head for 8% weekly gain on tight supply; US diesel hits record",
-      "link": "https://www.investing.com/news/commodities-news/oil-prices-set-to-end-week-over-100-for-first-time-in-nearly-4-months-4897153",
-      "content": "",
-      "fingerprint": "21dcf484be3e0c9f6aa880656bfe8e78e02ec552ffbef7e1bd258ef8d0a7839e",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Investing.com Gold",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Investing.com Gold",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Gold headed for a weekly loss of nearly 2% on surging oil, raised Fed hike bets",
-      "link": "https://www.investing.com/news/commodities-news/gold-steadies-after-sharp-drop-as-hotter-ppi-lifts-fed-hike-bets-4897138",
-      "content": "",
-      "fingerprint": "83aa30cb6bb224a02b6b4b5b9a6bfb154247587029e215cff41870d025e1b0e4",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Investing.com Gold",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Investing.com Gold",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Natural Gas holds 200-period MA after double top failure: Live levels",
-      "link": "https://www.investing.com/news/commodities-news/natural-gas-stuck-between-287303-live-levels-93CH-4890483",
-      "content": "",
-      "fingerprint": "0749b15bbde8d2a20f48627a743fc835768390a06a1f26990697f3c246081308",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Investing.com Gold",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Investing.com Gold",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "London Gas Oil stalls at $1,480 after overbought surge: Live levels",
-      "link": "https://www.investing.com/news/commodities-news/london-gas-oil-stretched-10-above-50ma-live-levels-93CH-4890480",
-      "content": "",
-      "fingerprint": "33021e4c44ff9bd255cbc9cb346d5d48a44ee3d6686e828b45fff3309a8d8b06",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Investing.com Gold",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Investing.com Gold",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Crude Oil WTI rejects $104.44 hard: Live mean-reversion levels",
-      "link": "https://www.investing.com/news/commodities-news/crude-oil-wti-doubletop-at-9364-resistance-live-levels-93CH-4890479",
-      "content": "",
-      "fingerprint": "cc8e2cf870ed5acee9faaceaba8c2631e689d4d75ed65dbfb820d26833f4f485",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Investing.com Gold",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Investing.com Gold",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Silver holds $64.90 but faces $67.30 resistance: Live levels",
-      "link": "https://www.investing.com/news/commodities-news/silver-trapped-in-6468-range-breakout-imminent-live-levels-93CH-4890478",
-      "content": "",
-      "fingerprint": "fa6753b3b34051f90d21797632105863797a583269645cd7fe14c8eb93ae991e",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Investing.com Gold",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Financial Times Markets",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Larry Ellison to sell up to $7.5bn worth of Oracle stock",
-      "link": "https://www.ft.com/content/25b1abb0-790f-4315-9b0c-530d959a086f?syn-25a6b1a6=1",
-      "content": "Founder to offload as many as 50mn shares as company posts higher revenue from data centres but faces investor fears it is overcommitted to AI",
-      "fingerprint": "cf6e91ad0128ef9b4c7aeb413b8757175a55261e4ab1aa33616795cf978888ac",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Financial Times Markets",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Financial Times Markets",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Early SpaceX investor Atreides hires co-CIO of Lone Pine",
-      "link": "https://www.ft.com/content/282a7b82-49b1-48ce-b645-737da2ff093a?syn-25a6b1a6=1",
-      "content": "Kelly Granat to join tech-focused investment firm set up by former Fidelity Investments star stock picker Gavin Baker",
-      "fingerprint": "1ccedc470e9263be5d2e189ec5e60bb20698ee5876ee64d131703f44743f44e7",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Financial Times Markets",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Financial Times Markets",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Houthis seize Red Sea islands in lightning offensive",
-      "link": "https://www.ft.com/content/976fa0d6-ed09-4a6f-be02-ff4317b45f40?syn-25a6b1a6=1",
-      "content": "Advance against Saudi-backed forces cements Yemeni rebels’ control over vital shipping artery and roils energy markets",
-      "fingerprint": "1c8d0b1bca67324c0d86f6b4a7d72135c3a1f459218208d0188e25965ade75e1",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Financial Times Markets",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Financial Times Markets",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "JPMorgan cut off Situational Awareness lending after AI losses",
-      "link": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1",
-      "content": "Leopold Aschenbrenner’s hedge fund previously shed billions of dollars during sell-off",
-      "fingerprint": "db771856b4cf8ef880dd989374e5abdebfb398f7d1b1c0bf0cd76220bc9d849a",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Financial Times Markets",
           "tier": 2,
           "role": "professional"
         }
@@ -621,10 +369,10 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Is Bessent winning the wrong battle in markets?",
-      "link": "https://www.ft.com/content/c3740cd0-3c4c-44d0-b3e8-4ccb1bac65b0?syn-25a6b1a6=1",
-      "content": "Treasury secretary’s intervention in the yen has made an impact but US bond yields are climbing higher and higher",
-      "fingerprint": "ee22f00833dcebf98dfbae948db3921aad2e28f77203415345e392a9f0955fe4",
+      "title": "The long shadow of quantitative easing",
+      "link": "https://www.ft.com/content/be8d08d3-e3c1-413c-ab6e-5a38b19ce4b6?syn-25a6b1a6=1",
+      "content": "Central bank balance sheets will stay large",
+      "fingerprint": "714b4f5ae83d4262c0d5b88cf8f93008ca41f586053ab0aafd2c5b1065b878f5",
       "seen_count": 1,
       "sources": [
         {
@@ -639,10 +387,10 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Directors’ Deals: Shell’s upstream boss takes advantage of valuation uplift",
-      "link": "https://www.ft.com/content/cde3c168-5522-4d38-a6c3-454ef36aa0d4",
-      "content": "The oil major’s acquisition of ARC Resources is expected to improve free cash flow from next year",
-      "fingerprint": "00470f74a95fdb2e206102d79e4a47f071eff3f786784c3b5a3f7299dff5dcf4",
+      "title": "Windshield megadeal could fix Europe’s broken IPO window",
+      "link": "https://www.ft.com/content/0e25f645-4e80-4299-a6b6-c09c7d459871?syn-25a6b1a6=1",
+      "content": "Belron is the sort of business that might help investors warm up to more deals",
+      "fingerprint": "93dd4def1d04e909b833bc4853c8f0d5dc3851d23bfd5b3951da6a422408c926",
       "seen_count": 1,
       "sources": [
         {
@@ -657,10 +405,10 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Scott Bessent fails to break ‘fever’ in US bond market",
-      "link": "https://www.ft.com/content/dd4cc4a0-844e-486a-b99c-b379d457019b?syn-25a6b1a6=1",
-      "content": "Treasury secretary’s $6bn buying operation insufficient to stem recent surge in borrowing costs, investors warn",
-      "fingerprint": "a429934ac7f8d5e7e5e04cfbaa582e5951c4da2ee1660254e58090dd93675cc2",
+      "title": "Nick Train’s trust offers buyback in bid to boost weak share price",
+      "link": "https://www.ft.com/content/36dbe7cd-baa9-4474-9d31-14af67278a14?syn-25a6b1a6=1",
+      "content": "Tender offer by Lindsell Train Investment Trust for 20% of shares aims to address persistently wide discount",
+      "fingerprint": "d631b499868ac6f97f68aad7dc4dfbfe86e51417d6072ee8cc70a0b67effd306",
       "seen_count": 1,
       "sources": [
         {
@@ -675,10 +423,10 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "UK delays Jackdaw gasfield decision until after by-election in Starmer seat",
-      "link": "https://www.ft.com/content/b087d8e6-db04-4db6-8308-7275a40df5fb?syn-25a6b1a6=1",
-      "content": "Tories and Greens criticise government’s move to push back North Sea project",
-      "fingerprint": "e8e28b47539e91fd5a98c425873d0dc1cc955dce6f377afe982cb687fd30f52b",
+      "title": "High oil prices could force ECB to raise rates further, warns top policymaker",
+      "link": "https://www.ft.com/content/a83e620a-bb72-478a-ac77-10635ec653bd?syn-25a6b1a6=1",
+      "content": "Austrian central bank governor Martin Kocher says risk of elevated inflation is higher than it was a few months ago",
+      "fingerprint": "782254f7ef905e8ef80030403ec277c402b4a94714a5545fee988f6870a83ee8",
       "seen_count": 1,
       "sources": [
         {
@@ -693,10 +441,10 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Warsh under mounting pressure to raise rates as US inflation persists",
-      "link": "https://www.ft.com/content/24646e74-9506-4718-b1be-789208db86d9?syn-25a6b1a6=1",
-      "content": "Inflation remained stubbornly elevated at 3.4% in August at the end of a week of surging oil prices",
-      "fingerprint": "247542ab585b44fc4ffc8fd1907f56cb23fe0f5d52682637fdc146af2446a15e",
+      "title": "European investment in LatAm stocks hits 15-year peak",
+      "link": "https://www.ft.com/content/6a5f7e88-d778-41d7-b53d-d9ac49f52f99?syn-25a6b1a6=1",
+      "content": "Investors seeking shelter from geopolitical turmoil have put the outflows of recent years into reverse.",
+      "fingerprint": "3bcabbb8871cd67f7250c7d8879c09a388116f9827664c3a0e0d50e5ca749556",
       "seen_count": 1,
       "sources": [
         {
@@ -711,10 +459,82 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Bond markets stabilise after global sell-off",
-      "link": "https://www.ft.com/content/2c9ce5b0-32ae-4460-aa89-9c80eb05ee41?syn-25a6b1a6=1",
-      "content": "Decline in oil prices helps calm investor nerves but German borrowing costs hit highest level since 2009",
-      "fingerprint": "792599c110265082211487f4b395008f6e8354b16a4d2e1383397f8532846fb0",
+      "title": "Chinese crypto investor was seller of £190mn London mansion",
+      "link": "https://www.ft.com/content/dcfe97fe-8935-497f-abfb-c51973614458?syn-25a6b1a6=1",
+      "content": "Leon Li’s ownership of Regent’s Park home had remained obscured despite UK push for transparency",
+      "fingerprint": "78f28713460f70496bfb390848e23792dd3922320eb211b7eca63b65ef9f8a3b",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Financial Times Markets",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Financial Times Markets",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "Booming Brics payments systems seek more cross-border links",
+      "link": "https://www.ft.com/content/294b1de0-b055-4703-b3f6-975f179aad54?syn-25a6b1a6=1",
+      "content": "Government-backed networks such as UPI and Pix explore link-ups with central banks overseas",
+      "fingerprint": "9f14524ce691c1cbcf4bf5ebd475230765a394f93e13b517946ace805ae3a4f3",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Financial Times Markets",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Financial Times Markets",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "The perils of prediction markets",
+      "link": "https://www.ft.com/content/34a0b3fa-1cd4-4743-8e28-3996836610ca",
+      "content": "Not only are the odds stacked against those who place bets, but there are also insiders tilting the scales",
+      "fingerprint": "a74a1ca21747672ea1fb068ff5b1da505e323f1c9e5ce21c84bb8827cd7ca6b6",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Financial Times Markets",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Financial Times Markets",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "How can we fix the finances of Gen Z?",
+      "link": "https://www.ft.com/content/a6c5578b-08ae-4134-8e4b-832f28bcfcdb?syn-25a6b1a6=1",
+      "content": "Andy Burnham has acknowledged that the millstone of student debt is a problem",
+      "fingerprint": "76a718f1af6333828115d4abbe202f69baa60d4dd6d8dfd541bba0a548cc9264",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Financial Times Markets",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Financial Times Markets",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "Larry Ellison to sell up to $7.5bn worth of Oracle stock",
+      "link": "https://www.ft.com/content/25b1abb0-790f-4315-9b0c-530d959a086f?syn-25a6b1a6=1",
+      "content": "Founder to offload as many as 50mn shares as company posts higher revenue from data centres but faces investor fears it is overcommitted to AI",
+      "fingerprint": "cf6e91ad0128ef9b4c7aeb413b8757175a55261e4ab1aa33616795cf978888ac",
       "seen_count": 1,
       "sources": [
         {
@@ -727,14 +547,32 @@
   ],
   "Investments": [
     {
+      "source": "CNBC Buffett Watch",
+      "category": "Investments",
+      "tier": 2,
+      "role": "professional",
+      "title": "Buffett's confidence in troubled decade-old acquisition finally pays off",
+      "link": "https://www.cnbc.com/2026/09/12/buffetts-confidence-in-troubled-decade-old-acquisition-finally-pays-off.html",
+      "content": "Warren Buffett has said he paid too much for Precision Castparts in 2016. Now its complex metal castings are in high demand.",
+      "fingerprint": "a88967608621d2e3a40cc06b0a3e7da8a6f1b1635b3ede9a28a407e7c9072dd8",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "CNBC Buffett Watch",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
       "source": "Google News: Berkshire",
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Warren Buffett Successor Greg Abel's Top 5 Stock Picks in 2026 | Investing - money.usnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWmFXTmlZczBvSktadDY0a1JoSFRjVzhwVndST05fZmkzWVVwUVVvRXhjbEZveFlyQmExMUR2Q3VhMl9RbU1nR1FyLTk4Q091aVpVZEo0R2UyNXRnTU9IMmE3MjBSOTFKS3VTOWpTME9WVC1qTFlnaWZRUU1BeTJyNWZQekp2RktvQjVz?oc=5",
-      "content": "Warren Buffett Successor Greg Abel's Top 5 Stock Picks in 2026 | Investing money.usnews.com",
-      "fingerprint": "cb8d4b6bae649a6eef6d6e5414120a3087a6ade9415049da85c73e3de27ce6cb",
+      "title": "Buffett's confidence in troubled decade-old acquisition finally pays off - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUQyMm9YeXU5VGdCS3FadmNJV1o5WExVMmlNbDZNaDlQMXlYeHhVcDJfbTcySEJrMk5jZF9iU2phQlNhZ2JGaWhkYTNRMFhPeUVPR0UtYnZQYjBxQkliV1VQa0g5V3hvN0ZqQUtZQy1mLUpoRng2YnBLcVdVTTR0Q3pKWURYV2lTbEVzcDM3eVdZUldIUU41QmplMmlmVUxFY2tRclp1ZlhBM1ZH0gGyAUFVX3lxTFByQ3BSbEJmUE9SU1JkQlprVEk1aVA0Zy1EUmUyUVo2WGlpNURWV2pSdXhmSk9sSFg2ejBmbXhycGhEUDZpV1ZTeE5LZUxMQmpEQUFDeHJLc3JHRDVvN21qOXNVTjhuVkJvdThkaktoQ2Z4cjZ4ek4yWmxqdkhjaUZGcmhRdzVUaF91Qjc1WkhfM2tHVmh6VFF1VnBfekx5ZnFTS3dJT29KVU1ZOGZuZmFfS3c?oc=5",
+      "content": "Buffett's confidence in troubled decade-old acquisition finally pays off CNBC",
+      "fingerprint": "cbc23a8c784f12e265a02017dab3975ba853804732a8bd21b48bec83689e1885",
       "seen_count": 1,
       "sources": [
         {
@@ -749,10 +587,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "The Top 3 Value Stocks to Buy in Berkshire Hathaway's Portfolio - Zacks Investment Research",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcU9OV0lUNmtYT04zWDF1MGZpNlk5S2l2dElRWF91VDlJQ2ROcmZHUHFGODM1dFZUT0djRzl4dDZYS25TM2x4YktfUnN6QWtSNTBPUFhpWGlHWXpnVk5ZUmVBaS04cEdwaTRZQi03QjRKT1dNUG1qVDhaNUxNME1fcnpTXzBfblFUV3FRM0otSkZBME5vTmJubFVnN2EtQlpCUWNoWmhB?oc=5",
-      "content": "The Top 3 Value Stocks to Buy in Berkshire Hathaway's Portfolio Zacks Investment Research",
-      "fingerprint": "82b6032cf48c0eca58db7b0f1e50d28b593200ca62d9007859859f6e8ddd11d9",
+      "title": "1 Top Warren Buffett Stock for Dividend Investors - fool.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmVIbDJWQ1lHSHljQmptM1VkSnJmeGMyUkJpQ1g3bUJQVU5wMm9wcG5mTEV0LXQzSVlsNHExZlFIRXhRaldkZVRBTlFTS1lZMHZiZzA4UFhubk5tTXM3TnJEcnlUN2JhemZmLVJLcUVGWDhJR09PUVJCNDMtUEVfck5waDduTVNBc3UwWGJWcS1sb21scnJZ?oc=5",
+      "content": "1 Top Warren Buffett Stock for Dividend Investors fool.com",
+      "fingerprint": "f7a0729f9306b7667cc4c150c6d97fd6b57a5163dac81d148f1183baaa413c4b",
       "seen_count": 1,
       "sources": [
         {
@@ -767,10 +605,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "2026 Best's Rankings: Berkshire Hathaway Takes DPW Top Spot Among Accident & Health Lines - AM Best",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OVmJKN0xiOUw3QlNYZHJNOUhxRkh1R25ZenpvTFdkb2ptV0xiRVJIclM3NE5mVFNkWVpCblhiYURYbjZiRTg4QlRBQWtMVURZWU14RDNqOGVEUWNkX3BSYUJTZHZsdWRuaXo4MVpWeFBIZw?oc=5",
-      "content": "2026 Best's Rankings: Berkshire Hathaway Takes DPW Top Spot Among Accident & Health Lines AM Best",
-      "fingerprint": "75a8f6dd9caac4cf1feb4953cadfb385cf69f7d3fab6bce2fef586b981393e39",
+      "title": "Warren Buffett keeps turning to the same ETF for a reason - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb3FiX2dTdEplZFltamxxNGVISXZQSEQ0MFIxem41TFVLNFo1dm1lLWJuN09SdUhNTGprWDBIeGo5RHhsc2s1VlNEYjJVUUhpbXlScDNoYXhnREl3cS1OUjB0aWh1b2dLcGNfQVBXTjJ3RkgwSHZiNjRuZHpmYnpCSlRzYnZ3TmVlYTJJZV9KWkM3RjNRdXk5bg?oc=5",
+      "content": "Warren Buffett keeps turning to the same ETF for a reason thestreet.com",
+      "fingerprint": "0b70d1763eff27cf899521312bb580f5aaa8360d83bc67e8fea913492b99e91f",
       "seen_count": 1,
       "sources": [
         {
@@ -785,10 +623,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Greg Abel's Berkshire Hathaway Repurchased $4.5 Billion of Its Own Stock Last Quarter. Is This a Bullish Signal for Investors? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQalpPUkNYc3BXRzdFU0duVmt4QnNQQnBUWVU2NmpxMGxTOE9JUFZtQ3E1NmtSWHVlZXN5QzNHeFkyLVdhNmtiQ2J0YnVkTDduYWo2QkJ3UlNfRXJ2N3FSdmJZWk9QNXZFNGJTRkc0QWtwbm1mUGFZUDluOHp6T1NkN3FNTzYzTDlUSkJQczh4WnVVTFV6aWNJNQ?oc=5",
-      "content": "Greg Abel's Berkshire Hathaway Repurchased $4.5 Billion of Its Own Stock Last Quarter. Is This a Bullish Signal for Investors? The Motley Fool",
-      "fingerprint": "de3e073db9cda80f86fded90aadfdf7938f5889b338217bfc9e10270306e9ea3",
+      "title": "Greg Abel just spent US$20 billion at Berkshire Hathaway, ending 14 quarters of stock selling — Alphabet was the big bet - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmN0dUSHp5N09uX3kyek9INUhEYi1tNTBaS2htdWxkYVhENFVTU0VMakw3Qlk2YjcxUVFDcWVjR3loenRWZXFKT25kM1V6RDJRMU5CcnhMbXdoOElha1FTY3hiRkhxdUF4cnVKbkVQbG9tRXlwUU9vc1J3VHo?oc=5",
+      "content": "Greg Abel just spent US$20 billion at Berkshire Hathaway, ending 14 quarters of stock selling — Alphabet was the big bet Yahoo! Finance Canada",
+      "fingerprint": "c0e65ff1c986d63c7d63277e7bddcb767c06eb72888096a71647a5aae24a7d62",
       "seen_count": 1,
       "sources": [
         {
@@ -803,10 +641,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "What Does Berkshire Hathaway (BRK.B) Leadership Shift Mean After $82 Billion In Buybacks? - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZXF5b0hsVkk4TUc3TTRvMDNrQ0ZMdG5tTXRLcDU4bFpZNEgzT3AwZE5sQUhGSWt1SW1fQ0M3bFI5U2ZNaXNFVWl4aTlKbVJWQnBTZUVqcHQxcFdpWDFtaFdjUmlsU2VBWTRqWFUwQWczamdSRTQyX0ltUVpfY0FxUk05OEpya0puVnExaWxXclNoWDV3TDBjRWFhdl9QWm84RlJsTVhCYkQyUEYyLUpXWWt6TTZnTDVkWjdUWDI3cEJjLTRUOHh0MkJ1aWlxV3ItVUJ4MTNWMjBtTzBUWWRsb2Y4TXLSAeoBQVVfeXFMTXZiN3J5dGt0SmRpRWo0VmhWTEhTRjlSSEtTQ2RoOGR2MEtiMXZzdWxjR2tWWXRWQ1ZjR3B3NENlS3FLNXhleUgzb2dabm5FRWQ1Zkd0cVJIa0xGMFRJWVBFTjV1MnBDeUQwd0NRSDRWMW5FellLV2llUjNFbFNCalQwVnRCcGZuTmp2N2ctOWQ3T01iaU8teVVCcWtBUnA4ZDdfQ3M4ODViUXRzbGpxdHgtU2FvX2wxdnNIcFItU1preXNhTWoyLXJkZE42YXBkYUxIS3NmRnJ3VzFUdUZDb0NkR0VGc1NGemJ3?oc=5",
-      "content": "What Does Berkshire Hathaway (BRK.B) Leadership Shift Mean After $82 Billion In Buybacks? simplywall.st",
-      "fingerprint": "31bfaba867c6ec5dec46a7336aee560eb4b1c608761517e50394a385787e99c7",
+      "title": "Greg Abel Is Betting on Homebuilders Even as the Pending Home Sales Index Sits Near Its Second-Lowest Reading Ever, Down 36% Since 2021. Is Berkshire Early to a Housing Recovery, or Just Early? - fool.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzl0Z212RzY4NzlmUmpmQlJxS0xlaXVUbVdoX2t2ak5mTzkyMm83MkM3cFJGblhndHNqZG5YNk9Rd2ZhUlUxMTJSd1FXVl9tZE1BME9YQTY2eVBhQ0RSQ3FHQzlqRjRZTWV1d3R1TEdlNkFSZXVVOHd3Ukh1OC1Tei1vZjI2QkRmbmVGczhvMktCckE2Q01WNA?oc=5",
+      "content": "Greg Abel Is Betting on Homebuilders Even as the Pending Home Sales Index Sits Near Its Second-Lowest Reading Ever, Down 36% Since 2021. Is Berkshire Early to a Housing Recovery, or Just Early? fool.com",
+      "fingerprint": "17a2ed7e8087b255a9f9713fe8f4a264126c020721a5922a71b14242ea703572",
       "seen_count": 1,
       "sources": [
         {
@@ -821,10 +659,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Berkshire Hathaway Energy to shut Cove Point LNG export plant in Maryland for annual maintenance - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcWxZOS0teHU5cmdKOVd0VXk4MDQtWDNBdjQ2WjVCYTRDSHRUMUVZVi01VVpnUWRJQVNNaEtYTTJTMjdWNGtnd3Etd3VzcGl5MXc5U012dW5DOTR6LVlHSE1DTTBHQWhnQk9ONXFDRW1Uc2x1R05FSVJ2ekVWUzdtaXpLamdoNFdCNGtxMnBHNmlmSWp2UTJvWGhQQ2JSemtPaUVYVy1IcHc4U3JlMFVZb0NfWF9Nb0JqYTNOX1ctYzVpeEZQSFRqd2R6Wm9lNzBoNGRmeDlBbVNlbm1Ga1hBZll2TQ?oc=5",
-      "content": "Berkshire Hathaway Energy to shut Cove Point LNG export plant in Maryland for annual maintenance marketscreener.com",
-      "fingerprint": "c1a322ccd9d95d9d1013d5a76198a67eef592dbcd0a2b83ab19c75deaf819442",
+      "title": "Warren Buffett Loves Wide Moats: 3 AI Infrastructure Stocks That Fit the Bill - fool.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWThoeFVQSFFnNXJrNzg3UEdJdE5halJLNzFBNWF4YldLWGJVZ0VSdVplLTdDdklTQVlFMzBESnR3QUowUXBWNVc0bXpBZkoyQ3VsUl83NjF0YTJuVFlHQWt2c25RMmxkQ084aU1nNFgteFZNQ3RvYzZPMVFrUjVYeE1JSlN6dDlaQVIxaEwySkJBWUQ3bGMwdw?oc=5",
+      "content": "Warren Buffett Loves Wide Moats: 3 AI Infrastructure Stocks That Fit the Bill fool.com",
+      "fingerprint": "c47244a798557a5424906cff089a2362dab1ccb77c79ff23a91ab370658fc530",
       "seen_count": 1,
       "sources": [
         {
@@ -839,10 +677,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Dorothy Parker, Warren Buffett And The Wisdom Of Index Funds - Hedge Fund Alpha",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ybTB2UGpldW00TFk4RmxDQ2NuTW9tNkVFVERlSVhRVzVZcWpiMWFOR3Y4aXdwYWFpVTlRaFNFeW9RSi1NQ1FveWNLY25UdmMtNlJ6TGJCYnNIZW1lVUlWdVREWEdMRUFPOFpZ?oc=5",
-      "content": "Dorothy Parker, Warren Buffett And The Wisdom Of Index Funds Hedge Fund Alpha",
-      "fingerprint": "940a9c908e3cbb1fefd7a3135d16fc8cb05e0c85ade1d4a9a3f80b818c4ab6bf",
+      "title": "‘Money has no utility’: Warren Buffett prizes 1 personal asset above all else — here's how you can take advantage of it - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONlIyWkotMTJiMVhtZFk2X01ZdzdTeWV3amhtd0lJOUdCSkxMQzZjTmZGNnh1aFJvUnZuTTJBMWRqZmJNaDcyZ3lXaWo0Y0VCU3J0dUZYajh6Ql9yYks4T1dqSVpVc1B6S2YzeVBWMWFoODFnbG1zeGRLTmZ0aUVRbk1GUWNuWXNfdXJJM1hLUW1YVWJ4bW05Vkd4dUs?oc=5",
+      "content": "‘Money has no utility’: Warren Buffett prizes 1 personal asset above all else — here's how you can take advantage of it Yahoo Finance",
+      "fingerprint": "8b80b31052cba9f2aed5bdd65e4ad3259015971d5edd8abe312b2717d26fa52f",
       "seen_count": 1,
       "sources": [
         {
@@ -857,10 +695,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Greg Abel's Berkshire Hathaway Repurchased $4.5 Billion of Its Own Stock Last Quarter. Is This a Bullish Signal for Investors? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2dCQll4aTUwQnMxM0JvamdKUUxGSlBfX1B3Y3BPYnoySjZ6Uk8yWHp4Tmc2NFpBTjFQb0duYnRrdHFZcElvNmhWdEd1aEpIZlVBTnd1RmtGX3JHTWlWZnJYaXV5SjUxdEtoS0l2akR1RzRRTDQ5dGpKRHRicnNRY2dUNUxWckR2bUZHRFNibDFQSUVfVVZPV1p6eFlQSzA2RG9jN2lZWnJrUQ?oc=5",
-      "content": "Greg Abel's Berkshire Hathaway Repurchased $4.5 Billion of Its Own Stock Last Quarter. Is This a Bullish Signal for Investors? Yahoo Finance",
-      "fingerprint": "42c328f033096dacaf0e704e92e71c21e47afdbaf50f22a3cb7855871500ad40",
+      "title": "Greg Abel Is Betting on Homebuilders Even as the Pending Home Sales Index Sits Near Its Second-Lowest Reading Ever, Down 36% Since 2021. Is Berkshire Early to a Housing Recovery, or Just Early? - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWUNFdGh1N3djc09yMjQ5TVBXcVpWelFHVmtMSE1MNk9CNXRibUZBUnFqQmFTZWJ0eGlMdG1lYTlmeV82N2FCbm9VRjlTTy1nTGpubi14WnFUd0FjbEt2a0tnZzZ3SGoyTnJGUUNkYjJPX25IYWkyekdMZVF2LU1NeGw5VUZGdw?oc=5",
+      "content": "Greg Abel Is Betting on Homebuilders Even as the Pending Home Sales Index Sits Near Its Second-Lowest Reading Ever, Down 36% Since 2021. Is Berkshire Early to a Housing Recovery, or Just Early? AOL.com",
+      "fingerprint": "93324607097af8fbc6e626af06f96fce7f85eb1b0c1be79e26d84839cc412a9a",
       "seen_count": 1,
       "sources": [
         {
@@ -875,10 +713,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Berkshire Hathaway (BRK.A) Could Be 19% Undervalued On The Precision Castparts Rethink - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNelBlR3BPLTFoUnIwLVF1ZmhELVRXMDZudl91OGRlem8tb2wxUXZmRktPTmQ1ZjI2bXFYdXdNUkFMWlJFaXRELXQtelZySUxZZzF3dEVUdHJ5ZXN2QmpFS19KUXN0VTE4Z3ppOWhqR0pXcmNOS3h2eXRJVGtMU1pfanZGb0pWXzFQaExTaWwzZzdSd1JRYmNpWDBfNU1BeXdJUlhaam13R1BKOTBzUGVtYmFlMWtONWpFVkNmcEFyTVdBTDNBUFFZZkhhQmp1R3V5NUszSFdCQWFXQzlZaDBwYnlpTUnSAeoBQVVfeXFMTUMtWlR4ZUFsNUV6UEdlUzRfdDE3SGtUZ1ctTTFBaGdfb1hJaWZ3RWVvRTVxZnZJdDdJbDR1c3FiSVB2VGNwajFPU3lYQXhYdGIwdWd6SHc0bjNoOTcyS2hmbWJaLVpOd1BRTnJPbG56Zjg2M1dwY0RnLS1IRjBHa1FBX2dRUm5iczNBbC0xUTNOeHcxLWNaWTVBM09XRC11QlQ3RkEtazJTRnZNRGQwbDBMRXd6ckp1el9jTUthZGxmajl0VFhJdG9RLXNlZzhnNW9Za1hqWUNsSDNoRzMtSHh1SWttRms5cE1R?oc=5",
-      "content": "Berkshire Hathaway (BRK.A) Could Be 19% Undervalued On The Precision Castparts Rethink simplywall.st",
-      "fingerprint": "dc404865d8b70483857b6c3a31a80b85e7a84da1e387d74d2ae2ef1b10d4fcd4",
+      "title": "1 Top Warren Buffett Stock for Dividend Investors - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56OGVDUjB3OFJhRnZFOUloTDZSWkczRkxhR0FDNEtZN3BCdks3SDR2Zk1JakhOM2FwcjhhTW1sajhqRUNyR1IydzVYZG15cFVjYUZVQjVZWmdBVk9fbUlUUm1KQm13Qi1VV2ZiaExoNDloUnhZeVI0Y0xR?oc=5",
+      "content": "1 Top Warren Buffett Stock for Dividend Investors AOL.com",
+      "fingerprint": "a3e4cfba86bff4db58e3dd1e6612c1bf9a2ba99cb9c7568a41dd0a7a61b72674",
       "seen_count": 1,
       "sources": [
         {
@@ -911,10 +749,82 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Chubb Limited $CB Stock Position Decreased by Smith Chas P & Associates PA Cpas - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMDFZRDdLVmMxMm5oZXFfQ2Z0V3lZekVRbzFOcUphUEp5Tmo0RDJzaFBwbXhHRzdGQmVyOVlHcmlPMEdHZ0pjSUNLdHprSC1tYmdTVHJRSG83TzBfT0ZnVHFUc3dwRUtSR3BEYjZKRzkzMFVWcGl6R296aXVpR0dhZkp4cGZZaWtFbUJITGZaenQ2Wmd1UHZFODBFcTFRS0NHWXVoSGcwZWRhQVY4d0VzOHpJaDk0SlIzVWtteTN1QmJjR2ExNWdleTNyNFRwVWs1S0pz?oc=5",
-      "content": "Chubb Limited $CB Stock Position Decreased by Smith Chas P & Associates PA Cpas MarketBeat",
-      "fingerprint": "48f86846e17c6dbe48249070969c78abb5abcd623deae5256b3840c0a336598f",
+      "title": "How Upcoming Earnings At AmEx Stock Has Changed Its Investment Story - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcjFpX2kzWFI1MmJUZTlUNUFxX2ZjWXNtTkpvb0JoanlaeFpTS0VBanlTTy1iTmdvTEUzZXAyUW1TNEgxTWQ3WDlVcWRoeGZpTjZDcVNZclRhUW5GVjJsREYxRVdSVDRURXh3Zm1RM3VvZS1YQ0d5cmpfeEctQ0ZEWnl5T3M2bEpFMlM2aVEzYVk2RldOckVIUS1aMlBobWktOE9CZ2dFclBzWkNsaU5aV0Jmd0VBY0ZCUGlUSm5HX2U5NDMtWlBpWW13VDFJOTh1ZnhjTWUyNXRNTUQtSGJz0gHkAUFVX3lxTE9hZWJIWnJJbnFDTzdMTWstenl5OTgwYy1hTjFyY1JUOWtDYUN6eWdRUFRuZHlfUk03NVZQYXpFb0gzLVlPN3BHTF9TTU1IRWtjWGNhb2N3WDZVNi1qSExnLU5sd1BFYlVIU3BTb2NtLUVDYTlLVW8yY1Qyb3FVMmFzNnIxdzdKUF8zbl9oTXE1Z1NiMUs3TlN6RlJLVWlFMFZkVThzcEVvNDFoU0VtejFXVVpXV05SNFhESDI4czNLdTBwOGlSOW9VYzRfLWpWTXc2S2pYWE5wV3dyQ3Jja2NYcDdDNw?oc=5",
+      "content": "How Upcoming Earnings At AmEx Stock Has Changed Its Investment Story simplywall.st",
+      "fingerprint": "6b7ba2083a04536719fc36b7dce736b1aee5603289f381230c169bcd93ea62c0",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Phillips 66 Share Price - PSX, RNS News, Articles, Quotes, & Charts (NYSE:PSX) - Proactive financial news",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdldSYm5IcTU0N1NPQ1pqN2FzWUVzU24xVnlsVzZjQzhaLV93ZldPLUdyVWVGcjZnZmtsVlRLRFVPVmpXRnVBWVlQUzZJVHpaMGNFTlJNekNyTF9acHpXMGJ1UTdzWUdXZzdfcVl3?oc=5",
+      "content": "Phillips 66 Share Price - PSX, RNS News, Articles, Quotes, & Charts (NYSE:PSX) Proactive financial news",
+      "fingerprint": "8ae05b9577b3e27cfd50cc0846e621bf1c9b20acf37b865cb96ed6930fee3c49",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Abel's US$20B buying spree at Berkshire - Money.ca",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSC1DeVRRRzJGbWdMUGI1c19OQUtiZlJxNFp4cU91VHJfb2lTNmZ2OU9sdTRDS293UUFmRnJibzEzbzZXS0xXNUpEc3RkYW5MaG1zYzM1a051cV9kM2JRT3JYOWk2eHE1SHNoNzVOMFFvNTdZYnEzdTRMNkkzSHZ4ZThlbk02YnBIeVBJWQ?oc=5",
+      "content": "Abel's US$20B buying spree at Berkshire Money.ca",
+      "fingerprint": "cb70dcd87edbe3d05e20ad68a2a46860b4bc947f838e14c03781d60b66dd72fb",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Buffett's 2016 Precision Castparts buy now valued near $100B amid aerospace demand surge - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT3NoUU1QQktudUxWT2tpck9jRHhEb3NaRWVIT29JcXEzNG5TZE1oUkNsZGR2UERXd29wMml1dXVFSm5nb3NzQnJ4ZFdBQktRNkxEbEJEWUJ2aUpPT096TE9HcXBSQ25kWGlyUGxfZ1VBU3dqa3c1dUtnRDFqeWpGbU5RRVFOLWp1Q1JrR1JBbzdUXzJzSW1UQy1Kdk9CZWN2RzE4Vw?oc=5",
+      "content": "Buffett's 2016 Precision Castparts buy now valued near $100B amid aerospace demand surge Pluang",
+      "fingerprint": "0d7320b871d223263be9e8b37723e8357999ed7a54b265df69e9a597063fcdb6",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "‘Money has no utility’: Warren Buffett prizes 1 personal asset above all else — here's how you can take advantage of it - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUXRhNzdjcWZrYnktQkxYWWZteVVGR0F5eUZqLWJPMnBqYUZTck1ITGNFNjQ4bGxCUjQ2NzFOY0NkTmdLRXc1UVJMelpZc2pHNkpvRWlSM3pWM3U4RThLT1pVUEhvWVo4UmZHMGpBYWZXQnVpSmRUbzFVRHZ5RmVJZw?oc=5",
+      "content": "‘Money has no utility’: Warren Buffett prizes 1 personal asset above all else — here's how you can take advantage of it AOL.com",
+      "fingerprint": "637be67dcb9f98e530db6948b37c432e7a1f9aaa0456ecaf83f28cdd5bf45931",
       "seen_count": 1,
       "sources": [
         {
@@ -935,24 +845,6 @@
       "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "content": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "fingerprint": "968c32634dc2a1cb83f007064d0bd309276c504696b107928b2bc3d51ba9601b",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "OpenAI News",
-          "tier": 1,
-          "role": "primary"
-        }
-      ]
-    },
-    {
-      "source": "OpenAI News",
-      "category": "AI",
-      "tier": 1,
-      "role": "primary",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "content": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "fingerprint": "4aeb82da9975e2f5f564fba46674441b8ef455135ac302c60f8f7eb501572ba0",
       "seen_count": 1,
       "sources": [
         {
@@ -5879,18 +5771,144 @@
   ],
   "Technology": [
     {
-      "source": "MIT Tech Review",
+      "source": "Technews 科技新報",
       "category": "Technology",
       "tier": 2,
       "role": "professional",
-      "title": "Roundtables: AI’s apocalypse crisis",
-      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "content": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction fears: where they come from, whether they hold any water, and, if so, what we should do. Register now Going live on Tuesday, September 15 at 16:00 BST / 11:00am EST / 8:00am PST Speakers: Niall Firth , executive editor, Will Douglas Heaven , senior AI editor, and Grace Huckins , AI reporter Related Stories Here’s why AI agents lie and cheat to reach their goals AI’s recursive self-improvement might not come so quickly after all Bill Gates says we’ve passed AI’s danger thresholds. Now what? The inside story on why OpenAI agents hacked Hugging Face",
-      "fingerprint": "70d2b5e1fab497fac99dcf19bff48eb562a2a152327fd470030a9af6233fca63",
+      "title": "電腦到底多久該關機？專家解析「重新啟動」的最佳時機與關鍵好處",
+      "link": "https://ccc.technews.tw/2026/09/12/necessity-regularly-restarting-computer/",
+      "content": "許多現代人習慣讓電腦長時間待機或直接進入睡眠模式，久久才關機一次。然而，最新觀點提醒，定期將電腦「重新啟動」依 […]",
+      "fingerprint": "84be24bf333afb276e72cb3f37dd614464dd071374b76e76e1e817a283664ada",
       "seen_count": 1,
       "sources": [
         {
-          "name": "MIT Tech Review",
+          "name": "Technews 科技新報",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Technews 科技新報",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "鐵路跨得過國界，預警卻跨不過？一場山洪突顯中尼「一帶一路」的防災困境",
+      "link": "https://technews.tw/2026/09/12/why-china-nepal-climate-data-sharing-is-stalled/",
+      "content": "2026 年，一場突如其來的山洪，讓喜馬拉雅山區的災害風險再次浮上檯面。 對尼泊爾而言，這場災難帶來的問題並不 […]",
+      "fingerprint": "3a676cb5cbcf2c28d6e9a50887d5eadfe8c5f2569e241525de76de47d608cbd5",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Technews 科技新報",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Technews 科技新報",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "從產線到舞台！2026 日月光好聲音各廠區員工同台獻唱",
+      "link": "https://finance.technews.tw/2026/09/12/employees-from-all-factories-of-sunmoonlight-music-group-performed-together-on-stage-in-2026/",
+      "content": "日月光文教基金會與日月光集團聯合職工福利委員會共同主辦的「2026 日月光好聲音」於9月11 日在日月光高雄廠 […]",
+      "fingerprint": "bfac642569e7427a77de46154b6e77077dc674089d8bf3014fdc07820861af58",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Technews 科技新報",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Technews 科技新報",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "小時候多動長大真的比較不累，實驗證實幼年運動習慣決定一生的「耗能」",
+      "link": "https://technews.tw/2026/09/12/childhood-exercise-habits-permanently-alter-body-energy-expenditure/",
+      "content": "一項由美國賓州州立大學（Penn State）領導的最新動物實驗發現，發育期的身體活動量，可能會永久改變生物移 […]",
+      "fingerprint": "7a309cbc20fc026ee9820bf0a4cab1aa373bbe3fef74ea577aeecdca67c8ac6a",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Technews 科技新報",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Technews 科技新報",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "SEMICON Taiwan：薩克森邦定位為全球半導體產業的歐洲首要樞紐",
+      "link": "https://finance.technews.tw/2026/09/12/semicon-taiwan-saxony-europe-premier-semiconductor-hub/",
+      "content": "在 SEMICON Taiwan 展會上，德國薩克森邦展示「Silicon Saxony」這座歐洲規模最大的微 […]",
+      "fingerprint": "73ca1be94a265f2d2622877511c58e59980cc4589a7fe50a4707f4ec8fc37cfa",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Technews 科技新報",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Technews 科技新報",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "國際巨頭夾擊，HTC／宏碁／佐臻以品牌、PC 生態與白牌三路搶進 AI 眼鏡市場",
+      "link": "https://technews.tw/2026/09/12/htc-acer-jorjin-ai-glasses/",
+      "content": "Meta、Google 與三星等國際大廠接連發力，智慧眼鏡正掀起全球穿戴市場的新熱潮。面對國際巨頭夾擊，台灣科 […]",
+      "fingerprint": "cdefd1e2e2e649e5da3513d31028107e1dae945d734bf8cbc200aace46394bf3",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Technews 科技新報",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Technews 科技新報",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "安永豪擲億元投資「人類大腦」，AI 技能防線成創投新寵",
+      "link": "https://finance.technews.tw/2026/09/12/ey-invests-human-brain-ai-skills/",
+      "content": "安永（EY）美國分公司近日宣布，將於本財政年度斥資 1 億美元推出全新的員工獎勵計畫。該計畫旨在表揚於 AI  […]",
+      "fingerprint": "4921a89594a5ab28634f8bff367a373fa26699dbefab0e30adab47924e769737",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Technews 科技新報",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Technews 科技新報",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "台積電 CoWoS 產能供不應求，聯電、Amkor 等受惠 AI 訂單外溢",
+      "link": "https://technews.tw/2026/09/12/tsmc-cowos-capacity/",
+      "content": "根據市場消息，台積電可能在 2028 年將 CoWoS 產能提升至 2026 年水準的兩倍，由於產能擴充需要時 […]",
+      "fingerprint": "ea141844fc10d44c1db81f9a475732cdb2f675d2583c28881711292fd350a54f",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Technews 科技新報",
           "tier": 2,
           "role": "professional"
         }
@@ -6095,90 +6113,36 @@
       ]
     },
     {
-      "source": "Technews 科技新報",
+      "source": "Digitimes TW",
       "category": "Technology",
       "tier": 2,
       "role": "professional",
-      "title": "台積電拋 STCO 大計：先進封裝要「一起解題」，不再各自為政",
-      "link": "https://technews.tw/2026/09/12/tsmc-stco-concept-aims-to-integrate-taiwan-semiconductor-supply-chain/",
-      "content": "國際半導體展期間，台積電拋出「系統技術協同最佳化」（STCO）概念，正面迎擊先進封裝領域面臨的眾多挑戰，也被台 […]",
-      "fingerprint": "730817dd1b97344085479986626b23f3326d59827de051d13eb5a15ffd18ba59",
+      "title": "週末新聞速寫：NVIDIA有望成為Anthropic錨定投資者｜iPhone Duo引爆消費者興趣｜UAE因中東戰事重新評估資料中心規畫",
+      "link": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768297_ECJ1CLRMLC3Z3X6HM2PJK",
+      "content": "Credit: DIGITIMES",
+      "fingerprint": "2801c4c5539aefcefed51cb73d6178d542b05be13a670404b5f043aaec028373",
       "seen_count": 1,
       "sources": [
         {
-          "name": "Technews 科技新報",
+          "name": "Digitimes TW",
           "tier": 2,
           "role": "professional"
         }
       ]
     },
     {
-      "source": "Technews 科技新報",
+      "source": "Digitimes TW",
       "category": "Technology",
       "tier": 2,
       "role": "professional",
-      "title": "尋找「黑洞毛髮」，日本學者提出利用重力波振鈴衰減探測暗物質新法",
-      "link": "https://technews.tw/2026/09/12/new-method-to-detect-black-hole-hair/",
-      "content": "當兩個黑洞合併後，理論上新形成的黑洞會產生振盪，並以重力波形式逐漸衰減，這段過程產生的重力波訊號特徵稱為「振鈴 […]",
-      "fingerprint": "1f1aee878473b15bfeb887de5c28b4e0300436cac6bf87d02cbf1f2b80ed4262",
+      "title": "力晶創辦人黃崇仁公祭　總統賴清德親蒞致哀並頒褒揚令",
+      "link": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768298_LBX16VIPL5GG0A7705F5D",
+      "content": "Credit: DIGITIMES",
+      "fingerprint": "9cad6d294bd034d1dfbd46a8d83c825d3c69e3e8652c7b12a1b593e4ad04daaf",
       "seen_count": 1,
       "sources": [
         {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "AI 加衛星影像即時監測，北極永凍土融化再也藏不住",
-      "link": "https://technews.tw/2026/09/12/scientists-are-using-ai-to-track-permafrost-thaw-as-arctic-lakes-vanish-in-hours/",
-      "content": "科學家正利用人工智慧與衛星影像，近乎即時地監測北極永凍土融化的跡象，因為在部分地區，湖泊可能在短短數小時內突然 […]",
-      "fingerprint": "c6c287a4633ea13b0383d7488b61f5c85c98a57f4006467529bae6a9a110b059",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "粒線體代謝會改寫 DNA 包裝，找到「殭屍細胞」推動慢性發炎機制",
-      "link": "https://technews.tw/2026/09/12/zombie-cells-rewire-their-metabolism-to-fuel-inflammation-as-we-age/",
-      "content": "美國 Sanford Burnham Prebys 醫學研究所與妙佑醫療國際（Mayo Clinic）等機構的 […]",
-      "fingerprint": "551cf9b86edfefeed710b669a610fe00223dc66ac48949145bd507c0f2fb7353",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "TechOrange",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "【政府 AI 轉型下一步】64 國建好數位身分只是起點，AI 代理正在改寫政府服務方式",
-      "link": "https://techorange.com/2026/09/12/government-trends/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-      "content": "德勤政府洞察中心（Deloitte Center for Government Insights）發布《2026 全球政府趨勢報告》（Government Trends 2026），內容指出，AI 技術加速演進、財政日益緊縮，加上跨部會協調的複雜度提高，讓傳統的局部改革、組織微調，以及把紙本流程搬上網的數位化工程，都已經走到極限。 領先的政府因此把目光轉向「政府作業系統」的全面重組，重寫底層的規則、工作流、決策權與學習循環。以下報告摘要，將剖析政府如何從基礎建設、組織架構、技術治理到法規制度，展開這場全面重組。 📎 這份報告適合誰閱讀？ 報告探討政府作業系統的重塑、數位基礎建設與 AI 代理的結合，適合以下幾類工作者閱讀： 政府與公部門中高階決策者（機關首長、政策制定者） 政府資訊主管與技術人員（CIO、IT 領導者、系統架構師） 法規監管與法務規劃人員 公部門採購與財政管理人員 組織變革與人力資源專家（公部門 HR） 🔴 報告洞見 AI 代理實現 「政府已經知道」的主動服務模式 過去政府提供補助或福利，多半要靠民眾自己申請一次，政府才會在後台跨部門把資料傳給對的單位。換句話說，不申請就領不到，責任在民眾身上。 現在情況有機會反過來。以醫院登記出生為例，AI 代理能自動核對新生兒與父母的身分，試算應得的津貼金額，家長只要在手機收到通知時按下「一鍵同意」，錢就直接撥入帳戶，不需要主動跑申請流程。 這種能自己判斷、跨系統協調、在設定範圍內完成決策的 AI，就是 代理型 AI，它讓施政體驗從「民眾主動告訴政府」，進化成「政府已經知道」的主動服務。 但要做到這種無感、主動的體驗，背後需要兩項基礎建設撐著：一是「數位身分」，讓政府能安全確認「這是誰」；二是「數據交換平台」，讓卡在不同部會、原本互不相通的資料，能安全、即時串在一起用。 截至 2025 年 12 月，全球已有至少 64 個國家奠定數位身分基礎，97 國擁有數位支付系統，另有 103 國正在運行數據交換平台。在此助攻下，愛爾蘭 MyWelfare 平台到 2024 年底已將 83% 的疾病福利與 98% 的醫療福利申請，交由 AI 自動審核撥款；而阿布達比的 TAMM 平台透過多個 AI 代理安全串接 90 多個公私機構，提供超過 1,000 項「以市民生活事件為核心」的一站式服務。 政府內部怎麼跟上？ 有了數位身分與數據交換平台這些科技底座後，政府內部的運作方式，要如何配合改變？ 具體做法，是先把政府的日常任務拆成兩類：一類是「Run（日常維運）」，這是高重複性、標準化的行政工作，追求極致效率，適合交給自動化與 AI 執行；另一類是「Grow（變革協作）」，這是突發、複雜的新興挑戰，需要跨功能團隊動態解決。 這兩類任務，各自需要不同的支撐方式。 Run 靠的是共享平台。 政府需要把身分驗證、數據交換這類基",
-      "fingerprint": "7dd2754dcf7cd8bad454878175619050ce2268bfdd3920c2d990e0251bddd66c",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "TechOrange",
+          "name": "Digitimes TW",
           "tier": 2,
           "role": "professional"
         }
@@ -6209,10 +6173,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "Elon Musk is Running a Fake Voter Registration Site Designed to Steal and Sell Data",
-      "link": "https://www.reddit.com/r/technology/comments/1wdtwyl/elon_musk_is_running_a_fake_voter_registration/",
-      "content": "submitted by /u/esporx [link] [comments]",
-      "fingerprint": "7ecf19e62ec22d32286e55869f28ef874ed72576280f250a9e1045d69c26658c",
+      "title": "Wiki documents at least 44 instances in which Sony says you own your games as digital games ownership lawsuit progresses — project is direct assault on Sony's claim in recent ownership lawsuit",
+      "link": "https://www.reddit.com/r/technology/comments/1wee4t5/wiki_documents_at_least_44_instances_in_which/",
+      "content": "submitted by /u/yourfavchoom [link] [comments]",
+      "fingerprint": "882cf23bc1a50e508ec005010f9db18b6a7b17b84f923b48e5bef40a1547b31d",
       "seen_count": 1,
       "sources": [
         {
@@ -6227,208 +6191,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "SpaceX sues to block Texas from releasing Terafab tax-break records",
-      "link": "https://www.reddit.com/r/technology/comments/1wdj8x9/spacex_sues_to_block_texas_from_releasing_terafab/",
+      "title": "A flawed system and one man’s hubris cost Meta shareholders $17 billion",
+      "link": "https://www.reddit.com/r/technology/comments/1weaon3/a_flawed_system_and_one_mans_hubris_cost_meta/",
       "content": "submitted by /u/ArgentineBeauty [link] [comments]",
-      "fingerprint": "06ca4aba8424c4dd9db70451b3b9e2d819d52ff24e9ee372e3b854093f8ce5da",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "Californians projected to spend $675 million on OnlyFans this year: study",
-      "link": "https://www.reddit.com/r/technology/comments/1wdreff/californians_projected_to_spend_675_million_on/",
-      "content": "submitted by /u/Kymmieuwu [link] [comments]",
-      "fingerprint": "244b9c099a6d722cee5ec58ac514d795eda03a73f1583bec6c184ebaa610e1e3",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "Texas Republicans Rolled Out the Welcome Mat for Data Centers. Their Voters Are Tearing It Up.",
-      "link": "https://www.reddit.com/r/technology/comments/1wdmr4t/texas_republicans_rolled_out_the_welcome_mat_for/",
-      "content": "submitted by /u/IKeepItLayingAround [link] [comments]",
-      "fingerprint": "4cfa9bf566dc61dfe005105ab967fdbdd3081a00ff6d428b8222cdf99636ffcd",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "‘We Did Not Invite You.’ Citizens Rage at Town Hall Over Proposed Nuclear AI Data Center / The University of Michigan is partnering with Los Alamos National Labs to build a massive data center in a small Michigan township. The residents say they were never consulted.",
-      "link": "https://www.reddit.com/r/technology/comments/1wdh2yj/we_did_not_invite_you_citizens_rage_at_town_hall/",
-      "content": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
-      "fingerprint": "f427af8bb9c4846b9b07e08502c1c3dddf458ffb145b1bc8a04fab375615cce1",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "Crypto entrepreneur pardoned by Trump donates £36 million to Farage's Reform UK",
-      "link": "https://www.reddit.com/r/technology/comments/1wdtfms/crypto_entrepreneur_pardoned_by_trump_donates_36/",
-      "content": "submitted by /u/Puzzleheaded_irl [link] [comments]",
-      "fingerprint": "154cce779633dedc45c30b60fb7464f6d88c24ce900fbe4333b698c5c5e1979e",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "Google’s emissions shot up 48 percent over five years due to AI",
-      "link": "https://www.reddit.com/r/technology/comments/1wdiooj/googles_emissions_shot_up_48_percent_over_five/",
-      "content": "submitted by /u/Abbiss_ [link] [comments]",
-      "fingerprint": "e4dd133cf9c2a59378937ffd394f84a80f05de988931d73052821e207e242189",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "The White House calls Truth Social the ‘most powerful and popular’ social media platform / YouTube and Facebook are the world’s most popular platforms with billions of active users, while Truth Social traffic has declined.",
-      "link": "https://www.reddit.com/r/technology/comments/1wdlg7j/the_white_house_calls_truth_social_the_most/",
-      "content": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
-      "fingerprint": "fb76cd8927265f78d0729500be6a0a66c54739b6280e5e46d140e210c5125466",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "‘We really do earnestly believe AI could kill all humans’: if AI labs are so worried about AI doom, why don’t they stop?",
-      "link": "https://www.reddit.com/r/technology/comments/1wdwqql/we_really_do_earnestly_believe_ai_could_kill_all/",
-      "content": "submitted by /u/Silent-Resort-3076 [link] [comments]",
-      "fingerprint": "8f96daed961d6080e1eb21ea2c617c6b61965e18af3a631a98c9f69f34bc7f7a",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "Verizon Quietly Ends the 3-Year Price Lock Guarantee for New myPlan Customers",
-      "link": "https://www.reddit.com/r/technology/comments/1wdqmb2/verizon_quietly_ends_the_3year_price_lock/",
-      "content": "submitted by /u/thinkB4WeSpeak [link] [comments]",
-      "fingerprint": "6b9e3cb785fb1702a992d6487ab2bc6cf240545c3fcdc112e804c1ee8cdefa50",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "Despite Pledges From Musk, Child Sexual Abuse Material Persists on X",
-      "link": "https://www.reddit.com/r/technology/comments/1wdhukc/despite_pledges_from_musk_child_sexual_abuse/",
-      "content": "submitted by /u/Sainteria [link] [comments]",
-      "fingerprint": "83d010a84258bba593ad33f7771ca2bf679e4ed4690257ed08f7d60412c6c007",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "Microsoft Triples Data Center Capacity, Exceeding New York's Power Demand",
-      "link": "https://www.reddit.com/r/technology/comments/1wduro8/microsoft_triples_data_center_capacity_exceeding/",
-      "content": "submitted by /u/Zestyclose_Price7694 [link] [comments]",
-      "fingerprint": "6f2c8e5b96b7408978f88281c213c102231a5a6ee3bde1c10aeee400db77c55c",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "Anthropic Is Building AI to Predict Which Activists Police Should Watch",
-      "link": "https://www.reddit.com/r/technology/comments/1wdiily/anthropic_is_building_ai_to_predict_which/",
-      "content": "submitted by /u/IKeepItLayingAround [link] [comments]",
-      "fingerprint": "7c340532c73e4a683add54268d682dd4be9ff6be70e6be1421c32266235ba25f",
+      "fingerprint": "e9c8ca325ccb899017d0203258caa915d65cb8cb3b158a4365a0f8d295cb2001",
       "seen_count": 1,
       "sources": [
         {
@@ -6461,10 +6227,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-      "link": "https://www.reddit.com/r/technology/comments/1wds2dn/ai_power_users_claim_anthropic_duped_them_with/",
-      "content": "submitted by /u/serene_sketch [link] [comments]",
-      "fingerprint": "b96c39d561243a419f05a0e81947db91a73c35ede6a29307596022f284f66977",
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "link": "https://www.reddit.com/r/technology/comments/1web0ik/chatgptusing_lawyer_punished_for_citing_fake/",
+      "content": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "fingerprint": "13b99a668e9df2727baf0ac2be66b6f53c8df23d16de42ed51eaa712bc40c9e3",
       "seen_count": 1,
       "sources": [
         {
@@ -6479,28 +6245,100 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "Google’s Emissions Climbed 48% Since 2019. AI Is Why.",
-      "link": "https://www.reddit.com/r/technology/comments/1wdpotw/googles_emissions_climbed_48_since_2019_ai_is_why/",
+      "title": "25 Fields Medalist mathematicians warn of the dangers of AI in mathematical and scientific research and education",
+      "link": "https://www.reddit.com/r/technology/comments/1wedgsz/25_fields_medalist_mathematicians_warn_of_the/",
+      "content": "submitted by /u/DarkSkyKnight [link] [comments]",
+      "fingerprint": "4c68123560667806987f35b64fb8d046d219f244160b47fc7e687066d76ed15d",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "Polish prime minister: Poland to develop its own Starlink",
+      "link": "https://www.reddit.com/r/technology/comments/1we6pkj/polish_prime_minister_poland_to_develop_its_own/",
+      "content": "submitted by /u/SHORT_INFO_NEWS [link] [comments]",
+      "fingerprint": "f06d877f413b0264c4a535507dec75a321c9bed826353877efd99f0c8b3c8759",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "Postman killed the Free plan for teams in March 2026 - now only limited to a single user.",
+      "link": "https://www.reddit.com/r/technology/comments/1we9lxj/postman_killed_the_free_plan_for_teams_in_march/",
+      "content": "submitted by /u/Successful_Bowl2564 [link] [comments]",
+      "fingerprint": "0317ce06f6c8892d0ae52a94ef6bbf6438382aea50a3e6a300c0724c957e7089",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "After Google mapped an adult male fruit fly's brain, software engineers made it play Doom, Mario64, and Beat Saber",
+      "link": "https://www.reddit.com/r/technology/comments/1wdyy7x/after_google_mapped_an_adult_male_fruit_flys/",
+      "content": "submitted by /u/mepper [link] [comments]",
+      "fingerprint": "e1951bead9f76a523dce2d39a855e9ba42709e5e88cce5b34eeafe17cdb01a02",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "OpenAI's feud with mathematicians is only escalating",
+      "link": "https://www.reddit.com/r/technology/comments/1we521a/openais_feud_with_mathematicians_is_only/",
+      "content": "submitted by /u/joe4942 [link] [comments]",
+      "fingerprint": "012fee7eb85eb8d971a329aaa9c0325c7b8cfcd22c7aa578f2a79a0bd5c3cd76",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "Anthropic says it blocked state-sponsored attempts to use Claude for bioweapons research",
+      "link": "https://www.reddit.com/r/technology/comments/1we9pih/anthropic_says_it_blocked_statesponsored_attempts/",
       "content": "submitted by /u/Miserable_Phase_2519 [link] [comments]",
-      "fingerprint": "e1ab049a42c32ecf5c9dcc04b8415b8ba1d01abdc04fe3077669f3b17f6a8c7e",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "Russian plot to sabotage undersea cables with \"secret weapon\" foiled by NATO — clandestine op uncovers training exercise simulating deployment against infrastructure in Norway | The two lines are the world's largest undersea cables",
-      "link": "https://www.reddit.com/r/technology/comments/1wdpcqd/russian_plot_to_sabotage_undersea_cables_with/",
-      "content": "submitted by /u/ControlCAD [link] [comments]",
-      "fingerprint": "484a1e7331b1f0b821f1bf293f5b37cf6cf68ee870a9da0967ac5b6db04cc8cb",
+      "fingerprint": "ead178c9947621c04aabd5903969e4f576db3d6caa9da38e054c55650d8035d9",
       "seen_count": 1,
       "sources": [
         {
@@ -6533,10 +6371,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "aggregator",
-      "title": "UK economy grows by most since early 2025 on possible AI boost Click the link in the comments below. - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVmZFdlNBMjI2VnI1ZDhDU29HcHV5a0o3cXI3Y0FBcUUtZU1WTlF0dUZ0UUExcnBrQ254OGh6dDBaRjA3bjlURXJNMl9NLTZlRWlNd1ZzaUsyTGJ4aGNYQlRLeWJONkJOYWszaFlfVl95UnAtaUNsaktIREU0SV9QWDItSUxGNVRkUXBqdFpuUUJxQ3pHYnFjLWQ2d1V4ZUo0eFA0OE1aaVVsTTdyWF9EWUU3cS15bXg5aF9maGtBaWo2TVk3SGE1d195RFJFbWJiV3lF?oc=5",
-      "content": "UK economy grows by most since early 2025 on possible AI boost Click the link in the comments below. facebook.com",
-      "fingerprint": "89aa3d5d873ff9d692cf73f9e35dd46019ef193713fb7ca41e8df05fd2e089f4",
+      "title": "AI could supercharge economic growth by 2030, but knowledge workers might end up feeling the pinch | Artificial intelligence could significantly accelerate economic growth by 2030, but faster AI adoption may also put pressure on employment and wages of k - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc091NGpNenVtOTExRkQ1VzlPMVJBUlpzZ1VPeWFsSVFBWG5HZzhhdTJ5Q01GYS1jWmJWQjFxbFV6alI0TjVWYUZtWVhEWFRfV2wtM1N1ZG1TOUpGRVVKblVmQmx5ZWhGeWlKcklnS3c4bDhoSnc5TXlqYW42eUpqRnd3MmRQX1FjWWZkd0FhSl9YZlZVYXd0MjhDOTZGYlhWenhVWEJBQXUxTnRhQkFLTTltWWo1YURlZ1BxOWdNQ3c5T0QzdnVBY19mRWJWVzNIM0ctY1dMUDJCNm8?oc=5",
+      "content": "AI could supercharge economic growth by 2030, but knowledge workers might end up feeling the pinch | Artificial intelligence could significantly accelerate economic growth by 2030, but faster AI adoption may also put pressure on employment and wages of k facebook.com",
+      "fingerprint": "adc29c7b763b1425964721739dd0573872db08cc0e0e03cd086e0e081bcaa81d",
       "seen_count": 1,
       "sources": [
         {
@@ -6551,10 +6389,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "aggregator",
-      "title": "AI touches everything from jobs to the economy to our kids’ classrooms and beyond. We need to tackle a host of issues, but we have to start with the catastrophic risks posed by frontier models. That’s what my FRONTIER Act is focused on. Safety, transparency, - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbDRLZk5KVWM4bWJwaVRKSnBJa1RGTk9UZ1ZxUDFueTg4Zk5Ja1BLTVBzZVFQMlFFUDcyVWwzWE44Mm9zT1ZaRXlWbkk1NVU5YUhWV2VieEl3TjFSRTM5VUtEZTBSZ0dVTnNENkhFMlNJdFcxM1pzRERNM2ZsYU1GTGUybk5KQmt4QjkweTRjRC1MbkppeFdQbnhaT21FZFRLRXhMNXlGTGh2QzhQanJvalpkU050RWV6SlRpU0xSM1BnZWpwNy1NWU1ySEU3UDh2UlM4WGUxcUE4Y1k?oc=5",
-      "content": "AI touches everything from jobs to the economy to our kids’ classrooms and beyond. We need to tackle a host of issues, but we have to start with the catastrophic risks posed by frontier models. That’s what my FRONTIER Act is focused on. Safety, transparency, facebook.com",
-      "fingerprint": "6c0b7b9092e7e8571c7bec3448400a4fb7d631966a07e43dea228240a78749eb",
+      "title": "Tech layoffs 2026: As AI takes center stage, here's a list of major companies that laid off employees - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNzd4QkE3ZE9jZGdMSnFrQjU3V1BqOXk5MTFUNUdxWWt1VVhsUzQ4dUVSelZPY2NtTG1GWF9PZ3RxeEpnaDRvd3FLTDhHZEViLWJSb1BVVlN4eXhUeEFpS1dJc3NqZG54NjRtNkZ1NVVISEFpLVFtbGhPV3JOMHRLbTFleE5ZaVB6V2R4Y3pQSkI0MmJjcFdfSmFxQzZVZUNzSXpWTHBQb01Cd3hDMWJqT1JidjBKUmluTDNpeTcyQU5OUXBHZEJjSkZMNWN1ejVfcnFIYXp3?oc=5",
+      "content": "Tech layoffs 2026: As AI takes center stage, here's a list of major companies that laid off employees facebook.com",
+      "fingerprint": "79901d9fec127cf986fe2775a2fc83a7f197d575c545fb81ebf2ed65d749abe7",
       "seen_count": 1,
       "sources": [
         {
@@ -6581,6 +6419,24 @@
           "role": "aggregator"
         }
       ]
+    },
+    {
+      "source": "X/FB Social Trends (via Google)",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Oman’s AI Startups Surge 91% to 42 Companies by August 2026 -The artificial intelligence (AI) sector in the Sultanate of Oman is witnessing rapid growth, supported by national efforts to expand the use of AI technologies and applications across economic an - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLVRsZE02NUIwMDktcXNEMUlTdHQ0T2hMYTZ5eXdmTkpqZkN1QklHX2trYUR1WVRtWkl2QXItWnpxMWNIQW9VZ040UWhGUjVjdVZUNkphQnhmYTJGU2M4MFRMMEI2OWtiTEVnVVZFVTY2SjNCOVQ2cEJ5a0taT05zenFhRDg2NDJ4bE9mazNwT0RoNy1CMm9LdVVTVTRKZF9kdVpCZmhxY3NZOEV3TXpvNHZYM1d3UF83WXBvMUgwZjMzZGIxYTd4TVBiNnJyVzFNYVIxZUU0bFB3UQ?oc=5",
+      "content": "Oman’s AI Startups Surge 91% to 42 Companies by August 2026 -The artificial intelligence (AI) sector in the Sultanate of Oman is witnessing rapid growth, supported by national efforts to expand the use of AI technologies and applications across economic an facebook.com",
+      "fingerprint": "10dfee44aee7862c5098962658e9f8c0bdbf6e27309862c17dfa1f0abe62c3aa",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "X/FB Social Trends (via Google)",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
     }
   ],
   "TW Social": [
@@ -6589,10 +6445,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "[問卦] 台南火車站的臺鐵標誌為什麼沒對齊？",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789186149.A.0F9.html",
-      "content": "安安\n我阿肥啦\n如題\n最近 台南火車站 啟用了\nhttps://i.mopix.cc/0qrlg5.jpg",
-      "fingerprint": "0232a392a1d24a2953530c17ea02623d1fcfb916f35522862ac8d7fc0ac228be",
+      "title": "[新聞] 消防革命！16歲少女發明「聲波滅火器」將",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789226524.A.211.html",
+      "content": "備註請放最後面 違者新聞文章刪除\n1.媒體來源:\n中時\n2.記者署名:\n張威翔",
+      "fingerprint": "485992c6397bed1b466af34f2b25fbd945c492ab0f9bf2b7bfdf140cf0c06052",
       "seen_count": 1,
       "sources": [
         {
@@ -6607,10 +6463,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "Re: [問卦] 高雄同事：中指女至少有國安意識",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789186141.A.01F.html",
-      "content": "警覺這兩個字他們真的懂嗎?\n美國已經不可能介入台海戰爭，有覺到嗎?\n買的都是垃圾武器還不會到貨，有覺到嗎?\n缺兵嚴重、只有滿滿鍵盤網軍，有覺到嗎?\n一但戰爭不分前後線沒人能躲，有覺到嗎?",
-      "fingerprint": "ca48a7a29a4bc531377016c5a9095fb9cd8b3dd20edbe51eca5c44b0de7a2eed",
+      "title": "[問卦]戰鬥陀螺好玩在哪",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789226453.A.DB3.html",
+      "content": "太誇張了喔\n公園 超商 文具店 麥當勞\n看過有人玩\n還不只國中生國小生\n偶爾能看到中年肥宅",
+      "fingerprint": "a7a13d9b95a4be79de70d48e45e8ba2b4afe1d8514e9d702a566d63455c35c27",
       "seen_count": 1,
       "sources": [
         {
@@ -6625,10 +6481,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "[問卦] 醫院掛號敬老優先是合理的嗎？",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185959.A.152.html",
-      "content": "如題啦\n本魯在亞東掛號\n好像是高齡優先掛號權的關係\n所以號碼數比我後面的老人提早先進去診間\n是說我不趕時間",
-      "fingerprint": "4016b784f582fc538d7b2ac9f16fb079cdfd0ba8b13f6b900134cc175105878f",
+      "title": "[問卦] 台東跨年變三立得標？",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789226418.A.62E.html",
+      "content": "如果真的三立得標的是跨年\n那應該不會比去年精采了\n一堆人先訂好飯店民宿的會取消嗎\nhttps://i.imgur.com/EvQsc1s.png\n--",
+      "fingerprint": "78720a6b1b84d70501735746f3ddb481b4cfe27c1bfcf772b91b8de245030f76",
       "seen_count": 1,
       "sources": [
         {
@@ -6643,10 +6499,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "[問卦] 日本優衣庫買浮世繪跟卡通服的？",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185938.A.F0B.html",
-      "content": "如題啦\n之前在淺草優衣庫\n看到很多台男\n在逛浮世繪的踢恤\n還有日本卡通聯名服飾",
-      "fingerprint": "1950762a4bc8f91879b02e4b70071cf478b368056d7e0d53d44408aef755ac2a",
+      "title": "[問卦] 當年台灣很紅英國MG汽車為啥路上變少了?",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789226292.A.D76.html",
+      "content": "如提\n還記得前幾年MG剛引入台灣\n聽說排隊都要排很久才能拿到車\n為什麼才沒幾年感覺這牌子在路上越來越少見了?\n明明當年號稱是高CP的英國牌子的車子",
+      "fingerprint": "7725c56254885b2c9995d973b96a53b7da7412fd4dc18b258a5807fe5de50b9f",
       "seen_count": 1,
       "sources": [
         {
@@ -6661,10 +6517,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "[新聞] 基隆一家六口咳嗽腹痛 公寓水塔疑被倒",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185920.A.C59.html",
-      "content": "備註請放最後面 違者新聞文章刪除\n1.媒體來源:\n自由時報\n2.記者署名:\n記者盧賢秀／基隆報導",
-      "fingerprint": "68c82b1dea0d3f8ed605a575c39dd62e3c074be0e9bca8ea6f31888e6b72ea3e",
+      "title": "[問卦] 是什麼團體鼓吹少子化是正確的？",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789226276.A.A06.html",
+      "content": "少子化的議題\n最嚴重的是\n以後經濟負擔是收一個人的稅\n要負擔三份歲出\n還有長照跟國防上都會成為破口",
+      "fingerprint": "ac2a069be3d9d3726df86a8c201faa7ed3efa0ff116d79972d31431761ff5d96",
       "seen_count": 1,
       "sources": [
         {
@@ -6679,10 +6535,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "Re: [問卦] 軍武板：這仗我們不打，就是我們下一代打",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185800.A.50F.html",
-      "content": "軍武版那些喊打的  親自上場去打阿\n  不要一邊喊著要打+慫恿大家去打  一邊奔去認烏龜當乾祖先\n  別人的兒子死不完，對吧??\n--\n　　　　　 　　　　　　　　　　 恐　竜　　戰　隊",
-      "fingerprint": "e84a02652e97301bf7f57bb8fe07d031e1b721bb632fc3866720d4fac3061137",
+      "title": "[問卦] 八炯:以前戒嚴寧可錯殺 至少抓到共諜",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789226129.A.37A.html",
+      "content": "百萬訂閱台派網紅八炯哥，\n為了嗆有人提現在把人羈押類比以前戒嚴時代，\n八炯哥說，至少戒嚴時代寧可錯殺一百，\n至少有抓到那一個以上的共諜，\n不然台灣早就被滲透淪陷了。",
+      "fingerprint": "fe67a62232a764a14240d2e363a90e2019379b9d21fe74cbf5ed903aa8d6aca6",
       "seen_count": 1,
       "sources": [
         {
@@ -6697,10 +6553,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "[問卦] 光光的楓之谷短影片",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185738.A.221.html",
-      "content": "最近一直刷到\n楓之谷的短影片\n是一個叫光光的創作者在做\n裡面常常出現的\n阿泰爾 楓星",
-      "fingerprint": "2155e5c83193fbd6d6ac0c6018e3f57259267f4498259c0647763caef8d85ad0",
+      "title": "[問卦] LA轉機回台2小時53分夠嗎？",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789226121.A.8F9.html",
+      "content": "搭乘美國國內線\n在洛杉磯轉機回台灣\n行李有直掛\n而且不用再次過安檢\n轉機時間2小時53分",
+      "fingerprint": "3c9cbf8d6415540b663d0f3a69da77d0c6f20fe8065c8aa2e52d11759cb88441",
       "seen_count": 1,
       "sources": [
         {
@@ -6715,10 +6571,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "Re: [問卦] 脆：中山區即將蕭條？",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185734.A.0D7.html",
-      "content": "東區的蕭條跟赤峰街未來的衰落 原因是同一群人\n你們可知東區的店家面對的常常是三房東？\n這些老公寓的屋主不是老就是移民國外\n房子空著沒人整理照顧 於是幾十年前就有人出面開始包下這些一樓空房 隔間成許多店面\n空間加價出租 他們就是二房東",
-      "fingerprint": "1428e263437cee538080a2b12ea6e4d6ef99a200a05af4cb37fafd56943371f4",
+      "title": "[問卦] 為什麼單項協會如此猖狂目無法紀?",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789225792.A.5D9.html",
+      "content": "台灣的體育界，各項的體育單項協會充斥著，最近爆發的體操單項協會，在以前的瑞莎\n培訓小選手，遭到許多莫名的打壓汙衊和威脅；現在更可恥的是一個秘書長都可以決定選\n手們的參賽資格，無視於體育標準！在其他相對來說惡名昭彰的單項協會，有：網協、\n桌協、籃協；好不容易去汙名化成功的中華棒協，在辜仲諒和職棒聯盟會長蔡其昌的通力\n合作下，終於陽光遍地開花結果。但是其餘單項協會呢?掌握著各種資金代言權力甚至選",
+      "fingerprint": "eb8791e1e93f363ffb2abbe9de7188fc0272a0c16d8a51957ac15eaa631503f0",
       "seen_count": 1,
       "sources": [
         {
@@ -6733,10 +6589,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "Re: [問卦] 秦檜除了構陷岳飛 真的有賣國嗎？",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185720.A.5EF.html",
-      "content": "看你自己的立場阿\n如果你是和平派\n秦檜就是希望 和平協議+減少戰爭\n而且有遼宋澶淵之盟百年和平的例子\n如果能簽和平協議 換取百姓安居樂業",
-      "fingerprint": "3878381ce4837d64dc9ab9443e2ee7e72caaea60faf871c7bbb70364cab7ca66",
+      "title": "[問卦] 男生的死穴是什麼？",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789225580.A.4F5.html",
+      "content": "那個啦\n男生\n常常會累積情緒值\n在某個時刻爆發\n那通常會在死穴被點到的時候",
+      "fingerprint": "4ab5741b0c5d51612010f5c7cea1e422000aa77fc2b0d8153c8a02786dddeba8",
       "seen_count": 1,
       "sources": [
         {
@@ -6751,10 +6607,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "[新聞] 國人首次捐血率逐年降 20歲以下比率不到",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185626.A.299.html",
-      "content": "備註請放最後面 違者新聞文章刪除\n1.媒體來源\n公視新聞網\n2.記者署名\n賴淑敏 莊志成",
-      "fingerprint": "dc644892caa80ce74aba9cb4c9c9c7cbab3506f698adfea22be7587eb3f4cc65",
+      "title": "[新聞]影／赴日實測運動驛站！沈伯洋穿防彈衣：",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789225505.A.AD6.html",
+      "content": "影／赴日實測運動驛站！沈伯洋穿防彈衣：被中國通緝要對選民負責\n民進黨台北市長參選人沈伯洋昨出訪日本，今（12）日上午前往\n皇居走訪運動驛站，與跑者訪談，接著與神戶市議員上畠寬弘、\n奈良縣高取町議會議員新澤良文以及日本眾議員山口晉會面。\n沈伯洋表示，此行除了實地了解服務內容與租借流程，也蒐集台",
+      "fingerprint": "0b2a8fb26741399744537d7da8a88f53f3063ebb452794c09014fe0c1063ac0e",
       "seen_count": 1,
       "sources": [
         {
@@ -6769,10 +6625,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "Re: [問卦] 你是美光員工拿到錢會先做什麼？？",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185616.A.60D.html",
-      "content": "y※ 引述《Beanoodle (津崎似超人平匡先生)》之銘言：\n: 大家安安\n: 乳題\n: 這次美光為了安撫人心\n: 祭出了保底100萬獎金",
-      "fingerprint": "71e6165fce2562745bf4a333294b8a3e0414c1027a12a17803fc8b8ecdbbf6db",
+      "title": "Re: [爆卦] 25位菲爾茲獎(數學最高獎)得主對AI的聲明",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789225458.A.FBB.html",
+      "content": "大白話：AI算出來的東西太多，我們看不完，明明只是個輔助，誰叫你來搶魔龍拆主堡的？\n大概就是這個樣子。\n至於AI會不會取代人類？假議題，\n根本不可能!!!\n當年AlphaGo戰勝人類後，圍棋難道有消失嗎？",
+      "fingerprint": "39c31dae3845812a83ecdbbc29fb5b483c395fa9f568309189a83953304c502a",
       "seen_count": 1,
       "sources": [
         {
@@ -6787,10 +6643,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "[問卦] 每天日落後台灣會少掉283人你真的沒差？",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185566.A.D0B.html",
-      "content": "事情是這樣的\n剛看新聞 台灣現在每天少283人\n也就是你我每天看著日落後\n台灣人就少了283人欸\n只有我覺得很恐怖嗎",
-      "fingerprint": "21af76ca59bf27a1dbc014b16965166d7af547054490a1837ee8b9828a959979",
+      "title": "[問卦] DVD是怎麼知道規格不同的?",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789225157.A.7A8.html",
+      "content": "有些國家DVD規格不一樣\n像日本屬於第2區\n台灣屬於第3區\n所以買回來一般播放機沒辦法播放\n要用全區播放機才行",
+      "fingerprint": "2e2c4eb7a490f83c3701c5e01f9838493e631fecc3e0b2100f4f323602104ee4",
       "seen_count": 1,
       "sources": [
         {
@@ -6805,10 +6661,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "Re: [問卦] 台女對路人比中指，辯稱以為你中共派來的",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185489.A.E37.html",
-      "content": "https://youtu.be/giRqJys_OQ8?si=bKGdL8UKEltt-5Su\n其實就是在玩法西斯\n像是來來舞、\"我XX，我驕傲\"等口號\n其實都有塑造我們是集體、群體的做法的味道\n\"我們是「台灣人」，而別人不是\"，",
-      "fingerprint": "fa4b686be7e3b9206cc4edd398346728d193d8787449958ca91a33b5f30cc36a",
+      "title": "[新聞] 當選前答應做到3件事！蔣萬安被抓「承諾",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789224883.A.B7D.html",
+      "content": "1.媒體來源:\nTVBS\n2.記者署名:\n易軍堯\n3.完整新聞標題:",
+      "fingerprint": "5fd2e5f875ea99b2c351cc5f9b0fa0f83a87f0a74e0ac206f78f04abe5980a5e",
       "seen_count": 1,
       "sources": [
         {
@@ -6823,10 +6679,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "[新聞] 84歲謝雷忌口養生 做好遺產分配-10月開",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185461.A.99B.html",
-      "content": "84歲謝雷忌口養生 做好遺產分配-10月開唱戰袍傳給關門弟子廖柏傑\n〔記者陽昕翰／自由時報〕資深歌手謝雷過去歷經3次的生死關頭，對身後事早有安排，他\n強調今年84歲，已經透過法院公證，要將遺產分配給乾兒子謝小魚、謝小熊兩位繼承人。熱\n愛舞台的他10月要舉辦演唱會，現在每3個月都會到醫院做健康檢查，醫師則叮嚀他要戒吃\n最愛的雞肝、雞胗，為了養生他非常忌口。",
-      "fingerprint": "db1cedfcb765c0e92542cb9887f1f5d85626f0db2448790b1520a6b3b64f2da3",
+      "title": "[問卦] 週六晚上還是需要奶子吧",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789224803.A.146.html",
+      "content": "https://i.mopix.cc/AzBpUT.jpg\nhttps://i.mopix.cc/P1iFbs.jpg\nhttps://i.mopix.cc/BhQKuy.jpg\nhttps://i.mopix.cc/J1DL97.jpg\nhttps://i.mopix.cc/ce0adr.jpg",
+      "fingerprint": "ba3244c18d48ec4e2be696dc201588a659ca41ddb8c89f508aff61e2aa8f759e",
       "seen_count": 1,
       "sources": [
         {
@@ -6841,10 +6697,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "[問卦] 單親媽媽是不是被網路妖魔化",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185400.A.134.html",
-      "content": "人有的時候會選錯路\n選擇錯的人結合\n不適合而離開\n不代表另一個人是糟糕的\n只是她當初選擇錯人而已",
-      "fingerprint": "2983c9df2eb7caa7d38d892d511b696265d122188ac39031e0be8f21d524f3d7",
+      "title": "[問卦] 大家願意花300元解決一餐嗎",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789224798.A.282.html",
+      "content": "之前食用油的事情\n很多平常自己不煮菜的人，感覺都氣噗噗\n但是小弟的附近，最近開了一間標榜健康的餐館\n廚房是半透明的，意思是外界看得到廚房\n而且食物幾乎都是水煮 或煙燻",
+      "fingerprint": "7e3191a9a94b15062d3191d7ef10847440893da2f8f13403a01689c1bb54deb3",
       "seen_count": 1,
       "sources": [
         {
@@ -6859,10 +6715,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "[新聞] 俄駐台代表處放映抗日影片 引起台方警惕",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185384.A.D2E.html",
-      "content": "俄駐台代表處放映抗日影片 引起台方警惕\n德正\n德國之聲中文網\n據路透社報導，俄羅斯駐台灣的非官方代表機構邀請了約20位台灣賓客，向他們展映了一個\n有81年歷史的蘇聯影片，名為「粉碎日本軍國主義」。這引起台灣政府的警惕。台北方面認",
-      "fingerprint": "cf97e8c4299c22cc3028ce7ca926d596d14f9e6e8de60209980d9857bc4a5aac",
+      "title": "Re: [新聞] 沈伯洋上王偉忠專訪遭炎上　趙少康爆：",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789224759.A.50B.html",
+      "content": "剛剛查了一下\n居然已經破一百萬觀看啦\n怎麼辦啊？\n台灣需要第三位蔣總統ㄟ\nhttps://i.imgur.com/LJmStDI.jpeg",
+      "fingerprint": "701258beabb38195d04cf3afaac8b5350094fd03b0a39a50c39f8ed6a02472fd",
       "seen_count": 1,
       "sources": [
         {
@@ -6877,10 +6733,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "[問卦] AI如果覺得要毀滅人類也太笨了吧",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185313.A.D57.html",
-      "content": "Anthropic 那個事情\nAI如果會覺得要毀滅人類也太笨了吧\n人類多好騙 多好用 多好收買\n給他們錢 嚇唬嚇唬他們\n就乖乖當奴隸了",
-      "fingerprint": "2d124f29121cca7267cddd734549ed421804faaba4b7222ec5e6600733b0f9ed",
+      "title": "[新聞] 日本公園驚見「白色毒菇」大爆發！誤食",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789224727.A.E18.html",
+      "content": "1.媒體來源:\nNOWNews今日新聞\n2.記者署名:\n倪浩軒\n3.完整新聞標題:",
+      "fingerprint": "ca7f0a478763f46434d040e8b2d71e5ce1c71146eb36d2ee20ab92f15f823744",
       "seen_count": 1,
       "sources": [
         {
@@ -6895,10 +6751,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "[問卦] 顯示卡為什麼不開放自己換GPU, ram",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185188.A.E1A.html",
-      "content": "很奇怪捏\n主機板明明就是自己裝處理器跟記憶卡\n顯示卡為什麼也不這樣做\n買一個空板子\n看自己喜歡哪一種gpu",
-      "fingerprint": "0c739cadd0d00d504836b94aa570ab21f213fdf935a29dddc7e206b6de6b2ac6",
+      "title": "Re: [爆卦] 25位菲爾茲獎(數學最高獎)得主對AI的聲明",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789224663.A.50B.html",
+      "content": "因為那是AI用原本人類已經證出來的證明再證明一次\nAnthropic 的 AI 模型 Claude 在 2026 年 9 月僅花費 11 天，就將安德魯·懷爾斯（\nAndrew Wiles）在 1995 年提出的費馬最後定理（Fermat's Last Theorem）人類證明，\n完整轉譯並透過電腦程式語言 Lean 4 進行了形式化驗證。\n這是「發明新證明」還是「驗證舊證明」？驗證舊證明：AI 並沒有發明新的數學證明，",
+      "fingerprint": "ec4a6037346f44dfe9f7e7136ce0088495fac8cd0664846537d6d3ca54f760d4",
       "seen_count": 1,
       "sources": [
         {
@@ -6913,10 +6769,10 @@
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "[問卦] 無人駕駛車在中國還沒撞死人的八卦？",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185146.A.DF9.html",
-      "content": "一堆人譏笑無人自動駕駛或輔助駕駛技術\n總是說來台灣一定會有三寶好好的給它上一課\n可是大家不知道的是無人計程車在對岸已經上路很久了\n對岸的三寶比台灣更多更奇葩\n還有各種千奇百怪的碰瓷事件 或是高速公路逆向行駛",
-      "fingerprint": "7eb26157e128dba9390e4604e2f72a54c8d4810f5ccab7d8df81dc3255315cc9",
+      "title": "[問卦] 勃根地紅",
+      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789224628.A.287.html",
+      "content": "為什麼勃根會是紅色的?\n勃根18可以持續多久呢?\n勃根地紅會有很多女孩買單嗎？\n--\n※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 42.73.24.200 (臺灣)",
+      "fingerprint": "33e1a2fd40b908b0ae9d24c72df45c9652392a2720a6ec1a27917d6ecfad5c70",
       "seen_count": 1,
       "sources": [
         {
@@ -6927,18 +6783,360 @@
       ]
     },
     {
-      "source": "PTT Gossiping",
+      "source": "PTT Stock",
       "category": "TW Social",
       "tier": 4,
       "role": "heat",
-      "title": "[問卦] 爭鮮吃什麼才專業",
-      "link": "https://www.ptt.cc/bbs/Gossiping/M.1789185143.A.DEE.html",
-      "content": "要帶女生去過 週年\n要去爭鮮吃一頓好的\n兩個人預算400塊\n怎麼點才專業又吃得飽\n--",
-      "fingerprint": "bfb6e17194c7312bf082f4ea07075a43a82f1f44b7c78889fd6b4d19a0494ae3",
+      "title": "Re: [新聞] 兩位AI研究員離開Anthropic與Google因安",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789225366.A.A3F.html",
+      "content": "大人說話了\nhttps://darioamodei.com/post/we-must-pace-the-frontier\n這是眼戳屁的CEO達里奧剛剛發表的長文\n語重心長\n而且越說越恐怖",
+      "fingerprint": "b97d825162800409f89fd96f46053ce0685b7003f01bd37541e269cf936c1913",
       "seen_count": 1,
       "sources": [
         {
-          "name": "PTT Gossiping",
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[請益] 指數正二etf不能質押 國巨這種的卻可以",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789223736.A.6D4.html",
+      "content": "最近問券商\n才發現不接受指數正二etf做為質押標的\n想說7月那波大怒神\n也才跌3成\n國巨這種對折的反而可以質押",
+      "fingerprint": "0465841f712ab300b98b1d71571c107eb5538363d7646fa5baa4e715d9ecc129",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[新聞] 沙烏地輸油管線遇襲　川普：伊朗可能是",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789221668.A.129.html",
+      "content": "沙烏地輸油管線遇襲　川普：伊朗可能是幕後黑手\nhttps://www.cna.com.tw/news/aopl/202609120183.aspx\n2026/9/12 18:55（9/12 19:01 更新）\n（中央社都柏林12日綜合外電報導）美國總統川普今天表示，伊朗很可能是空襲沙烏地阿\n拉伯、造成其東西向輸油管線停擺的幕後黑手。這條管線是沙烏地繞過荷莫茲海峽（",
+      "fingerprint": "73f2a85e6485edda07785783b0e9aef8fd78e10ce850cde1d65a7588587a5fe0",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[新聞] 美聯準會下週升息機率逼近9成　「Fed傳聲",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789218505.A.381.html",
+      "content": "原新聞標題:美聯準會下週升息機率逼近9成　「Fed傳聲筒」預測至少升息3次\n原文連結：https://reurl.cc/RR2jrg\n發布時間：2026-09-12 10:24\n記者署名：桂家齊\n原文內容：",
+      "fingerprint": "35004287f91e6eb257624959ca3d52f56c9cfa2bf08fd00ef89aa803a999655b",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[新聞] 股票慘賠2億！韓40歲父「親手勒斃9歲兒」再墜20樓亡",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789218014.A.991.html",
+      "content": "https://news.ebc.net.tw/news/world/570838\n股票慘賠2億！韓40歲父「親手勒斃9歲兒」再墜20樓亡\n東森新聞 2026-09-11 18:58 責任編輯 紀心賢\n南韓京畿道龍仁市去年底驚傳一起父子雙亡案件，一名40多歲男子從公寓20樓墜落身亡，警\n40歲父親墜20樓 車內驚見9歲兒遺體",
+      "fingerprint": "c5bf1e08425a599b6c92f77b828fb390e660c94029e520931f7615005daeadff",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[新聞] 兩位AI研究員離開Anthropic與Google因安",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789211537.A.04A.html",
+      "content": "原文標題：\n兩位AI研究員離開Anthropic與Google因安全擔憂：「這個領域沒有大人在管。」\n副標題：\n在 Jacob Coxon 離開 Anthropic 的消息在網路上瘋傳並震驚 AI 產業後，又有兩名研究\n員挺身而出，表達他們對 AI 安全的擔憂。",
+      "fingerprint": "ffb9c9dc3495361535d77b3d957a93e7017c379f80e9eb02c5368746993c4ba4",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "Re: [新聞] 胡塞武裝攻占佩里姆島！荷莫茲海峽外再爆",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789210252.A.C9C.html",
+      "content": "我覺得真正的麻煩來了\n當初荷姆茲海峽不通，對原油\n運輸已經有很大影響\n那時想，至少還有紅海單邊可走\n但紅海曼德海峽口的佩里姆島，",
+      "fingerprint": "dfcf797d8875aa9f2d515c3713cb49ee3288aafe72a5faf1fe1f9f2e9ed868d5",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[公告] 水桶Duo",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789204172.A.6E3.html",
+      "content": "經AI大鳥守衛主動巡查，以下使用者熔斷數日\n1.\n違規人  ：A7777777Z\n違規文章：#1geaUK-E (Stock)\n違規條目：4-5-3",
+      "fingerprint": "3e20de4956ea4281430eb3b01d0244aa6ee2638d5d7840aabd48fd14e991e976",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[新聞] 胡塞武裝被曝用Claude Code替代工程師開",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789201169.A.D83.html",
+      "content": "原文標題：\n胡塞武裝被曝用Claude Code替代工程師開發飛彈！Anthropic：已封相關帳戶\n原文連結： 網址超過一行，請用縮網址，連結不能點擊者板規 1-2-2 處分。\nhttps://news.cnyes.com/news/id/6605037\n發布時間： 請勿張貼超過3天新聞",
+      "fingerprint": "b58e26aeff7908caec6b669ba19dbbddf7f6fec3c3ca466c6e0c768522325a00",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[標的] 2305 全友多",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789200504.A.535.html",
+      "content": "標的： 2305全友 \n分類：多 \n分析/正文：\n1.基本面：\n我請GPT整理了基本面的研究報告",
+      "fingerprint": "c52bb69fe38d0e165c11f5cdee80bef75acc195513af580243c05bcf8480b3af",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[新聞] 庫克承認了？蘋果看華為、三星才做摺疊iP",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789198005.A.9C3.html",
+      "content": "原文標題：\n庫克承認了？蘋果看華為、三星才做摺疊iPhone\n原文連結：\nhttps://reurl.cc/5X3rlz\n發布時間：",
+      "fingerprint": "eba47f458bc5de14196f031dab7276a0d33dde4b55410500f6715d49b5cc03fb",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "Re: [情報] 美國8月份CPI",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789194896.A.B6A.html",
+      "content": "其實歷史上升息如果不是連續性的\n股價通常都在漲\n股價終究還是看獲利\n本益比擴張抑制有限\n你差一碼折現下來大概股價差2%",
+      "fingerprint": "f4e8728b17dd16769113fb7690f78be1a16fe0467681c40719d1e9721457b0aa",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[新聞] 幾十年幾乎不賣股！艾里森突然要套現75",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789194524.A.557.html",
+      "content": "原文標題： 幾十年幾乎不賣股！艾里森突然要套現75億美元 甲骨文正為AI大燒錢\n原文連結： https://udn.com/news/story/6811/9750016\n發布時間： 2026-09-12 10:38\n記者署名： 經濟日報／ 編譯 劉忠勇／綜合外電\n原文內容：",
+      "fingerprint": "cd627426c720fbe0ff0baf3869b76d10dd2b0565693e07b207a2bca4993c52be",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "Re: [新聞] 偷用美 AI 翻車！解放軍要中國模型抓異常",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789194221.A.E81.html",
+      "content": "這就是AI Agent 的用法，我以為這都老常識了。\n利用多個AI 之間做左右互搏之術。\n通常正確率高的AI 的TOKEN價格都貴上天。\n利用比較便宜的AI 做性價比的工作，\n再由正確率高但貴的AI做最後的審核把關。",
+      "fingerprint": "6cd6113d57f3cd1807778604bef3977ee032551dd379ba8a31c39e8552aa2644",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "Re: [新聞] 偷用美 AI 翻車！解放軍要中國模型抓異常",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789193909.A.6F5.html",
+      "content": "這邊有幾個誤區想要解釋一下 首先這個世界大部分國家是法治國家\n比方說a/在那邊違反別人使用者條款 爬蟲別人的論壇 下載盜版書種子\n這些事情被抓到 在美國很明顯三件事情都上法院了 有幾個判決都出來了\n該賠錢的 不該賠錢的 都在幾百年歷史的英美法系留下了最新的判例\n(台灣是中華民國時代的採納的大陸法系基底下 吸收英美法系的特化體系",
+      "fingerprint": "447a0cc65e9245b128ab6450c41c80f729cf87928505f8658489ee17ef5d3a88",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "Re: [情報] 美國8月份CPI",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789192150.A.778.html",
+      "content": "停滯性通膨，到最後結果也是通縮\n經濟大蕭條\n長痛不如短痛\n1980已經有標準示範了\n撐個3年，就迎來大熊市",
+      "fingerprint": "996092225da49641f20c979746d769bc7f01e549b9fb42219688b9dd42771f48",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "Re: [新聞] 偷用美 AI 翻車！解放軍要中國模型抓異常",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789190082.A.44E.html",
+      "content": "有沒有蒸餾是一回事，但看到蒸餾就跳腳實屬可笑\n蒸餾技術 早就是成熟，且互相應用的事了\n現在的做法只是以打擊蒸餾為名，實行產業壟斷\n[新聞]微軟執行長抨擊AI模型業者榨取大眾數據，卻嚴禁他人「蒸餾」技術\n微軟執行長Satya Nadella近日將砲口對準當前的AI前沿模型開發商，暗諷",
+      "fingerprint": "c856535c3cd4a2dc6f5e39b8ac8fe9d5f950dc39cd0a36ed47933f05db0414c3",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[新聞] 力挺川普大灑幣5千美元！盧特尼克：美國",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789184928.A.23D.html",
+      "content": "原文標題： 請勿刪減或自創標題，違者4-1處分，此行請刪除\n力挺川普大灑幣5千美元！盧特尼克：美國只靠「兩種收入」即可，不會擴大舉債\n原文連結： 網址超過一行，請用縮網址，連結不能點擊者板規 1-2-2 處分。\nhttps://www.storm.mg/article/11164043\n發布時間： 請勿張貼超過3天新聞",
+      "fingerprint": "789f4237d67ca9f92531cbf563bb5494dcd46f31bf4a9614a35fafd8d2673f99",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[新聞] 台灣加密第一股：MAX交易所（MaiCoin）",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789183734.A.BDA.html",
+      "content": "原文標題：\n台灣加密第一股：MAX交易所（MaiCoin）母公司送件創新板上市\n原文連結：\nhttps://reurl.cc/WzbLgZ\n發布時間：",
+      "fingerprint": "fac84b49ba8d75156ecca6666c85ec7547d99abf08f669d46d4c117411333419",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "PTT Stock",
+      "category": "TW Social",
+      "tier": 4,
+      "role": "heat",
+      "title": "[新聞] 市場爆資金荒、借錢難　金管會、學者喊話",
+      "link": "https://www.ptt.cc/bbs/Stock/M.1789181909.A.598.html",
+      "content": "原文標題：市場爆資金荒、借錢難　金管會、學者喊話別擔憂\n原文連結：https://www.peoplenews.tw/articles/economic-news/54791\n發布時間：2026-09-11\n記者署名：劉 曉霞\n原文內容：",
+      "fingerprint": "f0613e68e9e54d155cc8a145dc44ca46adc1b6ffacec1bb9a066cc896e3246b9",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "PTT Stock",
           "tier": 4,
           "role": "heat"
         }
@@ -6979,42 +7177,6 @@
           "role": "heat"
         }
       ]
-    },
-    {
-      "source": "PTT Tech_Job",
-      "category": "TW Social",
-      "tier": 4,
-      "role": "heat",
-      "title": "Re: [請益] 上班發呆 跟 上班充實 年薪差50 怎麼選",
-      "link": "https://www.ptt.cc/bbs/Tech_Job/M.1789153191.A.AC1.html",
-      "content": "盲猜原Po在比種花vs GG\n我以前也是在種花  21年時看很多公司都越發越多就覺得想跑了  只是純軟沒多少地方可以\n去就去國外了\n到現在已經第二個國家\n不過其實去國外今年一看變得很雞肋了  要爽沒有在種花爽還不會被裁   要錢雖然帳面比G",
-      "fingerprint": "9533a7fc10d75a6f10e518371305362e7cb78dbdd65339fc33be6ee33f6cb2bc",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "PTT Tech_Job",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "PTT Tech_Job",
-      "category": "TW Social",
-      "tier": 4,
-      "role": "heat",
-      "title": "[請益] offer 請益 製程品保/綠色產品/廠務/EHS",
-      "link": "https://www.ptt.cc/bbs/Tech_Job/M.1789135580.A.2FA.html",
-      "content": "代po\n補充背景、薪資\n想請教大家，如果今天有以下 5 種不同方向的工作機會，大家會怎麼選？\n目前已有正式 Offer，現在是先進行評估，所以想趁現在先聽聽有相關經驗的前輩意見。\n（以下的缺全部都有常態加班需求）",
-      "fingerprint": "1993be6748fbb54f674573f7fd51797b384a7c8dbd5d6f5b81cafff77e5ae68e",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "PTT Tech_Job",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
     }
   ],
   "TW News": [
@@ -7023,10 +7185,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "癌男臨終無法自理算「失能」？ 家屬爭84萬理賠遭法官打臉",
-      "link": "https://news.ltn.com.tw/news/society/breakingnews/5571470",
-      "content": "臨終前生活無法自理算失能嗎？陳姓男子肺癌病逝，李姓妻子與孩子爭取84萬多的一級失能理賠金差額。高等法院台南分院認為，臨終惡化是邁向死亡的動態過程而非症狀固定，判家屬敗訴確定。\n...…",
-      "fingerprint": "577653d7c3f5b34e821e1ad4723b2131751d9b19f5ca259f2663f531c004ebf5",
+      "title": "車禍肋骨斷！爭取3連霸彰縣議員李成濟  坐輪椅拜票支持者打氣",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5572079",
+      "content": "爭取3連霸的民進黨彰化縣議員李成濟，日前在跑拜票行程時發生車禍，肋骨骨折住院，一度只能坐輪椅參加競選活動，經過連日來復健情況好轉。李成濟說，現在還會隱隱作痛，睡覺時只能側睡，也...…",
+      "fingerprint": "992e1a20606f9526d0648748f4a22620eaab7a4a045b0defcfab730bdb10035d",
       "seen_count": 1,
       "sources": [
         {
@@ -7041,10 +7203,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "極樂警署！日本男女警上班時間啪啪啪 還不忘嘗試車震",
-      "link": "https://news.ltn.com.tw/news/world/breakingnews/5571460",
-      "content": "有夠離譜！日本兵庫縣西播地區某警察署，有1名29歲男性巡查長於上班時間內，和21歲的女性巡查多次在署內啪啪啪，甚至還去警署停車場的車上翻雲覆雨。\n\n據《讀賣新聞》報導，兵庫縣...…",
-      "fingerprint": "23efd547bfc25301e22cd9c7f9e9155e39e2244bc4180774766572841c70f6f4",
+      "title": "小琉球推低碳永續旅遊 海廢裝置藝術驚喜現身",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5572060",
+      "content": "推動離島永續觀光與低碳旅遊，屏東縣政府今天在小琉球「小山看海藝文園區」舉辦「永續觀光論壇暨低碳成果發表會」，未來將邀請企業福委會參加低碳小旅行推廣小琉球新旅遊型態等，現場還有海...…",
+      "fingerprint": "f3c3b963dc091fe4210111dcbf3e693bbccf6ca669b0eb28db8548cf4db169cd",
       "seen_count": 1,
       "sources": [
         {
@@ -7059,10 +7221,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "TPBL》新北國王公布吉祥物「喜樂王子」將調降票價、啦啦隊還會有新成員",
-      "link": "https://sports.ltn.com.tw/news/breakingnews/5571473",
-      "content": "TPBL新北國王今舉辦2026-27賽季開季大會，喊出口號「For The Kingdom」，營運長齊文駿也宣布會傾聽球迷聲音，新賽季將調降票價。\n\n\n齊文駿今在開季大會...…",
-      "fingerprint": "8fb8744583c077d348c68378495d51dc60945aeb11fba4892c8a27d1dfc5744f",
+      "title": "川普：伊朗戰爭料在期中大選後結束  油價將大跌",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5572082",
+      "content": "CNBC報導，美國總統川普12日表示，與伊朗的戰爭可能在11月期中大選後不久結束，屆時油價將大幅下滑。美國期中選舉於11月3日舉行。\n\n川普在愛爾蘭行程中，面對伊朗戰爭何時...…",
+      "fingerprint": "7461029cf52b4b72994d03c59d7ca2f164b400ed7c9c3414e1090ada20050e51",
       "seen_count": 1,
       "sources": [
         {
@@ -7077,10 +7239,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "台灣大道豪宅前驚魂！不明油漬害3車連摔 3騎士衰「雷殘」怒報警",
-      "link": "https://news.ltn.com.tw/news/society/breakingnews/5571435",
-      "content": "台中市西屯區台灣大道二段11日下午驚傳「連環雷殘」，3名騎士因不明油漬接連自摔滑倒，有人失控滑行、有人倒地翻滾數圈，轄區第六分局今天說，警方獲報後已調閱監視器追查中，後續將追查...…",
-      "fingerprint": "d1ff727447db5b2374bec27636065003a153e2fbc46701746e1bad1cdfd4f9a1",
+      "title": "台中市路燈升級超節能 全年電費可望省下1.4億",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5572049",
+      "content": "台中城市照明節能升級再創效益！台中市建設局持續推動路燈汰換及節能升級，以高效率LED路燈取代老舊燈具，提升夜間照明品質之餘，更大幅降低用電量及電費支出，截至8月底已節省電費93...…",
+      "fingerprint": "ecb62844745d6662ce19c85aae7576083f3f0bdc388e8819c7b6beb9fec42a18",
       "seen_count": 1,
       "sources": [
         {
@@ -7095,10 +7257,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "台灣版iPhone 18 Pro電池容量曝光！Pro Max證實創歷代最大",
-      "link": "https://3c.ltn.com.tw/news/67569",
-      "content": "蘋果推出新一代 iPhone 18 Pro 系列，主打歷來最佳續航表現，其中 iPhone 18 Pro Max 的進步幅度尤其明顯。不過，蘋果向來不會直接公布 iPhone 的電池容量，如今透過歐盟公開的 EPREL 能效標籤，終於可以看到更具體的數字…",
-      "fingerprint": "cfbb5b573dad249a5c95d6c28458532124b9d38c4ecd0c64c6edf01c6cc14c3f",
+      "title": "李四川板橋造勢 侯友宜力薦「做代誌的品牌」接棒",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5572004",
+      "content": "國民黨新北市長參選人李四川今（12日）晚在板橋體育館舉辦首場大型造勢，剛開始湧入大批支持者、高舉標語力挺，迎接新北市長侯友宜、李四川進場；侯友宜致詞時力薦「做代誌的品牌」李四川...…",
+      "fingerprint": "e598765c46ede60fcce74ce93d98f3e8f6067192bce5c800c9717bb2f59e2d87",
       "seen_count": 1,
       "sources": [
         {
@@ -7113,10 +7275,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "高金「大帳房」張俊傑潛逃案 接應者陳俊翰移送北檢偵訊",
-      "link": "https://news.ltn.com.tw/news/society/breakingnews/5571467",
-      "content": "檢警持續追查立委高金素梅「大帳房」張俊傑潛逃案，查出張男逃亡期間疑有同夥沿途接應、陪同。專案小組擴大追查後，昨日下午在高雄再逮獲涉嫌協助接應的陳俊翰，並帶回新北市警局新店分局偵...…",
-      "fingerprint": "2c1b4920e16f1f16f38a4977840f68b52601ea064fcfa1edee45854ad2bf46e2",
+      "title": "連勝文、連勝武合體現身新北戰鬥陀螺賽 李四川PK小朋友宣布開賽",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5572050",
+      "content": "國民黨中常委林永泰主辦的新北戰神盃戰鬥陀螺總決賽今天（12日）登場，連勝文、連勝武兄弟首度同台力挺，並與新北市長參選人李四川及多位議員參選人同場為選手打氣。連勝武笑稱手抖奪得貴...…",
+      "fingerprint": "cdae6d5633230cef9fcabe1e32a78e352b2e4f2f1ea7437fdc6c584da25fd2ce",
       "seen_count": 1,
       "sources": [
         {
@@ -7131,10 +7293,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "射程400公里「磐龍彈」趕量產卻傳「有彈無兵」  海軍有保留說分明",
-      "link": "https://news.ltn.com.tw/news/def/breakingnews/5571474",
-      "content": "國防部「海空戰力提升計畫特別預算」預計在 2026 年底結案，其中代號「磐龍專案」的增程型雄風三型反艦飛彈目前正進入最後交裝的高峰期。據了解，這款被譽為「台版航母殺手」的...…",
-      "fingerprint": "638d0858d6a07f3392c55c7ade7bec681face75507c5bf663ce164e6d1e2c65d",
+      "title": "U18亞青》飆155公里壓制台灣隊！日本王牌織田翔希自認狀況不算好",
+      "link": "https://sports.ltn.com.tw/news/breakingnews/5572072",
+      "content": "第14屆U18亞洲青棒錦標賽超級循環賽，台灣隊今天遭到日本王牌織田翔希壓制，最終以1比2輸球，無緣冠軍賽。日本隊教頭岡田龍生賽後直呼，「孩子們都很努力。這1勝讓我高興的程度...…",
+      "fingerprint": "6c6c2352fa22bcfd32760fca7f9e98b58916e4245a5a7fcb713dbfda17b26249",
       "seen_count": 1,
       "sources": [
         {
@@ -7149,10 +7311,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "與弟積怨深 78歲兄縱火還潑鹽酸被收押",
-      "link": "https://news.ltn.com.tw/news/society/breakingnews/5571458",
-      "content": "草屯鎮郊區發生高齡兄弟吵架，78歲哥哥積怨已深，憤恨難消下潑灑汽油縱火，除了騎樓的雜物全燒光，客廳內家具都燒黑，火勢控制後，而老翁不甘心拿出預藏鹽酸，想要潑灑弟弟鹽酸，員警眼尖...…",
-      "fingerprint": "0c9b659e991686423ba2516b363f3bd01126b88cd779dc2ed4eb43868250a02d",
+      "title": "接應高金「大帳房」張俊傑逃亡  陳俊翰羈押禁見",
+      "link": "https://news.ltn.com.tw/news/society/breakingnews/5572081",
+      "content": "無黨籍立委高金素梅「大帳房」張俊傑潛逃案，檢警追查發現，張男逃亡途中疑有多人接力協助，昨在高雄拘提涉嫌接應的第2名同夥陳俊翰到案，據悉，陳男對安排張俊傑入住等情節，未能提出合理...…",
+      "fingerprint": "0293694328f4b1a39d7f7d7d824ef23c81a6cfbebf6c8c317757ea097ef06b69",
       "seen_count": 1,
       "sources": [
         {
@@ -7167,10 +7329,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "女子提分手後失聯 警追查監視器揭陽明山白骨命案",
-      "link": "https://news.ltn.com.tw/news/society/breakingnews/5571456",
-      "content": "台北市士林分局偵辦39歲鄭姓女子在陽明山遭殺害棄屍案，查出她與37歲周姓兇嫌是透過網路認識同居，但交往僅數月便屢生口角，鄭女在8月16日與周男談判當天慘遭勒斃。周嫌犯案後不斷開...…",
-      "fingerprint": "e8e2aba8502075dc8f6a9a86000dd2f3737addf79ad20e96e2187d680d1c5762",
+      "title": "訪愛爾蘭預言「終將統一」 川普惹怒北愛親英派",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5572080",
+      "content": "美國總統川普12日訪問愛爾蘭時說，他「樂見」目前由英國統治的北愛爾蘭與愛爾蘭統一，預期這件事「終將發生」，連說3次這會「很棒」。這番談話引發北愛親英派反彈。\n\n《路透》12...…",
+      "fingerprint": "926a3f5d9b02c15bf46963baec57c98b0ed9b63a3f04bc6e47c9777bf2dce5f2",
       "seen_count": 1,
       "sources": [
         {
@@ -7185,10 +7347,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "《玩很大》爆衝突！小鐘猛推男星「跌個狗吃屎」 咆哮怒嗆：真的很瞎",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5571465",
-      "content": "吳宗憲、KID主持外景節目《綜藝玩很大》，本週迎來火爆又混亂的一集。節目特別企劃邀請李易、小鐘、綠茶與KID組成「兄弟聯手」，共同對抗紅隊「紅魔王」，原以為能展開熱血合作，沒想...…",
-      "fingerprint": "316153119949866899d9504f55cb141a6b0a9c9128b040ff54d4eb0b0404e958",
+      "title": "遭中天打槍「輪不到被民進黨打壓」 周玉琴二度發聲交代內情",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5572078",
+      "content": "中天當家主播、主持人周玉琴日前驚傳遭資遣，引發外界關注，這兩天雙方一來一往透過聲明、直播回擊，各執一詞。中天否認外界所稱「受民進黨打壓」、「中天遞投名狀」等說法，更直言：...…",
+      "fingerprint": "df8982eabf84a22126ed718809da307b485cd0637bb04d2b7095e5cb493f37ed",
       "seen_count": 1,
       "sources": [
         {
@@ -7203,10 +7365,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "蘇巧慧土城學府市場掃街 攤商熱情高喊「全家都挺妳」",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5571464",
-      "content": "民進黨新北市長參選人、立委蘇巧慧12日前往土城學府市場掃街拜票，新北市議員廖宜琨、彭一書，在地樂利里長吳麗美，議員參選人吳昇翰、高乃芸，以及新北市議員卓冠廷服務團隊也前往共同掃...…",
-      "fingerprint": "2dc4cfaaf0fed635048a94aa9733ee56746a685551414e671d77c3f7d1760928",
+      "title": "台中營養午餐雙主菜加碼沒了  學生嘆菜色「從天堂掉地獄」",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5572069",
+      "content": "台中國中小學免費營養午餐上路，市長盧秀燕推開學「一週限定」加碼雙主菜，首日更全市統一吃「L型大雞腿」，但這週起菜色恢復「正常」，多名議員指出，不少家長反映學生稱午餐變難吃，形容...…",
+      "fingerprint": "87b09b7e7a56d23001a0b58b557ab9e96ab860366f49b7bd5fcf117e06f867d6",
       "seen_count": 1,
       "sources": [
         {
@@ -7221,10 +7383,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "柯志恩談「弘記肉燥飯舖」風波 籲理性看待勿出征",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5571457",
-      "content": "九合一選戰如火如荼，米其林必比登名店「弘記肉燥飯舖」，無端捲入民進黨籍高市長參選人賴瑞隆春聯遭撕毀風波，國民黨高市長參選人柯志恩今（12）日表示，每個人都有發言權利，但不該因個...…",
-      "fingerprint": "c5720e8f44b71a1b0159c7cc3fdbac42e1bbfd79031c9245822d2e1f25222d66",
+      "title": "金門書展「快閃」！ 展出兩岸8千冊圖書、文房四寶 明天最後一天",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5572039",
+      "content": "第20屆金門書展悄悄「快閃」，由於宣傳期太短，民眾幾乎不知情，展期只剩明天最後一天。\n\n邁入第20年的金門書展，今天在金城浯江書院舉行開幕儀式，吸引許多人湧入，這才知道這個...…",
+      "fingerprint": "b1cfc32b02b81530992c3a88a5c69008ef4679e2af0a4e671538917379e93c6e",
       "seen_count": 1,
       "sources": [
         {
@@ -7239,10 +7401,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "撲空！嘉市6.1億全民運動館9/9開幕跳票 市府：11月中旬試營運",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5571452",
-      "content": "嘉義市政府獲中央補助，斥資6.1億元在劉厝里大富路興建「西區全民運動館」，原預計9月9日「國民運動日」開幕營運，有市民近日前往全民運動館，卻發現裡面空蕩蕩，也沒任何運動器材。市...…",
-      "fingerprint": "a7be559e2eab9535930ab0086f2afa6c56a952fe4ff7a1545f3a390cf7c97436",
+      "title": "菲律賓渡輪失火增至76死 13人仍失聯",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5572026",
+      "content": "菲律賓渡輪失火事件，海岸防衛隊（PCG）持續在船艙內搜救，今晚公布最新傷亡數字表示，死亡人數已增至76人，尚有13人下落不明。\n\n渡輪「六月紫菀號」（MV June Aster）8日晚間...…",
+      "fingerprint": "1e0f4600b34c2fcf4e72ce9172f1675233c37f6ce3189d2c0c21615e94ca4e49",
       "seen_count": 1,
       "sources": [
         {
@@ -7257,10 +7419,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "東北季風影響 北北基宜4縣市大雨特報",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5571437",
-      "content": "受東北季風影響，氣象署今上午持續對北北基宜4縣市發布大雨特報。\n\n氣象署指出，受東北季風影響，宜蘭縣山區已有豪雨發生，今日基隆北海岸、台北市地區及新北市、宜蘭山區有局部大雨發...…",
-      "fingerprint": "4c224f2dec0a881451a7e00c0fd2419da270e9ed5f2fab69a2ce86523ae6be0c",
+      "title": "澎湖追風音樂燈光節開紅盤！圭賢、盧廣仲嗨唱 觀音亭人潮爆棚",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5572053",
+      "content": "「澎湖追風音樂燈光節」今（12）日在澎湖觀音亭休閒園區盛大開幕，韓國人氣巨星圭賢、盧廣仲、TRASH領銜開唱，精彩歌聲搭配震撼舞台效果，首日就開出紅盤，密密麻麻人潮擠滿觀音亭，...…",
+      "fingerprint": "016c6f5e094c9d91f8ee2d63c0bee0803ae52100a3510f20710ffe1174a0d3f8",
       "seen_count": 1,
       "sources": [
         {
@@ -7275,10 +7437,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "沈伯洋昔收養女兒！陳美鳳曝他「私下暖舉」網狂讚：眼神騙不了人",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5571454",
-      "content": "民進黨籍台北市長參選人沈伯洋近日上節目，終於見到偶像陳美鳳，還特別帶著父母珍藏多年的專輯前來「追星」，意外展現粉絲一面。陳美鳳事後也在社群分享錄影趣事，更有感而發表示：「人的本...…",
-      "fingerprint": "2f51a9a1d397800d3cf9223b01c82d8a494a7d8b67fad543276a3029971a16a3",
+      "title": "每週3杯星巴克太敗家？老公勸買知名咖啡機省錢  一算結果傻眼",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5572067",
+      "content": "〔財經頻道／綜合報導〕日本一名女子每週會買3杯500日圓的星巴克拿鐵，丈夫認為與其一直花錢買咖啡，不如買一台近7萬日圓的De'Longhi全自動咖啡機，應該可以回本。不過實際把咖啡豆等成本算進去...…",
+      "fingerprint": "9d3702b6cadcf9604c3d950bc9d596b34c3ddd4f557d1b20cad1f585236810ff",
       "seen_count": 1,
       "sources": [
         {
@@ -7293,10 +7455,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "體操選手被棄賽掀波 張景森籲運動部：事前治理勝過開刀",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5571336",
-      "content": "台灣小將潘采宸、李佳蔚在8月底取得今年10月荷蘭體操世錦賽資格，卻因體操協會以行政程序急迫為由，在未告知教練及選手的情況下，直接回絕世界體操總會（WG）引發爭議，且事件不斷延燒，...…",
-      "fingerprint": "d1e0b8f9aaf8a08ef2c5357229a2359c1d65454a5d27ce02cdbfe03997ae7d37",
+      "title": "柯志恩稱高雄成屏東孩子的「花花世界」 綠選將批天龍國傲慢",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5572059",
+      "content": "國民黨高雄市長參選人柯志恩今（12日）下午成立「高雄市長學術界後援會」，身為屏東人的她，致詞時提到希望「讓高雄對屏東的孩子來說，也能是一個充滿機會、值得嚮往的花花世界」；對此，...…",
+      "fingerprint": "d7bf62a90cc3035c51bb585349050e1e16c19027763a81c8433cebaa67c15c1f",
       "seen_count": 1,
       "sources": [
         {
@@ -7311,10 +7473,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "300年古廟中秋送暖 高雄「鳳邑雙慈殿」砸360萬助4500低收戶",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5571451",
-      "content": "中秋佳節將至，當家家戶戶準備團圓之際，社會角落仍有許多家庭為生計愁眉不展，高雄鳳山著名的300年古廟「鳳邑雙慈殿」於今（12）日中秋前舉辦年度愛心物資發放，總計砸下超過360萬...…",
-      "fingerprint": "6620511237fe4f84d4d33f902a3bde92da8e74d3b1904844fd37bd323215eb97",
+      "title": "張惠妹出手不同凡響！台東大型戶外KTV吸6萬人同樂",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5572056",
+      "content": "天后「阿妹」張惠妹自從在台東跨年晚會上精彩主持和演出後，現在歌迷都期待她再出手，一連兩天的「東！帶我走出發吧 來台東唱」演唱會，今（12日）首日就熱鬧十足，晚上9點時現場人數達...…",
+      "fingerprint": "b918d679680796a2ee013ac08f92dee8ea26d5245244369766e559c4fdb5595d",
       "seen_count": 1,
       "sources": [
         {
@@ -7329,10 +7491,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "揭沈伯洋勝選關鍵 486先生提7建議：台北需要改變但難度非常非常高",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5571291",
-      "content": "台北市長選戰逐漸升溫，近期現任市長蔣萬安接連面臨兒子交換生、校園食安、鼠患、淹水、市府失言等多項爭議，民進黨台北市長參選人沈伯洋則是不斷走進異溫層，掀起網路討論。團購電商名人「4...…",
-      "fingerprint": "37b5d425479d4126f5b5b43a6c7acbf077644c4a57e99206476b7ff408b96d85",
+      "title": "侯友宜開唱！飆嗓李翊君不知道《萍聚》她唱的…鬆口揭真相",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5572057",
+      "content": "傳唱天后李翊君今天登上「2026新北市綠生活音樂節」，驚喜與新北市長侯友宜同台，兩人一起合唱經典歌曲《萍聚》，熟悉旋律一響起，立刻勾起現場滿滿青春回憶。\n\n\n侯友宜唱完歌...…",
+      "fingerprint": "2233ce3dcc1e811c002295fea375eed39787383d339a652fbec5385efb450bcd",
       "seen_count": 1,
       "sources": [
         {
@@ -7347,10 +7509,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "秋Out音樂節雙十開唱！50組藝人接力 公館圓形廣場首開放",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5571430",
-      "content": "台北公館今年秋天將迎來新一波「接力開箱」！夏季台北親水節自7月起開放親水樂園及自來水園區全新遊具設施，至今兩個月吸引近12萬人次現場體驗，緊接著北水處公館大樓工程接續完工，全新...…",
-      "fingerprint": "05f744b43aa1524e279b2d8168be5b57b50a6515e8773e0b4d7c01c91493cae5",
+      "title": "〈響應國旅補助優惠〉北投大地酒店「Fun大補助」  最高享6,200元加碼好禮",
+      "link": "https://news.ltn.com.tw/news/art/breakingnews/5572058",
+      "content": "國旅振興補助掀國內旅遊熱潮，北投大地酒店即日起推出「Fun大補助」住房專案，於政府國旅補助之上再加碼，凡週日至週四平日以國旅補助方案入住，最高可享6,200元加碼禮包，內...…",
+      "fingerprint": "f24e292abb47da4f60c7ae2848fa6a0c1e663f34368e0640479073c4e55d8e77",
       "seen_count": 1,
       "sources": [
         {
@@ -7365,10 +7527,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "MLB》沒大谷翔平差超多！道奇遠征媒體少一半 敵隊總教練也說話了",
-      "link": "https://sports.ltn.com.tw/news/breakingnews/5571315",
-      "content": "道奇今天起展開客場之旅，遠征邁阿密與辛辛那提對決馬林魚和紅人，日前剛進15天傷兵名單的當家巨星大谷翔平，今天並未隨隊征戰客場，而是留在洛杉磯休養。根據日媒報導，今天來到現場...…",
-      "fingerprint": "95262df8e98146d2f39c79aa767b7b59c04a4bfbbda7c4d6061272ad536b2c23",
+      "title": "Meta AI竟起底小女兒個資還挖出刪除舊照！美國媽媽嚇壞怒爆料",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5571799",
+      "content": "美國猶他州地方媽媽羅賓斯（Kalie Robins）驚恐發現，Meta AI竟開始主動提供她小女兒的個人資訊，包括姓名與出生資料，甚至試圖精準定位她們全家的住處，更疑似挖出一張她...…",
+      "fingerprint": "8a85336d38cde20edcd97ebc1717f749d71928d5bc8cdd366d0ce562d4dce9a7",
       "seen_count": 1,
       "sources": [
         {
@@ -7383,10 +7545,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "楊銘威被女主廚公主抱！李玉璽開「惡魔人格」遭嫌骯髒",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5571433",
-      "content": "韓國主廚鄭智善、日本主廚川越達也錄製料理競賽節目《開火開伙》，分別由李玉璽、Dora謝雨芝擔任廚助，楊銘威則化身「總幹事」。最新一集來到台東，日韓兩隊事先前往成功漁港，透過漁獲...…",
-      "fingerprint": "eb49f7919a46b111cf126d24ee50547947a34bd3f029fdc43682c1e6cdd17e94",
+      "title": "9/12今彩539頭獎開2注！800萬獎落新北、苗栗",
+      "link": "https://news.ltn.com.tw/news/society/breakingnews/5572052",
+      "content": "9月12日開獎的第115000222期今彩539頭獎開出2注，由新北市樹林區復興路66號「蕉哥彩券行」以及苗栗縣公館鄉館東村大同路120號「賀賀賀彩券行」開出。\n\n第1150...…",
+      "fingerprint": "a37ab773e72372ff416ef0793cc5de97d0d259dada9b6aaa00fccf9a7dc71df2",
       "seen_count": 1,
       "sources": [
         {
@@ -7401,10 +7563,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "平鎮警破獲毒品分裝據點 查扣海洛因與子彈",
-      "link": "https://news.ltn.com.tw/news/society/breakingnews/5571428",
-      "content": "桃園市平鎮警分局11日晚間執行雷霆除暴專案，查獲48人涉嫌酒駕、毒品等案件送辦，其中龍岡派出所員警於專案期間在游泳路1處民宅，查獲林姓、謝姓男子與羅姓、謝姓女子，持有海洛因與依...…",
-      "fingerprint": "a183e78f4385ca63454493050b61daad7344bea2a2352d66c563b6cc8aa53222",
+      "title": "日職》台灣雙星見證「大場面」！火腿王牌注意到西武教練不尋常動作",
+      "link": "https://sports.ltn.com.tw/news/breakingnews/5571905",
+      "content": "日本火腿王牌投手伊藤大海今天在客場面對西武獅，第5局時認為西武三壘指導教練黑田哲史疑似打暗號透露球種，雙方起口角衝突。最終兩隊打滿12局，以3比3握手言和。伊藤大海賽後直言...…",
+      "fingerprint": "aafa6088a6c812c8a53ee7861e8e32422db4676e26d5ba15ce0b3ae16ed8b357",
       "seen_count": 1,
       "sources": [
         {
@@ -7419,10 +7581,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "無人機＋飛彈同時來怎麼擋？伊朗戰場逼美軍重新檢討防空",
-      "link": "https://news.ltn.com.tw/news/def/breakingnews/5571411",
-      "content": "無人機、巡弋飛彈與彈道飛彈等多種威脅若在短時間內同時來襲，現代防空系統能否同時攔截？美國軍事新聞網站《Breaking Defense》11日報導，伊朗戰事顯示美軍防空與...…",
-      "fingerprint": "7a438ee0c3477305d73ac8ec42609291525f917e3e520c67c58932f78abfd96f",
+      "title": "雨天晾衣發臭惱人！ 專家揭防霉抗臭洗滌法：這款放「最底層」",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5571992",
+      "content": "最近連日「咕嚕咕嚕」，不少民眾只能將洗好的衣服晾在室內，卻常面臨難聞的「房間晾衣臭味」。對此，清潔專家特別公開防臭關鍵，傳授如何正確洗滌與晾曬衣物。\n\n《日本電視台》報導，清...…",
+      "fingerprint": "94465b3a69c0ffc888a98864a10d16cadec50331fbf5036864f1b866b8677cc1",
       "seen_count": 1,
       "sources": [
         {
@@ -7437,10 +7599,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "豪雨農損彰化5蔬果納現金救助 青蔥補助最高",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5571426",
-      "content": "今年（2026）8月下旬豪大雨造成農損災情，彰化縣政府成功向農業部爭取天然災害現金救助及低利貸款，目前被納入的包括香瓜、冬瓜、蘿蔔、青蔥及結球白菜共5種農作物，其中以青蔥每公頃...…",
-      "fingerprint": "e04e66c20a55aac13025339b29b3ef0b788e7559a100dd6f8e922fe2faa485e2",
+      "title": "登峰造極排球》豐原高商大逆轉苑裡高中 率先晉高男冠軍戰",
+      "link": "https://sports.ltn.com.tw/news/breakingnews/5572051",
+      "content": "2026登峰造極青年排球邀請賽第4天賽程，壓軸登場的高中男子組，A組第1豐原高商和B組第2苑裡激戰到第5局，豐商頂住壓力強勢反撲，終以21：25、22：25、25：17、...…",
+      "fingerprint": "da658e2a426f954f7e94851bc38145e39f598af1e4d976dc54ef902dc3731594",
       "seen_count": 1,
       "sources": [
         {
@@ -7455,10 +7617,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "賴清德南下助陣何欣純！江啟臣成立海龍後援會：有資源就建設台中",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5571393",
-      "content": "2026縣市長選戰倒數，國民黨台中市長參選人江啟臣今（12）日舉行海龍後援會成立，針對總統賴清德今日南下台中替對手何欣純輔選，他受訪表示，如果是權力、有資源的人來台中，也希望他...…",
-      "fingerprint": "a64166dfd81c4ca1d6b63104b9a30192af83d1ae58cdb2e684c3e85ac136046a",
+      "title": "aespa Karina加盟韓綜！IVE安兪真地位不保嗆：小可愛只有我一個",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5572048",
+      "content": "由羅暎錫PD打造的人氣實境綜藝《宇宙年糕店》，最新一集中找來aespa的成員Karina當新工讀生，IVE的安兪真立刻展現「軍紀班長」氣勢嗆聲：「這個廚房裡的小可愛只有我...…",
+      "fingerprint": "e98955fbd15b53924ca1fefbe052592dad4683ed074bb68edde8bd073c34d948",
       "seen_count": 1,
       "sources": [
         {
@@ -7473,10 +7635,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "沈伯洋真有機會了！邱明玉爆：內部民調已追至個位數！",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5571390",
-      "content": "2026九合一選舉剩不到80天，台北市長參選人沈伯洋近期空、陸戰表現皆優異，加上對手蔣萬安爭議連環爆，聲勢急起直追。資深媒體人邱明玉在政論節目中爆料，沈團隊和黨內高層近日開民調會...…",
-      "fingerprint": "dfdb25cf29b13ac510d7cc62ea1a8a9a83a694c2e85a1a6d54dccdc0b499dc83",
+      "title": "那1年我們一起削的蘆筍！「這年級」的童年記憶  竟藏台灣創匯傳奇",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5571703",
+      "content": "〔財經頻道／綜合報導〕現在的孩子放學後，可能先到安親班、補習班，回到家後在客廳滑手機或打電動。時光倒轉數十年，在台灣蘆筍產業興盛的年代，一些農村卻是另一幅童年風景：一批批剛採收的白蘆筍送到家裡，...…",
+      "fingerprint": "ab6c3fa91c2b7277eed245d6c00df824c3a09cbffb624cbcdea4117812c843b0",
       "seen_count": 1,
       "sources": [
         {
@@ -7491,10 +7653,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "伊朗飛彈炸死3美軍！美方查出中國高解析衛星照與攻擊有關",
-      "link": "https://news.ltn.com.tw/news/world/breakingnews/5571412",
-      "content": "美伊戰火牽動美中敏感神經！美國《華爾街日報》11日獨家報導，多名知情美國官員透露，伊朗7月中旬發射彈道飛彈襲擊約旦基地、導致3名美軍陣亡的攻擊行動，事前曾從「中國實體」取得該基...…",
-      "fingerprint": "4208f8fc223b9203335ec997f0da28a4ef6e42d04af0e0ca31c336a1de50ea05",
+      "title": "從農村削進世界第一！台灣蘆筍罐頭1年曾賺1.2億美元",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5571765",
+      "content": "〔財經頻道／綜合報導〕現在很難想像，白蘆筍曾是台灣農業外銷的「金雞母」。1965年台灣蘆筍罐頭出口達600萬箱，躍居世界第一；1978年更逼近800萬箱，一年賺進1.2億美元外匯，寫下台灣農產加...…",
+      "fingerprint": "72278b1bccd26c4c2245c798ed728c3580d5d5e8cfd33bccff3786dc93ed6809",
       "seen_count": 1,
       "sources": [
         {
@@ -7509,10 +7671,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "自由說新聞》烏軍轟炸俄命脈畫面曝光！她曝普廷「撐不下去」釀莫斯科政變危機",
-      "link": "https://news.ltn.com.tw/news/world/breakingnews/5571434",
-      "content": "【更多內容  請見影片】\n訂閱【自由追新聞】\n全新的視界！新聞話題不漏接，快訂閱YouTube 【自由追新聞】，記得開啟小鈴鐺哦！…",
-      "fingerprint": "d9797676dda8bcf657c8f9bc6680c84da9e09a3a71ccf3f2bc3165416cf12fec",
+      "title": "劉若英罕見公開向老公放閃 陪兒子寫功課江蕙《甲你攬牢牢》洗腦",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5572041",
+      "content": "劉若英今（12日）晚重返高雄巨蛋舉辦「飛行日」演唱會，安可時帶來歌迷期待的經典曲《後來》，另外也宣告好消息，12月5日將重返台北小巨蛋開唱，讓精彩內容再次展現。\n\n\n今晚...…",
+      "fingerprint": "47b94c7b375f6423ffb911b650d3aa5b3fcd77f57d59837dfd99da23a15601b4",
       "seen_count": 1,
       "sources": [
         {
@@ -7527,10 +7689,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "探訪「菇界愛馬仕」生長密碼 台南重溪學童體驗現代科技農業",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5571422",
-      "content": "台南柳營區重溪國小與新營社區大學攜手推動在地農事體驗課程，今年度延續「腳腿仔尚介讚2.0」的農事核心精神，帶領六年級學童走訪學區內被譽為「菇界愛馬仕」的世霖洋菇生產農場，了解地...…",
-      "fingerprint": "425f6bdffa2e3e78062af77ff52458ba2624c49800f930c4207a25eb39680990",
+      "title": "國際舞者跨海台中尬舞！台中盃街舞大賽吸367隊參賽創新高",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5572010",
+      "content": "第8屆台中盃國際街舞大賽在台灣大道市政大樓府前廣場熱力登場，今年有367隊參賽，較去年265隊增加逾百隊，參賽隊數創新高，更有來自菲律賓、香港、俄羅斯等海外舞者跨海競技，150...…",
+      "fingerprint": "27106579e6d7f2b56880ac5c9809b796ec6b4ca680c7bf60617b3b20ce5338be",
       "seen_count": 1,
       "sources": [
         {
@@ -7545,10 +7707,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "自由開講》布農族白色恐怖受害的教訓 不分族群守護民主",
-      "link": "https://talk.ltn.com.tw/article/breakingnews/5561113",
-      "content": "花蓮縣卓溪鄉65年前有五名長老基督教會的人員，被國民黨籍的一名警察誣陷預備叛亂罪，被逮捕移送到玉里分局，遭受殘酷的酷刑。因為他們對基督堅定的信仰，終能忍受度過這樣的苦難，最後才獲得釋放...…",
-      "fingerprint": "85dd5eebb79ec0864bc48e5436f9e246a3853cb7439425bd917655aa87b3ffa6",
+      "title": "28小時「台日雙塔」！黃偉哲上午熊本災區送愛心  下午現身台南活動",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5572018",
+      "content": "台南市長黃偉哲再展「鐵人行程」！昨（11日）下午從台南出發前往日本熊本，今（12日）上午代表台南市民將地震後的關懷與愛心送到災區，並拜會熊本縣知事、與友誼城市交流後，隨即搭機返...…",
+      "fingerprint": "b2dc88c6a322fa443b5850e191b3a343858186659f37e9bfcf19f0ed88beec69",
       "seen_count": 1,
       "sources": [
         {
@@ -7563,10 +7725,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "美網》左手重砲贏得美國內戰！謝爾頓逆轉蒂亞弗大滿貫首爭冠",
-      "link": "https://sports.ltn.com.tw/news/breakingnews/5571427",
-      "content": "2026年美國網球公開賽男單4強「美國內戰 」，「左手重砲 」謝爾頓（Ben Shelton）強轟20記愛司，4：6、6：3、6：3、7：5大逆轉同胞第11種子蒂亞弗（F...…",
-      "fingerprint": "b7503c97beab9256e6f5f8b9e414eff8c2e4a24ca74662a54c87027a0890d217",
+      "title": "U18亞青》正面對決織田翔希的「體感」  台灣隊長有話直說",
+      "link": "https://sports.ltn.com.tw/news/breakingnews/5572043",
+      "content": "台灣隊長張乙安今天在U18亞青賽台日大戰，7局上擊出再見雙殺打，最終台灣以1：2不敵日本無緣爭冠。\n\n\n今天賽後張乙安表示，大家都滿難過的，其實全隊都表現不錯，只是差在適...…",
+      "fingerprint": "b7fb6a7f3da29ad523a4d806c4198930f30c928763f6316712d45d3772aa9a06",
       "seen_count": 1,
       "sources": [
         {
@@ -7581,10 +7743,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "輾斃護理師嫌犯辯「被嘲笑才撞人」！陳家靈堂拉白布下跪：精神病不能當藉口",
-      "link": "https://news.ltn.com.tw/news/society/breakingnews/5571421",
-      "content": "老家在彰化二林的38歲陳姓護理師，8日凌晨下班返家途中，在台中市遭30歲林姓男子駕駛賓士車二度輾壓慘死。林男辯稱陳女當時「面露微笑」是在嘲笑他，才開車撞她。此說法激怒家屬，陳姓...…",
-      "fingerprint": "9b1a7e8fd09cce661d81249bbc9ac75e76505237837b6eae76467ff4a93844ea",
+      "title": "許燕輝參戰金城鎮長 陳、李兩大宗親會理事長也站台力挺",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5571944",
+      "content": "國民黨金門縣金城鎮長參選人許燕輝競選總部今天成立，不僅許氏宗親站出來力挺，金門陳、李2大姓氏宗親會理事長也站台。許燕輝說，金城鎮是金門首善之區，他主張的「金城更新」，不是推翻過...…",
+      "fingerprint": "6d91208bdbf8ec2eb145628711f8f11562634259d203215b16e35ad42aea3299",
       "seen_count": 1,
       "sources": [
         {
@@ -7599,10 +7761,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "70歲嬤待轉區「偷跑」 24歲騎士遭攔腰撞飛雙雙送醫",
-      "link": "https://news.ltn.com.tw/news/society/breakingnews/5571420",
-      "content": "機慢車左轉待轉區不是起跑線，千萬別搶快！高雄市鳳山區昨（11）日上午發生一起機車互撞車禍。一名70歲的張姓女子在鳳松路與經武路口的待轉區內，疑似未等號誌轉換便提前起駛，結果與北...…",
-      "fingerprint": "c9a710684954069ea2d5f964e087ade425dd3c10d8edf2199f8e994b6ebd0256",
+      "title": "Costco許多不為人知的福利 會員能以8種意想不到方式省錢",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5572044",
+      "content": "〔財經頻道／綜合報導〕Costco擁有比大多數超市更忠實的粉絲群體，其龐大零售商的各項數據也印證這一點。在2025年的年度報告中，Costco擁有1.45億持卡會員。喜歡Costco的理由很多，...…",
+      "fingerprint": "e1e4ef5ffe00ed682e4556625204141f8becc075404619bfe3955dafb0d20247",
       "seen_count": 1,
       "sources": [
         {
@@ -7617,10 +7779,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "中天資遣主播周玉琴引熱議！謝金河：兩岸大氣候正在發生變化",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5571386",
-      "content": "資深主播周玉琴突遭中天資遣引發各界震驚。對此，財信傳媒集團董事長謝金河表示，兩岸大氣候正在發生大變化，台灣在Ai賽道上奔馳，中國陷入泡沫化調整，兩條平行線會拉出來。\n\n謝金河...…",
-      "fingerprint": "4ed6fe251b6d00aa8aa5ecb4553db305ca85f8d871e905e10bc6595a77b7e91d",
+      "title": "宮廟神童團爆偷拍！19歲男約炮同團少女 8段性影像外流下場曝",
+      "link": "https://news.ltn.com.tw/news/society/breakingnews/5572003",
+      "content": "台中市某大型宮廟神童團19歲白姓男子，與同團未成年少女熟識後，將少女帶回住處發生性關係，竟趁機偷拍8段性影像，還透過AirDrop轉傳給22歲王姓友人，少女得知此事在圈內傳開氣...…",
+      "fingerprint": "a5351ccfad0a94f1101eb0b587f04a25027b88f3e2557bec96b9ea2ab9cf7c53",
       "seen_count": 1,
       "sources": [
         {
@@ -7635,10 +7797,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "民進黨創黨元老倒戈！林豐喜出任江啟臣後援會長 痛批綠營悖離民主",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5571417",
-      "content": "2026縣市長選戰倒數，國民黨台中市長參選人江啟臣今（12）日舉行海龍後援會成立，民進黨前立委林豐喜擔任海龍後援會顧問團團長，他痛批民進黨悖離了當初創黨的基本精神，已經悖離了民...…",
-      "fingerprint": "e5ac8a927e90005664f38550514db7e6b4afa019bc4da7fac9161198b0ea2db0",
+      "title": "U18亞青》直擊織田翔希飆速飽受震撼  劉任右看見自己的不足",
+      "link": "https://sports.ltn.com.tw/news/breakingnews/5572040",
+      "content": "就讀橫濱高校的日本隊王牌投手織田翔希，先發6局被敲3安飆出7K，另有5次四壞保送失1分拿下勝投，最快球速97英里（約156.1公里），萬谷堅心後援1局無失分順利守成，兩人...…",
+      "fingerprint": "53b0f7784cbd18964ddff17c98f56c6811d4dfc4e44096b95603903b4aeec342",
       "seen_count": 1,
       "sources": [
         {
@@ -7653,10 +7815,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "漢子燕子快閃錯開鄭麗文、李四川急握手離場被攔 獨留「她」唱獨角戲",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5571419",
-      "content": "國民黨新北市長參選人李四川與議長蔣根煌今成立聯合競選總部，台中市長盧秀燕、新北市長侯友宜、副市長劉和然及李四川一早9點許全部都到場，和蔣上演大合體，但尷尬的是，侯、盧隨即以趕行...…",
-      "fingerprint": "ba037ed815f30d01abd3e3aa785395ee5b17dda52ba492a9cc2c7b0f809606a2",
+      "title": "買地不過戶桃園市累積129筆！6年來仍77筆未解決 學校用地達74筆",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5571930",
+      "content": "桃園市審計處桃園市114年總決算報告出爐，徵收或購置已逾15年未完成產權移轉登記之土地，市府列管129筆土地，從2020年起至今年3月僅完成52筆，仍有77筆尚未完成，其中學校...…",
+      "fingerprint": "c1abf3055da75c3ad2ef365a84ba97aad7dd0933b4c5c8f4515da95c4c51ae4e",
       "seen_count": 1,
       "sources": [
         {
@@ -7671,10 +7833,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "健康網》壯男瘦了 卻暈倒急診！醫：體重掉血壓跟著掉",
-      "link": "https://health.ltn.com.tw/article/breakingnews/5570903",
-      "content": "〔健康頻道／綜合報導〕50多歲男性透過瘦瘦針瘦下來，卻在某次站起來時倒下。新光吳火獅紀念醫院心臟內科、心臟電生理科主治醫師凌濼傑引用一名案例說明：一位五十多歲的先生，高血壓吃了三年藥，血壓一直在...…",
-      "fingerprint": "9c9bdfb48003e3205d3d8cd0098bd83ebce77ba97486bc6c14e0b010c7109847",
+      "title": "傻妹竟認不出潘越雲！當面稱她「活化石」陳昇被當路人氣到飆粗口",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5572032",
+      "content": "美聲歌后潘越雲今晚在北流舉辦「坐看雲起時」演唱會，音樂才子陳昇擔任嘉賓助陣，當《春嬌和志明》前奏一下，陳昇扭腰擺臀驚喜登台，相隔16年再度與潘越雲合唱，還不忘親吻好友的手...…",
+      "fingerprint": "9b4dc2db37125b2b20a3f9f97a5ed4d4b8e6ebad290d336b25cbc955d3ae28d2",
       "seen_count": 1,
       "sources": [
         {
@@ -7689,10 +7851,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "最親民 Toyota 入門掀背準備改款更新！外觀內裝升級並提供省油新動力",
-      "link": "https://auto.ltn.com.tw/news/32883",
-      "content": "隨著 Suzuki 在印度推出小改款 Baleno，身為雙生車的 Toyota Glanza 也將跟進腳步進行改款升級，兩者將共享外觀造型及內裝鋪陳，差異之處僅在於廠徽不同，並採用全新設計的 1.2 升自然進氣汽油引擎，擁有更出色的節能表現。現行款 Glanza 售價為 67.3 萬盧比起，約台幣 22 萬元，小改款預計也將維持相同的親民路線，滿足當地入門用車需求，預計 10 月中旬正式登場。…",
-      "fingerprint": "71f93f6ef279b472824ae90d92ea3cd768b977403ac3b608ea4472a40cdcc93a",
+      "title": "OL上班到一半內褲「沒了」！釣出一票苦主曝羞恥經驗",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5571728",
+      "content": "近年來，「無痕內褲」受到部分女性使用者愛戴，不過，近日有網友分享，穿不到10次的無痕內褲，就在她上班時突然「解體」，意外引發女性共鳴，更有一票苦主分享自己的「羞恥」經歷。\n\n...…",
+      "fingerprint": "df2f9a7d1ef8a257356de1fde4d659bd16c2cdba7864cd4839c557d04b93ae08",
       "seen_count": 1,
       "sources": [
         {
@@ -7707,10 +7869,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "北海道十勝岳火山警戒升至3級！百年前曾噴發釀大規模傷亡",
-      "link": "https://news.ltn.com.tw/news/world/breakingnews/5571384",
-      "content": "日本氣象廳今（12日）上午9時30分，將北海道活火山十勝岳的噴發警戒升為3級（最高5級），展開入山管制措施，而十勝岳100年前曾噴發造成大規模傷亡。\n\n據《NHK》報導，十勝...…",
-      "fingerprint": "369c3d779c01e53430e586e733f0514056ded7c5e9dbd16c121d04a28117678d",
+      "title": "阿北竟「性侵鯉魚」！自爆專門避開有刺的 強暴母狗入獄黑底曝",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5571877",
+      "content": "實在太荒謬！51歲泰國男子竟在半夜闖入民宅「性侵鯉魚」。飼主調閱監視器畫面發現，憤而報警。警方循線逮捕變態阿北到案，他辯稱要下去池塘洗澡，看到魚一時性起，卻被查出曾因「性侵母狗」...…",
+      "fingerprint": "9d476e5b37f8556ed96e6018e7338e869de4c5473a8a323d664335811d7ab40a",
       "seen_count": 1,
       "sources": [
         {
@@ -7725,10 +7887,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "高球》法國巴黎銀行財富管理 與TLPGA傳承賽的「雙贏」哲學",
-      "link": "https://sports.ltn.com.tw/news/breakingnews/5571418",
-      "content": "法國巴黎銀行在10年前就開始與TLPGA合作，贊助法國巴黎銀行財富管理TLPGA傳承賽，而且一口氣連續贊助11年。\n\n\n眾所周知，法巴與網球四大賽中的法國公開賽可以說形同...…",
-      "fingerprint": "e4f6849d0bc9bb06320bdca5d890eebf277e73986d1185ef7c12387646b5340b",
+      "title": "U18亞青》球速、球威明顯下滑  劉任右坦言「對南韓先發全力在丟...」",
+      "link": "https://sports.ltn.com.tw/news/breakingnews/5572035",
+      "content": "U18亞洲青棒錦標賽，日本靠王牌投手織田翔希強力壓制，先發6局失1分，技壓台灣隊王牌劉任右先發4.2局失2分，加上1局下拿到關鍵的2分，最終就以2：1擊敗台灣隊，明天日本...…",
+      "fingerprint": "894044f3ce7d947bdf06b13f5e19d5660922129f45d559ffa75a2830daf9ea0e",
       "seen_count": 1,
       "sources": [
         {
