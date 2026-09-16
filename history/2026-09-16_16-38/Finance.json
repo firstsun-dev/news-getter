@@ -1,0 +1,188 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-09-16_16-38",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Crude oil inventories fall less than expected, hinting at market dynamics",
+      "url": "https://www.investing.com/news/economic-indicators/crude-oil-inventories-fall-less-than-expected-hinting-at-market-dynamics-93CH-4904008",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Business inventories rise, exceeding expectations",
+      "url": "https://www.investing.com/news/economic-indicators/business-inventories-rise-exceeding-expectations-93CH-4903963",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "US business inventories rise more than expected in July",
+      "url": "https://www.investing.com/news/economic-indicators/us-business-inventories-rise-more-than-expected-in-july-4904035",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "U.S. import prices rise, retail sales rebound in August",
+      "url": "https://www.investing.com/news/economic-indicators/import-prices-rise-retail-sales-rebound-in-august-4903926",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "EU’s von der Leyen backs partnership with Canada in ’openly hostile world’",
+      "url": "https://www.investing.com/news/economic-indicators/eus-von-der-leyen-backs-partnership-with-canada-in-openly-hostile-world-4903051",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Retail sales surge, surpassing expectations and previous figures",
+      "url": "https://www.investing.com/news/economic-indicators/retail-sales-surge-surpassing-expectations-and-previous-figures-93CH-4903673",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "UK PM Burnham says he will take tough decisions to keep economy on track",
+      "url": "https://www.investing.com/news/economic-indicators/uk-pm-burnham-says-he-will-take-tough-decisions-to-keep-economy-on-track-4903379",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Majority of US Gen Z healthcare workers eye new jobs within the year, survey shows",
+      "url": "https://www.investing.com/news/economic-indicators/majority-of-us-gen-z-healthcare-workers-eye-new-jobs-within-the-year-survey-shows-4903413",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Britain rents rise at fastest pace this year in August",
+      "url": "https://www.investing.com/news/economic-indicators/britain-rents-rise-at-fastest-pace-this-year-in-august-93CH-4903319",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "UK rents rise at fastest pace this year, data shows",
+      "url": "https://www.investing.com/news/economic-indicators/uk-rents-rise-at-fastest-pace-this-year-data-shows-4903111",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "US farm agency prepares to reopen New Mexico port to livestock trade next week",
+      "url": "https://www.investing.com/news/commodities-news/us-farm-agency-prepares-to-reopen-new-mexico-port-to-livestock-trade-next-week-4904109",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "US energy producer to unveil Venezuela investment, energy secretary says",
+      "url": "https://www.investing.com/news/commodities-news/us-energy-producer-to-unveil-venezuela-investment-energy-secretary-says-4904116",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Oil slips as Saudi Arabia offers more crude via Oman",
+      "url": "https://www.investing.com/news/commodities-news/oil-falls-as-us-crude-inventories-rise-despite-saudi-supply-concerns-4902799",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Raw sugar edges lower as oil prices weigh on market",
+      "url": "https://www.investing.com/news/commodities-news/raw-sugar-edges-lower-as-oil-prices-weigh-on-market-93CH-4904115",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "US crude oil inventories decline as fuel stocks increase",
+      "url": "https://www.investing.com/news/commodities-news/us-crude-oil-inventories-decline-as-fuel-stocks-increase-93CH-4904033",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Wheat futures ease on technical selling and weaker crude oil",
+      "url": "https://www.investing.com/news/commodities-news/wheat-futures-ease-on-technical-selling-and-weaker-crude-oil-93CH-4903947",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Saudis pound Yemen as Houthis solidify gains in new theatre of Middle East war",
+      "url": "https://www.investing.com/news/commodities-news/saudi-coalition-says-houthi-drone-destroyed-near-mecca-4902841",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Houthi blitz leaves Saudi Arabia exposed, Iran emboldened",
+      "url": "https://www.investing.com/news/commodities-news/houthi-blitz-leaves-saudi-arabia-exposed-iran-emboldened-4903944",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Equinor targets 10-15 million tons of LNG supply by early 2030s",
+      "url": "https://www.investing.com/news/commodities-news/equinor-targets-1015-million-tons-of-lng-supply-by-early-2030s-93CH-4903829",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Gold rebounds as oil prices ease ahead of key Fed decision",
+      "url": "https://www.investing.com/news/commodities-news/gold-slips-ahead-of-fed-decision-as-oil-yields-keep-ratehike-bets-elevated-4902839",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Oura will struggle to justify pulse-racing $16bn valuation",
+      "url": "https://www.ft.com/content/8abe8957-83c1-475a-b6d0-556d094f474d?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Chinese oil prices hit record highs after attacks on Saudi pipeline",
+      "url": "https://www.ft.com/content/3a88d016-9575-4c11-bd34-14606964a867?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Hormuz crisis threatens to undermine long-term LNG demand",
+      "url": "https://www.ft.com/content/31f41c2e-084b-4bdf-a548-bf3d1139dbbe?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "The Extended Farageverse is coming together",
+      "url": "https://www.ft.com/content/7727d99d-dce5-48e9-aebd-7d09ab3aa608",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI debt vs Treasuries",
+      "url": "https://www.ft.com/content/033b21e7-b5d5-4511-ae01-53edaa4e051e?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "The BoE’s three balance sheet problem",
+      "url": "https://www.ft.com/content/3401a104-598d-4145-a03b-8bb08b2d7165",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "World’s best-performing sovereign wealth fund expects equities pullback",
+      "url": "https://www.ft.com/content/6b6a27bd-2725-4591-be8a-fda643c2ac5c?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Sullivan & Cromwell discovers private equity",
+      "url": "https://www.ft.com/content/69a2a7a0-ecd2-4d05-915c-55a6352889ff?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Odey judgment is lesson for firms over ethical failings, warns FCA",
+      "url": "https://www.ft.com/content/90fd247a-69a0-4066-aa9d-f51a3e659434?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "A hotter planet meets dearer money",
+      "url": "https://www.ft.com/content/9e7aa9ce-6c02-49fc-9224-62fb5767f1b1?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
