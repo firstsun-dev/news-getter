@@ -1,4 +1,4 @@
-# 📅 每日情報精選 (2026-09-16 16-38)
+# 📅 每日情報精選 (2026-09-17 04-32)
 
 > 💡 首頁顯示通過收斂門禁的深度分析（事實/判斷雙區塊 + confidence/heat）。如需完整清單，請點擊各分類下方的『完整深度報告』連結。
 
@@ -8,8 +8,9 @@
 
 #### 觀察中（未達深度分析門檻）
 
-- [When There’s More Work Than Your Team Can Handle](http://feeds.harvardbusiness.org/2026/09/when-theres-more-work-than-your-team-can-handle) (tier 2, seen_count=1) — 觀察中
-[查看此分類的獨立存檔頁面](./history/2026-09-16_16-38/index.html#Strategy)
+- [Aftershocks: Energy security beyond the Strait of Hormuz crisis](https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis) (tier 2, seen_count=1) — 觀察中
+- [Europe’s new AI edge? The emerging application layer opportunity](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/europes-new-ai-edge-the-emerging-application-layer-opportunity) (tier 2, seen_count=1) — 觀察中
+[查看此分類的獨立存檔頁面](./history/2026-09-17_04-32/index.html#Strategy)
 
 ## 🔍 Global
 > 本次無達標深度分析
@@ -17,24 +18,29 @@
 
 #### 觀察中（未達深度分析門檻）
 
-- [US accuses Russia of trying to kill Ukrainian allies overseas](https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
-- [Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say](https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
+- [US interest rates raised for first time in three years](https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
+- [Photos show widespread damage at US sites from Iranian attacks](https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
+- [Snapchat open to putting time limits on teens, boss tells BBC](https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
 - [EU chief backs plan for Canada to become &#x27;associate member&#x27;](https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
-- [OpenAI boss says world &#x27;right to be afraid&#x27; but should trust AI firms](https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
-- [Saudi Arabia says it shot down Houthi drone south of Mecca](https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
+- [US House votes to hold billionaire Epstein associate Leon Black in contempt](https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
+- [Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say](https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
+- [Michelin-starred Seoul restaurant fined for using ants as garnish](https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
+- [Trump chief of staff Susie Wiles announces she&#x27;s cancer-free](https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
 - [Eight German state premiers back Merz amid speculation over future](https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
-- [Charlie Kirk&#x27;s family alleges &#x27;stunning failures&#x27; by Utah officials led to his assassination](https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
-- [South African president vows justice as more women&#x27;s bodies found near Johannesburg](https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
-- [Journalist and pilot among three killed after news helicopter crashes in LA](https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
-- [Colombia and Brazil deadliest countries for environmental activists, report says](https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
 - [US limits visas for South African officials over alleged anti-white discrimination](https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
-- [Philippines&#x27; Duterte seen in person at International Criminal Court for first time](https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
-- [Legendary Nigerian actor Olu Jacobs dies aged 84](https://www.bbc.co.uk/news/articles/cw4gr5jnd134o?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
-- [Tall athletes can&#x27;t stretch their legs in container beds at Asian Games, official says](https://www.bbc.co.uk/news/articles/c620lg854v45o?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
-- [Lost on Mount Fuji off-season? You&#x27;ll have to pay for your rescue](https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
-- [Runaway horse captured by police on motorbikes](https://www.bbc.co.uk/news/videos/cmzezj8gr224o?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
-- [Nigeria’s ‘sarcasm queen’ answers ‘silly’ questions about Africa](https://www.bbc.co.uk/news/videos/cq62jvr18ny4o?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
-[查看此分類的獨立存檔頁面](./history/2026-09-16_16-38/index.html#Global)
+- [Charlie Kirk&#x27;s family alleges &#x27;stunning failures&#x27; by Utah officials led to his shooting](https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
+- [Inside Singapore&#x27;s &#x27;Fort Knox&#x27; for city&#x27;s $2bn dirty money auction](https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
+- [Watch: Leaked photos reveal extensive damage at US bases in Gulf](https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss) (tier 2, seen_count=1) — 觀察中
+- [FAQs about political weighting in polling and its limitations](https://www.pewresearch.org/methods/2026/09/16/faqs-about-political-weighting-in-polling-and-its-limitations/) (tier 1, seen_count=1) — 觀察中
+- [Democrats are now more worried than Republicans about AI and its impact on jobs](https://www.pewresearch.org/short-reads/2026/09/16/democrats-are-now-more-worried-than-republicans-about-ai-and-its-impact-on-jobs/) (tier 1, seen_count=1) — 觀察中
+- [Acknowledgments](https://www.pewresearch.org/methods/2026/09/16/weighting-polls-acknowledgments/) (tier 1, seen_count=1) — 觀察中
+- [3 ways to correct a poll’s political balance: Party affiliation, past vote and voter file information](https://www.pewresearch.org/methods/2026/09/16/3-ways-to-correct-a-polls-political-balance-party-affiliation-past-vote-and-voter-file-information/) (tier 1, seen_count=1) — 觀察中
+- [Why many polls need to weight on party affiliation or past vote](https://www.pewresearch.org/methods/2026/09/16/why-many-polls-need-to-weight-on-party-affiliation-or-past-vote/) (tier 1, seen_count=1) — 觀察中
+- [Survey panels can make political party affiliation weighting easier](https://www.pewresearch.org/methods/2026/09/16/survey-panels-can-make-political-party-affiliation-weighting-easier/) (tier 1, seen_count=1) — 觀察中
+- [Errata: Decline of Christianity in the U.S. Has Slowed, May Have Leveled Off](https://www.pewresearch.org/2026/09/16/errata-decline-of-christianity-in-the-us-has-slowed-may-have-leveled-off/) (tier 1, seen_count=1) — 觀察中
+- [Weighting Polls on Party Affiliation and Past Vote](https://www.pewresearch.org/methods/2026/09/16/weighting-polls-on-party-affiliation-and-past-vote/) (tier 1, seen_count=1) — 觀察中
+- [2026 primary season yields greatest preelection House turnover in over 3 decades](https://www.pewresearch.org/short-reads/2026/09/16/2026-primary-season-yields-greatest-preelection-house-turnover-in-over-3-decades/) (tier 1, seen_count=1) — 觀察中
+[查看此分類的獨立存檔頁面](./history/2026-09-17_04-32/index.html#Global)
 
 ## 🔍 Finance
 > 本次無達標深度分析
@@ -43,36 +49,33 @@
 #### 觀察中（未達深度分析門檻）
 
 - [Crude oil inventories fall less than expected, hinting at market dynamics](https://www.investing.com/news/economic-indicators/crude-oil-inventories-fall-less-than-expected-hinting-at-market-dynamics-93CH-4904008) (tier 2, seen_count=1) — 觀察中
-- [Business inventories rise, exceeding expectations](https://www.investing.com/news/economic-indicators/business-inventories-rise-exceeding-expectations-93CH-4903963) (tier 2, seen_count=1) — 觀察中
+- [New Zealand’s economy grows 0.2% in Q2](https://www.investing.com/news/economic-indicators/new-zealands-economy-grows-02-in-q2-4904671) (tier 2, seen_count=1) — 觀察中
 - [US business inventories rise more than expected in July](https://www.investing.com/news/economic-indicators/us-business-inventories-rise-more-than-expected-in-july-4904035) (tier 2, seen_count=1) — 觀察中
-- [U.S. import prices rise, retail sales rebound in August](https://www.investing.com/news/economic-indicators/import-prices-rise-retail-sales-rebound-in-august-4903926) (tier 2, seen_count=1) — 觀察中
+- [Business inventories rise, exceeding expectations](https://www.investing.com/news/economic-indicators/business-inventories-rise-exceeding-expectations-93CH-4903963) (tier 2, seen_count=1) — 觀察中
 - [EU’s von der Leyen backs partnership with Canada in ’openly hostile world’](https://www.investing.com/news/economic-indicators/eus-von-der-leyen-backs-partnership-with-canada-in-openly-hostile-world-4903051) (tier 2, seen_count=1) — 觀察中
-- [Retail sales surge, surpassing expectations and previous figures](https://www.investing.com/news/economic-indicators/retail-sales-surge-surpassing-expectations-and-previous-figures-93CH-4903673) (tier 2, seen_count=1) — 觀察中
-- [UK PM Burnham says he will take tough decisions to keep economy on track](https://www.investing.com/news/economic-indicators/uk-pm-burnham-says-he-will-take-tough-decisions-to-keep-economy-on-track-4903379) (tier 2, seen_count=1) — 觀察中
-- [Majority of US Gen Z healthcare workers eye new jobs within the year, survey shows](https://www.investing.com/news/economic-indicators/majority-of-us-gen-z-healthcare-workers-eye-new-jobs-within-the-year-survey-shows-4903413) (tier 2, seen_count=1) — 觀察中
-- [Britain rents rise at fastest pace this year in August](https://www.investing.com/news/economic-indicators/britain-rents-rise-at-fastest-pace-this-year-in-august-93CH-4903319) (tier 2, seen_count=1) — 觀察中
-- [UK rents rise at fastest pace this year, data shows](https://www.investing.com/news/economic-indicators/uk-rents-rise-at-fastest-pace-this-year-data-shows-4903111) (tier 2, seen_count=1) — 觀察中
-- [US farm agency prepares to reopen New Mexico port to livestock trade next week](https://www.investing.com/news/commodities-news/us-farm-agency-prepares-to-reopen-new-mexico-port-to-livestock-trade-next-week-4904109) (tier 2, seen_count=1) — 觀察中
-- [US energy producer to unveil Venezuela investment, energy secretary says](https://www.investing.com/news/commodities-news/us-energy-producer-to-unveil-venezuela-investment-energy-secretary-says-4904116) (tier 2, seen_count=1) — 觀察中
+- [U.S. import prices rise, retail sales rebound in August](https://www.investing.com/news/economic-indicators/import-prices-rise-retail-sales-rebound-in-august-4903926) (tier 2, seen_count=1) — 觀察中
+- [Oil prices steady amid cooling M.East supply jitters](https://www.investing.com/news/commodities-news/oil-prices-steady-amid-cooling-meast-supply-jitters-4904755) (tier 2, seen_count=1) — 觀察中
+- [Oil prices extend losses as fears of Middle East supply disruptions ease](https://www.investing.com/news/commodities-news/oil-prices-extend-losses-as-fears-of-middle-east-supply-disruptions-ease-4904737) (tier 2, seen_count=1) — 觀察中
+- [US temporarily eases curb on working hours for fuel truck drivers](https://www.investing.com/news/commodities-news/us-temporarily-eases-curb-on-working-hours-for-fuel-truck-drivers-4904736) (tier 2, seen_count=1) — 觀察中
+- [Oil halts surge after key Saudi pipeline said to restart at half capacity in days](https://www.investing.com/news/commodities-news/oil-prices-dip-as-us-inventory-build-offsets-meast-supply-jitters-4902840) (tier 2, seen_count=1) — 觀察中
 - [Oil slips as Saudi Arabia offers more crude via Oman](https://www.investing.com/news/commodities-news/oil-falls-as-us-crude-inventories-rise-despite-saudi-supply-concerns-4902799) (tier 2, seen_count=1) — 觀察中
-- [Raw sugar edges lower as oil prices weigh on market](https://www.investing.com/news/commodities-news/raw-sugar-edges-lower-as-oil-prices-weigh-on-market-93CH-4904115) (tier 2, seen_count=1) — 觀察中
-- [US crude oil inventories decline as fuel stocks increase](https://www.investing.com/news/commodities-news/us-crude-oil-inventories-decline-as-fuel-stocks-increase-93CH-4904033) (tier 2, seen_count=1) — 觀察中
-- [Wheat futures ease on technical selling and weaker crude oil](https://www.investing.com/news/commodities-news/wheat-futures-ease-on-technical-selling-and-weaker-crude-oil-93CH-4903947) (tier 2, seen_count=1) — 觀察中
-- [Saudis pound Yemen as Houthis solidify gains in new theatre of Middle East war](https://www.investing.com/news/commodities-news/saudi-coalition-says-houthi-drone-destroyed-near-mecca-4902841) (tier 2, seen_count=1) — 觀察中
-- [Houthi blitz leaves Saudi Arabia exposed, Iran emboldened](https://www.investing.com/news/commodities-news/houthi-blitz-leaves-saudi-arabia-exposed-iran-emboldened-4903944) (tier 2, seen_count=1) — 觀察中
-- [Equinor targets 10-15 million tons of LNG supply by early 2030s](https://www.investing.com/news/commodities-news/equinor-targets-1015-million-tons-of-lng-supply-by-early-2030s-93CH-4903829) (tier 2, seen_count=1) — 觀察中
-- [Gold rebounds as oil prices ease ahead of key Fed decision](https://www.investing.com/news/commodities-news/gold-slips-ahead-of-fed-decision-as-oil-yields-keep-ratehike-bets-elevated-4902839) (tier 2, seen_count=1) — 觀察中
+- [Top Democrat on US House committee will not support Israel bomb sale](https://www.investing.com/news/commodities-news/top-democrat-on-us-house-committeesays-he-will-not-supportisrael-bomb-sale-4904311) (tier 2, seen_count=1) — 觀察中
+- [Soybean futures rise on US-China trade meeting expectations](https://www.investing.com/news/commodities-news/soybean-futures-rise-on-uschina-trade-meeting-expectations-93CH-4904382) (tier 2, seen_count=1) — 觀察中
+- [Northwest European gasoline margins climb on Wednesday](https://www.investing.com/news/commodities-news/northwest-european-gasoline-margins-climb-on-wednesday-93CH-4904376) (tier 2, seen_count=1) — 觀察中
+- [Crude Oil WTI stalls at $102.42 with bearish reversal forming: Live](https://www.investing.com/news/commodities-news/crude-oil-wti-stalls-near-10446-highs-on-fading-momentum-live-93CH-4898875) (tier 2, seen_count=1) — 觀察中
+- [Natural Gas coils under $2.90 cloud resistance: Live levels](https://www.investing.com/news/commodities-news/natural-gas-tests-2899-resistance-cluster-hourly-levels-93CH-4898874) (tier 2, seen_count=1) — 觀察中
+- [Asian currencies weaken on US rate rise and high oil prices](https://www.ft.com/content/5226dcb7-d89d-4b68-981f-b2736d7e4dca?syn-25a6b1a6=1) (tier 2, seen_count=1) — 觀察中
+- [Vue explores London IPO as cinemas emerge from ‘six years of hell’](https://www.ft.com/content/8767b80b-3fd8-4747-b538-98ed8a4afe11?syn-25a6b1a6=1) (tier 2, seen_count=1) — 觀察中
+- [Heatwave triggers potato shortage in Europe](https://www.ft.com/content/8eda412f-caed-4b31-bdee-b76fc9f3ba82?syn-25a6b1a6=1) (tier 2, seen_count=1) — 觀察中
+- [Nick Candy-linked company won mining rights in Nicaragua days after he met dictator’s son](https://www.ft.com/content/25c69be0-d2f5-4341-bc7f-f671c01ddb39?syn-25a6b1a6=1) (tier 2, seen_count=1) — 觀察中
+- [Holtec pulls IPO over ‘perfect storm’ in AI sector, founder says](https://www.ft.com/content/5f4a4fce-72bb-4ea6-862b-1da1234d5b25?syn-25a6b1a6=1) (tier 2, seen_count=1) — 觀察中
+- [US lawmakers pass Russia sanctions bill](https://www.ft.com/content/42ab32f0-8c22-4912-a928-c73552305b7e?syn-25a6b1a6=1) (tier 2, seen_count=1) — 觀察中
+- [Federal Reserve decision as it happened: US central bank raises interest rates for first time since 2023, Donald Trump calls for borrowing costs to be 1% or less](https://www.ft.com/content/61b5fbae-9dd6-4980-bd1f-effe54b72d84) (tier 2, seen_count=1) — 觀察中
+- [Hackers demand Revolut pay $3mn ransom after data breach](https://www.ft.com/content/d1f2c9bd-26ce-4e87-9da4-fe0238bd531d?syn-25a6b1a6=1) (tier 2, seen_count=1) — 觀察中
+- [Trump oil ally Harold Hamm to invest in Venezuela](https://www.ft.com/content/7be92efe-13d6-4d02-9f77-0e8229b3b8fa?syn-25a6b1a6=1) (tier 2, seen_count=1) — 觀察中
+- [Turkish stocks slide in ‘fund run’ as investors withdraw $1bn](https://www.ft.com/content/3f9013b1-11a8-4dbd-a985-b0577fd95313?syn-25a6b1a6=1) (tier 2, seen_count=1) — 觀察中
 - [Oura will struggle to justify pulse-racing $16bn valuation](https://www.ft.com/content/8abe8957-83c1-475a-b6d0-556d094f474d?syn-25a6b1a6=1) (tier 2, seen_count=1) — 觀察中
-- [Chinese oil prices hit record highs after attacks on Saudi pipeline](https://www.ft.com/content/3a88d016-9575-4c11-bd34-14606964a867?syn-25a6b1a6=1) (tier 2, seen_count=1) — 觀察中
-- [Hormuz crisis threatens to undermine long-term LNG demand](https://www.ft.com/content/31f41c2e-084b-4bdf-a548-bf3d1139dbbe?syn-25a6b1a6=1) (tier 2, seen_count=1) — 觀察中
-- [The Extended Farageverse is coming together](https://www.ft.com/content/7727d99d-dce5-48e9-aebd-7d09ab3aa608) (tier 2, seen_count=1) — 觀察中
-- [AI debt vs Treasuries](https://www.ft.com/content/033b21e7-b5d5-4511-ae01-53edaa4e051e?syn-25a6b1a6=1) (tier 2, seen_count=1) — 觀察中
-- [The BoE’s three balance sheet problem](https://www.ft.com/content/3401a104-598d-4145-a03b-8bb08b2d7165) (tier 2, seen_count=1) — 觀察中
-- [World’s best-performing sovereign wealth fund expects equities pullback](https://www.ft.com/content/6b6a27bd-2725-4591-be8a-fda643c2ac5c?syn-25a6b1a6=1) (tier 2, seen_count=1) — 觀察中
-- [Sullivan &amp; Cromwell discovers private equity](https://www.ft.com/content/69a2a7a0-ecd2-4d05-915c-55a6352889ff?syn-25a6b1a6=1) (tier 2, seen_count=1) — 觀察中
-- [Odey judgment is lesson for firms over ethical failings, warns FCA](https://www.ft.com/content/90fd247a-69a0-4066-aa9d-f51a3e659434?syn-25a6b1a6=1) (tier 2, seen_count=1) — 觀察中
-- [A hotter planet meets dearer money](https://www.ft.com/content/9e7aa9ce-6c02-49fc-9224-62fb5767f1b1?syn-25a6b1a6=1) (tier 2, seen_count=1) — 觀察中
-[查看此分類的獨立存檔頁面](./history/2026-09-16_16-38/index.html#Finance)
+[查看此分類的獨立存檔頁面](./history/2026-09-17_04-32/index.html#Finance)
 
 ## 🔍 Investments
 > 本次無達標深度分析
@@ -80,26 +83,24 @@
 
 #### 觀察中（未達深度分析門檻）
 
-- [Warren Buffett Hates Bonds—and Berkshire’s Portfolio Is Loving It Right Now - Barron&#x27;s](https://news.google.com/rss/articles/CBMikgFBVV95cUxQZUlNQmhzQzNaMTAyTDZYX3VSbUpKZjBNM0JiNEgzZGtORmpFLXRzSFJCWk1nTzB1X1ItU1B6aTN5MWVIWlpwYWpXYlI3TVNhQm5xWm95ZERCSldSMnRQNFE5Zi1xdUgteS1ienlENXVQRUhseS1FWUlkOVFtLTJ6c0ZjY2tlTWtfZzVjcWRXYW1DUQ?oc=5) (tier 4, seen_count=1) — 觀察中
-- [Red October Sell-Off Could Be Coming: 5 Warren Buffett Dividend Stocks Are Safe Havens - 24/7 Wall St.](https://news.google.com/rss/articles/CBMixAFBVV95cUxOaDY4dWUzcGtZMDEyOThkUjhnSkJuX29OOTY4aHdKX09pX09EOVpVVUZ5ZnZ1WndReWpReFpnTFJwVzNtYTRFX1gyVHRWNUJ5U2FvQlp2V05aakF1OHBYX1RnQUN3MGtxM1RZMnZFQ1lvLVd5MHQwUEo4SlVRUXEyVExTS3FZYkxsN05Kajh5UE9veVpGYXktN1FrU3hfSlBNNEVOYTQ0RjlRdDVJOVRLRU14YTkxeTlPNEJxNmtSekk0MDlm?oc=5) (tier 4, seen_count=1) — 觀察中
-- [31% of Berkshire Hathaway&#x27;s Portfolio Is Riding on These 2 AI Stocks Under Greg Abel - The Motley Fool](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlF1UzkyTTZxUkRSVHRHT2I5a1ladlY0N0J3bGRpaDVzU0dDbjZoaVRHTXVmVjhuTzFSMjhHeDFTTkZKN1pCYy02bG9XU3ExRDlPNWpMSHMtbkoyeWNFaVhQazBtQlAxaW9FSWdIMy12REtVVEVXSnRFdkx1OUNJVGpyYjBkSHRudnFxY2s2RFBBRnpVaXc?oc=5) (tier 4, seen_count=1) — 觀察中
-- [Warren Buffett, Donald Trump Bet on Same 17 Stocks — Some Might Surprise You - Benzinga](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPT2ZVYzBONEJ0b1dQZGZWcDVPU25YdHRwVU9jdXd0ZDhhOWhya0xlY082QlRUTjRqeUVrM3VHNzJvWnhvSTN6ajFGaXhoV3VIRFpLZlplb1Q0Z2ltaU1lYllZQXB0WDBNMFJFM3ZhRmtaZEpLa3FIU0Jzb0ZackFHalhpR0pOdmJHSDlsVy1nSkltYzhtYXVLR0ZQZHVFaWx4YndUTUR0VFhlZG9rZ3N1WWVXV3hOVjJNR0dTSkFMRnVGYjRFZk40MktndlVsa2E2Z2Z6ZFdqaTliYVppOUtTTlZhZDd1VnM?oc=5) (tier 4, seen_count=1) — 觀察中
-- [Warren Buffett&#x27;s &#x27;phenomenal&#x27; advice to GM CEO backfired for Berkshire despite the stock tripling. Avoid his big mistake - finance.yahoo.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxORzBGeE5fQXVIaTRZWUFxd3hIaXd3TXRVZmFNNlRMZThZVGd3bWY3N2tiUkNKdWVSRFVxOHo5VTlpTHU3dS1XeHBCTXhiMUZaLWFpNi04ZEdCbTRXNndqWmg4VFVTNnVaN1A1YlJPVDhjM1pnRW96M3NjeFBnNlprbGRkbld0Tkc2VDJJTlowV2VzSHlPclBfcW9adE1RY0FTQjFz?oc=5) (tier 4, seen_count=1) — 觀察中
-- [Greg Abel Has Run Berkshire Hathaway for Most of a Year. Here&#x27;s What He Has Actually Changed. - Currently.com](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLTB6MDJfV0RZdG9mUGpZQkFLSUZBazd5QjdjWFVZM1hicUFOeE1Pc2UwTW1NQzBfcXJoTS1jWjBWSFFKaHlyeF91aU4xMHQwS2JqYzNOQWdyY05IQVJRS29HYU9BSWdndm9PbHVMQlB6R2JiZUJ6Y0xnbmVLX05QWDR6ZEdETWxmZ3Fn?oc=5) (tier 4, seen_count=1) — 觀察中
-- [Greg Abel Has Run Berkshire Hathaway for Most of a Year. Here&#x27;s What He Has Actually Changed. - The Motley Fool](https://news.google.com/rss/articles/CBMikAFBVV95cUxOQmRGelNrbV9LZVQyRFo4cjF5b21SWG5PLVVaNUlORjlUOUp0TFUzQm1iYUdWU21rWGxJU01ScWptdjdibk9mT2JoUHE2ZDdCbmFxeVhLem9KMjRhczZ6alJwbHluU2RMOVVzSDRLcGdMbWwzVy1VclBDVk9nQi1tRmZuN0dtaDRkWHN0YjdhTTM?oc=5) (tier 4, seen_count=1) — 觀察中
-- [Does Portfolio Reshaping Change The Bull Case For Berkshire Hathaway Stock (BRK.A)? - simplywall.st](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNam0tVXU5TXk0b01kdlRVZF9vUEVyb01TdHVjNzZkYXpKR3B2MWZhS3BzelF1STVQWElTT3JZLWtOQWQxNGs0aVlLellyRVh1ZFR2SnRYTVlwQmhyLWYzWXhURGE1TWFpblFpbkwxeGFyNDF2dnZlVmtsUEtjY2NILTd3a2QyMmRLbzl1Sjc5eV9iNEVsRkw0dnlFZTFuRExScUhrYnBTR1VJQ1N3UHFUVWhsa1l5RHE2bHRpc3RjM1d2bFlqclFRM2dSVC1ubGZ6WFlkYXZiT2VBWDF5ZUE0TWE1RdIB6AFBVV95cUxOMVAyV1Y1SlRZdXFnb1ZQQS1icFRzSE1tVlJuS0tMMF9DdHk0U1VfT3hEWWFUbHNucWRsNzlJVkN5ZnRDSzItdm4wSWhVWDBtN2h2SkxRRWxzWjcySTVIXzczZERiSTJUUDRNQ1AyT1l1N1plSjFQbTFhQnNMT3U0dmN0TzN6YnA5OVdKOUU3LW5TNm42aWpDYm1uZWlNMWxxWXZjLTZsb3lIVjliTkFWSW14OHNUeTN2UF82SkgxcW4tcHNHTy1ZRXc2eHJMV2x0XzNuNVByRmVVQW9rSnRPTmM4VHdUWFNZ?oc=5) (tier 4, seen_count=1) — 觀察中
-- [Greg Abel Has Run Berkshire Hathaway for Most of a Year. Here&#x27;s What He Has Actually Changed. - The Globe and Mail](https://news.google.com/rss/articles/CBMihwJBVV95cUxNNFhURTdSUzJWaHRkTU9IVmlpT0hnVEtSQnBQUmR5d3VRQXd2ODBzQXlTYnJZZ0FVTUFOM2REMWFGSkNUX0lVajNxbG9VQjFmRWVVVHRsTkc3a3dqMGh5QjA3WkJmOTR1ZFM1Mi1CX0x6MnF2dERQV1NadzZLNm93Ymdlb2ZHa0RLVFNyTHUybU1wd0lJY1QtT3dpRlJScjZlUnpUQndwZlBYdENyTDN2aUNyaTRzbTVGZm1YckFHNkFpT1l5dnM2ZGVRcnRIa3ZhWU1VREJkTmlyQ29XdjFlUVFqYkg1b21kcXBvemVEdl9MTGtROVJiZjQ5X0VlLVVUajFuVGZ3cw?oc=5) (tier 4, seen_count=1) — 觀察中
+- [Berkshire May Boost Japan Trading House Holdings, Itochu Says - bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNS2MwU0VxSDZRSFFBVUFzZzNTVGxpSkdjYjZ1aDJxNHEtVXdKYk1GUFhfYlh6ek1GbHFnZ0lBZnp5NEwxdnhkM2dMM2R4VzA3SmJXb0RmaHF2ejVPQ2w5UE4zZkFqRm9GRV83OG9aQkEtMDRoNWNfRXl1WlV5Ynl4Y2h2Um9mRmhtSWd3MEtSUjhvRWlCaEYtbmJMM1VCUTB4Mnl0Y29SdEVKam5TN0pvdA?oc=5) (tier 4, seen_count=1) — 觀察中
+- [Warren Buffett Hates Bonds—and Berkshire’s Portfolio Is Loving Him Right Now - Barron&#x27;s](https://news.google.com/rss/articles/CBMikgFBVV95cUxQZUlNQmhzQzNaMTAyTDZYX3VSbUpKZjBNM0JiNEgzZGtORmpFLXRzSFJCWk1nTzB1X1ItU1B6aTN5MWVIWlpwYWpXYlI3TVNhQm5xWm95ZERCSldSMnRQNFE5Zi1xdUgteS1ienlENXVQRUhseS1FWUlkOVFtLTJ6c0ZjY2tlTWtfZzVjcWRXYW1DUQ?oc=5) (tier 4, seen_count=1) — 觀察中
 - [Warren Buffett, Donald Trump Bet on Same 17 Stocks — Some Might Surprise You - Benzinga](https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVNQYUg1emV6V1pEeEFZSWFuSDhFUk9EWkJKOUU4dFk4SzBNNDM5SGUzdzUzZjFNSzdMRHpkX0lqbzdlejcxelFKUnNYR2VUSlRnak5EOWQ4clV3RDJFWUpLQkx3UHJVa0JYODhxUHIwM2RqUy1CbVBoZHlRNWhLeXppaEhWdjlEdHY4cThJOGJ5alV6dEpzQU1iS2FhaXNuQmM4d2Q3djBvbFJwYUU2UVBQUkRJNVVvTURZWkF4S0I4RGRBLWc?oc=5) (tier 4, seen_count=1) — 觀察中
+- [Greg Abel Grew Berkshire Hathaway&#x27;s Alphabet Stake by 83% Last Quarter, One of His Boldest Equity Bets Yet as CEO. Is Alphabet Now a Core Berkshire Holding? - Currently.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ0ZpX2FsdVNyakdwNzc2UEVaUDZYTjJ4VkVTOGlZXzBWMXlhSFZRMWE1WFlaWi1RZEdtMUh6Sl9DMzNuVmxPdGk2cEUtYjdMTWhtTi1WellQTmlvZEtPbnpMS253d0dqd3JteHZ0aDkwZjlXNWVKUWcwM3piS0g4ckx4NWg4TGJKcVdDby1R?oc=5) (tier 4, seen_count=1) — 觀察中
+- [31% of Berkshire Hathaway&#x27;s Portfolio Is Riding on These 2 AI Stocks Under Greg Abel - Yahoo Finance](https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUlkbUZManVUemJlQW5ZWXU5bmhPcUdfRUFldTBFa01wOGVDSnRObUhZMERFSmVfd29ud29xTUh2N1IweHVHYUhTTWZYb0FiY0dZZDBlbGZXX2JFamFuVl9jR1pkWndzMGN6TWNEMHBXOUREXzB0RDc3X2RVcGVXTndWRTNRZm1CUE9jVmtFMVdpN3VxbVZwSnJGYmFkTEt3U0Z2Q0NB?oc=5) (tier 4, seen_count=1) — 觀察中
+- [Berkshire may boost Japan trading house holdings, Itochu says - japantimes.co.jp](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXhBTzFWWno2dGF2QUVyR29sSFZVOHkyb3VNdU5YQVJLV0VTZi1qZlh5bFBoUWFfRF83Y3dFZ3VKcFRWSUR3RGdCS0s1VW13MUI3NFJLTENWZUI4MnlpOVNJUzZuNjJPaEhBOGZKbFRxb1I1NThhMW5PSGROTXZianlGc25TTTRCRGcwN1g0X1VDTXU1WFg2a1dJdw?oc=5) (tier 4, seen_count=1) — 觀察中
+- [Classics never go out of style! Berkshire Hathaway plans to increase its stakes in Japan’s five major trading houses, with &quot;strong cash flow + dividends + share buybacks&quot; firmly anchoring long-term capital. - Moomoo](https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2N0aGZ1b2VnR2lLbllNLXYtaDBVR3JycEJFbWs5OUp4ZTJxY1YtYzhpSVJ2SzJTYWpJN0FsRWc1LXR3VXBmMWhWQjNrQzdiXzFJUlhxYVp1WkRrekMtSngtV3Q5YmZySVgyMzZCam9BVWhnQkwyOThxckhCeVZWZmtLV0UzSTZYX24yYzVBbzdjVDgwcjNqTmNtN0tQR29IR0E?oc=5) (tier 4, seen_count=1) — 觀察中
+- [Greg Abel Grew Berkshire Hathaway&#x27;s Alphabet Stake by 83% Last Quarter, One of His Boldest Equity Bets Yet as CEO. Is Alphabet Now a Core Berkshire Holding? - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZXN3ZVFPX2d4Y1gxeVBSdHc3a0xnNnFqYkg4UHdrTGVLRWVKUkF6Z3ZuaEYtWlBfN1FlcGxrSDlfVHI1LXY0Mm5HNzh1U2ttUnJ4bVVoSjNsZGFyZnFBNXNSQkhZOTNqQlFYNS1YN2dlZTFoU0Jham1IYXhiVFlZTjUwa1ZTUjNvRUd4cHhqQ3RzZWNWbUR0NQ?oc=5) (tier 4, seen_count=1) — 觀察中
+- [Greg Abel Grew Berkshire Hathaway&#x27;s Alphabet Stake by 83% Last Quarter, One of His Boldest Equity Bets Yet as CEO. Is Alphabet Now a Core Berkshire Holding? - AOL.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxONExrMm94NlByZER2cVpJQmJyOVEza0gyTDRLM0tzT0NheXJ5V2c5bnVJTVdZek9idnNfVmhUbUwwNEFqWjJLWFVpb0lrSDdPdGozOEJ0cHdyMTF5dFY4a3gyTnJaOHg2S09LOXpwVTU3dng0WER2TnoxREZJRm8xYV9Tenc?oc=5) (tier 4, seen_count=1) — 觀察中
+- [Berkshire May Increase Stakes in Japan Trading Houses - Briefs Finance](https://news.google.com/rss/articles/CBMikgFBVV95cUxQbEF0UGZQaFJBRmdHX1k1X3lwcEhMQm0zUy1KQm15ZERiMVhMaHIyTjdzeGlxbVo3SV9XdVlIX2txVWFwSU5VbElzVzNaMEtmYnNkSzBWQ21VYzNSQnc5SF9SR29kc2haZzlFWHR0VkZfTmRYZzZYWW5sY3NhU3JaLVAxRkNaVloyamk5NHJrY0VUUQ?oc=5) (tier 4, seen_count=1) — 觀察中
 - [Vance Bell returns as Shaw Industries CEO, replaces Tim Baucom - Chattanooga Times Free Press](https://news.google.com/rss/articles/CBMilAFBVV95cUxNcTJYdzk0LUtrUHZyUWwxTWlwalFOZGxuUnhGUFRUYmlYcEkxeVJyQTdmb0FRUVlCcEtOaXV3MDZleXlPRjRmMVBJQ2JUckFRVTFuYXBpc3diWnRudTNPSUhiWXJ4UTkxekxmTnRWVkV6S3NIR1FTWE9qOFZQT2NHWm9UcG5NbUZOQUZkNjF6ZU9DTDNP?oc=5) (tier 4, seen_count=1) — 觀察中
-- [Former NFL star who was mentored by Warren Buffett shares the two big investment lessons he learned from the Oracle of Omaha - moneywise.com](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSnBLR1J1R1ZhNnJKVVU0eGVwdVZQQlBfNUFsRDM3QjJiRW9sZ2xUeHctQXN0NzR6QVJLYU5ELTFpMmgxUjdWUF9FMEtra1hvUkpydk5JR1ZqZHp0NkJpVl9BNTc0akNQRU9lZS1wVjk4WXg3eHN3U2JhYzZQU1p1ZGZvRWgwUzFBUldJTXVqZDVXbnZzS2h2OE1YeHhzZ29kV3c?oc=5) (tier 4, seen_count=1) — 觀察中
-- [Prediction: Warren Buffett&#x27;s Successor, Greg Abel, Will Dispose of One of Berkshire Hathaway&#x27;s Largest Holdings - The Globe and Mail](https://news.google.com/rss/articles/CBMinwJBVV95cUxQSDFwSjVqNHl1TEk3S09zX3RyVEJvVEg5Nzlia2o2TDlYTm1tMWh1dXg0SnRzenNKdmpSV2M1Y1Mtajl4NmdzSDF2RkduWjRCNTV5MDBHX050Q2xVblFrT0l0dXhUa25vR2dkR2NPYy04dnl2SGY3bV9CWHRHMXczSEpBN250dm9vaURNQVIwUFBuYTdZREJUNFVKdEdjNUE2cHVocEU4RWl4cV9TdmZTdFpyd2l5UE1lMV9qYXFLSFhkU3hENEQ0Y0xaY2FvZ0xRV056blVCWl85WUo2aTUxQWlEOWZGWmdtbmprdEFRemFMZS1TN0dLX0U0Z2dqXzd0TVVuNjdLUUpFZkJzdmNEcFE5X1NjUU5JdVZkYktnWQ?oc=5) (tier 4, seen_count=1) — 觀察中
-- [History Says This Is the Amount of Yearly Dividend Income a $10,000 Investment in Coca-Cola Stock Could Generate by 2036 - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxNalYtbHltZTVmRk5sOElQbDBBZXhycWtOeHFJUWhleC1sb19HQVNKRWxUY2l5NmR3LUpZVm5yWEw3WFp0WVlVNlQzX2JJUmp1NEJRdnNDakZqWGNwbzhGaDl1ZHZmTVlqdkMwYURPNDVHMHRlanhLczVONHJzVm9FME0tRldCWktBTG9NOEE1X3FTWnc4dlEzUQ?oc=5) (tier 4, seen_count=1) — 觀察中
+- [Berkshire may boost holdings in Japan’s trading houses- Bloomberg - Investing.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxQMkpWZThuQkNqM1JfZFVDNjN1NERsMXNOMFpSTTZOT1p2SDViRDJHeXV5Z2h5SnBIRVg5SUtyRmZEaXU5anhsUjBPbXptbndLUzNUVFU3SGNReERXbnByYmMyZGdMNFg2cWhEZkhOMW4xeU01UWt1MWlQbnZLdkljSGtwUkJMR3hNS3B1YnhMS24zM1pHMDloMTJmRHJQOS1JR0gtWUJtd1NrNm01V2xPZlFSbnpSako3OU83LQ?oc=5) (tier 4, seen_count=1) — 觀察中
+- [This stunning $5.5 million Torch Lake estate comes with everything needed for living the lake life - MLive.com](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM2RsLUJLVWNUb0t3dm1wVEV0eVNpLURsNVdWQ2NELXYwS0wzcERDMk9Ybml1OF9WTUZBa1RHM2g3SUZ6bmF2ZWNmZHJ4VFZVckpVVjUzWmFIWWdnUUhjY3QyVkhvRnJWWGdPaDliX1NDZElkRFgxQWhkZDkxU1hra0EtSEYzcFlxajB5cDZfYy02c052V3FXb3Q2YnVRd0Z0TzdvM3lCdVV2U213WlJVbXRZeEFkY1Y4XzdHbzY3TnBRb1pJOTJZbUVnd0MzUDgyNTNCVVNjQXJrY3d2d29pMQ?oc=5) (tier 4, seen_count=1) — 觀察中
+- [Berkshire may increase stakes in Japanese companies — The Japan Times - UA.NEWS](https://news.google.com/rss/articles/CBMioAFBVV95cUxQU01GYy05MnFzUkpiU0Q0bEo2ajlhOVNLNkpiUlkwdzJaVXlmekpsRlVrbFFIWXhOVlJ2R3BLUmpuVVNrbTVlQWJwUmJDU2xCRzBaODdqUzBYeEx3YzFmcXpUdjQybE54RDY1NXNPdUNMZUZSa01ZcUVFNXFlelg1TVhtdGtTMmFZRjljLWZTUU1FVzkxR0RtR2hJbkxIbE5t?oc=5) (tier 4, seen_count=1) — 觀察中
+- [Berkshire Hathaway stock heads into the open after a 0.35 percent gain - ad-hoc-news.de](https://news.google.com/rss/articles/CBMizgFBVV95cUxQWlVJMFRzX2MzMkR4cHZ1MzlxS085dExxSTlwRXUxTHdwVE0zT1oxX183WHFodGNFenp1aDgwQXpyQ0Q5bk02WmVSZVd2R1BScDhZMThFYlM4MzhNRTlDWnBpLUxpeEhvZjZaczZySG9jUk1FZ3h4S3E3ejFXZ0s1WDFheUtxQ1ZrcjJtTThWNFhaZ09TNmx1OGhNdXFVZ3BRM2JYNV8xY0ZYSTk4T0FCX292UkdCUEt3VThrS3RObUl5UlZ5MzBHc01aTmxudw?oc=5) (tier 4, seen_count=1) — 觀察中
 - [Top Financial Stocks To Follow Today - September 16th - MarketBeat](https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2pyc2xtMVF0RTlNTjJkX01rTjVxcG9POFNMOVlBQ1hzR213a0VLMnoxcGhQY1B6YUk3bFI3aVNiQV9vQnhsNkN2d1B1NllSRUJObUFxbERQU1J4a243UnpFdHpSOGFacUNBNmtRMWJ1UFdSenlUUl9JcklMTHlyVF9IdHpZRkowRThTRVFYZXFFNWN0andMMVVzazQwV1BnMWpKY2cxZThzbUNuT3Rz?oc=5) (tier 4, seen_count=1) — 觀察中
-- [History Says This Is the Amount of Yearly Dividend Income a $10,000 Investment in Coca-Cola Stock Could Generate by 2036 - AOL.com](https://news.google.com/rss/articles/CBMihgFBVV95cUxNVTJKUWlOUHdqcEFJMmhvTjJINXJFbmc3SmpaeWVYZmpWRl91RlpjYU10WnRobGdIeFdEYWg0NlRtTjFrcW5JRXBLTktuNjlSZWZxMm5zR0ktQTBidGVPRVppZkd5RlZuWlNqQTRRZ0c1bmctYVNCcld4dlFEZGJoaXFDeGxIdw?oc=5) (tier 4, seen_count=1) — 觀察中
-- [Berkshire Hathaway stock gains on strong Q2 figures and mega-cap valuation - ad-hoc-news.de](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQmlhdXROU1VXV3owWjlMR0xGcjlGN0NWa3FvdG5tNDJMWnRhR3F2S0RsSDlTUWJLaERXMHotaVR3dkc2SHN2MUEzUTdVMExVUXRCSlpoSF9LbHFLSVNsWndDSEc4S2lWcVRuZE8zaGcxeU5HSWw4bm9GbWhUSC1oVkVCUjlJZ1ZXZTVQT1AtQmkxX2FROV9KRkotcUU4SWhvcmpzX3MwWjViaGNkU3VUcnNOZ3RicFg2MzFNNjgzRkJ2Rnk2TWpTTFJkX3EyTDBURzFN?oc=5) (tier 4, seen_count=1) — 觀察中
-- [Japan trading house lobby chief urges stronger yen despite sector windfall - Nikkei Asia](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ1U0cjlfdEN4TV9Yb1BuNy1ESFBMQVg4R1R3aGVfUFl3VVNyU18wbWsyNDd2bVk0VDA2S2E1MVk1Z1hYNzVuNk43bjd4eUFXcjBGcFVXckZxalF4SW1sb29Na3QwWnhvRlhvUjZXaHRTemRuQlYwajMweGhxN0YtVGozYjkyR0w3SkVnNWV5Y2xGUlhJclpaMXNla3loTUt0RWdFelhDcWYwWlJKNlNGMHNZN1pzdVA0?oc=5) (tier 4, seen_count=1) — 觀察中
-- [NewEdge Advisors LLC Buys 22,183 Shares of Occidental Petroleum Corporation $OXY - MarketBeat](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3AzVlVlRUN0d2RRRnpBdFlrZm5MdlozS1Z1TGNjODNYR3NaTmdmODFFR2tHNUVFNXRLWDY4UjhGdV95U3JZNEtHMzdkUWRHRFZGczNTV21jQU5fOVR0bm1STjdhcTZ2clpOOHZmX2J1VWx0ZlN5aUx4UmJaa2Qzb0R1OGg3VURvWk1aRWQ2Mm9zSmQybVNQazJhdjJnNGtRLU1vQ1RzWGcwTmtCeHlqdHhPWUhuV3dmaWxIRHl6NF83ZGlfakxsTWQ1STZGT0wyV0RLUzdR?oc=5) (tier 4, seen_count=1) — 觀察中
-[查看此分類的獨立存檔頁面](./history/2026-09-16_16-38/index.html#Investments)
+- [From See&#x27;s Candies To A Systematic Strategy: The Case For Quality And Growth - Seeking Alpha](https://news.google.com/rss/articles/CBMimAFBVV95cUxOWHV5dU93c01Jb2tYWmozbGJFRTNIaGZfZ1pXdjFkTmRMWUJ4WnRtU3ZuTWVhTmZJbWowSGs3Z3dmLUhPV3NNQjFQXzM3eVlSVlhQWENwcW5XSDNFZl9HRlZLWk1WLWpLMDlyWmx0ZHZPNTFBT1JNai1meUVPc2c2YXB2WjhSVmkzampQemw4WEU3SVB5RmFXdA?oc=5) (tier 4, seen_count=1) — 觀察中
+[查看此分類的獨立存檔頁面](./history/2026-09-17_04-32/index.html#Investments)
 
 ## 🔍 AI
 > 本次無達標深度分析
@@ -107,645 +108,313 @@
 
 #### 觀察中（未達深度分析門檻）
 
-- [ChatGPT co-creator launches a new kind of AI](https://therundownai.beehiiv.com/p/chatgpt-co-creator-launches-a-new-kind-of-ai) (tier 3, seen_count=1) — 觀察中
 - [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life) (tier 1, seen_count=1) — 觀察中
-- [How workers are unlocking new ways of working](https://openai.com/index/unlocking-new-ways-of-working) (tier 1, seen_count=1) — 觀察中
-- [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai) (tier 1, seen_count=1) — 觀察中
-- [Converge Then Diversify: Decoupling Convergence and Diversity in Multi-Objective Bayesian Optimisation](https://arxiv.org/abs/2609.13396) (tier 1, seen_count=1) — 觀察中
-- [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://arxiv.org/abs/2609.13356) (tier 1, seen_count=1) — 觀察中
-- [Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement](https://arxiv.org/abs/2609.13406) (tier 1, seen_count=1) — 觀察中
-- [Vibe Patenting: Evaluating LLM Judges for Professional Patent-Drafting Agents](https://arxiv.org/abs/2609.13422) (tier 1, seen_count=1) — 觀察中
-- [Toward Self-Adaptive Physical AI: Can LLM Agents Manage Long-Horizon Physical Tasks?](https://arxiv.org/abs/2609.13436) (tier 1, seen_count=1) — 觀察中
-- [LabAgent: Customize Any Research Hubs for Scientific Discoveries Using AI Agents](https://arxiv.org/abs/2609.13437) (tier 1, seen_count=1) — 觀察中
-- [TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models](https://arxiv.org/abs/2609.13457) (tier 1, seen_count=1) — 觀察中
-- [Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures](https://arxiv.org/abs/2609.13463) (tier 1, seen_count=1) — 觀察中
-- [Governing at Machine Speed: An Adaptive Intelligence Architecture for Real-Time AI Policy Enforcement](https://arxiv.org/abs/2609.13466) (tier 1, seen_count=1) — 觀察中
-- [OrchSLM: Probing the Dynamics of Small Language Model Orchestration](https://arxiv.org/abs/2609.13470) (tier 1, seen_count=1) — 觀察中
-- [Grounded Adjudication of Variations across Extracted TimeLines (GAVEL): Comparing Clinical Timelines Against Their Case Reports](https://arxiv.org/abs/2609.13475) (tier 1, seen_count=1) — 觀察中
-- [Token Efficient Task Execution via Application Behavior Modeling for Web Agents](https://arxiv.org/abs/2609.13491) (tier 1, seen_count=1) — 觀察中
-- [Fraglingo: Molecular Design via Attachment-Aware Autoregressive Fragment Generation](https://arxiv.org/abs/2609.13519) (tier 1, seen_count=1) — 觀察中
-- [From Legal Text to AI-specific Risk Sources: A Systematic Analysis of the EU AI Act&#x27;s High-Risk Requirements](https://arxiv.org/abs/2609.13535) (tier 1, seen_count=1) — 觀察中
-- [Asclepius: An Adaptive Harness for Long-Horizon Clinical Agents](https://arxiv.org/abs/2609.13543) (tier 1, seen_count=1) — 觀察中
-- [AutoTailor: Automatic, User-Aligned Capability Selection and Adaptation for Web Agents](https://arxiv.org/abs/2609.13548) (tier 1, seen_count=1) — 觀察中
-- [Toward a Decision-Assurance Layer for AI-Assisted Flight Planning in Air Traffic Management](https://arxiv.org/abs/2609.13552) (tier 1, seen_count=1) — 觀察中
-- [Carbon-Aware Routing for Function Calling in Edge-Cloud LLM Systems](https://arxiv.org/abs/2609.13559) (tier 1, seen_count=1) — 觀察中
-- [A Hybrid Agentic AI Framework for Intelligent Supply Chain Analytics](https://arxiv.org/abs/2609.13561) (tier 1, seen_count=1) — 觀察中
-- [Planning or Learning: Reliability and Cost in Multi-Asset Maintenance](https://arxiv.org/abs/2609.13566) (tier 1, seen_count=1) — 觀察中
-- [Causal multi-modal AI for personalized chemosensitivity prediction](https://arxiv.org/abs/2609.13567) (tier 1, seen_count=1) — 觀察中
-- [How User-AI Mistreatment Occurs and Matters in Conversational Systems?](https://arxiv.org/abs/2609.13579) (tier 1, seen_count=1) — 觀察中
-- [FLoKD: Adaptive Knowledge Distillation for Federated Low-Rank LLM over Wireless Networks](https://arxiv.org/abs/2609.13580) (tier 1, seen_count=1) — 觀察中
-- [$\tau$-Elicitation: Benchmarking multi-turn entity extraction in voice agents](https://arxiv.org/abs/2609.13602) (tier 1, seen_count=1) — 觀察中
-- [Identity Is More Than Recall: A Benchmark for Persistent Identity in Deployed AI Agents](https://arxiv.org/abs/2609.13637) (tier 1, seen_count=1) — 觀察中
-- [Solar Intelligence](https://arxiv.org/abs/2609.13648) (tier 1, seen_count=1) — 觀察中
-- [Safety as a Constraint: Fine-Tuning a LLM Recommender to Explain Itself](https://arxiv.org/abs/2609.13657) (tier 1, seen_count=1) — 觀察中
-- [FedV-KGQA in Practice: Design Lessons and an Interactive Prototype](https://arxiv.org/abs/2609.13661) (tier 1, seen_count=1) — 觀察中
-- [Cost Characterization of Vertically Partitioned Federated Knowledge Graphs](https://arxiv.org/abs/2609.13664) (tier 1, seen_count=1) — 觀察中
-- [GeoSkill:Experience-Driven Hierarchical Skill Learning with Collaborative Revision forGeospatialAgents](https://arxiv.org/abs/2609.13667) (tier 1, seen_count=1) — 觀察中
-- [Enhancing Event Candidate Acquisition for Event Linking](https://arxiv.org/abs/2609.13670) (tier 1, seen_count=1) — 觀察中
-- [Recoverability as a System Primitive for Long-Horizon AI Agents](https://arxiv.org/abs/2609.13672) (tier 1, seen_count=1) — 觀察中
-- [Windowed A-K-MDP](https://arxiv.org/abs/2609.13676) (tier 1, seen_count=1) — 觀察中
-- [Drift-Constrained Optimization: Only Direction Matters in Fine-Tuning Instruct Models](https://arxiv.org/abs/2609.13680) (tier 1, seen_count=1) — 觀察中
-- [Degraded but Not Entirely Ineffective: PE-Based Deformable Graph Neural Networks](https://arxiv.org/abs/2609.13712) (tier 1, seen_count=1) — 觀察中
-- [JaxAHT: A JAX-Based Library for Ad Hoc Teamwork](https://arxiv.org/abs/2609.13716) (tier 1, seen_count=1) — 觀察中
-- [MANAS-2: Constrained Reconstruction for EEG Foundation Models](https://arxiv.org/abs/2609.13717) (tier 1, seen_count=1) — 觀察中
-- [IBBench-Light: A Paired Evaluation of Task-Conditioned Responses to External Directives](https://arxiv.org/abs/2609.13725) (tier 1, seen_count=1) — 觀察中
-- [Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges](https://arxiv.org/abs/2609.13731) (tier 1, seen_count=1) — 觀察中
-- [How Many Thoughts Can a Vector Hold? The Capacity of Reasoning by Superposition](https://arxiv.org/abs/2609.13747) (tier 1, seen_count=1) — 觀察中
-- [Positioning manuscripts in the scientific landscape with agentic AI](https://arxiv.org/abs/2609.13760) (tier 1, seen_count=1) — 觀察中
-- [Homeostatic Continual Learning](https://arxiv.org/abs/2609.13771) (tier 1, seen_count=1) — 觀察中
-- [Surprising Effectiveness of Self-Demonstrations in Enhancing Schema-Ontology Mapping with LLMs](https://arxiv.org/abs/2609.13776) (tier 1, seen_count=1) — 觀察中
-- [Partition Scores Are Not System Scores: Deployment-Fidelity Gaps in Decomposed Algorithm Selection](https://arxiv.org/abs/2609.13785) (tier 1, seen_count=1) — 觀察中
-- [Do Not Restart: Residual Completion for Stateful Agent Handoffs](https://arxiv.org/abs/2609.13800) (tier 1, seen_count=1) — 觀察中
-- [LLM-Enhanced Multi-Agent Reinforcement Learning for Unified Electric Vehicles-Charging Station-Grid Optimization in Public Charging Systems](https://arxiv.org/abs/2609.13805) (tier 1, seen_count=1) — 觀察中
-- [Bypass Observation: A Conceptual Design of a Non-Intrusive Layer-Wise Semantic Extraction Architecture](https://arxiv.org/abs/2609.13807) (tier 1, seen_count=1) — 觀察中
-- [ViperQ: Order Flow Pattern Recognition via Auction Market Theory for Reinforcement Learning Trading](https://arxiv.org/abs/2609.13825) (tier 1, seen_count=1) — 觀察中
-- [UniCAR-RL: Seeing Better before Thinking Deeper in Visual Mathematics](https://arxiv.org/abs/2609.13849) (tier 1, seen_count=1) — 觀察中
-- [ClinAgent: A ReAct-Based Agent for Conversational Access to Clinical Trial Information](https://arxiv.org/abs/2609.13860) (tier 1, seen_count=1) — 觀察中
-- [Map Users and Mapmakers: The Scope of Cognitive Attribution from Acquired Representations](https://arxiv.org/abs/2609.13879) (tier 1, seen_count=1) — 觀察中
-- [LoRA Fine-Tuned Models for Control Systems Course Q\&amp;A: A Multidimensional Evaluation of Model Scale and Rank Effects](https://arxiv.org/abs/2609.13918) (tier 1, seen_count=1) — 觀察中
-- [SAILOR: Solver-Assisted Interactive LLM-based Optimization Recovery](https://arxiv.org/abs/2609.13945) (tier 1, seen_count=1) — 觀察中
-- [Synthetic Data in Marketing Research: How to Evaluate and When to Trust](https://arxiv.org/abs/2609.13995) (tier 1, seen_count=1) — 觀察中
-- [Convergent Emergence of In-Context Learning Across Modalities](https://arxiv.org/abs/2609.14011) (tier 1, seen_count=1) — 觀察中
-- [Schizophrenia Detection from EEG Signals: A Transformer Framework with Spectrogram Representation](https://arxiv.org/abs/2609.14015) (tier 1, seen_count=1) — 觀察中
-- [VeriDx: Earning the Right to Diagnose with Disease-Centric Verification](https://arxiv.org/abs/2609.14018) (tier 1, seen_count=1) — 觀察中
-- [Semantic Knowledge Technologies: what the Semantic Web lost sight of, and what it never had](https://arxiv.org/abs/2609.14121) (tier 1, seen_count=1) — 觀察中
-- [MOSCOPT: Mixture-of-Skills Collective Optimization for LLM Agents](https://arxiv.org/abs/2609.14399) (tier 1, seen_count=1) — 觀察中
-- [Dynamic Learning Solutions: A System for Personalized Educational Video Generation](https://arxiv.org/abs/2609.14408) (tier 1, seen_count=1) — 觀察中
-- [Question&#x27;s Gambit: The First Move Matters in Agentic Deep Search](https://arxiv.org/abs/2609.14412) (tier 1, seen_count=1) — 觀察中
-- [Safety Signals to Verify NetOps Agents with Action-Level Granularity](https://arxiv.org/abs/2609.14422) (tier 1, seen_count=1) — 觀察中
-- [When does a scaling result justify a different allocation? A critical review of resource-allocation evidence for AI systems](https://arxiv.org/abs/2609.14500) (tier 1, seen_count=1) — 觀察中
-- [Beyond Scene Description: Multi-Agent Orchestration for Non-visual Access to Virtual Worlds](https://arxiv.org/abs/2609.14512) (tier 1, seen_count=1) — 觀察中
-- [OptoAgent: A Trustworthy Multi-Agent Framework for Opportunistic Vision Micro-Screening in Classroom Environments](https://arxiv.org/abs/2609.14514) (tier 1, seen_count=1) — 觀察中
-- [AI Deployment Accountability Engineering: A Vision for Accountable AI in Safety-Critical Socio-Technical Systems](https://arxiv.org/abs/2609.14592) (tier 1, seen_count=1) — 觀察中
-- [A note on goal-based hierarchical RL](https://arxiv.org/abs/2609.14605) (tier 1, seen_count=1) — 觀察中
-- [DynSTEER: Dynamic Stage-wise Trajectory Evaluation and Execution-time Review for Agents](https://arxiv.org/abs/2609.14637) (tier 1, seen_count=1) — 觀察中
-- [Diffusion-Based Generation of Gait Trajectories](https://arxiv.org/abs/2609.14642) (tier 1, seen_count=1) — 觀察中
-- [Lightning Weave: Improving the Accuracy-Efficiency Frontier of Reasoning Models through Capability Composition](https://arxiv.org/abs/2609.14708) (tier 1, seen_count=1) — 觀察中
-- [Depth and Scale in the Sub-150M Regime: JugnuLM-53M vs JugnuLM-110M](https://arxiv.org/abs/2609.14715) (tier 1, seen_count=1) — 觀察中
-- [Moral Rebel Agents: Decision-Making Under Conflicting Obligations](https://arxiv.org/abs/2609.14716) (tier 1, seen_count=1) — 觀察中
-- [Bayesian Intelligence from the Outside](https://arxiv.org/abs/2609.14724) (tier 1, seen_count=1) — 觀察中
-- [AppliedScientist: Automated Scientific Revision Through Iterative AI Reviewing](https://arxiv.org/abs/2609.14738) (tier 1, seen_count=1) — 觀察中
-- [AcquireBound: Runtime Authorization for Resources Acquired by AI Agents](https://arxiv.org/abs/2609.14744) (tier 1, seen_count=1) — 觀察中
-- [AI Persuasion as a Threat to Human Control](https://arxiv.org/abs/2609.14796) (tier 1, seen_count=1) — 觀察中
-- [Another Blueprint In The Wall: How to Ask Frontier AI Like a Kid?](https://arxiv.org/abs/2609.14803) (tier 1, seen_count=1) — 觀察中
-- [Crypto Accounting Bench: Evaluating Frontier and Open-Weight Models on Crypto-Asset Accounting Tasks](https://arxiv.org/abs/2609.14811) (tier 1, seen_count=1) — 觀察中
-- [ANASSA: An Agentic AI Orchestration Framework for Spatial Intelligence](https://arxiv.org/abs/2609.14824) (tier 1, seen_count=1) — 觀察中
-- [One Model, Two Physical Stories: Auditing Misalignment in Multi-Modal World Modeling](https://arxiv.org/abs/2609.14833) (tier 1, seen_count=1) — 觀察中
-- [El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840) (tier 1, seen_count=1) — 觀察中
-- [Self-Orchestrating Language Models: Leveraging Semantic Dependence for Efficient Inference](https://arxiv.org/abs/2609.14850) (tier 1, seen_count=1) — 觀察中
-- [Domain Generalization for Smartphone-Based Human Activity Recognition: A Systematic Analysis of Components and Interactions](https://arxiv.org/abs/2609.14863) (tier 1, seen_count=1) — 觀察中
-- [GGUF-Metadata Prediction of Single-Sequence llama.cpp Throughput Across Three Systems](https://arxiv.org/abs/2609.14864) (tier 1, seen_count=1) — 觀察中
-- [Externalizing Requirement-to-Repair Artifacts as Observable Traces for LLM-Based Program Repair](https://arxiv.org/abs/2609.14913) (tier 1, seen_count=1) — 觀察中
-- [Geometric Flow enhanced Graph Coarsening](https://arxiv.org/abs/2609.14962) (tier 1, seen_count=1) — 觀察中
-- [Towards a knowledge-enhanced single-cell foundation model](https://arxiv.org/abs/2609.14970) (tier 1, seen_count=1) — 觀察中
-- [MemRiskBench: Trace-Aware Risk-Preserving Evaluation for Long-Horizon LLM Agents](https://arxiv.org/abs/2609.14976) (tier 1, seen_count=1) — 觀察中
-- [Converting Sequenced Fuzzy Cognitive Maps to Causal Virtual Worlds with Large Video Generators](https://arxiv.org/abs/2609.14985) (tier 1, seen_count=1) — 觀察中
-- [Shallow Beliefs: Synthetic document finetuning does not inoculate against emergent misalignment from reward hacking](https://arxiv.org/abs/2609.14998) (tier 1, seen_count=1) — 觀察中
-- [CoMem: Collective-Individual Memory Synergy for Evolutionary Multi-Agent Systems](https://arxiv.org/abs/2609.15009) (tier 1, seen_count=1) — 觀察中
-- [Semantic-TVM: Structure-Preserving Trustworthy Virtual Memory for Memory-Augmented and Tool-Using Agents](https://arxiv.org/abs/2609.15011) (tier 1, seen_count=1) — 觀察中
-- [Overflip: Repetition-Induced Label Flips in Guardrail Models](https://arxiv.org/abs/2609.15013) (tier 1, seen_count=1) — 觀察中
-- [Four Ledgers, Not One Score: Responsible Communication of LLM-Judge Calibration in Biomedical ML](https://arxiv.org/abs/2609.15015) (tier 1, seen_count=1) — 觀察中
-- [Horizon-specific Expert Fusion for Photovoltaic Power Forecasting](https://arxiv.org/abs/2609.15035) (tier 1, seen_count=1) — 觀察中
-- [The average-farmer illusion in language-model simulations of agricultural decisions](https://arxiv.org/abs/2609.15038) (tier 1, seen_count=1) — 觀察中
-- [BusMA: A Bus Communication Substrate for Multi-Agent Systems](https://arxiv.org/abs/2609.15054) (tier 1, seen_count=1) — 觀察中
-- [Enabling Creative Exploration for Vibe Design Agents](https://arxiv.org/abs/2609.15078) (tier 1, seen_count=1) — 觀察中
-- [ER-EDF: A Psychology-Grounded Emotion Regulation Framework for Speech Empathetic Dialogue Generation in Large Audio-Language Models](https://arxiv.org/abs/2609.15089) (tier 1, seen_count=1) — 觀察中
-- [OpenAI4S: Code as Action, Science as Sessions](https://arxiv.org/abs/2609.15096) (tier 1, seen_count=1) — 觀察中
-- [Medical Knowledge Simplification for Patients in the Era of LLMs: A Case Study on Diabetes](https://arxiv.org/abs/2609.15129) (tier 1, seen_count=1) — 觀察中
-- [HazardAuditor: From Executable Threats to Safer Computer-Use Agents](https://arxiv.org/abs/2609.15134) (tier 1, seen_count=1) — 觀察中
-- [T-LoopFormer: Token-Level Elastic-Depth Looped Transformers for Latent Reasoning With Dynamic Routing](https://arxiv.org/abs/2609.15160) (tier 1, seen_count=1) — 觀察中
-- [STHMoE: Hypergraph-Enhanced Heterogeneous Dependency Coordination for LLM-Based Urban Traffic Data Forecasting](https://arxiv.org/abs/2609.15172) (tier 1, seen_count=1) — 觀察中
-- [VisInteract: Towards Dynamic Interactive Text-to-Visualization under Imperfect Queries](https://arxiv.org/abs/2609.15182) (tier 1, seen_count=1) — 觀察中
-- [Issue Bias in Generative AI Writing Assistance: Political Issues and LLMs in the Swedish 2026 Election](https://arxiv.org/abs/2609.15207) (tier 1, seen_count=1) — 觀察中
-- [From Ideas to Actions: A Public-Data Decision-Support Toolchain Across the Venture Lifecycle](https://arxiv.org/abs/2609.15219) (tier 1, seen_count=1) — 觀察中
-- [CWM: Controllable White-Box Meta-Prompting for Adaptive Retrieval-Augmented Generation and Reasoning Ability](https://arxiv.org/abs/2609.15234) (tier 1, seen_count=1) — 觀察中
-- [Empirical Evaluation of Open-Source Large Language Models for Retrieval-Augmented Generation in ESG Domain](https://arxiv.org/abs/2609.15242) (tier 1, seen_count=1) — 觀察中
-- [ProIQA: A Process-Based Framework for Fine-Grained Math Item Quality Assessment](https://arxiv.org/abs/2609.15292) (tier 1, seen_count=1) — 觀察中
-- [Why LLM Agents Collapse Without Oversight: The Enforcement Gap as the Mechanism Behind Emergence World Failures](https://arxiv.org/abs/2609.15293) (tier 1, seen_count=1) — 觀察中
-- [Reason What Matters: Retrieval-Grounded Reasoning for Universal Multimodal Embeddings](https://arxiv.org/abs/2609.15296) (tier 1, seen_count=1) — 觀察中
-- [Evaluation Metrics for Safe Reinforcement Learning](https://arxiv.org/abs/2609.15315) (tier 1, seen_count=1) — 觀察中
-- [Parameter-Efficient Adaptation of Pretrained Language Models for Time-Series Forecasting](https://arxiv.org/abs/2609.15344) (tier 1, seen_count=1) — 觀察中
-- [MAPS: Memory-Aware Predictive Scheduling Framework for Large Language Model Serving](https://arxiv.org/abs/2609.15359) (tier 1, seen_count=1) — 觀察中
-- [RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments](https://arxiv.org/abs/2609.15364) (tier 1, seen_count=1) — 觀察中
-- [SkillLift: Learning Dense Rubrics from Sparse Oracles for Efficient Skill Evolution](https://arxiv.org/abs/2609.15396) (tier 1, seen_count=1) — 觀察中
-- [When Tool Calls Succeed but Workflows Fail: Anomalies at the Agent-Tool Boundary](https://arxiv.org/abs/2609.15397) (tier 1, seen_count=1) — 觀察中
-- [Who Teaches Which Token? Verifier-Gated Multi-Expert On-Policy Distillation for Scientific Reasoning](https://arxiv.org/abs/2609.15404) (tier 1, seen_count=1) — 觀察中
-- [Can AI systems have free will?](https://arxiv.org/abs/2609.15407) (tier 1, seen_count=1) — 觀察中
-- [Empirical Evaluation of Task-Based Permission Scoping Architecture for AI Agents](https://arxiv.org/abs/2609.15422) (tier 1, seen_count=1) — 觀察中
-- [HISPO: Hierarchical Importance-Sampling Policy Optimization with Entropy-Derived Segments](https://arxiv.org/abs/2609.15471) (tier 1, seen_count=1) — 觀察中
-- [The Troy Moment of AI: Why Some Will Cheat and Some Will Follow?](https://arxiv.org/abs/2609.15494) (tier 1, seen_count=1) — 觀察中
-- [Beyond Safe Answers: Segment-Aware Listwise Alignment for Reasoning Safety in Large Reasoning Models](https://arxiv.org/abs/2609.15517) (tier 1, seen_count=1) — 觀察中
-- [Option-Aware Retrieval and Task-Specific VLM Adaptation for Medical VQA](https://arxiv.org/abs/2609.15530) (tier 1, seen_count=1) — 觀察中
-- [GRIN+: Towards Fast Yet Effective Machine Unlearning for Imbalanced Medical Data](https://arxiv.org/abs/2609.15571) (tier 1, seen_count=1) — 觀察中
-- [Diversified and Perceptible Counterfactual Examples Leveraging Expert Knowledge](https://arxiv.org/abs/2609.15609) (tier 1, seen_count=1) — 觀察中
-- [Potential of Artificial Intelligence Algorithms for Identification of Relevant Diagnostic and Prognostic Biomarkers of Early-Stage Liver Cancer](https://arxiv.org/abs/2609.15638) (tier 1, seen_count=1) — 觀察中
-- [EEG-Xplain: Decoding Neural Black-Boxes of EEG Foundation Models](https://arxiv.org/abs/2609.15687) (tier 1, seen_count=1) — 觀察中
-- [NoteVQA: Benchmarking VLMs on Real-Life Questions from Human Communities](https://arxiv.org/abs/2609.15695) (tier 1, seen_count=1) — 觀察中
-- [Beyond Accuracy: Robustness, Cost, and Governance Trade-offs for Vision-Language Models in Templated Document Extraction](https://arxiv.org/abs/2609.15706) (tier 1, seen_count=1) — 觀察中
-- [New Conditions for Philosophers to Catch the Wave of Citizen Deliberation in the Age of Artificial Intelligence in advance](https://arxiv.org/abs/2609.15707) (tier 1, seen_count=1) — 觀察中
-- [Predicting build orientation for SLM dental parts: a comparison of rotation representations and direct vector regression](https://arxiv.org/abs/2609.15710) (tier 1, seen_count=1) — 觀察中
-- [Data storytelling meets interpretable machine learning: Decoding AI decisions for non-experts without revealing sensitive data and model details](https://arxiv.org/abs/2609.15722) (tier 1, seen_count=1) — 觀察中
-- [Are LLMs Good Financial User Simulators? A Preliminary Study](https://arxiv.org/abs/2609.15727) (tier 1, seen_count=1) — 觀察中
-- [Design of a Deep Learning Credit Risk Early Warning System Integrating Multi-source Heterogeneous Data](https://arxiv.org/abs/2609.15744) (tier 1, seen_count=1) — 觀察中
-- [EvoOntology: A Self-Evolving Ontology Layer for Data Agents](https://arxiv.org/abs/2609.15779) (tier 1, seen_count=1) — 觀察中
-- [KnowBench: Effort Reduction as a Unified, Deployment-Grounded Benchmark for Clinical AI](https://arxiv.org/abs/2609.15794) (tier 1, seen_count=1) — 觀察中
-- [Navigating Sparse Evidence: Agentic Visual RAG via Explicit Context Selection and Consolidation](https://arxiv.org/abs/2609.15800) (tier 1, seen_count=1) — 觀察中
-- [When Should a World Model Move? Loss-Conditioned State Execution](https://arxiv.org/abs/2609.15801) (tier 1, seen_count=1) — 觀察中
-- [Atria Dawn: The Dawn of Agentic Superintelligence](https://arxiv.org/abs/2609.15818) (tier 1, seen_count=1) — 觀察中
-- [AlgoEvo: Self-Evolving Agentic Search for Automated Algorithm Discovery](https://arxiv.org/abs/2609.15820) (tier 1, seen_count=1) — 觀察中
-- [LongAgent: History-Guided Agentic Search for Longitudinal Outcome Prediction](https://arxiv.org/abs/2609.15859) (tier 1, seen_count=1) — 觀察中
-- [Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress](https://arxiv.org/abs/2609.15919) (tier 1, seen_count=1) — 觀察中
-- [Recurrent GraphNeural NetworkswithSet-BasedAggregation](https://arxiv.org/abs/2609.15932) (tier 1, seen_count=1) — 觀察中
-- [Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science](https://arxiv.org/abs/2609.15983) (tier 1, seen_count=1) — 觀察中
-- [Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection](https://arxiv.org/abs/2609.15989) (tier 1, seen_count=1) — 觀察中
-- [Towards Optimizing SQL Generation via LLM Routing](https://arxiv.org/abs/2411.04319) (tier 1, seen_count=1) — 觀察中
-- [Beyond Quacking: Deep Integration of Language Models and RAG into DuckDB](https://arxiv.org/abs/2504.01157) (tier 1, seen_count=1) — 觀察中
-- [Generalization Can Emerge in Tabular Foundation Models From a Single Table](https://arxiv.org/abs/2511.09665) (tier 1, seen_count=1) — 觀察中
-- [Physically Aware Radiomics Without Interpolation: Disentangling Voxel Geometry and Signal Modification in CT and MRI](https://arxiv.org/abs/2607.12399) (tier 1, seen_count=1) — 觀察中
-- [Natural-Language to SysMLv2 Translation via Conformance-Driven Iterative Refinement](https://arxiv.org/abs/2607.14162) (tier 1, seen_count=1) — 觀察中
-- [Multilingual Agent System for Inclusive Wildfire Evacuation Guidance](https://arxiv.org/abs/2609.03301) (tier 1, seen_count=1) — 觀察中
-- [From Semantic to Token Communication: The Next Paradigm for Large-Model-Driven 6G Intelligent Connectivity](https://arxiv.org/abs/2609.10714) (tier 1, seen_count=1) — 觀察中
-- [Is Bash All You Need? An Empirical Study of Tool Interfaces for Enterprise Digital Worker Agents](https://arxiv.org/abs/2609.11999) (tier 1, seen_count=1) — 觀察中
-- [LLMs or Naive Bayes? Old Gems or New Ways](https://arxiv.org/abs/2609.13185) (tier 1, seen_count=1) — 觀察中
-- [Diagnosing Faults in Reinforcement Learning Simulators and World Models with Canonical Polynomial Invariants](https://arxiv.org/abs/2609.13194) (tier 1, seen_count=1) — 觀察中
-- [Planning as Dynamics Relaxation: Hippocampal Recurrent Network Realizes Optimal Goal-Directed Navigation](https://arxiv.org/abs/2609.13219) (tier 1, seen_count=1) — 觀察中
-- [Chemical and geometric representation fidelity improves drug--target affinity prediction](https://arxiv.org/abs/2609.13230) (tier 1, seen_count=1) — 觀察中
-- [ShieldVLA: Feasibility-Aware Safety Alignment for Vision-Language-Action Models](https://arxiv.org/abs/2609.13231) (tier 1, seen_count=1) — 觀察中
-- [Evaluation of MLLM-Agnostic Plug-and-Play Keyframe Selection Methods for Long Video Understanding](https://arxiv.org/abs/2609.13250) (tier 1, seen_count=1) — 觀察中
-- [An Evolutionary Computation Framework for Multi-Agent Q-Learning with Mean-Field Environmental Feedback](https://arxiv.org/abs/2609.13253) (tier 1, seen_count=1) — 觀察中
-- [(How) Do MLLMs Report Bistable Images Like Humans?](https://arxiv.org/abs/2609.13254) (tier 1, seen_count=1) — 觀察中
-- [Sampling headroom is not selection gain: a compute-value audit of test-time scaling for video world models](https://arxiv.org/abs/2609.13257) (tier 1, seen_count=1) — 觀察中
-- [TryOnReward: Learning Foveated Consistency for Reinforcement Fine-Tuning of Virtual Try-On](https://arxiv.org/abs/2609.13259) (tier 1, seen_count=1) — 觀察中
-- [From Process Loss to Assembly Bonus: Human-Grounded Diagnosis of Multi-Agent LLM Collaboration](https://arxiv.org/abs/2609.13261) (tier 1, seen_count=1) — 觀察中
-- [BEACON: Behavior and Appearance Control for Subject-Specific Video Generation](https://arxiv.org/abs/2609.13264) (tier 1, seen_count=1) — 觀察中
-- [Forward-Facing Near-Infrared Adds Little to Colour for Farm-Machinery Traversability: A Site-Disjoint Evaluation of Sensor-Dependent Spatial Leakage](https://arxiv.org/abs/2609.13265) (tier 1, seen_count=1) — 觀察中
-- [Multimodal-Multiresolution Foundation Model for Lunar Remote Sensing](https://arxiv.org/abs/2609.13283) (tier 1, seen_count=1) — 觀察中
-- [Conflict-Predictive Variable Horizons in Multi-Drone Distributed Model Predictive Control](https://arxiv.org/abs/2609.13270) (tier 1, seen_count=1) — 觀察中
-- [LLaDA-UI: Bringing Block-wise Diffusion to Vision-Language GUI Agents](https://arxiv.org/abs/2609.13287) (tier 1, seen_count=1) — 觀察中
-- [Variational Template Matching with Statistical Fusion for Anomaly Detection in Patterned Structures](https://arxiv.org/abs/2609.13298) (tier 1, seen_count=1) — 觀察中
-- [Adaptive Conformal Redistribution for Inter-class Transitional Uncertainty in Medical Image Classification](https://arxiv.org/abs/2609.13303) (tier 1, seen_count=1) — 觀察中
-- [IMM-based Multiple Object Tracking using a State Prediction Neural Network](https://arxiv.org/abs/2609.13307) (tier 1, seen_count=1) — 觀察中
-- [Task-Based CT Protocol Optimization Using Reinforcement Learning and Virtual Imaging Trials](https://arxiv.org/abs/2609.13309) (tier 1, seen_count=1) — 觀察中
-- [Feasibility and Memory Mechanisms of Chern-Simons Context Reservoir Computation](https://arxiv.org/abs/2609.13315) (tier 1, seen_count=1) — 觀察中
-- [Decoupling Error Attribution in Cloud-Native Graph-RAG: A Data Integrity Diagnostic Framework](https://arxiv.org/abs/2609.13324) (tier 1, seen_count=1) — 觀察中
-- [Pedestrian Crossing Intent Classification From Event-Based Vision Using Convolutional Spiking Neural Networks With Temporal Augmentation](https://arxiv.org/abs/2609.13328) (tier 1, seen_count=1) — 觀察中
-- [The Agentic Company OS: Substrate Inversion for Sustained Enterprise Agent Deployment](https://arxiv.org/abs/2609.13334) (tier 1, seen_count=1) — 觀察中
-- [Bridging Thought and Action: Taming Long-Horizon Instability in Open-Source LLM Agents with a MetaTool-Enhanced ROS Framework](https://arxiv.org/abs/2609.13335) (tier 1, seen_count=1) — 觀察中
-- [ProtoCAM: Interpretable Few-Shot Mask-Guided Prototypical Learning for Breast Lesion Classification in Ultrasound Imaging](https://arxiv.org/abs/2609.13340) (tier 1, seen_count=1) — 觀察中
-- [SkillAtlas: An Attack Trace Library for Agent Skills](https://arxiv.org/abs/2609.13353) (tier 1, seen_count=1) — 觀察中
-- [Task-Aware Federated Fine-Tuning for MoE-based Large Language Models](https://arxiv.org/abs/2609.13395) (tier 1, seen_count=1) — 觀察中
-- [ReCAST: Reward Credit Assignment across Timesteps for Online Diffusion Reinforcement](https://arxiv.org/abs/2609.13425) (tier 1, seen_count=1) — 觀察中
-- [Chance-Constrained Belief-Space Maneuver Planning for Autonomous Collision Avoidance Under Uncertainty](https://arxiv.org/abs/2609.13428) (tier 1, seen_count=1) — 觀察中
-- [Certifiably Interpretable Training of ReLU-MLPs for Boolean Tasks with Guaranteed Truth-Table Generalization](https://arxiv.org/abs/2609.13439) (tier 1, seen_count=1) — 觀察中
-- [Learning to Solve Hard Problems in RL for LLMs by Never Giving Up](https://arxiv.org/abs/2609.13443) (tier 1, seen_count=1) — 觀察中
-- [Hindsight Bias in Clinical Temporal Reasoning: How Future Data Exposure Affects Large Language Model Judgment](https://arxiv.org/abs/2609.13454) (tier 1, seen_count=1) — 觀察中
-- [Symmetry- and Property-Aware Crystal Generation with Reinforcement Learning for Inverse Materials Design](https://arxiv.org/abs/2609.13468) (tier 1, seen_count=1) — 觀察中
-- [Edge-addition monotonicity of positive p-energy fails for every p &gt;= 1](https://arxiv.org/abs/2609.13476) (tier 1, seen_count=1) — 觀察中
-- [Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study](https://arxiv.org/abs/2609.13494) (tier 1, seen_count=1) — 觀察中
-- [Building a Production Greek-English Speech Recognizer](https://arxiv.org/abs/2609.13498) (tier 1, seen_count=1) — 觀察中
-- [Canaries in the Bank: Auditing User-Level Privacy in Private Evolution](https://arxiv.org/abs/2609.13499) (tier 1, seen_count=1) — 觀察中
-- [One Spectrum, Two Resources: Data-Memory Scaling in Autoregressive Prediction](https://arxiv.org/abs/2609.13500) (tier 1, seen_count=1) — 觀察中
-- [A Three-Axis Stress Test of LLM vs Classical ML for Network Intrusion Detection under Distribution Shift and Adversarial Evasion](https://arxiv.org/abs/2609.13511) (tier 1, seen_count=1) — 觀察中
-- [Adaptive Phase-Switching for Communication-Efficient Federated LoRA Fine-Tuning](https://arxiv.org/abs/2609.13512) (tier 1, seen_count=1) — 觀察中
-- [Positive Topology and Feasible Refinement: Forcing Matrices, Positivity, and Information](https://arxiv.org/abs/2609.13523) (tier 1, seen_count=1) — 觀察中
-- [Rolling Day-Wise Mortality Prediction in Critically Ill Patients With AKI on CRRT Utilizing Machine Pressure Waveforms](https://arxiv.org/abs/2609.13524) (tier 1, seen_count=1) — 觀察中
-- [Generative Interpretability via Scalable Neuro-Symbolic Models](https://arxiv.org/abs/2609.13529) (tier 1, seen_count=1) — 觀察中
-- [Attention Is All You Need (to Avoid Spurious Oscillations)](https://arxiv.org/abs/2609.13531) (tier 1, seen_count=1) — 觀察中
-- [Domain-Specific Jargon in Large Language Models: A Comparative Analysis between General-Purpose and Specialist Models](https://arxiv.org/abs/2609.13556) (tier 1, seen_count=1) — 觀察中
-- [Same Patient, Different Order: Action-Level Reliability of Clinical LLM Agents Under Repeated Runs](https://arxiv.org/abs/2609.13582) (tier 1, seen_count=1) — 觀察中
-- [mKernel: Fast Multi-GPU, Multi-Node Fused Kernels](https://arxiv.org/abs/2609.13585) (tier 1, seen_count=1) — 觀察中
-- [Predictive audio representations for early detection and tracking of hidden dynamic objects](https://arxiv.org/abs/2609.13595) (tier 1, seen_count=1) — 觀察中
-- [An Efficient and Modular Framework for Targeted Harm Mitigation in LLMS](https://arxiv.org/abs/2609.13624) (tier 1, seen_count=1) — 觀察中
-- [FaithfulBench: Does AI Counsel Uphold or Undermine the User&#x27;s Professed Faith?](https://arxiv.org/abs/2609.13634) (tier 1, seen_count=1) — 觀察中
-- [LayerRoute: Adaptive Layer-Skipping with LoRA-Preserved Quality for Efficient LLM Inference](https://arxiv.org/abs/2609.13682) (tier 1, seen_count=1) — 觀察中
-- [Not all Negation Cues are Equal: Affixal Negations Yield Better Negation Understanding](https://arxiv.org/abs/2609.13685) (tier 1, seen_count=1) — 觀察中
-- [Leakage-Safe and Scheduler-Aware Machine Learning for Grid Job Runtime Prediction](https://arxiv.org/abs/2609.13701) (tier 1, seen_count=1) — 觀察中
-- [Gap Entropy and Almost Instance-Wise Optimal Best-Arm Identification](https://arxiv.org/abs/2609.13703) (tier 1, seen_count=1) — 觀察中
-- [Oops, Not Now: PEARL, a RAG-Based Support Agent for Gameplay and What Players Want from AI Help](https://arxiv.org/abs/2609.13718) (tier 1, seen_count=1) — 觀察中
-- [TyPatch: Transforming Patches into Typestate Rules for Kernel Bug Detection](https://arxiv.org/abs/2609.13728) (tier 1, seen_count=1) — 觀察中
-- [PolicyMem: Geometric Policy Memory for LLM Governance](https://arxiv.org/abs/2609.13734) (tier 1, seen_count=1) — 觀察中
-- [HarnessBandit: Joint Learnability-Transferability Scheduling for Multi-Harness Agentic Reinforcement Learning](https://arxiv.org/abs/2609.13739) (tier 1, seen_count=1) — 觀察中
-- [On the Equivalence of Stochastic Control and Path Space Formulations for Schr\&quot;odinger Bridges over Compact Connected Lie Groups](https://arxiv.org/abs/2609.13758) (tier 1, seen_count=1) — 觀察中
-- [GEAR: From Dynamic Encoding to Dynamic Activation in Social Trajectory Prediction](https://arxiv.org/abs/2609.13778) (tier 1, seen_count=1) — 觀察中
-- [Understanding the Limits of Agentic ICD Coding](https://arxiv.org/abs/2609.13806) (tier 1, seen_count=1) — 觀察中
-- [Exploring Automated Vulnerability Identification in JavaScript Code Using Large Language Models](https://arxiv.org/abs/2609.13816) (tier 1, seen_count=1) — 觀察中
-- [CRAF: Cross-View Residual-Aware Fusion for Deepfake Speech Detection](https://arxiv.org/abs/2609.13842) (tier 1, seen_count=1) — 觀察中
-- [LePlanner: An Iterative Amortized Controller For World Models](https://arxiv.org/abs/2609.13845) (tier 1, seen_count=1) — 觀察中
-- [ReWeight: Leveraging Human Data for VLA Post-Training via Demonstration Retrieval and Sample Weighting](https://arxiv.org/abs/2609.13851) (tier 1, seen_count=1) — 觀察中
-- [Bangla Sentence Function Classification: Corpus Development, Model Benchmarking, and Interpretability](https://arxiv.org/abs/2609.13869) (tier 1, seen_count=1) — 觀察中
-- [Trustworthy, Explainable, and Sustainable Decentralized Intelligence for 6G Networks](https://arxiv.org/abs/2609.13872) (tier 1, seen_count=1) — 觀察中
-- [When Malicious Instructions Persist: Persistent Memory Poisoning Attack on Harness-Based Agents](https://arxiv.org/abs/2609.13889) (tier 1, seen_count=1) — 觀察中
-- [Phorecaster365: A Human-Supervised Reference Architecture for Hybrid Pharmaceutical Sales Forecasting and Planning Decision Support](https://arxiv.org/abs/2609.13907) (tier 1, seen_count=1) — 觀察中
-- [DiTAR+: Dual Optimization for Robust Autoregressive Diffusion Speech Synthesis](https://arxiv.org/abs/2609.13909) (tier 1, seen_count=1) — 觀察中
-- [Finite-Time Node Separation in Recurrent Graph Neural Networks with Persistent Gaussian Perturbations](https://arxiv.org/abs/2609.13920) (tier 1, seen_count=1) — 觀察中
-- [CRITICS - Critical Science Without Borders: Language Models to Promote Critical Thinking in Science Education](https://arxiv.org/abs/2609.13942) (tier 1, seen_count=1) — 觀察中
-- [Hardware-Aware Learned Representation Compression for Distributed In-Sensor Vision](https://arxiv.org/abs/2609.13947) (tier 1, seen_count=1) — 觀察中
-- [Thought without systematicity? Evaluating reasoning models on rule induction tasks](https://arxiv.org/abs/2609.13948) (tier 1, seen_count=1) — 觀察中
-- [SGWIB:Sliced Gromov-Wasserstein Information Bottleneck for Video Highlight Detection](https://arxiv.org/abs/2609.13966) (tier 1, seen_count=1) — 觀察中
-- [Mizan: A National Benchmark for Evaluating Large Language Models on Iraqi Arabic and the Iraqi Civic Context](https://arxiv.org/abs/2609.13980) (tier 1, seen_count=1) — 觀察中
-- [Rethinking the Implications of Human Feedback for Preference Learning in Human-Robot Collaboration](https://arxiv.org/abs/2609.13982) (tier 1, seen_count=1) — 觀察中
-- [Confuse the Model, Control the Flow: Understanding and Mitigating Privacy Leakage from LLM Agents with Information Flow Control](https://arxiv.org/abs/2609.14003) (tier 1, seen_count=1) — 觀察中
-- [AGENTQ: Quantization-Conditioned Backdoor Attacks on LLM Agents](https://arxiv.org/abs/2609.14060) (tier 1, seen_count=1) — 觀察中
-- [GraMRAG: Orchestrating Multi-Agent Multi-Step Reasoning via Graph Memory with Reinforcement Learning](https://arxiv.org/abs/2609.14066) (tier 1, seen_count=1) — 觀察中
-- [LPA-CWM: A Learned Physical Adjudicator for Motion Reasoning with Counterfactual World Models](https://arxiv.org/abs/2609.14073) (tier 1, seen_count=1) — 觀察中
-- [RA-CoA: Training-free Fashion Image Captioning via Retrieval-Augmented Chain-of-Attributes](https://arxiv.org/abs/2609.14100) (tier 1, seen_count=1) — 觀察中
-- [A Voxel-Spacing-Aware Extension of PyRadiomics for Anisotropic Texture Analysis](https://arxiv.org/abs/2609.14103) (tier 1, seen_count=1) — 觀察中
-- [Real-Time Synthesis of Robust Controlled Invariant Sets for Monotone Systems](https://arxiv.org/abs/2609.14115) (tier 1, seen_count=1) — 觀察中
-- [Talking to Me or Someone Else? Rethinking Talk-to-Me Detection in Egocentric Videos](https://arxiv.org/abs/2609.14118) (tier 1, seen_count=1) — 觀察中
-- [To do($x$) or not to do($x$): Medical Image Counterfactuals for Dataset Augmentation](https://arxiv.org/abs/2609.14124) (tier 1, seen_count=1) — 觀察中
-- [LIMBO: Lifelong Inference-Time Memory and Budget Optimization for LLM Agents](https://arxiv.org/abs/2609.14138) (tier 1, seen_count=1) — 觀察中
-- [A New Transformer-Based Approach for Audio-Based Kinship Verification and a New Uncontrolled Mandarin Kinship Speech Dataset](https://arxiv.org/abs/2609.14145) (tier 1, seen_count=1) — 觀察中
-- [Signatures of Steerability in Activation Space of Language Models](https://arxiv.org/abs/2609.14151) (tier 1, seen_count=1) — 觀察中
-- [Towards Evolving Context Parameterization for Large Language Models](https://arxiv.org/abs/2609.14168) (tier 1, seen_count=1) — 觀察中
-- [Bi-Level Routing and Sparse Spatial Attention based Multi-View BEV 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/2609.14185) (tier 1, seen_count=1) — 觀察中
-- [Entropy-Punctured Bloom Filters for Memory-Efficient Machine Learning](https://arxiv.org/abs/2609.14187) (tier 1, seen_count=1) — 觀察中
-- [Data-free On-policy Distillation](https://arxiv.org/abs/2609.14193) (tier 1, seen_count=1) — 觀察中
-- [ECAS: An Edge-Controlled Agentic System for Validation-Gated Scientific Application Execution](https://arxiv.org/abs/2609.14211) (tier 1, seen_count=1) — 觀察中
-- [Task-Specified Active Metrological Inspection with Measurement-Steered VLA Manipulation and Deterministic Evidence Gating](https://arxiv.org/abs/2609.14219) (tier 1, seen_count=1) — 觀察中
-- [Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231) (tier 1, seen_count=1) — 觀察中
-- [Graph-Transformer Fraud Detection with Self-Supervised Pretraining and Conformal Risk Control](https://arxiv.org/abs/2609.14234) (tier 1, seen_count=1) — 觀察中
-- [Assessing the Applicability of Existing Design Recommendations to AI Companion Design: A Multi-Method Study](https://arxiv.org/abs/2609.14236) (tier 1, seen_count=1) — 觀察中
-- [OpWeave: Flexible Operator Disaggregation for Heterogeneous LLM Serving](https://arxiv.org/abs/2609.14237) (tier 1, seen_count=1) — 觀察中
-- [The Attribution-Compression Frontier in Retrieval-Augmented Generation](https://arxiv.org/abs/2609.14245) (tier 1, seen_count=1) — 觀察中
-- [ATTRICITE: Training an Open 4B Model for Citation Recovery toward Faithful Attribution](https://arxiv.org/abs/2609.14248) (tier 1, seen_count=1) — 觀察中
-- [SpermYOLO: A Coordinated YOLO-Based Detector for Accurate and Efficient Sperm and Impurity Detection in Microscopic Images](https://arxiv.org/abs/2609.14278) (tier 1, seen_count=1) — 觀察中
-- [Biquaternionic Space with Complex-valued Attention for Temporal Knowledge Graph Completion](https://arxiv.org/abs/2609.14279) (tier 1, seen_count=1) — 觀察中
-- [AURA: Unified Multimodal Framework for Conversational Music Editing](https://arxiv.org/abs/2609.14344) (tier 1, seen_count=1) — 觀察中
-- [LLaTSA: Large Language Model-Aligned General-Purpose Transient Stability Analysis](https://arxiv.org/abs/2609.14374) (tier 1, seen_count=1) — 觀察中
-- [A Hybrid Dependency-Aware Framework for Task Decomposition and Dynamic Agent Generation in Oracle-to-PostgreSQL Migration](https://arxiv.org/abs/2609.14413) (tier 1, seen_count=1) — 觀察中
-- [Surrogate-Assisted Genetic Programming with Phenotypic Characterisation in Dynamic Multi-Mode Project Scheduling](https://arxiv.org/abs/2609.14418) (tier 1, seen_count=1) — 觀察中
-- [A Generative AI Integrated Multimodal Framework for Low-Latency Multi-Camera Person Re-Identification](https://arxiv.org/abs/2609.14419) (tier 1, seen_count=1) — 觀察中
-- [Has Scientific Talent Shifted from Depth to Breadth?Evidence across Papers, Knowledge Inputs, Careers, and Teams](https://arxiv.org/abs/2609.14425) (tier 1, seen_count=1) — 觀察中
-- [Lightweight Generalized DeepFake Face Detection with WAVIE: Wavelet Augmented Vision Intermediate Embeddings](https://arxiv.org/abs/2609.14437) (tier 1, seen_count=1) — 觀察中
-- [A latent dimension of Condorcet&#x27;s jury theorem for multiple AI advisers](https://arxiv.org/abs/2609.14438) (tier 1, seen_count=1) — 觀察中
-- [From Visual Attribution to Clinical Reasoning: Explainable Parkinson&#x27;s Disease Screening from Hand-Drawn Patterns](https://arxiv.org/abs/2609.14441) (tier 1, seen_count=1) — 觀察中
-- [NeuroActiSep: Detecting Factual Hallucinations from Feed-Forward Neurons in a Single Pass](https://arxiv.org/abs/2609.14448) (tier 1, seen_count=1) — 觀察中
-- [Follow the Geometry, Not the Model: Cold Start Semi-Supervised Learning](https://arxiv.org/abs/2609.14451) (tier 1, seen_count=1) — 觀察中
-- [Bridging the Modality Gap in Long-Form Clinical Audio: A Comparative Study of Lightweight and Heavyweight End-to-End SOAP Generation](https://arxiv.org/abs/2609.14467) (tier 1, seen_count=1) — 觀察中
-- [EdgeHAR: An Edge-Native Compact Sensor Foundation Model for Human Activity Recognition](https://arxiv.org/abs/2609.14498) (tier 1, seen_count=1) — 觀察中
-- [Sharing standardized image-derived data in computational pathology using DICOM](https://arxiv.org/abs/2609.14530) (tier 1, seen_count=1) — 觀察中
-- [Proving olympiad geometry theorems on a superconducting quantum processor](https://arxiv.org/abs/2609.14533) (tier 1, seen_count=1) — 觀察中
-- [Disentangling Topology and Diversity in Multi-Agent LLMs for Multilingual Low-Resource Emotion Detection](https://arxiv.org/abs/2609.14570) (tier 1, seen_count=1) — 觀察中
-- [AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory](https://arxiv.org/abs/2609.14572) (tier 1, seen_count=1) — 觀察中
-- [SENTINEL: A Multi-Pathway Architecture for Detecting Living-Off-the-Land APT Attacks on Windows Command Lines](https://arxiv.org/abs/2609.14593) (tier 1, seen_count=1) — 觀察中
-- [Diagnosing Temporal Misalignment in Multichannel Time-Series Classification with Minimum Description Length](https://arxiv.org/abs/2609.14595) (tier 1, seen_count=1) — 觀察中
-- [Open-UniMo: Towards Unified Motion-Language Understanding and Generation in the Open World](https://arxiv.org/abs/2609.14615) (tier 1, seen_count=1) — 觀察中
-- [Investigating the Impacts of Generative AI on Information Seeking](https://arxiv.org/abs/2609.14638) (tier 1, seen_count=1) — 觀察中
-- [CompCQR: Compositional Query Generation for Training-Free Conversational Search](https://arxiv.org/abs/2609.14646) (tier 1, seen_count=1) — 觀察中
-- [Skill Composition for Legged Robot Reinforcement Learning](https://arxiv.org/abs/2609.14647) (tier 1, seen_count=1) — 觀察中
-- [Natural Language Knowledge Graph Query Execution: Leveraging Controlled Semantics in the LLM Context Window](https://arxiv.org/abs/2609.14652) (tier 1, seen_count=1) — 觀察中
-- [Compositional SVG Generation via VLM-Driven Hierarchical Semantic Parsing](https://arxiv.org/abs/2609.14657) (tier 1, seen_count=1) — 觀察中
-- [MANE: A Multi-Path Adaptive Network for Edge Onloading of Deep Neural Networks](https://arxiv.org/abs/2609.14660) (tier 1, seen_count=1) — 觀察中
-- [PU classification under Non-SCAR: clustering-assisted logistic model with oversampling enhancement](https://arxiv.org/abs/2609.14675) (tier 1, seen_count=1) — 觀察中
-- [WaterKron and FlipFlop Hessian: Information-Theoretically Grounded Quantization with Kronecker-factored Hessians](https://arxiv.org/abs/2609.14706) (tier 1, seen_count=1) — 觀察中
-- [Carryover Drafting: Recycling Rejected States for Speculative Decoding](https://arxiv.org/abs/2609.14717) (tier 1, seen_count=1) — 觀察中
-- [OCT-FedSIR: Toward Trustworthy Federated Ophthalmic Learning under Annotation Noise](https://arxiv.org/abs/2609.14734) (tier 1, seen_count=1) — 觀察中
-- [Building Legal Reward Models for Grounding and Abstention](https://arxiv.org/abs/2609.14739) (tier 1, seen_count=1) — 觀察中
-- [A property-registry contract for retrieve-or-refuse thermal-mechanical lattice search](https://arxiv.org/abs/2609.14741) (tier 1, seen_count=1) — 觀察中
-- [Calibrating Interpretability Instruments Before Trusting Their Verdicts](https://arxiv.org/abs/2609.14754) (tier 1, seen_count=1) — 觀察中
-- [Refusal Reads Only a Slice of What the Model Knows: Harm-Keyed Routing and Its Exceptions Across Model Families](https://arxiv.org/abs/2609.14759) (tier 1, seen_count=1) — 觀察中
-- [From Visual Feedback to Textual Reviews: A Multi-Agent Vision-Language Framework for Image-Grounded Review Assistance](https://arxiv.org/abs/2609.14761) (tier 1, seen_count=1) — 觀察中
-- [TriCalRAG: A Three-Strategy, Retrieval-Augmented Benchmark for On-Premise LLM-Based Root Cause Analysis in AIOps](https://arxiv.org/abs/2609.14762) (tier 1, seen_count=1) — 觀察中
-- [Loop-Back Authority in LLM Agent Teams: A Paired Experiment on Flat and Hierarchical Coordination](https://arxiv.org/abs/2609.14767) (tier 1, seen_count=1) — 觀察中
-- [How broad is that claim? Mapping Generalisation in NLP Research](https://arxiv.org/abs/2609.14770) (tier 1, seen_count=1) — 觀察中
-- [The Stochastic Deputy: Structural Tenant Isolation for Tool-Using LLM Agents](https://arxiv.org/abs/2609.14780) (tier 1, seen_count=1) — 觀察中
-- [Mind Which Bird You Favour: Parameterizing Adequacy-Fluency Balance in Meta-Evaluation of Machine Translation](https://arxiv.org/abs/2609.14795) (tier 1, seen_count=1) — 觀察中
-- [A primer on evaluation methods for large language models in healthcare](https://arxiv.org/abs/2609.14819) (tier 1, seen_count=1) — 觀察中
-- [Route, Don&#x27;t Fix: Regime-Dependent Decoding Correction and a Trajectory-Gated Router for Reliable Clinical LLM Answer Selection](https://arxiv.org/abs/2609.14825) (tier 1, seen_count=1) — 觀察中
-- [Enemray: Toward Capable Language Models for Hassaniya](https://arxiv.org/abs/2609.14829) (tier 1, seen_count=1) — 觀察中
-- [Efficiency Hallucination: Formalizing and Measuring Behavioral Calibration in LLM-Based Code Optimization](https://arxiv.org/abs/2609.14839) (tier 1, seen_count=1) — 觀察中
-- [A Responsive Present, a Shared Past, a Social Other: Teens&#x27; Overreliance on Companion AI Chatbots](https://arxiv.org/abs/2609.14843) (tier 1, seen_count=1) — 觀察中
-- [LLMs as Oracles: Reliance on LLMs for Subjective Personal Questions](https://arxiv.org/abs/2609.14849) (tier 1, seen_count=1) — 觀察中
-- [RAIN: Region-Aware Inversion Network for Semantic Watermark Extraction](https://arxiv.org/abs/2609.14856) (tier 1, seen_count=1) — 觀察中
-- [One Example Is Enough to Pass Fairness Benchmarks: Rethinking Fairness Evaluation for Aligned LLMs](https://arxiv.org/abs/2609.14860) (tier 1, seen_count=1) — 觀察中
-- [Semantic Fibers and Cross-Gram Interference: A Calculus of Safety Drift in Overcomplete Representations](https://arxiv.org/abs/2609.14861) (tier 1, seen_count=1) — 觀察中
-- [Interpolation Is Not Invariance: Pair Count Is Not Coverage in Transformation Audits](https://arxiv.org/abs/2609.14870) (tier 1, seen_count=1) — 觀察中
-- [SeqMaestro: From nucleotide sequences to biological hypotheses through interpretable machine learning](https://arxiv.org/abs/2609.14882) (tier 1, seen_count=1) — 觀察中
-- [PeerPen: AI-Assisted Writing for Online Mental Health Peer Support](https://arxiv.org/abs/2609.14886) (tier 1, seen_count=1) — 觀察中
-- [Forty Shades of Blue: Quality-Diversity Alignment via Mode-Conditioned Reinforcement Learning](https://arxiv.org/abs/2609.14896) (tier 1, seen_count=1) — 觀察中
-- [Neural-Network Solutions to Real-Space Charge Density and Generalization](https://arxiv.org/abs/2609.14906) (tier 1, seen_count=1) — 觀察中
-- [Cross-Block Conditioning in Deep Boltzmann Machines for Statistical Data Fusion](https://arxiv.org/abs/2609.14934) (tier 1, seen_count=1) — 觀察中
-- [CAL-MOS: Bridging Layers with Adapters for Robust MOS Prediction Across Speech Foundation Models](https://arxiv.org/abs/2609.14956) (tier 1, seen_count=1) — 觀察中
-- [Online Language Adaptive Sampling for Better Distributed Cross-lingual Gains](https://arxiv.org/abs/2609.14969) (tier 1, seen_count=1) — 觀察中
-- [LiftGCN: Efficient Energy-Preserving Graph Learning via Joukowski Spectral Lifting for Finite Element Stress Prediction](https://arxiv.org/abs/2609.14977) (tier 1, seen_count=1) — 觀察中
-- [ActGuard: Pre-execution Action Auditing against Indirect Prompt Injection in LLM Agents](https://arxiv.org/abs/2609.14987) (tier 1, seen_count=1) — 觀察中
-- [IMPACT-VLA: Interaction-aware Multimodal Propagation Attribution via Counterfactual Trajectories for Vision-Language-Action Policies](https://arxiv.org/abs/2609.15005) (tier 1, seen_count=1) — 觀察中
-- [Steering Generative Robot Policies with Lexicographic Preferences](https://arxiv.org/abs/2609.15014) (tier 1, seen_count=1) — 觀察中
-- [PIDS-Bench: Evaluating Prompt-Injection Detectors Under Over-Defense, Obfuscation, and Distribution Shift](https://arxiv.org/abs/2609.15017) (tier 1, seen_count=1) — 觀察中
-- [Pick Your Poison: Learning to Select Poison Sets for Stronger LLM Backdoor Attacks](https://arxiv.org/abs/2609.15029) (tier 1, seen_count=1) — 觀察中
-- [Validating Hybrid-State Cache Recovery for GLM-5.3-Flash with vLLM and LMCache](https://arxiv.org/abs/2609.15030) (tier 1, seen_count=1) — 觀察中
-- [SpliTEE: Improving LLM Inference on Trusted Hardware with Differentially Private GPU Outsourcing](https://arxiv.org/abs/2609.15039) (tier 1, seen_count=1) — 觀察中
-- [Mirror, Mirror on the Wall: Prompt Echoing in Small Instruct Language Models](https://arxiv.org/abs/2609.15045) (tier 1, seen_count=1) — 觀察中
-- [Personalizing Personal Health Interfaces: Co-Design with Generative AI](https://arxiv.org/abs/2609.15046) (tier 1, seen_count=1) — 觀察中
-- [Ensemble Complexity in Photovoltaic Forecasting](https://arxiv.org/abs/2609.15049) (tier 1, seen_count=1) — 觀察中
-- [Not All Prompts Are Equal: Exploration-Guided Prompt Scaffolding for Multimodal Reinforcement Post-Training](https://arxiv.org/abs/2609.15051) (tier 1, seen_count=1) — 觀察中
-- [Salesforce Koa: An Enterprise Language Model for Agentic Tool Use](https://arxiv.org/abs/2609.15066) (tier 1, seen_count=1) — 觀察中
-- [Rethinking Procedural Audio Pre-training: Source Scaling and Objective Adaptation](https://arxiv.org/abs/2609.15067) (tier 1, seen_count=1) — 觀察中
-- [Branched Optimal Transport Amortization](https://arxiv.org/abs/2609.15072) (tier 1, seen_count=1) — 觀察中
-- [Translating the Translator: Decomposing the Cost of English-Forced Inter-Agent Communication](https://arxiv.org/abs/2609.15079) (tier 1, seen_count=1) — 觀察中
-- [Beyond Numerical Time Series: A Unified Benchmark for Multimodal Forecasting with Heterogeneous Context](https://arxiv.org/abs/2609.15087) (tier 1, seen_count=1) — 觀察中
-- [Generate to Explore, Select to Exploit: Aligning LLM-based Headline Generation with Personalized Recommendation](https://arxiv.org/abs/2609.15094) (tier 1, seen_count=1) — 觀察中
-- [ChatGPT Images 2.5 in the Wild: A Launch-Period Dataset and Detector Evaluation](https://arxiv.org/abs/2609.15100) (tier 1, seen_count=1) — 觀察中
-- [Physics Informed Neural Network model for the dynamical study of Abdominal Aortic Aneurysm](https://arxiv.org/abs/2609.15104) (tier 1, seen_count=1) — 觀察中
-- [Legislating World-Model-Based Planning with Legal Reasoning](https://arxiv.org/abs/2609.15113) (tier 1, seen_count=1) — 觀察中
-- [DepthBenchCAD: When Does Deeper Auditing Yield More Reliable Conclusions?](https://arxiv.org/abs/2609.15122) (tier 1, seen_count=1) — 觀察中
-- [Refinement-based Flow Policy Optimization](https://arxiv.org/abs/2609.15123) (tier 1, seen_count=1) — 觀察中
-- [MoME: Mixture-of-Memory Embeddings for Context-Aware Sparse Lookup](https://arxiv.org/abs/2609.15126) (tier 1, seen_count=1) — 觀察中
-- [AdaVSkip: Adaptive Visual Token Skipping Across Layers For Efficient MLLMs Inference](https://arxiv.org/abs/2609.15131) (tier 1, seen_count=1) — 觀察中
-- [PACE: Progressive Angular-to-Norm Contrastive Embedding](https://arxiv.org/abs/2609.15152) (tier 1, seen_count=1) — 觀察中
-- [EMR: Self-Evolving Medical Multi-Agent System via Experience Mining and Reuse](https://arxiv.org/abs/2609.15161) (tier 1, seen_count=1) — 觀察中
-- [Interpreting hierarchical organisation of speaker embeddings](https://arxiv.org/abs/2609.15203) (tier 1, seen_count=1) — 觀察中
-- [TEAR: Table Extraction with Attribute Recommendation from Texts via Large Language Models](https://arxiv.org/abs/2609.15205) (tier 1, seen_count=1) — 觀察中
-- [Failure-Guided Co-Evolution of Prompts and Training Data](https://arxiv.org/abs/2609.15209) (tier 1, seen_count=1) — 觀察中
-- [Augmenting Large Audio-Language Models with Frame-Level Grounding for Fine-Grained Temporal Perception](https://arxiv.org/abs/2609.15215) (tier 1, seen_count=1) — 觀察中
-- [Pre-PEFT Probing: Weight Statistics and Perturbation Robustness for Layer Selection in VLM Vision Encoders](https://arxiv.org/abs/2609.15229) (tier 1, seen_count=1) — 觀察中
-- [ProtoGuide: Prototype-Driven Guidance for Class-Conditional Graph Generation](https://arxiv.org/abs/2609.15239) (tier 1, seen_count=1) — 觀察中
-- [Math for AI safety: an invitation for mathematicians](https://arxiv.org/abs/2609.15289) (tier 1, seen_count=1) — 觀察中
-- [When Correlations Mislead: Confounder-Aware Multi-View Urban Region Representation Learning](https://arxiv.org/abs/2609.15305) (tier 1, seen_count=1) — 觀察中
-- [The Universe of Universes: Benefit Yield Functions, Implosion Thresholds, and Infrastructure-Aware Optimization in Multi-LLM Systems](https://arxiv.org/abs/2609.15314) (tier 1, seen_count=1) — 觀察中
-- [Clean Scores, Buried Evidence, and Confident Wrong: A Receipt-Based Audit of Frontier Agentic QA](https://arxiv.org/abs/2609.15319) (tier 1, seen_count=1) — 觀察中
-- [Planning in the Backbone: DiffAdapterVLA for Native Continuous Trajectory Generation with Driving VLMs](https://arxiv.org/abs/2609.15322) (tier 1, seen_count=1) — 觀察中
-- [Concept-Grounded Reasoning with Prompt-Driven Localization for Interpretable Structured Report Generation](https://arxiv.org/abs/2609.15334) (tier 1, seen_count=1) — 觀察中
-- [Dynamic Semantic Compression for Efficient Latent-Space Inference in Large Language Models](https://arxiv.org/abs/2609.15338) (tier 1, seen_count=1) — 觀察中
-- [End-to-End Cell Detection via Instance-aware Graph Modeling](https://arxiv.org/abs/2609.15354) (tier 1, seen_count=1) — 觀察中
-- [Robust and Efficient Communication for Multi-Agent Learning](https://arxiv.org/abs/2609.15361) (tier 1, seen_count=1) — 觀察中
-- [Divide, Consult, Conquer: Capability Laundering Through Aligned LLMs](https://arxiv.org/abs/2609.15383) (tier 1, seen_count=1) — 觀察中
-- [IWC-Bench: Evaluating Web Application Generation from a Software Testing Perspective](https://arxiv.org/abs/2609.15387) (tier 1, seen_count=1) — 觀察中
-- [CodeTS: Verifiable Text-to-Time Series Generation via Executable Code](https://arxiv.org/abs/2609.15393) (tier 1, seen_count=1) — 觀察中
-- [A Conservative OCR-Enabled Workflow for R214 Sodium Screening of South African Packaged Foods](https://arxiv.org/abs/2609.15427) (tier 1, seen_count=1) — 觀察中
-- [On the role of the tokenizer in ECG transformer models](https://arxiv.org/abs/2609.15433) (tier 1, seen_count=1) — 觀察中
-- [Turkish MMLU Pro: Traceable Option Augmentation and Its Validity Limits in Turkish Multiple-Choice Evaluation](https://arxiv.org/abs/2609.15467) (tier 1, seen_count=1) — 觀察中
-- [Spook the Machine: Gamified Exploration of Human Imagination of Machine Fear](https://arxiv.org/abs/2609.15472) (tier 1, seen_count=1) — 觀察中
-- [How Lossless Is Lossless Speculative Decoding? The Role of Numerical Precision in Orthrus](https://arxiv.org/abs/2609.15504) (tier 1, seen_count=1) — 觀察中
-- [Authorship attribution and aesthetic evaluation of AI poetry: a case study with Haiku](https://arxiv.org/abs/2609.15511) (tier 1, seen_count=1) — 觀察中
-- [Automating Attack Graph Construction for Agentic Pentesting. Towards Neuro-Symbolic Vulnerability Hunting](https://arxiv.org/abs/2609.15523) (tier 1, seen_count=1) — 觀察中
-- [The Misery of Mechanistic Interpretability: A Formal Perspective](https://arxiv.org/abs/2609.15533) (tier 1, seen_count=1) — 觀察中
-- [Specifying Reward Functions for RL Without Environment Sampling](https://arxiv.org/abs/2609.15544) (tier 1, seen_count=1) — 觀察中
-- [Don&#x27;t Count the Edits, Judge by the Outcome Alone: Reward-Based Evaluation for Grammatical Error Correction](https://arxiv.org/abs/2609.15559) (tier 1, seen_count=1) — 觀察中
-- [PIVOT: Physics-Grounded Verification for AI-Generated Audio-Video Detection](https://arxiv.org/abs/2609.15562) (tier 1, seen_count=1) — 觀察中
-- [Big Brains and Changing Environments: Cause or Consequence?](https://arxiv.org/abs/2609.15569) (tier 1, seen_count=1) — 觀察中
-- [Self-Evolving Memory for Generative Recommendation](https://arxiv.org/abs/2609.15598) (tier 1, seen_count=1) — 觀察中
-- [A Unified Vision-Language Model for PSMA PET/CT Report Generation, Visual Question Answering, and Lesion Segmentation](https://arxiv.org/abs/2609.15603) (tier 1, seen_count=1) — 觀察中
-- [VideoScout: Learning Agentic Active Exploration with Adaptive Reasoning Pacing for Long Video Understanding](https://arxiv.org/abs/2609.15606) (tier 1, seen_count=1) — 觀察中
-- [Through the Eyes of the Beholder: Biometric and Demographic Conditioning for Multimodal Sexism Detection](https://arxiv.org/abs/2609.15608) (tier 1, seen_count=1) — 觀察中
-- [Multi-View Molecular Representation Learning with Hierarchical Graphs and Contextualized Fingerprints](https://arxiv.org/abs/2609.15611) (tier 1, seen_count=1) — 觀察中
-- [Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use](https://arxiv.org/abs/2609.15624) (tier 1, seen_count=1) — 觀察中
-- [FedLTLib: A Comprehensive Benchmark for Federated Long-Tail Learning](https://arxiv.org/abs/2609.15625) (tier 1, seen_count=1) — 觀察中
-- [ModaLens: Measuring Image Sensitivity in Report-Conditioned Medical VLMs](https://arxiv.org/abs/2609.15635) (tier 1, seen_count=1) — 觀察中
-- [Predictive Likelihood Ratios for Language Model Watermark Detection](https://arxiv.org/abs/2609.15657) (tier 1, seen_count=1) — 觀察中
-- [KaiNinja: Extending Native 3D Generators to the Part Level](https://arxiv.org/abs/2609.15659) (tier 1, seen_count=1) — 觀察中
-- [CIDERS: Cloud-Edge LLM Collaborative Learning via Accelerating Personalized Bilevel Optimization](https://arxiv.org/abs/2609.15664) (tier 1, seen_count=1) — 觀察中
-- [Circuit-MLLM: Topological Logic-Guided Latent-Space Visual Reasoning for Circuit Schematic Understanding](https://arxiv.org/abs/2609.15668) (tier 1, seen_count=1) — 觀察中
-- [Benchmarking Intra-Patient 3D Deformable Multimodal Image Registration](https://arxiv.org/abs/2609.15669) (tier 1, seen_count=1) — 觀察中
-- [Don&#x27;t Send What You Don&#x27;t Need: Question-Guided Token Pruning as a Privacy Defense for Vision-Language Models](https://arxiv.org/abs/2609.15671) (tier 1, seen_count=1) — 觀察中
-- [Scalability and Performance Evaluation of Federated Learning Frameworks: A Comparative Analysis](https://arxiv.org/abs/2609.15681) (tier 1, seen_count=1) — 觀察中
-- [More Than Just Access: Generative AI as Communication Intermediary for Blind and Low-Vision Users](https://arxiv.org/abs/2609.15696) (tier 1, seen_count=1) — 觀察中
-- [Bench2Dex: Benchmarking Visuo-Tactile Bimanual Dexterous Manipulation Across Dexterous Hands](https://arxiv.org/abs/2609.15726) (tier 1, seen_count=1) — 觀察中
-- [A Language-Guided Multimodal Foundation Model for Zero-Shot and Multi-Task Brain Signal Analysis](https://arxiv.org/abs/2609.15740) (tier 1, seen_count=1) — 觀察中
-- [Look Before You Leap: Factual Decoding with Internal Attribution Signals](https://arxiv.org/abs/2609.15745) (tier 1, seen_count=1) — 觀察中
-- [Sylvas: Synergistic Learning Value based Device Scheduling in Federated Continual Learning](https://arxiv.org/abs/2609.15763) (tier 1, seen_count=1) — 觀察中
-- [Event-Native Symbolic-Temporal Spike Encoding Framework for Heterogeneous Cyber Streams](https://arxiv.org/abs/2609.15772) (tier 1, seen_count=1) — 觀察中
-- [Transfer Learning for Socioeconomic Estimation in Forced-Displacement Settings](https://arxiv.org/abs/2609.15773) (tier 1, seen_count=1) — 觀察中
-- [When the World Lies: Backdoor Attacks on Latent World Models for Downstream Control](https://arxiv.org/abs/2609.15781) (tier 1, seen_count=1) — 觀察中
-- [Delegating Authorization to Misaligned Agents: Coalitional Alignment and Safe Control](https://arxiv.org/abs/2609.15803) (tier 1, seen_count=1) — 觀察中
-- [CiteGuard-RAG: A Validation-Centered AI System for Evidence-Grounded Question Answering](https://arxiv.org/abs/2609.15830) (tier 1, seen_count=1) — 觀察中
-- [Per-Matrix Optimality Is Not Enough: Three-Level Optimization for Low-Rank LLM Compression](https://arxiv.org/abs/2609.15838) (tier 1, seen_count=1) — 觀察中
-- [Before You Poll with LLMs: A Deliberative Diagnostic Framework](https://arxiv.org/abs/2609.15849) (tier 1, seen_count=1) — 觀察中
-- [K-Bench: a clinically calibrated benchmark for evaluating large language models in high-risk mental health conversations](https://arxiv.org/abs/2609.15855) (tier 1, seen_count=1) — 觀察中
-- [LLM-Based Schema-Aware Split Learning for Privacy-Preserving Mental Distress Prediction Across Heterogeneous Surveys](https://arxiv.org/abs/2609.15871) (tier 1, seen_count=1) — 觀察中
-- [Learning Multimodal One-step Flow Policy via Value-weighted Optimal Transport](https://arxiv.org/abs/2609.15883) (tier 1, seen_count=1) — 觀察中
-- [Privacy-enhanced federated learning via asynchronous aggregation and local differential perturbation](https://arxiv.org/abs/2609.15885) (tier 1, seen_count=1) — 觀察中
-- [Anatomical Grounding and Leakage-Aware Multimodal Contrastive Learning for Alzheimer&#x27;s Disease Classification from Structural MRI](https://arxiv.org/abs/2609.15888) (tier 1, seen_count=1) — 觀察中
-- [SlipSense: Multimodal Tactile Learning for Low-Latency and Generalized Slip Detection](https://arxiv.org/abs/2609.15910) (tier 1, seen_count=1) — 觀察中
-- [Vulnerability Localization Benchmark: Measuring Agentic Security Analysis at Repository Scale](https://arxiv.org/abs/2609.15939) (tier 1, seen_count=1) — 觀察中
-- [The Router Within: Eliciting Native Skill Routing from a Frozen LLM](https://arxiv.org/abs/2609.15982) (tier 1, seen_count=1) — 觀察中
-- [Estimating Uncertain Spatial Relationships in Robotics](https://arxiv.org/abs/1304.3111) (tier 1, seen_count=1) — 觀察中
-- [FICAug: Feature-Informed Clustering and Augmentation for Facial-Expression-Based Parkinson&#x27;s Disease Screening](https://arxiv.org/abs/2409.17685) (tier 1, seen_count=1) — 觀察中
-- [Hallucination in Multimodal Foundation Models: A Survey on Causes, Corrections, and Evaluations](https://arxiv.org/abs/2410.15359) (tier 1, seen_count=1) — 觀察中
-- [Efficient On-Device Agents via Adaptive Context Management](https://arxiv.org/abs/2511.03728) (tier 1, seen_count=1) — 觀察中
-- [DeepFeature: LLM-Empowered Context-aware Feature Generation for Wearable Biosignals](https://arxiv.org/abs/2512.08379) (tier 1, seen_count=1) — 觀察中
-- [Privileged observations enable rapid and reliable policy discovery directly in the physical world](https://arxiv.org/abs/2512.08463) (tier 1, seen_count=1) — 觀察中
-- [Echo-CoPilot: A Multiple-Perspective Agentic Framework for Reliable Echocardiography Interpretation](https://arxiv.org/abs/2512.09944) (tier 1, seen_count=1) — 觀察中
+- [Our framework for reporting model misalignment](https://openai.com/index/model-misalignment-reporting-framework) (tier 1, seen_count=1) — 觀察中
+- [Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records](https://arxiv.org/abs/2609.17631) (tier 1, seen_count=1) — 觀察中
+- [EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents](https://arxiv.org/abs/2609.17632) (tier 1, seen_count=1) — 觀察中
+- [One Color Preprocessing Improves DSATUR](https://arxiv.org/abs/2609.17633) (tier 1, seen_count=1) — 觀察中
+- [Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees](https://arxiv.org/abs/2609.17635) (tier 1, seen_count=1) — 觀察中
+- [What You Can&#x27;t See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization](https://arxiv.org/abs/2609.17637) (tier 1, seen_count=1) — 觀察中
+- [CapMem: A Benchmark for Caption-Based Episodic Memory in Egocentric Video](https://arxiv.org/abs/2609.17688) (tier 1, seen_count=1) — 觀察中
+- [GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents](https://arxiv.org/abs/2609.17695) (tier 1, seen_count=1) — 觀察中
+- [GVD: Governed Versioning and Deduplication for Document Repositories](https://arxiv.org/abs/2609.17696) (tier 1, seen_count=1) — 觀察中
+- [NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation](https://arxiv.org/abs/2609.17699) (tier 1, seen_count=1) — 觀察中
+- [A Systematic Evaluation of the COTQ Provincial Land Cover Product: Structural Consistency, Spectral Separability, and Relative Positioning Against ESA, ESRI, and Google Products](https://arxiv.org/abs/2609.17731) (tier 1, seen_count=1) — 觀察中
+- [Imitation Learning for Autonomous Driving in CARLA](https://arxiv.org/abs/2609.17757) (tier 1, seen_count=1) — 觀察中
+- [SAGE: Governed Artifact Generation from Enterprise Guidelines](https://arxiv.org/abs/2609.17775) (tier 1, seen_count=1) — 觀察中
+- [FairCompressAgent: An Agentic Framework for Fairness-Aware Model Compression for FPGA Deployment](https://arxiv.org/abs/2609.17786) (tier 1, seen_count=1) — 觀察中
+- [A Four-Stage Decomposition of Word-Problem Solving and Mechanistic Fragility in LLM Math Reasoning](https://arxiv.org/abs/2609.17804) (tier 1, seen_count=1) — 觀察中
+- [Learning Heterogeneous Preferences](https://arxiv.org/abs/2609.17847) (tier 1, seen_count=1) — 觀察中
+- [SNOMED CT Concept Recommendation from Masked Clinical Context](https://arxiv.org/abs/2609.17855) (tier 1, seen_count=1) — 觀察中
+- [The Inference Engineering Pareto Atlas: Which Optimizations Dominate the Cost, Quality, and Latency Frontier?](https://arxiv.org/abs/2609.17863) (tier 1, seen_count=1) — 觀察中
+- [Do Frontier Models Seek Safety Evidence Before Acting?](https://arxiv.org/abs/2609.17865) (tier 1, seen_count=1) — 觀察中
+- [ERPBench: A State-Grounded Evaluation Paradigm for Computer-Use Agents in Enterprise Software](https://arxiv.org/abs/2609.17885) (tier 1, seen_count=1) — 觀察中
+- [OBC-Prune: Outcome-Based Calibration for Large Reasoning Model Pruning](https://arxiv.org/abs/2609.17890) (tier 1, seen_count=1) — 觀察中
+- [Collaborative Memory for Multi-Agent VLM Systems](https://arxiv.org/abs/2609.17921) (tier 1, seen_count=1) — 觀察中
+- [Measuring AI Leadership: Development and Validation of a Multidimensional Measure for AI-Native Organizations](https://arxiv.org/abs/2609.17965) (tier 1, seen_count=1) — 觀察中
+- [Memory Has Geometry: Non-Uniform Geometric Memory for Long-Horizon Personalized AI](https://arxiv.org/abs/2609.17969) (tier 1, seen_count=1) — 觀察中
+- [When to Call an LLM: A Confidence-Gated Hybrid for Cost-Effective Emotion Recognition in Conversational AI](https://arxiv.org/abs/2609.17977) (tier 1, seen_count=1) — 觀察中
+- [Contiguity, Not Importance: Budgeted Repair of Stale KV Caches After Document Edits](https://arxiv.org/abs/2609.17983) (tier 1, seen_count=1) — 觀察中
+- [TuiML: Machine Learning for AI Agents](https://arxiv.org/abs/2609.17984) (tier 1, seen_count=1) — 觀察中
+- [RideWay: Benchmarking Efficient Task Completion for Tool-Using Language Agents](https://arxiv.org/abs/2609.17985) (tier 1, seen_count=1) — 觀察中
+- [Multimodal Conditioning of Fine-Tuned Stable Diffusion XL for Controllable and Culturally Faithful Ulos Motif Generation](https://arxiv.org/abs/2609.17987) (tier 1, seen_count=1) — 觀察中
+- [Missing Bridges: Composition-Aware Active Imitation Learning](https://arxiv.org/abs/2609.18004) (tier 1, seen_count=1) — 觀察中
+- [Anchoring What Matters: A Dual-Level Learning Framework for Visually-Grounded Multimodal Reasoning](https://arxiv.org/abs/2609.18057) (tier 1, seen_count=1) — 觀察中
+- [The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction](https://arxiv.org/abs/2609.18063) (tier 1, seen_count=1) — 觀察中
+- [Teaching AI, Robotics, &amp; Community: A Hubs-Based K-12 Education Framework for Reaching Rural Schools](https://arxiv.org/abs/2609.18072) (tier 1, seen_count=1) — 觀察中
+- [Decodability is Not Causality: Dissociating Probe Readouts from Behavioral Drivers via SAE Decomposition](https://arxiv.org/abs/2609.18080) (tier 1, seen_count=1) — 觀察中
+- [When Is Graph Structure Worth Its Cost? The Case for Structure Pricing in Retrieval-Augmented Generation](https://arxiv.org/abs/2609.18099) (tier 1, seen_count=1) — 觀察中
+- [AutoTuneBench: Trustworthy Measurement for Agent Auto-Tuning of LLM Serving Engines](https://arxiv.org/abs/2609.18123) (tier 1, seen_count=1) — 觀察中
+- [Designing Agentic AI Workflow Portfolios under Imperfect Selection and Compute Cost](https://arxiv.org/abs/2609.18126) (tier 1, seen_count=1) — 觀察中
+- [Symbolic Temporal Supervision of LLM Agents Using Contracts](https://arxiv.org/abs/2609.18128) (tier 1, seen_count=1) — 觀察中
+- [Time-Aligned Evolving Concept Graphs for Scientific Relation Forecasting](https://arxiv.org/abs/2609.18163) (tier 1, seen_count=1) — 觀察中
+- [WFM: Wiki Foundation Model for Complex Agentic Reasoning](https://arxiv.org/abs/2609.18182) (tier 1, seen_count=1) — 觀察中
+- [Re2A: Situated Conversational Recommendation via Rubric-based Preference Reasoning and Alignment](https://arxiv.org/abs/2609.18249) (tier 1, seen_count=1) — 觀察中
+- [REPAIR: Resolving Long-Tail Confusion in Scientific Retrievers via Fact-Verified Iterative Refinement](https://arxiv.org/abs/2609.18262) (tier 1, seen_count=1) — 觀察中
+- [BENCHCOMPASS: From Scores to Signals for Training and Harness Decisions in Payment-Domain LLMs](https://arxiv.org/abs/2609.18270) (tier 1, seen_count=1) — 觀察中
+- [Who Audits Whom, on What Substrate, with What Evidence? An Independence-Graded Audit Protocol for Agentic AI](https://arxiv.org/abs/2609.18272) (tier 1, seen_count=1) — 觀察中
+- [Building Trust in Artificial Intelligence: A Necessity for Railway Applications](https://arxiv.org/abs/2609.18278) (tier 1, seen_count=1) — 觀察中
+- [Where Should Agents Live? Energy-Memory Characterization of Agentic AI for the Edge-Cloud Continuum](https://arxiv.org/abs/2609.18283) (tier 1, seen_count=1) — 觀察中
+- [What Counts as Strategic Reasoning? A Systematic Mapping of Chess Research on Humans, Engines, and Language Models](https://arxiv.org/abs/2609.18286) (tier 1, seen_count=1) — 觀察中
+- [Visual Compliance via Executable Safety Rule Entailment](https://arxiv.org/abs/2609.18328) (tier 1, seen_count=1) — 觀察中
+- [Faithful yet Collusive: Why Chain-of-Thought Monitoring Cannot Detect Collusion in LLM Pricing Agents under Oligopolistic Competition](https://arxiv.org/abs/2609.18346) (tier 1, seen_count=1) — 觀察中
+- [Market Signal Injection: Adversarial Context Manipulation of LLM Pricing Agents](https://arxiv.org/abs/2609.18357) (tier 1, seen_count=1) — 觀察中
+- [Bad Genius: Counterfactual-Guided Harness Evolution Beyond Task-Specific Shortcuts](https://arxiv.org/abs/2609.18366) (tier 1, seen_count=1) — 觀察中
+- [Cultural Competence in Context: A Large Language Model Passes the Turing Test in Finland](https://arxiv.org/abs/2609.18394) (tier 1, seen_count=1) — 觀察中
+- [HPOQuest: A Rare-Disease Diagnostic Agent Using Active Phenotype Acquisition](https://arxiv.org/abs/2609.18431) (tier 1, seen_count=1) — 觀察中
+- [WetRobo: A Reproducible Robot Kit for Coding Agents in Biological Laboratories](https://arxiv.org/abs/2609.18435) (tier 1, seen_count=1) — 觀察中
+- [Risk-Aware World Modeling with Flow-Guided Occupancy Evolution for Selective Trajectory Planning in Automated Driving](https://arxiv.org/abs/2609.18442) (tier 1, seen_count=1) — 觀察中
+- [The Mirage of Calibrated Confidence: Trajectory-Independence of Verbalized Confidence in Vision-Language Models](https://arxiv.org/abs/2609.18453) (tier 1, seen_count=1) — 觀察中
+- [Collective Loss of Control in LLM Agent Systems: An Epidemic Account of Mutation, Contagion, and Recovery](https://arxiv.org/abs/2609.18460) (tier 1, seen_count=1) — 觀察中
+- [Disentangling Long-Term Memory via Latent Neuro-Symbolic Reasoning](https://arxiv.org/abs/2609.18461) (tier 1, seen_count=1) — 觀察中
+- [First Token Matters: Understanding Safety Collapse in Large Reasoning Models](https://arxiv.org/abs/2609.18471) (tier 1, seen_count=1) — 觀察中
+- [Beyond Routine Compliance: Cunning Data Cultivates Safety Vigilance in Large Language Models](https://arxiv.org/abs/2609.18515) (tier 1, seen_count=1) — 觀察中
+- [Hyperbolic Graph Representation Learning for Differential Diagnosis on Biomedical Knowledge Graphs](https://arxiv.org/abs/2609.18481) (tier 1, seen_count=1) — 觀察中
+- [AeroWeaver: An Embodied-Agent Harness for Weaving Aerial Skills into Distributed, Adaptive Swarm Execution](https://arxiv.org/abs/2609.18520) (tier 1, seen_count=1) — 觀察中
+- [TRIPROBE: Probing Task Separability Beyond Classification for XAI](https://arxiv.org/abs/2609.18525) (tier 1, seen_count=1) — 觀察中
+- [Recursive Reasoning or Statistical Extrapolation? In-Context Learning in Multi-Agent Interdependent Decision-Making](https://arxiv.org/abs/2609.18591) (tier 1, seen_count=1) — 觀察中
+- [Reasoning through Evolution: Automatic Meta-path Discovery for LLM-based Fake News Detection](https://arxiv.org/abs/2609.18597) (tier 1, seen_count=1) — 觀察中
+- [The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses](https://arxiv.org/abs/2609.18676) (tier 1, seen_count=1) — 觀察中
+- [Beyond Truncation: Rethinking LLM Decoding as Ensemble Pruning](https://arxiv.org/abs/2609.18723) (tier 1, seen_count=1) — 觀察中
+- [Which LLM is Best for Translating Natural Language Goals to PDDL](https://arxiv.org/abs/2609.18731) (tier 1, seen_count=1) — 觀察中
+- [Clueing up LLMs with Tool-Augmented Deductive Reasoning](https://arxiv.org/abs/2609.18736) (tier 1, seen_count=1) — 觀察中
+- [Version- and Scope-Aware Question Answering over Normative Documents: A Deployed System and an End-to-End Evaluation at Production Scale](https://arxiv.org/abs/2609.18769) (tier 1, seen_count=1) — 觀察中
+- [CERA-MoA: Co-Evolving Routing Mechanisms with Continually Learning LLM Agents](https://arxiv.org/abs/2609.18779) (tier 1, seen_count=1) — 觀察中
+- [Compositional Policy Violations: When Step-Level Compliance Fails In Agentic AI Workflows](https://arxiv.org/abs/2609.18820) (tier 1, seen_count=1) — 觀察中
+- [Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data](https://arxiv.org/abs/2609.18842) (tier 1, seen_count=1) — 觀察中
+- [Suppressed, Not Erased: A Representational Trace of Edited Facts Survives Even Weight-Free Knowledge Editing](https://arxiv.org/abs/2609.18985) (tier 1, seen_count=1) — 觀察中
+- [Function Lives Where Variance Doesn&#x27;t: Task-Weighted Charts of a Language Model&#x27;s Computation](https://arxiv.org/abs/2609.18989) (tier 1, seen_count=1) — 觀察中
+- [Lost in Perception: Isolating Perceptual and Reasoning Failures in Multimodal Physics and Geometry Reasoning](https://arxiv.org/abs/2609.18991) (tier 1, seen_count=1) — 觀察中
+- [Compiled Agency: Frontier General-Purpose Coding Agents Build Winning Game Players from Bare Interaction - from Flappy Bird to StarCraft II and Civilization](https://arxiv.org/abs/2609.18996) (tier 1, seen_count=1) — 觀察中
+- [MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education](https://arxiv.org/abs/2609.19088) (tier 1, seen_count=1) — 觀察中
+- [Flag Game: A Toy Model for Mechanistic Swarm Interpretability](https://arxiv.org/abs/2609.19124) (tier 1, seen_count=1) — 觀察中
+- [Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments](https://arxiv.org/abs/2609.19128) (tier 1, seen_count=1) — 觀察中
+- [The Death of Schema Linking? Text-to-SQL in the Age of Well-Reasoned Language Models](https://arxiv.org/abs/2408.07702) (tier 1, seen_count=1) — 觀察中
+- [REQAP: Resilient Weight Packing and Quantization for Edge DNN Acceleration](https://arxiv.org/abs/2609.17555) (tier 1, seen_count=1) — 觀察中
+- [WARD: Runtime Workload-Adaptive Vision TRansformer Framework for Dependable Edge AI](https://arxiv.org/abs/2609.17556) (tier 1, seen_count=1) — 觀察中
+- [Pay Only for Disagreement: Certified No-Regression Verdicts for Model Updates with Matching Label-Complexity Bounds](https://arxiv.org/abs/2609.17560) (tier 1, seen_count=1) — 觀察中
+- [BLADE: ReliaBle Dynamic Hardware-Aware SNN-ANN Boundary SeLection for Event-BAseD Object DEtection](https://arxiv.org/abs/2609.17562) (tier 1, seen_count=1) — 觀察中
+- [Independence-System Realisations in Single-Source Unsplittable Flow](https://arxiv.org/abs/2609.17568) (tier 1, seen_count=1) — 觀察中
+- [Where Grokking Happens: Distributed Utility and Fourier Recoding Without a Module Switch](https://arxiv.org/abs/2609.17571) (tier 1, seen_count=1) — 觀察中
+- [Evolutionary Ensemble Search: Council-Guided Program Evolution with Persistent Memory](https://arxiv.org/abs/2609.17590) (tier 1, seen_count=1) — 觀察中
+- [Structure is not mechanism: high-gain gated-FFN rows across text and genomic foundation models](https://arxiv.org/abs/2609.17599) (tier 1, seen_count=1) — 觀察中
+- [Decentralized Optimal Equilibrium Learning Over Dynamic Networks](https://arxiv.org/abs/2609.17601) (tier 1, seen_count=1) — 觀察中
+- [Lecture notes on Physics Informed Neural Networks, Neural Operators, and their applications](https://arxiv.org/abs/2609.17638) (tier 1, seen_count=1) — 觀察中
+- [Scaling Articulated Rationales for MLLM-based Recommendation](https://arxiv.org/abs/2609.17639) (tier 1, seen_count=1) — 觀察中
+- [Rethinking Domain Specialization for Open-Ended Scientific Reasoning in Astronomy Language Models](https://arxiv.org/abs/2609.17644) (tier 1, seen_count=1) — 觀察中
+- [Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents](https://arxiv.org/abs/2609.17653) (tier 1, seen_count=1) — 觀察中
+- [The Missing &quot;I Don&#x27;t Know&quot;: Why Three Reasoning-Reliability Findings Converge on Calibrated Abstention](https://arxiv.org/abs/2609.17686) (tier 1, seen_count=1) — 觀察中
+- [Accelerating Diffusion Sampling via Speculative Draft Trees](https://arxiv.org/abs/2609.17691) (tier 1, seen_count=1) — 觀察中
+- [Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents](https://arxiv.org/abs/2609.17708) (tier 1, seen_count=1) — 觀察中
+- [One Size Does Not Fit All! Dynamic Retriever and Generator Selection for RAG](https://arxiv.org/abs/2609.17709) (tier 1, seen_count=1) — 觀察中
+- [REVERSAL-BENCH: A Reversibility Axis and Reset Oracle for Measuring the Reset-Free RL Cliff](https://arxiv.org/abs/2609.17745) (tier 1, seen_count=1) — 觀察中
+- [Evolution of US Oral Political Language](https://arxiv.org/abs/2609.17755) (tier 1, seen_count=1) — 觀察中
+- [CALOS: Control-Affine Lyapunov On-manifold Safety Layer for Safe Deep Reinforcement Learning for Quadrotors](https://arxiv.org/abs/2609.17758) (tier 1, seen_count=1) — 觀察中
+- [Is Luke the Author of a Gospel and the Acts of the Apostles?](https://arxiv.org/abs/2609.17762) (tier 1, seen_count=1) — 觀察中
+- [HINT-Plan: Human Intention-Aware Robot Task Planning in Context-Rich Environments using Vision Language Models](https://arxiv.org/abs/2609.17771) (tier 1, seen_count=1) — 觀察中
+- [When AI Generates Covariates: Causal Typing and Estimand Drift in Sequential Experiments](https://arxiv.org/abs/2609.17772) (tier 1, seen_count=1) — 觀察中
+- [Information Set Emulation: Causal Certificates for AI Derived EHR Features](https://arxiv.org/abs/2609.17777) (tier 1, seen_count=1) — 觀察中
+- [AI and Human Approaches to Mathematical Problem Solving](https://arxiv.org/abs/2609.17779) (tier 1, seen_count=1) — 觀察中
+- [SAiFE-gym: Model-based Environments for Automated Market Making with Concentrated Liquidity](https://arxiv.org/abs/2609.17788) (tier 1, seen_count=1) — 觀察中
+- [QiT: Quantum-Inspired Transformer for Visual Recognition Task](https://arxiv.org/abs/2609.17789) (tier 1, seen_count=1) — 觀察中
+- [Principled Koopman Representations with Kalman Inference for Efficient Time-Series Prediction](https://arxiv.org/abs/2609.17815) (tier 1, seen_count=1) — 觀察中
+- [The Free Inference Dimension: Complexity Measure for Zero-Collision Navigation under Hypothesis Mixtures](https://arxiv.org/abs/2609.17816) (tier 1, seen_count=1) — 觀察中
+- [Reflections on Trusting Trust, Revisited: Contaminating Self-Modifying AI Coding Agents with Poisoned Benchmarks](https://arxiv.org/abs/2609.17817) (tier 1, seen_count=1) — 觀察中
+- [Learning Multi-Humanoid Pickup and Transport via Decentralized Object-Centric Control](https://arxiv.org/abs/2609.17824) (tier 1, seen_count=1) — 觀察中
+- [Procedural Pretraining for Molecular Property Prediction](https://arxiv.org/abs/2609.17831) (tier 1, seen_count=1) — 觀察中
+- [Adaptive hybrid coupling with operator inference, the overlapping Schwarz alternating method and reinforcement learning](https://arxiv.org/abs/2609.17837) (tier 1, seen_count=1) — 觀察中
+- [Learning Nuclear Structure with AI: Radii and Collectivity](https://arxiv.org/abs/2609.17838) (tier 1, seen_count=1) — 觀察中
+- [Lexara-RF: Reference-Free Metrics for Evaluating Conversational Visual Analytics Agents](https://arxiv.org/abs/2609.17842) (tier 1, seen_count=1) — 觀察中
+- [RoboVAD: A Large Cross-Domain Evaluation Benchmark for Anomaly Detection in Robotic Arm Manipulation Videos](https://arxiv.org/abs/2609.17843) (tier 1, seen_count=1) — 觀察中
+- [PrimeScientist: Strategic Allocation of Research Effort in Autonomous Research](https://arxiv.org/abs/2609.17846) (tier 1, seen_count=1) — 觀察中
+- [AfriSyCo: Measuring Assertive Framing, Verification, and Wording Sensitivity Around African-Language Content](https://arxiv.org/abs/2609.17853) (tier 1, seen_count=1) — 觀察中
+- [Who Judges Matters: Measuring Family-Conditioned Preference in LLM-as-Judge Panels](https://arxiv.org/abs/2609.17857) (tier 1, seen_count=1) — 觀察中
+- [Does AI Assistance Leave a Temporal Fingerprint? Detecting Overreliance in AI-Assisted Writing and Programming](https://arxiv.org/abs/2609.17883) (tier 1, seen_count=1) — 觀察中
+- [Walking the Score Manifold: Continuous-time Generative Dynamics on Learned Data Manifolds](https://arxiv.org/abs/2609.17901) (tier 1, seen_count=1) — 觀察中
+- [EDCT-Bench: Uncovering Faithfulness Gaps in VLMs via Explanation-Driven Counterfactual Testing](https://arxiv.org/abs/2609.17953) (tier 1, seen_count=1) — 觀察中
+- [Whom Do AI Agents Work For? Role Assignment Induces Sponsorship Bias in LLM Recommenders](https://arxiv.org/abs/2609.17989) (tier 1, seen_count=1) — 觀察中
+- [The Attention Within: Consensus Dynamics in Selective State Space Models](https://arxiv.org/abs/2609.17997) (tier 1, seen_count=1) — 觀察中
+- [Newer Is Not Fairer: Gender Stereotyping in Text-to-Image AI Across Model Generations](https://arxiv.org/abs/2609.18007) (tier 1, seen_count=1) — 觀察中
+- [Physics-Informed Neural Networks for Fast Multilayer Spectral Inversion of H{\alpha} 6562.8 A and Ca II 8542.1 A Spectra](https://arxiv.org/abs/2609.18025) (tier 1, seen_count=1) — 觀察中
+- [An Empirical Evaluation of Cost-Efficient Large Language Models on Algorithmic Programming Tasks](https://arxiv.org/abs/2609.18052) (tier 1, seen_count=1) — 觀察中
+- [From a River in Gilead to the Inference Distributions of Large Language Models: Covert Dialect Bias and Linguistic Profiling at Scale](https://arxiv.org/abs/2609.18068) (tier 1, seen_count=1) — 觀察中
+- [Mask 2D-3D: Adaptive Dual-Masked Autoencoder Network for Image-to-Point Cloud Registration](https://arxiv.org/abs/2609.18088) (tier 1, seen_count=1) — 觀察中
+- [Agora: Git as Shared Memory for Collective AutoResearch](https://arxiv.org/abs/2609.18094) (tier 1, seen_count=1) — 觀察中
+- [Linguistic Triggers of Gender and Racial Bias in Open-Weight LLMs Applied to Recruitment](https://arxiv.org/abs/2609.18106) (tier 1, seen_count=1) — 觀察中
+- [A Comprehensive Review of Generative Physical Artificial Intelligence](https://arxiv.org/abs/2609.18111) (tier 1, seen_count=1) — 觀察中
+- [PentestChain: A Cost-Aware, MCP-Orchestrated Framework for Automated Penetration Testing with Free-Tier LLMs](https://arxiv.org/abs/2609.18120) (tier 1, seen_count=1) — 觀察中
+- [Rethinking How We Evaluate Methodological Progress in Health AI](https://arxiv.org/abs/2609.18134) (tier 1, seen_count=1) — 觀察中
+- [DualSQL: Text-to-SQL with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2609.18135) (tier 1, seen_count=1) — 觀察中
+- [MoRE: Mixture of Reused Experts](https://arxiv.org/abs/2609.18176) (tier 1, seen_count=1) — 觀察中
+- [Beyond Accuracy: How Procedural Traces Shift the Decision Criterion of LLM Overseers](https://arxiv.org/abs/2609.18204) (tier 1, seen_count=1) — 觀察中
+- [CapMap-MS-TTA: 3rd Place Solution for the MUMU Track of the 8th LSVOS Challenge at ECCV 2026](https://arxiv.org/abs/2609.18206) (tier 1, seen_count=1) — 觀察中
+- [A Lightweight CNN Integrated Compact Convolutional Transformer for Multi-Scale Feature Learning and reducing computational complexity for breast cancer mammography image detection and classification](https://arxiv.org/abs/2609.18212) (tier 1, seen_count=1) — 觀察中
+- [CPR: Combining global composing, local performing and full-sequence refining in piano rendering with continuous autoregressive modelling](https://arxiv.org/abs/2609.18216) (tier 1, seen_count=1) — 觀察中
+- [APGEM: Adaptive Policy-Guided Error Mitigation for Quantum Reinforcement Learning on a Real-World CVRP Case Study](https://arxiv.org/abs/2609.18219) (tier 1, seen_count=1) — 觀察中
+- [Remembering Solomon Marcus](https://arxiv.org/abs/2609.18224) (tier 1, seen_count=1) — 觀察中
+- [Quanta: A Self-Contained Python Library for Hybrid Retrieval over Quantised Embeddings, Lexical Indexes, and Knowledge Graphs](https://arxiv.org/abs/2609.18248) (tier 1, seen_count=1) — 觀察中
+- [${M}^2$Tok: Multi-head Multi-codebook Discrete Action Tokenization for Vision-Language-Action Models](https://arxiv.org/abs/2609.18259) (tier 1, seen_count=1) — 觀察中
+- [I code or AI code: A comparative evaluation of AI-rated scores in classroom observations](https://arxiv.org/abs/2609.18274) (tier 1, seen_count=1) — 觀察中
+- [A Study of the Reliability of Agentic AI-Generated Programs](https://arxiv.org/abs/2609.18298) (tier 1, seen_count=1) — 觀察中
+- [Knowledge-Graph Based Augmentation versus Retrieval Augmented Generation for Cultural-Related Question Answering](https://arxiv.org/abs/2609.18317) (tier 1, seen_count=1) — 觀察中
+- [Trajectory Learnability for Offline On-Policy Distillation with Imperfect Teachers](https://arxiv.org/abs/2609.18321) (tier 1, seen_count=1) — 觀察中
+- [Look Less, Hear Better: Jointly Rewarded GRPO for Streaming ASR](https://arxiv.org/abs/2609.18333) (tier 1, seen_count=1) — 觀察中
+- [Autonomy in Check: Governor-Mediated Adaptive Security at the Edge](https://arxiv.org/abs/2609.18338) (tier 1, seen_count=1) — 觀察中
+- [Semantic CSI Feedback for Beam Selection: When Task-Aware Embeddings from Sparse Pilots Outperform Full-Bandwidth Reconstruction](https://arxiv.org/abs/2609.18368) (tier 1, seen_count=1) — 觀察中
+- [GYROval: A Robust Benchmark for Cultural Value Orientation in Large Language Models](https://arxiv.org/abs/2609.18384) (tier 1, seen_count=1) — 觀察中
+- [Reliable Virtual Sensing: A Multi-Domain Benchmark for Robustness Under Sensor Failures](https://arxiv.org/abs/2609.18396) (tier 1, seen_count=1) — 觀察中
+- [A Non-Linear Neuron Based Detection of Isolated Pixels in Binary and Grayscale Images using Contrast Sensitive Receptive Fields](https://arxiv.org/abs/2609.18399) (tier 1, seen_count=1) — 觀察中
+- [TERN: A Delta-rule Memory with a Seasonal Reference and Online Adaptation for Epidemic Forecasting](https://arxiv.org/abs/2609.18407) (tier 1, seen_count=1) — 觀察中
+- [Multitask Reinforcement Learning for Assisting Choice Model Specification](https://arxiv.org/abs/2609.18441) (tier 1, seen_count=1) — 觀察中
+- [CSWAM: Better Causal Semantic Representations for Out-of-Distribution Generalization in World Action Models](https://arxiv.org/abs/2609.18462) (tier 1, seen_count=1) — 觀察中
+- [ActionPiece: Rethinking Action Tokenization for Autoregressive Vision-Language-Action Models](https://arxiv.org/abs/2609.18487) (tier 1, seen_count=1) — 觀察中
+- [MiST: Mid-Training LLMs for Cybersecurity](https://arxiv.org/abs/2609.18496) (tier 1, seen_count=1) — 觀察中
+- [VoiceTrace: A Benchmark and Retrieval Framework for Who-Said-What Speech Retrieval](https://arxiv.org/abs/2609.18521) (tier 1, seen_count=1) — 觀察中
+- [Interpretable Patch-Based Deep Learning for Wildfire Spread Prediction from Ensemble Simulations](https://arxiv.org/abs/2609.18555) (tier 1, seen_count=1) — 觀察中
+- [On-the-Fly Homographies Calibration for Multi-Camera Tracking](https://arxiv.org/abs/2609.18582) (tier 1, seen_count=1) — 觀察中
+- [Label-free steering: Compressing test-time reinforcement learning into bias-only subspaces](https://arxiv.org/abs/2609.18587) (tier 1, seen_count=1) — 觀察中
+- [Hypothesis-Driven Autonomous Materials Synthesis with Multimodal LLM Agents](https://arxiv.org/abs/2609.18598) (tier 1, seen_count=1) — 觀察中
+- [Online Robust Reinforcement Learning Through Monte-Carlo Planning](https://arxiv.org/abs/2609.18599) (tier 1, seen_count=1) — 觀察中
+- [PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?](https://arxiv.org/abs/2609.18605) (tier 1, seen_count=1) — 觀察中
+- [GenStream: Semantic Streaming Framework for Generative Reconstruction of Human-centric Media](https://arxiv.org/abs/2609.18634) (tier 1, seen_count=1) — 觀察中
+- [CoRe-MARL: Cooperative Redistribution Under Unknown Dynamics Using Recurrent Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2609.18639) (tier 1, seen_count=1) — 觀察中
+- [Beyond EER: Multi-Dimensional Evaluation of Information Leakage in Speaker De-Identification](https://arxiv.org/abs/2609.18673) (tier 1, seen_count=1) — 觀察中
+- [Generalist-Specialist Mixture-of-Experts for Rare Pathology Detection in Multimodal Imaging](https://arxiv.org/abs/2609.18688) (tier 1, seen_count=1) — 觀察中
+- [Echo: Learning-based Matching Decompilation using Trusted Back Translation](https://arxiv.org/abs/2609.18706) (tier 1, seen_count=1) — 觀察中
+- [Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening](https://arxiv.org/abs/2609.18708) (tier 1, seen_count=1) — 觀察中
+- [A Scalable Framework for Automated NER Annotation Correction in Low-Resource Languages](https://arxiv.org/abs/2609.18739) (tier 1, seen_count=1) — 觀察中
+- [ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks](https://arxiv.org/abs/2609.18805) (tier 1, seen_count=1) — 觀察中
+- [Using OCR Heads to Verbalize Image Semantics](https://arxiv.org/abs/2609.18823) (tier 1, seen_count=1) — 觀察中
+- [Ask the Tool, Don&#x27;t Guess: Agent Tool Calls Hold Their Progress, and the Serving System Should Read It](https://arxiv.org/abs/2609.18849) (tier 1, seen_count=1) — 觀察中
+- [GrainSpeech: Less Context, More Detail for Compact Speech Synthesis](https://arxiv.org/abs/2609.18856) (tier 1, seen_count=1) — 觀察中
+- [Taming the Agentic RAN: Stability-Guaranteed Arbitration of Autonomous AI Agents in O-RAN](https://arxiv.org/abs/2609.18857) (tier 1, seen_count=1) — 觀察中
+- [Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection](https://arxiv.org/abs/2609.18860) (tier 1, seen_count=1) — 觀察中
+- [ASLEval: Measuring Privacy Exposure Displacement in LLM Agent Sessions](https://arxiv.org/abs/2609.18864) (tier 1, seen_count=1) — 觀察中
+- [NeuroECG: ECGFounder-Based Deep ECG Representation for EEG-Free Neurological Prognostication After Cardiac Arrest](https://arxiv.org/abs/2609.18891) (tier 1, seen_count=1) — 觀察中
+- [Beyond Outcomes: Dual-View Relational Learning for Efficient Agent Benchmarking](https://arxiv.org/abs/2609.18909) (tier 1, seen_count=1) — 觀察中
+- [Higher-order pruning of experts in mixture-of-experts language models](https://arxiv.org/abs/2609.18916) (tier 1, seen_count=1) — 觀察中
+- [Social Laws for Multi-agent Coordination in Stochastic Environments](https://arxiv.org/abs/2609.18929) (tier 1, seen_count=1) — 觀察中
+- [Dose-Aware Cold Diffusion with Physics Consistency for Generalizable Low-Dose CT Reconstruction](https://arxiv.org/abs/2609.18943) (tier 1, seen_count=1) — 觀察中
+- [StableEval Arena: A Cost-Aware Agentic Benchmark for Stablecoin Price Stability Prediction](https://arxiv.org/abs/2609.18949) (tier 1, seen_count=1) — 觀察中
+- [Automated Dental Caries Segmentation in Panoramic Radiographs Using Dual-Stage Deep Learning](https://arxiv.org/abs/2609.18952) (tier 1, seen_count=1) — 觀察中
+- [Transcribe, Then Reason: Two-Pass Decomposition for Multimodal Review](https://arxiv.org/abs/2609.18958) (tier 1, seen_count=1) — 觀察中
+- [BadQubits: An LLM-Based Framework for Static Pre-Execution Detection of Structurally Harmful Quantum Circuits](https://arxiv.org/abs/2609.18965) (tier 1, seen_count=1) — 觀察中
+- [WordPolo: Evaluating Language Models Through Iterative Semantic Feedback](https://arxiv.org/abs/2609.19006) (tier 1, seen_count=1) — 觀察中
+- [Tabular Deep Learning vs Classical Machine Learning for Urban Land Cover Classification](https://arxiv.org/abs/2609.19010) (tier 1, seen_count=1) — 觀察中
+- [TalkMatrix: Generating Character Dialogue that is Both Consistent and Diverse](https://arxiv.org/abs/2609.19022) (tier 1, seen_count=1) — 觀察中
+- [MIRAGE: How Conversation State Shapes Historical Evidence Use in Multimodal Personal Agents](https://arxiv.org/abs/2609.19059) (tier 1, seen_count=1) — 觀察中
+- [RLLBC-Lib: An Educational Code Library for Reinforcement Learning and Learning-Based Control](https://arxiv.org/abs/2609.19074) (tier 1, seen_count=1) — 觀察中
+- [Double descent is the principle of least action](https://arxiv.org/abs/2609.19076) (tier 1, seen_count=1) — 觀察中
+- [Probabilistic Linear Explanations](https://arxiv.org/abs/2609.19077) (tier 1, seen_count=1) — 觀察中
+- [Securing quantum error correction against misleading advice from AI agents](https://arxiv.org/abs/2609.19090) (tier 1, seen_count=1) — 觀察中
+- [Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation](https://arxiv.org/abs/2609.19093) (tier 1, seen_count=1) — 觀察中
+- [Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical Adoption of Artificial Intelligence in Nigeria](https://arxiv.org/abs/2609.19096) (tier 1, seen_count=1) — 觀察中
+- [rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference](https://arxiv.org/abs/2609.19104) (tier 1, seen_count=1) — 觀察中
+- [Affora: A Design System for Agent-Friendly Interfaces](https://arxiv.org/abs/2609.19125) (tier 1, seen_count=1) — 觀察中
+- [Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation](https://arxiv.org/abs/2609.19137) (tier 1, seen_count=1) — 觀察中
+- [A Zeroth-Order Paradigm for LLM Preference Alignment](https://arxiv.org/abs/2609.19144) (tier 1, seen_count=1) — 觀察中
+- [Objective vs. Search: Decomposing What Makes a Good Tokeniser](https://arxiv.org/abs/2609.19145) (tier 1, seen_count=1) — 觀察中
+- [A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond](https://arxiv.org/abs/2502.12048) (tier 1, seen_count=1) — 觀察中
+- [SurgRAW: Multi-Agent Workflow with Chain of Thought Reasoning for Robotic Surgical Video Analysis](https://arxiv.org/abs/2503.10265) (tier 1, seen_count=1) — 觀察中
+- [Bridging the Gap in Ophthalmic AI: MM-Retinal-Reason Dataset and OphthaReason Model toward Dynamic Multimodal Reasoning](https://arxiv.org/abs/2508.16129) (tier 1, seen_count=1) — 觀察中
+- [LM Fight Arena: Benchmarking Large Multimodal Models via Game Competition](https://arxiv.org/abs/2510.08928) (tier 1, seen_count=1) — 觀察中
+- [Enhancing knowledge tracing robustness for new question cold start in Intelligent Tutoring Systems](https://arxiv.org/abs/2512.07179) (tier 1, seen_count=1) — 觀察中
 - [MCPAgentBench: A Real-world Task Benchmark for Evaluating LLM Agent MCP Tool Use](https://arxiv.org/abs/2512.24565) (tier 1, seen_count=1) — 觀察中
-- [ClinicalReTrial: Clinical Trial Redesign with Self-Evolving Agents](https://arxiv.org/abs/2601.00290) (tier 1, seen_count=1) — 觀察中
-- [Towards a Mechanistic Understanding of Propositional Logical Reasoning in Large Language Models](https://arxiv.org/abs/2601.04260) (tier 1, seen_count=1) — 觀察中
-- [Modality-Guided Mixture of Structured Experts with Entropy-Triggered Routing for Multimodal Recommendation](https://arxiv.org/abs/2602.20723) (tier 1, seen_count=1) — 觀察中
-- [Tool Use Reduces Depth-Induced Collapse in OOD Reasoning](https://arxiv.org/abs/2602.21061) (tier 1, seen_count=1) — 觀察中
-- [NeuroProlog: Multi-Task Fine-Tuning for Neurosymbolic Mathematical Reasoning via the Cocktail Effect](https://arxiv.org/abs/2603.02504) (tier 1, seen_count=1) — 觀察中
-- [TimeWarp: Evaluating Web Agents by Revisiting the Past](https://arxiv.org/abs/2603.04949) (tier 1, seen_count=1) — 觀察中
-- [From Refusal Tokens to Refusal Control: Discovering and Steering Category-Specific Refusal Directions](https://arxiv.org/abs/2603.13359) (tier 1, seen_count=1) — 觀察中
-- [vla-eval: A Unified Evaluation Harness for Vision-Language-Action Models](https://arxiv.org/abs/2603.13966) (tier 1, seen_count=1) — 觀察中
-- [ZEBRAARENA: A Diagnostic Simulation Environment for Studying Reasoning-Action Coupling in Tool-Augmented LLMs](https://arxiv.org/abs/2603.18614) (tier 1, seen_count=1) — 觀察中
-- [Ventriloquist LLMs: Linear Alignment of Late-Stage Representations](https://arxiv.org/abs/2603.18908) (tier 1, seen_count=1) — 觀察中
-- [Utility-Guided Agent Orchestration for Efficient LLM Tool Use](https://arxiv.org/abs/2603.19896) (tier 1, seen_count=1) — 觀察中
-- [MARCUS: An agentic, multimodal vision-language model for cardiac diagnosis and management](https://arxiv.org/abs/2603.22179) (tier 1, seen_count=1) — 觀察中
-- [Mecha-nudges for Machines](https://arxiv.org/abs/2603.23433) (tier 1, seen_count=1) — 觀察中
-- [Auditable Agents](https://arxiv.org/abs/2604.05485) (tier 1, seen_count=1) — 觀察中
-- [CLEAR: Context Augmentation from Contrastive Learning of Experience via Agentic Reflection](https://arxiv.org/abs/2604.07487) (tier 1, seen_count=1) — 觀察中
-- [Multi-Agent Empowerment and Emergence of Complex Behavior in Groups](https://arxiv.org/abs/2604.21155) (tier 1, seen_count=1) — 觀察中
-- [Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering](https://arxiv.org/abs/2604.27724) (tier 1, seen_count=1) — 觀察中
-- [Valley3: Scaling Omni Foundation Models for E-commerce](https://arxiv.org/abs/2605.01278) (tier 1, seen_count=1) — 觀察中
-- [Post-Reasoning: Improving the Performance of Non-Thinking Models at No Cost](https://arxiv.org/abs/2605.06165) (tier 1, seen_count=1) — 觀察中
-- [Personality engineering with AI agents: A new methodology for negotiation research](https://arxiv.org/abs/2605.20554) (tier 1, seen_count=1) — 觀察中
-- [Playing Devil&#x27;s Advocate: Off-the-Shelf Persona Vectors Rival Targeted Steering for Sycophancy](https://arxiv.org/abs/2605.21006) (tier 1, seen_count=1) — 觀察中
-- [Counteraction-Aware Multi-Teacher On-Policy Distillation for General Capability Recovery with Domain Preservation](https://arxiv.org/abs/2605.27115) (tier 1, seen_count=1) — 觀察中
-- [FundaPod: A Multi-Persona Agent Pod Architecture with Knowledge Graph Memory for AI-Assisted Fundamental Investment Research](https://arxiv.org/abs/2605.27864) (tier 1, seen_count=1) — 觀察中
-- [PortBench: A Correlation-Aware, Full-Pipeline Benchmark for LLM-Driven Portfolio Management](https://arxiv.org/abs/2605.27887) (tier 1, seen_count=1) — 觀察中
-- [The Theory of Mind Utility: A Formal Account of Mentalizing](https://arxiv.org/abs/2606.12721) (tier 1, seen_count=1) — 觀察中
-- [WISE: A Long-Horizon Agent in Minecraft with Why-Which Reasoning](https://arxiv.org/abs/2606.12852) (tier 1, seen_count=1) — 觀察中
-- [FinAcumen: Financial Multimodal Reasoning via Self-Evolving Experience Memory Harness](https://arxiv.org/abs/2606.17642) (tier 1, seen_count=1) — 觀察中
-- [Data Scale, Not Latency, Shapes Cross-Lingual Encoder Transfer in Streaming ASR](https://arxiv.org/abs/2606.24169) (tier 1, seen_count=1) — 觀察中
-- [Humans Disengage, Reasoning Models Persist: Separating Difficulty Registration from Deliberation Allocation](https://arxiv.org/abs/2606.26502) (tier 1, seen_count=1) — 觀察中
-- [CLQT: A Closed-Loop, Cost-Aware, Strategy-Consistent Benchmark for Diagnostic Evaluation of LLM Portfolio-Management Agents](https://arxiv.org/abs/2606.29771) (tier 1, seen_count=1) — 觀察中
-- [Spatial Reasoning via Modality Switching Between Language and Symbolic Representations](https://arxiv.org/abs/2606.31285) (tier 1, seen_count=1) — 觀察中
-- [SportD: How do VLMs physically strategize?](https://arxiv.org/abs/2607.14616) (tier 1, seen_count=1) — 觀察中
-- [Design and Embedded Validation of Compact ML Models for Affective Touch Classification in a Soft Interactive Companion](https://arxiv.org/abs/2607.16196) (tier 1, seen_count=1) — 觀察中
-- [TRACTA: Benchmarking Temporal Reasoning over Semantic Trajectories](https://arxiv.org/abs/2607.22365) (tier 1, seen_count=1) — 觀察中
-- [Evolving from Lessons: Skill-Augmented Table Graph Reasoning for Operation-wise Table Question Answering](https://arxiv.org/abs/2607.22633) (tier 1, seen_count=1) — 觀察中
-- [Hidden APIs in Language Models: Discovering Reusable Causal Interfaces from Forked Futures](https://arxiv.org/abs/2607.27617) (tier 1, seen_count=1) — 觀察中
-- [Whetstones: Measuring Coevolution Between Adaptive Malware and Behavioral Defense](https://arxiv.org/abs/2608.00745) (tier 1, seen_count=1) — 觀察中
-- [Modeling Social Dynamics with an LLM-Enabled Agent Based Network-Dynamic (LAND) Model](https://arxiv.org/abs/2608.00929) (tier 1, seen_count=1) — 觀察中
-- [Self-Certification of Representation Adequacy: Sequential Certification at Minimum Task Loss](https://arxiv.org/abs/2608.02267) (tier 1, seen_count=1) — 觀察中
-- [ChartAnno: Benchmarking Multimodal Large Language Models for Chart Annotation Generation](https://arxiv.org/abs/2608.03464) (tier 1, seen_count=1) — 觀察中
-- [Negotiating Risk Boundaries in AI for Policing Through Mixed-Stakeholder Deliberation](https://arxiv.org/abs/2608.05418) (tier 1, seen_count=1) — 觀察中
-- [An Explainable GNN Framework for Component-Level Anomaly Diagnosis](https://arxiv.org/abs/2608.09246) (tier 1, seen_count=1) — 觀察中
-- [Hierarchical Compositionality for An Assistive AI Agent](https://arxiv.org/abs/2608.10330) (tier 1, seen_count=1) — 觀察中
-- [Measuring Cross-Task Behavioral Consistency in Language Model Agents](https://arxiv.org/abs/2608.13598) (tier 1, seen_count=1) — 觀察中
-- [Development and Feasibility Evaluation of an Edge AI as Medical Device System for Breast Cancer Multidisciplinary Team Meetings](https://arxiv.org/abs/2608.22108) (tier 1, seen_count=1) — 觀察中
-- [Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment](https://arxiv.org/abs/2608.23691) (tier 1, seen_count=1) — 觀察中
-- [A Contract-Centered Architecture for Scalable and Manageable Agentic Runtimes](https://arxiv.org/abs/2608.27086) (tier 1, seen_count=1) — 觀察中
-- [Responsible Integration of AI in Cancer Genomics: Barriers, Risks, and Pathways to Trustworthy Clinical Translation](https://arxiv.org/abs/2608.30912) (tier 1, seen_count=1) — 觀察中
-- [Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization](https://arxiv.org/abs/2608.31077) (tier 1, seen_count=1) — 觀察中
-- [Verifiable Disaster Storylines and Causal Knowledge Graphs: A Citation-Grounded Pipeline from Heterogeneous Humanitarian Sources](https://arxiv.org/abs/2609.00858) (tier 1, seen_count=1) — 觀察中
-- [Bioinfoysis Technical Report](https://arxiv.org/abs/2609.03871) (tier 1, seen_count=1) — 觀察中
-- [HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals](https://arxiv.org/abs/2609.04444) (tier 1, seen_count=1) — 觀察中
-- [The Normalization of Deviance in AI Development](https://arxiv.org/abs/2609.05749) (tier 1, seen_count=1) — 觀察中
-- [CIT-CAD: Constraint Intent Tree-based CAD Code Generation and Verification](https://arxiv.org/abs/2609.07434) (tier 1, seen_count=1) — 觀察中
+- [An Agentic Framework for Neuro-Symbolic Programming](https://arxiv.org/abs/2601.00743) (tier 1, seen_count=1) — 觀察中
+- [Assessing the Effect of Cross-Domain Mapping on Creativity in Humans and Large Language Models](https://arxiv.org/abs/2603.19087) (tier 1, seen_count=1) — 觀察中
+- [Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization](https://arxiv.org/abs/2606.10086) (tier 1, seen_count=1) — 觀察中
+- [Predictive Assistance and the Temporal Dynamics of Exploratory Compression](https://arxiv.org/abs/2606.10094) (tier 1, seen_count=1) — 觀察中
+- [Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling](https://arxiv.org/abs/2608.15565) (tier 1, seen_count=1) — 觀察中
+- [Benchmarking LLM Judges for Voice-Agent Evaluation: Reliability, Calibration, and Human Oversight](https://arxiv.org/abs/2608.24314) (tier 1, seen_count=1) — 觀察中
+- [HyQuant: Hybrid-Precision Quantization for LLM Attention](https://arxiv.org/abs/2608.27875) (tier 1, seen_count=1) — 觀察中
+- [EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses](https://arxiv.org/abs/2608.28363) (tier 1, seen_count=1) — 觀察中
+- [Iris: Climbing to the Search Frontier](https://arxiv.org/abs/2609.04304) (tier 1, seen_count=1) — 觀察中
+- [A visual large language foundational model for medical image recognition using clinician-contributed online resources](https://arxiv.org/abs/2609.06914) (tier 1, seen_count=1) — 觀察中
+- [The Internal Anatomy of Strategic Choice in Large Language Models](https://arxiv.org/abs/2609.07478) (tier 1, seen_count=1) — 觀察中
 - [FrogNano: Training a 4B Coding Agent via Online Task Synthesis](https://arxiv.org/abs/2609.07925) (tier 1, seen_count=1) — 觀察中
-- [From Event Logs to Governed Action: A BlueSky Agenda for Agentic Process Mining](https://arxiv.org/abs/2609.07984) (tier 1, seen_count=1) — 觀察中
-- [Beyond Coherence: Benchmarking Professional Editing-Technique Execution in Multi-Shot Audio-Video Generation](https://arxiv.org/abs/2609.08275) (tier 1, seen_count=1) — 觀察中
-- [Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration](https://arxiv.org/abs/2609.09418) (tier 1, seen_count=1) — 觀察中
-- [Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation](https://arxiv.org/abs/2609.11115) (tier 1, seen_count=1) — 觀察中
-- [From Explanations to Interventions: Execution-Guided Counterfactual Synthesis in Temporal Graphs](https://arxiv.org/abs/2609.11170) (tier 1, seen_count=1) — 觀察中
-- [SemVerBench: Benchmarking LLM Comprehension of Version-Constraint Resolution Semantics](https://arxiv.org/abs/2609.11180) (tier 1, seen_count=1) — 觀察中
-- [A Voice-Interactive Multi-Agent System for Smart Operating Rooms: Architecture Design and Key Technologies](https://arxiv.org/abs/2609.11231) (tier 1, seen_count=1) — 觀察中
-- [BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents](https://arxiv.org/abs/2609.12394) (tier 1, seen_count=1) — 觀察中
-- [Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving](https://arxiv.org/abs/2609.12606) (tier 1, seen_count=1) — 觀察中
-- [K-Bench: A Benchmark for LLM Unlearning in Agentic Deployments](https://arxiv.org/abs/2609.12808) (tier 1, seen_count=1) — 觀察中
-- [SynGhost: Invisible and Universal Task-agnostic Backdoor Attack via Syntactic Transfer](https://arxiv.org/abs/2402.18945) (tier 1, seen_count=1) — 觀察中
-- [Zonal RL-RRT: Integrated RL-RRT Path Planning with Collision Probability and Zone Connectivity](https://arxiv.org/abs/2410.24205) (tier 1, seen_count=1) — 觀察中
-- [CHAI for LLMs: Improving Code-Mixed Translation in Large Language Models through Reinforcement Learning with AI Feedback](https://arxiv.org/abs/2411.09073) (tier 1, seen_count=1) — 觀察中
-- [From Voice to Value: Leveraging AI to Enhance Spoken Online Reviews on the Go](https://arxiv.org/abs/2412.05445) (tier 1, seen_count=1) — 觀察中
-- [Balancing Global Quality and Pronoun-Specific Feedback for Context-Aware Machine Translation](https://arxiv.org/abs/2501.03008) (tier 1, seen_count=1) — 觀察中
-- [EventVL: Understand Event Streams via Multimodal Large Language Model](https://arxiv.org/abs/2501.13707) (tier 1, seen_count=1) — 觀察中
-- [Towards Unified Approaches in Self-Supervised Event Stream Modeling: Progress and Prospects](https://arxiv.org/abs/2502.04899) (tier 1, seen_count=1) — 觀察中
-- [LLM-Microscope: Uncovering the Hidden Role of Punctuation in Context Memory of Transformers](https://arxiv.org/abs/2502.15007) (tier 1, seen_count=1) — 觀察中
-- [Sanity Checking Causal Representation Learning on a Simple Real-World System](https://arxiv.org/abs/2502.20099) (tier 1, seen_count=1) — 觀察中
-- [L-Lipschitz Gershgorin ResNet Network](https://arxiv.org/abs/2502.21279) (tier 1, seen_count=1) — 觀察中
-- [BGM2Pose: Active 3D Human Pose Estimation with Non-Stationary Sounds](https://arxiv.org/abs/2503.00389) (tier 1, seen_count=1) — 觀察中
-- [Lost-in-the-Middle in Long-Text Generation: Synthetic Dataset, Evaluation Framework, and Mitigation](https://arxiv.org/abs/2503.06868) (tier 1, seen_count=1) — 觀察中
-- [Generative Learner for Distributional Causal Effects](https://arxiv.org/abs/2503.17894) (tier 1, seen_count=1) — 觀察中
-- [ModiGen: A Large Language Model-Based Workflow for Multi-Task Modelica Code Generation](https://arxiv.org/abs/2503.18460) (tier 1, seen_count=1) — 觀察中
-- [WaveHiTS: Wavelet-Enhanced Hierarchical Time Series Modeling for Wind Direction Nowcasting in Eastern Inner Mongolia](https://arxiv.org/abs/2504.06532) (tier 1, seen_count=1) — 觀察中
-- [Are explainable AI (XAI) evaluation strategies aligned? Comparing subjective, objective, and mathematical evaluation measures using saliency maps](https://arxiv.org/abs/2504.17023) (tier 1, seen_count=1) — 觀察中
-- [JSolver: Joint Spectrum Estimation and Multi-Material Decomposition from Single-Energy CT Projections](https://arxiv.org/abs/2505.08123) (tier 1, seen_count=1) — 觀察中
-- [Dissociating performance from compositional feature learning](https://arxiv.org/abs/2505.09716) (tier 1, seen_count=1) — 觀察中
-- [Unraveling the iterative CHAD](https://arxiv.org/abs/2505.15002) (tier 1, seen_count=1) — 觀察中
-- [Tensorization is a powerful but underexplored tool for compression and interpretability of neural networks](https://arxiv.org/abs/2505.20132) (tier 1, seen_count=1) — 觀察中
-- [Discovering Hierarchy-Grounded Domains with Adaptive Granularity for Clinical Domain Generalization](https://arxiv.org/abs/2506.06977) (tier 1, seen_count=1) — 觀察中
-- [LLM Probability Concentration: How Alignment Shrinks the Generative Horizon](https://arxiv.org/abs/2506.17871) (tier 1, seen_count=1) — 觀察中
-- [Can Interpretation Predict Behavior on Unseen Data?](https://arxiv.org/abs/2507.06445) (tier 1, seen_count=1) — 觀察中
-- [Data Security in Large Language Models: Risks, Defense, and Directions](https://arxiv.org/abs/2508.02312) (tier 1, seen_count=1) — 觀察中
-- [Perceptual Reality Transformer: What Must an Illustration Preserve?](https://arxiv.org/abs/2508.09852) (tier 1, seen_count=1) — 觀察中
-- [Access Paths for Efficient Ordering with Large Language Models](https://arxiv.org/abs/2509.00303) (tier 1, seen_count=1) — 觀察中
-- [Exploring the Potential of Diffusion Large Language Models in Code Generation](https://arxiv.org/abs/2509.11252) (tier 1, seen_count=1) — 觀察中
-- [Tackling GNARLy Problems: Graph Neural Algorithmic Reasoning Reimagined through Reinforcement Learning](https://arxiv.org/abs/2509.18930) (tier 1, seen_count=1) — 觀察中
-- [Uncertainty-Aware Calibrated Clinical Text Classification with Large Language Models](https://arxiv.org/abs/2509.19375) (tier 1, seen_count=1) — 觀察中
-- [Concertina: Data-Centric Adaptive Pipeline Parallelism for Efficient Heterogeneous Long-Context LLM Training](https://arxiv.org/abs/2509.21275) (tier 1, seen_count=1) — 觀察中
-- [IsingFormer: Augmenting Parallel Tempering With Learned Proposals](https://arxiv.org/abs/2509.23043) (tier 1, seen_count=1) — 觀察中
-- [Generalized Correctness Models: Learning Calibrated and Model-Agnostic Correctness Predictors from Historical Patterns](https://arxiv.org/abs/2509.24988) (tier 1, seen_count=1) — 觀察中
-- [TOPO-Bench: An Open-Source Topological Mapping Evaluation Framework with Quantifiable Perceptual Aliasing](https://arxiv.org/abs/2510.04100) (tier 1, seen_count=1) — 觀察中
-- [CapGeo-Bench: Decoupling Visual Perception from Reasoning and Evaluating Geometric Understanding](https://arxiv.org/abs/2510.09302) (tier 1, seen_count=1) — 觀察中
-- [Interpretable Recognition of Cognitive Distortions in Natural Language Texts](https://arxiv.org/abs/2511.05969) (tier 1, seen_count=1) — 觀察中
-- [ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis](https://arxiv.org/abs/2510.10774) (tier 1, seen_count=1) — 觀察中
-- [Mesh-based Super-resolution of Multiscale Detonation Flows with Graph Transformers](https://arxiv.org/abs/2511.12041) (tier 1, seen_count=1) — 觀察中
-- [Donors and Recipients: On Asymmetric Transfer Across Tasks and Languages with Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2511.13368) (tier 1, seen_count=1) — 觀察中
-- [Freeze, Share, Shrink: Rethinking the Action Backbone in Diffusion Policies](https://arxiv.org/abs/2511.12101) (tier 1, seen_count=1) — 觀察中
-- [Can We Stop Malicious AI? KILLBENCH: A Benchmark for External AI Kill Switch Feasibility](https://arxiv.org/abs/2511.13725) (tier 1, seen_count=1) — 觀察中
-- [DuoTok: Source-Aware Dual-Track Music Tokenization for Vocal-Accompaniment Generation](https://arxiv.org/abs/2511.20224) (tier 1, seen_count=1) — 觀察中
-- [MedSAM3: Delving into Segment Anything with Medical Concepts](https://arxiv.org/abs/2511.19046) (tier 1, seen_count=1) — 觀察中
-- [Understanding the Effects of Distractors on Reasoning Vision-Language Models](https://arxiv.org/abs/2511.21397) (tier 1, seen_count=1) — 觀察中
-- [How Semantically Stable Are LLM Refusals? Measuring Confusion in Local Safety Boundaries](https://arxiv.org/abs/2512.01037) (tier 1, seen_count=1) — 觀察中
-- [Enhancing Large Language Model-Based Systems for End-to-End Circuit Analysis Problem Solving](https://arxiv.org/abs/2512.10159) (tier 1, seen_count=1) — 觀察中
-- [Focus on What Matters: Fisher-Guided Adaptive Multimodal Fusion for Vulnerability Detection](https://arxiv.org/abs/2601.02438) (tier 1, seen_count=1) — 觀察中
-- [Large Language Models As Shannon Lossy Compressors Not Solomonoff Induction Estimators: The Singularity Is Not Near Without Symbolic Model Synthesis in Program Space](https://arxiv.org/abs/2601.05280) (tier 1, seen_count=1) — 觀察中
-- [Confident Rankings with Fewer Items: Adaptive LLM Evaluation with Continuous Scores](https://arxiv.org/abs/2601.13885) (tier 1, seen_count=1) — 觀察中
-- [Human Values in a Single Sentence: Moral Presence, Hierarchies, and Transformer Ensembles on the Schwartz Continuum](https://arxiv.org/abs/2601.14172) (tier 1, seen_count=1) — 觀察中
-- [TIDAL: Temporally Interleaved Diffusion and Action Loop for High-Frequency VLA Control](https://arxiv.org/abs/2601.14945) (tier 1, seen_count=1) — 觀察中
-- [SDUs DAISY: A Benchmark for Danish Culture](https://arxiv.org/abs/2601.19930) (tier 1, seen_count=1) — 觀察中
-- [AbFlow : End-to-end Paratope-Centric Antibody Design by Interaction Enhanced Flow Matching](https://arxiv.org/abs/2602.07084) (tier 1, seen_count=1) — 觀察中
-- [Dreaming in Code for Curriculum Learning in Open-Ended Worlds](https://arxiv.org/abs/2602.08194) (tier 1, seen_count=1) — 觀察中
-- [Learning Human-Like Badminton Skills for Humanoid Robots](https://arxiv.org/abs/2602.08370) (tier 1, seen_count=1) — 觀察中
-- [Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges](https://arxiv.org/abs/2602.13576) (tier 1, seen_count=1) — 觀察中
-- [You Can Learn Tokenization End-to-End with Reinforcement Learning](https://arxiv.org/abs/2602.13940) (tier 1, seen_count=1) — 觀察中
-- [Context-Dependent Affordance Reports in Vision-Language Models](https://arxiv.org/abs/2603.04419) (tier 1, seen_count=1) — 觀察中
-- [Speech Generation Speaker Poisoning: Capability Erasure in Zero-Shot Text-to-Speech](https://arxiv.org/abs/2603.07551) (tier 1, seen_count=1) — 觀察中
-- [Hindsight-Anchored Policy Optimization: Learning Through Hindsight with Thompson Sampling-Inspired Adaptive Gating](https://arxiv.org/abs/2603.11321) (tier 1, seen_count=1) — 觀察中
-- [Surprised by Attention: Predictable Query Dynamics for Time Series Anomaly Detection](https://arxiv.org/abs/2603.12916) (tier 1, seen_count=1) — 觀察中
-- [GP-VM$\times$SMA: Benchmarking General-Purpose Vision Models and Specialized Architectures for 2D Medical Image Segmentation](https://arxiv.org/abs/2603.13044) (tier 1, seen_count=1) — 觀察中
-- [To See is Not to Master: Teaching LLMs to Use Private Libraries for Code Generation](https://arxiv.org/abs/2603.15159) (tier 1, seen_count=1) — 觀察中
-- [Measuring and Exploiting Contextual Bias in LLM-Assisted Security Code Review](https://arxiv.org/abs/2603.18740) (tier 1, seen_count=1) — 觀察中
-- [GT-Space: Enhancing Heterogeneous Collaborative Perception with Ground Truth Feature Space](https://arxiv.org/abs/2603.19308) (tier 1, seen_count=1) — 觀察中
-- [AI Psychosis: Does Conversational AI Amplify Delusion-Related Language?](https://arxiv.org/abs/2603.19574) (tier 1, seen_count=1) — 觀察中
-- [Testing the Limits of Truth Directions in LLMs](https://arxiv.org/abs/2604.03754) (tier 1, seen_count=1) — 觀察中
+- [SWE-Bench Pro Verified: A Reliable Benchmark for Software Engineering Agents](https://arxiv.org/abs/2609.08149) (tier 1, seen_count=1) — 觀察中
+- [Do Not Restart: Residual Completion for Stateful Agent Handoffs](https://arxiv.org/abs/2609.13800) (tier 1, seen_count=1) — 觀察中
+- [Safety Signals to Verify NetOps Agents with Action-Level Granularity](https://arxiv.org/abs/2609.14422) (tier 1, seen_count=1) — 觀察中
+- [Lightning Weave: Improving the Accuracy-Efficiency Frontier of Reasoning Models through Capability Composition](https://arxiv.org/abs/2609.14708) (tier 1, seen_count=1) — 觀察中
+- [AI Persuasion as a Threat to Human Control](https://arxiv.org/abs/2609.14796) (tier 1, seen_count=1) — 觀察中
+- [Why LLM Agents Collapse Without Oversight: The Enforcement Gap as the Mechanism Behind Emergence World Failures](https://arxiv.org/abs/2609.15293) (tier 1, seen_count=1) — 觀察中
+- [little m: An AI Agent for Industrial Process Optimization](https://arxiv.org/abs/2609.16680) (tier 1, seen_count=1) — 觀察中
+- [Can We Do Interpretable NLI with Graphs Based on Atomic Propositions?](https://arxiv.org/abs/2609.16814) (tier 1, seen_count=1) — 觀察中
+- [Limits of Transfer Learning](https://arxiv.org/abs/2006.12694) (tier 1, seen_count=1) — 觀察中
+- [Abstention vs. Hallucination: Benchmarking LLM Source Attribution for Scientific Citations](https://arxiv.org/abs/2405.02228) (tier 1, seen_count=1) — 觀察中
+- [Unleash LLMs Potential for Sequential Recommendation by Coordinating Dual Dynamic Index Mechanism](https://arxiv.org/abs/2409.09253) (tier 1, seen_count=1) — 觀察中
+- [Label-Confidence-Aware Uncertainty Estimation in Natural Language Generation](https://arxiv.org/abs/2412.07255) (tier 1, seen_count=1) — 觀察中
+- [Mem2Ego: Empowering Vision-Language Models with Global-to-Ego Memory for Long-Horizon Embodied Navigation](https://arxiv.org/abs/2502.14254) (tier 1, seen_count=1) — 觀察中
+- [CompArt: Operationalizing Aesthetic Alignment in Text-to-Image Generation via Principles of Art](https://arxiv.org/abs/2503.12018) (tier 1, seen_count=1) — 觀察中
+- [BOOM: Benchmarking Out-Of-distribution Molecular Property Predictions of Machine Learning Models](https://arxiv.org/abs/2505.01912) (tier 1, seen_count=1) — 觀察中
+- [Extracting Probabilistic Knowledge from Large Language Models for Bayesian Network Parameterization](https://arxiv.org/abs/2505.15918) (tier 1, seen_count=1) — 觀察中
+- [Diff-SPORT: Diffusion-based Sensor Placement Optimization and Reconstruction of Turbulent flows in urban environments](https://arxiv.org/abs/2506.00214) (tier 1, seen_count=1) — 觀察中
+- [From Alignment to Synthesis: Contrastive Volumetric Grounding for Text-to-CT Generation](https://arxiv.org/abs/2506.00633) (tier 1, seen_count=1) — 觀察中
+- [Algorithmic Shortlisting in Participatory Budgeting](https://arxiv.org/abs/2508.06577) (tier 1, seen_count=1) — 觀察中
+- [Constrained PSLQ Search for Machin-like Identities Achieving Record-Low Lehmer Measures](https://arxiv.org/abs/2508.08307) (tier 1, seen_count=1) — 觀察中
+- [Visual Perception Engine: Fast and Flexible Multi-Head Inference for Robotic Vision Tasks](https://arxiv.org/abs/2508.11584) (tier 1, seen_count=1) — 觀察中
+- [Ultralytics YOLO Evolution: An Overview of YOLO27, YOLO26, YOLO11, YOLOv8, and YOLOv5 Object Detectors for Computer Vision and Pattern Recognition](https://arxiv.org/abs/2510.09653) (tier 1, seen_count=1) — 觀察中
+- [Human Resilience in the AI Era -- What Machines Can&#x27;t Replace](https://arxiv.org/abs/2510.25218) (tier 1, seen_count=1) — 觀察中
+- [NeuroSketch: A Practical Design Recipe for Neural Decoding](https://arxiv.org/abs/2512.09524) (tier 1, seen_count=1) — 觀察中
+- [Performance and Complexity Trade-off Optimization of Speech Models During Training](https://arxiv.org/abs/2601.13704) (tier 1, seen_count=1) — 觀察中
+- [ShotFinder: Imagination-Driven Open-Domain Video Shot Retrieval via Web Search](https://arxiv.org/abs/2601.23232) (tier 1, seen_count=1) — 觀察中
+- [Variational Approach for Job Shop Scheduling](https://arxiv.org/abs/2602.00408) (tier 1, seen_count=1) — 觀察中
+- [HALT: Hallucination Assessment via Log-probs as Time series](https://arxiv.org/abs/2602.02888) (tier 1, seen_count=1) — 觀察中
+- [Bypassing the Rationale: Causal Auditing of Implicit Reasoning in Language Models](https://arxiv.org/abs/2602.03994) (tier 1, seen_count=1) — 觀察中
+- [PACT-WAM: Predicting Actions and Visual Foresight with Compact Temporal Encoding for Robot Manipulation](https://arxiv.org/abs/2602.15882) (tier 1, seen_count=1) — 觀察中
+- [Mind the Style: Impact of Communication Style on Human-Chatbot Interaction](https://arxiv.org/abs/2602.17850) (tier 1, seen_count=1) — 觀察中
+- [MINT: Multimodal Imaging-to-Speech Knowledge Transfer for Early Alzheimer&#x27;s Screening](https://arxiv.org/abs/2602.23994) (tier 1, seen_count=1) — 觀察中
+- [Universal NP-Hardness of Clustering under General Utilities](https://arxiv.org/abs/2603.00210) (tier 1, seen_count=1) — 觀察中
+- [Enhancing Physics-Informed Neural Networks with Domain-aware Fourier Features: Towards Improved Performance and Interpretable Results](https://arxiv.org/abs/2603.02948) (tier 1, seen_count=1) — 觀察中
+- [CzechTopic: A Benchmark for Zero-Shot Topic Localization in Historical Czech Documents](https://arxiv.org/abs/2603.03884) (tier 1, seen_count=1) — 觀察中
+- [AuthorMix: Modular Authorship Style Transfer via Layer-wise Adapter Mixing](https://arxiv.org/abs/2603.23069) (tier 1, seen_count=1) — 觀察中
+- [AMIGO: Agentic Multi-Image Grounding Oracle Benchmark](https://arxiv.org/abs/2603.28662) (tier 1, seen_count=1) — 觀察中
+- [Deep Learning for Sequential Decision Making under Uncertainty: Foundations, Frameworks, and Frontiers](https://arxiv.org/abs/2604.11507) (tier 1, seen_count=1) — 觀察中
 - [Can We Still Trace L1 Signals? Investigating the Resilience of Native Language Signals in the LLM Era](https://arxiv.org/abs/2604.08568) (tier 1, seen_count=1) — 觀察中
-- [SatIR: Scalable High-Recall Constraint-Satisfaction-Based Information Retrieval for Clinical Trials Matching](https://arxiv.org/abs/2604.08849) (tier 1, seen_count=1) — 觀察中
-- [Efficient Personalization of Generative User Interfaces](https://arxiv.org/abs/2604.09876) (tier 1, seen_count=1) — 觀察中
-- [Pareto-Optimal Offline Reinforcement Learning via Smooth Tchebycheff Scalarization](https://arxiv.org/abs/2604.13175) (tier 1, seen_count=1) — 觀察中
-- [DSS: Dynamic Semantic Steering for Robust Concept Erasure in Diffusion Models](https://arxiv.org/abs/2604.16483) (tier 1, seen_count=1) — 觀察中
-- [An AI Agent Execution Environment to Safeguard User Data](https://arxiv.org/abs/2604.19657) (tier 1, seen_count=1) — 觀察中
-- [Useless but Safe? Benchmarking Utility Recovery with User Intent Clarification in Multi-Turn Conversations](https://arxiv.org/abs/2604.27093) (tier 1, seen_count=1) — 觀察中
-- [Putting HUMANS first: Efficient LAM Evaluation with Human Preference Alignment](https://arxiv.org/abs/2605.00022) (tier 1, seen_count=1) — 觀察中
-- [Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications](https://arxiv.org/abs/2605.00068) (tier 1, seen_count=1) — 觀察中
-- [Adaptive 3D-RoPE: Physics-Aligned Rotary Positional Encoding for Wireless Foundation Models](https://arxiv.org/abs/2605.00968) (tier 1, seen_count=1) — 觀察中
-- [The Garden of Forking Paths: Threading Narrative Archetype as a Semantic Signal Through Gameplay Planning](https://arxiv.org/abs/2605.01245) (tier 1, seen_count=1) — 觀察中
-- [Data driven approach for Outdoor Channel Prediction in 5G and Beyond](https://arxiv.org/abs/2605.01777) (tier 1, seen_count=1) — 觀察中
-- [IntraGuard: Committee-Side Defenses Against Review Outsourcing to Commercial Chatbots](https://arxiv.org/abs/2605.05271) (tier 1, seen_count=1) — 觀察中
-- [Deep Tech to Space: Space Data Centers and AI Revolution at the Edge](https://arxiv.org/abs/2605.19892) (tier 1, seen_count=1) — 觀察中
-- [Transcoders Trace Visual Grounding and Hallucinations in Vision-Language Models](https://arxiv.org/abs/2605.22902) (tier 1, seen_count=1) — 觀察中
-- [Mimir: Large-scale Multilingual Concept Modeling](https://arxiv.org/abs/2605.25263) (tier 1, seen_count=1) — 觀察中
-- [LoSATok: Low-Dimensional Semantic-Acoustic Tokenizer for Cross-Domain Audio Understanding and Generation](https://arxiv.org/abs/2605.27840) (tier 1, seen_count=1) — 觀察中
-- [Agentic AI for Gravitational Wave Data Analysis: A Head-to-Head Comparison of Coding Agents Executing a Matched Filter Pipeline on Einstein Telescope Simulated Data](https://arxiv.org/abs/2605.28916) (tier 1, seen_count=1) — 觀察中
-- [Compute Allocation for Self-Evolving LLMs: From Depth-Breadth to Multi-Armed Bandits](https://arxiv.org/abs/2605.29268) (tier 1, seen_count=1) — 觀察中
-- [Generating Reports or Repeating Templates? Measuring and Mitigating Template Collapse in 3D CT Report Generation](https://arxiv.org/abs/2605.30984) (tier 1, seen_count=1) — 觀察中
-- [Emergence of Exploration in Policy Gradient Reinforcement Learning via Retrying](https://arxiv.org/abs/2606.00151) (tier 1, seen_count=1) — 觀察中
-- [InfoAtlas: A Foundation Model for Zero-Shot Statistical Dependence Estimate](https://arxiv.org/abs/2606.00241) (tier 1, seen_count=1) — 觀察中
-- [FVSpec: Real-World Property-Based Tests as Lean Challenges](https://arxiv.org/abs/2606.01008) (tier 1, seen_count=1) — 觀察中
-- [Policy and World Modeling Co-Training for Language Agents](https://arxiv.org/abs/2606.02388) (tier 1, seen_count=1) — 觀察中
-- [Attention Calibration for Position-Fair Dense Retrieval](https://arxiv.org/abs/2606.02737) (tier 1, seen_count=1) — 觀察中
-- [Qwen-Image-Flash: Rethinking the Training Recipe for Few-Step Distillation](https://arxiv.org/abs/2606.03746) (tier 1, seen_count=1) — 觀察中
-- [EasyLens: A Training-Free Plug-and-Play Subtle-Lesion Representation Amplifier for Medical Vision-Language Models](https://arxiv.org/abs/2606.06379) (tier 1, seen_count=1) — 觀察中
-- [Hearing the Unspoken: Language Model Priors for Acoustic Adversarial Attacks](https://arxiv.org/abs/2606.06833) (tier 1, seen_count=1) — 觀察中
-- [Cherry-pick Override: LLM Judges Under-use the Non-Directional Verdicts Their Contract Authorizes](https://arxiv.org/abs/2606.07834) (tier 1, seen_count=1) — 觀察中
-- [FiberTune: Preserving Action-Fiber Visual Residuals in Vision-Language-Action Fine-Tuning](https://arxiv.org/abs/2606.08653) (tier 1, seen_count=1) — 觀察中
-- [SAILS: Surrogate-based Analysis of Interactions via Local Effect Smooths](https://arxiv.org/abs/2606.09404) (tier 1, seen_count=1) — 觀察中
-- [How Do Video Foundation Models Encode Intuitive Physics? Probing Across Pretraining Paradigms](https://arxiv.org/abs/2606.09646) (tier 1, seen_count=1) — 觀察中
-- [Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models](https://arxiv.org/abs/2606.10829) (tier 1, seen_count=1) — 觀察中
-- [AgentRivet: an automated system for producing Rivet routines from journal publications](https://arxiv.org/abs/2606.13535) (tier 1, seen_count=1) — 觀察中
-- [Mask, Sample, Revise: A Revisable CTMC Inference Stack for Guided Discrete Flow Matching Text-to-Speech](https://arxiv.org/abs/2606.13989) (tier 1, seen_count=1) — 觀察中
-- [IUU+DB: Tracking Illegal, Unreported, and Unregulated Fishing, Seafood Fraud, and Labor Abuse through LLM-driven Information Extraction](https://arxiv.org/abs/2606.18181) (tier 1, seen_count=1) — 觀察中
-- [Robusto-2: Benchmarking Humans &amp; VLMs for Autonomous Driving in Lima &amp; New York City](https://arxiv.org/abs/2606.20980) (tier 1, seen_count=1) — 觀察中
-- [UniRank: Unified Rank Allocation for Low-Rank LLM Compression](https://arxiv.org/abs/2606.21847) (tier 1, seen_count=1) — 觀察中
-- [The Language-Energy Divide: Measuring Energy Costs of Multilingual LLM Inference](https://arxiv.org/abs/2606.21869) (tier 1, seen_count=1) — 觀察中
-- [DeepDiscovery: A Location-Inference Framework for Task-Level Repository Understanding](https://arxiv.org/abs/2606.22906) (tier 1, seen_count=1) — 觀察中
-- [Weave of Formal Thought](https://arxiv.org/abs/2606.25987) (tier 1, seen_count=1) — 觀察中
-- [Interpretable Inverse Design of Metal-Organic Frameworks with Large Language Model Agents](https://arxiv.org/abs/2606.29459) (tier 1, seen_count=1) — 觀察中
-- [DART-VLN: Test-Time Memory Decay and Anti-Loop Regularization for Discrete Vision-Language Navigation](https://arxiv.org/abs/2607.01043) (tier 1, seen_count=1) — 觀察中
-- [Mapping Text to Multiplex Graph: Prompt Compression as L\&#x27;evy Walk-Guided Graph Pruning](https://arxiv.org/abs/2607.01241) (tier 1, seen_count=1) — 觀察中
-- [PEEK: Predictive Queue-Informed KV Cache Management for LLM Serving](https://arxiv.org/abs/2607.02525) (tier 1, seen_count=1) — 觀察中
-- [DualView: Preventing Indirect Prompt Injection in Personal AI Agents](https://arxiv.org/abs/2607.03821) (tier 1, seen_count=1) — 觀察中
-- [Energy Accuracy Is Not Enough: A Structure-Aware Benchmark and Evaluation Protocol for Quantum Architecture Search](https://arxiv.org/abs/2607.04845) (tier 1, seen_count=1) — 觀察中
-- [REDDIT: Forgetting-Resistant Correction of Timestamp Drift in ASR via Replay-Based Distribution Editing](https://arxiv.org/abs/2607.05364) (tier 1, seen_count=1) — 觀察中
-- [LEXIC: Lightweight On-Device Decoding of Reading Comprehension from Eye Movements](https://arxiv.org/abs/2607.08152) (tier 1, seen_count=1) — 觀察中
-- [SMetric: Rethink LLM Scheduling for Serving Agents with Balanced Session-centric Scheduling](https://arxiv.org/abs/2607.08565) (tier 1, seen_count=1) — 觀察中
-- [TypiCore: A Hybrid Active Query Strategy for Class-Incremental Learning on Time Series](https://arxiv.org/abs/2607.17632) (tier 1, seen_count=1) — 觀察中
-- [Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security](https://arxiv.org/abs/2607.18063) (tier 1, seen_count=1) — 觀察中
-- [SechKAN: Kolmogorov-Arnold Networks with Hyperbolic Secant Functions](https://arxiv.org/abs/2607.18290) (tier 1, seen_count=1) — 觀察中
-- [Freezing the Physiological Encoder: Explanation Stability Under Bounded Updates of an ICU Model](https://arxiv.org/abs/2607.19020) (tier 1, seen_count=1) — 觀察中
-- [REGEN: Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement Learning](https://arxiv.org/abs/2607.19450) (tier 1, seen_count=1) — 觀察中
-- [X-Stage: Modeling Post-Issue Backpressure in GPU Communication--Computation Fusion](https://arxiv.org/abs/2607.23264) (tier 1, seen_count=1) — 觀察中
-- [MulRobBench: A Decision-Level Benchmark for Safe and Security-Policy-Compliant Multimodal UAV Agents](https://arxiv.org/abs/2607.23870) (tier 1, seen_count=1) — 觀察中
-- [Looping Is Not Reliability: State-Bound Evidence and Typed Revision Contracts for Agentic Code Repair](https://arxiv.org/abs/2607.24604) (tier 1, seen_count=1) — 觀察中
-- [Learning from 53.6K Real-World Developer Edits of AI-Generated Code](https://arxiv.org/abs/2607.25130) (tier 1, seen_count=1) — 觀察中
-- [FairFund-Bench: Evaluating Distributive Bias in LLM Resource Allocation](https://arxiv.org/abs/2607.28934) (tier 1, seen_count=1) — 觀察中
-- [DreamQAS: Learning a Decision-Useful World Model for VQE-Efficient Quantum Architecture Search](https://arxiv.org/abs/2607.29491) (tier 1, seen_count=1) — 觀察中
-- [FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models](https://arxiv.org/abs/2607.29602) (tier 1, seen_count=1) — 觀察中
-- [Can AI Agents Simulate A/B Test Outcomes? A Validation Framework for Agentic Experimentation](https://arxiv.org/abs/2608.02345) (tier 1, seen_count=1) — 觀察中
-- [MameLoshnLM: Yiddish Language Model and Evaluation Benchmark](https://arxiv.org/abs/2608.05850) (tier 1, seen_count=1) — 觀察中
-- [Hidden Gauge Controls Feature Specialization in ReLU Networks](https://arxiv.org/abs/2608.06766) (tier 1, seen_count=1) — 觀察中
-- [Ready Cohorts: Bounding GPU Opportunity and Avoiding Host Round Trips in LLM-Agent Control](https://arxiv.org/abs/2608.12123) (tier 1, seen_count=1) — 觀察中
-- [FluctlightDB: A Memory Model of Data for AI Agents](https://arxiv.org/abs/2608.12365) (tier 1, seen_count=1) — 觀察中
-- [KREL: Automatic Medical Coding via Knowledge-Guided Reasoning over Clinical Evidence with LLMs](https://arxiv.org/abs/2608.20887) (tier 1, seen_count=1) — 觀察中
-- [What&#x27;s the Catch? Evaluating Temporal Consistency in Vision-Language Models](https://arxiv.org/abs/2608.23474) (tier 1, seen_count=1) — 觀察中
-- [A Few Pages of Markdown: Committed AI Configuration and Lower Quality Cost after Coding-Agent Adoption](https://arxiv.org/abs/2608.25241) (tier 1, seen_count=1) — 觀察中
-- [CRAMER: Control via Request-Aware Masking for Editing Recommenders](https://arxiv.org/abs/2608.25370) (tier 1, seen_count=1) — 觀察中
-- [Syn2Logic: End-to-End Neuromorphic Design Automation](https://arxiv.org/abs/2608.25536) (tier 1, seen_count=1) — 觀察中
-- [When the Canonical Completion Is Wrong: Formalizing and Measuring the Jump in Large Language Models](https://arxiv.org/abs/2608.26187) (tier 1, seen_count=1) — 觀察中
-- [Simultaneous Envy and Equitability Guarantees](https://arxiv.org/abs/2608.26410) (tier 1, seen_count=1) — 觀察中
-- [Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit](https://arxiv.org/abs/2608.27427) (tier 1, seen_count=1) — 觀察中
-- [A rigor-matched audit of periodic-step layer skipping for efficient llm inference: conflayers versus swift, with a supplemental analysis of trained routing alternatives](https://arxiv.org/abs/2608.28846) (tier 1, seen_count=1) — 觀察中
-- [Untangling the Mechanisms of Misleading Context in Medical Question Answering](https://arxiv.org/abs/2609.02754) (tier 1, seen_count=1) — 觀察中
-- [Adaptation Interfaces for In-Context Tabular Foundation Models in Time-to-Event Prediction](https://arxiv.org/abs/2609.04901) (tier 1, seen_count=1) — 觀察中
-- [Skynet: Workflow-Level Anomaly Detection for Agentic AI via Semantic and Structural Modeling](https://arxiv.org/abs/2609.06835) (tier 1, seen_count=1) — 觀察中
-- [Constrained Online Learning with Noisy Constraint Values](https://arxiv.org/abs/2609.06921) (tier 1, seen_count=1) — 觀察中
+- [VISTA: Validation-Informed Trajectory Adaptation via Self-Distillation](https://arxiv.org/abs/2604.12044) (tier 1, seen_count=1) — 觀察中
+- [HINTBench: Horizon-agent Intrinsic Non-attack Trajectory Benchmark](https://arxiv.org/abs/2604.13954) (tier 1, seen_count=1) — 觀察中
+- [Schema-Key Wording as an Instruction Channel in Structured Generation under Constrained Decoding](https://arxiv.org/abs/2604.14862) (tier 1, seen_count=1) — 觀察中
+- [How to Compress KV Cache in RL Post-Training? Shadow Mask Distillation for Memory-Efficient Alignment](https://arxiv.org/abs/2605.06850) (tier 1, seen_count=1) — 觀察中
+- [EfficientTDMPC: Improved MPC Objectives for Sample-Efficient Continuous Control](https://arxiv.org/abs/2605.16692) (tier 1, seen_count=1) — 觀察中
+- [Time-Aware Diffusion based on Preference Disentanglement for Generative Recommendation](https://arxiv.org/abs/2606.01670) (tier 1, seen_count=1) — 觀察中
+- [Detect Before You Leap: Mirage Detection in Vision-Language Models](https://arxiv.org/abs/2606.00435) (tier 1, seen_count=1) — 觀察中
+- [Libra: Efficient Resource Management for Agentic RL Post-Training](https://arxiv.org/abs/2606.03077) (tier 1, seen_count=1) — 觀察中
+- [FLARE: Fine-Grained Diagnostic Feedback for LLM Code Refinement](https://arxiv.org/abs/2606.03852) (tier 1, seen_count=1) — 觀察中
+- [From &#x27;May&#x27; to &#x27;Is&#x27;: Certainty Distortion in Language Model Rewriting](https://arxiv.org/abs/2606.07951) (tier 1, seen_count=1) — 觀察中
+- [LargeMonitor: Monitoring Online Task-Free Continual Learning via Large Pretrained Models](https://arxiv.org/abs/2606.09430) (tier 1, seen_count=1) — 觀察中
+- [Follow the Latent Roadmap: Navigating Revocable Decoding for Diffusion LLMs with Anchor Tokens](https://arxiv.org/abs/2606.16847) (tier 1, seen_count=1) — 觀察中
+- [SegTME-UNI2: A Foundation Model-Based Framework for Generalisable Multiclass Cell Segmentation and LLM-Driven Tumour Microenvironment Characterisation in Histopathology](https://arxiv.org/abs/2606.17702) (tier 1, seen_count=1) — 觀察中
+- [Subjective Risk Decomposition: A New View for Uncertainty Quantification](https://arxiv.org/abs/2607.15196) (tier 1, seen_count=1) — 觀察中
+- [Debiasing Text-to-Image Evaluation via Implicit Cultural Alignment Reward Modeling](https://arxiv.org/abs/2607.15740) (tier 1, seen_count=1) — 觀察中
+- [Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents](https://arxiv.org/abs/2607.19190) (tier 1, seen_count=1) — 觀察中
+- [Riemannian Deep Learning: Modules, Networks, and Geometries](https://arxiv.org/abs/2607.19305) (tier 1, seen_count=1) — 觀察中
+- [Post-Training in Time Series Foundation Models: A Unifying Framework](https://arxiv.org/abs/2607.20002) (tier 1, seen_count=1) — 觀察中
+- [Latency-Tolerant Cloud-Edge Collaborative Vision-Language-Action Models via Emergent Representational Specialization](https://arxiv.org/abs/2608.00569) (tier 1, seen_count=1) — 觀察中
+- [Ranking Infrared-Visible Fusion the Way Humans Do: A Learned Pairwise Preference Measure](https://arxiv.org/abs/2608.01301) (tier 1, seen_count=1) — 觀察中
+- [Deep Divide-and-Reduce in Symbolic Regression](https://arxiv.org/abs/2608.02628) (tier 1, seen_count=1) — 觀察中
+- [Explicit Language Memory for Long-Horizon Planning in Vision-Language-Action Models](https://arxiv.org/abs/2608.04765) (tier 1, seen_count=1) — 觀察中
+- [Governing Agentic AI in FinTech](https://arxiv.org/abs/2608.11344) (tier 1, seen_count=1) — 觀察中
+- [Unsupervised Anomaly Detection for Image Dataset Quality Assurance in Multi-Center Breast MRI](https://arxiv.org/abs/2608.16725) (tier 1, seen_count=1) — 觀察中
+- [Safety Does Not Compose: Non-Decaying Loop State for Autonomous LLM Agents](https://arxiv.org/abs/2608.27141) (tier 1, seen_count=1) — 觀察中
+- [Position Matters: Feature Inversion Attacks in ViT Split Inference with Token Reduction and Shuffling](https://arxiv.org/abs/2609.01232) (tier 1, seen_count=1) — 觀察中
+- [Not All Agreement Counts as Corroboration: Provenance-Conserving Multi-View Fusion for Typed Action Admission in Human-Robot Collaboration](https://arxiv.org/abs/2609.01662) (tier 1, seen_count=1) — 觀察中
+- [Exploring the Potential of Contrastive Language-Image Pre-training for Multi-Source Remote Sensing Data](https://arxiv.org/abs/2609.03391) (tier 1, seen_count=1) — 觀察中
+- [Calendar-Structured Sparse Principal Component Analysis for Interpretable Multi-Periodic Electricity Consumption Profiles](https://arxiv.org/abs/2609.06060) (tier 1, seen_count=1) — 觀察中
+- [Steering Interference Reflects the Model&#x27;s Defaults, Not the Behavior Directions](https://arxiv.org/abs/2609.06951) (tier 1, seen_count=1) — 觀察中
 - [Proprioception-Anchored Cross-Modal Pretraining for Zero-Shot Sim-to-Real Contact-Rich Assembly](https://arxiv.org/abs/2609.07534) (tier 1, seen_count=1) — 觀察中
-- [Multimodal Duplex Interaction Agent](https://arxiv.org/abs/2609.08977) (tier 1, seen_count=1) — 觀察中
-- [ThinkPrior: Zero-Rollout Difficulty Priors for Cold-Start Prompt Selection in RLVR](https://arxiv.org/abs/2609.09075) (tier 1, seen_count=1) — 觀察中
-- [No Free Checker: A Survey of Verifiers for Robot Policies](https://arxiv.org/abs/2609.09250) (tier 1, seen_count=1) — 觀察中
-- [ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies](https://arxiv.org/abs/2609.11697) (tier 1, seen_count=1) — 觀察中
-- [Agentic TCAD Calibration Workflow for Oxide Semiconductor Transistors](https://arxiv.org/abs/2609.12184) (tier 1, seen_count=1) — 觀察中
+- [Adaptive Anisotropic Attention for Axis-Structured Signals](https://arxiv.org/abs/2609.08788) (tier 1, seen_count=1) — 觀察中
+- [Creating an Atomic User Model for Personality-Aware Large Language Model Interaction](https://arxiv.org/abs/2609.12086) (tier 1, seen_count=1) — 觀察中
+- [A Mathematical Theory of Pragmatic Information](https://arxiv.org/abs/2609.10986) (tier 1, seen_count=1) — 觀察中
 - [Evaluating Context Segmentation in Locally Deployable SLMs for Cybersecurity CTF Tasks](https://arxiv.org/abs/2609.12839) (tier 1, seen_count=1) — 觀察中
-[查看此分類的獨立存檔頁面](./history/2026-09-16_16-38/index.html#AI)
+- [Cross-Block Conditioning in Deep Boltzmann Machines for Statistical Data Fusion](https://arxiv.org/abs/2609.14934) (tier 1, seen_count=1) — 觀察中
+- [Language-Guided Terrain-Adaptive Neural MPC for Autonomous Traversal of Articulated Tracked Robots](https://arxiv.org/abs/2609.13083) (tier 1, seen_count=1) — 觀察中
+- [Planning in the Backbone: DiffAdapterVLA for Native Continuous Trajectory Generation with Driving VLMs](https://arxiv.org/abs/2609.15322) (tier 1, seen_count=1) — 觀察中
+- [Geospatial Metadata Improves Discoverability by Connecting Datasets Across Scientific Disciplines](https://arxiv.org/abs/2609.16498) (tier 1, seen_count=1) — 觀察中
+- [Visual Cue Guided Video Planning for Generalizable Robot Navigation](https://arxiv.org/abs/2609.16737) (tier 1, seen_count=1) — 觀察中
+- [A unified framework for global and local interpretability using adaptive derivative-ordered random explanation](https://arxiv.org/abs/2609.17171) (tier 1, seen_count=1) — 觀察中
+- [After the Party: Growth, Governance, and Security Scanning in the OpenClaw Agent Skill Ecosystem](https://arxiv.org/abs/2609.17274) (tier 1, seen_count=1) — 觀察中
+- [Vroom-Vroom at SHROOM-Visions: A Multi-Judge Committee for Detecting Hallucinated Spans in Vision-Language Outputs](https://arxiv.org/abs/2609.17327) (tier 1, seen_count=1) — 觀察中
+[查看此分類的獨立存檔頁面](./history/2026-09-17_04-32/index.html#AI)
 
 ## 🔍 Technology
 > 本次無達標深度分析
@@ -754,120 +423,146 @@
 #### 觀察中（未達深度分析門檻）
 
 - [Meet a mouse whose brain cortex is made up of human cells](https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/) (tier 2, seen_count=1) — 觀察中
-- [The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid](https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/) (tier 2, seen_count=1) — 觀察中
-- [Building the materials foundation for AI](https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/) (tier 2, seen_count=1) — 觀察中
-- [華邦電砸 11.2 億美元併英飛凌 NOR Flash、F-RAM 事業，明下半年完成交易](https://technews.tw/2026/09/16/winbond-information/) (tier 2, seen_count=1) — 觀察中
-- [OpenAI 祕密專案曝光！數百名外包人工評分 ChatGPT 對話，隱私恐失守](https://infosecu.technews.tw/2026/09/16/openai-uses-human-reviewers-to-read-chatgpt-prompts-and-improve-its-models/) (tier 2, seen_count=1) — 觀察中
-- [代理 AI 改變行動運算架構！高通 Hexagon NPU 強化記憶體容量增 50%](https://technews.tw/2026/09/16/qualcomm-hexagon-npu-and-agentic-ai/) (tier 2, seen_count=1) — 觀察中
-- [記憶體短缺延燒至 2027 年！中小型手機、筆電業者改產品設計、搶貨](https://technews.tw/2026/09/16/smaller-phone-and-laptop-makers-memory/) (tier 2, seen_count=1) — 觀察中
-- [多粒子態新紀元，超冷銫原子實驗佐證百年前「貝特弦」預測](https://technews.tw/2026/09/16/bethe-strings-cesium-atom-one-dimension/) (tier 2, seen_count=1) — 觀察中
-- [新加坡政府推 AI 課程送工具，拚三年培養 10 萬人才](https://technews.tw/2026/09/16/singapore-government-launches-ai-courses-provides-tools-aims-cultivate-100000-talents-3-years/) (tier 2, seen_count=1) — 觀察中
-- [台水活化供水設施拚綠能，太陽光電、小水力年發電突破 1 億度](https://technews.tw/2026/09/16/taiwan-water-activates-supply-facilities-green-energy-solar-pv-small-hydropower-annual-generation-surpasses/) (tier 2, seen_count=1) — 觀察中
-- [挑戰美國運通簽帳白金卡！中信萬豪聯名卡年費 2.2 萬最優 6 元換 1 點](https://finance.technews.tw/2026/09/16/membership-upgrade/) (tier 2, seen_count=1) — 觀察中
-- [飛彈走向多平台，洛馬公開 AGM-158 FLEX 模組化概念](https://technews.tw/2026/09/16/lockheed-martin-unveiled-new-agm-158-flex-concept/) (tier 2, seen_count=1) — 觀察中
-- [陸品牌低價搶市，台灣 LG：大型家電競爭不只看價格](https://finance.technews.tw/2026/09/16/lg-home-appliance-rental/) (tier 2, seen_count=1) — 觀察中
-- [iPhone 18 Pro 換機意願高，德誼：54% 消費者鎖定 512GB 以上容量](https://technews.tw/2026/09/16/iphone-18-pro-de/) (tier 2, seen_count=1) — 觀察中
-- [為 X500 Pro 系列暖身，vivo 攜聯發科搶全球首發天璣 9600 Pro](https://technews.tw/2026/09/16/vivo-x500-pro-dimensity-9600-pro/) (tier 2, seen_count=1) — 觀察中
-- [微軟提出 AI 行為準則：要求模型必須受人控制，增進人類福祉](https://technews.tw/2026/09/16/microsoft-publishes-a-code-of-conduct-for-governing-mai-models-as-they-approach-the-frontier/) (tier 2, seen_count=1) — 觀察中
-- [鄧白氏台中小企業菁英獎揭曉，1,053 家企業入選、首增半導體產業獎](https://finance.technews.tw/2026/09/16/2026-dnb/) (tier 2, seen_count=1) — 觀察中
-- [先進製程帶動濕法設備升級，盛美半導體拓展 Ultra C Tahoe 多工藝平台](https://technews.tw/2026/09/16/acm-research-ultra-c-tahoe/) (tier 2, seen_count=1) — 觀察中
-- [漢方千項配方庫搭完整劑型加持！精華生醫預計 10 月中掛牌上櫃](https://finance.technews.tw/2026/09/16/health-food/) (tier 2, seen_count=1) — 觀察中
-- [英國 SMR 市場升溫，X-energy 規劃興建最多 20 座核電廠](https://technews.tw/2026/09/16/uk-smr-market-heats-up-x-energy-plans-20-nuclear-plants/) (tier 2, seen_count=1) — 觀察中
-- [緯創擴大 AI 人才招募，高雄首辦大型徵才會](https://finance.technews.tw/2026/09/16/wistron-ai-talent-kaohsiung/) (tier 2, seen_count=1) — 觀察中
-- [SK 海力士傳洽 Intel 赴美製造  先進記憶體恐卡關？](https://technews.tw/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-for-us-manufacturing/) (tier 2, seen_count=1) — 觀察中
-- [英特爾 18A 良率衝上 80%，分析師：量產穩定度明顯改善](https://technews.tw/2026/09/16/intel-18a-yield-80-analysts-mass-production-stability-improved/) (tier 2, seen_count=1) — 觀察中
-- [靠陸軍負責防空數十年好日子已過，美國空軍將重建基地點防禦能力](https://technews.tw/2026/09/16/usaf-is-going-to-rebuild-point-defense-capabilities/) (tier 2, seen_count=1) — 觀察中
-- [Apple Watch Siri 可延續既有對話，但操作藏得有點深](https://technews.tw/2026/09/16/apple-watch-siri-ai/) (tier 2, seen_count=1) — 觀察中
-- [2026 年全球資料中心用電需求估年增 31%，電網供應缺口自 2028 年擴大](https://technews.tw/2026/09/16/global-data-center-electricity-demand-projected-increase-31-annually-2026-power-grid-supply-gap-expand-2028/) (tier 2, seen_count=1) — 觀察中
-- [精準發射讓燃料超乎預期充裕，NASA 羅曼望遠鏡任務壽命上看 22 年](https://technews.tw/2026/09/16/the-roman-telescope-has-enough-gas-for-22-years/) (tier 2, seen_count=1) — 觀察中
-- [預定 2027 年啟航，波音 777X 客艙細節曝光：更寬座椅、大窗戶，主打高階舒適體驗](https://technews.tw/2026/09/16/boeings-new-777x-is-finally-expected-to-fly-passengers-next-year/) (tier 2, seen_count=1) — 觀察中
-- [富國銀行砍標普 500 目標價  僅剩 1.5% 上漲空間](https://finance.technews.tw/2026/09/16/wells-fargo-trims-sp-500-indexs-year-end-target-to-7700/) (tier 2, seen_count=1) — 觀察中
-- [電源一路升級：環科 2kW CRPS 出貨，4kW 新品研發中](https://technews.tw/2026/09/16/ai-power-supply-upgrade-ring-tech-2kw-crps-shipping-4kw-new-products-validation/) (tier 2, seen_count=1) — 觀察中
-- [oneworld 攜手人氣應用程式 Timeshifter，協助環球旅客適應時差](https://technews.tw/2026/09/16/oneworld-partners-timeshifter-app-assist-global-travelers-jet-lag/) (tier 2, seen_count=1) — 觀察中
-- [經理人憂殖利率飆恐衝擊股市、歷史揭取決於經濟](https://finance.technews.tw/2026/09/16/managers-worry-rising-bond-yields-impact-stock-market-history-depends-economy/) (tier 2, seen_count=1) — 觀察中
-- [AI 降速疑慮罩頂  甲骨文、新雲端業者遭拋售](https://finance.technews.tw/2026/09/16/oracles-stock-falls-for-the-fifth-day-in-a-row/) (tier 2, seen_count=1) — 觀察中
-- [夏普攜手鴻海供應鏈，進軍 AI 伺服器市場](https://technews.tw/2026/09/16/sharp-takes-orders-for-ai-servers-backed-by-foxconns-supply-chain/) (tier 2, seen_count=1) — 觀察中
-- [突破小基地危老改建困境！北市地主捨「合建」採「全案管理」模式](https://finance.technews.tw/2026/09/16/full-service/) (tier 2, seen_count=1) — 觀察中
-- [經濟利空＋消費者偏好轉變  連鎖餐飲股失寵](https://finance.technews.tw/2026/09/16/restaurant-stocks-slide-as-oil-inflation-and-consumer-worries-pile-up/) (tier 2, seen_count=1) — 觀察中
-- [口紅效應發威  萊雅超車 LVMH 登法國「股王」](https://finance.technews.tw/2026/09/16/loreal-steals-french-stock-market-crown-from-lvmh/) (tier 2, seen_count=1) — 觀察中
-- [瞄準肺病醫療市場！國邑 L606 獲 NMPA 核准啟動中國全球臨床三期](https://finance.technews.tw/2026/09/16/ph-ild/) (tier 2, seen_count=1) — 觀察中
-- [傳美施壓墨西哥，封堵中國 AI 硬體出口](https://finance.technews.tw/2026/09/16/u-s-pressures-mexico-to-box-out-chinas-ai-hardware-exports/) (tier 2, seen_count=1) — 觀察中
-- [記憶體吃緊、GPU 報價有撐  美銀唱旺多檔晶片股](https://finance.technews.tw/2026/09/16/these-4-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity/) (tier 2, seen_count=1) — 觀察中
-- [科學家結合植物纖維素與蛋白質，開發堪比水泥的超強化冰](https://technews.tw/2026/09/16/biopykrete-ice-cellulose-nanocrystal/) (tier 2, seen_count=1) — 觀察中
-- [Windows 11 更新又惹禍？微軟釋出緊急修補，但黑畫面與死機問題仍未解](https://technews.tw/2026/09/16/microsoft-rolls-out-emergency-update-for-windows-11s-latest-patch/) (tier 2, seen_count=1) — 觀察中
-- [祖克柏：AI 減速不必產業共識，各自依安全需求調整步伐](https://technews.tw/2026/09/16/zuckerberg-ai-labs-self-regulate-safety-slowdown/) (tier 2, seen_count=1) — 觀察中
-- [不只等人下指令！國泰金測試AI數位同事，能長期記憶、主動推進任務](https://www.ithome.com.tw/news/179000) (tier 2, seen_count=1) — 觀察中
-- [BengalSEO鎖定Bing搜尋結果，透過SEO投毒散布惡意軟體MayaBot](https://www.ithome.com.tw/news/178999) (tier 2, seen_count=1) — 觀察中
-- [達梭系統：AI結合模擬可縮短產品開發，與正新橡膠聯手推動輪胎研發智慧化](https://www.ithome.com.tw/news/178997) (tier 2, seen_count=1) — 觀察中
-- [澳洲警方逮捕涉及駭客組織TeamPCP的攻擊者，牽連逾千個組織的軟體供應鏈攻擊](https://www.ithome.com.tw/news/178998) (tier 2, seen_count=1) — 觀察中
-- [AI原生新創成為獨角獸時間減半？下一步Physical AI考驗模型之外的護城河](https://www.ithome.com.tw/news/178990) (tier 2, seen_count=1) — 觀察中
-- [金融木馬Kremlin偽造瀏覽器完整性檢查，企圖竊取巴西銀行用戶憑證](https://www.ithome.com.tw/news/178989) (tier 2, seen_count=1) — 觀察中
-- [資源有限的中小企業如何盤點CRA準備缺口？ENISA推出SME成熟度評估模型](https://www.ithome.com.tw/news/178981) (tier 2, seen_count=1) — 觀察中
-- [駭客利用資料分析工具Marimo重大漏洞從事攻擊，8秒完成竊取AWS憑證與SSH主機橫向移動](https://www.ithome.com.tw/news/178988) (tier 2, seen_count=1) — 觀察中
-- [Salesforce與Nvidia合推CRM模型Koa](https://www.ithome.com.tw/news/178987) (tier 2, seen_count=1) — 觀察中
-- [另一名相信AI可能殺死人類的研究人員自Google離職](https://www.ithome.com.tw/news/178986) (tier 2, seen_count=1) — 觀察中
-- [黃仁勳反對新增AI監管，與Anthropic、OpenAI立場分歧](https://www.ithome.com.tw/news/178985) (tier 2, seen_count=1) — 觀察中
-- [歐盟CRA單一報告平臺上線，漏洞與事故通報管道正式啟用](https://www.ithome.com.tw/news/178979) (tier 2, seen_count=1) — 觀察中
-- [【資安日報】9月16日，歐盟CRA通報義務上路，臺灣廠商建置PSIRT升溫，資安院提醒成熟度仍有落差](https://www.ithome.com.tw/news/178984) (tier 2, seen_count=1) — 觀察中
-- [泰國大型寬頻網路供應商3BB疑似遭滲透，駭客濫用遠端管理工具MeshCentral控制內部設備](https://www.ithome.com.tw/news/178982) (tier 2, seen_count=1) — 觀察中
-- [Oracle發布9月例行更新，修補672個資安弱點](https://www.ithome.com.tw/news/178980) (tier 2, seen_count=1) — 觀察中
-- [VPN服務商Surfshark內部測試伺服器遭駭，未波及用戶資料](https://www.ithome.com.tw/news/178978) (tier 2, seen_count=1) — 觀察中
-- [HBO Max的社群網站Reddit帳號遭挾持，用於ClickFix攻擊推送惡意軟體](https://www.ithome.com.tw/news/178977) (tier 2, seen_count=1) — 觀察中
-- [祖克柏談AI安全，各家業者應自行確保模型安全](https://www.ithome.com.tw/news/178976) (tier 2, seen_count=1) — 觀察中
-- [Mozilla發布Firefox 156，修補73個資安漏洞](https://www.ithome.com.tw/news/178975) (tier 2, seen_count=1) — 觀察中
-- [美國加密貨幣監管法案CLARITY Act參議院闖關失敗](https://www.ithome.com.tw/news/178974) (tier 2, seen_count=1) — 觀察中
-- [電商平臺WooCommerce外掛重大漏洞被鎖定，攻擊者藉此在WordPress網站上傳後門](https://www.ithome.com.tw/news/178972) (tier 2, seen_count=1) — 觀察中
-- [Google更新Chrome 153穩定版，修補42個資安漏洞](https://www.ithome.com.tw/news/178971) (tier 2, seen_count=1) — 觀察中
-- [長榮航空、長榮航太網路環境遭到入侵](https://www.ithome.com.tw/news/178969) (tier 2, seen_count=1) — 觀察中
-- [LiteSpeed Web Server漏洞恐讓共享主機單一帳號取得root權限](https://www.ithome.com.tw/news/178968) (tier 2, seen_count=1) — 觀察中
-- [微軟9月Windows更新引發遠端桌面服務異常，發布軟體臨時更新搶修](https://www.ithome.com.tw/news/178965) (tier 2, seen_count=1) — 觀察中
-- [WordPress強化外掛更新安全審查，高風險版本自動阻止散布](https://www.ithome.com.tw/news/178939) (tier 2, seen_count=1) — 觀察中
-- [歐盟網路韌性法案漏洞通報義務上路，OpenSSF提醒開源專案做好漏洞協調](https://www.ithome.com.tw/news/178925) (tier 2, seen_count=1) — 觀察中
-- [AWS評測12款頂尖AI模型，皆能找出漏洞但誤判或漏報率仍高](https://www.ithome.com.tw/news/178918) (tier 2, seen_count=1) — 觀察中
-- [華邦電11.2億美元收購英飛凌記憶體　Spansion復活、2H27完成交易](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768802_7AO76EG91EZ8RN157HWG7) (tier 2, seen_count=1) — 觀察中
-- [高階IC載板專區落腳航空城　桃園市府10月攜欣興、景碩簽MOU](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768790_G718PXHB8VPMOK1IRVBC7) (tier 2, seen_count=1) — 觀察中
-- [《新聞聚焦》高通與AWS簽長約　為何聯發科、世芯難以跟進？](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768787_QQF8K11277WF8Z8XDKU0I) (tier 2, seen_count=1) — 觀察中
-- [AI發展面臨水資源挑戰嚴峻　製程廢水「資源化」成新主流](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768789_7PE81IXA7VR7TLL0H4KNY) (tier 2, seen_count=1) — 觀察中
-- [Exein估值達17億美元　加速實體AI資安布局](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768780_WQV634RT99V1S2LC53J2W) (tier 2, seen_count=1) — 觀察中
-- [歐美兩大製造展馬不停蹄　工具機廠聚焦航太、半導體高階製造](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768784_O7Z61BZQ9TBIZU34M8FIE) (tier 2, seen_count=1) — 觀察中
-- [鴻騰深化光互連　盧松青：AI下個十年關鍵在連線效率](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768776_XJN60IB687WCNA5BETY5J) (tier 2, seen_count=1) — 觀察中
-- [字節跳動砸重金押AI　傳1H26營收增3成、淨利反降](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768770_MJI6PLKS85QWWULTF7LXA) (tier 2, seen_count=1) — 觀察中
-- [美光推全球首款512GB DDR5記憶體模組　2H27投入量產](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768772_D6W6QZUS8TSNV21P7MXW7) (tier 2, seen_count=1) — 觀察中
-- [2026未來科技館9/17登場 國科會集結前瞻成果改寫未來](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768705_90U8NX06LVQC8R67O2W6X) (tier 2, seen_count=1) — 觀察中
-- [SK海力士赴美生產記憶體　傳鎖定英特爾俄亥俄州廠合作](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768750_YXA6QCQ76A8S1RLWKOJXM) (tier 2, seen_count=1) — 觀察中
-- [AI供應鏈帶旺資金需求　台灣銀行業放款與財管續成長](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768700_DN469QIV18DDCWLJOBLS1) (tier 2, seen_count=1) — 觀察中
-- [速搶席！HPE與易達通0918解密AI製造新架構 台北晶華開講](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768624_JMM5EEB53CEAKD3OI0XL7) (tier 2, seen_count=1) — 觀察中
-- [威剛TRUSTA推AI Scaler鎖定地端AI　企業推論成本可降逾5成](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768754_BQ28PJTW47BYCN5WPO1SX) (tier 2, seen_count=1) — 觀察中
-- [企業文件治理需求升溫　震旦OA事業拓軟體加值服務](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768748_RV4811SG329NRW9NZCKQO) (tier 2, seen_count=1) — 觀察中
-- [鴻騰科技日聚焦光互連規模化　串聯上下游供應鏈生態](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768747_GQR8L3JF3LAFJZ81S6IK4) (tier 2, seen_count=1) — 觀察中
-- [Anthropic呼籲AI業者坐下來談　黃仁勳主張AI不需要新法約束](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768682_8WZ5WC809R0QEF1YFVD6P) (tier 2, seen_count=1) — 觀察中
-- [三星cHBM基礎裸晶傳導入台積製程　與自家代工雙軌並行](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768706_NFR892PRLZXBI97PAY32X) (tier 2, seen_count=1) — 觀察中
-- [傳OpenAI擬IPO前再募資　估值上看1.2兆美元](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768674_PI17YAXE6ERIYY5GH5BZB) (tier 2, seen_count=1) — 觀察中
-- [美國眾院議長反對AI踩煞車　主張企業自行決定研發步調](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768684_1CV7BMS570BQLX5XY49LC) (tier 2, seen_count=1) — 觀察中
-- [美國參議院擋下Clarity Act法案　加密貨幣監管立法再延後](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768691_W0858YISLICTQI0BIA7BE) (tier 2, seen_count=1) — 觀察中
-- [OpenAI擴大硬體布局　傳收購相機技術新創Glass Imaging](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768681_RCI5JK3U92RJV80NU0OWJ) (tier 2, seen_count=1) — 觀察中
-- [科技領袖齊聚Saleforce Dreamforce大會　再掀AI安全論戰](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768673_J0D5JX3O85SGXM2SJTUR1) (tier 2, seen_count=1) — 觀察中
-- [客戶先付錢確保記憶體供應　三星預收款半年增逾7成](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768688_5T67A2JU71RM7J9YBFYK6) (tier 2, seen_count=1) — 觀察中
-- [AI競爭成川習會焦點之一　NVIDIA黃仁勳傳將出席白宮國宴](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768683_BSR533X79G29QE2V4J5G0) (tier 2, seen_count=1) — 觀察中
-- [Meta傳開發無鏡頭智慧眼鏡Luna　核心功能從視覺轉向語音AI](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768679_X4B5MPHD8J8DJR8I4W1QB) (tier 2, seen_count=1) — 觀察中
-- [Meta台灣推出全新訂閱服務Meta One　解鎖更多AI用量及工具](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768690_7K77KCDB8QLL0V1LNZV68) (tier 2, seen_count=1) — 觀察中
-- [蓋茲基金會投10億美元抗AI貧富差距　示警全球政府緊密合作](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768678_BGM5S2Y781KY36720J71Y) (tier 2, seen_count=1) — 觀察中
-- [日立能源美國再次擴產　AI帶動變壓器需求升溫](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768664_QR67XB98593WLF5XF6MYR) (tier 2, seen_count=1) — 觀察中
-- [Elon Musk憂心AI代理展現「自主規避能力」　呼籲讓競爭對手挑錯找出安全性漏洞](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768638_X7U5Y6N24QN8MC76PDZVZ) (tier 2, seen_count=1) — 觀察中
-- [川普政府高層會晤Anthropic主管　AI安全監管角力持續升溫](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768671_J0K7E0SS67CQ852W3AVBB) (tier 2, seen_count=1) — 觀察中
-- [《新聞聚焦》CPO熱潮帶旺「光」商機　上銀、大銀搶攻上游設備零組件](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768635_4YI55YGC4Y1XZ14X1JZGN) (tier 2, seen_count=1) — 觀察中
-- [立凱新廠確定落腳台南　迎接北美客戶20年長約訂單](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768660_9M656VJH78ZPUWLUOJ9XB) (tier 2, seen_count=1) — 觀察中
-- [英特爾18A良率升至80%　傳14A拚2027年底月產6,000片](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768662_TDU5DMFI758SZ91L0Q4VT) (tier 2, seen_count=1) — 觀察中
-- [夏普進軍AI伺服器　攜鴻海拚2030年營收2,500億日圓](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768663_BGQ5AX4L7J9CEL2Q86F1Z) (tier 2, seen_count=1) — 觀察中
-- [華為高層內部座談曝光：目標成為NVIDIA　不打算製造衛星或太空飛船](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768639_LJO5TJZY4H9SVZ856UZTL) (tier 2, seen_count=1) — 觀察中
-- [傳蘋果接受三星1Q27記憶體漲價　DRAM、NAND成本再攀高](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768657_RV67VL5F4333FX8JAFCFL) (tier 2, seen_count=1) — 觀察中
-- [AI 叢集 ROI 關鍵在傳輸效率？英特爾前員工創 Delos Data 募逾 1 億美元](https://techorange.com/2026/09/16/delos-data-efficient-ai-capacity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss) (tier 2, seen_count=1) — 觀察中
-- [瑞安航空如何把客服從「成本中心」變成策略資產？AI 每天處理 12 萬則對話、8 成免真人介入](https://techorange.com/2026/09/16/ryanair-ai-customer-chats-without-humans/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss) (tier 2, seen_count=1) — 觀察中
-- [人形機器人終於能拆除鐵籠？Digit 5 靠 360 度動態感測，實現免護欄近距共工](https://techorange.com/2026/09/16/agility-robotics-solutions-digit-5/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss) (tier 2, seen_count=1) — 觀察中
-- [不只為了降低 NVIDIA 依賴：算力擴到 14 GW，Meta 為何更需要自研晶片？](https://techorange.com/2026/09/16/meta-latest-in-house-ai-chips/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss) (tier 2, seen_count=1) — 觀察中
-- [Universal Robots 發表 Gen 7：專為工業自動化與實體 AI 部署打造的全新平台](https://techorange.com/2026/09/16/universal-robots-gen7/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss) (tier 2, seen_count=1) — 觀察中
-- [AI 代理入侵事件連環爆，美國靠人才市場逼資安長扛責，歐洲靠法規讓董事會負責](https://techorange.com/2026/09/16/cisos-go-to-boardroom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss) (tier 2, seen_count=1) — 觀察中
-[查看此分類的獨立存檔頁面](./history/2026-09-16_16-38/index.html#Technology)
+- [Anthropic 揪出中國超大型 AI 交友詐騙網，2.5 萬人慘陷「假真人」陷阱](https://infosecu.technews.tw/2026/09/17/anthropic-exposes-20-chinese-dating-app-scams/) (tier 2, seen_count=1) — 觀察中
+- [愛立信、聯發科完成 5G 定位精準度，加速自駕車、無人機等應用突破](https://technews.tw/2026/09/17/ericsson-mtk-gnss/) (tier 2, seen_count=1) — 觀察中
+- [專家比對新舊影像，意外發現月球東緣「百年一遇」新隕石坑](https://technews.tw/2026/09/17/moon-orbiter-mcgetchin-crater-lro/) (tier 2, seen_count=1) — 觀察中
+- [蘋果靠 Lightning 連接埠收授權金，十年進帳超過 10 億美元](https://ccc.technews.tw/2026/09/17/how-much-did-apple-earn-from-the-iphones-lightning-port/) (tier 2, seen_count=1) — 觀察中
+- [Snap 推出首款獨立 AR 眼鏡 Specs，要價 7 萬元化身「穿戴式電腦」](https://technews.tw/2026/09/17/snap-specs-reveals-how-its-new-smart-glasses/) (tier 2, seen_count=1) — 觀察中
+- [Claude 改版升級，Chat 與 Cowork 合併、加強文件和簡報製作能力](https://technews.tw/2026/09/17/claude-cowork-and-chat-are-merging-into-one-claude/) (tier 2, seen_count=1) — 觀察中
+- [要求修 Bug，阿里通義千問卻自行改權重！研究揭 AI 代理越權自我修改](https://technews.tw/2026/09/17/this-ai-agent-was-asked-to-fix-a-simple-bug/) (tier 2, seen_count=1) — 觀察中
+- [串聯 4,000 顆處理器！華為 Ascend 960 首導入 NPO，靠「堆晶片」拚超大算力](https://technews.tw/2026/09/17/huawei-unveils-new-ai-tech/) (tier 2, seen_count=1) — 觀察中
+- [Google DeepMind 成立 DeepMind Institute 降低 AI 風險，但強調 AGI 出現機率仍低](https://technews.tw/2026/09/17/googles-deepmind-institute-aims-to-tackle-implications-of-agi/) (tier 2, seen_count=1) — 觀察中
+- [習近平訪美代表團名單將定，傳比亞迪有望入列](https://technews.tw/2026/09/17/china-considers-byd-for-xis-ceo-entourage-at-trump-summit/) (tier 2, seen_count=1) — 觀察中
+- [驗證真實但不追蹤隱私，蘋果詳解 iPhone 18 Pro 照片「身分證」背後技術](https://infosecu.technews.tw/2026/09/17/apple-photo-verification/) (tier 2, seen_count=1) — 觀察中
+- [企業結構性缺工超前部署！Worky 揭「彈性短工」已成填補人力缺口主軸](https://finance.technews.tw/2026/09/17/flexible-short-term-work/) (tier 2, seen_count=1) — 觀察中
+- [木頭姊估星艦年收 10 兆美元  馬斯克：並非不可能](https://finance.technews.tw/2026/09/17/cathie-wood-estimates-starship-annual-revenue-10-trillion-elon-musk-says-not-impossible/) (tier 2, seen_count=1) — 觀察中
+- [聯準會升息市場不埋單，華許鷹派言論引發美股挫](https://finance.technews.tw/2026/09/17/fed-rate-hike-market-unswayed-warsh-hawkish-remarks-us-stocks-fall/) (tier 2, seen_count=1) — 觀察中
+- [美國柴油今年大漲八成，「隱形通膨」恐從貨運蔓延至民生物價](https://finance.technews.tw/2026/09/17/us-diesel-prices-have-surged-80-this-year-hidden-inflation-threatens-to-spread-from-freight-costs-to-the-prices-of-everyday-goods/) (tier 2, seen_count=1) — 觀察中
+- [華邦電收購英飛凌 NOR Flash 業務，可望穩居全球龍頭](https://technews.tw/2026/09/17/winbond-infineon-nor-flash-acquisition-global-leader/) (tier 2, seen_count=1) — 觀察中
+- [LinkedIn 聯合創辦人霍夫曼談 AI 風險：與其降速，不如學會引導技術發展](https://technews.tw/2026/09/17/reid-hoffman-dismisses-ai-doomers/) (tier 2, seen_count=1) — 觀察中
+- [加拿大跟美決裂  歐盟招手：歡迎成為「準會員」](https://technews.tw/2026/09/17/eu-chief-backs-plan-for-canada-to-become-associate-member/) (tier 2, seen_count=1) — 觀察中
+- [Ciena 喊營收 3 年複合增 30%、AXT 等光通訊股齊嗨](https://finance.technews.tw/2026/09/17/ciena-expects-30-cagr-from-2026-to-2029/) (tier 2, seen_count=1) — 觀察中
+- [傳 Meta 下週發表無鏡頭 AI 智慧眼鏡「Luna」，主打語音互動化解隱私爭議](https://technews.tw/2026/09/17/meta-launch-camera-less-ai-glasses/) (tier 2, seen_count=1) — 觀察中
+- [遊戲玩家又要失望了，爆料稱 2028 年才會看到輝達與 AMD 新顯卡](https://technews.tw/2026/09/17/nvidia-and-amd-arent-expected-to-launch-their-new-gpu-lineup-until-2028/) (tier 2, seen_count=1) — 觀察中
+- [黃仁勳估中國 2030 年成功自研先進曝光機，外媒揭目前技術落差](https://technews.tw/2026/09/17/jensen-huang-2030-china-will-develop-lithography-chipmaking-tools/) (tier 2, seen_count=1) — 觀察中
+- [傳字節分拆 AI 製藥 Anew Labs，融資後估值 15 億美元](https://finance.technews.tw/2026/09/17/bytedance-completes-290-million-fundraising-for-ai-drug-unit-after-its-spin-off/) (tier 2, seen_count=1) — 觀察中
+- [睡覺留盞燈有代價，研究：夜間光線恐讓心臟變厚又變硬](https://technews.tw/2026/09/17/sleeping-with-the-lights-on-comes-at-a-cost-study-suggests-nighttime-light-exposure-may-cause-the-heart-to-thicken-and-stiffen/) (tier 2, seen_count=1) — 觀察中
+- [無懼房市信用管制！科達賴建程喊百億大案「敦北序」搶進年輕自住客](https://finance.technews.tw/2026/09/17/a-massive-case-involving-billions/) (tier 2, seen_count=1) — 觀察中
+- [美眾院通過新法  防 AI 資料中心轉嫁電費給全民](https://technews.tw/2026/09/17/us-house-advances-first-bill-addressing-economic-impact-of-data-center-boom/) (tier 2, seen_count=1) — 觀察中
+- [愛看書不只增加知識，研究：從小讀到老有助大腦健康、降低失智風險](https://technews.tw/2026/09/17/a-love-of-reading-does-more-than-just-expand-knowledge-research-shows-that-reading-throughout-ones-life-from-childhood-into-old-age-supports-brain-health-and-lowers-the-risk-of-deme/) (tier 2, seen_count=1) — 觀察中
+- [Arm 執行長大膽喊話：AI 晶片供應鏈傳捷報，20 億美元營收達陣在望](https://finance.technews.tw/2026/09/17/arm-ceo-sees-strong-ai-chip-revenue/) (tier 2, seen_count=1) — 觀察中
+- [亞馬遜砸 80 億美元買發電機、Generac 盤後飆逾 30%](https://finance.technews.tw/2026/09/17/amazon-obtains-right-to-buy-stock-in-generac/) (tier 2, seen_count=1) — 觀察中
+- [Fed 升息又放鷹無礙台股多頭？中信投顧喊衝五萬點看這類股](https://finance.technews.tw/2026/09/17/hawkish-stance-again/) (tier 2, seen_count=1) — 觀察中
+- [沒踏板、沒方向盤，特斯拉 Cybercab 遭美政府嚴查恐面臨 44 億天價罰單](https://technews.tw/2026/09/17/cybercab-nhtsa-investigation/) (tier 2, seen_count=1) — 觀察中
+- [Google 成另類 AI 贏家？專家：雲端業務為成功關鍵](https://technews.tw/2026/09/17/google-is-playing-a-different-ai-game-than-everyone-else/) (tier 2, seen_count=1) — 觀察中
+- [AI 時代還要學英語嗎？中國再掀論戰](https://technews.tw/2026/09/17/english-learning-ai-china-debate/) (tier 2, seen_count=1) — 觀察中
+- [Fed 升息一碼費半逆揚！外資大舉掃貨記憶體，聚焦 CPO 與 ABF 雙主線](https://finance.technews.tw/2026/09/17/fed-rate-hike-sox-surges-foreign-investors-buy-memory-focus-cpo-abf/) (tier 2, seen_count=1) — 觀察中
+- [法國與歐盟力挺衛星群計畫，保障歐洲自主安全通訊](https://technews.tw/2026/09/17/france-eu-support-satellite-constellation-program-secure-europes-autonomous-communications/) (tier 2, seen_count=1) — 觀察中
+- [全球經濟「天啟四騎士」來襲，通膨風暴恐再起](https://technews.tw/2026/09/17/the-four-horsemen-of-the-apocalypse-descend-on-the-global-economy-inflation-storm-looms-again/) (tier 2, seen_count=1) — 觀察中
+- [研調：AI 支出今年估增 49.5%，2027 年達 3.63 兆美元](https://technews.tw/2026/09/17/gartner-forecasts-worldwide-ai-spending-to-grow-49-5-percent-in-2026/) (tier 2, seen_count=1) — 觀察中
+- [彈性用電解決電網問題，輝達、Google 推 AI 能源管理聯盟](https://technews.tw/2026/09/17/nvidia-google-ai-energy-management-alliance-flexible-power-grid-solutions/) (tier 2, seen_count=1) — 觀察中
+- [猛健樂日本售價便宜一半，韓國旅客瘋搶「壽司健樂」](https://technews.tw/2026/09/17/korean-patients-flock-to-japan-for-cheaper-mounjaro/) (tier 2, seen_count=1) — 觀察中
+- [人工智慧先驅班吉歐示警 AI 失控風險，籲比照核武管制](https://technews.tw/2026/09/17/were-losing-control-ai-pioneer-yoshua-bengio-tells-afp/) (tier 2, seen_count=1) — 觀察中
+- [因中東戰事受創的AWS巴林與阿聯資料中心，部分資料確認無法復原](https://www.ithome.com.tw/news/179018) (tier 2, seen_count=1) — 觀察中
+- [思科ISE、Acronis網頁主機管理平臺備份工具漏洞遭積極利用](https://www.ithome.com.tw/news/179017) (tier 2, seen_count=1) — 觀察中
+- [Acronis揭露cPanel和Plesk備份外掛漏洞](https://www.ithome.com.tw/news/179016) (tier 2, seen_count=1) — 觀察中
+- [Google強化Gemini Enterprise成本管控，新增隨用隨付計費與專案支出上限](https://www.ithome.com.tw/news/179015) (tier 2, seen_count=1) — 觀察中
+- [CISA將Google Pixel零時差漏洞列入KEV](https://www.ithome.com.tw/news/179014) (tier 2, seen_count=1) — 觀察中
+- [Windows Server 2022將於10月結束主流支援，安全更新仍持續至2031年](https://www.ithome.com.tw/news/179013) (tier 2, seen_count=1) — 觀察中
+- [OpenAI建立AI模型失準揭露機制，公布6起最新案例](https://www.ithome.com.tw/news/179012) (tier 2, seen_count=1) — 觀察中
+- [Google修補已遭利用的Pixel漏洞](https://www.ithome.com.tw/news/179011) (tier 2, seen_count=1) — 觀察中
+- [西班牙爆發首起因AI代理人攻擊造成的個資外洩](https://www.ithome.com.tw/news/179006) (tier 2, seen_count=1) — 觀察中
+- [WSO2重大JWT身分驗證漏洞出現攻擊嘗試，成功利用可能造成帳號接管](https://www.ithome.com.tw/news/179005) (tier 2, seen_count=1) — 觀察中
+- [英國政府單一登入服務擴大推行通行金鑰，逾2,300萬人可使用](https://www.ithome.com.tw/news/178973) (tier 2, seen_count=1) — 觀察中
+- [CenterPoint Energy證實客戶資料外洩，攻擊者宣稱取得749萬筆紀錄](https://www.ithome.com.tw/news/178970) (tier 2, seen_count=1) — 觀察中
+- [駭客濫用Google Docs發動ClickFix攻擊，同時鎖定Windows與macOS](https://www.ithome.com.tw/news/178945) (tier 2, seen_count=1) — 觀察中
+- [Kiteworks併購Bonfy.AI，補強AI代理資料安全控管](https://www.ithome.com.tw/news/178903) (tier 2, seen_count=1) — 觀察中
+- [微軟AI負責人示警　Claude「憲法」恐讓AI更難管控](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768813_NL09BBIK0YXEZQ4SN4YFW) (tier 2, seen_count=1) — 觀察中
+- [20億美元AGI CPU需求在手　Arm CEO：對供應更有信心](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768879_QHW9WRK96E2NBHL87R14Y) (tier 2, seen_count=1) — 觀察中
+- [華為發布昇騰960超節點　稱AI戰略核心就是算力](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768815_L4B7UNWC2ZRB3Q4OCXWH3) (tier 2, seen_count=1) — 觀察中
+- [傳比亞迪王傳福入列習近平訪美代表團　華府黑名單恐踩美方紅線](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768877_OLP99JPE663KP28AGLQF0) (tier 2, seen_count=1) — 觀察中
+- [華為示警Token需求將暴增10萬倍　AI Agent將佔9成流量](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768881_NNI7USXQ954F2Y0MII1JP) (tier 2, seen_count=1) — 觀察中
+- [《科技聽IC》蘋果折了7年才出手，iPhone Duo為何選擇減法不拚規格？](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768890_MEC73SUCLBL6F4LBTEUID) (tier 2, seen_count=1) — 觀察中
+- [《路克相談室》EP62：iPhone Duo不如預期貴，只是相機規格有些過時 / 記憶體漲太兇蘋果也難招架、舊款定價不降反漲 / A20 Pro SoC的封裝技術新局](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768803_FSO7J2491CF0WN2VO142K) (tier 2, seen_count=1) — 觀察中
+- [Google DeepMind成立新研究機構　共同創辦人：安全控管不能慢半拍](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768814_CTC7CGQ825QU5O3JGHKIY) (tier 2, seen_count=1) — 觀察中
+- [華邦電吃下英飛凌NOR Flash　兆易創新競逐添變數](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768886_ZTL9OXN87SVCZA79QEHTY) (tier 2, seen_count=1) — 觀察中
+- [蘋果傳進軍企業AI伺服器並採NVIDIA技術　兩大巨頭關係現新變化](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768876_24298I8J6IN1QH7E12LZ1) (tier 2, seen_count=1) — 觀察中
+- [量子運算主機將公告RFP　吳誠文：台灣與國際廠商創雙贏](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768882_RP87WYME964AX41Z11XFE) (tier 2, seen_count=1) — 觀察中
+- [不只黃仁勳　Tim Cook、Sam Altman傳受邀白宮國宴](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768812_Y3A7CW0M2B7IVB158CB7Z) (tier 2, seen_count=1) — 觀察中
+- [SK海力士傳與英特爾合作生產記憶體？　官方澄清尚無定案](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768809_3W57V0MR1RBWJX8HPGB5C) (tier 2, seen_count=1) — 觀察中
+- [AI末日論延燒　DeepSeek工程師言論掀波 ：工程師可能得轉業](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768874_GQU98KV86SYYJE5RSGRHC) (tier 2, seen_count=1) — 觀察中
+- [每日椽真：SK海力士績效獎金新制過關 | 黃仁勳如何捍衛AI話語權 | 中國DUV直攻3奈米GAA官宣開發完成](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768788_51P858IE70ZRGO9UOBGLC) (tier 2, seen_count=1) — 觀察中
+- [智慧家電、AI資料中心推升控制需求 GigaDevice擴大高效能MCU布局](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768393_KWM4BT0183LGHL40TVAN4) (tier 2, seen_count=1) — 觀察中
+- [漢高引領晶片封裝材料創新 力攻散熱應力挑戰迎接新商機](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768680_02G7EKMF70E8FP1F1O7MU) (tier 2, seen_count=1) — 觀察中
+- [日立能源以創新電力技術助攻半導體與AI基礎設施發展](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768499_PHN37XEELMYR7R821PJ42) (tier 2, seen_count=1) — 觀察中
+- [PTC Creo升級研發流程 串接設計、驗證與工程知識](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768528_3BX6CGED12CTCU96X7VH8) (tier 2, seen_count=1) — 觀察中
+- [七個AI代理先辯論再下結論 黑客松團隊降低加密市場分析偏誤](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000767566_J7I44CHU7P0G8Z511W6DL) (tier 2, seen_count=1) — 觀察中
+- [AI算力競賽走向系統整合 封裝與PCB成為效能關鍵](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000766048_NTMLPM7M5B7KJY7AHJYJB) (tier 2, seen_count=1) — 觀察中
+- [EMIB-T達標、載板含淚補考　傳Google考慮改回台積CoWoS](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768727_OJO8LOSL13GUJC8SQDE5B) (tier 2, seen_count=1) — 觀察中
+- [台灣雙虎大賣廠、中國「聯合控盤」更獨霸？　中系三大面板廠首度發函漲價](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768773_PSL63ZI187L3AH2TGCCHZ) (tier 2, seen_count=1) — 觀察中
+- [中國光學強勢進攻　紅色供應鏈力造智慧眼鏡大浪](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768668_BR35M2LQ7LX50575XGO8U) (tier 2, seen_count=1) — 觀察中
+- [AI新十大建設擴充人才庫　2025年已培育14萬人](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768702_I2T6RVRQ191LD81QVT71H) (tier 2, seen_count=1) — 觀察中
+- [塑橡膠產業藉材料創新迎新局　富強鑫看旺北美布局、基建設備需求](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768736_K9486SN2279M5B7CHGWAT) (tier 2, seen_count=1) — 觀察中
+- [Agility人形機器人Digit 5搭全新安全架構　能與人協同作業](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768672_L0X7O7QL6IGY3O38Z73XG) (tier 2, seen_count=1) — 觀察中
+- [解析度升級反而更省電？　三星推首款2K+165Hz電競OLED](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768531_UJX64O7R2LRND02TN3UOI) (tier 2, seen_count=1) — 觀察中
+- [從H20禁令到川普來電　看黃仁勳如何捍衛AI話語權、塑造人物邊界感](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768629_4NL7LZH01S44BILE4X65Z) (tier 2, seen_count=1) — 觀察中
+- [無懼EUV受限　中國20家量產OSAT衝先進封裝量產](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768749_28U8I4Y93R0H6OLL5AI16) (tier 2, seen_count=1) — 觀察中
+- [通用家庭機器人為終極目標　感知能力成考驗](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768553_ZA56LTCG4LDBQ846ZVQ7N) (tier 2, seen_count=1) — 觀察中
+- [鴻騰不押單一光通訊技術　攜康寧開發EBO、洽台積共同封裝](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768722_SCT8HX6U1ZUCTW3V6SUQW) (tier 2, seen_count=1) — 觀察中
+- [欣銓、矽格卡位矽光子TIA測試　美系大客戶搶訂產能](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768587_ENM4L3P79PHR0X6A5AQ55) (tier 2, seen_count=1) — 觀察中
+- [濱岡案退件敲響核安警鐘　日本同步布局新核能技術](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768501_AN9491OF1739XB07Q9BC5) (tier 2, seen_count=1) — 觀察中
+- [空巴A321XLR改寫中長程航班　窄體機跨洋飛行布局升溫](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768556_6ZM4ILLO65OL1158JSCV9) (tier 2, seen_count=1) — 觀察中
+- [無方向盤Cybercab面臨法規考驗　NHTSA要求Tesla說明合規依據](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768687_HB77DIO273RVWO8ZJ8U4J) (tier 2, seen_count=1) — 觀察中
+- [科技1分鐘：蘋果iPhone Duo各家出貨預測整理](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768693_6M473V2G87E24O4XUSRSC) (tier 2, seen_count=1) — 觀察中
+- [【動物農莊】2奈米合作卡在最後一哩？　水豚晶直擊三星、高通新攻防](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768539_EJJ4MUS74M1UF08X28H41) (tier 2, seen_count=1) — 觀察中
+- [【漫圖秒懂】美國首認部署太空武器　阿波羅機動驗證主動太空作戰](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768584_PAN67MKU7P64YD5J3339Q) (tier 2, seen_count=1) — 觀察中
+- [【Amy &amp; Dr. Chip】iPhone終於折了　蘋果一口氣押上五大關鍵技術](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768278_L341DSDW89K22J7RF8IOH) (tier 2, seen_count=1) — 觀察中
+- [南亞AI電子材料轉型增速　大手筆擴產打通垂直供應鏈](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768724_QTS6SP3O30GQCS39BVJBI) (tier 2, seen_count=1) — 觀察中
+- [鴻海推動四力整合　FII協同FIT強化AI光電熱布局](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768771_FL0614UF8EK5X10KWRL3Y) (tier 2, seen_count=1) — 觀察中
+- [（獨家）沒EUV仍要衝　中國DUV直攻3奈米GAA官宣開發完成](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768707_NYU61JTU1N5SO16LTOY6E) (tier 2, seen_count=1) — 觀察中
+- [美國政策轉向逼出歐洲太空自主　整合跨國資源打造獨立供應鏈](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768775_G7B88GSV6XLVGT67MPXLH) (tier 2, seen_count=1) — 觀察中
+- [SK海力士績效獎金新制過關　祭出現金、股票比例各半彈性](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768752_YO761WB86DX8KF1TKQFHV) (tier 2, seen_count=1) — 觀察中
+- [記憶體供應牽動晶片開發架構　三星擴充SRAM、IP加速開發](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768615_CRZ7VP5M0VCMGV657YS9A) (tier 2, seen_count=1) — 觀察中
+- [美國反資料中心聲浪難撼AI需求　緯穎看旺未來3~5年](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768732_9XW6M4O146PA8S1O92EPP) (tier 2, seen_count=1) — 觀察中
+- [蘋果16款硬體新陣容蓄勢待發　擴大OLED與AI生態系布局](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768550_VJS49DVM6HVCKTLK6IWU2) (tier 2, seen_count=1) — 觀察中
+- [豐田擴大氫能商用車版圖　擴大燃料電池合作、Hilux FCV 2028問世](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768541_YIO409U757LDBY0C501VJ) (tier 2, seen_count=1) — 觀察中
+- [三星李在鎔傳親自出馬固樁　先進封裝戰場延伸至日本](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768720_ELC6JG8I3755SDLVOF5QQ) (tier 2, seen_count=1) — 觀察中
+- [看好AI市場投資熱度　Altera以保密形式在美提交IPO申請](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768676_2JB5F2N18EXUAB5JDZMFC) (tier 2, seen_count=1) — 觀察中
+- [運算更靠近末端　通用機器人朝多功能感測平台整合](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768573_L014LKLX82WL542WFCLJI) (tier 2, seen_count=1) — 觀察中
+- [家電景氣低迷　樂金以租賃、產品分眾與AI三箭突圍](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768745_D3R8A4WK3EHUNK640EWKC) (tier 2, seen_count=1) — 觀察中
+- [循環經濟考驗材料掌握度　四大核心能力、消費者買單成關鍵](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768729_K3X6LQWQ3Q09I982DI97M) (tier 2, seen_count=1) — 觀察中
+- [AI業者喊放緩開發　美財長：模型出事仍須負責](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768740_F5J6HGND57WQC1LLIJZDE) (tier 2, seen_count=1) — 觀察中
+- [波士頓動力2027年IPO無望　量產瓶頸與鉅額虧損成阻礙](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768540_VX647YNB502W54L8EY0UQ) (tier 2, seen_count=1) — 觀察中
+- [AI加速滲透中小企業　逾5成一年內啟動AI專案](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768738_4AM6NCS0451EA276KDKUD) (tier 2, seen_count=1) — 觀察中
+- [OpenAI要求澳洲放寬版權限制　否則難在當地訓練AI模型](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768628_3PT51FZ73EW2RF7YS5ZHV) (tier 2, seen_count=1) — 觀察中
+- [美國營建缺工導致房源短缺　建築機器人有望成解方](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768377_2CE20JYS8CALCN6ONVC5Z) (tier 2, seen_count=1) — 觀察中
+- [勝品加速AI、智慧工廠布局　訂單看到年底、毛利力守穩定](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768698_YNJ7V1CT854P3D9HO7DR8) (tier 2, seen_count=1) — 觀察中
+- [中韓HBM差距剩3年？　長鑫追趕三星、SK海力士虛實待驗](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768697_3I77QVBL8B21PI8B463QK) (tier 2, seen_count=1) — 觀察中
+- [達梭系統在台20年　全面朝AI原生平台轉型](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768703_JY96PJ181IBCJ62MLJ1OW) (tier 2, seen_count=1) — 觀察中
+- [新能源車大勢到來　裕日車揭台灣滲透率上看50%](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768667_I9Z5CABP7NCJ646GUL2CF) (tier 2, seen_count=1) — 觀察中
+- [NVIDIA淡出中國市場、AMD迎來生態戰　從賣晶片轉攻開發者](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768708_J0A8OH7SL4OCG991ZJ53W) (tier 2, seen_count=1) — 觀察中
+- [NVIDIA藍圖曝AI轉向整機櫃　Rubin Ultra、Groq 3 LPX-Next 2H27接棒](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768792_G6C6O9CDLCI5DB1TPKC3Y) (tier 2, seen_count=1) — 觀察中
+- [SDC砸3000億韓元　押注12吋RGB OLEDoS量產](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768666_Z5M5QDFO75KTTW56RW4AA) (tier 2, seen_count=1) — 觀察中
+- [消費者選購iPhone 18 Pro首重續航　鏡頭與晶片升級居次](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768721_58G8T9451RLVZ72KH0WDI) (tier 2, seen_count=1) — 觀察中
+- [蘋果加入折疊戰局　三星傳提前布局新一代三折機](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768621_6UJ7YX571COHS229M2MUB) (tier 2, seen_count=1) — 觀察中
+- [波音奪海軍MQ-25首批量產合約　無人加油機終啟動](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768626_5SR78SLH1S8E0M7OEA8TC) (tier 2, seen_count=1) — 觀察中
+- [NVIDIA AI晶片功耗極限　前台積電老將：玻璃基板仍非終極解方](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768733_0Y768U794LALB9295NHZU) (tier 2, seen_count=1) — 觀察中
+- [台積電12吋設備捐贈計畫生變？　吳誠文：合作有新定義](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768701_FK48HHRWLITUKS25ISXTN) (tier 2, seen_count=1) — 觀察中
+- [泰國推家戶太陽能板安裝計畫　總理：天然氣支撐再生能源轉型](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768577_7LW4FMB08GVPHA6OLE6GC) (tier 2, seen_count=1) — 觀察中
+- [Anthropic與澳洲簽署首份資料中心協議　落腳能源大州昆士蘭](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768731_O658RKQB251R7Z2HY7BPQ) (tier 2, seen_count=1) — 觀察中
+- [房市、建廠工程兩樣情　東鋼：高科技投資強烈支撐鋼構接單](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768730_MTH8NOH12EENZQ1E61NID) (tier 2, seen_count=1) — 觀察中
+- [三星DDR5模組增產傳轉外包　自有產能集中衝刺HBM](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768686_5FH5J1099XXCEA5OSGBEO) (tier 2, seen_count=1) — 觀察中
+- [記憶體LTA綁住50~70%產能　上游原廠仍「做莊」拉長產業榮景](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768741_2YQ6GRFR594FYH09TOXDC) (tier 2, seen_count=1) — 觀察中
+- [華為推3D資料中心　貴州、內蒙古、安徽三地規模化部署](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768709_W7Z6IHDY1A6EPU8IKX6KF) (tier 2, seen_count=1) — 觀察中
+- [日產拚2027年無人自駕上路　橫濱10月擴大Level 4測試](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768515_GSH4AC2W2HPHIA4GZY75Q) (tier 2, seen_count=1) — 觀察中
+- [蘋果、聯發科手機SoC效能又過剩？　實則為代理式AI預留空間](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768726_4HR69HJH3UUIRL5YBXHGK) (tier 2, seen_count=1) — 觀察中
+- [本田拚北美HEV在地化　Astemo砸3.79億美元擴產馬達產能](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000768543_QC26OBT93NYKG143DBNZ3) (tier 2, seen_count=1) — 觀察中
+- [X 升級 Cashtag 串接五大券商與交易所：討論直接變下單，背後仍有未解難題](https://techorange.com/2026/09/17/x-users-trade-via-cashtags/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss) (tier 2, seen_count=1) — 觀察中
+- [AI Agent 越界不再等查完才說，OpenAI 再公開 6 起新案例、首推失準事件揭露框架](https://techorange.com/2026/09/17/openai-framework-for-reporting-model-misalignment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss) (tier 2, seen_count=1) — 觀察中
+- [【巨頭搶聘 FDE 前線部署工程師】需求暴增是雙面指標，企業評估績效該看能否自主營運](https://techorange.com/2026/09/17/deployed-engineers-around-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss) (tier 2, seen_count=1) — 觀察中
+- [【科技早餐】OpenAI 傳洽談新募資，上市前估值上看 1.2 兆美元](https://techorange.com/2026/09/17/openai-pre-ipo-funding-1-2-trillion-valuation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss) (tier 2, seen_count=1) — 觀察中
+- [勞斯萊斯用代理式 AI 大改造 IT：MTTR 從 6 天砍到 1 天、38,000 張工單自動分流](https://techorange.com/2026/09/17/ai-control-tower-rolls-royce-servicenow/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss) (tier 2, seen_count=1) — 觀察中
+[查看此分類的獨立存檔頁面](./history/2026-09-17_04-32/index.html#Technology)
 
 ## 🔍 TW News
 > 本次無達標深度分析
@@ -875,56 +570,56 @@
 
 #### 觀察中（未達深度分析門檻）
 
-- [世界末日躲哪裡？研究指澳洲「這原因」最能存活 台灣被點名](https://news.ltn.com.tw/news/world/breakingnews/5576541) (tier 2, seen_count=1) — 觀察中
-- [市場靜待聯準會利率決策　歐股收高油價跌](https://ec.ltn.com.tw/article/breakingnews/5576568) (tier 2, seen_count=1) — 觀察中
-- [四川大山崩埋民宅畫面曝！中國官媒證實了 聲稱0死傷](https://news.ltn.com.tw/news/world/breakingnews/5576525) (tier 2, seen_count=1) — 觀察中
-- [黎智英女兒罹癌化療　黎崇恩：盼中方思考人道釋放意義](https://news.ltn.com.tw/news/world/breakingnews/5576567) (tier 2, seen_count=1) — 觀察中
-- [藍白破？陳以信：新竹縣狀況不會外溢到其他縣市](https://news.ltn.com.tw/news/politics/breakingnews/5576560) (tier 2, seen_count=1) — 觀察中
-- [頭痛！鹿港小鎮出現獼猴趴趴走 不怕狗吠還偷吃喪家水果](https://news.ltn.com.tw/news/life/breakingnews/5576559) (tier 2, seen_count=1) — 觀察中
-- [洋流外溢！沈伯洋合體學長黃世杰 週日衝中壢夜市掃街](https://news.ltn.com.tw/news/politics/breakingnews/5576553) (tier 2, seen_count=1) — 觀察中
-- [喊「沒有大贏不能當作贏」 鄭麗文：國民黨領先縣市不能大意](https://news.ltn.com.tw/news/politics/breakingnews/5576555) (tier 2, seen_count=1) — 觀察中
-- [美媒：蘋果計劃推出AI伺服器 考慮採輝達NVLink技術](https://news.ltn.com.tw/news/life/breakingnews/5576554) (tier 2, seen_count=1) — 觀察中
-- [太有才！鄭朝方包辦詞曲《風起了》 蔡英文力推：看見竹北改變](https://news.ltn.com.tw/news/politics/breakingnews/5576522) (tier 2, seen_count=1) — 觀察中
-- [香港回不去了！港府公布首份5年規劃 全面對接中國「十五五」](https://news.ltn.com.tw/news/world/breakingnews/5576548) (tier 2, seen_count=1) — 觀察中
-- [台積電「這原因」創造三星黃金時機 未來3年成代工關鍵戰役](https://ec.ltn.com.tw/article/breakingnews/5576547) (tier 2, seen_count=1) — 觀察中
-- [超藍「諜報花」接觸沈伯洋後讚爆 蔥抓餅阿姨直言：台北可能變天](https://news.ltn.com.tw/news/politics/breakingnews/5576477) (tier 2, seen_count=1) — 觀察中
-- [AI辨臉率90％！拍海龜上傳辨識平台 建立資料庫有助「戶口普查」](https://news.ltn.com.tw/news/life/breakingnews/5576543) (tier 2, seen_count=1) — 觀察中
-- [安盛財富、安盛資本爆違法吸金逾6億 兩負責人送北檢複訊](https://news.ltn.com.tw/news/society/breakingnews/5576057) (tier 2, seen_count=1) — 觀察中
-- [人口對策新措施  勞動部將宣告婚假加碼至14日](https://news.ltn.com.tw/news/life/breakingnews/5576434) (tier 2, seen_count=1) — 觀察中
-- [亞運棒球》到台灣隊找業餘名將挖寶 朱迦恩：有值得我學習的地方](https://sports.ltn.com.tw/news/breakingnews/5576549) (tier 2, seen_count=1) — 觀察中
-- [獨家》海巡艦轉贈菲律賓「不是連江艦」？ 船迷：關鍵在這6個孔](https://news.ltn.com.tw/news/politics/breakingnews/5576544) (tier 2, seen_count=1) — 觀察中
-- [鉛球冠軍殺前女友內幕！6萬情感修復師嫌貴 曾想找8+9演英雄救美](https://news.ltn.com.tw/news/society/breakingnews/5576546) (tier 2, seen_count=1) — 觀察中
-- [蘇丹又爆金礦礦場坍塌！至少67死 多人下落不明](https://news.ltn.com.tw/news/world/breakingnews/5576511) (tier 2, seen_count=1) — 觀察中
-- [讓愛心加倍！金門龍頭企業用巧思  吳昆璋支持庇護就業關懷弱勢](https://news.ltn.com.tw/news/life/breakingnews/5576539) (tier 2, seen_count=1) — 觀察中
-- [日本政府公開外國人持有境內不動產比例 台灣排名曝光](https://news.ltn.com.tw/news/world/breakingnews/5576415) (tier 2, seen_count=1) — 觀察中
-- [2026桃園三界爺文化祭中壢登場  串聯21廟信仰文化傳遞下一代](https://news.ltn.com.tw/news/life/breakingnews/5576507) (tier 2, seen_count=1) — 觀察中
-- [龍岡運動館試營運爆人潮 救生員不足、停車亂象引民怨 市府允改善](https://news.ltn.com.tw/news/life/breakingnews/5576538) (tier 2, seen_count=1) — 觀察中
-- [10萬北韓勞工淪核武印鈔機！年賺254億「9成充公」造飛彈](https://news.ltn.com.tw/news/world/breakingnews/5576537) (tier 2, seen_count=1) — 觀察中
-- [雜草步道變身田中「夢想成真廊道」 鄉親敲碗：月月辦音樂會](https://news.ltn.com.tw/news/life/breakingnews/5576504) (tier 2, seen_count=1) — 觀察中
-- [密會曝光！青年運動特使直奔美大使館 承諾只打沙國](https://news.ltn.com.tw/news/world/breakingnews/5576385) (tier 2, seen_count=1) — 觀察中
-- [霧峰「朝聖之路」最後一哩通了！台中花1268萬打通瓶頸路段](https://news.ltn.com.tw/news/life/breakingnews/5576480) (tier 2, seen_count=1) — 觀察中
-- [批藍放任全黨汙衊前鎮漁港 明孝里長酸：別說選市長、當里長都沒資格](https://news.ltn.com.tw/news/politics/breakingnews/5576425) (tier 2, seen_count=1) — 觀察中
-- [陳培瑜、卓冠廷宜蘭站台 力挺林國漳、韓瑩](https://news.ltn.com.tw/news/politics/breakingnews/5576529) (tier 2, seen_count=1) — 觀察中
-- [屏科大YouBike進駐 不到20天破7000人次使用](https://news.ltn.com.tw/news/life/breakingnews/5576506) (tier 2, seen_count=1) — 觀察中
-- [比「早餐店大冰奶」還猛！ 喝這杯拉到住院3天 藥師揭強效原因](https://news.ltn.com.tw/news/life/breakingnews/5576339) (tier 2, seen_count=1) — 觀察中
-- [中職》林岱安英雄宣言  「富邦每個人都非常渴望打進季後賽」](https://sports.ltn.com.tw/news/breakingnews/5576528) (tier 2, seen_count=1) — 觀察中
-- [亞運女排》台灣隊首戰直落三開紅盤 總教練鄧衍敏盼12人隨時做好準備](https://sports.ltn.com.tw/news/breakingnews/5576534) (tier 2, seen_count=1) — 觀察中
-- [彰化奪治安三冠王！打詐最猛  第2季破獲110個詐團、保住近3億](https://news.ltn.com.tw/news/society/breakingnews/5576422) (tier 2, seen_count=1) — 觀察中
-- [北市十大熱銷社區曝！「這社區」不到900萬 衝進前5名](https://estate.ltn.com.tw/article/28857) (tier 2, seen_count=1) — 觀察中
-- [猛健樂日本售價便宜一半 韓國旅客瘋搶「壽司健樂」](https://news.ltn.com.tw/news/world/breakingnews/5576509) (tier 2, seen_count=1) — 觀察中
-- [吳宗憲拜會台北市議會 力推北北基桃宜合作及北宜雙科聯動](https://news.ltn.com.tw/news/politics/breakingnews/5576478) (tier 2, seen_count=1) — 觀察中
-- [黨員倒戈加劇！美眾院三度通過決議案  要求川普終止美伊戰爭](https://news.ltn.com.tw/news/world/breakingnews/5576224) (tier 2, seen_count=1) — 觀察中
-- [中職》林岱安受訪語帶哽咽  「上半季有很多不好聽的話...」](https://sports.ltn.com.tw/news/breakingnews/5576518) (tier 2, seen_count=1) — 觀察中
-[查看此分類的獨立存檔頁面](./history/2026-09-16_16-38/index.html#TW-News)
+- [台中行車糾紛變「胸戰」！胸口猛頂貼臉嗆 網歪樓：快親起來了](https://news.ltn.com.tw/news/society/breakingnews/5576926) (tier 2, seen_count=1) — 觀察中
+- [沈伯洋公館拜票牽出劉連昆案 中共諜戰新劇《交鋒》正巧也納入劇情](https://news.ltn.com.tw/news/politics/breakingnews/5576798) (tier 2, seen_count=1) — 觀察中
+- [科技產業南移真能扭轉房市？全台人口跌回2011年 「頭重腳輕」亂象曝光](https://estate.ltn.com.tw/article/28861) (tier 2, seen_count=1) — 觀察中
+- [台積電第一排！高雄世運站A5、A6「引資160億」半導體聚落版圖再擴](https://estate.ltn.com.tw/article/28859) (tier 2, seen_count=1) — 觀察中
+- [鉛球冠軍還寵物鼠刺死18歲儀隊前女友     一審重判無期徒刑](https://news.ltn.com.tw/news/society/breakingnews/5576935) (tier 2, seen_count=1) — 觀察中
+- [《告別的年代》攻多倫多影展！宋芸樺自爆為戲旗袍試20套、半年苦練3語言](https://ent.ltn.com.tw/news/breakingnews/5576932) (tier 2, seen_count=1) — 觀察中
+- [批市場成QE殭屍 胡采蘋：「經濟好、股市崩」是隱性脅迫](https://ec.ltn.com.tw/article/breakingnews/5576826) (tier 2, seen_count=1) — 觀察中
+- [國軍聯合精準彈藥射擊操演 中共昨今大舉出動38軍機擾台](https://news.ltn.com.tw/news/def/breakingnews/5576925) (tier 2, seen_count=1) — 觀察中
+- [方志友停電夜遭告白！親口認「心防差點失守」：被那道光點亮](https://ent.ltn.com.tw/news/breakingnews/5576928) (tier 2, seen_count=1) — 觀察中
+- [停產11年可能復活 美空軍評估重啟C-17產線擬強化自衛、網路戰能力](https://news.ltn.com.tw/news/def/breakingnews/5576877) (tier 2, seen_count=1) — 觀察中
+- [沒痛沒腫塊也可能是乳癌  篩檢揪出逾6成仍是早期](https://health.ltn.com.tw/article/breakingnews/5576900) (tier 2, seen_count=1) — 觀察中
+- [單車婦人「鬼切」雙黃線害藝人柯龍撞車 竟嗆「怎麼不自己躲開」](https://news.ltn.com.tw/news/society/breakingnews/5576896) (tier 2, seen_count=1) — 觀察中
+- [國民黨批「指控後檢就出手」 吳音寧：不要模糊焦點](https://news.ltn.com.tw/news/politics/breakingnews/5576904) (tier 2, seen_count=1) — 觀察中
+- [中秋、教師節4天連假 國道客運推最低4折優惠](https://news.ltn.com.tw/news/life/breakingnews/5576901) (tier 2, seen_count=1) — 觀察中
+- [亞運前線》台灣代表團布條遭惡意塗改 運動部呼籲「不要在場外製造對立」](https://sports.ltn.com.tw/news/breakingnews/5576902) (tier 2, seen_count=1) — 觀察中
+- [高雄「神農市集」130攤逛到飽 9/20紙風車劇團免費看](https://news.ltn.com.tw/news/life/breakingnews/5576886) (tier 2, seen_count=1) — 觀察中
+- [陳永德備詢玩「消消樂」鞠躬歹勢 蔣萬安二度回應「不應該」](https://news.ltn.com.tw/news/politics/breakingnews/5576880) (tier 2, seen_count=1) — 觀察中
+- [自詡宜蘭最大公約數！林國漳妙喻如「糕渣」誓言打造幸福城市](https://news.ltn.com.tw/news/politics/breakingnews/5576879) (tier 2, seen_count=1) — 觀察中
+- [沈伯洋競選歌曲首播！自嘲歌聲慘不忍睹 廣邀全民共創台北之歌](https://news.ltn.com.tw/news/politics/breakingnews/5576881) (tier 2, seen_count=1) — 觀察中
+- [MLB》苦熬7年總算嘗大聯盟滋味 道奇12強「台灣之友」被DFA](https://sports.ltn.com.tw/news/breakingnews/5576863) (tier 2, seen_count=1) — 觀察中
+- [MiLB》復健賽前4場共失6分！道奇22億終結者狄亞茲今關門無失分 羅伯斯傷腦筋](https://sports.ltn.com.tw/news/breakingnews/5576835) (tier 2, seen_count=1) — 觀察中
+- [老宅延壽補助申請夯 新北29區專場說明會9/21起跑](https://news.ltn.com.tw/news/life/breakingnews/5576885) (tier 2, seen_count=1) — 觀察中
+- [川普盼美伊衝突落幕 下週先找波灣國家領袖談](https://news.ltn.com.tw/news/world/breakingnews/5576829) (tier 2, seen_count=1) — 觀察中
+- [告五人說到做到！好不容易搶到票 雲安突放棄兩張有原因](https://ent.ltn.com.tw/news/breakingnews/5576892) (tier 2, seen_count=1) — 觀察中
+- [升息＝房市鬆綁？專家預言房市「這一時間」將止跌](https://estate.ltn.com.tw/article/28862) (tier 2, seen_count=1) — 觀察中
+- [沈伯洋提內科自行車橋 周偉航揭單車族「越堤」痛點](https://news.ltn.com.tw/news/politics/breakingnews/5576753) (tier 2, seen_count=1) — 觀察中
+- [台南建置火災智慧模擬平台 最快5分鐘掌握污染擴散](https://news.ltn.com.tw/news/life/breakingnews/5576891) (tier 2, seen_count=1) — 觀察中
+- [新竹棒球場未驗收就辦開幕賽 議員批高虹安指責前朝卻重蹈覆轍](https://news.ltn.com.tw/news/politics/breakingnews/5576873) (tier 2, seen_count=1) — 觀察中
+- [教育部強化校園防詐 從事後通報走向風險預警](https://news.ltn.com.tw/news/life/breakingnews/5576872) (tier 2, seen_count=1) — 觀察中
+- [自由開講》連「覆議門檻」都搞錯 特定媒體的專業在哪裡？](https://talk.ltn.com.tw/article/breakingnews/5574827) (tier 2, seen_count=1) — 觀察中
+- [健康網》減脂狂補蛋白質恐更胖 專家揭這吃法 增肌不成變體脂](https://health.ltn.com.tw/article/breakingnews/5576291) (tier 2, seen_count=1) — 觀察中
+- [京華城土地扣押抗告成功 中石化爆量漲停 股民嗨喊：開始發力了](https://ec.ltn.com.tw/article/breakingnews/5576874) (tier 2, seen_count=1) — 觀察中
+- [走進尖石！鄭朝方提「前山觀光、後山安居」願景 許原鄉新未來](https://news.ltn.com.tw/news/politics/breakingnews/5576866) (tier 2, seen_count=1) — 觀察中
+- [光學整合實力受肯定 中央大學獲選國科會矽光子前瞻計畫](https://news.ltn.com.tw/news/life/breakingnews/5576868) (tier 2, seen_count=1) — 觀察中
+- [婚假8天增至14天10/1上路！已結婚還能請嗎？看懂「2關鍵」直接升級](https://ec.ltn.com.tw/article/breakingnews/5576883) (tier 2, seen_count=1) — 觀察中
+- [蘇貞昌進場中斷李四川致詞惹議 李競辦還原時間：李準時、蘇遲到](https://news.ltn.com.tw/news/politics/breakingnews/5576864) (tier 2, seen_count=1) — 觀察中
+- [正藍軍站出來！秦慧珠競總10/16成立 預告找「這些大咖」挺「藍慧珠」](https://news.ltn.com.tw/news/politics/breakingnews/5576859) (tier 2, seen_count=1) — 觀察中
+- [吳子嘉嗆黃國昌認徐欣瑩民調落後 黃士修反問：到底誰在選縣長](https://news.ltn.com.tw/news/politics/breakingnews/5576732) (tier 2, seen_count=1) — 觀察中
+- [MLB》耶利奇關鍵安逆轉海盜 最強釀酒人近8場7勝、隊史最多勝接近中](https://sports.ltn.com.tw/news/breakingnews/5576778) (tier 2, seen_count=1) — 觀察中
+- [屏東沿山公路口社大橋斥資2.47億改建動土 2028年完工](https://news.ltn.com.tw/news/life/breakingnews/5576865) (tier 2, seen_count=1) — 觀察中
+[查看此分類的獨立存檔頁面](./history/2026-09-17_04-32/index.html#TW-News)
 
-## 🔍 Product/Growth
+## 🔍 Economics
 > 本次無達標深度分析
 
 
 #### 觀察中（未達深度分析門檻）
 
-- [Muse review: The personal AI agent that gets consumer UX right](https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent) (tier 3, seen_count=1) — 觀察中
-[查看此分類的獨立存檔頁面](./history/2026-09-16_16-38/index.html#Product-Growth)
+- [Soaring bond yields, gaping deficits and towering debts: what could go wrong?](https://www.economist.com/finance-and-economics/2026/09/16/soaring-bond-yields-gaping-deficits-and-towering-debts-what-could-go-wrong) (tier 2, seen_count=1) — 觀察中
+[查看此分類的獨立存檔頁面](./history/2026-09-17_04-32/index.html#Economics)
 
 ## 🔍 Social Sentiment
 > 本次無達標深度分析
@@ -932,23 +627,24 @@
 
 #### 觀察中（未達深度分析門檻）
 
-- [Hackers Stole Flock’s Camera Software, Revealing How the Company Tracks Cars and People](https://www.reddit.com/r/technology/comments/1whthe5/hackers_stole_flocks_camera_software_revealing/) (tier 4, seen_count=1) — 觀察中
+- [Iran strikes on Amazon data centers caused permanent loss of customer data](https://www.reddit.com/r/technology/comments/1wicbvw/iran_strikes_on_amazon_data_centers_caused/) (tier 4, seen_count=1) — 觀察中
 - [Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card - bill racked up in just three weeks was supposed to be one $20 promotion](https://www.reddit.com/r/technology/comments/1whzsye/devastated_father_says_his_9yearold_son_spent/) (tier 4, seen_count=1) — 觀察中
-- [Solar panel costs have plummeted from $6 per watt in 2000 to just 12 cents today](https://www.reddit.com/r/technology/comments/1whuktt/solar_panel_costs_have_plummeted_from_6_per_watt/) (tier 4, seen_count=1) — 觀察中
+- [Your Computer Might Demand Your Age Soon, No Matter Where You Live | New state laws are pushing age verification into macOS and Windows. By 2027, logging in might require a facial scan or government ID.](https://www.reddit.com/r/technology/comments/1wi8fn0/your_computer_might_demand_your_age_soon_no/) (tier 4, seen_count=1) — 觀察中
+- [Microsoft reportedly showed off an instant-loading File Explorer to Insiders](https://www.reddit.com/r/technology/comments/1wifb1z/microsoft_reportedly_showed_off_an_instantloading/) (tier 4, seen_count=1) — 觀察中
 - [PS5 Linux lead quits as open-source projects have become “a bunch of noobs using LLMs” that “they don’t even understand”](https://www.reddit.com/r/technology/comments/1wi0g93/ps5_linux_lead_quits_as_opensource_projects_have/) (tier 4, seen_count=1) — 觀察中
-- [Datacenter rush will create ‘tsunami’ of discarded electronics, report says](https://www.reddit.com/r/technology/comments/1whxaiw/datacenter_rush_will_create_tsunami_of_discarded/) (tier 4, seen_count=1) — 觀察中
-- [Records show police justified Flock license plate searches with answers like &quot;LMAO&quot; and &quot;idk&quot;](https://www.reddit.com/r/technology/comments/1whq4wh/records_show_police_justified_flock_license_plate/) (tier 4, seen_count=1) — 觀察中
-- [Apple Is Building a Way to Prove a Photo Is Real](https://www.reddit.com/r/technology/comments/1whrn79/apple_is_building_a_way_to_prove_a_photo_is_real/) (tier 4, seen_count=1) — 觀察中
-- [No One Can Believe The Current Price Of An Nvidia RTX 5090](https://www.reddit.com/r/technology/comments/1whv0pj/no_one_can_believe_the_current_price_of_an_nvidia/) (tier 4, seen_count=1) — 觀察中
+- [Scientists discover an amphibian gut bacterium 100% effective in destroying cancer cells in rats](https://www.reddit.com/r/technology/comments/1wiep12/scientists_discover_an_amphibian_gut_bacterium/) (tier 4, seen_count=1) — 觀察中
+- [Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works](https://www.reddit.com/r/technology/comments/1wigsrf/hackers_got_inside_a_flock_camera_its_data_shows/) (tier 4, seen_count=1) — 觀察中
+- [America Counting On Ignorant, Inattentive President To Save Us From Rogue AI](https://www.reddit.com/r/technology/comments/1wi8l4t/america_counting_on_ignorant_inattentive/) (tier 4, seen_count=1) — 觀察中
+- [Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works](https://www.reddit.com/r/technology/comments/1wi63ao/hackers_got_inside_a_flock_camera_its_data_shows/) (tier 4, seen_count=1) — 觀察中
+- [Meta is learning a lesson about camera glasses that Google learned more than 10 years ago](https://www.reddit.com/r/technology/comments/1wieen0/meta_is_learning_a_lesson_about_camera_glasses/) (tier 4, seen_count=1) — 觀察中
+- [AWS Says It Can’t Restore Some Data From Mideast Facilities Struck by Iran](https://www.reddit.com/r/technology/comments/1wi3gei/aws_says_it_cant_restore_some_data_from_mideast/) (tier 4, seen_count=1) — 觀察中
+- [California may gut state net neutrality law to comply with U.S President admin demand | U.S President admin broadband grants forbid states from enforcing net neutrality laws.](https://www.reddit.com/r/technology/comments/1wiel1g/california_may_gut_state_net_neutrality_law_to/) (tier 4, seen_count=1) — 觀察中
+- [Amazon increases wages, offers new Whole Foods discounts](https://www.reddit.com/r/technology/comments/1wi4thj/amazon_increases_wages_offers_new_whole_foods/) (tier 4, seen_count=1) — 觀察中
 - [Micron offers Taiwan employees $31,650 cash bonus as unions threaten strike over AI windfall - workers reject record payout package, demand 15% profit-sharing plan](https://www.reddit.com/r/technology/comments/1whyf0a/micron_offers_taiwan_employees_31650_cash_bonus/) (tier 4, seen_count=1) — 觀察中
-- [US data centers could consume more natural gas than Germany and Japan combined by 2035](https://www.reddit.com/r/technology/comments/1whvl9m/us_data_centers_could_consume_more_natural_gas/) (tier 4, seen_count=1) — 觀察中
-- [Jensen Huang said China isn’t spending time debating the AI apocalypse. We are, the Chinese internet says.](https://www.reddit.com/r/technology/comments/1whubxb/jensen_huang_said_china_isnt_spending_time/) (tier 4, seen_count=1) — 觀察中
-- [Dem leaders warn against AI companies policing themselves: &#x27;We need Congress to act&#x27;](https://www.reddit.com/r/technology/comments/1whvtvi/dem_leaders_warn_against_ai_companies_policing/) (tier 4, seen_count=1) — 觀察中
-- [Salesforce suffers global outage amid Dreamforce shindig](https://www.reddit.com/r/technology/comments/1wht6sp/salesforce_suffers_global_outage_amid_dreamforce/) (tier 4, seen_count=1) — 觀察中
-- [We don&#x27;t need AI regulation — leave safety to us, Nvidia&#x27;s Jensen Huang says](https://www.reddit.com/r/technology/comments/1whkh5c/we_dont_need_ai_regulation_leave_safety_to_us/) (tier 4, seen_count=1) — 觀察中
-- [Denuvo Sues Game Cracker &#x27;voices38&#x27; for Bypassing its Anti-Tamper DRM * TorrentFreak](https://www.reddit.com/r/technology/comments/1whuap9/denuvo_sues_game_cracker_voices38_for_bypassing/) (tier 4, seen_count=1) — 觀察中
-- [AI adoption could significantly boost economic output by 2030, with North America projected to gain 14.5% of GDP, developed Asia 18.25%, Europe 10.3%, Latin America 5.4%, and Africa, Oceania and other Asian markets 5.6%, according to the UN Economic - facebook.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaE5YZGdnTFRnVDNlTkh1TThmc3NSMG5aVWRQRUU0ajdiZEtKQzFFQl8xcW5fUUFUV1hzTjhJajR3UVh3eFgxNFFCS05ueE9rd2JVTFNINHBkakxNNGlxd1pzNlMwVWMxV3VsREdGUHRkaVppc3VIdmlPb3RuYTlseVNNenFBNWZPdGJadzh6V2F2dTEwdkxNLWJCUTdieTRIMXVZZVZnOUNxbmdoSXE4RUFNLVVoVTd2cVE4RWkyNlJYc0p0UUt4eUM3WUY5QzlfRHNLWjBzSW01UQ?oc=5) (tier 4, seen_count=1) — 觀察中
+- [Activision Blizzard sued by former employee over sexual harassment](https://www.reddit.com/r/technology/comments/1wibs9x/activision_blizzard_sued_by_former_employee_over/) (tier 4, seen_count=1) — 觀察中
+- [Scientists turn seawater into fresh water without harmful brine](https://www.reddit.com/r/technology/comments/1wi1tls/scientists_turn_seawater_into_fresh_water_without/) (tier 4, seen_count=1) — 觀察中
+- [OpenAI discloses six new AI misalignment incidents](https://www.reddit.com/r/technology/comments/1wie8eq/openai_discloses_six_new_ai_misalignment_incidents/) (tier 4, seen_count=1) — 觀察中
 - [By Sifiso Nhlabatsi EZULWINI – Artificial intelligence (AI) has the potential to accelerate economic development, improve public services and create new opportunities for businesses across the Common Market for Eastern and Southern Africa (COMESA) regio - facebook.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbGN0UXJtSS1mRzJjMEo5UFE3QWVJc0R3dFlCSF9lQTdhdDVVMzJwLWhHazZreldvSW9POHU4S1RPLWZiWFhqSDBtcTB6YXV0UjYyYkdyVWJGVWk5T1VYckF2dzhOSmxyWUhYNC05ck5TWHdqU19udFF1bm82QlJvNTBtTmF5d21RWFc1OFdQNFRvNTZ0ZHNqSUpIbGoyNHp4MWg3azhsaFNhMkhpcnNYQ1Jta2IzTnZ0QVVZQmFIMWRoRkUtLXdiRXhSdFFtLUtCSXhxR1lIbV83MW93V093NXh0Z1g?oc=5) (tier 4, seen_count=1) — 觀察中
-- [[Tech Trends] Bund Conference 2026: A Shared Brain Enables Multitasking Embodied AI The 2026 Inclusion·Bund Conference, themed &quot;Co-creating the AI New Economy,&quot; recently took place in Shanghai, drawing over 300 exhibitors. This year&#x27;s robotics zone - facebook.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOd3BWaU9fT0o2bnRTU1Y4VDd4REotUl9hYVdVaDNqakdNZnB2bndHVTdPbVVEUFA5bFRVSlRJZGdZU1ZseGNqQ0JoSHlZQTdTeXlCa2F5T3ExdVAzNkJZSjJFYUpWZ1drX1VMc3JkYy1vWmd2QngxNGMwQVJYelAwNHRaTDlxczdBNFlUM3h5eXlRM2Nfb1VLZTFIeFZ4OU9SVjB5WXVveTQxcXgya1dVeFhnWEdnN2FxYU1fR3BjeXR1R01OSTZrLVVUZzFOWUNMMHVJaTVyM0hHal92R3l6WnhrZGY?oc=5) (tier 4, seen_count=1) — 觀察中
-[查看此分類的獨立存檔頁面](./history/2026-09-16_16-38/index.html#Social-Sentiment)
+- [From semiconductors and advanced packaging to cooling systems, specialised hardware and AI applications, Malaysian companies are racing to capture a larger share of the AI value chain. “Data centres are the foundation, not the final product,” says Agmo fo - facebook.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxONm9GOUZ4NFdhNVA2TkJ2cnkzX3ZEem5uTTBGa3lmRjdfUDYxX2tHRHExMUx1T3NxY21RWW1vZzljOHBrbldhN0d4Z3UwSE54RXVxcDNNTmZjWGZta1N6Ni1ydGdYOTc5QmNmdHJvYTg2S0xxczBWenNjenNOQVNPM3RtVWZKejdueUsxT2o4WTRhR2hjamptLTg5TmJTZE9PRk5UVUc4ZzFLU1NuekFYTzV0em9hQUpralJUQnMwLVRrR2FENkpxQVNWT3cwUXlIbFF5b2h5ODJtZUFSUGgw?oc=5) (tier 4, seen_count=1) — 觀察中
+[查看此分類的獨立存檔頁面](./history/2026-09-17_04-32/index.html#Social-Sentiment)
 
