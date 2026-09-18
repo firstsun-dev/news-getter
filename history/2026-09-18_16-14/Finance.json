@@ -1,0 +1,224 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-09-18_16-14",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "US manufacturing output falls in August after rising for seven straight months",
+      "url": "https://www.investing.com/news/economic-indicators/us-manufacturing-output-falls-in-august-after-rising-for-seven-straight-months-4907507",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Cross-border property investment jumped 56% in first half, data shows",
+      "url": "https://www.investing.com/news/economic-indicators/crossborder-property-investment-jumped-56-in-first-half-data-shows-4907283",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "U.S. Industrial Production Stagnates, Misses Forecast",
+      "url": "https://www.investing.com/news/economic-indicators/us-industrial-production-stagnates-misses-forecast-93CH-4907455",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Euro zone current account surplus narrows in July",
+      "url": "https://www.investing.com/news/economic-indicators/euro-zone-current-account-surplus-narrows-in-july-4906808",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Euro zone consumers nudge up inflation expectations, ECB poll shows",
+      "url": "https://www.investing.com/news/economic-indicators/euro-zone-consumers-nudge-up-inflation-expectations-ecb-poll-shows-4906810",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "China’s January-August fiscal revenue up 5.7% year-on-year",
+      "url": "https://www.investing.com/news/economic-indicators/chinas-januaryaugust-fiscal-revenue-up-57-yearonyear-4906821",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "UK retail sales rebound in August as department stores recover",
+      "url": "https://www.investing.com/news/economic-indicators/uk-retail-sales-rebound-in-august-as-department-stores-recover-4906728",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Oil pares losses as market weighs Saudi supply concerns, Middle East tensions",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-fall-1-on-hopes-of-limited-supply-disruptions-4906600",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Factbox-What will Trump and Xi discuss in Washington next week?",
+      "url": "https://www.investing.com/news/economic-indicators/factboxwhat-will-trump-and-xi-discuss-in-washington-next-week-4906468",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "LNG tanker hit by suspected cyberattack in Mediterranean Sea",
+      "url": "https://www.investing.com/news/commodities-news/lng-tanker-hit-by-suspected-cyberattack-in-mediterranean-sea-4907549",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Gold pares back gains as oil prices trim losses",
+      "url": "https://www.investing.com/news/commodities-news/gold-rises-as-lower-oil-treasury-yields-ease-inflation-pressure-4906609",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Oil trims losses as investors assess outlook for Mideast crude supply flows",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-fall-for-3rd-day-as-supply-concerns-ease-diplomacy-in-focus-4906634",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Naphtha prices in Asia drop for third day amid oil weakness",
+      "url": "https://www.investing.com/news/commodities-news/naphtha-prices-in-asia-drop-for-third-day-amid-oil-weakness-93CH-4907338",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Morning Bid: Apocalypse later",
+      "url": "https://www.investing.com/news/commodities-news/morning-bid-apocalypse-later-4907032",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "What Fed rate hikes mean for gold prices in 2027, according to Goldman",
+      "url": "https://www.investing.com/news/commodities-news/what-fed-rate-hikes-mean-for-gold-prices-in-2027-according-to-goldman-4907014",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Venezuela nears deal to move $4 billion gold reserve to New York, FT says",
+      "url": "https://www.investing.com/news/commodities-news/venezuela-nears-deal-to-move-4-billion-gold-reserve-to-new-york-ft-says-4906665",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "European natural gas set to snap five-week winning streak",
+      "url": "https://www.investing.com/news/commodities-news/european-natural-gas-set-to-snap-fiveweek-winning-streak-4906705",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Factbox-Texas power plant, nuclear projects under discussion in South Korea’s US investment package",
+      "url": "https://www.investing.com/news/commodities-news/factboxtexas-power-plant-nuclear-projects-under-discussion-in-south-koreas-us-investment-package-4906807",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Fed report finds it was ‘too timid’ in tackling risks at Silicon Valley Bank",
+      "url": "https://www.ft.com/content/98c6db91-44c7-487e-a733-331a58766ba1?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Court shines a further light on who was at fault in SVB implosion",
+      "url": "https://www.ft.com/content/24dc8ce0-5331-4280-ad85-c2dddcef429d?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Former Wells Fargo asset manager Allspring explores $4bn sale",
+      "url": "https://www.ft.com/content/1270032d-25e9-4be0-aa2f-5205b9bedd08?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Why Scott Bessent should pay attention to Turkey’s market scandal",
+      "url": "https://www.ft.com/content/d6adb7bb-72b4-47d1-b3bd-11e908d06b60?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Come on Latin America, you owe me one",
+      "url": "https://www.ft.com/content/0649f3dd-e473-4174-ad1d-b01a93923bd3?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Turkey moves to liquidate funds at centre of ‘Ponzi-like scheme’",
+      "url": "https://www.ft.com/content/3943277e-eaf8-4faf-9f9c-1c05cb2ba992?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Venezuela nears deal to tap disputed $4bn gold reserve",
+      "url": "https://www.ft.com/content/8f1f3047-372d-425f-bcd6-cfe9d5d4890c?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Why Al Gore welcomes China’s ‘unilateral leadership’ on climate",
+      "url": "https://www.ft.com/content/ff7ca130-d25c-4294-b654-0aa8a79268ab?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Yen sinks after BoJ raises rates to highest level since 1995",
+      "url": "https://www.ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "The QT endgame at the BoE",
+      "url": "https://www.ft.com/content/901d5aca-e0ab-4728-8a24-6b0e616c5139?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "The new credit debacle gripping Wall Street",
+      "url": "https://www.ft.com/content/a117a105-545e-45a9-b4a1-7d03f7b4082b?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Europe can attract more stock trading with fewer, better markets",
+      "url": "https://www.ft.com/content/fa36c637-05fd-4669-8784-0ada6f671f39?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Will El Niño be the saviour of Europe’s energy market?",
+      "url": "https://www.ft.com/content/19309369-2741-4caf-91f9-a45505f82148?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Inside Glencore’s $2bn battle with iron ore trader Radiant",
+      "url": "https://www.ft.com/content/350df9ff-fa41-4984-a1ee-248d8335b213?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Iran activates land routes to bypass US blockade",
+      "url": "https://www.ft.com/content/f69943f7-b173-444c-a79e-c9396a0380bd?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "The real risk of private credit’s involvement in the pension business",
+      "url": "https://www.ft.com/content/b420f86e-4266-432a-b2a1-cf1cde516463?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Private equity turns to financial engineering to lure insurance billions",
+      "url": "https://www.ft.com/content/9c6fac10-9f3f-4503-9765-b9e29e18c68d?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "OpenAI’s listing delay raises stakes for SoftBank’s $50bn data centre IPO",
+      "url": "https://www.ft.com/content/6c467774-9d91-425e-a901-26db055e37ad?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
