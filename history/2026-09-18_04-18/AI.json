@@ -1,0 +1,1982 @@
+{
+  "category": "AI",
+  "timestamp": "2026-09-18_04-18",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+      "url": "https://arxiv.org/abs/2609.19170",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+      "url": "https://arxiv.org/abs/2609.19180",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+      "url": "https://arxiv.org/abs/2609.19182",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
+      "url": "https://arxiv.org/abs/2609.19212",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+      "url": "https://arxiv.org/abs/2609.19244",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
+      "url": "https://arxiv.org/abs/2609.19203",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Do AI Agents Understand Computer Architecture?",
+      "url": "https://arxiv.org/abs/2609.19387",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
+      "url": "https://arxiv.org/abs/2609.19391",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
+      "url": "https://arxiv.org/abs/2609.19425",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "The syntax and semantics of goals",
+      "url": "https://arxiv.org/abs/2609.19448",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Compositional Reasoning in Language Models under Reinforcement Learning Post-Training",
+      "url": "https://arxiv.org/abs/2609.19465",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Safety Beyond the Interface: Detecting Harm via Latent States in Large Language Models",
+      "url": "https://arxiv.org/abs/2609.19472",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "QVAC Genesis III: A Large-Scale, High-Quality Open Synthetic STEM Corpus for Efficient Language Model Pre-Training",
+      "url": "https://arxiv.org/abs/2609.19513",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "LLM-as-an-Improver: Turning Verification into Better Candidates",
+      "url": "https://arxiv.org/abs/2609.19515",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "An Architecture for Long-Horizon Agents: Levels, Ticks and Cascaded Intelligence",
+      "url": "https://arxiv.org/abs/2609.19519",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "EconSkills: Studying Skill Transfer and Retrieval for Web Agents on Live Economic Data",
+      "url": "https://arxiv.org/abs/2609.19523",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal Systems",
+      "url": "https://arxiv.org/abs/2609.19524",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Self Improvement via Fast Tree-search",
+      "url": "https://arxiv.org/abs/2609.19526",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "When Hiring Becomes Agent-Mediated: Evaluating Access and Recurrence in Two-Agent R\\'esum\\'e Screening",
+      "url": "https://arxiv.org/abs/2609.19530",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Agentic AI Networking for Heterogeneous Unmanned Aerial Systems in Low-Altitude Wireless Networks",
+      "url": "https://arxiv.org/abs/2609.19538",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Continual Enterprise World Model Discovery in Dynamic Systems",
+      "url": "https://arxiv.org/abs/2609.19551",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "SIMLIFE: Pattern Understanding for Long-Horizon Human-Agent Partnership",
+      "url": "https://arxiv.org/abs/2609.19610",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "From Intent to Action: Benchmarking LLM Safety in Vehicle Voice Command Authorization",
+      "url": "https://arxiv.org/abs/2609.19630",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Reach or Solve? Attributing Agentic RL Gains with Checkpoint Handoffs",
+      "url": "https://arxiv.org/abs/2609.19636",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "ScientistTwo: Pioneering the Human Knowledge Frontier with Autonomous AI",
+      "url": "https://arxiv.org/abs/2609.19644",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Replan, Repair, or Edit? A Unified Empirical Evaluation of Travel Agents for Itinerary Revision under Resource Disruptions",
+      "url": "https://arxiv.org/abs/2609.19654",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "When2Think: Learning Difficulty-Aware Length Control for Efficient Hybrid Reasoning Models",
+      "url": "https://arxiv.org/abs/2609.19671",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "FINSKILLOPS: A Self-Evolving Multi-Agent System for SEC Filing QA",
+      "url": "https://arxiv.org/abs/2609.19680",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "LearnActCoder: Role-Aware Error Memory for Adaptive Clinical Coding Agents",
+      "url": "https://arxiv.org/abs/2609.19721",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "AutoData: Agentic Search for Pre-training Data Selection",
+      "url": "https://arxiv.org/abs/2609.19754",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Rethinking Multi-Agent Collaboration: When More Is Less",
+      "url": "https://arxiv.org/abs/2609.19759",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "TorchCraft: Unified binder design by inverting an all-atom structure predictor",
+      "url": "https://arxiv.org/abs/2609.19770",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Integrating knowledge from case reports: a medical ontology based multimodal information system with structured summary",
+      "url": "https://arxiv.org/abs/2609.19775",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Contagion on the Trading Floor: How Adversarial Signals Spread in Multi-Agent Trading Systems",
+      "url": "https://arxiv.org/abs/2609.19789",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Steering Equilibrium Selection in Regularized Self-Play via the Reference Policy",
+      "url": "https://arxiv.org/abs/2609.19820",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Dual-Axis Policy Optimization for LLM Agents: Bayesian Feedback Attribution and Trajectory Mass Normalization",
+      "url": "https://arxiv.org/abs/2609.19830",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "MetaRTL: Meta-path Attention Enhanced Relational Table Learning",
+      "url": "https://arxiv.org/abs/2609.19832",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "A Dual-Process Perspective on Nudge Susceptibility in LLM-Based GUI Agents",
+      "url": "https://arxiv.org/abs/2609.19843",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Constraint-Safe Graph-Context Scoring for Stable Point-Feature Labels Under Text-Width and Accessibility-Inspired Profiles",
+      "url": "https://arxiv.org/abs/2609.19848",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Reproducibility is not construct validity: LLM measurement of institutionally situated communication",
+      "url": "https://arxiv.org/abs/2609.19866",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Physical knowledge on historical data matters more than enforcing physical constraints on the forecast",
+      "url": "https://arxiv.org/abs/2609.19871",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "TRACE: Accountable Agentic Retrieval for Source Discovery in Digital Archives",
+      "url": "https://arxiv.org/abs/2609.19897",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "From \"Who Is This User?\" to \"What Does This Purchase Mean?\": A Deployed Pipeline for Semantic User Profiling at Bank Scale",
+      "url": "https://arxiv.org/abs/2609.19928",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Beyond Depth Truncation: Controlled Evaluation of Depth Utilization in Recursive Language Models",
+      "url": "https://arxiv.org/abs/2609.19934",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "MaSCoD: A Multi-Agent Framework for Structural-Context-Guided Candidate Causal Graph Generation",
+      "url": "https://arxiv.org/abs/2609.19944",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Not All AI Agents Are Equal: Characterizing Resource and Performance Dynamics",
+      "url": "https://arxiv.org/abs/2609.19947",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Neuro-Symbolic Agentic AI for Networked Low-Altitude UAVs",
+      "url": "https://arxiv.org/abs/2609.19961",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Customizable and Jointly Optimized Route Planning: A Deep Architecture Enabling Differentiable Shortest-Path Search",
+      "url": "https://arxiv.org/abs/2609.19996",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "E-AVI: Evidence-Grounded Multimodal Assessment for Automated Video Interviews",
+      "url": "https://arxiv.org/abs/2609.20001",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Geopolitical Divisions Across Languages in Large Language Models",
+      "url": "https://arxiv.org/abs/2609.20005",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "FedeRICo: Federated Region-Influenced Coupling for Traffic Flow Prediction",
+      "url": "https://arxiv.org/abs/2609.20026",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Can Data Attribution Filter Out Subliminal Learning? Not Reliably",
+      "url": "https://arxiv.org/abs/2609.20027",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "DART: Distillation-Aware Reparameterization for Training-Free LoRA Reuse in Few-Step Video Diffusion Models",
+      "url": "https://arxiv.org/abs/2609.20051",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "MAGMA-GEN: Validated Recovery Supervision from Ambiguous Failures via Counterfactual Re-Execution",
+      "url": "https://arxiv.org/abs/2609.20056",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "WiCleanData: Guaranteeing the Type Consistency of Wikidata by Taxonomy Refinement and Constraint Enforcement",
+      "url": "https://arxiv.org/abs/2609.20057",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "FCA-Guided Counterfactual Explanations for Multi-Modal Breast Cancer Diagnosis: A Framework Achieving Perfect Validity with Emergent Sparsity",
+      "url": "https://arxiv.org/abs/2609.20067",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Marginal utility, matrix factorization, and the Key-Value (KV) cache: a unified information-economic framework for sovereign geo-mining inference",
+      "url": "https://arxiv.org/abs/2609.20068",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Tailored to you: longitudinal effects of personalising language models",
+      "url": "https://arxiv.org/abs/2609.20077",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "A Proposal for an Agentic AI Architecture to Support Multi-Domain Decision-Making in the Brazilian Armed Forces",
+      "url": "https://arxiv.org/abs/2609.20080",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "UnifiedPlayers: Enhance Tool-Integrated Reasoning in Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.20089",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Solving Minimum Span Antibandwidth and Cyclic Antibandwidth Labeling Problems",
+      "url": "https://arxiv.org/abs/2609.20091",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Perception, Layout, and Validation: Calibrated Confidence for Reliable Straight-Through Processing of Financial Documents",
+      "url": "https://arxiv.org/abs/2609.20110",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "MTVA-Bench: Evaluating the Language Model Inside Cascaded Voice Agents",
+      "url": "https://arxiv.org/abs/2609.20152",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "PaGNet: A Panel-Aware GBDT--Neural Network for Multi-Target Corporate Tax Avoidance Proxy Forecasting",
+      "url": "https://arxiv.org/abs/2609.20177",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Sequential Contextual Fit Predicts Human Behavioural and Neural Dynamics Across Domains",
+      "url": "https://arxiv.org/abs/2609.20179",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "JointMatch: A Unified Heterogeneous Graph Neural Solver for Large-Scale Ride-Sharing Matching",
+      "url": "https://arxiv.org/abs/2609.20200",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "When AI Agents Commit: Cognitive Serializability Across Data, Evidence, Policy, and Authority",
+      "url": "https://arxiv.org/abs/2609.20261",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "AI-Driven Real-Time Relay Optimisation in Smart Urban NR-V2X Networks via Learning-to-Optimise Graph Neural Networks",
+      "url": "https://arxiv.org/abs/2609.20271",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "JEPA-WAM: Connecting Generated Visual Instructions to World Action Models through JEPA Latent Representations",
+      "url": "https://arxiv.org/abs/2609.20277",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "AgentPProf: Semantic Profiler for Long Horizon AI Agents",
+      "url": "https://arxiv.org/abs/2609.20301",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Diagnose, Recover, Certify: Task Readiness under Hidden Dynamics Changes",
+      "url": "https://arxiv.org/abs/2609.20304",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "NeuSOGA3D: A Neuro-Symbolic Framework for Explainable 3D Geometric Reconstruction",
+      "url": "https://arxiv.org/abs/2609.20323",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Structured Four-Stage Legal Translation: From Natural-Language Traffic Rules to PROLOG",
+      "url": "https://arxiv.org/abs/2609.20334",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "A Qualitative Model for Reasoning about Path and Support",
+      "url": "https://arxiv.org/abs/2609.20349",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model",
+      "url": "https://arxiv.org/abs/2609.20358",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "The Organization of Inference: Information, Resource Constraints, and AI Production",
+      "url": "https://arxiv.org/abs/2609.20449",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "SkillAA: Attribution-Guided Skill-Graph Updating with Targeted Validation and Rollback",
+      "url": "https://arxiv.org/abs/2609.20455",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "How Do Agent Harnesses Create Value? Planning Information and Release Control in Stateful LLM Agents",
+      "url": "https://arxiv.org/abs/2609.20474",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+      "url": "https://arxiv.org/abs/2609.20519",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "FreqCondNorm: Towards Cross-domain Predictive Maintenance through a Frequency-Conditioned Transformer Foundation Model",
+      "url": "https://arxiv.org/abs/2609.20535",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Refuse, Decompose, Refresh: A Claim-Safe Protocol for Closed-Loop AI Evaluation",
+      "url": "https://arxiv.org/abs/2609.20538",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Language-model groups overstate consensus when replaying human deliberation on a reasoning task",
+      "url": "https://arxiv.org/abs/2609.20543",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Limits of Confidence in Diffusion",
+      "url": "https://arxiv.org/abs/2609.20581",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "PAA: The Probabilistic Allen Algebra: A Generative and Complete Probabilistic Extension of Allen's Interval Relations",
+      "url": "https://arxiv.org/abs/2609.20634",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Ownership in AI-Assisted Everyday Tasks",
+      "url": "https://arxiv.org/abs/2609.20658",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models",
+      "url": "https://arxiv.org/abs/2609.20722",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Q&A on Any Spreadsheet Requires Interpreting Its Grid Structure",
+      "url": "https://arxiv.org/abs/2609.20732",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "RAFT: A Stateful Retrieval-Augmented Framework for Troubleshooting Agents",
+      "url": "https://arxiv.org/abs/2609.20754",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "url": "https://arxiv.org/abs/2609.20804",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Optimal Transport Metric Learning for Feature Alignment in Partially Supervised Segmentation",
+      "url": "https://arxiv.org/abs/2609.19176",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Code-as-Auditor: Executable Compliance Reasoning via Regulation-to-Code",
+      "url": "https://arxiv.org/abs/2609.19199",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "REACT: A Fully Spiking State-Space Model for Real-Time Event-Driven Temporal Perception",
+      "url": "https://arxiv.org/abs/2609.19204",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "MeshKV: A Network-on-Chip KV Cache Fabric for Scalable Transformer Decoding Accelerators",
+      "url": "https://arxiv.org/abs/2609.19207",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Not All Nodes Are Created Equal: Homophily-Aware Stratification for Stable GNN Evaluation",
+      "url": "https://arxiv.org/abs/2609.19210",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Layer-wise Curriculum Learning for Efficient LLM Compression",
+      "url": "https://arxiv.org/abs/2609.19213",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Perceptual Refinement of an End-to-End Video Streaming Pipeline via Generative AI Layers",
+      "url": "https://arxiv.org/abs/2609.19215",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "PAPC: Platform Mediation for Privacy-Propagation Externalities in AI-Mediated Workflows",
+      "url": "https://arxiv.org/abs/2609.19226",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "The AR Fairness Metamodel: A Structured Framework for Fairness Measures",
+      "url": "https://arxiv.org/abs/2609.19234",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "YNU-HPCC at SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Using Multiple Prediction Headers",
+      "url": "https://arxiv.org/abs/2609.19238",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Robust Conformal Intrusion Detection via Traffic-Aware Calibration and Attack-Orbit Invariance",
+      "url": "https://arxiv.org/abs/2609.19241",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Randomized SVD Approximations for Spectral Co-Clustering of Word-Document Matrices",
+      "url": "https://arxiv.org/abs/2609.19243",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Physics-Informed Hemodynamic Modeling for Data-Free Prediction and Sparse-Data Assimilation",
+      "url": "https://arxiv.org/abs/2609.19290",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Why Pretraining Fails to Share Cross-Lingual Knowledge",
+      "url": "https://arxiv.org/abs/2609.19291",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "GAVEL: Graph World Models for Verified and Efficient Long-Horizon LLM Task Planning",
+      "url": "https://arxiv.org/abs/2609.19315",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "AUDITPLAN: Commit, Then Answer for Auditable Safety Alignment",
+      "url": "https://arxiv.org/abs/2609.19325",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Kinematics-Grounded Agentic AI for Robotic Additive Manufacturing Process Planning",
+      "url": "https://arxiv.org/abs/2609.19347",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Can Vision-Language Models Judge Olympic Diving? From Reasoning to Scores in Zero-Shot Action Quality Assessment",
+      "url": "https://arxiv.org/abs/2609.19354",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "How to Guide Your Language Flow",
+      "url": "https://arxiv.org/abs/2609.19356",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "LinePilot Digitizer: Line-Plot Recovery with Manual and Automatic Calibration",
+      "url": "https://arxiv.org/abs/2609.19377",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Riemannian--Lorentz Fusion of Vision Transformers and State-Space Models",
+      "url": "https://arxiv.org/abs/2609.19384",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Efficient Nash Equilibrium Computation for Cybersecurity Games",
+      "url": "https://arxiv.org/abs/2609.19399",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "From Rollout to Reset: A Graph-Based Harness for Autonomous Long-Horizon Manipulation Evaluation",
+      "url": "https://arxiv.org/abs/2609.19413",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Predict Before You Deploy: Offline Prediction of Quantization-Induced Task Degradation for World Action Models",
+      "url": "https://arxiv.org/abs/2609.19441",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "From Models to Systems: A Comprehensive Survey of Efficient Multimodal Learning",
+      "url": "https://arxiv.org/abs/2609.19445",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Efficiently Linking Unstructured Data for Multi-step Reasoning",
+      "url": "https://arxiv.org/abs/2609.19491",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "For Your Eyes Only: Evaluating Coordination Between Isolated Language Model Instances",
+      "url": "https://arxiv.org/abs/2609.19504",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "CoreSense: Traceable Failure Recall and Conflict-Aware Belief Gating for Auditable Robot Decisions",
+      "url": "https://arxiv.org/abs/2609.19512",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "AURORA: A Natural Language-Driven Agentic Framework for Understanding, Reasoning, and Orchestrating Reliable Air-Ground Co-Simulation",
+      "url": "https://arxiv.org/abs/2609.19527",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Detecting Soft Errors in Parallel Software with LLM-tuned Instruction Duplication",
+      "url": "https://arxiv.org/abs/2609.19531",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Compressed Active Subspaces for Scalable Bayesian Inference",
+      "url": "https://arxiv.org/abs/2609.19539",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "A Multi-Modal Generative Model for Tomato Disease Leaves Understanding",
+      "url": "https://arxiv.org/abs/2609.19555",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Large Language Model Agents for Evidence Based Genetic Disease Severity Classification",
+      "url": "https://arxiv.org/abs/2609.19569",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "CliniCIRCA: A Modular LLM Framework for Constructing Longitudinal Mental Health Patient Journeys from Raw EHR Narratives",
+      "url": "https://arxiv.org/abs/2609.19585",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents",
+      "url": "https://arxiv.org/abs/2609.19587",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Form Over Content In Gradient-Based Data Attribution Methods",
+      "url": "https://arxiv.org/abs/2609.19589",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "DeltaSelect: Affordable A/B Testing for Coding Agents",
+      "url": "https://arxiv.org/abs/2609.19607",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "TacSushi: Tactile-Grounded World-Action Modeling for Dexterous Sushi Manipulation",
+      "url": "https://arxiv.org/abs/2609.19613",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Semantic Layer Induction from Raw Telemetry via Hierarchical LLM and RAG Abstraction",
+      "url": "https://arxiv.org/abs/2609.19615",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education",
+      "url": "https://arxiv.org/abs/2609.19617",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Self-Evolving Search Index",
+      "url": "https://arxiv.org/abs/2609.19656",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "SoK: Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes",
+      "url": "https://arxiv.org/abs/2609.19705",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Learn Your Own Thoughts: Abstract Token Curriculum",
+      "url": "https://arxiv.org/abs/2609.19717",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Evolution or Illusion? Rethinking Evaluation in LLM Evolutionary Search",
+      "url": "https://arxiv.org/abs/2609.19799",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Long-horizon autoformalization of a core theorem underlying MIP* = RE",
+      "url": "https://arxiv.org/abs/2609.19814",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "CoRELoop: Parameter-Efficient Controlled Recurrent Refinement for Audio Deepfake Detection",
+      "url": "https://arxiv.org/abs/2609.19818",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Reproducing Transparent and Scrutable Recommendations: Exploring Open-Weight Models via Natural-Language User Profiles",
+      "url": "https://arxiv.org/abs/2609.19831",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Trust, but Validate the Instrument: Auditing AI-Generated RTL Verification Plans on Authored Security-Regression Proxies",
+      "url": "https://arxiv.org/abs/2609.19844",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Improving Cross-embodiment Transfer in Latent Action Models with Action-Similarity Supervision",
+      "url": "https://arxiv.org/abs/2609.19846",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "PACE: Precise AI Cinematic Expression: A Typed Specification for Script-Grounded Previsualization and Geometric Conformance",
+      "url": "https://arxiv.org/abs/2609.19853",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "A Functional Pilot for Certified Freshness-Aware Semantic--Spatial Range Retrieval",
+      "url": "https://arxiv.org/abs/2609.19855",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Zarya: A Hybrid Autoregressive--Masked Diffusion Language Model with Flexible Training and Dual-Mode Inference",
+      "url": "https://arxiv.org/abs/2609.19868",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "PetriBench: Benchmarking LLM Reasoning over Dynamic State Spaces",
+      "url": "https://arxiv.org/abs/2609.19883",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "ClashBench: Conflicts Leading Agents to Seize and Harm",
+      "url": "https://arxiv.org/abs/2609.19892",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Learning and Transferring Closed-Loop Robot Software",
+      "url": "https://arxiv.org/abs/2609.19906",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "KoNeoBench: A Curated Evaluation Dataset for LLM Understanding of Korean Neologisms",
+      "url": "https://arxiv.org/abs/2609.19916",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Efficiently Distributed Federated Learning",
+      "url": "https://arxiv.org/abs/2609.19972",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "MaskHarness-WAM: Instance-Grounded Harnessing for Long-Horizon Robot Manipulation",
+      "url": "https://arxiv.org/abs/2609.19974",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Past, Future, All at Once: Mitigating Stability-Plasticity Dilemma via Post-hoc JANUS Rectification",
+      "url": "https://arxiv.org/abs/2609.19985",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "AVTrace: Diagnosing Audio-Visual Temporal Reasoning in Omni Models",
+      "url": "https://arxiv.org/abs/2609.19991",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "EPIG-Tree: Compute-Optimal Branching for Gradient-Efficient Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.20004",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Dynamic Generalized Gromov-Wasserstein Optimal Transport",
+      "url": "https://arxiv.org/abs/2609.20008",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Governance-as-Code: Translating EU AI Act Technical Requirements into Executable Compliance Pipelines for Generative AI Systems",
+      "url": "https://arxiv.org/abs/2609.20016",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Astronex-World 1.0: Real-Time Interactive World Model Foundation",
+      "url": "https://arxiv.org/abs/2609.20034",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Correct Now, Insufficient Later: Auditing Update Sufficiency in Context Compression",
+      "url": "https://arxiv.org/abs/2609.20045",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "The Missing Complement: State-Conditioned Minimal Sufficient Evidence for Coding Agents",
+      "url": "https://arxiv.org/abs/2609.20050",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "AI Should Facilitate Democratic Deliberation at Scale",
+      "url": "https://arxiv.org/abs/2609.20059",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Robust Workflow Generation via Adversarial Learning for Audio Deepfake Detection",
+      "url": "https://arxiv.org/abs/2609.20063",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "PointEvent: Rethinking Event-based Tiny Object Detection via Serialized Motion Evidence Accumulation",
+      "url": "https://arxiv.org/abs/2609.20066",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Reading Emotions in the Token Space: Discriminative Adaptation of SpeechLLMs for Emotion Recognition",
+      "url": "https://arxiv.org/abs/2609.20081",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "MATCH: Model-Aware Tool Learning with Curriculum Scheduling and Hierarchically Gated Rewards",
+      "url": "https://arxiv.org/abs/2609.20082",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "A Scalable Trust Discovery Architecture for the Internet of Agents",
+      "url": "https://arxiv.org/abs/2609.20095",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Multi-Dimensional Prosody Judgment For Live Streaming Speech Synthesis",
+      "url": "https://arxiv.org/abs/2609.20124",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Local Sparsity Enables Unsupervised LLM Safety Detection",
+      "url": "https://arxiv.org/abs/2609.20129",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "AdaRepair-Mem: Adaptive Experience Orchestration for Repository-Level Program Repair",
+      "url": "https://arxiv.org/abs/2609.20130",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Cross-Modal Attention Acts as a Frequency Filter: Why Verbose Prompts Improve Robustness in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2609.20139",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants",
+      "url": "https://arxiv.org/abs/2609.20143",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Bridging Modalities on the Cortex: Surface-based MRI to PET Translation with a Diffusion Bridge",
+      "url": "https://arxiv.org/abs/2609.20147",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "QUALS: Corpus Equilibrium for Universal Forecasting via Pattern Quantization and Learnability Synchronization",
+      "url": "https://arxiv.org/abs/2609.20156",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "FacetCRS: Multi-Faceted Preference Learning for Pricking Filter Bubbles in Conversational Recommender System",
+      "url": "https://arxiv.org/abs/2609.20175",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "VLN on the Fly: An Onboard Vision-Language Navigation Stack for Aerial Robots",
+      "url": "https://arxiv.org/abs/2609.20191",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "SoftTri: Smooth Triangular Membership Functions for Adaptive Fuzzy Inference Systems",
+      "url": "https://arxiv.org/abs/2609.20194",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Music Hallucination in Audio-Language Models: A Hierarchical Formulation and Empirical Study",
+      "url": "https://arxiv.org/abs/2609.20195",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Scene-Conditioned Relation Routing for urban cellular activity forecasting",
+      "url": "https://arxiv.org/abs/2609.20209",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Is It Still Worth Training a Classical Model in the Era of LLMs? A Crossover Benchmark on Tabular Data",
+      "url": "https://arxiv.org/abs/2609.20218",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Self-complementary completions on six vertices",
+      "url": "https://arxiv.org/abs/2609.20231",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Lens: Bringing the Right Semantic Perspective into Focus for Training-Free Multimodal Representation Learning",
+      "url": "https://arxiv.org/abs/2609.20252",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Risk-Set Transported Synthetic Control with Difference-in-Differences Adjustment under Staggered Treatment Adoption",
+      "url": "https://arxiv.org/abs/2609.20264",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "CleanVideo: Adaptive Concept Erasure for Text-to-Video Diffusion Models",
+      "url": "https://arxiv.org/abs/2609.20267",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "A Hybrid Gaze-Motor Imagery BCI Framework for Effective Decision Communication",
+      "url": "https://arxiv.org/abs/2609.20273",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "A Multi-Objective Optimisation Framework for Corticomuscular EEG-EMG Pair Selection in Hybrid BCI",
+      "url": "https://arxiv.org/abs/2609.20275",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Labeled Incidence Structures for Native Transformer Modeling of Text, Knowledge Graphs, and Hypergraphs",
+      "url": "https://arxiv.org/abs/2609.20278",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Human and AI-generated texts between modal logic and statistics",
+      "url": "https://arxiv.org/abs/2609.20311",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "LLM-Guided Transformation of Non-Critical Driving Scenes into Safety-Critical Scenarios Using Augmented Reality",
+      "url": "https://arxiv.org/abs/2609.20318",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "STR-Agent: An LLM-Driven Agent for QoS-Aware Routing in LEO Satellite Networks",
+      "url": "https://arxiv.org/abs/2609.20347",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Accelerating Sharded Data Parallelism at Scale with Federated Learning",
+      "url": "https://arxiv.org/abs/2609.20359",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Xeno-Interpretability: Investigating the Alien Minds of LLMs",
+      "url": "https://arxiv.org/abs/2609.20408",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Stress-testing Alignment Midtraining",
+      "url": "https://arxiv.org/abs/2609.20412",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "TouchSight: Bare-Handed Tactile Prediction from Egocentric Video via Generative Visual Augmentation",
+      "url": "https://arxiv.org/abs/2609.20414",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "SCGFM-ART: Amortized Relational Transport for Structure-Centric Graph Foundation Models",
+      "url": "https://arxiv.org/abs/2609.20419",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "When Do Language-Grounded Explanations Help? A Graph-Bottleneck for Farm Monitoring Interpretable Sheep Facial Pain",
+      "url": "https://arxiv.org/abs/2609.20427",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "A Mathematical Model of Motivated Emotional Mind - Cognitive Embodied System",
+      "url": "https://arxiv.org/abs/2609.20437",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Fingerprinting Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2609.20457",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Deep Learning-Based Classification of Cognitive and Resting States Using Electroencephalography Signals",
+      "url": "https://arxiv.org/abs/2609.20467",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "greCAPTCHA: Assessing Understanding as Evidence of Research Authorship Under Generative AI",
+      "url": "https://arxiv.org/abs/2609.20481",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Edustories: A Collection of Real-world Case Studies from Classroom Practices",
+      "url": "https://arxiv.org/abs/2609.20484",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Model-Agnostic and Language-Agnostic Voice Pipeline Improvement for the Agriculture Domain",
+      "url": "https://arxiv.org/abs/2609.20504",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Mitigating Retaliatory Algorithmic Collusion in Repeated Games",
+      "url": "https://arxiv.org/abs/2609.20548",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Accelerating Visual Policy Learning with Sampling-Based Model Predictive Control",
+      "url": "https://arxiv.org/abs/2609.20575",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Inference-Engine Fingerprinting Attacks are Practical: Exploring Model-Driven Environmental Discovery, Exploitation, and Escape",
+      "url": "https://arxiv.org/abs/2609.20614",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "A Simulation Platform for AUV Fault Recovery: Exploring LLM-Based Diagnostic Strategies",
+      "url": "https://arxiv.org/abs/2609.20620",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Chronicle: Cut-Point Replay for Regression Testing of LLM Agents",
+      "url": "https://arxiv.org/abs/2609.20625",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface",
+      "url": "https://arxiv.org/abs/2609.20659",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
+      "url": "https://arxiv.org/abs/2609.20715",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Large Language Models as Falsifiers for Cyber-Physical Systems",
+      "url": "https://arxiv.org/abs/2609.20752",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation",
+      "url": "https://arxiv.org/abs/2609.20758",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Semantic Action Graph: A Shared Representation for Agent Grounding and Human Interpretation of Sports Highlights",
+      "url": "https://arxiv.org/abs/2609.20768",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies",
+      "url": "https://arxiv.org/abs/2609.20776",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations",
+      "url": "https://arxiv.org/abs/2609.20779",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
+      "url": "https://arxiv.org/abs/2609.20812",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2609.20784",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis",
+      "url": "https://arxiv.org/abs/2609.20815",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
+      "url": "https://arxiv.org/abs/2609.20816",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+      "url": "https://arxiv.org/abs/2609.20817",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+      "url": "https://arxiv.org/abs/2609.20820",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+      "url": "https://arxiv.org/abs/2609.20822",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "oMeBench: Towards Robust Benchmarking of LLMs in Organic Mechanism Elucidation and Reasoning",
+      "url": "https://arxiv.org/abs/2510.07731",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "TripScore: Aligning LLMs for Real-World Travel Planning via Expert-Calibrated Reward",
+      "url": "https://arxiv.org/abs/2510.09011",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Behavioral Coherence: A Method for Sensitive-Domain LLM Evaluation",
+      "url": "https://arxiv.org/abs/2512.13142",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Model Specific Task Similarity for Vision Language Model Selection via Layer Conductance",
+      "url": "https://arxiv.org/abs/2602.01346",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Architectural Design, Not Only Model Intelligence, Governs Multi-Agent LLM Performance",
+      "url": "https://arxiv.org/abs/2602.03128",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "A Neuropsychologically Grounded Evaluation of LLM Cognitive Abilities",
+      "url": "https://arxiv.org/abs/2603.02540",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Reinforcing the World's Edge: A Continual Learning Problem in the Multi-Agent-World Boundary",
+      "url": "https://arxiv.org/abs/2603.06813",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Guideline-grounded retrieval-augmented generation for ophthalmic clinical decision support",
+      "url": "https://arxiv.org/abs/2603.21925",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Semantic Feature Analysis: Improving Agents Without Searching Over Rollouts",
+      "url": "https://arxiv.org/abs/2604.10513",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "SCICONVBENCH: Benchmarking LLMs on Multi-Turn Clarification for Task Formulation in Computational Science",
+      "url": "https://arxiv.org/abs/2605.18630",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Multi-Resolution Attribution from Adaptive Routing State",
+      "url": "https://arxiv.org/abs/2605.22866",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "When Summaries Distort Decisions: Information Fidelity in LLM-Compressed Financial Analysis",
+      "url": "https://arxiv.org/abs/2606.29251",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "AI Training Manager: Bounded Closed-Loop Control of Adaptive Training Recipes",
+      "url": "https://arxiv.org/abs/2606.29871",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Faithful, Not Corrective: Model Capability Governs Message-Format Effects in Multi-Hop Agent Relays",
+      "url": "https://arxiv.org/abs/2607.09678",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "When Self-Evolution Backfires: Pre-Commit Gating against Skill Contamination in LLM Agents",
+      "url": "https://arxiv.org/abs/2608.05810",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "FitAQA: A Benchmark of Fitness Action Quality Assessment for Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2608.08736",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Attributing Preprocessing Invariance in Spectral Foundation Models",
+      "url": "https://arxiv.org/abs/2608.14227",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "AutoResearch: Insight In, Hallucination Out",
+      "url": "https://arxiv.org/abs/2608.17906",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+      "url": "https://arxiv.org/abs/2608.21363",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "LayerRoute: Action-Conditioned Mixture-of-Layers Routing for Vision-Language-Action Policies",
+      "url": "https://arxiv.org/abs/2609.06079",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Inference-Time Nash Alignment",
+      "url": "https://arxiv.org/abs/2609.08082",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Generating a Consistent Enterprise: Synthesis and Reference-Free Evaluation of Multi-System Business Data",
+      "url": "https://arxiv.org/abs/2609.11286",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
+      "url": "https://arxiv.org/abs/2609.15818",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "AquiLLM: Evaluating Faithfulness in Open-Weight RAG-LLM Systems for Scientific Research",
+      "url": "https://arxiv.org/abs/2609.16519",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Can We Do Interpretable NLI with Graphs Based on Atomic Propositions?",
+      "url": "https://arxiv.org/abs/2609.16814",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+      "url": "https://arxiv.org/abs/2609.18063",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Compositional Policy Violations: When Step-Level Compliance Fails In Agentic AI Workflows",
+      "url": "https://arxiv.org/abs/2609.18820",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Physics-Informed Support Vector Kernels via Green-Function Analogies and Jackson-Chebyshev Spectral Design",
+      "url": "https://arxiv.org/abs/2502.11153",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Information-Geometric Inverse Distillation for Enhancing Adversarial Transferability",
+      "url": "https://arxiv.org/abs/2502.17003",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "FORGE: Forensic Reasoning with Grounded Evidence",
+      "url": "https://arxiv.org/abs/2503.15867",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "FOCAL: Fine-Grained Optimal-Transport-Driven Contrastive Alignment of Language and ECGs with Waveform Enhancement",
+      "url": "https://arxiv.org/abs/2505.11939",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "AntiGrounding: Executable Robot Trajectories as Visual Prompts for VLM-Guided Manipulation",
+      "url": "https://arxiv.org/abs/2506.12374",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Chunk Twice, Embed Once: A Systematic Study of Segmentation and Representation Trade-offs in Chemistry-Aware Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2506.17277",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Spherical Cauchy Variational Autoencoders: Heavy Angular Tails and Exact KL Evaluation",
+      "url": "https://arxiv.org/abs/2506.21278",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Understanding Role Switching in Human-AI Collaboration through Multimodal Behavioral Signals",
+      "url": "https://arxiv.org/abs/2509.20666",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Watermarking Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2509.24368",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software",
+      "url": "https://arxiv.org/abs/2509.25248",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "SGM: A Statistical Godel Machine for Risk-Controlled Recursive Self-Modification",
+      "url": "https://arxiv.org/abs/2510.10232",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Learn2Drive: A neural network-based framework for socially compliant automated vehicle control",
+      "url": "https://arxiv.org/abs/2510.21736",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Communication and Verification in LLM Agents towards Collaboration under Information Asymmetry",
+      "url": "https://arxiv.org/abs/2510.25595",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Pre-train to Gain: Robust Learning Without Clean Labels",
+      "url": "https://arxiv.org/abs/2511.20844",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "MAS-Shield: A Defense Framework for Secure and Efficient LLM MAS",
+      "url": "https://arxiv.org/abs/2511.22924",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Effective and Efficient Threat Hunting with Small Language Models",
+      "url": "https://arxiv.org/abs/2512.06660",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "FedVideoMAE: Efficient Federated Video Moderation with Differential Privacy and Secure Aggregation",
+      "url": "https://arxiv.org/abs/2512.18809",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "VLM-CAD: VLM-Optimized Collaborative Agent Design Workflow for Analog Circuit Sizing",
+      "url": "https://arxiv.org/abs/2601.07315",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Kinship Data Benchmark for Multi-hop Reasoning",
+      "url": "https://arxiv.org/abs/2601.07794",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "CoMa: Contextual Massing Generation with Vision-Language Models",
+      "url": "https://arxiv.org/abs/2601.08464",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Ambient Dataloops: Generative Models for Dataset Refinement",
+      "url": "https://arxiv.org/abs/2601.15417",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Sim-and-Human Co-training for Data-Efficient and Scene-Generalizable Bimanual Manipulation",
+      "url": "https://arxiv.org/abs/2601.19406",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "L2R: Low-Rank and Lipschitz-Controlled Routing for Mixture-of-Experts",
+      "url": "https://arxiv.org/abs/2601.21349",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Why $\\beta_1 = \\beta_2$ Is Dynamically Special in Adam",
+      "url": "https://arxiv.org/abs/2601.21739",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design",
+      "url": "https://arxiv.org/abs/2602.04663",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Perturbing the Phase: Analyzing Adversarial Robustness of Complex-Valued Neural Networks",
+      "url": "https://arxiv.org/abs/2602.06577",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Exploring Sparsity and Smoothness of Arbitrary Lp Norms in Adversarial Attacks",
+      "url": "https://arxiv.org/abs/2602.06578",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Cross-Sectional Asset Retrieval via Future-Aligned Soft Contrastive Learning",
+      "url": "https://arxiv.org/abs/2602.10711",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "High-Resolution Range Profile Classifiers Require Aspect-Angle Awareness",
+      "url": "https://arxiv.org/abs/2603.00087",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "TTSR: Test-Time Self-Evolving via Reflection",
+      "url": "https://arxiv.org/abs/2603.03297",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Drag-Aware Aerodynamic Manipulability for Torque-Limited Redundant Multirotors: Aerodynamic Promptness based on the Symmetric Acceleration Capacity",
+      "url": "https://arxiv.org/abs/2603.07998",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "MAPLE: Metadata Augmented Private Language Evolution",
+      "url": "https://arxiv.org/abs/2603.19258",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Domain Elastic Transform: Bayesian Function Registration for High-Dimensional Scientific Data",
+      "url": "https://arxiv.org/abs/2603.21235",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "When Consistency Becomes Bias: Interviewer Effects in Semi-Structured Clinical Interviews",
+      "url": "https://arxiv.org/abs/2603.24651",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "When Perplexity Lies: Generation-Focused Distillation of Hybrid Sequence Models",
+      "url": "https://arxiv.org/abs/2603.26556",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "StarVLA-$\\alpha$: Reducing Complexity in Vision-Language-Action Systems",
+      "url": "https://arxiv.org/abs/2604.11757",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Green-ELM: Efficient Analytic Learning via High-Dimensional Random Projections",
+      "url": "https://arxiv.org/abs/2604.15613",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "A Two-Stage Multi-Modal MRI Framework for Lifespan Brain Age Prediction",
+      "url": "https://arxiv.org/abs/2604.16655",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Large language models eroding science understanding: an empirical study of malignment",
+      "url": "https://arxiv.org/abs/2604.25639",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Learning to Theorize the World from Observation",
+      "url": "https://arxiv.org/abs/2605.03413",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Clin-JEPA: A Multi-Phase Co-Training Framework for Joint-Embedding Predictive Pretraining on EHR Patient Trajectories",
+      "url": "https://arxiv.org/abs/2605.10840",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "EfficientTDMPC: Improved MPC Objectives for Sample-Efficient Continuous Control",
+      "url": "https://arxiv.org/abs/2605.16692",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Reinforcement Learning for Graph Generation under a Hard Assortativity Constraint",
+      "url": "https://arxiv.org/abs/2605.23285",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Batch Normalization Amplifies Memorization and Privacy Risks",
+      "url": "https://arxiv.org/abs/2605.24420",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "By Their Fruits You Will Know Them: Comparing Formalizations of Law by the Decisions They Encode",
+      "url": "https://arxiv.org/abs/2605.25186",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Mitigating Stethoscope-Induced Shortcuts in Respiratory Sound Classification under Federated Domain Generalization with Causality-Inspired Interventions",
+      "url": "https://arxiv.org/abs/2605.29862",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Time-Aware Diffusion based on Preference Disentanglement for Generative Recommendation",
+      "url": "https://arxiv.org/abs/2606.01670",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "AnyAudio-Judge: A Dynamic Rubric-Based Benchmark and Evaluator for Audio Instruction Following",
+      "url": "https://arxiv.org/abs/2606.03116",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "EssentialGIN: a new approach for gene essentiality prediction based on graph isomorphism neural networks",
+      "url": "https://arxiv.org/abs/2606.07700",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Exploring a Layer-Wise Design Space for KV Cache Eviction",
+      "url": "https://arxiv.org/abs/2606.15157",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Redact or Keep? A Fully Local AI Cascade for Educational Dialogue De-Identification",
+      "url": "https://arxiv.org/abs/2606.18372",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Scaling Audio Models Efficiently: Joint Optimization of Scale, Resolution, Adaptation, Precision, and Sparsity",
+      "url": "https://arxiv.org/abs/2606.22790",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "When Retrieval Metrics Mislead: Measuring Policy Signal in Long-Horizon Tool-Use Agents",
+      "url": "https://arxiv.org/abs/2606.23937",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Accelerating Q-learning through Efficient Value-Sharing across Actions",
+      "url": "https://arxiv.org/abs/2606.29806",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models",
+      "url": "https://arxiv.org/abs/2606.31672",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Prompt-Driven Exploration",
+      "url": "https://arxiv.org/abs/2607.08837",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "When Data Imbalance Helps: Robust Generalization Through Shortcut Saturation",
+      "url": "https://arxiv.org/abs/2607.10116",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Limits of Reliability and Scaling in Language Models",
+      "url": "https://arxiv.org/abs/2607.14112",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Multi-Axis Max@K Reinforcement Learning for Representative Diversity in Text-to-Image Generation",
+      "url": "https://arxiv.org/abs/2607.14962",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Building a Neural Network from Scratch: Implementation, Evaluation, and Optimization",
+      "url": "https://arxiv.org/abs/2607.16682",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Self-State Attacks on Self-Hosted AI Agents: How Far Can OS Defenses Go?",
+      "url": "https://arxiv.org/abs/2607.17986",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Evaluating Large Language Models for Symbolic Security Protocol Analysis",
+      "url": "https://arxiv.org/abs/2607.20712",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "MyMentorLLM: A psychotherapy GenAI environment with multimodal voice/text patients, trainees and experts for deliberate practice",
+      "url": "https://arxiv.org/abs/2607.25667",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Explicit Language Memory for Long-Horizon Planning in Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2608.04765",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Keep It Simple: Multi-Key Episodic Memory Retrieval for Ultra-Long Video Understanding",
+      "url": "https://arxiv.org/abs/2608.07663",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Teach and Grow: An Agent-Centered Architecture for General Robot Learning",
+      "url": "https://arxiv.org/abs/2608.17209",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "GigaBrain-WBC-0.5: A Behavior World Model for Robust Humanoid Whole-Body Tracking with Environment Interaction",
+      "url": "https://arxiv.org/abs/2608.18234",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Modeling Human Behavior with Type Vectors Using AI",
+      "url": "https://arxiv.org/abs/2608.18265",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Spending Scarce Confirmatory PET Measurements: Target-Aligned Validation in A4/LEARN",
+      "url": "https://arxiv.org/abs/2608.22223",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control",
+      "url": "https://arxiv.org/abs/2608.24115",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "D$^3$-MOPD: Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation",
+      "url": "https://arxiv.org/abs/2608.24987",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Curvature Cryptanalysis of Smooth Transformer Feed-Forward Networks",
+      "url": "https://arxiv.org/abs/2608.28843",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Verify Before You Distill: Prompt-Level Teacher Gating for On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2609.02998",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Evaluating Deep-Search Agents under Hierarchical Web Evidence Poisoning",
+      "url": "https://arxiv.org/abs/2609.06027",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Sparse Data Augmentation for Optimization with Provable Guarantees",
+      "url": "https://arxiv.org/abs/2609.08133",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers",
+      "url": "https://arxiv.org/abs/2609.10854",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "A Mathematical Theory of Pragmatic Information",
+      "url": "https://arxiv.org/abs/2609.10986",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "UFO: Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation",
+      "url": "https://arxiv.org/abs/2609.12397",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "An Efficient and Modular Framework for Targeted Harm Mitigation in LLMS",
+      "url": "https://arxiv.org/abs/2609.13624",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Legislating World-Model-Based Planning with Legal Reasoning",
+      "url": "https://arxiv.org/abs/2609.15113",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "IWC-Bench: Evaluating Web Application Generation from a Software Testing Perspective",
+      "url": "https://arxiv.org/abs/2609.15387",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "How Humans and LLMs Read Gender into \"Gender-Neutral\" Physical Descriptions",
+      "url": "https://arxiv.org/abs/2609.16366",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "MoRE: Mixture of Reused Experts",
+      "url": "https://arxiv.org/abs/2609.18176",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "M2Tok: Multi-head Multi-codebook Discrete Action Tokenization for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2609.18259",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "CSWAM: Better Causal Semantic Representations for Out-of-Distribution Generalization in World Action Models",
+      "url": "https://arxiv.org/abs/2609.18462",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Double descent is the principle of least action",
+      "url": "https://arxiv.org/abs/2609.19076",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation",
+      "url": "https://arxiv.org/abs/2609.19137",
+      "tier": 1,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
