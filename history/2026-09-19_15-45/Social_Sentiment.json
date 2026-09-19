@@ -1,0 +1,122 @@
+{
+  "category": "Social Sentiment",
+  "timestamp": "2026-09-19_15-45",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Flock Offers Employees Buyouts as Customers Flee",
+      "url": "https://www.reddit.com/r/technology/comments/1wklgz3/flock_offers_employees_buyouts_as_customers_flee/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "NASA awards SpaceX $946 million for 3 more astronaut missions to the ISS | The award brings SpaceX's total commercial crew haul to $5.92 billion.",
+      "url": "https://www.reddit.com/r/technology/comments/1wkjrj4/nasa_awards_spacex_946_million_for_3_more/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "How DraftKings Uses A.I. to Target the Gamblers Likeliest to Lose • Data science helps determine who receives betting incentives, but the company has resisted using similar technology to protect gamblers at risk of addiction.",
+      "url": "https://www.reddit.com/r/technology/comments/1wkkikp/how_draftkings_uses_ai_to_target_the_gamblers/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Intel squeezed a 1.58-bit LLM down to 1.485 bits without changing a single weight",
+      "url": "https://www.reddit.com/r/technology/comments/1wkfbm0/intel_squeezed_a_158bit_llm_down_to_1485_bits/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "url": "https://www.reddit.com/r/technology/comments/1wk8wav/ai_hallucination_of_chinese_nuclear_components/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Father loses job over 9-year-old spending $118,000 on Minecraft YouTube ads using his company's credit card — 'I’m going to be working until I’m like 94.",
+      "url": "https://www.reddit.com/r/technology/comments/1wkow7e/father_loses_job_over_9yearold_spending_118000_on/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "BYD looking to build 5-minute EV charging network in Canada",
+      "url": "https://www.reddit.com/r/technology/comments/1wkdcjy/byd_looking_to_build_5minute_ev_charging_network/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Almost 86% of Japanese game developers are using AI in their workflows, up from 51% in 2025",
+      "url": "https://www.reddit.com/r/technology/comments/1wkk7an/almost_86_of_japanese_game_developers_are_using/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "As Fans Flood the World of Warcraft: Forever Beta, Dev Says It's Putting Up 'The Craziest Numbers I've Seen in 17 Years Working at Blizzard'",
+      "url": "https://www.reddit.com/r/technology/comments/1wkl461/as_fans_flood_the_world_of_warcraft_forever_beta/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Fear of AI job loss outweighs AI job creation excitement, study finds",
+      "url": "https://www.reddit.com/r/technology/comments/1wkj14d/fear_of_ai_job_loss_outweighs_ai_job_creation/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Alibaba has open-sourced an AI model capable of identifying nearly 150 abdominal conditions – including cancers – by reading computed tomography (CT) scans",
+      "url": "https://www.reddit.com/r/technology/comments/1wkjx87/alibaba_has_opensourced_an_ai_model_capable_of/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "‘A lot of blood, sweat, and tears went into that’: Apple’s new VP of Hardware Engineering says he wants you to ‘hold us accountable’ for the iPhone Duo’s hinge durability",
+      "url": "https://www.reddit.com/r/technology/comments/1wkm63m/a_lot_of_blood_sweat_and_tears_went_into_that/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "url": "https://www.reddit.com/r/technology/comments/1wklg8s/india_forces_callerid_apps_to_feed_spam_reports/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "url": "https://www.reddit.com/r/technology/comments/1wk9bnq/korea_raises_data_breach_fines_to_10_of_revenue/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Chipotle Is Working With Palantir to Track Food Safety Risks",
+      "url": "https://www.reddit.com/r/technology/comments/1wkde44/chipotle_is_working_with_palantir_to_track_food/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "At #HUAWEICONNECT 2026 in Shanghai, #Huawei hosted the Fifth Digital Economy Development Forum, bringing together experts from around the world to discuss the digital economy in the AI era. Yang Chaobin, Huawei Executive Director of the Board an - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR2VmRm14R3ZOZUViVzJIWXBaU3pscmlyNG1lUzIxTzk4XzJRR2huZ2xYUWwxOVVRSlU0SHZPa0hRVTMwaGNFTHV3TWE5RnNvODFURndOeXBYekc3SjZjQjJTTW9PU2w5ZWhWWmlJTi1MaHgzd29wcXgzaGUtWHFtdXRnWHhRZW5OYkFyVkhITG9mMTNURWZvOW9KVjRueFlUOW1wSXJIclVyWE1fMlcycTFnUjlqTzFzOGVuVEdhcEV2QUJ2OVF6c2xXTEFEUFlKc0E?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "China's Economic Shift, Congo's W@r Cost & AI's Growing Power | Breaking Silence With Craig Vermay | Asia One News #Asiaone #Asiaonenews #China #Congo #AI #ArtificialIntelligence #GlobalIssues #Geopolitics #Technology #BreakingSilence #CraigV - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOE1ULXlsVXBiTUFWR09YVFEyRG1DQmhqNDNOeHdVVTZwYnBZd2N1Q2lFZTI1LVVkbTcybTlqbXhwV1ZxRTRqVXE4SXdTc29KVFgwa2UzOTk4TkE1YzBfWVcxeHE5M3N2QjZfNW5MZU5oMkxEcGtTZjc3Wm90OFNNUnA2WXI0dW9Hd3A5Y1g3R2NPZ1JCMjBZRWdSWVlRSXpTVzBLMzJ2OVVnckdPRjl1QUd5RnVDYlFNSTZzQmk1QUcyUVFRdDZRcVpubE5sREgwWUIxMDZNRjktUzk1cTRyWkkxM1dtZw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Sponsored: Ireland to play a lead role in fourth Industrial Revolution, automation, IoT and AI. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYkVHQW11cmRDUUF3eUdMaXNsd3A2QkJucml6SjY1cUh6dWJ1TjZFcktYNWQyTl9pTW5wOWdvUXUybi1LQzVQSVl3bnVRZzI3TmtscEE1Y2hvaVUtVnprS0JiYnFSSF9nUkQ1TGFiRGFhU3VyTkNBYm5meTlkSUJYZjBnNkh6RFVFLWNfbGhyUFpCRjRwWVRDS3JPdS1vZ2pKYXhCaGp5aldCVkhUVl9qNkE5WXkydVhNbDAzU0lvYW1td242UEtsNW1FNkxrRGZ1M25yOEY1aWktY3c?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The Aqaba Digital Hub has launched Klustrai — Jordan’s first AI computing platform. Klstrai can support data analysis, document processing, digital assistants, automation, and customer service tools. The platform will reduce the cost of adopting AI because or - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSmJxX0JCYllmVHR4dmxLOWJnN1VYOGcwazdybktnc2EzR0J3T0prN1dTV3I3ZVpWbVFxdHVuMnFvS19oZmlEc0FDc1BxU1ZrQUd5c3lvYmE2dXZuWW56UVRIVGlGVkU3RDBZeHR2VTlyMkM4M0FHQ0JTVHQtOHEwY3g1VmF5U3dUQXVaZlNPUWJIeHdEZUltYXYzZlVfbTdyUGhsQWlzSXFlOWJsa0pFV1NuU0tTeHlMMXRuTklESWY5WlZ1UF9uNUhpdEFqLUdKSGxzRW5CelBhcDlE?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}

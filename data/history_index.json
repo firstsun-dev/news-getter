@@ -12,6 +12,17 @@
           "TW News",
           "Technology"
         ]
+      },
+      {
+        "time": "15:45",
+        "categories": [
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "TW News",
+          "Technology"
+        ]
       }
     ]
   },
