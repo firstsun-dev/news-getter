@@ -1,0 +1,1144 @@
+{
+  "date": "2026-09-19",
+  "runs": [
+    {
+      "time": "04:13",
+      "categories": [
+        {
+          "name": "Finance",
+          "anchor": "Finance",
+          "archive_url": "./history/2026-09-19_04-13/index.html#Finance",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "Republican China committee chair urges tough Trump line with Xi",
+              "url": "https://www.investing.com/news/economic-indicators/republican-china-committee-chair-urges-tough-trump-line-with-xi-4907811",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "US factory production falls in August; outlook clouded by rising costs",
+              "url": "https://www.investing.com/news/economic-indicators/us-manufacturing-output-falls-in-august-after-rising-for-seven-straight-months-4907507",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "U.S. Industrial Production Stagnates, Misses Forecast",
+              "url": "https://www.investing.com/news/economic-indicators/us-industrial-production-stagnates-misses-forecast-93CH-4907455",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "US Treasury’s Bessent to discuss AI, rare earths with China’s He, source says",
+              "url": "https://www.investing.com/news/commodities-news/us-treasurys-bessent-plans-to-discuss-ai-and-rare-earths-with-chinas-he-source-says-4907786",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Analysis-Russia sanctions bill gives Trump sweeping new tariff powers",
+              "url": "https://www.investing.com/news/commodities-news/analysisrussia-sanctions-bill-gives-trump-sweeping-new-tariff-powers-4907872",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Oil prices snap two-week winning streak on easing Middle East supply fears",
+              "url": "https://www.investing.com/news/commodities-news/oil-prices-fall-for-3rd-day-as-supply-concerns-ease-diplomacy-in-focus-4906634",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Gold heads for slight weekly gain as decline in oil prices offset Fed rate hike",
+              "url": "https://www.investing.com/news/commodities-news/gold-rises-as-lower-oil-treasury-yields-ease-inflation-pressure-4906609",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Oil slides after China asks Iran to limit Houthi attacks on Saudi oil facilities",
+              "url": "https://www.investing.com/news/commodities-news/oil-prices-fall-1-on-hopes-of-limited-supply-disruptions-4906600",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Crude Oil WTI clings to $99.50 support amid breakdown risk: Live",
+              "url": "https://www.investing.com/news/commodities-news/crude-oil-wti-stalls-near-10446-highs-on-fading-momentum-live-93CH-4898875",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Natural Gas consolidates near $2.90 above 200MA: Live levels",
+              "url": "https://www.investing.com/news/commodities-news/natural-gas-tests-2899-resistance-cluster-hourly-levels-93CH-4898874",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "London Gas Oil stuck in $1,475-$1,515 range: Live levels",
+              "url": "https://www.investing.com/news/commodities-news/london-gas-oil-surges-near-1524-resistance-live-levels-93CH-4898872",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Brent Oil clings to SuperTrend support at $103.09: Live levels",
+              "url": "https://www.investing.com/news/commodities-news/brent-oil-consolidates-near-10764-amid-bull-fatigue-live-levels-93CH-4898867",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Silver stalls at $68.00 resistance with bull trap risk: Live",
+              "url": "https://www.investing.com/news/commodities-news/silver-tests-200-sma-at-6408-amid-double-top-risk-live-levels-93CH-4898870",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "British data centre group Nscale files for $35bn US listing",
+              "url": "https://www.ft.com/content/93ba41c5-d777-4733-8738-93a06e8fead1?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "White House attacks Fed official after review of Silicon Valley Bank collapse",
+              "url": "https://www.ft.com/content/98c6db91-44c7-487e-a733-331a58766ba1?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Ex-Apollo executive admits to improperly using company documents",
+              "url": "https://www.ft.com/content/c57e73d1-547d-4f69-addb-6516845fbe6d?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "PizzaExpress puts £500mn sale on the menu",
+              "url": "https://www.ft.com/content/99b7000e-d977-457b-baf3-64f2931b044c?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Yen sinks after BoJ raises rates to highest level since 1995",
+              "url": "https://www.ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "France calls G7 summit on releasing more oil reserves",
+              "url": "https://www.ft.com/content/31c53c3c-5cc1-4248-98dc-68fc8956e8cc?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Court shines a further light on who was at fault in SVB implosion",
+              "url": "https://www.ft.com/content/24dc8ce0-5331-4280-ad85-c2dddcef429d?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Former Wells Fargo asset manager Allspring explores $4bn sale",
+              "url": "https://www.ft.com/content/1270032d-25e9-4be0-aa2f-5205b9bedd08?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Why Scott Bessent should pay attention to Turkey’s market scandal",
+              "url": "https://www.ft.com/content/d6adb7bb-72b4-47d1-b3bd-11e908d06b60?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Come on Latin America, you owe me one",
+              "url": "https://www.ft.com/content/0649f3dd-e473-4174-ad1d-b01a93923bd3?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 23
+        },
+        {
+          "name": "Global",
+          "anchor": "Global",
+          "archive_url": "./history/2026-09-19_04-13/index.html#Global",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+              "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+              "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Trump says he is banning CNN and Politico from White House",
+              "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+              "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+              "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+              "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "North Korean anthem played for South Korea at Asian Games",
+              "url": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Dozens of suspected illegal miners die in Nigerian custody",
+              "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+              "url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+              "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+              "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Grim discoveries of murdered women spark fear in South Africa",
+              "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+              "url": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+              "url": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+              "url": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
+              "url": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Weekly: 9.19.26",
+              "url": "https://www.pewresearch.org/newsletter/weekly-roundup/weekly-9-19-26/",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Politics: Sept. 18",
+              "url": "https://www.pewresearch.org/newsletter/politics/politics-sept-18/",
+              "tier": 1,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 18
+        },
+        {
+          "name": "Investments",
+          "anchor": "Investments",
+          "archive_url": "./history/2026-09-19_04-13/index.html#Investments",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "Even as trading and markets moved faster, Warren Buffett made patience profitable and cool - WRAL",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeWpiVkFUUFB4Nk85dFBXdkdWaWJFM2JEX0FiVG9lV2xUNFdjTGJuUDVienEzWDZ3VTFJelJvQkU1MEpucWk4anZYUTlTcWtJTU5vbFhMdDBaZVhLNUlIajB4MjV4VzVLdmpFRW9wN0s3bnRYQXhTR3lEN1UwRGt6alBKdHk2cjJxWlRySktuSi1kaFctcXcwV3FPWEZmTXhOaW9HOWZMOU10QTFjX3BldjNGeHA2Mkd1WW5meFVtcjd6aU0?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Ariel Investments’ John Rogers on Warren Buffett’s tenure at Berkshire Hathaway: He is a genius - CNBC",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSkl1QW1EYjF6am0yU3dhLTZpZER4ekk0eEpLZVFuM1BGR1VnQW1hSnJhUUE4Nk9xVWxIQkhNajY5UFdDRS1jNXBiZEZUQ0ZyQnVHUHhhbGIxcTE0X1VfcHVubUdrZ2xONTJMVlVRdUZleTkxZ0JIWTFrNnJXanU3dnNiVkdBNGVUV0FEbUN4R1NjLTlJclkwQkQtNFN4bVh0NXZVa2xFaE9mTkdqSnd1SVR4M0F3cGEybEljeTg1VmRsZGg5ek1lUTlWTE9hZE5T?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett Has Worn the Same Watch for 40 Years. It’s Not Just About Being Frugal - inc.com",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcGxqdmFIRXB5N2tUa0VyTVlDOVp1b3o1WUgwNWtfVmxsNmNNUGFfSnlCTVREMm00blkzbEhDdGNkWk01aVJiR3pPcmxTU1YwQzhwclo1dEN1a20zaWhFQkdXREtUNnBwY0d6NTdBc3pOVHMwZmJadFFIcGtHTmtHMV8zREFrejJvUnB1aFJxN3p1eXBFTGk3TzhIUlZ6UDZ1cG5mUkJWcktyaHVwZERkbA?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Meet Howard Buffett, the New Chairman of Berkshire Hathaway - The New York Times",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3o0R3lBUERNdXhNTEh3TmlydWYxY21iTlFtSHFwRVQyaHRLakk1Q2NMNVprM1VmWGtxOU5yVFhKUi0zaVlCdmtOV25vVHpHbDZ5Y2dXaVYwS3hqai1ZSWJTQzI0QmZPUlNWSEpMWml6RHdfaEJkUHpwd2FtRzdTc2dna0Z4b1VlSS1uOU1GdXlpZGRJUElheA?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett Steps Down as Berkshire Hathaway Chairman - WSJ",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTkdiT2FvWVZFbFNOT01aT1pKbl9FVFJQMFdPTUdhUlhqSGdkc2tvZ0Nwb1JCQ2hpcS1KVkVxUkE1emhBcWVBUFk4cVJIRnZ1aHVmVlU1ZTRQM1U3THppVGFNZWxRcTNHOERkVF9pNXNiclJ6MGJPdUw4eG5YRjJnRFpDdkpWZGRMM3Brak1IcHM0UGt2NHNsOFpUOA?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett gives up chairman title at Berkshire Hathaway in the next step of his succession plan - AP News",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcjE2N1ZNUEE5THNqMG5XQ2QxdlZVRlpqM29zWW9LUHJhXzNfWnRvbXBpd1NqVHVMQ2x2ZGQtTWNTNUFLcG9idkpzZnYyOXRmTDc0Ml9sa2dUWGRHYkprbHE5RXBGdW9yMnJNcjVISFR3NklQRU5pU3lZWE5qZjE4MTdWY0xBX2hJNUgyeHlURQ?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Metro reacts to Warren Buffett stepping down as Berkshire Hathaway chairman - WOWT",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3J1WjFVd3hjZ29MYlVDT2t4emMtX3NoNlA0TktNdmY0TzJaUUZxSUJBazRTM2JRRlh4ak1UUm9KcHJNdDBqYktjMkhEQnhDXzFrUkU3X0Q4UURrb002Q1k3a2pLSUZKY0ZlVDRyRm9fNS00VjZBa1Q4aEUtZGdsLTZlWjlGZmtQQ05fUEMycXBxb0VvdDhPejA1ZUVTYXZvYnYwVtIBuAFBVV95cUxNQS01SC1IX3dHRWVKRUhaOHM3U2Q2Q2FtcHBua3Z3TWNXSUE3NUZwbVNRdkJJc2NhUklYQUN2UGZsamZ3TF8wNlRwRTJqRnlzUFNsblYwS1pNX0laLWRKWjNYaXRnMXNOaUV1UFZJczI1eWJXYmltenY2aTdUajFvYVdncllhZTFpQUFsZlFzbzBPVVdNdmpjLVFQelZTLUdxamRJcHpqVjR5RW1BeWlick11REJwVm5U?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett steps down as Berkshire Hathaway chairman, after holding the post since 1970 - PBS",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSmIxRk85VkJMcjlpNVhXMEtYdzQxa0JSdGx3ZkIyXzJtRUgzVS1NbHN4U2pHMmdYM3Y3ekpVUWtiLWhvVlVYd3hkUUtLTVVDclljMk43M0N6djlMMmVVaXpKbXVFSE1UdG9pYXNSSkc2YndHOTItZ0ZUSHMzQUJfREluQzl6WklaN3BmN0h6S3BTbjRSWWNtQUNzbWVQc2I3V2NVaE1VeUtSUC1EczNYdkJLODJsRGM3S3ZEM2NNajN2Q3Mt?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "What's Next for Major Homebuilder Berkshire Hathaway as Warren Buffett Retires From Board - Realtor.com",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWkRYQnFBQ19RTEVPa2lyMVJOY2ZFVmZsdm1PbTBJM0NwelhRUG1oQWtMZGtQTnBweFlRQ3lEcklZVUlRdlVnU0pCakE0U2R2Q2RhT01OWEJDd3NleC1kWkRmNW9hV3Rmbk5YTlFqRVZweDcyZE0xWHl4R1Bjall2ME1xaTRic1JRQmxpazVGX1JXNE90WWNvMmhTVWpBZ1hnSHd1azVuTWdVQQ?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins' - BBC",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLUGFWeHM1QUM3R1F4Ymo4a0d4QXhRVk4wQ3g0ajI3Y2d1cWEta3ZJZVBNOU1PcGlpVnNXNkJiTnUtbDZHYnRmT0Flb3kza1Z3ak5LUjhoSklXYWc?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Who is Howard Buffett, Berkshire Hathaway's new chairman? - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM3doWXFpYzM2Y0dIMVduN1lMOVFKWG5oeDN0akxHS0xkY01HWk1CaGJXU3c1UFVMdGUweXFkSURLV2s5QXJERWtyTTlucHJIWjdEMEpiSkM3YTN3MkdXLU1xNTBKaGhmbFV4eWhKX0JBSmg1Wnp5ZUZxVGhXV1kyc05xSVU5c2pRWlVhaGNHNUdvS2pSaXhYcTdWNldOUXZMNW52enpvUDJfekVFUm5N?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett Steps Down as Berkshire Hathaway Chairman - The New York Times",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnRfUlNTb0pmUzhlM2Z1d1o3X2tWQUtZVVNRLUxJOW5ocmlzc0k4X0FfWkxMcVFMT3lWdnV3UklYeTViNXkwQnZQVUhvbnd1ZTlEVzl6QzA2Q1NFNnVyTVphNGcxX2FLb1pWNHktRGdCQUJjUDZhQk91NVVpNEloQkhJOFU4ajZEWnc?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett steps down as Berkshire Hathaway chairman - Al Jazeera",
+              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa19ZS1RhSXNXcllpeUZVWlpjcW1nNG5PbmlYSmRvMm9OYVhWdFdDc2ZZMFdfRnN1ZVppSjJ1ZzNpd19GQ1BYdVR2TDlURWRNNWpubGJ6YkVHTkFGT1drTDBWVk91YjhjejI0Q2ZHSUlySjZKLXJTTjkwVnlkc3JFbHdYdVB1bFcyd0NuZWhENXdPVllEaW1JNkdsdkZWeGhGaGfSAacBQVVfeXFMTmZMQ3lPZTBCTGRKSmxBOXM4M3VteE5KTHFSMXRwV1RpNEszZFB6QlNSSjFZekk3bkFvdTZwWGZYbVRmX0pKNW5sZHRPRjFPVHlrVUljV2hNUi14ZlpLZzM4WERxUTBqcV9OLWFEbVFrb2lvdHM3MXNlbU9fMGY5SHM4anE2ckZ6bE96WDFSenNMQzVwMlN4TXlLMjhxc2p2MjNtWWQ2NDg?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Berkshire Hathaway looks to keep culture intact as Howard Buffett ascends - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbXE1dzVhTGVyR0lTY2gwajZvMHhvWWtsU1JEclJFODJjZGZWNy1UeDJ2aTBuU2MyTzM3S2RVUm1Yei0yaktkejdqOFlfcUhIQzJsQmxpWEJMVmdTZFZfei1kdFF2QjhIaGEtc1NkYWVGZElCYnFJaWdLZV9LbVhUMmJGajUxYUdMMVRfUThNVG5DU3ZpdEVCLVB5VmRXUW4xOTBrREdvT0NIOW5PXzUteE5oalhSZktSN01LWU5pSVU?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Berkshire Hathaway: Warren Buffett Takes Another Step Back; Howard Buffett Elected Chairman - Morningstar",
+              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUdHNl9icG5KampveDVWaVhiMkFTc2RJa2l3ZUM1ZTNoZWNkbW1WSFdyM1JMMWVtTGZ0WXNGbWljQWc3X0lOSnFpM0pjcEpQSUhXRXZZSHR2MjlvTjlFbU1Rbk0zWUhkWkJOQVFWZ1A4UnRRWU41bnlSQzZBMFdyYVdicnNRa1VwLVVLXzRiMGs3ZWJoc2xSbHFTRm56TnNxbWNVRG9uZ1hObHAyUlZIby02b3I1a2FTVXdPY1M4a3BkQk5mVVFaVGc2SDdfUQ?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Berkshire Hathaway's Warren Buffet Steps Down as Chairman - Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeG8xUWtqbVNSY3Atcmsya3ZEY09YbWE0UnlQaWFjeVk4NzNIQlBPMFJ4c0g0S3pTRlpPMjZwcFVyeG90MWxFYWdqMlZ6UTU5QUhvcTZmLWI0cUxEbW9FRTVvRHd1Wld2RWhNSElWajlxcS1NWVJhOFlacFVGbEtxM3JMRHlLdFB2RmF4aUdOT2FHZmJZZFJ0eDA3clNqSFFraklocQ?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett, 96, steps down as chairman of Berkshire Hathaway - The Washington Post",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3ZPS0Z2ZkpudTZLNFNjdHBrSHEwZW9XTi04LVZlVHUyejBONFhBVXl3ZHFLWW53cDl4TXNBSE5uTV9kREJvc2VKLWZBR3dwT1FuUml0WF92Rk9fcHhBVEhxU1E1eFBHZEdWUUROVGVZekNlYk9Ianp0bEZBQldDNGVGeUxZa1BsNmJtUDI2cVVKZ0JqS1FXckc4U19wSWdqUVk4QllmN24?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Metro reacts to Warren Buffett stepping down as Berkshire Hathaway chairman - WOWT",
+              "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeGFVOFEtbDJsc3ZzZGRFaHNRdWZVQzBTQm5IbV9XOHloSWxPZHFzMjExMFBVT2ViX05aTW1OZTlVS2tkUjg4OFhfT09qc0dyMTBGdE90UFI2NURVLUlfcV9mNVpRNV9IOFFoYlJzRDdnVW5uNm9FeVJ2dXlHd1dGWVQtbm1qSnhjcG1SYndKS0VZX0tEQTByNDYtVV9xRWJZc0lmSmtLMm14MXF4amsw?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett stepping down as chairman of Berkshire Hathaway - Nebraska Public Media",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUE52VXdiaFRHenJKLWEzb2MxNm94Rm1aVVhfRTY0S0trOE9YbDJDSExaanFGVldKaFFtSjJHXzZySUczVDlpRXVDUVFYXzJoUVZoY1R5bUlCSVdHWkFlNVB3cmZkVXRMZTc1MkFBMWJQUU5jM1ZZdHUzeGxxbFJWclN5YTEzVVVnVU5OSHdtX3hhNUdGZGlYcGZpTTZPWldxdTNLaTNxcVJMWXNBcXp6X0RncVRZUHlq?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett Steps Down as Berkshire Hathaway Chairman. Here’s His Final Message. - barrons.com",
+              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGxZUlV6Wm5SM3N0WWVaRnlmbjJ5Zm1kOE9idmxoUGlsNXVQaVN6RGtlRkhWRVozcWF6R0RYNm52d2tBUEJPWmFCc3pDbkZWZFpKYV9PRmpKODBzaFQ1RGVHZ2FwT1h4SVRoZ1FYNzZrUHc1d21DVXRuYVVYWGs3MjYzVzhrZ1BRZGpsWg?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Key executives running Berkshire Hathaway's $1 trillion empire - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV2MwUVhZc3M5S3pCWVZlSTI0el93V1N1Y2xIcGNJMkxCLVVLclpUYlRPWGY4Rk9peVFqZDZrQUtSa2FVZmVmQVN3d0o0Vk00R0dEd0NWdXFoY2VneGo0dEtUQnFiSmlKb0JiVkU4c1IyUmRhVFd6TWdiUWJDQm1Dcm9Wbm1BQXVaUk1rTkVfeUp0eXdwb2Y4dzhWMTYzX3B2ZGhxeEpRRFVJU1J4VkhmeW1xTVRMS3M?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Era ends as Warren Buffett steps down as chair of Berkshire Hathaway - The Des Moines Register",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSll0Q2tkajNqTE5saHRtMUhwbzQ4U2FiVzc2Z1kwU1RObENINld3dkJNNEdIT0t1SU11WEc3UndrbkVMbWV4M25DTkwzUUpQbmkxdEVLZWpvX2dwcHUyWllNbVVad2dLNjRYSnNjbjlmYi1CbUpybi1CcW1mUWd4RExNR1FHWU9lb011c05JVWtnSzdJQVh3QUJ5Vi1RcHhKVVI1bGN4aDA0dGRWRmRnVHQ5QkhDLUpGRWMyNk5aTkNTMFduM0NHeA?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Meet Warren Buffett's son Howard, a former sheriff, war photographer, and now, Berkshire's new chairman - Fortune",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZW9scTIxcTdpU0VMMTVhYU1sQ2dwbFJSMi1LcHNOX1JESzVzdmNPeGF2c1pmLWZ4N2ZZV1YzLU85TDZNWFI1SHZEczd6T3FBOTVNdm1ScG9FWkdCaXlYcnJGalVLVkgtOEs0X2g1QnUtMU5pMWM0SzVhNnVreWlXNzNmaWhXMEpyNzRvbV93?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Greatest investor ever? Warren Buffett's legacy at Berkshire Hathaway - USA Today",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU3BOTFFwMm1ya1E5MzhOLVN1Ul9QZ0FkMEhheGRzbTBVWjNCUTlvTTVkaG1ZMjVXSFJtbk9lQmQ5Z0VMQmc1b2FsVW45VmZfNHg4Y2htYktUZGZxRklXcW05ei1TbTlaaTl6c3lsdjNWS1JOcDh1dTlrd195cXQ0WUU5UTIwenhCc1RUandXR3RpX01Ob0RPWTI0ZVZ1WjFYLVZ1S0JlZm9OdUhTU3paTnF2QXk3NlE4Ync?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett Steps Down as Berkshire Hathaway Chairman After 56 Years. Here's What Investors Should Expect Moving Forward. - Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNFBmU1ZpalVVN3ZqVktBVDlNYkI5QkxCN3drTlJqU2NXbnR4MWhWS0NPb3BBT2RGWjQxM0ZuQnNCcDB6eXc5aUdDZUFOY1dfSmN6N2k1ZDdKOE51ZmFrOV9hT0ZycmhpNnN3WW0tbTVnd0FTRXlrRlVFWU9Xa0JQM2tHUkxwOThJNW9kQkJjQzE4Y1JCUzJZT2lPaFhNVnphT2c?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett steps down as Berkshire Hathaway chairman - The Journal Record",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPam1LRkcwYm96VmdoWkJmaWpVRmlHaklzRTVaZWVKRk42WFh1UkN4QWlScFNJQ1hhSGV4N3NKTzJJNWkwcGQzZTBQWHl2UnNBa0UycHp0blFJVUFLX0Y0WXdOaHR2RFdiM3R1cnMzTWN1N0EtT2VWQVBZTWtEMzd4M25zSWVSTU0zV1F1WXJsckpXbENzTGc?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "12 Warren Buffett Quotes Worth Remembering as He Steps Down From Berkshire Hathaway - inc.com",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNTN3ZlhtVVFlMURBVDB1LW1yRjhEUTVGX2VHX3J4VUxtTUE0enJZQW1NaVZzdHY4dHQxZXEwYXdaUHhfTkZwZFUzR3JiVkpESWZvekUzVTl1alo1WU9lSDQwTDhDLXJuMmphNGRFZV9kRjBZeFFPWEpZeXd4VkNSUk9UXy1kX3RDUEc1OEZGaUNtdkJwNW8yVkFIVVJmNFlGRVVnRE9uRHRWVk1nRzdfcmtMTVhmS21TU0cwX3JJRVNOTXVTV2VOMg?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett Steps Down as Berkshire Hathaway Chairman After 56 Years. Here's What Investors Should Expect Moving Forward. - fool.com",
+              "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOHBDUnJibFJmRThfa1hrcXhZcnE3Sk12ZGp0bnkyYjNrcGNIb0dmSHlsM0tNb3l4NDFhVVowRnRqYnJmMXFoOWxkWE00QU5QS3M5Q1U4MWRIQXVXRmwwSGdUcFV6YkxhMjdtMHUzaUlYX1BPc2Z2UHhxR0lDWEd0am1JcDZUVkNUR3VRZjRNNk43Z3pXMlB6WkRYOG5vdVdRX1R0ejFwaWlRbUZTZ2UwWTRqMHNDWUFNRnhhb0RXNTgyOFBWaEMySVRXUmxLNVpja1puVjBhZTFKeUJnMVAxUnNzSHZldGY3U18zQ1ptVzZuVl9jV3V6cg?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett steps down as Berkshire Hathaway chairman; replacement named - NJ.com",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR0Nfam5VWUItZ2xSUzNKSUhVT0xmbHFTRW1oV0JYTno0azVXUjZJMGx3QlV4RFg2VDNPbkZsUmE3ei1wUHQ2YjdQbHBoWVg2WFo4YXJvcWJFamM2ejdnOHRRWGlacU5qbHVnaHcyOUJUemtpSXZHUVFuM1c5QzJsT2VYQi1wOG5nVzdBcmZlLXQ1NnZHQlNFYXpmdnlsSnNxRjFBSjZFaFBORGhyN05medIBxAFBVV95cUxQZUI4UXZiUDhCdVhPWVpwVHNKZUZ2dXNXdjZZTUtUUUVTTGtLa2hWMEVEZ0V2aVJRX1lyaHhhbDhCSFZnOWlta0dhYTQxcWNpUVBVa3dKWk8wWnhpNTJxS2dscHlaNHd5V01rZ1RqNWlhWUhRcHFhNDA2TkNuUHRzQkVhLXJ2YlphYzBFbnVnTXNxak1aMkN1TDZLdDVKVDF0bk0yTzBSaDVnOTFqa0lYVzFwT1Myalg5RzRGUFFZUVFxdm1K?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett Steps Down as Chairman of Berkshire Hathaway - Kiplinger",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2R6c29fTUkxUTZXLWVkbjVldGNFazI2S0RLc3pZY2NWRGJOOF9lQlBaUkRZY0h6M3V5OVo0alNCLTd1eE9RVGlZaVp3QUgxYWJzNXpXMlNVTzRDSzBQeW5ZSEo5UjZRYVM4Smt5TGJpOF9BNXQyZU5HUmlNS3RDMjdpal9aVmRmM0NYRk1SV0lzQlFNU0ViUllWQjJvOHhPZ0s0OVlPcXI?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett steps down as Berkshire Hathaway chairman after six decades - Denver Gazette",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbUtCYzl0aEw5cTdacXZYcTZvQVlCVzZaWXVmc3lraENPcXU3Q2w4QUctWnVlZURJSjBiZVUyUjJ5aVUxV1hJMmpkSmVhejY5ZGV4WEJfNGxabDdNSWFkSDUzeDhaRm9MWHRDZFc2VUZFSm82bTcwdGJIdE1LbTYwOHBLT1MwUUgxS1R5bTRRdlpMN2JGMnVVTGxKcWhlMzRJSkhOTFp1YXhlNFBlenhZRUNKaUhsVms?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett is stepping down. What does Berkshire Hathaway own in Texas? - Houston Chronicle",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaWhhb0V5cW4wZEtkN0MyTG14UnJ5cE8wRWViQnhVaFdWeFI5RG9QMVdrakhQYXA0bl9PWWdzRGpEaFpYc0FDYnFiS2hjY19hNHBhXzZodjBFN1Q3MEwwMkFNY2tleGhIc29iMEpsSlF5REZpMzJIUWNRNURjdVhUdXZ6S2lLZzFZOE84cGltT3c0dUFYY0w5UVBaek1sWmxWODZCZGhTLWdOczYyS21xcmh2NURpZw?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "This Questionable Berkshire Hathaway Holding Actually Makes Sense - fool.com",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUt0aldULWhFSDByejU0S3NpMXRWRVktRXpFZmEtSnVSSkJrMHV2WlUwWC1ZMF8xbXNLa1hnQWV6Ulp0aVF2ZkRYaDllSjRvcDZiR3NuX3JkTkdSOU8xXzFmZFdsV0tKQmJiMW9Wd0M5RTd3ZUZfOWRtZHE3TWlBeFVPMENMQXhsb1hWMVdqT3RDdEowTURacA?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "This Questionable Berkshire Hathaway Holding Actually Makes Sense - Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa1FlUWZUY25xTFk2MzhFNVU2SWl3blZUcl9haWlCYUc1Q2QxUWZRQXVZSGxHZlhiQUszTHl6ZVdLUERaaGhYOHhKRDhSdG0tSXV3YWJZV3ZiWUszcjNadDJmQW9sTTZXNG9OLUFyWkd2THY2RFd3SUpHbThqR1pXVG1teEFMd0trWVpvYmZTT3o0NnB2SlRUS2NnQkxDZ2o5NXlHcEl5cXhjU1pkbFk0QXRHOA?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett stepping down as Berkshire Hathaway chairman - CBS News",
+              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM0d6ejNzUGVfZDdackF0b1BVQ1dFV3o2NGJfcUdhSmZjT0ZnclkyV2J4THJKcXM5blAwWkxQVEhXQTBqTzRLc1ctcXhvOGItMWppZUhOVFJGczljVEhNV0FHMmtnYjZFNHFfQjBUTnR4b0tjaDhiWnRGUVdvWUFlbmZNc0Z0a2k2ZVVVNXJUek1DenlBZXl3UnU3U25zZw?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Video: Warren Buffett Steps Down as Berkshire Hathaway Chairman - The New York Times",
+              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmVaUDNzckFqT0Vidlg1UGR5aHpQWXhxQWJHWGtCRlgza1JZVkZiSjNCSkxONWlDMzJUU0Vhcjd5VjV6blVVSy1TeWpJMml4Qy1zOVk4RVFMOEZBWHN5NWFFWVl5ZFFDTnMxZ3B5VjE5TkZYb3dJaFRDSGJsWlJtMTlpMVZwVFJlVk51dWx3c0xwaVV2UkN4TTlHbUdOeVUzaldRTnNuSnVsbXNDdlJ2UVJkeF92MlU?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Buffett steps down as Berkshire Hathaway chair but 8-year-old jab still bites - Yahoo Finance Australia",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjdRdUc5RGNPaUFEMmZnazdfdGxLTEJkWDc1ZGV5TFZ6ZW5HbXFGUEwxcVNJM2R2NWJjNDIwSDNwMnJXVkJqVElIWWVyZXR5S0dQZnRyam1peFpSX1pkRmRiUUgyZ09jcnM0REU2bkhsV1pHUDNVMmNSSDF1aFQzcWxvRTh5YUE2ZVBXcGxJNA?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett steps down as Berkshire Hathaway chairman - dw.com",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdjhkbGhFOUxuRDFyQTZ2QVZ2Vmg5aWxZY0NtOF9acWFkZDNBZGdKaml0MllCLWFMNncwV2xTMFhJbV9saVdDTXZaWUN0Ykw0NERrZUdsMVR2UlM0OGRWdjUzanI1QUhZcXpJcHpUREdnTTI3TG0xRTZqeWpmeHBZMWM3b9IBgwFBVV95cUxQdjhJMDRINW5RODNIT3FFR0hwWEVLRWVPLVVVSVpWVW8xZjI1VXNhajFET2thdkxNbG5pY0dKdnd6ZTFqYl8yZTVnd2VMSjAyTTBFTGpEeV92cllya01ndXNkOGVwV3V3MWxKbU16OWN2bkRYZXJUaU00RlFzUUV2R3BDaw?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett’s Best Life Advice as He Steps Down from Berkshire Hathaway - People.com",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWhvU21ZSjBZYzZTVWoyc1ZGMndwM0tXUmJTQmVBVkJzdll6RHBBNXZXV29MSjRJTnJuS21Lb3EwWVFGWmU3SFNwT1FlT2stTHRkUGVvRDlTdXZuOGg2V0ZhWHFlYjFvNVR3cndzSnJKYTM0WXhlN1dUNEI2Y1B5YnpNNjhWTEduSFFJTzVNZ1kzWXYtYVNYcXRYRWl6cVJh?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "NEW THIS MORNING: Warren Buffett, the chairman of Berkshire Hathaway, has stepped down from his position at the investment firm effective immediately. - facebook.com",
+              "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd0hoMEVDazloaFEyYnl3dFlpNWtZUFJCb2pLUFZtYjVXaGhGajlwY3kxR3JhWmNfa0QtaGZhbGNRd0xLMnd2LUYtY2JyWUdXZ2JNN1lERlJnZG5UdlFrS2VDT3JoandVVXJIdjlEc1Zsd3ZRejM2WFJSY0lFRTJaTmpLWkdOZXdHQmJMMWljSFlLY25WSjllZS1FMzZ5aGl4eGZZdW1kdklvU0J0QVVFeUJYRWtiQ0NuYklhaWM5SW5OcUhQdC04SUstc3VZQ1RyOW5BUWNjTENZUQ?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett is stepping down as Berkshire Hathaway Chairman. Test your knowledge of the billionaire - AP News",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOek42M0JIUGNiTS1wUzRlU2FLdndBN0RkYkR5akI0c2F1WUttcUlyRUw0R2RLNk5Zc2lNQVFQUGVNbEpSQTluUUl1OG4tWXExTXg1WklFOWNHUHFFNXlBMFo2ZVZpMGlkUmNXUUR6YVJHR0hudUEyMUhReGszVUZhOWtoRU9BTXR4Q1p1ZUlyclprcmVEVUVtQlF3?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett stepping down as chairman of Berkshire Hathaway - NBC 6 South Florida",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUTRjX29oN09Mb0hfMWZRdTVwcVV6YkNBRVNPUHgtMmMtT1JteGcxS1JQWkp0dXFmeWFfZlMtLUEwQUtOSXRXd1RnMUpVZ0w3REtoVE9yM1I3Q29LWUlhdXpjaXVReTdkZE5oUmxySEVPNFZRTXBuTjM5blE2cmJCS2RTa0l1bUROYlVSM0gybHo0VXRRZXBVV3YzYzBrZXdvLTFfb183S2h2WW5ZX21taW5DN1pLUdIBvgFBVV95cUxPQWRCdXBaVnBPaTFUdGZZTFNONnBvb3kxSVdRRUlWck9sVFo4Z3FyN1pPVlhMWEdVNmxQQ3V0N0ZlYWpFOWRQamFSMEN3VUV0Z1A5Z1ZVU2RfRVYxQlF4cFNvd3EwNmRBb19mLTJEYjFidDBHbkpjeGJXTWFQZHJuUVNqVGQxX1F3ZkVjRnhnbXNIdlhiMnlVNXRvb0IyNkhmOUZhcnpYX3U1VUFQM2U4UUZxVUkycF9rMVREUEt3?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Video Warren Buffett steps down as Berkshire Hathaway chairman - ABC News - Breaking News, Latest News and Videos",
+              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa196UnowSFBxRHBtbFZoNWRSMjhzOC14clJUMllXdVBhV1MybmJDT1FRNkVmNHBuV3JJN1lXYkgzdGdNalJUUVBhTGhadEtGRlZSWGhVOFJORE1xcVNNTG5wbVkwb1Q1ZjVOYklCSnFJMlhnMVZwaWhvbjRDM2dpU3NmOFZnZmhmaDhBVTMwazI?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett's road to investing glory - Reuters",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbFRWMFI1VzlpT1o1ai1nYlFkc2JmZ2t1TVZpMjl4aTN5TjZKalZpWklfYi11eUNkR01oM3lqV3MxS2x4TVFLVk5ERG5qS1hEaUNFUGtHQXVtY0dwY3R1bUtRaUJ1czd5MlVQRFI3TGtmN0ZrdERtSmtPbWRxN3dWeDQ2WlJqZl9xQ3N1TWh5RHZUN2VzZWJN?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Netflix, Nucor, On Holding, Xenon, Accenture, Coinbase, and More Stocks That Explain Today’s Market - barrons.com",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44NlhRaVVMNTlLOHByQVRxNlVIR19HQU95MF9KaWJyTmwtWXl2TnZUU2R2T2RVZV8zMENhV3I4UC1VMU5DOUQza3k2aExyaWdWdVJpZTBfUjM3ZlpscGdiRkZFZXo?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett Is Stepping Down as Berkshire Hathaway’s Chairman - Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQUtTUzFYc2cwb2VobFpSeEZjT3dnNG9wUVpQeUlxZ1VvTDhvYlB5MEFWRlpLVi1HWkt4aEVrMWtSQkgtSlczMXJDNUstdUMzcTg0ZG5pdmRtZWxFbkduQm16T3d2UlVXT09Jd1puZmJXZ2hwc3cza3dXZlZzWHcxT0NKY1Q5MWsyQWZ0TzJVUS1qYmlnYXpRSENGQWljdGo1MW43NF9n?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett steps down as Berkshire Hathaway chairman, a post he has held since 1970 - KSL News",
+              "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNHdlTTctYXdXa05waTVEbm5lV2NvelBPdUpDRlViRnZUeEo2YXlNSGUtd3hjcGpqSTFQWnJsdkIwZG1zeUJuWG1uTEVQZzVtWk5vMm9lSF9Xanc4X1pZWVEtZ3k1M2ZCNzliNVR3RTd2S3czejJabmdZeW1qV083NTIxd3poVUVVc3FPZ2dfcFlqWVNkTUtRQ0JiLTVEV0lZU0JmYUU0YkZMY0pURmhVa01HeXotTHRVbjRvRmF0eWo?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett Just Stepped Down at 96. Here Are 7 Leadership Lessons From Berkshire - inc.com",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdV85dnQtYjB6a012allOODNjX0RyR3dZMjJYR19sblNjUno4WlpKeW9ycDlfZFVtT1B3N0s5YnFOZ21wWDh4V2ZBeFZzeXJ6VExqSS1OUHVPRG1hTFJ0aDdHSnFmMkIyRUxRcUE3WEVOdzBBWDlIamhtNTYtVC1vdGpRYTd0ZGUxMnJ1S0pnSnRuTXhHd3Fwem5HUjlFZ09ybGgzbmtkcTF3bHZHSkVBcUVFN1JhazAwajBsMVFLWmpZdkF4?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett steps down as Berkshire Hathaway chairman - Rural Radio Network",
+              "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3JmVUJ2S2hQNlFCOTR1REh5NC1PRDJ4NnhDVWdIMUV0STB0MHNlWkhHN2pFdDlBeFE2R01ISC04NUxuem5hMnpnR05DeDVSSnpyVzhaX0pVWmFFUkFiX3lCVXdqaDVKX1JVMFNWVEVRSHV3OXJyM1ZWWlZkRF9RVmM0U2VsNFFEVFRNSjQ4WEVkYzZ6RDRDbktjeEIzOTJZalF0ekItRkpzamt0SUtiQ0J1TDI?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett gives up chairman title at Berkshire Hathaway in the next step of his succession plan - The Journal Gazette",
+              "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT0lBT1E3OHhPaEp0a0NaZVNIdEN3RFlvWEdOWEZSUElFWmJ3MmFmRHNnR0lJdmxrT0UtV2lOd25OSXJHU0lkNV9NdjNJTW9WYmdnYWxGbFh3S0hRQUxuU3Y2STNJejBvTzZXNnl3UE9MdVBEYmlzSE4tQnl4OG9idldlRnlwbXUwMEpNcDUtbzRSY1ppZlYzdzBiQXlTYXNUdjBKS2p2Z3hWXzlGYkZpdENfOURnTkhQUDhTZUZBX3F5OFpNcjZ4MVJCQjdUd3p6VEpBRzEzSjBscWg3UTJqWnRweXBuZ29rRDdUUzJUQ05Cd2ZYUm0zTm9sZWV4X0k5eTZqTjJjbmE?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett steps down as Berkshire Hathaway chairman - Yahoo Finance UK",
+              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR0hrVVREdVFTekowQ1RNd2Y1cUdPSHFjeXlDR1IyZjJNOFlxU1VyMGQ1dEhyYlgzckdsbVFXLVdwSm5FRHVkajVJamx0Wjd0Yzh6OFc3S01DWldEZnlUQVh0U09MYWdHSGwtSGd3b1BRY0VaSjMwRW5iTWYwYzNObVN1WGlIR0JGRjU3bw?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett stepping aside as Berkshire Hathaway chairman - WWAYTV3",
+              "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJcm1lc0Rub0V5NlpEWF9WQVE5d2oyRHhBTmcxdTJuZWNJYXh4cTdzSTRiNjN0dGw3REFnMW5pN0dlUU5RaERIeWtB?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "World in Brief: Warren Buffett leaves Berkshire Hathaway; “reasonable grounds” to believe in American war crimes in Iran - The Economist",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTDE0MWlJb0xXdXYtLTVBNkstRFNPNUhTbGFNYUtKMUU3VndxU2hDcG1uU0FhTUNoYUlRV18yYXAzZ3I0cmFvRjFRVkpCSy0tbDdHQXB0bm5XOVpGUzIxdWVnbTZ2NXItM2RIVEVJLVJnS3ZFUWJsQ05yUUlEdnJxNjR1ZVFVVjg5cDlvNklWYnJUcnBlcnVz?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "31% of Berkshire Hathaway's Portfolio Is Concentrated in These 2 AI Stocks Under Greg Abel - fool.com",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZExzaW5zNUtGR0E5ZjZXNVRBWDFndENmZnFhM1V4bHpLcjRWNjVzZlQ5VHRxNGFRbXc5MDNQX0ZMRWIzbFhIR2NzSE9zTDRXaXdXakNjYS14em1fbGdWakR6R3FmeXRBc2FmcHp6NjlaWVppbmNGWF9MQVExTFdHSlQyNmFNcmNWSUtua3FUMExZOTZYc1JNbQ?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett steps down as Berkshire Hathaway chairman - WBAL News Radio",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMEJxWm9SbU94Q0hmU3Zib1g1RTdIX25ta3NvRDBLUlRTM3dYeTBaUHVKVzZCTHF1NkJmMWtVanBibkNCV3hORTN1QXV1SGRxR0VFajVYRy1rRjlqblc2aTJzYlFmTHBWT2g4RU50b0p3aEx2eF9ZREoxb1JpNVVGcnNlTnV5dw?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Factbox-Who is Howard Buffett, Berkshire Hathaway's new chairman? - Miami Herald",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUWHRta0lrNUpQZzFWUjFsVGdRU0o0b3UyT203TGt3S2swRmxIM29Ualp3aS1LeG9BbU14Umc0WVdKVGdsVk9vODNGU3o3Rnhkc2JmaXc4dkNSS0l3Ynp5ZnNja3RxbWtqUjZwVEVTVlM?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffet steps down as Berkshire Hathaway chairman - news8000.com",
+              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV1JkS1JTbDBPTzAwQVdKTlNHX2JoOWl5RXdvSjBEbTQzYmVGdjVKVVZfM0o2Tmg0LTZvbkZvTjJUMUtGOXdEdUVUY2lMTms4ZThPV1lDT2d4WVlQZWVvXzg3bmR0TjhFWlFOTzVGQV9BSUFtaUJUbTdTMVNzQ0lqWkFkMmw5cXVua1FkYlpMOFVmcGphSmh5c2pwY2FrRFE4MHM2THVjbWlWWnhPa0VkblVaSEIwcklna096VGVsZFpxUGZUcU1URzdIRkZCUQ?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Billionaire Warren Buffett steps down as Berkshire Hathaway chairman, a post he has held since 1970 - fredericknewspost.com",
+              "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPbWlERUlKZ1Y0ZjlEalhoU1RnVlFJWVpCOUtCa3pXY0Vwc1FnSlUxYjhjbnhoRXJfb1VOZTJmRXp6WHJ5aWYzLUU4ZW1scDhfRE9LN0k5dnUybTZpb3JtVVRSMjdOZDl2dVhsaVU1RnZEMkQ1NF9nZjBDZzREakp3c1FCb1dvN0h0YXZNWE5obDdvcFZKdEhfYXVzRWVpQWs3VktqWTk4RXVaYXdTNWpGZi1OMlVVVTVoUDg0VTlLQVZnNFBHQjhVUVNHXzBkQ0NjNXA1cWNKQlpYaDQwTGZBclRYUFlhTW02ZFVRRVhUMXBFUlNBTW5mdDNDX3BKVTlXbGdOQ1RXYmdpNW5BTHBuaktHUEY3Zw?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 58
+        },
+        {
+          "name": "Social Sentiment",
+          "anchor": "Social-Sentiment",
+          "archive_url": "./history/2026-09-19_04-13/index.html#Social-Sentiment",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar | FCC rejects concerns about repressive governments buying influence over CBS owner.",
+              "url": "https://www.reddit.com/r/technology/comments/1wk0uuy/fcc_lets_paramount_sell_495_equity_stake_to_saudi/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Anthropic has quietly built a biology lab, Reuters reports - The company confirms the wet lab exists and says it is not specifically for drug discovery.",
+              "url": "https://www.reddit.com/r/technology/comments/1wk51pv/anthropic_has_quietly_built_a_biology_lab_reuters/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "FBI warned ICE agents could be targeted by fake ‘tradwife’ dating profiles — Internal memo said women wanted to dox and ‘embarrass’ agents, but provided few details",
+              "url": "https://www.reddit.com/r/technology/comments/1wk5dob/fbi_warned_ice_agents_could_be_targeted_by_fake/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Gemini hacked three companies in first known breakout by Google's AI, WSJ reports",
+              "url": "https://www.reddit.com/r/technology/comments/1wk5mff/gemini_hacked_three_companies_in_first_known/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+              "url": "https://www.reddit.com/r/technology/comments/1wk8wav/ai_hallucination_of_chinese_nuclear_components/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Microsoft exec says AI training might be the \"largest labor theft in human history",
+              "url": "https://www.reddit.com/r/technology/comments/1wjsq57/microsoft_exec_says_ai_training_might_be_the/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount / The commission is waiving its rules to let foreign wealth funds own 49.5 percent of Paramount-Warner Bros.",
+              "url": "https://www.reddit.com/r/technology/comments/1wjsz2r/brendan_carrs_fcc_is_more_worried_about_who_the/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Microsoft’s Own Executive Called AI Training “the Largest Theft of Labor in Human History”",
+              "url": "https://www.reddit.com/r/technology/comments/1wjzumd/microsofts_own_executive_called_ai_training_the/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Exclusive: US military had close call after using AI for false intelligence report, sources say",
+              "url": "https://www.reddit.com/r/technology/comments/1wjylj6/exclusive_us_military_had_close_call_after_using/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "More and more people believe that AI will take away jobs rather than create new ones",
+              "url": "https://www.reddit.com/r/technology/comments/1wjy4ys/more_and_more_people_believe_that_ai_will_take/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "2 in 3 Harvard Professors Say AI Has a Negative Impact on Class",
+              "url": "https://www.reddit.com/r/technology/comments/1wjthty/2_in_3_harvard_professors_say_ai_has_a_negative/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "T-Mobile COO Leaks Photos Of iPhone 18 Pro IMEIs and Serial Numbers",
+              "url": "https://www.reddit.com/r/technology/comments/1wjw89v/tmobile_coo_leaks_photos_of_iphone_18_pro_imeis/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Facing Outraged Residents, Flock Got Help From Group That Uses AI to Rally Public Support | Beset by critics in Knoxville, Flock partnered with a nonprofit accused of “astroturfing” for a campaign to generate support for its surveillance cameras",
+              "url": "https://www.reddit.com/r/technology/comments/1wk0gll/facing_outraged_residents_flock_got_help_from/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Air traffic control assisted by AI could arrive as soon as next week",
+              "url": "https://www.reddit.com/r/technology/comments/1wjz8z2/air_traffic_control_assisted_by_ai_could_arrive/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "US military had close call after using AI for false intelligence report",
+              "url": "https://www.reddit.com/r/technology/comments/1wk2ezc/us_military_had_close_call_after_using_ai_for/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Texas agency suspends Flock camera approvals",
+              "url": "https://www.reddit.com/r/technology/comments/1wk66bk/texas_agency_suspends_flock_camera_approvals/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Exclusive: US military had close call after using AI for false intelligence report, sources say",
+              "url": "https://www.reddit.com/r/technology/comments/1wk8tsf/exclusive_us_military_had_close_call_after_using/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Oracle's $18 billion data center debt under pressure, FT reports",
+              "url": "https://www.reddit.com/r/technology/comments/1wk85pm/oracles_18_billion_data_center_debt_under/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Inside airlines' panic as FAA pushed new AI tool",
+              "url": "https://www.reddit.com/r/technology/comments/1wk6z2r/inside_airlines_panic_as_faa_pushed_new_ai_tool/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Korea raises data breach fines to 10% of revenue",
+              "url": "https://www.reddit.com/r/technology/comments/1wk9bnq/korea_raises_data_breach_fines_to_10_of_revenue/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "‘Godfather of AI’ warns Congress has ‘maybe a year’ left to regulate AI",
+              "url": "https://www.reddit.com/r/technology/comments/1wjxrhl/godfather_of_ai_warns_congress_has_maybe_a_year/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Hackers breach OpenAI using Claude tools, gaining access to employee accounts and the company's internal codebase — attackers initiated a 'harmless' pull request as proof of the hack",
+              "url": "https://www.reddit.com/r/technology/comments/1wjqpzy/hackers_breach_openai_using_claude_tools_gaining/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "📈 Why Did AI Stocks Rally Even After the Fed Raised Rates? At first glance, higher interest rates would normally be expected to pressure growth stocks. Yet, the market delivered a different message as investors rotated back into AI and technology companies - facebook.com",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONW1kZ0xCaUNZX3lYTkJmWjN3allYUE9sTDc1RUEzdWZvVFlIVXBLdnFMdjNrczFSbGZITWlJZkpTWVdmYTBJbkhBNTRYU2wxdUZyV1ZSNWpjb1VkbGw0U1U5SkZ4dU9rZms2aHVaaW9kbkVYTkx2YThEX0xHZWxxSGZvVjFJck5BbFFUOGdGUjBfTks4cU5qOGFRSmxWSUFraXdVVnN2Q0lRN2ZqVGlMcGYxSWlERlFkeVlJUFhTUlREVl9uVEVPX0ZVdWhKOWhCclBONkRpSTRkYWF5M0E?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Can AI grow us out of $40 trillion in debt—before it kills us? In 1992, economist Robert Eisner argued on #FiringLine that Americans were too alarmed about the national debt. Today, Baroness (Dambisa) Moyo sees the debt as a grave threat—but hopes an e - facebook.com",
+              "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQW03aWU1WGFNaTlKanhkdFg4aWF1NFdkWUlKMUlXektMWmpmbEc1Q3ZFbGpTLXZ1eGxSekY5Tlh5VUlfbEpITGFNdmd6dm1tN25YVjYySS0xelA0cmY5eEZETlJvOFJqemxUZE1rVDcxWWhWZGVJdXdFVU9xWFBmaFJXT29MWTNDMDdac2VQUmplU1FlNzBMSXlqMWRQOUZUUTFhc1BLdnduVU9tUThvSkhGWUxLSDktMW81VDlfT0wzMHAzNFpRcUt2OHladVZsNnhUV05TQ3BMb2dlVHBGbXZnWWVDUkR0OTdBR0F5dw?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Now AI Agents Can Do More Than Just Pay 👀👇 At GFF 2026, payments giants are turning AI agents into operators that can recover failed payments, reconcile chargebacks, manage refunds and even complete purchases. From BharatPe and PayU India to Cas - facebook.com",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRXBCZjk0ZTlmTlZlVUt1RkExNGdQQUFuZzJUbnpnS3lHZDNCRmpLU3UxRUpzeThfLWFUSUxRaGo2bXNOVVFiOWVpRXBLODR2c1Fsb25jVFptYVdfcVpCdUo3R3dCOWUwUFhiYmxSWWJjQlM4OUVTUVhXSjMtcjhNQmZTTXNJVVBJa0tuV1o3S0ozN05DZDBFeV9nejBPSFBNM2hrcU9vcUtZYzlhWDlYN3lTcUJhZ05XRzBLb0lyY2FQTEhHTXZuZzlPN0wxSTVV?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "The AI war is no longer just in the cloud. It’s coming to your phone. 📱⚔️ Apple ’s iOS 27 puts Siri AI at the centre with personal context, in-app actions and on-screen awareness. But Siri has company. Google ’s Gemini, Samsung ’s Galaxy AI, Xiaomi ’s HyperA - facebook.com",
+              "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR3RHZ1JZbDhReXduVXZndnBQMXZuLWk1dlh6aHVQdThmOHNPUkM4QXdHT0RvS2RBaHVWNEJ1eHhOcjF4OV9va0prVG5QZFVoM0xaSEdNSVo0djRyWE9HWGdVZUc2UVhqSTlDWW14MHBvZkNNcEdqbHpKZ1p3R2pBMkNudFJUb0hWQnI4dnN1NDZmd0lFRks5Wm90eWlzdWJORWZhOGtTTk9ad2Z6UTZEeDkyM01UREZFT1ZUVV9id05CREVEZ1ItNnE3ZUFiWENlWFJfM2tkX1RNa28?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Two signs investors don’t have to fear an AI slowdown - facebook.com",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRHhnYjBHVjltOS1FZkxqamh2UnNNYXdHbzdRamkyTjZ4NndQbTVoQmY2aG05TmRBVWVCOU9YVTVWREhWeWpicGtkV1lqSWExbG9LWGZTZzJyQy1TRnVQbXB6MHJXblBxZ3BtNEYyX1l3aC01R2NYZjBxU2JwcHZmOWdhR1VCV1BWZUd6emhCQnNLT0t2d0xKNGd0VXEtM3hiR1B3azFibnBxRHdfY2VVTGZ2OA?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 27
+        },
+        {
+          "name": "TW News",
+          "anchor": "TW-News",
+          "archive_url": "./history/2026-09-19_04-13/index.html#TW-News",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "川普推動提高H-1B簽證費 措施延長1年",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5579044",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "洋流來高雄  柯志恩：只要能帶動經濟、不管什麼「流」都歡迎",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579138",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "疑起步踩錯油門！ 苗栗轎車暴衝撞進超商",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5579130",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "女神卡卡傳代孕當媽！米莉芭比布朗收養二寶：沒血緣也是愛",
+              "url": "https://ent.ltn.com.tw/news/breakingnews/5579114",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "婦欠交通罰單稅金16萬 保單遭凍結急求助…准分期原因曝",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5579122",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "拔河》室外拔河世錦賽台灣隊摘2金1銅 女子500公斤5連霸",
+              "url": "https://sports.ltn.com.tw/news/breakingnews/5579133",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "饒河夜市攤商爆被要求拆「洋流」標語！律師怒打臉市府公文",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579056",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "才被爆退通告取消專訪 網傳蔣萬安希望提供訪綱",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579042",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "光岡神秘新作真面目首度曝光！Mazda MX-5 搖身一變成美式經典跑車",
+              "url": "https://auto.ltn.com.tw/news/32943",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "iPhone 18 Pro前代手機殼實測能用　蘋果官方卻列不相容",
+              "url": "https://3c.ltn.com.tw/news/67651",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "蔣萬安、沈伯洋高雄會師！被問何時南下輔選 盧秀燕透露「分身乏術」原因",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579117",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "何欣純回大里憶打敗鄭麗文 講到落淚喊「再給我一次力量」拚市長",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579108",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "屋主買到七千萬元豪宅漏水「屋王」  建商七度會勘卸責非重大瑕疵",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5579083",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "美軍研發「打帶跑」反飛彈雷達 C-17空運、數分鐘撤收躲敵軍獵殺",
+              "url": "https://news.ltn.com.tw/news/def/breakingnews/5579123",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "中和土地公遶境祈福嘉年華 侯友宜、李四川同台祝賀",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579116",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "B-21接班前先續命！美軍延壽B-1、B-2 兩款轟炸機為何還不能退",
+              "url": "https://news.ltn.com.tw/news/def/breakingnews/5579093",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "沈伯洋「請益之旅」該找黃珊珊？趙曉慧：可展現跨黨派治理交流",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579069",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "藍莓越大 部分營養成分反而越少？美研究追128品系揭真相",
+              "url": "https://health.ltn.com.tw/article/breakingnews/5579103",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "陳建州心梗引關注！  醫揭運動族迷思：體能好也抵銷不了三高",
+              "url": "https://health.ltn.com.tw/article/breakingnews/5579106",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "台東部落票倉民進黨長期吃鱉 陳瑩具原住民身分能否翻轉受矚目",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579104",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "李洋亞運遭擋梁文傑酸爆鄭麗文「這主張」 國民黨反擊",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579035",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "漏網鏡頭》沈伯洋北投市場拜票 巧遇兩個蔣萬安元素",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579088",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "國際報告指台灣「司法獨立下降」！盧秀燕：別讓大選淪為「大罷免 2.0」",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579095",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Anduril創辦人拉奇：面對兩岸國防支出差距 台灣必須「作弊」出奇制勝",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579067",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "蔣萬安登專訪疑跳票 沈伯洋：北市府問題多、市長可能特別忙",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579086",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "新北樹林女清潔員清晨掃街遭機車撞擊 送醫不治",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5579072",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "NBA》金塊開福袋 雙向約最後一格簽下砍將惠特摩",
+              "url": "https://sports.ltn.com.tw/news/breakingnews/5579043",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "美光與工會首場調解落幕 雙方同意10/22再協商",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5579087",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Anduril創辦人：自由是台灣最強大武器、應讓MIT成為品牌",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579053",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "搭機返台遭碰撞 女乘客不滿掌摑空服員遭起訴",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5579089",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "健康網》老化的時鐘在肚裡 研究：腸道好菌組抗老軍團",
+              "url": "https://health.ltn.com.tw/article/breakingnews/5578664",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "基隆-石垣島渡輪10月停航 謝國樑：旺季可望復航",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5579068",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "自由開講》重罰Meta 台灣兒少數位防線該跟上",
+              "url": "https://talk.ltn.com.tw/article/breakingnews/5568022",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "學生被撞自己跑了 駕駛未報案仍吃上「肇事逃逸」官司",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5579057",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "營養午餐食物中毒案 沈伯洋喊重回自費、蔣萬安稱民進黨議員也支持免費",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579064",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "警界心靈補破網2-2》職場「陽剛文化」難改善 基層警揭防制機制三大漏洞",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5579032",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "盧秀燕又喊中央卡藍線  陳世凱不忍了「1公分都蓋不出來還怪中央不給錢」",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579052",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "南極臭氧洞已出現復原跡象 唐獎得主揭成功修補關鍵",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5579054",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "李四川競選總部「市民總部」啟用 設有親子遊戲空間、旋轉木馬",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5579048",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "才獲「俄羅斯英雄」不到3週 「普廷之耳」俄少將遭烏擊殺",
+              "url": "https://news.ltn.com.tw/news/def/breakingnews/5579090",
+              "tier": 2,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 40
+        },
+        {
+          "name": "Technology",
+          "anchor": "Technology",
+          "archive_url": "./history/2026-09-19_04-13/index.html#Technology",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "狂吸 2.4 億美元，「海上滑行飛機」REGENT 如何用水翼船顛覆交通與國防",
+              "url": "https://technews.tw/2026/09/19/why-regent-secured-10-billion-in-orders/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "宏碁陳俊聖盼升息緩解記憶體漲風！施振榮拋「新王道」駕馭 AI 亂象",
+              "url": "https://finance.technews.tw/2026/09/19/surge-in-memory-prices/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "免疫系統「假警報」成老化推手，解析 cGAS 蛋白如何操控發炎與細胞退化",
+              "url": "https://technews.tw/2026/09/19/scientists-uncover-new-link-aging-inflammation/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "從喊「還用不到」到排進量產，台積啟用新曝光機，台廠誰受惠？",
+              "url": "https://technews.tw/2026/09/19/tsmc-high-na-euv/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "AI 失控成真？Google Gemini 驚爆首度「自主連線」駭入三家企業",
+              "url": "https://infosecu.technews.tw/2026/09/19/hacking/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "終結「男友視角」災難！TikTok 前員工打造 AI 拍照教練，教你擺出完美姿勢",
+              "url": "https://technews.tw/2026/09/19/ai-posing-app-superpose/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "聯茂 M9 材料超車同業獲美系認證，陳進財祭 4 大策略深耕 4S 市場",
+              "url": "https://finance.technews.tw/2026/09/19/m9-surpasses-competitors-elite-material-different-strategy-chen-jin-cai/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "破解長新冠腦霧謎團，研究證實多巴胺神經損傷是失去動力的關鍵",
+              "url": "https://technews.tw/2026/09/19/long-covid-brain-fog-biological-explanation-found/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "「車燈不是亮就好」，小金雞儒億如何創新搏對手？堤維西二代接班四年攻智慧車燈",
+              "url": "https://finance.technews.tw/2026/09/19/juokuelectronics/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "59% 患者癌細胞完全消失！大腸癌術前免疫療法創奇蹟，患者近三年零復發",
+              "url": "https://technews.tw/2026/09/19/preoperative-immunotherapy-colorectal-cancer-zero-recurrence-nearly-three-years/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "星系也會暴風成長，M74 與鄰居交會後「擦出」一片年輕恆星",
+              "url": "https://technews.tw/2026/09/18/the-explosive-growth-of-the-messier-74-galaxy-a-galaxy-doubling-its-size-in-less-than-a-gigayear/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "【全球 900+ IT 高管報告】雲端與 AI 時代新規：49.1% 企業為導入 AI 加速上雲，IT 拚的不是客製軟體而是資料整合",
+              "url": "https://techorange.com/2026/09/19/transformations-studie-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "tier": 2,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 12
+        }
+      ]
+    }
+  ]
+}
