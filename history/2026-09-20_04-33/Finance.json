@@ -1,0 +1,32 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-09-20_04-33",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
+      "url": "https://www.investing.com/news/commodities-news/smoke-visible-near-riyadh-airport-after-saudi-arabia-issues-allclear-4908080",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Brazil’s Petrobras board approves joining diesel subsidy program",
+      "url": "https://www.investing.com/news/commodities-news/brazils-petrobras-board-approves-joining-diesel-subsidy-program-4908111",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Canada optimistic about concluding trade talks with India by year-end, minister says",
+      "url": "https://www.investing.com/news/commodities-news/canada-optimistic-about-concluding-trade-talks-with-india-by-yearend-minister-says-4908078",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Saudi Arabia sounds air-raid alerts as missile and drone assault intensifies",
+      "url": "https://www.ft.com/content/07fd42b5-0610-470c-8fb8-4840b5401271?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
