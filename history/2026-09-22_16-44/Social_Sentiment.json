@@ -1,0 +1,128 @@
+{
+  "category": "Social Sentiment",
+  "timestamp": "2026-09-22_16-44",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "EPA unlawfully canceled $7B Solar for All program, judge rules",
+      "url": "https://www.reddit.com/r/technology/comments/1wn5qva/epa_unlawfully_canceled_7b_solar_for_all_program/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Engineer says Claude Code has made his job \"soul-sucking\" as workers spend 12-hour days pressing enter",
+      "url": "https://www.reddit.com/r/technology/comments/1wn7qdj/engineer_says_claude_code_has_made_his_job/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Acer CEO says PC prices could fall by 2027, accuses rivals of milking the RAM shortage for profit",
+      "url": "https://www.reddit.com/r/technology/comments/1wn5syf/acer_ceo_says_pc_prices_could_fall_by_2027/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Researchers found a way to eavesdrop on headphones from 30 meters away, and encryption can't stop it",
+      "url": "https://www.reddit.com/r/technology/comments/1wn9o00/researchers_found_a_way_to_eavesdrop_on/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Meta bans ads for Virginia Woolf play in Spain because they relate to feminism",
+      "url": "https://www.reddit.com/r/technology/comments/1wn20uo/meta_bans_ads_for_virginia_woolf_play_in_spain/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "High-mileage electric cars are more reliable than petrol ones, study finds",
+      "url": "https://www.reddit.com/r/technology/comments/1wnal03/highmileage_electric_cars_are_more_reliable_than/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "ASML has zero revenue from Europe",
+      "url": "https://www.reddit.com/r/technology/comments/1wnb2qg/asml_has_zero_revenue_from_europe/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "AI data center boom hits growing resistance as $68 billion in US projects are blocked or delayed",
+      "url": "https://www.reddit.com/r/technology/comments/1wnbrvv/ai_data_center_boom_hits_growing_resistance_as_68/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Tesla faces major trial for alleged bias against Black workers, after years of lawsuits",
+      "url": "https://www.reddit.com/r/technology/comments/1wn6hzj/tesla_faces_major_trial_for_alleged_bias_against/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Xbox Lay Offs Continue With 268 Employees Cut; Activision to Develop Next ‘Halo’ Game as Part of Studio Reorg",
+      "url": "https://www.reddit.com/r/technology/comments/1wnadlt/xbox_lay_offs_continue_with_268_employees_cut/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "People Training OpenAI’s AI Fired for Using AI to Train the AI",
+      "url": "https://www.reddit.com/r/technology/comments/1wn8vjw/people_training_openais_ai_fired_for_using_ai_to/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Londoner jailed for selling £2.7million of fake vinyl on \"industrial scale\"",
+      "url": "https://www.reddit.com/r/technology/comments/1wn5mux/londoner_jailed_for_selling_27million_of_fake/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "AMD hits $1 trillion market cap for the first time as stock rides 5-day rally",
+      "url": "https://www.reddit.com/r/technology/comments/1wn1bft/amd_hits_1_trillion_market_cap_for_the_first_time/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Bethesda Is Taking Legal Action Against Doom-Themed Memecoin Promoted By Former Doom Designer",
+      "url": "https://www.reddit.com/r/technology/comments/1wn41df/bethesda_is_taking_legal_action_against/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Google using search and YouTube history to guess Canadians’ ages and could make them show ID",
+      "url": "https://www.reddit.com/r/technology/comments/1wndwsk/google_using_search_and_youtube_history_to_guess/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "It's Donald Trump Versus MAGA on Data Centers | The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+      "url": "https://www.reddit.com/r/technology/comments/1wn12ns/its_donald_trump_versus_maga_on_data_centers_the/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "22 countries back call to keep AI ‘under human control’",
+      "url": "https://www.reddit.com/r/technology/comments/1wn65g6/22_countries_back_call_to_keep_ai_under_human/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Stem cells reverse stroke damage and restore movement in mice",
+      "url": "https://www.reddit.com/r/technology/comments/1wn9g4g/stem_cells_reverse_stroke_damage_and_restore/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "IEEE's Megatrends 2030 report identifies 30 technologies across AI, energy, health, space and physical AI that could shape the next decade. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVktReXJ1dWM3U05KS0NZY09JX01JMUd0OWpoYlV0S25fd044cldQSTRRVnB5ZWxHTnpzaGxtZ1FnQWdkdENsb2RIeUZfZWYtaU1LQk0tYmVsTWRKNENFc0M1RkR2WjhyYVlpYkI1RkFyQ1hpVzRKUXZuVGdyZDFNZFN6UHpHWGQwWDA2NnhYS0QtTGhaRmExNXhnVVphT1VIRFJuZHVBQXpleWpGaXVrakI2eHIwRC1XZktXZW9icFZqWEhGNzRHcHFjU2FDSzM0NHdKekN2Y3hYQTdmTk1sd0s2dw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "China’s AI boom is racing ahead even as its economy slows. A look at the widening gap between technological progress and consumer spending, and why the challenge could extend far beyond China. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY3FyZy15LUtVTXd4Q2w3SzNjc1Q2cjRIVFBaUUFoYWNSMDdBbUVlLWhZZ1RwWEttMFRrZDZYZTRHOW9LVnEzSC1TQzRSVk1iamFmOTNLa29aV2F1cWVldVV4ZzM4Sy1tYTl5ZGlhUHdwN0F1TlZvdm1ocWdwRFhfVlAxRlpZWkxpRkVMcTUzQXE2M1lKb296RWJWNVlGZnBoZjZVMUdXOGItNkdZSUY5Z1d1YXRuSGU0WFM5NjNfTmdKYjJGVF9wSEZGc1dXNnhQdDlkeW9KQ0g?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
