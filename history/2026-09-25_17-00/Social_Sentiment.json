@@ -1,0 +1,104 @@
+{
+  "category": "Social Sentiment",
+  "timestamp": "2026-09-25_17-00",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline | A security researcher’s map revealed more locations of Flock devices than any other. Flock is trying to take it down",
+      "url": "https://www.reddit.com/r/technology/comments/1wpyzn4/flock_wants_the_most_detailed_map_of_its/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The Netherlands joins Europe's gradual migration from Windows to Linux on government PCs",
+      "url": "https://www.reddit.com/r/technology/comments/1wpv9od/the_netherlands_joins_europes_gradual_migration/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Russian disinformation campaign sets sights on US midterms",
+      "url": "https://www.reddit.com/r/technology/comments/1wpshyi/russian_disinformation_campaign_sets_sights_on_us/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The personal AI agent horror stories are rolling in",
+      "url": "https://www.reddit.com/r/technology/comments/1wppgtp/the_personal_ai_agent_horror_stories_are_rolling/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Amazon is blocking Meta's shopping AI agent, and plans to block Google and OpenAI's too",
+      "url": "https://www.reddit.com/r/technology/comments/1wpvaq7/amazon_is_blocking_metas_shopping_ai_agent_and/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Meta's new smart glasses skip the cameras, and the privacy backlash that came with them",
+      "url": "https://www.reddit.com/r/technology/comments/1wpu23e/metas_new_smart_glasses_skip_the_cameras_and_the/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+      "url": "https://www.reddit.com/r/technology/comments/1wpw3gc/microsoft_recent_windows_updates_cause_desktop/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "B.C. attorney general shocked by news report that ChatGPT told Tumbler Ridge shooter how to avoid safeguards",
+      "url": "https://www.reddit.com/r/technology/comments/1wpzvqj/bc_attorney_general_shocked_by_news_report_that/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "US government wants to join X’s lawsuit against EU fine",
+      "url": "https://www.reddit.com/r/technology/comments/1wppu67/us_government_wants_to_join_xs_lawsuit_against_eu/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment | Vendors rolling out AI have an “incentive to deny as many claims as possible.”",
+      "url": "https://www.reddit.com/r/technology/comments/1wpwveh/trump_admin_using_ai_to_deny_medical_care_for/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "UK wants more homes heated by waste heat from datacenters",
+      "url": "https://www.reddit.com/r/technology/comments/1wpr326/uk_wants_more_homes_heated_by_waste_heat_from/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "OpenAI has a Mark Zuckerberg-shaped problem",
+      "url": "https://www.reddit.com/r/technology/comments/1wpuzu1/openai_has_a_mark_zuckerbergshaped_problem/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "23 states urge Congress to regulate AI, warn of risks to national security and infrastructure",
+      "url": "https://www.reddit.com/r/technology/comments/1wpztvr/23_states_urge_congress_to_regulate_ai_warn_of/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "India, US Explore Deeper Cooperation on AI Economy and Infrastructure India and the United States discussed ways to strengthen cooperation around the artificial intelligence economy during a high-level roundtable held on the sidelines of the United Nations - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVUdxTGFHYnVlb2xrYlAxUlhGLWVsMW5pRy1QSUtZekpCMWMydkZPSkhTMmNhLWRxWjR0b2E3d3dZbVdqNmtiZ1hMdlZLWW84ejdjS3B2U1dNbXhBeE8tMDRhUTFoZVZJTWgzUlY1UmQ5MzdpNW85S1FLQldVXy1Bbk1jeFJiNTBUTUdfQlB1cEFpZTlTbDU3WUVhY2doUHpWNENxdWhRMVo4cXZDUEI4aFdublJvSWo1VVh1WGVTcDJ4cHdvNnJXbzE2QzhQYURBM3R2WnhPMkkxZjAzbkE?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "OpenAI vs Anthropic: Is the AI race getting cheaper or riskier? 👀 Both are rolling out more capable models at lower costs, but the race is also raising bigger questions around AI safety, autonomy and human control. From Claude Opus 5.5 to GPT-6 Sol and Lun - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa1ZwNnpzVjQyVnhmNVJUNzB3bW94WjJ1cEdlYUZpMnJxV0xkclFnLUlyODdzOVpiYmtTZDhVZnNORGVnX0NXTmpDdEtjNEl4WkR3VFM2X2MxcmVTSEpuVElmRXdMeHFGTmZMa200NDVGU1FHYXdBMWVMQ0stQUFHeTJKbWJyTExINkJ1enNTaGs4WGc3ajUxTjJyYUZJREM1TzRxRkNBb01fNlZqT0dKUjFscFFtYnNid3NnR0JNT0xFazZQWnpFNGdPSGlFMnFI?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Seasoned tech veterans are heading back to the classroom for an AI upgrade | A threefold quarterly jump in enrolments has led IIT Kharagpur and upGrad to expand their executive AI offerings from four to seven programmes since April 2026, drawing mid-care - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM1JUQ0IwZm94bFprV3VRaktmSGNrbEFyeWNjZDZtMTFUVW4xblF1Mmc3WnVqQXVrQWtZQkJxbkNzMDNmelZYWHM0aGtHdjNsUWxnNjF0QVZMRkcwODQ3T3E3RG1WY2c5a0Y5V1JvYzlzTWJDczFfUTNtM1NHX3RYUGNuVEJBb3JxVnpVektSRmt1UTdBNUdlUDlrSzZuMno1VW5yM2JuZnM2ZHRsVmNIOHJkS2tVRFVBdXY3TjdmVGp1X2lBRUM5dkU5ZGpQenhMN3dFZHVxcTgwNms?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}

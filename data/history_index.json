@@ -13,6 +13,18 @@
           "TW News",
           "Technology"
         ]
+      },
+      {
+        "time": "17:00",
+        "categories": [
+          "AI",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "TW News",
+          "Technology"
+        ]
       }
     ]
   },
