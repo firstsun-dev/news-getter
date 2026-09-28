@@ -1,0 +1,26 @@
+{
+  "category": "AI",
+  "timestamp": "2026-09-28_19-32",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "OpenAI's agents went rogue on Washington",
+      "url": "https://therundownai.beehiiv.com/p/openai-s-agents-went-rogue-on-washington",
+      "tier": 3,
+      "seen_count": 1
+    },
+    {
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "tier": 1,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
