@@ -1,0 +1,128 @@
+{
+  "category": "Technology",
+  "timestamp": "2026-09-28_05-03",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "歐盟管起 AI 資料中心，2027 年將訂能源、用水最低效率標準",
+      "url": "https://technews.tw/2026/09/28/eu-regulate-ai-data-centers-minimum-energy-water-efficiency-standards-2027/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "巴西工地出土巨型恐龍化石，揭開 1.2 億年前的跨洲遷徙",
+      "url": "https://technews.tw/2026/09/28/giant-new-dinosaur-discovered-beneath-construction-site-in-brazil/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI 從電子病歷挖出膀胱癌警訊，部分訊號最早確診前五年就出現",
+      "url": "https://technews.tw/2026/09/28/ai-detects-hidden-bladder-cancer-warning-signs-up-to-5-years-before-diagnosis/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI 推論雲端新創 Gimlet Labs 獲 a16z 領投 3 億美元，主打「異質晶片配對」重塑資料中心",
+      "url": "https://technews.tw/2026/09/28/ai-startup-gimlet-labs/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI 三巨頭齊喊放慢腳步，為何硬體供應鏈卻是「換檔加速」？",
+      "url": "https://infosecu.technews.tw/2026/09/28/amodei-altman-musk-call-slow-ai-hardware-shortage-cooling/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "台電主張富崴 95.4 億元違約金及費用",
+      "url": "https://technews.tw/2026/09/28/taipower-demands-fuwei-nt9-54-billion-liquidated-damages-expenses/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "代理式 AI 與量子運算聯手開啟自主決策新紀元，企業如何迎戰「Q-Day」資安威脅？",
+      "url": "https://infosecu.technews.tw/2026/09/28/combination-agentic-ai-quantum-technology/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "人型機器人進入量產期，從零件到系統，供應商搶占關鍵位置",
+      "url": "https://technews.tw/2026/09/28/humanoid-robots-mass-production-suppliers-vie-key-positions-components-systems/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "荷莫茲海峽重開再等等，川普拒絕伊朗提案",
+      "url": "https://technews.tw/2026/09/28/strait-of-hormuz-reopening-delayed-trump-rejects-iran-7-day-plan/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "平靜可能只是假象，歷史黑子群顯示太陽也能產生超級閃焰",
+      "url": "https://technews.tw/2026/09/28/alarming-study-finds-new-evidence-that-the-sun-can-produce-catastrophic-superflares/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "電池材料大廠康普收服特斯拉與豐田，跨足半導體化學品三箭齊發大啖非紅商機",
+      "url": "https://finance.technews.tw/2026/09/28/coremax-corporation/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "從供需失衡到高壓規格戰，解析全球 PMIC 市場新格局",
+      "url": "https://technews.tw/2026/09/28/global-pmic-market-new-landscape-from-supply-demand-imbalance-to-high-pressure-spec-war/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "XRISM 首度直擊恆星風墜入中子星，天文學家看清脈衝星進食全程",
+      "url": "https://technews.tw/2026/09/28/nasa-jaxa-xrism-mission-sees-pulsar-gathering-companions-wind/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "OpenAI代理人再涉及美國政府、公開資料網站存取事件",
+      "url": "https://www.ithome.com.tw/news/179241",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "四大作業系統檔案通知存在側通道風險，Windows、Android可暴露更多使用資訊",
+      "url": "https://www.ithome.com.tw/news/179240",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Google AI付費方案新增Colab進階權益",
+      "url": "https://www.ithome.com.tw/news/179239",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "微軟新Copilot整合Cowork、Office，Scout改名Autopilot",
+      "url": "https://www.ithome.com.tw/news/179238",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Android Studio開放BYOA，Codex等代理可透過ACP串接IDE",
+      "url": "https://www.ithome.com.tw/news/179232",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "亞太地區勒索軟體事件月增近27%，臺灣事件數排名第三",
+      "url": "https://www.ithome.com.tw/news/179235",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "MIND募資7,200萬美元，以AI代理強化企業資料外洩防護",
+      "url": "https://www.ithome.com.tw/news/179209",
+      "tier": 2,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
