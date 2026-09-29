@@ -1,0 +1,572 @@
+{
+  "category": "Technology",
+  "timestamp": "2026-09-29_18-00",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+      "url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Making AI an asset, not an expense",
+      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+      "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "金像電私募拍板亞馬遜 15.89 億元入股，另通過 79 億元新廠擴產案",
+      "url": "https://finance.technews.tw/2026/09/29/golden-image-private-equity-funds-invest-nt1-589-billion-in-amazon/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "賓士、輝能簽署合作協議，取得次世代固態電池優先權",
+      "url": "https://technews.tw/2026/09/29/mercedes-benz-prologium-ssb-priority/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "毅力號火星重大發現，耶澤羅撞擊坑岩石揭密「三階段」水活動歷史",
+      "url": "https://technews.tw/2026/09/29/early-martian-rocks-reveal-at-least-three-independent-water-events/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI 狂潮席捲！台灣三大科學園區 2026 上半年總營收破 3.5 兆創歷年同期新高",
+      "url": "https://finance.technews.tw/2026/09/29/taiwans-three-major-science-parks-achieved-a-combined-revenue-exceeding-nt3-5-trillion-in-the-first-half-of-2026/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Meta Muse 被爆偷看私人訊息，掀起隱私疑慮",
+      "url": "https://infosecu.technews.tw/2026/09/29/meta-s-muse-read-private-messages-without-permission/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "森崴旗下富崴擬聲請破產，主張台電扣留逾 106 億元款項",
+      "url": "https://technews.tw/2026/09/29/offshore-wind-phase-2-contract-dispute-fuwei-95-billion-penalty/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "星座級挫敗後再接再厲，義大利芬坎蒂尼將用 FREMM EVO 爭取美軍巡防艦計畫",
+      "url": "https://technews.tw/2026/09/29/fincantieri-wants-to-participate-in-ffx-again-with-fremm-evo-design/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "研調：全球人型機器人 H1 出貨量增 4.3 倍，中國占 78%",
+      "url": "https://technews.tw/2026/09/29/china-accounts-for-78-of-humanoid-robot-h1-shipments/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "8 月景氣燈號連九紅，9 月可望續亮紅燈刷新最長紀錄",
+      "url": "https://finance.technews.tw/2026/09/29/august-economic-indicator-stays-in-red-for-ninth-straight-month/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "鴻海持續推進 AI 與全球布局，劉揚偉連獲多項企業領袖獎項",
+      "url": "https://technews.tw/2026/09/29/young-liu-ai/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "寧抗告也不交出數據，Google 控歐盟「強迫開放競爭」將釀隱私災難",
+      "url": "https://infosecu.technews.tw/2026/09/29/google-appeals-eu-ruling/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Nvidia 首推 AI 工廠散熱認證，CDU 首波僅三家上榜",
+      "url": "https://finance.technews.tw/2026/09/29/nvidia-dsx-ready/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "輝達傳找保險業挺 GPU 融資、助攻 Neocloud 競爭力",
+      "url": "https://finance.technews.tw/2026/09/29/nvidia-turns-to-insurers-to-spread-the-risk-of-ai-build-out/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "摺疊機命名致敬微軟？但蘋果早在 1992 年就用過「Duo」",
+      "url": "https://technews.tw/2026/09/29/iphone-duo-surface-duo/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "別對聊天機器人說「謝謝」，英國政府為公務員訂下 AI 使用守則",
+      "url": "https://technews.tw/2026/09/29/uk-civil-servants-told-to-stop-saying-thank-you-to-ai/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "川習會未談汽車，日媒：中國車進入美國市場只是時間問題",
+      "url": "https://technews.tw/2026/09/29/japanese-media-trump-xi-summit-no-auto-talks-chinese-cars-us-market-matter-of-time/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "記憶體紅利爆發！華邦電獎金傳上看百萬，但美光罷工票還沒算完",
+      "url": "https://technews.tw/2026/09/29/memory-winbond/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "緩解 AI 算力荒，中國傳擬放行字節跳動與阿里巴巴採購輝達 RTX Pro 5500",
+      "url": "https://technews.tw/2026/09/29/nvidia-influence-trump-ai-policy/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "美好市多獲 58.5 億關稅退款，商品降價台灣未表態跟進",
+      "url": "https://finance.technews.tw/2026/09/29/costco-5-85-billion-tariff-refunds-taiwan-no-price-match/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Muse 對手？AI 代理新創 Instinct 估值破百億美元",
+      "url": "https://technews.tw/2026/09/29/instinct-valuation-tops-10-billion/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "反映 HBM 供應持續吃緊，上修 2027 年 HBM 價格展望、預估 ASP 年增達 121%",
+      "url": "https://technews.tw/2026/09/29/2027-hbm-price-outlook-revised-upward/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "光寶擴大智慧財產權布局，加入 LOT Network 專利防護網",
+      "url": "https://technews.tw/2026/09/29/lite-on-expands-ip-footprint-joins-lot-network-patent-protection/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "雅特力 AT32M412 無電解電容 FOC 變頻驅動方案，實現降本增效",
+      "url": "https://technews.tw/2026/09/29/arterychip-at32m412/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Meta VR Glasses 是個方向？蘋果下代 Vision Pro 四設計方向曝光",
+      "url": "https://technews.tw/2026/09/29/vision-pro-n224/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "不再非用美國系統不可？數據揭低成本助攻中國 AI 模型成美企新寵",
+      "url": "https://technews.tw/2026/09/29/us-china-ai-rivalry/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Anthropic IPO 稱 AI 恐威脅人類、承諾支出逾 5 千億美元",
+      "url": "https://technews.tw/2026/09/29/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Google 曝 ChromeOS 退場時程，商用 Chromebook 可轉 Googlebook OS",
+      "url": "https://technews.tw/2026/09/29/chromeos-devices-will-continue-to-receive-regular-updates-and-security-patches-through-mid-2034/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI 資料中心邁向 38 kV，施耐德推軟體定義中壓配電",
+      "url": "https://technews.tw/2026/09/29/ai-data-centers-38kv-schneider-electric-software-defined-medium-voltage-distribution/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "日本 Nidec 傳擬認列「1 兆」減損、社長遭解任  股價挫",
+      "url": "https://finance.technews.tw/2026/09/29/nidec-books-1-trillion-yen-charge-president-dismissed/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "華為、阿里巴巴接連推出新晶片與超大 AI 模型，角逐中國最大算力企業",
+      "url": "https://technews.tw/2026/09/29/huawei-and-alibaba-tout-progress-in-ai-chips-clusters-and-models/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "產地不是重點，控制權才是！比亞迪「美國製造」為何仍難突破美方市場防線",
+      "url": "https://technews.tw/2026/09/29/byd-made-in-usa-us-market-struggle-control-is-key-not-origin/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "特斯拉 Optimus 產量雖然衝高，「手」卻成卡關瓶頸",
+      "url": "https://technews.tw/2026/09/29/tesla-wants-to-build-20000-optimus-robots-a-week-first-it-has-to-figure-out-hands/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "陳立武：台積電是夥伴不是對手，英特爾未來仍可能是其重要客戶",
+      "url": "https://technews.tw/2026/09/29/intel-ceo-lip-bu-tan-calls-tsmc-a-partner-not-a-rival/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "麥可貝瑞賭 AI 泡沫明年夏季恐破、買 Put 放大槓桿",
+      "url": "https://finance.technews.tw/2026/09/29/michael-burry-think-ai-bubble-could-burst-next-summer/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "字節跳動包辦中國 20% 資料中心容量，AI 基礎設施規模超越歐非中東總和",
+      "url": "https://technews.tw/2026/09/29/bytedance-grabs-one-fifth-of-chinas-data-centre-capacity-as-ai-drives-infrastructure-boom/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "日本京王線、東京地鐵營運業者分別遭網路攻擊",
+      "url": "https://www.ithome.com.tw/news/179282",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "從傳輸資料到支援AI運算，工研院：次世代網路正從Bit走向Token轉型發展",
+      "url": "https://www.ithome.com.tw/news/179272",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "歐盟ENISA示警數位依賴正削弱資安韌性，供應鏈、雲端與第三方服務持續遭鎖定",
+      "url": "https://www.ithome.com.tw/news/179268",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Cloudflare推出JavaScript開發工具鏈Vite+ 1.0，整合建置、測試與程式檢查",
+      "url": "https://www.ithome.com.tw/news/179271",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Manus 2.0登場，同步推出讓AI代理人擁有信箱、電話與錢包的Cue程式",
+      "url": "https://www.ithome.com.tw/news/179270",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Shopify讓WebMCP進入結帳流程，AI代理可在使用者確認後下單",
+      "url": "https://www.ithome.com.tw/news/179266",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "ShinyHunters二度大規模鎖定Oracle PeopleSoft發動攻擊，突破WAF偵測機制部署後續工具",
+      "url": "https://www.ithome.com.tw/news/179269",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "美國CISA警告Citrix NetScaler重大漏洞遭積極利用",
+      "url": "https://www.ithome.com.tw/news/179258",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "新加坡電信商Simba遭駭，逾2.3萬名用戶個資外洩",
+      "url": "https://www.ithome.com.tw/news/179257",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AMD斥資82億美元併購李飛飛創辦的World Labs，布局空間智慧AI",
+      "url": "https://www.ithome.com.tw/news/179256",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "佛州要求法院限制OpenAI開發新模型，禁止向未成年人提供ChatGPT",
+      "url": "https://www.ithome.com.tw/news/179255",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "CISA警告甫修補的WordPress重大路徑遍歷漏洞遭到利用",
+      "url": "https://www.ithome.com.tw/news/179254",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Kiteworks因攻擊威脅要求客戶停機9小時，期間發現Advanced Forms重大漏洞",
+      "url": "https://www.ithome.com.tw/news/179248",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "GitHub讓AI代理接手模糊測試，可依覆蓋率自動補測未觸及程式碼",
+      "url": "https://www.ithome.com.tw/news/179245",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "建置自動化工具Gradle 9.8支援Java 27，新增Maven鏡像設定並改善建置錯誤定位",
+      "url": "https://www.ithome.com.tw/news/179244",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "ShinyHunters聲稱竊得FBI資料中，包含敏感的探員個資與醫療紀錄",
+      "url": "https://www.ithome.com.tw/news/179253",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "研究人員首次實作可繞過質因數分解的RSA簽章偽造攻擊",
+      "url": "https://www.ithome.com.tw/news/179252",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "駭客利用SharePoint漏洞CVE-2026-65660發動兩階段攻擊，企圖部署Webshell",
+      "url": "https://www.ithome.com.tw/news/179251",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Apple緊急修補疑遭利用的iOS/iPadOS與macOS圖形處理框架高風險漏洞",
+      "url": "https://www.ithome.com.tw/news/179250",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "CISA警告SharePoint程式碼注入漏洞遭到利用",
+      "url": "https://www.ithome.com.tw/news/179249",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "電商平臺Magento、中介軟體WSO2重大漏洞遭積極利用",
+      "url": "https://www.ithome.com.tw/news/179247",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "NIST公布OT安全指南草案，CISA與FBI示警第三方ICS整合商風險",
+      "url": "https://www.ithome.com.tw/news/179234",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Honeywell警示企業OT資安仍有缺口，僅2成擁有完整資產清冊、3成完整整合SOC",
+      "url": "https://www.ithome.com.tw/news/179223",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "騰勢最快4Q26上櫃　AI數據驅動人用保健、寵物市場雙成長",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769928_09K80BBQ3QN3HI7I8WVSN",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI熱潮點火　南科1H26營收逾1.7兆、就業人數創新高",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769929_IJF8BP713XMER28NDYCEK",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "《新聞聚焦》美國封堵中國人形機器人　禁令究竟影響誰？",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769926_X2KLRR2E101GU87YZK7XQ",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "美債殖利率攀高　國發會：AI投資趨勢不變",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769908_OWY81O3W1OHMNQ7QYT39R",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "離岸風電二期履約爭議　台電：風機所有權屬台電、富崴無權設定抵押",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769925_91ULDLGF1EIXKH6XZR20E",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "三大科學園區1H26營收創新高　光電業轉型尋新生機",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769848_XFC9SI523FNY7I915ZAJ8",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "漢翔無人機反制系統演練　擴大關鍵基礎設施空域防護",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769923_3PD86X4H33PICK2G3IOH7",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "鴻海3+3+3、BOL雙軸推進　劉揚偉獲企業領袖評選肯定",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769918_OMJ82A0X2D5E297VAKNBC",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "6G、AI重塑資通訊鏈　工研院助台廠強化系統整合",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769919_70D8CV0Q2KQ4HB8M8ZGLI",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "金像電迎亞馬遜策略投資人　創CSP業者入股PCB廠先例",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769910_3X08EZYY2JTXWHLUE3AJ8",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "賓士與輝能深化固態電池合作　優先測試第四代電芯",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769912_U9C8GMLF27N1WL1CG8XHX",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "國喬石化聚焦高值化轉型　攜手AWI拓展台半導體材料",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769906_7NNL1CZRLQJS4F7CY8FGJ",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "羅博特科完成香港上市　加碼ficonTEC強化矽光子設備量產能力",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769860_0GH9N8805ULF0D1PBPDKF",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Bill Gates反駁AI監管拖累競爭力　稱中國也有誘因跟進",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769837_8MD9VV7G2EC2HS8SY7SPW",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "降低PAE風險　光寶加入LOT Network強化智慧財產權防護",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769884_YEG9GJ1B7NY2UK5UPAF4I",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Vivo旗艦新機X500 Pro Max影像及感測升級　艾邁斯歐司朗助攻",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769882_6K79F6MF7ZZVP73GABYLZ",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "半導體廠務邁向預測式管理　科勝串起AVEVA工業數據",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769895_CXM7PIWILT66944Z13RWY",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "民雄航太無人機產業園區動土　力拚2028年完工打造軍工科研聚落",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769838_6YV7X2JP4WXZQ27U74T8H",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Cerebras攜Gimlet攻AI推論　100MW晶片硬體導入Gimlet Cloud",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769828_TEK9SNCJ1M7XDO9MXQQDD",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Anthropic推Claude Sonnet 5.5　躍居獨立評測AI能力榜第二",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769854_FCI7JL026CW43K3NVZTIP",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "NVIDIA發表全新AI安全系統　宣稱毫秒級隔離脫序AI代理",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769836_3J495LJZ28AN837EOHFAN",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "三星2奈米良率傳逼近60%　全力改善功耗效能比搶攻大客戶",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769865_PH59I3A25114MD64NW55R",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "擷發AI無人機亮相美國台灣形象展　獲歐美指標客戶青睞",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769861_O9L7WOAT7HESDU0GFCLM3",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "北京有意允許阿里巴巴、字節跳動購買NVIDIA RTX Pro 5500",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769856_6BU7Y5U36Z39FI56CJ8T3",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "中國擴大出境管制　緊箍頂尖AI菁英與家屬",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769853_0129X53P4RNS8P4HM48SD",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Anthropic IPO文件揭AI安全風險　創辦人擬掌關鍵表決權",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769842_L5177VCT55J0T51ODNAMR",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "《不具名消息》SEP87 中國車市「捲」出海、Tesla往地下鑽，車廠的下一步在哪裡？",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769855_8WW99S5H4QYFQ068EPQFX",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "黃仁勳看好長期成長　NVIDIA祭史上最大股票回購",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769834_CC67QHXP4E03CJ3QOEZQV",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "大聯大世平攜手onsemi　以AK2超音波技術升級ADAS感知能力",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769841_JW69LERG3IM9HY2WQG65O",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI 瘋狂爬網站不點擊廣告：Cloudflare 示警流量 5 年恐衝千倍，這筆帳誰來付？",
+      "url": "https://techorange.com/2026/09/29/cloudflare-matthew-prince-google-zero-ai-web-advertising/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "OpenAI 新模型喊卡、NVIDIA 集結百家企業：AI Agent 安全為何不再只靠對齊？",
+      "url": "https://techorange.com/2026/09/29/openai-nvidia-gpt-6-open-agent-safety-platform/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI 機器人平台戰從晶片打到開源生態，高通買下 PickNik 背後在爭什麼？",
+      "url": "https://techorange.com/2026/09/29/qualcomm-to-acquire-picknik/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AMD 將以 82 億美元收購李飛飛 World Labs：搶進「實體 AI」，正面對決 NVIDIA",
+      "url": "https://techorange.com/2026/09/29/amd-acquire-fei-fei-lis-world-labs-82-billion-deal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "tier": 2,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
