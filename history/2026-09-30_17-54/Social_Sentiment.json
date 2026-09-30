@@ -1,0 +1,134 @@
+{
+  "category": "Social Sentiment",
+  "timestamp": "2026-09-30_17-54",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Palantir CEO Alex Karp quietly purchased 37,000 acres of forests in Sweden—and locals found out when hunters lost leases to use the property",
+      "url": "https://www.reddit.com/r/technology/comments/1wu4lnz/palantir_ceo_alex_karp_quietly_purchased_37000/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "A jury found Facebook guilty of 43 million privacy violations, and Meta could owe billions",
+      "url": "https://www.reddit.com/r/technology/comments/1wu2ti9/a_jury_found_facebook_guilty_of_43_million/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Most data centers refusing to say how much water, electricity they use",
+      "url": "https://www.reddit.com/r/technology/comments/1wu141w/most_data_centers_refusing_to_say_how_much_water/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "‘Extremely damaging’ anti-foreigner fake news pushes Japan to far-right",
+      "url": "https://www.reddit.com/r/technology/comments/1wu27yh/extremely_damaging_antiforeigner_fake_news_pushes/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Pentagon gets pwned as breach exposes sensitive data on nearly three million military and civilian personnel — stolen info includes Social Security numbers and job-related records",
+      "url": "https://www.reddit.com/r/technology/comments/1wu1jhz/pentagon_gets_pwned_as_breach_exposes_sensitive/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The price of AI is crashing faster than the rate of Moore's Law, report suggests — intelligence costs are in freefall, outpacing comparative technologies like compute, DNA sequencing, and lithium batteries",
+      "url": "https://www.reddit.com/r/technology/comments/1wu43uo/the_price_of_ai_is_crashing_faster_than_the_rate/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Meta responds after Muse AI gave stranger YouTuber’s home address on Facebook Marketplace",
+      "url": "https://www.reddit.com/r/technology/comments/1wu5uru/meta_responds_after_muse_ai_gave_stranger/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Asus won’t say how it escaped the US router ban / Asus is not publicly committing to US manufacturing.",
+      "url": "https://www.reddit.com/r/technology/comments/1wu9zbb/asus_wont_say_how_it_escaped_the_us_router_ban/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Democrats demand leaders of top AI labs hand over incident reports of 'rogue agents'",
+      "url": "https://www.reddit.com/r/technology/comments/1wu211c/democrats_demand_leaders_of_top_ai_labs_hand_over/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Japan court rules voice is protected as publicity right in AI cloning case",
+      "url": "https://www.reddit.com/r/technology/comments/1wu2la9/japan_court_rules_voice_is_protected_as_publicity/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "OpenAI hit with landmark lawsuit following Hugging Face hack",
+      "url": "https://www.reddit.com/r/technology/comments/1wu05v2/openai_hit_with_landmark_lawsuit_following/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Workday is doing its second round of layoffs this year in the wake of the SaaSpocalypse",
+      "url": "https://www.reddit.com/r/technology/comments/1wu7fj7/workday_is_doing_its_second_round_of_layoffs_this/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Top AI executives sign commitment to ‘self-police’ after meeting at White House",
+      "url": "https://www.reddit.com/r/technology/comments/1wtvnch/top_ai_executives_sign_commitment_to_selfpolice/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "McDonalds to show ads on drive thru screens",
+      "url": "https://www.reddit.com/r/technology/comments/1wtuxvl/mcdonalds_to_show_ads_on_drive_thru_screens/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "China reaches 100 million hydrogen-boron fusion reactions per second",
+      "url": "https://www.reddit.com/r/technology/comments/1wtw5my/china_reaches_100_million_hydrogenboron_fusion/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Singapore man faces 10 years in jail for AI crocodile picture that triggered reservoir closure — as police warn against ‘communicating falsehoods’",
+      "url": "https://www.reddit.com/r/technology/comments/1wu47s6/singapore_man_faces_10_years_in_jail_for_ai/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "OpenAI is sued over rogue AI Hugging Face cyberattack",
+      "url": "https://www.reddit.com/r/technology/comments/1wu2god/openai_is_sued_over_rogue_ai_hugging_face/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Apple CEO Ternus Cuts Managers, Eyes Faster Product Pace",
+      "url": "https://www.reddit.com/r/technology/comments/1wu5se2/apple_ceo_ternus_cuts_managers_eyes_faster/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Interactive: AI could push 11 million Americans into new careers by 2035 ⬇️ Details in comments. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOWkzZEpQQTVmbGRGX29sOWlBQ3Q4VjRHVUF2LTlWNWhNUW83azdaZElPMG1PRFR0QXhvVGFGaXdFNGtqMWliRk1lUnJQNHlXTVNkRWZwTm9zMkhXSHR6SG1meElzYmlhTGVfZGtKalF5eTVxTnZmWlBIRnpvbkV3LXFRTE5zYVlOYnRETk1BQVVQMDhXNVZEUHhVVTlqbTNrV0FMWGlUd0VkMkk2emt1aGZaYk9pV2FtcmRZc3VYZEpvSWhZQkktQ3EwWHhQekVwNFlhcWRzaW9jRTA?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The multi-trillion-dollar future of artificial intelligence rests on a handful of tech titans | Overseeing companies with a collective market value of approximately $18.6 trillion, key leaders including Elon Musk and Sam Altman drive critical projects whose potential s - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbVFvRHNvR0FmdE5TaE1jNU9LbEJ1YlU1VVRyR3FoZFBwRm1IVlJsQU9GM0lLT2ZUUExWeFBnaGxtd0F2cWgxOGRDU3RiU3ZjbGlKaHNNaVJud0tRZnRtQ240aVlpQzVYVzZEUy11T3o2R2NsVHdQU3EyaEdzbk0yZ2w2ZXlvQ1duenl1eldyTTZKQUNTazhwMzJuUGw0cm9NT0FLaWNQbVJ4c0lFRzJCM28wbjlBN0JHeEZFamxMNVVJcm8zZnF3eWg1Y3BUZkVqd3plYzlIdVdQOEE?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "As AI, demographic changes, and broader economic forces affect the labor market, there could be a huge mismatch between where jobs are growing and the skills and location of available workers. As a result, McKinsey estimates that roughly 11 million Ameri - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWjU3WHVfeGlVZDlEdVQ5ckpTc0NLcUktVFllVnkxSnZCdFBuRVN2cmVoam9WNlE2OXNCNHJZOWl4VmFpR3ZkcG1DblZYazdSZF9rN19mNGFLZ2t1Y0gtN1Y5MUxPZ1pEOVQ3MWtnNGlqYUtTUjVEQUpyYUduSFlwR3c4S1R3SmlSRlJsVldpWk1vcTlOenJjSDhPMXFRc0NzZWdtU2JoMjFIeXc1VkZ0MlV3bk9fOEFXWjlXQlZyR3cyMDFPS2NWczZnWi1qS0V4VlE?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
