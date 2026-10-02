@@ -1,0 +1,110 @@
+{
+  "category": "Social Sentiment",
+  "timestamp": "2026-10-02_05-13",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Elizabeth Warren probes $19B in tax breaks for Amazon, Google, Meta and Microsoft as AI drains $96B in federal revenue",
+      "url": "https://www.reddit.com/r/technology/comments/1wvge9l/elizabeth_warren_probes_19b_in_tax_breaks_for/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "NYC is now the first city in America that bans sketchy subscriptions / As of Thursday, the city's click-to-cancel rule has taken effect, which requires businesses to make it as easy to cancel a subscription as it is to sign up.",
+      "url": "https://www.reddit.com/r/technology/comments/1wv1j68/nyc_is_now_the_first_city_in_america_that_bans/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "USPS Is Turning Mail Trucks Into Rolling Surveillance Cameras",
+      "url": "https://www.reddit.com/r/technology/comments/1wvdokm/usps_is_turning_mail_trucks_into_rolling/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "'Things may get ugly': Meta's new AI Muse is about to make the internet more annoying",
+      "url": "https://www.reddit.com/r/technology/comments/1wvf7j0/things_may_get_ugly_metas_new_ai_muse_is_about_to/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "A court just ruled that training an AI on someone else's editorial work isn't fair use",
+      "url": "https://www.reddit.com/r/technology/comments/1wv7prd/a_court_just_ruled_that_training_an_ai_on_someone/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "RAM Maker Celebrates Record Profits And Predicts ‘Even Higher Prices’ And ‘Greater Tightness In The Industry’ In The Years Ahead",
+      "url": "https://www.reddit.com/r/technology/comments/1wve6mc/ram_maker_celebrates_record_profits_and_predicts/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "I’m Calling for a Pause in the Development of the Universal Bone Dissolver",
+      "url": "https://www.reddit.com/r/technology/comments/1wvgv1l/im_calling_for_a_pause_in_the_development_of_the/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Why Did a TV Price Jump By $100 in the Target Parking Lot? Inside Target’s App Pricing Debate | New York’s 2025 algorithmic-pricing disclosure law forces retailers to flag when personal data shapes the price a shopper sees",
+      "url": "https://www.reddit.com/r/technology/comments/1wvd3o5/why_did_a_tv_price_jump_by_100_in_the_target/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "OpenAI CEO Sam Altman to skip congressional hearing on rogue AI agents",
+      "url": "https://www.reddit.com/r/technology/comments/1wv595g/openai_ceo_sam_altman_to_skip_congressional/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "SF protest Wednesday against Palantir draws hundreds",
+      "url": "https://www.reddit.com/r/technology/comments/1wv8uwb/sf_protest_wednesday_against_palantir_draws/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Meta tells the IRS its AI data centres are experiments",
+      "url": "https://www.reddit.com/r/technology/comments/1wv6eeg/meta_tells_the_irs_its_ai_data_centres_are/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "AI 'godfather' Yann LeCun has 'zero concerns' about human extinction, says Anthropic CEO Dario Amodei is 'deluded'",
+      "url": "https://www.reddit.com/r/technology/comments/1wv1ngs/ai_godfather_yann_lecun_has_zero_concerns_about/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Sentence tossed in Arizona case where deceased victim was depicted speaking in AI-generated video",
+      "url": "https://www.reddit.com/r/technology/comments/1wvh7tk/sentence_tossed_in_arizona_case_where_deceased/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Forget ‘superintelligence’: error-prone AI nearly sparked world war three this month | The risks of AI aren’t what we think they are, as a recent security incident between China and the United States reveals",
+      "url": "https://www.reddit.com/r/technology/comments/1wv2a77/forget_superintelligence_errorprone_ai_nearly/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Why Did a TV Price Jump By $100 in the Target Parking Lot? Inside Target’s App Pricing Debate",
+      "url": "https://www.reddit.com/r/technology/comments/1wv1lx4/why_did_a_tv_price_jump_by_100_in_the_target/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Pentagon Breach Exposed Unencrypted Records on 3 Million People",
+      "url": "https://www.reddit.com/r/technology/comments/1wv353d/pentagon_breach_exposed_unencrypted_records_on_3/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Takeaways from Tulane's energy forum: 'AI is carrying the U.S. economy.' https://www.nola.com/news/business/innovation/takeaways-from-tulane-universitys-future-of-energy-forum-ai-is-carrying-the-u-s-economy/article_101dc275-dabe-4a61-8698-dc283ae1 - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVmFyS25OZEZuV2VJQk1yYVV3Z1NsczNrVGtpMmtqdlNBc3JhaElfNUJXbFhRYzl4cDVtSFotMVNjNHBtaHBLMHBCYzBZb1hIeWRCYkcybkU1cldaQTB2alVHX01UNWtpUUs2UTN4NmxrZlByMlN4VHR5eGM5eXF3Y1UwVTJreW95OVV2LTVhWlNqM3NncGp5U2NuVEZIRER4VVNVRnhpS3dfVVZjWmRBMUJlTVhaYXdCZnBaLUVMSVlNN1dhUXBqNVViMlA3NEJnaHgzRQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
