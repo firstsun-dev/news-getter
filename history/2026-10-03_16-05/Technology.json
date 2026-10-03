@@ -1,0 +1,170 @@
+{
+  "category": "Technology",
+  "timestamp": "2026-10-03_16-05",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "AI 與機器人加速標本數位化，英國打造 7 千萬件館藏網路超級博物館",
+      "url": "https://technews.tw/2026/10/03/how-ai-is-creating-a-uk-super-museum-and-revealing-our-planets-history/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "NASA 宣布最新遠紅外線望遠鏡 PRIMA 計畫，探索星球形成與材料之謎",
+      "url": "https://technews.tw/2026/10/04/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "近九成開發者都在用 AI 寫程式，美國學界報告：信任與驗證才是下道關卡",
+      "url": "https://technews.tw/2026/10/03/engineering-trustworthy-software-systems-with-ai-at-scale/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "本為星際任務設計卻成地球救星，「太空農業」如何破解極端氣候糧食危機？",
+      "url": "https://technews.tw/2026/10/04/space-agriculture-solve-global-food-crisis/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "為付離婚財產分割金！SK 會長崔泰源擬出售 9,440 億韓圜持股",
+      "url": "https://technews.tw/2026/10/03/sk-chairman-chey-tae-won-sell-94-4-billion-won-in-sk-shares/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "華為最新麒麟 9050 Pro 晶片照曝光！兩層 Die 垂直堆疊，尺寸再縮小",
+      "url": "https://technews.tw/2026/10/03/huaweis-latest-kirin-9050-pro-chip/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "醫院警報響不停怎麼辦？延遲機制讓儀器警示音銳減近八成，病人安全不打折",
+      "url": "https://technews.tw/2026/10/03/improving-medical-alarm-fatigue/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "產能提升逾 10%！三星開始量產 Exynos 2700 晶片，搭載 Galaxy S27 多系列",
+      "url": "https://technews.tw/2026/10/03/samsung-electronics-starts-mass-production-of-exynos-2700/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "美軍推進 ROCkN 超精確時鐘，結合量子感測打造無 GPS 導航韌性",
+      "url": "https://technews.tw/2026/10/03/darpa-develops-ultra-precise-navigation-clock/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "新研究顯示：TikTok 近 95% 熱傳韓式護膚及「玻璃肌」短片含誤導性說法",
+      "url": "https://technews.tw/2026/10/03/tiktok-korean-skincare-glass-skin-videos-95-percent-misleading-claims/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "川普召集黃仁勳、馬斯克等科技巨頭簽「AI 憲法」，四層稽核機制能解失控風險？",
+      "url": "https://technews.tw/2026/10/03/trump-ai-constitution-jensen-huang-tech-giants-four-layer-audit-prevent-ai-rogue/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "南電9月營收55.86 億元",
+      "url": "https://finance.technews.tw/2026/10/03/n-p-c-8046-202609-financial-report/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "打字不用找按鍵，Google 日本今年推「輸送帶鍵盤」讓字母自己過來",
+      "url": "https://ccc.technews.tw/2026/10/03/google-shows-off-a-wild-keyboard-that-is-literally-an-excavator-of-keys/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "精測9月營收月增2.1%",
+      "url": "https://finance.technews.tw/2026/10/03/chpt-6510-202609-financial-report/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "先進光處分科雅光電 10% 股權！共處分 368 萬股、持股降至 90%",
+      "url": "https://finance.technews.tw/2026/10/03/ability-miyabi-technology-stock/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "英飛凌捐贈「AI 消防之眼」，整合邊緣 AI、毫米波雷達即時掌握火場資訊",
+      "url": "https://technews.tw/2026/10/03/infineon-ai-disaster-relief/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI 會毀滅人類還是先搶走白領飯碗？《紐時》整理 11 個大哉問，帶你看懂 AI 的真實風險",
+      "url": "https://infosecu.technews.tw/2026/10/03/nyt-explores-five-major-ai-concerns-and-answers-key-questions/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI「能做」不代表「該做」，企業決定自建或外購系統前的 4 大評估指標",
+      "url": "https://technews.tw/2026/10/03/the-gut-check-questions-every-leader-needs-to-ask-before-building-with-ai/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "記憶體太貴！128GB DGX Spark 價格飆破 6,000 美元，輝達改推 64GB 版本搶市",
+      "url": "https://technews.tw/2026/10/03/nvidia-64-gb-dgx-spark/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "當 AI 開始自己開發 AI，安全機制恐遭破解！「一鍵關機」為何淪為不切實際的幻想",
+      "url": "https://infosecu.technews.tw/2026/10/03/what-is-an-ai-kill-switch-and-does-it-work/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "開源IT服務與客服系統Zammad漏洞遭積極利用",
+      "url": "https://www.ithome.com.tw/news/179387",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "輝達前員工掀出走創業風氣，帶動機器人與實體 AI 新創潮",
+      "url": "https://technews.tw/2026/10/03/nvidia-alumni-are-fueling-a-new-wave-of-robotics-and-ai-startups/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "CISA警示FortiMail漏洞CVE-2026-104286已遭實際利用",
+      "url": "https://www.ithome.com.tw/news/179386",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Chrome 154本週第二度發布更新版，緊急修補11個漏洞",
+      "url": "https://www.ithome.com.tw/news/179385",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "《新聞聚焦》銅轉光面臨材料吃緊　鴻騰如何接下挑戰？",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770350_2284Q0Q24YETDK14VK3FO",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "週末新聞速寫：博通啟動600億美元AI晶片融資助Anthropic | NVIDIA市值創新高至5.7兆美元 | Tesla第3季全球交車量優於預期",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770357_M7E4JNMY4MFIX986LZ69Y",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "新北青年局「AI 實戰職涯營」成果亮相  25 位跨域青年打造 AI Agent 解企業真實命題",
+      "url": "https://techorange.com/2026/10/03/2026aipractitionerprogram-aws-ai-agent-demoday/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "tier": 2,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
