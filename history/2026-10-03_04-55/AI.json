@@ -1,0 +1,20 @@
+{
+  "category": "AI",
+  "timestamp": "2026-10-03_04-55",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "tier": 1,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}

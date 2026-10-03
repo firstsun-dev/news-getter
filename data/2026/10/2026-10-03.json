@@ -1,0 +1,920 @@
+{
+  "date": "2026-10-03",
+  "runs": [
+    {
+      "time": "04:55",
+      "categories": [
+        {
+          "name": "AI",
+          "anchor": "AI",
+          "archive_url": "./history/2026-10-03_04-55/index.html#AI",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+              "url": "https://huggingface.co/blog/allenai/astabrief",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "A model guide for the GPT-6 family",
+              "url": "https://openai.com/index/practical-guide-building-gpt-6",
+              "tier": 1,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 2
+        },
+        {
+          "name": "Finance",
+          "anchor": "Finance",
+          "archive_url": "./history/2026-10-03_04-55/index.html#Finance",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "Trump: not going to be doing diesel export ban",
+              "url": "https://www.investing.com/news/economic-indicators/trump-not-going-to-be-doing-diesel-export-ban-4930419",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Factory orders remain flat, meeting expectations",
+              "url": "https://www.investing.com/news/economic-indicators/factory-orders-remain-flat-meeting-expectations-93CH-4930042",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "US factory orders increase slightly in August",
+              "url": "https://www.investing.com/news/economic-indicators/us-factory-orders-increase-slightly-in-august-4930089",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Gold set for fifth negative week in six amid surging dollar, Treasury bond rout",
+              "url": "https://www.investing.com/news/commodities-news/gold-steadies-as-stronger-dollar-higher-yields-weigh-us-jobs-data-awaited-4928890",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Trump says he did not ’jump the gun’ on South Korea Alaska LNG investment announcement",
+              "url": "https://www.investing.com/news/commodities-news/trump-says-he-did-not-jump-the-gun-on-south-korea-alaska-lng-investment-announcement-4930421",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Oil set for weekly loss on supply recovery, G7’s release of emergency stocks",
+              "url": "https://www.investing.com/news/commodities-news/oil-holds-gains-as-us-weighs-more-middle-east-military-presence-4928800",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Natural Gas trapped at $3.037 resistance cluster: Live levels",
+              "url": "https://www.investing.com/news/commodities-news/natural-gas-trapped-in-30813203-range-live-levels-93CH-4919473",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Crude Oil WTI stuck in $88-$94 range: Live levels",
+              "url": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-95609773-resistance-wall-live-levels-93CH-4919472",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "London Gas Oil clings to support in strong downtrend: Live levels",
+              "url": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-1400-support-in-distribution-range-live-93CH-4921028",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Brent Oil coiled near $102.30 SuperTrend resistance: Live levels",
+              "url": "https://www.investing.com/news/commodities-news/brent-oil-breaks-10150-neckline-eyes-9749-support-live-93CH-4919470",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Copper clings to $6.53 support in oversold bear trend: Live levels",
+              "url": "https://www.investing.com/news/commodities-news/copper-tests-200period-sma-at-663-live-levels-93CH-4919468",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Silver holds $60 support with bullish divergence: Live levels",
+              "url": "https://www.investing.com/news/commodities-news/silver-breaks-below-sma-200-and-ichimoku-cloud-live-levels-93CH-4919471",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Former US congressman sentenced to 10 years for secretly lobbying for Venezuela",
+              "url": "https://www.investing.com/news/commodities-news/former-us-congressman-sentenced-to-10-years-for-secretly-lobbying-for-venezuela-4930325",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "US backs down from fuel export ban threat as G7 agrees to release 100mn barrels",
+              "url": "https://www.ft.com/content/97200b07-755c-40ce-a50b-b51666bd4b7e?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "US economy adds just 29,000 jobs in September as hiring slows sharply",
+              "url": "https://www.ft.com/content/7fc80097-1926-4306-81e0-83d90a3d8a1d?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Arctic sea routes boom as Gulf war and global warming divert shipping",
+              "url": "https://www.ft.com/content/2e0eb698-d4d3-4bcc-927a-2997df7709be?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Global bond market steadies after sharp sell-off",
+              "url": "https://www.ft.com/content/4f2ad4c1-22b0-497b-88c8-197d7f301f79?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Treasuries are losing their moneyness",
+              "url": "https://www.ft.com/content/7128ce19-5ea0-4d5d-9d47-1270404831a7",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Investors seek refuge from bond rout in haven German debt",
+              "url": "https://www.ft.com/content/93028839-5f0e-43c4-8ee7-44990115ea57?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Quant hedge funds reap big gains from global bond sell-off",
+              "url": "https://www.ft.com/content/75b0ab84-a252-4ea1-9058-c9ee7ca07f4f?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "The Ellison credit complex gets a bit more complex",
+              "url": "https://www.ft.com/content/2c56ac58-87b2-4159-aa83-55567368149a",
+              "tier": 2,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 21
+        },
+        {
+          "name": "Global",
+          "anchor": "Global",
+          "archive_url": "./history/2026-10-03_04-55/index.html#Global",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+              "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+              "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+              "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Riot police clash with students as education protests rage in France",
+              "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+              "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+              "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Women given shorts at Oktoberfest to prevent upskirting",
+              "url": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+              "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+              "url": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+              "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+              "url": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
+              "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Watch: Why students in France are protesting",
+              "url": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+              "url": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "The vanishing world of India's street magicians",
+              "url": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Why Americans Identify as Republicans and Democrats – and Why They Don’t",
+              "url": "https://www.pewresearch.org/short-reads/2026/10/02/why-americans-identify-as-republicans-and-democrats-and-why-they-dont/",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Weekly: 10.3.26",
+              "url": "https://www.pewresearch.org/newsletter/weekly-roundup/weekly-10-3-26/",
+              "tier": 1,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 17
+        },
+        {
+          "name": "Investments",
+          "anchor": "Investments",
+          "archive_url": "./history/2026-10-03_04-55/index.html#Investments",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "This 15% Yield ETF Copies Warren Buffett’s Stock Picks and Is Beating Berkshire Hathaway - 247wallst.com",
+              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLU5WZl9xSnZxR19CcnotbGxhOWpfM09JcThwbVN5TUVQZXVuekgzdF8xa0FCbjJHdE50R3I2THBlTkZ0NW1MUVFJNXpFSWwtMDVNNVdXVUxVVF9seEhpelJfLWhtbmdlSUtySDMtZlBPLXVrMC1FMVpWQ1J2eGJvMUl6bnpicUdvMWtuYlBVX0NwWG1rX1BVbzFPR2tnY1ZlNjNvWHFzUEtJSFNmZWNtVTlTcmlKRW1Gc1NES0RqSHJIWnpiU3lqcjE0MENrSTA?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Berkshire buys more Lennar shares, but pace of purchases slows - CNBC",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa1dOSEptU1RuRlpyNkVPUk1USVdRa3c3MmIwMUNkNkU5M2xybmRRNVlBOHdFeTJDLUVxVG04NU8xUnl4UzJsT3B3aGpOSUhCckhLa2dqbVFRbUVDM2VpR0VReU44VmV3TDJvUFpMMG1FaDBVOUtaaGNaVmNHcnRYejMwOFBuR01CaTdyVVJrTWFHa3ktb1NNSy1kZzJlbDDSAaQBQVVfeXFMUHlQekpyMmpEWkVObG4tTk96VFFoMldmeTdfQlZKSHRiRk41Y2RxaFl4UTFGdTZoWElvZ3BOVjZUY0RQVERGMERDMjROVHBJNmtkWnZNY0c0aVFJNGRuc2N4UmJKdHFTWlR6UHRSNEVMWXZVT3FuLXNoYXZ2MFIzRXhYY19rYjlzWEh1U0R2RXpFUWtkWW1GN001V1pZOHhDUEpyODk?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Berkshire Hathaway: The Abel Era Needs More Than Continuity (NYSE:BRK.A) - Seeking Alpha",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMWp0U0lxcEtPU2Zyc1A2Sk9ZV2tfYUp0NGdjZWRiTkNsai1RVG5Oc3BKT1NBWTNsY01yMThsZTNjVnBsRURvRnFTUmFqeVhNSWxiOG1fS2lZM1hwRjlPU0RkRDFhbHByQnlOd2pNdEZham13RzZxLXFoY0tpTXVXcE5oa3RLMVhkanY5ZjBadjZ3N0hDU3ZEdG1FZjd4Qm1Y?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Business Wire Celebrates 65 Years of Trusted Press Release Distribution - Morningstar",
+              "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT0Uxd09Tam5QRTlKZ0hDaEpHRlF4U1c0LUlMcTZyMTVYTUgwSHF6bGtodXBwREpMNWNkNUt6allLWFFTRnNlY1MwQTEyZ3RZU1R4ZGRrY3gza18wVmVmbnZFbHNJOFVhaDhHTXdvejM4X2JJd3ZadFlWSExyUWtIOXFkejVEcXpIUEVPdkF2R3Fsd0hDTXZEVjRaWEI0SUZUMWpOMnRGSDlNWk9uVWhGT1lJY2h6RUNjNDlPeFNRSVJQSEs3aWIwWTUtbDh2UQ?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Lobbying Update: $30,000 of BERKSHIRE HATHAWAY ENERGY lobbying was just disclosed - Quiver Quantitative",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbkprOXpHdVFONHRfZGxYUmlVaXhKQkxUM0pXMi1HMXV0NkJwbktnTXJITmd0Vm4wcHFUT3NCOGlRRGduam9wY0tTbjBqRW5jbm1qckpJZWVTTHRrWFFLcWRuNGRUYnU2MUNZUzVLUURxQkE4ZFR4ZklrV19KcGN5OXFnVHJxYkRLU1R5QWlld1ZaR3hZVGlmZEoxWDNaZGEtdTRxREhTaFVRQkh5T1hmSERtMVNxb1BkUFNsdg?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett Adds to Lennar Corp (LEN) as Shares Trade 37% Below GF Value - GuruFocus",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWnFsaHVpdkR1UThGMHhaSDhvMzMydU82ZHpLOWhDclZ5VXVSUURITjFtM0dNNkF5QWtoVXJUc0FpLWJVRGpvWXc0M0hKam5jUXBKZTAzeG9fVVRqR2dNZWoteFp5VEEwTGJKd2ZYZXNYUi1FcVVWZXh3Y2VOd1ZQcGQ0VThWZmxJcWd3aVRLY3FFUTJldUNpUHhfR2w1NmktTFpHWUVjTzlPSGN1eFA5cA?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Berkshire Hathaway And 2 Cash Flow Stocks Worth Watching - Simply Wall Street",
+              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbFJOYXN6MXdiNEdLbVBxdzVUVVY3NkpMbEVCdWJDV1lydkFtWGViNWlCdTc5ek9KdS11aUh1RmYyVXphcUJvSzFobnJVVEZqYXJOc1Ric3JuVG9rYXhIUks3QmZZbkR5UEppQV95alR1eHhJZUtjTFhmTmlqcElxVFgyTnNaYUdoczhGOGpJbkZzZmRqb3FzQ2ZwZVE1Tmpnc1otVG9QbkJmUDF6N1hZRGdTWUl0SWR0QTRkSE1xcTlkaElxUVVnMkl6eVhnZkRwQkpEcGdqdEgzbW5VZTNN0gHkAUFVX3lxTE9hN3pHcGlVQVZZcnZ1dDJjbmhMUlpodGQ0TWRzS1NNRlRfcVVsb1YtZnlYd09UTy1qcktscFBmQUpTVklnQjhzZElIVDJKSHU3NUZZSFFWUVpPWXFCVVdaYkN5ZE1IcmM2N0toNVhCZWNZNlA3TVpScFJhdlRDMTVtUHAyc0dEMUhyM2NXOGxieVFwY3o4VG5jaDdQMkd6OUhsYmx5TjcwZHVlTWswc0t2alBoTFFVazB5NlNQb2tJVV93VE1mTE5adXN3alphNzJiWlh6WXFueFBTTlduV09GVmdaZg?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "2 of the Best Warren Buffett Stocks for a Lifetime of Passive Income - The Motley Fool",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZTRRc3pod2dWTGRZc2x5UHhQRjdnNW9BNVlhbDkxblB6OTdhMXdwaml6OFcxYXdyQkdRY2s4eVV3dFp0LVRmQ0JZSUgyRmZsRlNiSHpFZk9NY3g3VTRpRFZ4SmQ3M0w3ekpyYzcwNDlqbm00Nml3Y3lEWkxzODRMV1hRTjBHeGdaVjhHck1UTWU5Rnl2TW1pcUtfeUh3VElhVmhXZmpEb0kzd2xQUC02dQ?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "4 Wealth-Building Principles Warren Buffett Has Followed for Decades - Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSWNBQWZxWEhNNDJSZHRDb2FOR2lSbHlzMWhQN3lQS2R6VjZjZTE5cDFUMWZXQ2lFVzlHWjBRWS1KUnFqazR3Qm5ESHFWU1FvOHBrdkszSU8yaWkwQ3laZkQ2X2FJQ0ZmWHdQWklrUjNWTm9yanlEZll2WVhTak1YcnFtMGtzSGNFVkNOUHNKRDhxVXRMNVQtajFIWFd1UjFrX1E?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Berkshire Hathaway faces growth challenges with $366B cash pile but eyes energy infrastructure pivot. - Pluang",
+              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWDJESGZuODk2SHljd05oNjVveHhyU2g5cG1NZWY1QWlKWjA4TVFfcVp2UUpyTmpkMHRsdDFlbXUzcjFXc1Nzd3RWVEN5VXBUX2lRZWlmU0oyMDZpQ2VEdDBRTzN5WmJBWmdWYXJITl9oVWp5SkFTQW5lM2JtVXlpTWd1VUNLMmFZWU5qOXFVVFZyQQ?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "New ETF mimics Buffett's stock picks with a 15% yield, outperforming Berkshire Hathaway so far. - Pluang",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaDdkT1dmTGFudmdRbm9IZ01fX1hRREcxMTRPTE11bDRqZ1c0WlhEeUhkSWRuUXFZSWNpSkd3T2FWam52SEFUUHdiWVdJVHp1WFZ5SldMdWUtLWJyX2l0RnlGS1FseUpMVkcwRkxKREVjV2Zkc19naUxSM2lwTjBLNENHY21uWE15MFBfd1BvWQ?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Watch. The 99% discipline rule: Life and market lessons from Warren Buffett - BusinessLine",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzZkb0JEdXRVd0tMLUxFVmxjaXAycTZRcldwNHJFb3dEclQwbncxWHRreks3ZzM3VkFjUmZoMFlObzQ5dzNpTVlFZVhsQW5GTzd6WGl4UnZ6MEdzTVJjZlBOR25TdklhMHNMckVpbU02VHl3a3ZUaWIwcnlYU3dLU3dJdG0wVHFnMDBtcDRwdGpTNU5mY180U2dNcUg3d2VxYTNtZ2RrTmRfU0p2UGkwaTlyME9VSzhRSk9XSTJ5SmU4a2c4a2RtZDR4YnhDRlFmV1Y2YTRkcw?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Berkshire buys more Lennar shares, but pace of purchases slows",
+              "url": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
+              "tier": 2,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 13
+        },
+        {
+          "name": "Social Sentiment",
+          "anchor": "Social-Sentiment",
+          "archive_url": "./history/2026-10-03_04-55/index.html#Social-Sentiment",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "Bernie Sanders introduces bill to ban the federal government from using Flock",
+              "url": "https://www.reddit.com/r/technology/comments/1ww9lov/bernie_sanders_introduces_bill_to_ban_the_federal/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Dem Candidate Sends “Cease and Desist” Order to Republican Over Deepfake Ads",
+              "url": "https://www.reddit.com/r/technology/comments/1ww1ted/dem_candidate_sends_cease_and_desist_order_to/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "A Florida county discovered 14 Flock cameras nobody authorized, and 11 remain unclaimed",
+              "url": "https://www.reddit.com/r/technology/comments/1wvvsed/a_florida_county_discovered_14_flock_cameras/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Federal Judge Rules a Flock Search Was ‘Indiscriminate Mass Surveillance’ and Unconstitutional / Flock’s nationwide network is quickly “approaching dragnet-type law enforcement practice” and the cop should have got a warrant, the judge wrote.",
+              "url": "https://www.reddit.com/r/technology/comments/1ww4uxq/federal_judge_rules_a_flock_search_was/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Data Centers Are Hiding How Much Water and Power They Consume",
+              "url": "https://www.reddit.com/r/technology/comments/1ww6sa6/data_centers_are_hiding_how_much_water_and_power/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Tirzepatide cuts fat mass by 35% while preserving skeletal muscle",
+              "url": "https://www.reddit.com/r/technology/comments/1ww637a/tirzepatide_cuts_fat_mass_by_35_while_preserving/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "'Looks Like They're Firing Whistleblowers': Alarm as OpenAI Reportedly Ousts Safety Experts",
+              "url": "https://www.reddit.com/r/technology/comments/1wvv9tn/looks_like_theyre_firing_whistleblowers_alarm_as/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Apple sounds the alarm on AI agents and 'Full Disk Access'",
+              "url": "https://www.reddit.com/r/technology/comments/1ww4dej/apple_sounds_the_alarm_on_ai_agents_and_full_disk/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement",
+              "url": "https://www.reddit.com/r/technology/comments/1ww9g6j/apple_confirms_iphone_18_pro_max_att_cellular/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Amazon’s $1B plan to combat data center backlash draws more backlash | Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+              "url": "https://www.reddit.com/r/technology/comments/1wwb7ex/amazons_1b_plan_to_combat_data_center_backlash/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "HBO Max and Paramount+ set to merge under ‘Skydance’ brand",
+              "url": "https://www.reddit.com/r/technology/comments/1ww9p8t/hbo_max_and_paramount_set_to_merge_under_skydance/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Cybertruck sales in free fall as Tesla reports mediocre sales for Q3 | Tesla met analysts expectations as it sold fewer cars in Q3 2026 than Q3 2025.",
+              "url": "https://www.reddit.com/r/technology/comments/1ww4jd5/cybertruck_sales_in_free_fall_as_tesla_reports/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "New York City's click-to-cancel rule takes effect, making subscription cancellations as easy as sign-ups",
+              "url": "https://www.reddit.com/r/technology/comments/1ww1r6g/new_york_citys_clicktocancel_rule_takes_effect/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "California tech CEO arrested, faces up to 20 years in prison for smuggling $300 million in Nvidia AI servers to China — federal prosecutors say chips were routed through Malaysia and Singapore using false paperwork",
+              "url": "https://www.reddit.com/r/technology/comments/1wvvz5w/california_tech_ceo_arrested_faces_up_to_20_years/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Micron now has an 88% margin on consumer memory as price hikes drive profits",
+              "url": "https://www.reddit.com/r/technology/comments/1wvv7bw/micron_now_has_an_88_margin_on_consumer_memory_as/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "EV Charging Doesn't Need to Be as Fast as Gas, Ionna CEO Says",
+              "url": "https://www.reddit.com/r/technology/comments/1ww042e/ev_charging_doesnt_need_to_be_as_fast_as_gas/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Advocacy Group Stop Killing Games Sounds Alarm On EU Kids Act: ‘This Is Such A Horrible Law Proposal’",
+              "url": "https://www.reddit.com/r/technology/comments/1ww1xe3/advocacy_group_stop_killing_games_sounds_alarm_on/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Micro Center requires photo ID and signed no-export pledge to buy Nvidia RTX 5090 gaming GPU — buyer forced to sign declaration disclosing install location and promise GPU will remain in the US",
+              "url": "https://www.reddit.com/r/technology/comments/1ww1is1/micro_center_requires_photo_id_and_signed/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "The Dead Internet Theory May Be Coming True, Pew Research Findings Show | More of what you're reading online could be written by an AI bot",
+              "url": "https://www.reddit.com/r/technology/comments/1ww2y61/the_dead_internet_theory_may_be_coming_true_pew/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Zelda and Banjo Recompiled dev slams the slew of poor-quality “slopcomps” recompilations by vibecoders that “completely fail to reach the same level of quality”",
+              "url": "https://www.reddit.com/r/technology/comments/1ww1twg/zelda_and_banjo_recompiled_dev_slams_the_slew_of/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Toshiba to double HDD production capacity amid devastating shortages — 65TB, 100TB drives on the roadmap for 2030 and beyond",
+              "url": "https://www.reddit.com/r/technology/comments/1ww9dmr/toshiba_to_double_hdd_production_capacity_amid/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Dutch eyewear chain Hans Anders halts sale of Meta glasses in the Netherlands ​and Belgium, citing privacy concerns",
+              "url": "https://www.reddit.com/r/technology/comments/1ww0qws/dutch_eyewear_chain_hans_anders_halts_sale_of/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+              "url": "https://www.reddit.com/r/technology/comments/1wwd998/anthropic_invests_100_million_to_train_10000/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "White-collar hiring shifts towards specialised AI skills, experienced professionals in September: Report - facebook.com",
+              "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ0VteE1OLXY0d1locmFXUkEtSzVVMFVaVGtHNm5GRmZseHVxUlNGOTh2RE9sX1NLX3ZBTVZvdTNNVGRTS3VxR19HM1ZQMVJibS1zYk9HdVVIU2haMkZPVnM1c0s0OEQxQmRDa0FxNTZGenBUYXhJSG9QTlZxR3ZpYWJmUEhscTYtMUhGRUtBSnlYdVlpODBDam4xZUs0YnZaR3A0dWxySGJENVVyc1JfZHhqNHV5NHpKbm4yOUZWSEJIemNuVndwYk9oeWpOdnFJX1k0MFFn?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 24
+        },
+        {
+          "name": "Strategy",
+          "anchor": "Strategy",
+          "archive_url": "./history/2026-10-03_04-55/index.html#Strategy",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "Your Workforce Isn’t Fighting AI. It’s Drawing the Blueprint for It.",
+              "url": "http://feeds.harvardbusiness.org/sponsored/2026/10/your-workforce-isnt-fighting-ai-its-drawing-the-blueprint-for-it",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Remembering Howard Stevenson, Who Transformed the Study of Entrepreneurship",
+              "url": "http://feeds.harvardbusiness.org/2026/10/remembering-howard-stevenson-who-transformed-the-study-of-entrepreneurship",
+              "tier": 2,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 2
+        },
+        {
+          "name": "TW News",
+          "anchor": "TW-News",
+          "archive_url": "./history/2026-10-03_04-55/index.html#TW-News",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "自由開講》台灣人成為CHINA  就會被拆哪",
+              "url": "https://talk.ltn.com.tw/article/breakingnews/5580563",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "巴黎Inalco首辦「台灣月」 我國文學與電影走進法國校園",
+              "url": "https://news.ltn.com.tw/news/art/breakingnews/5593940",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "男子台中毒駕失控撞天橋 3大學生晨跑遭波及",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5594137",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "圓山遺址發現129年 台大特展回望千年生活與百年守護",
+              "url": "https://news.ltn.com.tw/news/art/breakingnews/5593930",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "盧秀燕今年首喊議員「搶救」！為她選情被點名危險：要破2萬票",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594126",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "彰化「好漢連線」成軍！陳素月送球棒、周清玉送甘蔗力挺",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594131",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "瘋媽祖搶扭蛋！南瑤宮遶境跨11鄉鎮市 回鑾拋「神秘禮券」大獎曝",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5594132",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "血脂正常也有心血管風險！  醫籲一生驗一次脂蛋白（a）",
+              "url": "https://health.ltn.com.tw/article/breakingnews/5594109",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "謙稱機智幽默比不上韓國瑜 沈伯洋說明「洋流」、「韓流」差異",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594103",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "不爽幼犬吠叫台中男拿安全帽猛砸 領養不到1月活活打死丟包",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5594115",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "走讀石滬、夜探田野！苗縣推「台語家庭」 破400戶註冊體驗母語樂",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5594127",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "苦等14年！台灣本島最高媽祖像落成  盧秀燕倒數卸任：接住祝福",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5594092",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "幸福嘉年華嗨翻安南！菜奇鴨陪親子放電",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5594123",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "《鬼地方》義文版獲國際獎！傅雪蓮拿下2026比薩圖書翻譯獎",
+              "url": "https://news.ltn.com.tw/news/art/breakingnews/5594129",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "台南觀光工廠再創佳績 年增30萬人次帶動2億營業額",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5594130",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "國中小免費午餐多校食安出包 蔣萬安：各項檢驗絕不少任何一項",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5594113",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "怕打擾住戶！「洋流」工作人員和民眾練習「氣音喊口號」萌翻網",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594097",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "被問手機桌布還是洋流船員證？  卓榮泰暗酸蔣萬安：可以改甘蔗嗎",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594124",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Lisa帶紅的蒙奇奇萌攻台北！鬧區冒出超萌打卡點 睫毛雀斑全上臉",
+              "url": "https://istyle.ltn.com.tw/article/41195",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "中國對歐盟進口對硝基甲苯發起反傾銷調查",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5594050",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Kia 熱門七人座休旅 Sorento 換穿新裝亮相！新年式入手門檻微幅上漲",
+              "url": "https://auto.ltn.com.tw/news/33059",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "亞運前線》暌違20年再戰亞運現場變「球迷會」 曾雅妮助團體奪銅感觸良多",
+              "url": "https://sports.ltn.com.tw/news/breakingnews/5594122",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "韓職》韓華主帥金卿文拍板 11勝王彥程本季提前關機",
+              "url": "https://sports.ltn.com.tw/news/breakingnews/5594121",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "王世堅讚彭佳芸台灣意識堅強！ 籲集中選票勿信「穩當選」",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594105",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "美鳳姐又回基隆家鄉 和童子瑋一起出海、吃新鮮料理",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594110",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "同套劇本複製貼上  詐團一天騙兩苦主",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5594116",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "美韓阿拉斯加LNG案不同調 川普：不投資就提高收費",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5594049",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "北市營養午餐暫緩供應海鮮被疑避選情 沈伯洋：孩子健康永久、選舉一時",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594089",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "前藍委盧嘉辰現身綠營造勢 站台力挺蘇巧慧、吳昇翰",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594112",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "以為有免費香菜乖乖？北斗農會「芫夢一場」乖乖要錢、大豬免費",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5594102",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "虎尾打造巾彩奇幻工廠！4大關卡認識國產毛巾 許富凱明獻唱",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5594095",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "《熱吵店》爆醜化沈伯洋！逸祥暱稱「沈脖癢」惡搞？TVBS急回應",
+              "url": "https://ent.ltn.com.tw/news/breakingnews/5594104",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "只許州官放火、不許百姓辦火舞？陳建名批：高虹安市府帶頭違法",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594093",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "亞運前線》謝淑薇女雙金牌戰對陣詹皓晴開打 賽前響起台灣樂團歌曲",
+              "url": "https://sports.ltn.com.tw/news/breakingnews/5594099",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "日本7旬富豪剛娶22歲AV嫩妻就暴斃 3億遺產全捐出不給家屬",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5594047",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "離職女抄菜刀搶老東家 摩斯店員拋鈔票護客：錢給你！",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5594098",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "國民黨團提普發現金2萬  卓榮泰：盼兼顧3原則",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594035",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "卓榮泰秀「船員證」遭藍營質疑 蔣萬安批行政權霸凌立法",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594084",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "和鄭麗文超過120多天未同台！張博洋質疑柯志恩「臨『鄭』脫逃」",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5594078",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "指控民調偏袒特定參選人 男子涉加重誹謗等罪遭法辦",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5594079",
+              "tier": 2,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 40
+        },
+        {
+          "name": "Technology",
+          "anchor": "Technology",
+          "archive_url": "./history/2026-10-03_04-55/index.html#Technology",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "南電9月營收55.86 億元",
+              "url": "https://finance.technews.tw/2026/10/03/n-p-c-8046-202609-financial-report/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Redefining enterprise intelligence with autonomous AI",
+              "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "精測9月營收月增2.1%",
+              "url": "https://finance.technews.tw/2026/10/03/chpt-6510-202609-financial-report/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "先進光處分科雅光電 10% 股權！共處分 368 萬股、持股降至 90%",
+              "url": "https://finance.technews.tw/2026/10/03/ability-miyabi-technology-stock/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "英飛凌捐贈「AI 消防之眼」，整合邊緣 AI、毫米波雷達即時掌握火場資訊",
+              "url": "https://technews.tw/2026/10/03/infineon-ai-disaster-relief/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "AI 會毀滅人類還是先搶走白領飯碗？《紐時》整理 11 個大哉問，帶你看懂 AI 的真實風險",
+              "url": "https://infosecu.technews.tw/2026/10/03/nyt-explores-five-major-ai-concerns-and-answers-key-questions/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "記憶體太貴！128GB DGX Spark 價格飆破 6,000 美元，輝達改推 64GB 版本搶市",
+              "url": "https://technews.tw/2026/10/03/nvidia-64-gb-dgx-spark/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "當 AI 開始自己開發 AI，安全機制恐遭破解！「一鍵關機」為何淪為不切實際的幻想",
+              "url": "https://infosecu.technews.tw/2026/10/03/what-is-an-ai-kill-switch-and-does-it-work/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "AI「能做」不代表「該做」，企業決定自建或外購系統前的 4 大評估指標",
+              "url": "https://technews.tw/2026/10/03/the-gut-check-questions-every-leader-needs-to-ask-before-building-with-ai/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "輝達前員工掀出走創業風氣，帶動機器人與實體 AI 新創潮",
+              "url": "https://technews.tw/2026/10/03/nvidia-alumni-are-fueling-a-new-wave-of-robotics-and-ai-startups/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "姆巴佩告別 Nike 改投 On，瑞士跑鞋品牌全力進軍足球市場",
+              "url": "https://finance.technews.tw/2026/10/03/how-is-swiss-running-shoe-brand-on-challenging-the-giants/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "顛覆 20 年「零工廠」獲利方程式，揭 Nike 布廠竣邦砸 10 億赴越建廠內幕",
+              "url": "https://finance.technews.tw/2026/10/03/jb-international-inc/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "ChatGPT 推出虛擬試穿功能，上傳照片即可 AI 模擬穿搭效果",
+              "url": "https://technews.tw/2026/10/03/chatgpt-adds-virtual-try-on-for-clothes/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "尋找超新星爆發前的「母星」，NASA 錢卓拉最新發現 84 個神祕天體帶來破案曙光",
+              "url": "https://technews.tw/2026/10/03/nasa-chandra-latest-galaxy-images/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "NASA 採樣揭露貝努小行星身世，實為內外太陽系物質「混血兒」",
+              "url": "https://technews.tw/2026/10/03/origin-of-asteroid-bennu-revealed/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Chrome 154本週第二度發布更新版，緊急修補11個漏洞",
+              "url": "https://www.ithome.com.tw/news/179385",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "CISA警示FortiMail漏洞CVE-2026-104286已遭實際利用",
+              "url": "https://www.ithome.com.tw/news/179386",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "【AI 應用漏洞無所不在】雲端與身分權限同列高風險破口，企業防禦應轉向「實測真正風險」",
+              "url": "https://techorange.com/2026/10/03/penetration-testing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "tier": 2,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 18
+        }
+      ]
+    }
+  ]
+}
