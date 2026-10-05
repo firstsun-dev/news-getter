@@ -1,0 +1,26 @@
+{
+  "category": "AI",
+  "timestamp": "2026-10-05_20-30",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "An OpenAI safety insider calls the culture 'broken'",
+      "url": "https://therundownai.beehiiv.com/p/an-openai-safety-insider-calls-the-culture-broken",
+      "tier": 3,
+      "seen_count": 1
+    },
+    {
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "tier": 1,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
