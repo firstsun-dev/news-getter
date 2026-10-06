@@ -1,0 +1,170 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-10-06_05-59",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "New Zealand third quarter business confidence jumps, says think tank",
+      "url": "https://www.investing.com/news/economic-indicators/new-zealand-third-quarter-business-confidence-jumps-says-think-tank-4932953",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Australian consumer sentiment falls more than expected as rate, fuel costs bite",
+      "url": "https://www.investing.com/news/economic-indicators/australian-consumer-sentiment-falls-more-than-expected-as-rate-fuel-costs-bite-4933250",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Vance says details of proposed Alaska LNG pipeline need to be worked out",
+      "url": "https://www.investing.com/news/commodities-news/vance-says-details-of-proposed-alaska-lng-pipeline-need-to-be-worked-out-4933353",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Gold retains key reserve status despite surging bond yields, central bankers say",
+      "url": "https://www.investing.com/news/commodities-news/gold-retains-key-reserve-status-despite-surging-bond-yields-central-bankers-say-4931551",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Yemeni government forces drive Houthis from Bab el-Mandeb Strait",
+      "url": "https://www.investing.com/news/commodities-news/yemeni-government-forces-seize-district-by-bab-elmandeb-military-sources-say-4931376",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Gold holds near $4,140 as dollar, yields offset lower Fed hike expectations",
+      "url": "https://www.investing.com/news/commodities-news/gold-holds-near-4140-as-dollar-yields-offset-lower-fed-hike-expectations-4933176",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Oil prices slip as traders weigh strong Mideast exports against Gulf tensions",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-slip-as-traders-weigh-strong-mideast-exports-against-gulf-tensions-4933163",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Oil prices steady as markets weigh Aramco price cuts, M.East supplies",
+      "url": "https://www.investing.com/news/commodities-news/oil-prices-edge-lower-as-markets-weigh-aramco-price-cuts-meast-supplies-4933124",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Gold prices mostly flat as firmer dollar and Treasury bond rout offset by oil dip",
+      "url": "https://www.investing.com/news/commodities-news/gold-edges-higher-after-weekly-slide-as-weak-jobs-data-ease-fed-hike-bets-4930980",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Conservation group calls for moratorium on AI data centers on US public lands",
+      "url": "https://www.investing.com/news/commodities-news/conservation-group-calls-for-moratorium-on-ai-data-centers-on-us-public-lands-4932922",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Exclusive-US to announce $150 million for Alaska power lines as Vance campaigns in Senate battleground",
+      "url": "https://www.investing.com/news/commodities-news/exclusiveus-to-announce-150-million-for-alaska-power-lines-as-vance-campaigns-in-senate-battleground-4932581",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Crude Oil WTI tests 50% Fib at $88.76 amid downtrend: Live",
+      "url": "https://www.investing.com/news/commodities-news/crude-oil-wti-tests-200-sma-after-hs-breakdown-live-levels-93CH-4931134",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Britain has turned digital ID into a growth industry",
+      "url": "https://www.ft.com/content/b3034c7f-e660-412b-87a4-a212539edba2?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "ICE launches trading in gold futures in London",
+      "url": "https://www.ft.com/content/a896cda0-cd0c-4aae-bc51-daec26157e56?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Surge in borrowing costs hits corporate America",
+      "url": "https://www.ft.com/content/7c7ccb82-2973-47af-ad9b-b469c6ea0048?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "France: between the bond market and the barricades",
+      "url": "https://www.ft.com/content/9b252b46-a87c-45e7-a09a-45a39ce077b8?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "The bond sell-off comes for corporate America",
+      "url": "https://www.ft.com/content/016e204f-d6d0-4e31-a359-fb23bcb9cf3a?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Trump eases red diesel limits in attempt to quell fuel inflation",
+      "url": "https://www.ft.com/content/8a733f73-d506-49ae-9030-2bbf0987bc8d?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "FCA to examine how it treated whistleblower who died by suicide",
+      "url": "https://www.ft.com/content/4087c789-a7ed-4365-bd35-9127bc58c3ae?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Brazil’s markets surge as investors bet on Bolsonaro win",
+      "url": "https://www.ft.com/content/47965ed4-5c40-4c91-ab1e-418aa75bb42a?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic",
+      "url": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Submit a question: What is driving the global bond sell-off?",
+      "url": "https://www.ft.com/content/d51a78a8-67d8-45bd-b32c-1eafe39a0794?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Big Oil goes to US Supreme Court over pivotal climate damages claim",
+      "url": "https://www.ft.com/content/4d2078c4-4773-4d4c-8544-c17169362579?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "TotalEnergies boss hails ‘opportunities’ created by global market turmoil",
+      "url": "https://www.ft.com/content/ae67bb6f-f227-4679-949f-2e79e2dc33e2?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "French central bank head warns country at risk of being ‘strangled by interest rates’",
+      "url": "https://www.ft.com/content/74c3cc77-1593-4c49-90f9-0d92fa3a2418?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Citi to speed up promotion path for junior bankers as hiring war heats up",
+      "url": "https://www.ft.com/content/41b567dc-50e9-4c41-95bb-e295caaf2340?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Euro slides to 17-month low against dollar",
+      "url": "https://www.ft.com/content/8b19b9f7-9237-47bf-bc50-d8b78aa7fe24?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
