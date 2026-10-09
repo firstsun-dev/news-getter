@@ -1,0 +1,152 @@
+{
+  "category": "Technology",
+  "timestamp": "2026-10-09_18-15",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "滑手機停不下來不是沒定力，科學證實科技正悄悄改寫你的大腦化學",
+      "url": "https://technews.tw/2026/10/10/technology-reshapes-brain/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "SMILE 衛星獨特紫外波段發威，捕捉覆蓋 1/3 地球的極光帶",
+      "url": "https://technews.tw/2026/10/10/smile-satellite-captures-daylight-aurora-over-arctic/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "天然氣管線延宕，甲骨文擬動用卡車供氣搶救 AI 資料中心進度",
+      "url": "https://technews.tw/2026/10/09/oracle-trucks-gas-ai-data-center-progress-natural-gas-pipeline-delays/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI 也會痛？酷刑室專案逼機器人陷入困境，殘酷設定引發網友炎上",
+      "url": "https://technews.tw/2026/10/09/ai-torture-chamber/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "破解血液幹細胞衰老密碼，AI 模型 ChromAgeNet 精準讀取 DNA 三維結構老化痕跡",
+      "url": "https://technews.tw/2026/10/09/ai-cracks-cellular-aging-code/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "讓 AI 當司機開 Toyota 買漢堡，GPT-6 Astra 勇闖路考成唯一通關大語言模型",
+      "url": "https://technews.tw/2026/10/09/ai-driven-corolla/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "美國海軍雷射武器部署軍艦，採類 Xbox 手把操作降低訓練門檻",
+      "url": "https://technews.tw/2026/10/09/us-navy-uses-xbox-style-controllers-to-fire-anti-drone-lasers-deployed-on-ships/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "光寶科第三季營收季增 9%，康舒單季首破百億元",
+      "url": "https://finance.technews.tw/2026/10/09/ai-power-demand-remains-strong-liteon-q3-revenue-up-9-percent-acbel-hits-new-high/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "達明機器人通過 DEKRA 德凱獨立評估，取得 IEC 62443-4-2 工控網路安全證書",
+      "url": "https://technews.tw/2026/10/09/techman-robot-earns-iec-62443-4-2-certification/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI 代理脫序不是覺醒而是人為疏失，專家籲嚴控授權與設計",
+      "url": "https://infosecu.technews.tw/2026/10/09/ai-panic-crisis-losing-control/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "墨西哥國民兵新武力：頭戴攝影機的吉娃娃",
+      "url": "https://technews.tw/2026/10/09/mexicos-national-guard-debuts-tiny-chihuahua-recruit/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "黃仁勳、蘇姿丰與馬斯克同獲殊榮，川普頒發美國國家科學獎章",
+      "url": "https://technews.tw/2026/10/09/jensen-huang-lisa-su-elon-musk-national-medal-science-trump/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "惡意程式PoeLLM利用GitHub上英文詩取得C2位址，入侵逾3,400臺伺服器",
+      "url": "https://www.ithome.com.tw/news/179558",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "美國亞利桑那州最高法院系統遭釣魚攻擊，逾百萬人個資外洩",
+      "url": "https://www.ithome.com.tw/news/179559",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "美國EY資料外洩波及高盛、英仕曼集團客戶",
+      "url": "https://www.ithome.com.tw/news/179557",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "當威脅情報只剩大量數據，企業該相信什麼？",
+      "url": "https://www.ithome.com.tw/news/179529",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "HPE預告將推出第13代伺服器平臺，主打三大系統安全性強化特色",
+      "url": "https://www.ithome.com.tw/news/179547",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "日本IDC Frontier雲端遭勒索軟體攻擊，波及495家客戶、部分系統靠備份重建",
+      "url": "https://www.ithome.com.tw/news/179548",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "3個國碼頂級網域遭劫持，攻擊者取得Google等組織HTTPS憑證",
+      "url": "https://www.ithome.com.tw/news/179500",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "微軟測試新Windows Search，不只能搜尋還能執行動作",
+      "url": "https://www.ithome.com.tw/news/179549",
+      "tier": 2,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}

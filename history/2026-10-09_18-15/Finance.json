@@ -1,0 +1,230 @@
+{
+  "category": "Finance",
+  "timestamp": "2026-10-09_18-15",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "China, EU strike deal to cut Chinese hybrid vehicle exports by over half",
+      "url": "https://www.investing.com/news/economic-indicators/china-eu-strike-deal-to-cut-chinese-hybrid-vehicle-exports-by-over-half-4941416",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Ukraine hits second major tech site, expanding range of targets inside Russia",
+      "url": "https://www.investing.com/news/economic-indicators/ukraine-expands-drone-strikes-on-data-centres-owned-by-russias-yandex-4940686",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "U.S. consumer sentiment inches lower in October, UMich survey shows",
+      "url": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-inches-lower-in-october-umich-survey-shows-4941388",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "World economic growth to slow to 2.6% in 2026, UN trade body says",
+      "url": "https://www.investing.com/news/economic-indicators/world-economic-growth-to-slow-to-26-in-2026-un-trade-body-says-4940451",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Michigan consumer sentiment dips below forecast, signals caution",
+      "url": "https://www.investing.com/news/economic-indicators/michigan-consumer-sentiment-dips-below-forecast-signals-caution-93CH-4941337",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Italy industrial output dives unexpectedly in August",
+      "url": "https://www.investing.com/news/economic-indicators/italy-industrial-output-dives-unexpectedly-in-august-4940401",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Gold prices hit one-week high, investors eye Fed rate trajectory",
+      "url": "https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "US corn forecast weighs on European wheat prices",
+      "url": "https://www.investing.com/news/commodities-news/us-corn-forecast-weighs-on-european-wheat-prices-93CH-4941559",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Kenya expects budget deficit to rise to 5.9% of GDP in 2027/28",
+      "url": "https://www.investing.com/news/economic-indicators/kenya-expects-budget-deficit-to-rise-to-59-of-gdp-in-202728-4940301",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Malaysian palm oil futures fall after no export duty waiver",
+      "url": "https://www.investing.com/news/commodities-news/malaysian-palm-oil-futures-fall-after-no-export-duty-waiver-93CH-4941499",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Oil prices dip after Trump rules out pre-midterms Iran attack, easing supply fears",
+      "url": "https://www.investing.com/news/commodities-news/oil-falls-slightly-after-trump-says-no-iran-attack-before-midterms-4940011",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Colombia coffee output drops 15% amid weather impact",
+      "url": "https://www.investing.com/news/commodities-news/colombia-coffee-output-drops-15-amid-weather-impact-93CH-4941519",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Trump teases ’big announcement’ on diesel",
+      "url": "https://www.investing.com/news/commodities-news/trump-big-announcement-coming-up-on-diesel-4941467",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "US diesel prices remain high despite Trump’s moves to boost supplies",
+      "url": "https://www.investing.com/news/commodities-news/trumps-moves-to-boost-diesel-supplies-have-not-yet-lowered-prices-4940588",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Houthi strikes on Riyadh airport killed three Saudis as war escalates",
+      "url": "https://www.investing.com/news/commodities-news/houthi-strikes-on-riyadh-airport-killed-three-saudis-as-war-escalates-4940497",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Germany to release 15 million barrels from oil reserves",
+      "url": "https://www.investing.com/news/commodities-news/germany-to-release-15-million-barrels-from-oil-reserves-93CH-4941051",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Morning Bid: Bonds, bombs and barricades",
+      "url": "https://www.investing.com/news/commodities-news/morning-bid-bonds-bombs-and-barricades-4940727",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Trump pressures Mexico for energy deals in crunch trade talks",
+      "url": "https://www.ft.com/content/dda61be8-88bd-4ebc-bde5-ba440308d518?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Stockpickers: Avingtrans, Tesco, JD Wetherspoon",
+      "url": "https://www.ft.com/content/873b1b9c-5e5c-4f34-9b96-6250ffd26783",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "The wisdom of prediction markets",
+      "url": "https://www.ft.com/content/88485f17-cb90-46cc-a302-6c87b29622c1?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Iran attacks tankers beyond Strait of Hormuz",
+      "url": "https://www.ft.com/content/83b817d5-df71-41a6-bef5-3db55a3a89cf?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "How to shield your portfolio if AI goes ka-boom",
+      "url": "https://www.ft.com/content/ee329e29-aec9-4876-829e-022683f425f8?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "The ECB will sit on the sidelines during France’s debt sell-off",
+      "url": "https://www.ft.com/content/084bf164-ee7b-4744-a869-4dea488459f8",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Former Deutsche Bank star trader has rate-rigging conviction quashed",
+      "url": "https://www.ft.com/content/d16e8abb-ce63-4ed4-b2f2-3a0805e9cab1?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "The struggle to fix Africa’s debt crisis",
+      "url": "https://www.ft.com/content/78cfa32b-b117-4c49-b061-72519878cd54?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "EU countries to overhaul financial market supervision",
+      "url": "https://www.ft.com/content/77b79f83-9dd1-49b1-be59-b5ca3c2ad5fd?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Most countries unprepared for bank failures, watchdog warns",
+      "url": "https://www.ft.com/content/ca31d01f-d5a0-4bd4-bcc2-4aaa68f4ca22?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Hedge funds as systemic risks",
+      "url": "https://www.ft.com/content/c1a8b8f4-7508-49bc-990b-3ecc5a4f20ee?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Five ways to tell if market trouble lies ahead",
+      "url": "https://www.ft.com/content/7acb5862-cde5-49b4-a5f1-5f6e6977a9c7?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "The energy crisis is changing what investors want from oil majors",
+      "url": "https://www.ft.com/content/7b354a5d-9702-407a-a4bc-8703c6ba7b72?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Some much-needed American optimism on Europe",
+      "url": "https://www.ft.com/content/c0bec605-c948-4249-be2d-a76e0e60203b?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "US 10-year Treasury yields risk hitting 6% for first time since 2000, Pimco says",
+      "url": "https://www.ft.com/content/a752a86c-cf05-4152-b842-2ae6b6bf3fe0?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Kremlin-backed money launderer used London fintech to make payments",
+      "url": "https://www.ft.com/content/1273931a-238d-45a9-85b3-5c847e79b5ea?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Institutional investors challenge PE fund model with direct deals",
+      "url": "https://www.ft.com/content/2f320dca-b1a0-4451-ab8f-73640edd06c0?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Crypto companies linked to Trump-backed firm in $141mn legal battle",
+      "url": "https://www.ft.com/content/e08fbdee-8268-4eb8-99b4-5f7089749d59?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Asset management hirers seek personality and skills",
+      "url": "https://www.ft.com/content/c5a56603-be96-41bc-a00f-562f0407bedd?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "SoftBank wants Gulf money to expand AI bet",
+      "url": "https://www.ft.com/content/f9b00f7e-874a-44f5-9344-6fc262fa90bc?syn-25a6b1a6=1",
+      "tier": 2,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}

@@ -5,10 +5,28 @@
       "category": "Strategy",
       "tier": 2,
       "role": "professional",
-      "title": "How to Lead When Everyone Is Watching",
-      "link": "http://feeds.harvardbusiness.org/2026/10/how-to-lead-when-everyone-is-watching",
-      "content": "Advice for executives facing a public crisis from three leaders who’ve been there.",
-      "fingerprint": "e1d29a1fa53e65a21a5f4fe71507323f80bcc7b88f6fdd8399fe0bd1faaafb47",
+      "title": "Sustainability Reporting Isn’t the Same as Risk Preparedness",
+      "link": "http://feeds.harvardbusiness.org/2026/10/sustainability-reporting-isnt-the-same-as-risk-preparedness",
+      "content": "How companies can use their disclosures to reshape strategy and operations.",
+      "fingerprint": "1087998e16a7b5f20ba62832273c6ab29150e836abc1ea5d33b439e4c4b80806",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Harvard Business Review",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Harvard Business Review",
+      "category": "Strategy",
+      "tier": 2,
+      "role": "professional",
+      "title": "Who Owns the Customer in the Age of AI Agents?",
+      "link": "http://feeds.harvardbusiness.org/2026/10/who-owns-the-customer-in-the-age-of-ai-agents",
+      "content": "As shoppers delegate more decisions to AI, engagement no longer guarantees strategic control.",
+      "fingerprint": "b019ff253b7fbda4324886ee3be6b88210b1c8fd60ca6cc9ee60c38fc8faf9d5",
       "seen_count": 1,
       "sources": [
         {
@@ -25,10 +43,28 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-      "content": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
-      "fingerprint": "8c398c4db6534f12e7271d171061024fcf956a4a026652d00fe1117ec0689e42",
+      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "content": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+      "fingerprint": "22a5f858763d26f1554fef85836cba0ab7166383a83b9731dbbfe5416b9faef1",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "content": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+      "fingerprint": "1b37092663e082cee13f0957544d9259967a181d7be152093df59782ad69c494",
       "seen_count": 1,
       "sources": [
         {
@@ -61,10 +97,10 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "content": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
-      "fingerprint": "672400258c37a9549fa7659a9a4ccda78ff07880c1dbf537a75b2186e8b2903b",
+      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+      "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+      "content": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
+      "fingerprint": "70607c102932191736edb1672abe1fc4907fd34299894d119e81793aa53fd927",
       "seen_count": 1,
       "sources": [
         {
@@ -79,10 +115,190 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-      "content": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
-      "fingerprint": "7ef7a15d9bee089fbe4eb7c1fe0e6639e7656344732fce68c744c2579dc31a58",
+      "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
+      "content": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
+      "fingerprint": "b88feab8481945dfeb757f6766f8271d583b8484622002cfd5f8515d0e625d19",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Man named Hitler Mussolini elected mayor in Peru",
+      "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+      "content": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
+      "fingerprint": "f5b1a2863116ee47fde4837fc3f693b1d22d67644d24a42091f7941459a453d2",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "content": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+      "fingerprint": "942e9918d5aa6713cb59e23f9e0d5f8eed23b83102ed0c294f7a5a0328bde8a7",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "US immigration officials defend ICE agents who shot man in same car as child",
+      "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+      "content": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+      "fingerprint": "538442b5a32e3ce122cd4bed41d21956949cfffc857e4fe83b0f412a7a9b8e75",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "France promises 3,000 extra teachers in first step to calm student protests",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+      "content": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students.",
+      "fingerprint": "2e892df7375200dfe0475e32b5944ade8c9a222dd4ebb1ea6ffc502faa67e663",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "content": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
+      "fingerprint": "ecf72f5ac7635ed02bd55efb63f76b8014c30bede7a10ee026e5fadc15df970c",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Crazy Rich Asians to return as TV show with original film's stars",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
+      "content": "It will pick up after the hit 2018 film, starring Constance Wu, Henry Golding, Michelle Yeoh and Ronny Chieng.",
+      "fingerprint": "d49e7336b11d2f1551c7d44ddafcf1f6a4bd45f5160346053adbf4ed9c0e1f07",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
+      "content": "Dr Vincent Brown was allegedly a \"leader\" or \"supervisor\" of violent acts carried out by others in the early days of the genocide.",
+      "fingerprint": "b973daa369aaaa771260bc839333dbb5723c867d77f6aed2ebed1432b6d60f49",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Two Renoir paintings stolen from French museum are recovered",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
+      "content": "The two works were seized last month when thieves cut through a fence and smashed a window at the Renoir Museum on the French Riviera.",
+      "fingerprint": "f7d488b6e8e5a945bf9571eba882a67193a2ea6f9cd4b4f4ce469462fb8d5011",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+      "content": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
+      "fingerprint": "aac7b9554673d24bf54e7c2a5ae1d7b267e46f16f2b054a80f30ab051bd5ef29",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "BBC News",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "BBC News",
+      "category": "Global",
+      "tier": 2,
+      "role": "professional",
+      "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+      "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+      "content": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
+      "fingerprint": "c33270f76703b64b12f6c812d3c184f837a6fa8735bd878d5696da95c3dc9179",
       "seen_count": 1,
       "sources": [
         {
@@ -115,10 +331,10 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-      "content": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
-      "fingerprint": "f0613b5c2bd59a59b4281818dd26b8bd5d0bcf4a6cd963d5d436c1bfeb23bdeb",
+      "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
+      "content": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
+      "fingerprint": "82ae40e7693016b32310e8660b1f3ce968887c7c37de77751946b4a9cf3aa851",
       "seen_count": 1,
       "sources": [
         {
@@ -133,10 +349,10 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-      "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-      "content": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
-      "fingerprint": "5fbc1e1fe90245552795895319b1217d6ece620a329d4ca4e5024223af862571",
+      "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
+      "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+      "content": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
+      "fingerprint": "4fecfd587bd801812dedb95074640b2f7ddcc1f8c3d13915dce54f3fc9b7092d",
       "seen_count": 1,
       "sources": [
         {
@@ -151,10 +367,10 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
-      "content": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
-      "fingerprint": "a2a00bbfc5357c6868439e3a059ff396ebb2e24aa38417914e89edce054972af",
+      "title": "Meet India's feisty Gen Z protester who is taking on Modi",
+      "link": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
+      "content": "Neha Bora has emerged as one of the most recognisable faces from India's recent Gen Z-led protests.",
+      "fingerprint": "ace2ba4323a38e191ebdc14921f771db2a37ef3f1b5bd40bf2a38cad9ac98cb4",
       "seen_count": 1,
       "sources": [
         {
@@ -169,10 +385,10 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-      "content": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
-      "fingerprint": "21dbc3bb11b8ef372699eaa8a348f75a37f3ec72def4c65d89a7a94b8b7d94a4",
+      "title": "Why Elon Musk is taking on India's richest man over Starlink",
+      "link": "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
+      "content": "Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.",
+      "fingerprint": "16017a9d2d5b1be04336a548ae336e83f0d903501f508826ec0c39e68fc14384",
       "seen_count": 1,
       "sources": [
         {
@@ -187,10 +403,10 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Zambia signs US health deal after disputes over data-sharing",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
-      "content": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
-      "fingerprint": "5be71ec2bf0f55cfb016428d205e6b568b5c88d69bfc9e0fca156f0fae664531",
+      "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
+      "link": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
+      "content": "Protests against sexual violence took place across more than 40 US states on 8 October.",
+      "fingerprint": "8a4dce8a059b1735131c49c76f6b6009ac5c1312af12333980b83b0a633c4dc8",
       "seen_count": 1,
       "sources": [
         {
@@ -205,10 +421,10 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-      "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-      "content": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
-      "fingerprint": "045845acfa6c07470e43014e2987997727d19de23e2c907ec6dd48e232c8f1e9",
+      "title": "Why is it so hard to put out Indonesian fires shrouding the region in toxic smog?",
+      "link": "https://www.bbc.co.uk/news/videos/c862y63x657no?at_medium=RSS&at_campaign=rss",
+      "content": "We explain why Indonesia’s peatland fires are so difficult to battle and produce so much haze.",
+      "fingerprint": "8cea65afd2d6a962db35ef386c21678373d3e49b25366cd5a1bdb73332be6004",
       "seen_count": 1,
       "sources": [
         {
@@ -223,64 +439,10 @@
       "category": "Global",
       "tier": 2,
       "role": "professional",
-      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-      "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "content": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
-      "fingerprint": "c2494a992a48d07897f90756933afe8afd490ba257185bd05edc5839dac17346",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "BBC News",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "BBC News",
-      "category": "Global",
-      "tier": 2,
-      "role": "professional",
-      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-      "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
-      "content": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
-      "fingerprint": "1415399ecca92cca3c775acc2714918404c2a0673753e8c9096206a2d8ceb6a7",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "BBC News",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "BBC News",
-      "category": "Global",
-      "tier": 2,
-      "role": "professional",
-      "title": "What Americans think about the death penalty",
-      "link": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss",
-      "content": "The BBC spoke to Americans and international tourists in Washington DC about their views on the death penalty following the botched execution of Christa Pike in Tennessee.",
-      "fingerprint": "3db433ab9c192745996baa40b17538554954cebf0ce246c90662fc6dc18995ab",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "BBC News",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "BBC News",
-      "category": "Global",
-      "tier": 2,
-      "role": "professional",
-      "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
-      "link": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
-      "content": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge and heavy rains to the Gulf Coast Friday.",
-      "fingerprint": "a2509b9fc81e6f57bdde90ddf21c86c53bd406b9c1f5bc93495849b3937b8509",
+      "title": "Fleeing Kyiv for the countryside ahead of winter",
+      "link": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&at_campaign=rss",
+      "content": "A Kyiv resident told the BBC she has moved away from \"everything that can be a Russian target\" as Ukraine braces for another cold winter under intense attacks.",
+      "fingerprint": "aa4e26d2f1fbf871da9f20f9482536e5f087891be5aa299c75a85b83a2e53dc7",
       "seen_count": 1,
       "sources": [
         {
@@ -295,10 +457,10 @@
       "category": "Global",
       "tier": 1,
       "role": "primary",
-      "title": "Skydance says CNN will retain its editorial independence",
-      "link": "https://www.pewresearch.org/newsletter/the-briefing/the-briefing-2026-10-08/",
-      "content": "The Briefing ☀️ Happy Thursday! The Briefing is your guide to the world of news and information. Sign up here! In today’s email: 🔥 Featured story Paramount’s merger with Warner Bros. Discovery was finalized this week, with the resulting company to be known as Skydance. In a press conference, CEO David Ellison sought to address […]",
-      "fingerprint": "ac974b1ee3b9fe327dcf9a2c4a24660d243004a76840f1cab188d3a88fb42366",
+      "title": "Why Don’t Some People Use Chatbots?",
+      "link": "https://www.pewresearch.org/short-reads/2026/10/09/why-dont-some-people-use-chatbots/",
+      "content": "About half of U.S. adults never use chatbots, and most non-users cite disinterest, privacy or accuracy concerns.",
+      "fingerprint": "11d6507e9e9d4c723bfa542280f4fa8e030e3caf6e0f2eeddf950535fffddb9f",
       "seen_count": 1,
       "sources": [
         {
@@ -313,10 +475,10 @@
       "category": "Global",
       "tier": 1,
       "role": "primary",
-      "title": "Iran Conflict Remains Deeply Unpopular as Many Americans Expect It To Go On for Months",
-      "link": "https://www.pewresearch.org/short-reads/2026/10/08/iran-conflict-remains-deeply-unpopular-as-many-americans-expect-it-to-go-on-for-months/",
-      "content": "Around two-thirds (65%) now disapprove of the way President Donald Trump is handling the U.S. military action in Iran, while a third (33%) approve.",
-      "fingerprint": "51856ee334be25b0ed58d24242bf84bb1854152b218e2db297ae5949ac4714f4",
+      "title": "Social media and democracy around the world",
+      "link": "https://www.pewresearch.org/newsletter/global/global-september-2026-newsletter/",
+      "content": "Global Attitudes & Trends A digest of the Center’s latest findings from its worldwide public opinion surveys and demographic research · Subscribe ↗ In the news Social media harms democracy by spreading rumors, survey showsReuters Most people think AI will cut more jobs than create them; Indians feel AI will widen rich-poor gap—Pew ThePrint Pew poll finds […]",
+      "fingerprint": "773305942fbdece9be42b1f9d5f43aa1bedf765930a4af4ca655b6a227ae2633",
       "seen_count": 1,
       "sources": [
         {
@@ -331,172 +493,10 @@
       "category": "Global",
       "tier": 1,
       "role": "primary",
-      "title": "Cost Concerns Dominate as Public’s Economic Ratings Turn More Negative",
-      "link": "https://www.pewresearch.org/politics/2026/10/08/cost-concerns-dominate-as-publics-economic-ratings-turn-more-negative/",
-      "content": "The costs of many household essentials are a top economic concern for most Americans – much as they were four years ago on the eve of the last midterm election.",
-      "fingerprint": "ca23e8749adf1ae8b1214cb778ee624842c6c86fcb10a7b8b34c637eda20a281",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Pew Research",
-          "tier": 1,
-          "role": "primary"
-        }
-      ]
-    },
-    {
-      "source": "Pew Research",
-      "category": "Global",
-      "tier": 1,
-      "role": "primary",
-      "title": "Acknowledgments",
-      "link": "https://www.pewresearch.org/politics/2026/10/08/cost-concerns-acknowledgments/",
-      "content": "This report is a collaborative effort based on the input and analysis of the following individuals: Research team Jocelyn Kiley, Director, Political ResearchSteven Shepard, Associate Director, Political ResearchHannah Hartig, Senior ResearcherBaxter Oliphant, Senior ResearcherGabe Borelli, Research AssociateAndrew Daniller, Research AssociateAndy Cerda, Research AnalystShanay Gracia, Research Analyst Ted Van Green, Research Analyst Communications and editorial Nida […]",
-      "fingerprint": "3a6fba04133dde45c4164415ec4c3666cf263cae16fe6e8e1eadf1873f1d825c",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Pew Research",
-          "tier": 1,
-          "role": "primary"
-        }
-      ]
-    },
-    {
-      "source": "Pew Research",
-      "category": "Global",
-      "tier": 1,
-      "role": "primary",
-      "title": "Methodology",
-      "link": "https://www.pewresearch.org/politics/2026/10/08/cost-concerns-methodology/",
-      "content": "The American Trends Panel survey methodology Overview Data in this report comes from Wave 200 of the American Trends Panel (ATP), Pew Research Center’s nationally representative panel of randomly selected U.S. adults. The survey was conducted from Sept. 28 to Oct. 4, 2026. A total of 5,062 panelists responded out of 5,835 who were sampled, […]",
-      "fingerprint": "0aeac9f657407a57ae4a874d03c389b81d872934a1664be7735cad99c41613bd",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Pew Research",
-          "tier": 1,
-          "role": "primary"
-        }
-      ]
-    },
-    {
-      "source": "Pew Research",
-      "category": "Global",
-      "tier": 1,
-      "role": "primary",
-      "title": "With Americans in a Sour Mood, Democratic Voters Are More Engaged in Midterms",
-      "link": "https://www.pewresearch.org/politics/2026/10/08/with-americans-in-a-sour-mood-democratic-voters-are-more-engaged-in-midterms/",
-      "content": "The 2026 midterm election comes amid deep public dissatisfaction with the state of the nation and near-record low approval ratings for Trump.",
-      "fingerprint": "b45b562294632dabc042a139d9388b91dc725a8bc320c862cf0dfc92586c575f",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Pew Research",
-          "tier": 1,
-          "role": "primary"
-        }
-      ]
-    },
-    {
-      "source": "Pew Research",
-      "category": "Global",
-      "tier": 1,
-      "role": "primary",
-      "title": "Midterm Vote Preferences by Race and Ethnicity, Age and Other Demographics",
-      "link": "https://www.pewresearch.org/politics/2026/10/08/midterm-vote-preferences-by-race-and-ethnicity-age-and-other-demographics/",
-      "content": "This is part of a larger report on the attitudes and dynamics shaping the 2026 midterm elections. With several weeks to go until Election Day, Americans who are registered to vote favor Democrats over Republicans in the national race for the House of Representatives by an 8 percentage point margin (44% to 36%). About two-in-ten […]",
-      "fingerprint": "830589eca6d8936a9c25608f0c3319e5cae25e3f0b3b55961268869930f24078",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Pew Research",
-          "tier": 1,
-          "role": "primary"
-        }
-      ]
-    },
-    {
-      "source": "Pew Research",
-      "category": "Global",
-      "tier": 1,
-      "role": "primary",
-      "title": "Economy Ranks as Top Issue in Midterms for All Voters – But Partisans Differ Over the Importance of Other Issues",
-      "link": "https://www.pewresearch.org/politics/2026/10/08/economy-ranks-as-top-issue-in-midterms-for-all-voters-but-partisans-differ-over-the-importance-of-other-issues/",
-      "content": "The economy is the dominant issue for midterm voters in this fall’s congressional elections. As Americans express growing concerns about economic conditions and the cost of necessities, 84% of registered voters say the economy is very important to their midterm vote. It is the top issue among both voters who prefer Republican candidates in the […]",
-      "fingerprint": "8b0838954e7d38d862d1e16de29b4204c1f6271f6034cba8b630d0989ec5baa2",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Pew Research",
-          "tier": 1,
-          "role": "primary"
-        }
-      ]
-    },
-    {
-      "source": "Pew Research",
-      "category": "Global",
-      "tier": 1,
-      "role": "primary",
-      "title": "Trump’s Approval Rating Drops as Fewer Americans Are Confident in His Handling of the Economy, Other Issues",
-      "link": "https://www.pewresearch.org/politics/2026/10/08/trumps-approval-rating-drops-as-fewer-americans-are-confident-in-his-handling-of-the-economy-other-issues/",
-      "content": "31% of Trump’s 2024 voters disapprove of his job performance Three-in-ten Americans now approve of the way Donald Trump is handling his job as president, while 68% disapprove. Trump’s approval rating has dropped substantially over the course of his second term – his current rating is comparable to the lowest rating of his first term […]",
-      "fingerprint": "2b95f25ead3aea7fe8ea0b07f2ff8696404adb439644fc0764d460f56e055f2b",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Pew Research",
-          "tier": 1,
-          "role": "primary"
-        }
-      ]
-    },
-    {
-      "source": "Pew Research",
-      "category": "Global",
-      "tier": 1,
-      "role": "primary",
-      "title": "Appendix: Additional Charts",
-      "link": "https://www.pewresearch.org/politics/2026/10/08/midterms-2026-appendix-additional-charts/",
-      "content": "",
-      "fingerprint": "5faec26f4caf889399119cf67010930dc86af629f629565f6224af4f7cab07b0",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Pew Research",
-          "tier": 1,
-          "role": "primary"
-        }
-      ]
-    },
-    {
-      "source": "Pew Research",
-      "category": "Global",
-      "tier": 1,
-      "role": "primary",
-      "title": "Acknowledgments",
-      "link": "https://www.pewresearch.org/politics/2026/10/08/midterms-acknowledgments/",
-      "content": "This report is a collaborative effort based on the input and analysis of the following individuals: Research team Jocelyn Kiley, Director, Political ResearchSteven Shepard, Associate Director, Political ResearchHannah Hartig, Senior ResearcherBaxter Oliphant, Senior ResearcherGabe Borelli, Research AssociateAndrew Daniller, Research AssociateAndy Cerda, Research AnalystShanay Gracia, Research Analyst Ted Van Green, Research Analyst Communications and editorial Nida […]",
-      "fingerprint": "b2e8eb9fbf6a61ba529fb3a22babb7806cfec70b075e253ae10d79b1750895da",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Pew Research",
-          "tier": 1,
-          "role": "primary"
-        }
-      ]
-    },
-    {
-      "source": "Pew Research",
-      "category": "Global",
-      "tier": 1,
-      "role": "primary",
-      "title": "Methodology",
-      "link": "https://www.pewresearch.org/politics/2026/10/08/midterms-2026-methodology/",
-      "content": "The American Trends Panel survey methodology Overview Data in this report comes from Wave 200 of the American Trends Panel (ATP), Pew Research Center’s nationally representative panel of randomly selected U.S. adults. The survey was conducted from Sept. 28 to Oct. 4, 2026. A total of 5,062 panelists responded out of 5,835 who were sampled, […]",
-      "fingerprint": "10c5989a243e15c5ce9c00249d53aa70cd5908136d4e10f676fa4bb697ebfa02",
+      "title": "French Adults Stand Out for Their Economic Pessimism",
+      "link": "https://www.pewresearch.org/short-reads/2026/10/09/french-adults-stand-out-for-their-economic-pessimism/",
+      "content": "Amid protests, 85% of French adults say their economy is bad, a higher share than in any of 17 other high-income countries surveyed.",
+      "fingerprint": "f7afa77c75b26e0b103266b4b03a03791e454cfdc3261d467f5ef5d8823e7837",
       "seen_count": 1,
       "sources": [
         {
@@ -513,10 +513,10 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Japan household spending drops slightly less than expected in August",
-      "link": "https://www.investing.com/news/economic-indicators/japan-household-spending-drops-slightly-less-than-expected-in-august-4940019",
+      "title": "China, EU strike deal to cut Chinese hybrid vehicle exports by over half",
+      "link": "https://www.investing.com/news/economic-indicators/china-eu-strike-deal-to-cut-chinese-hybrid-vehicle-exports-by-over-half-4941416",
       "content": "",
-      "fingerprint": "90fbf173049cabdd8a7eaff3bdec133f845ae1e430179a1ab5acfd5f05fd4880",
+      "fingerprint": "a1f544012a243a80f072f1d07e333448d4879a9bd4ec215f222c1187fa031a8e",
       "seen_count": 1,
       "sources": [
         {
@@ -531,10 +531,10 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "European industry groups call for urgent EU action on China trade",
-      "link": "https://www.investing.com/news/economic-indicators/european-industry-groups-call-for-urgent-eu-action-on-china-trade-4939861",
+      "title": "Ukraine hits second major tech site, expanding range of targets inside Russia",
+      "link": "https://www.investing.com/news/economic-indicators/ukraine-expands-drone-strikes-on-data-centres-owned-by-russias-yandex-4940686",
       "content": "",
-      "fingerprint": "f6b4caa9abefa0ff42f6870e0429d25fb8478adaf120337d57569ade9c832718",
+      "fingerprint": "49ca0cbf8e9fee91f6026b4dc0c2c20e8aac36a4dbb49d322e2d754e8dd1fe35",
       "seen_count": 1,
       "sources": [
         {
@@ -549,10 +549,10 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "EU exec rejects Greek, Italian requests for more fiscal rules flexibility",
-      "link": "https://www.investing.com/news/economic-indicators/eu-exec-rejects-greek-italian-requests-for-more-fiscal-rules-flexibility-4939640",
+      "title": "U.S. consumer sentiment inches lower in October, UMich survey shows",
+      "link": "https://www.investing.com/news/economic-indicators/us-consumer-sentiment-inches-lower-in-october-umich-survey-shows-4941388",
       "content": "",
-      "fingerprint": "46a7b0efce4e562ffbed69d5e900505fb66146ac906d8682dd7e7c2d4c7e619e",
+      "fingerprint": "e6459de3f628c5be129c4b1bec468e029c518b0d9e3efb0eb4617833bdb280c6",
       "seen_count": 1,
       "sources": [
         {
@@ -567,10 +567,64 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "US August wholesale inventories revised lower",
-      "link": "https://www.investing.com/news/economic-indicators/us-august-wholesale-inventories-revised-lower-4939334",
+      "title": "Michigan consumer sentiment dips below forecast, signals caution",
+      "link": "https://www.investing.com/news/economic-indicators/michigan-consumer-sentiment-dips-below-forecast-signals-caution-93CH-4941337",
       "content": "",
-      "fingerprint": "29d5102a1750ef2d8125913c6dec4a99b7f43cba672781083bfc9ff250603bfa",
+      "fingerprint": "3a6a5586638f6c8d53173eed8e28a22e26595282abac18ccdcb6011e356ebd40",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Investing.com Bonds",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Investing.com Bonds",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "World economic growth to slow to 2.6% in 2026, UN trade body says",
+      "link": "https://www.investing.com/news/economic-indicators/world-economic-growth-to-slow-to-26-in-2026-un-trade-body-says-4940451",
+      "content": "",
+      "fingerprint": "0e95222ef7908582564b992b24eb213610419cbbf42b6167fcb4de991d7a863a",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Investing.com Bonds",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Investing.com Bonds",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "Italy industrial output dives unexpectedly in August",
+      "link": "https://www.investing.com/news/economic-indicators/italy-industrial-output-dives-unexpectedly-in-august-4940401",
+      "content": "",
+      "fingerprint": "4a1fb1016b6e70e6148e91c8ff52f3d4b851f9618611624d3ee73c3d8af02909",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Investing.com Bonds",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Investing.com Bonds",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "Kenya expects budget deficit to rise to 5.9% of GDP in 2027/28",
+      "link": "https://www.investing.com/news/economic-indicators/kenya-expects-budget-deficit-to-rise-to-59-of-gdp-in-202728-4940301",
+      "content": "",
+      "fingerprint": "f55e8ce60ba073edf0fa0e7430d510b7d3f0aa8e2fbeeeb1680f2a4d050710c9",
       "seen_count": 1,
       "sources": [
         {
@@ -585,10 +639,10 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Soaring freight rates threaten Asia’s appetite for US crude",
-      "link": "https://www.investing.com/news/commodities-news/soaring-freight-rates-threaten-asias-appetite-for-us-crude-4940191",
+      "title": "US corn forecast weighs on European wheat prices",
+      "link": "https://www.investing.com/news/commodities-news/us-corn-forecast-weighs-on-european-wheat-prices-93CH-4941559",
       "content": "",
-      "fingerprint": "662213e9e2bb62c657d0247a955c84c653816b1ae1096273001deea4651a88ab",
+      "fingerprint": "fd7ab95e9cafe8c1e2813982683aefb482c99363f468b3aa1305cf56045eaa91",
       "seen_count": 1,
       "sources": [
         {
@@ -603,43 +657,7 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Trump says US will not attack Iran before midterm elections in November",
-      "link": "https://www.investing.com/news/commodities-news/trump-us-having-productive-talks-with-iran-will-not-attack-before-us-elections-in-november-4939501",
-      "content": "",
-      "fingerprint": "8d3cf321990934df8135256b5f5b4a76721f11fc9e72239c78a8fcfacf84df89",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Investing.com Gold",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Investing.com Gold",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "China to resume October fuel exports after a brief halt, four trade sources say",
-      "link": "https://www.investing.com/news/commodities-news/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say-4940140",
-      "content": "",
-      "fingerprint": "d2ec871e611b3178d4c3fd8f2251a44d8096f902545faff072f2e8aa4bd06da8",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Investing.com Gold",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Investing.com Gold",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Gold rises over 1% as dollar weakens, Treasury yields retreat",
+      "title": "Gold prices hit one-week high, investors eye Fed rate trajectory",
       "link": "https://www.investing.com/news/commodities-news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-4940135",
       "content": "",
       "fingerprint": "b0a50916e5471b8392d6172abeaf223e97fa582b6a7233021b192dff2e418ae0",
@@ -657,10 +675,10 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Oil falls as Trump comments on Iran talks ease supply concerns",
-      "link": "https://www.investing.com/news/commodities-news/oil-falls-as-trump-comments-on-iran-talks-ease-supply-concerns-4940126",
+      "title": "Colombia coffee output drops 15% amid weather impact",
+      "link": "https://www.investing.com/news/commodities-news/colombia-coffee-output-drops-15-amid-weather-impact-93CH-4941519",
       "content": "",
-      "fingerprint": "5701166914f0087e466b19d8e17df006c5cd347e9dea13dbae27bb96664fcc38",
+      "fingerprint": "694bf7bd9badd059c1c4f8e5a13d092311c4cf332d9c829cde2d16e24c828a15",
       "seen_count": 1,
       "sources": [
         {
@@ -675,10 +693,10 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "US sued over plan to blast Utah canyon inscribed by 19th century ’Buffalo Soldiers,’ European pioneers",
-      "link": "https://www.investing.com/news/commodities-news/us-sued-over-plan-to-blast-utah-canyon-inscribedby-19th-century-buffalo-soldiers-europeanpioneers-4940046",
+      "title": "Malaysian palm oil futures fall after no export duty waiver",
+      "link": "https://www.investing.com/news/commodities-news/malaysian-palm-oil-futures-fall-after-no-export-duty-waiver-93CH-4941499",
       "content": "",
-      "fingerprint": "03fe9f033e86dffaa26272a77b7c6bea2198e2fd4493198347bb9ea4fa2bb091",
+      "fingerprint": "a4d4b261b0112ee0e0ddaab4304b512827870e5732f60697af7037667984a7e3",
       "seen_count": 1,
       "sources": [
         {
@@ -693,7 +711,7 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Oil prices dip after Trump says no Iran attack before midterms",
+      "title": "Oil prices dip after Trump rules out pre-midterms Iran attack, easing supply fears",
       "link": "https://www.investing.com/news/commodities-news/oil-falls-slightly-after-trump-says-no-iran-attack-before-midterms-4940011",
       "content": "",
       "fingerprint": "2d9dc9c30d9a6a7e856a5f5900f4ba5218231ece3a2dde659dcd88c3c374dfd8",
@@ -711,10 +729,10 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Oil settles below session high after Trump says no Iran attack before midterms",
-      "link": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-markets-brace-for-us-gulf-coast-supply-disruptions-4937767",
+      "title": "US diesel prices remain high despite Trump’s moves to boost supplies",
+      "link": "https://www.investing.com/news/commodities-news/trumps-moves-to-boost-diesel-supplies-have-not-yet-lowered-prices-4940588",
       "content": "",
-      "fingerprint": "b1491690d3f89f8b8aa39d11e3ec792e296cce3155ffb15420fb8720ea3859fb",
+      "fingerprint": "0501880c4ae933baa8ffcfdf9315812778b6ae9121f0d871e9ac323428c83a78",
       "seen_count": 1,
       "sources": [
         {
@@ -729,10 +747,10 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Gold inches up amid weaker dollar and bond rout halt, but oil surge caps gains",
-      "link": "https://www.investing.com/news/stock-market-news/gold-holds-near-nineweek-low-as-hormuz-tensions-raise-fed-hike-bets-4937808",
+      "title": "Trump teases ’big announcement’ on diesel",
+      "link": "https://www.investing.com/news/commodities-news/trump-big-announcement-coming-up-on-diesel-4941467",
       "content": "",
-      "fingerprint": "80fbfac62797af623adda4f369d97343df82bb361550679dee08a8a2dfb9f26b",
+      "fingerprint": "31a1e6399d70b598f9e9ae007747bd1cd2504f6a336658246d01020739291ef3",
       "seen_count": 1,
       "sources": [
         {
@@ -747,14 +765,248 @@
       "category": "Finance",
       "tier": 2,
       "role": "professional",
-      "title": "Euronext wheat rises as weak euro lifts export outlook",
-      "link": "https://www.investing.com/news/commodities-news/euronext-wheat-rises-as-weak-euro-lifts-export-outlook-93CH-4939681",
+      "title": "Houthi strikes on Riyadh airport killed three Saudis as war escalates",
+      "link": "https://www.investing.com/news/commodities-news/houthi-strikes-on-riyadh-airport-killed-three-saudis-as-war-escalates-4940497",
       "content": "",
-      "fingerprint": "d35bc86ffff8c044a1f095ca9eeca188c4dbd3d38f0e21607f383db0cbdcc1f3",
+      "fingerprint": "44838538d0c7c313eebed02da26b05cbc366cd8e8141d47aa382ef1f99bd9163",
       "seen_count": 1,
       "sources": [
         {
           "name": "Investing.com Gold",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Investing.com Gold",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "Germany to release 15 million barrels from oil reserves",
+      "link": "https://www.investing.com/news/commodities-news/germany-to-release-15-million-barrels-from-oil-reserves-93CH-4941051",
+      "content": "",
+      "fingerprint": "5eff16df031a50d24f2c4a8b0a81f8fe35ad332155e6008994f042da959043c9",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Investing.com Gold",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Investing.com Gold",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "Morning Bid: Bonds, bombs and barricades",
+      "link": "https://www.investing.com/news/commodities-news/morning-bid-bonds-bombs-and-barricades-4940727",
+      "content": "",
+      "fingerprint": "7c595457e7cc585b7c2ca6eb6755b546bd6a144e2cf3475c5b3d1ec0da806f11",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Investing.com Gold",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Financial Times Markets",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "Trump pressures Mexico for energy deals in crunch trade talks",
+      "link": "https://www.ft.com/content/dda61be8-88bd-4ebc-bde5-ba440308d518?syn-25a6b1a6=1",
+      "content": "Move triggers alarm in Mexico City, where domestic control of sensitive sector is part of modern political identity",
+      "fingerprint": "d0e3b340cae9e4d5cd85f0ffc169c410127e18d0a4da1fd2ee11c9aa7fe1b8cb",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Financial Times Markets",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Financial Times Markets",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "Stockpickers: Avingtrans, Tesco, JD Wetherspoon",
+      "link": "https://www.ft.com/content/873b1b9c-5e5c-4f34-9b96-6250ffd26783",
+      "content": "Our experts discuss which companies to buy, sell or hold this week",
+      "fingerprint": "ad758303c53c5c84bbe68de0de2e5d78990da82c4bedc14292218cf3b337a8b6",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Financial Times Markets",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Financial Times Markets",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "The wisdom of prediction markets",
+      "link": "https://www.ft.com/content/88485f17-cb90-46cc-a302-6c87b29622c1?syn-25a6b1a6=1",
+      "content": "Trades can contain valuable cues for businesspeople and investors",
+      "fingerprint": "b0ee6c3851888dba28202847cf33405a0b81e0c29701ac41b3118e322eaa6b25",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Financial Times Markets",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Financial Times Markets",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "Iran attacks tankers beyond Strait of Hormuz",
+      "link": "https://www.ft.com/content/83b817d5-df71-41a6-bef5-3db55a3a89cf?syn-25a6b1a6=1",
+      "content": "Escalation comes as Tehran tries to maintain leverage over strait crucial for global energy supplies",
+      "fingerprint": "058d966d9a59744c928aaa59d29adf84c47ba66be7c0af5db2ec398a8399897f",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Financial Times Markets",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Financial Times Markets",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "How to shield your portfolio if AI goes ka-boom",
+      "link": "https://www.ft.com/content/ee329e29-aec9-4876-829e-022683f425f8?syn-25a6b1a6=1",
+      "content": "If you still wanted to own stocks, it used to be impossible to avoid the fallout. Not any more",
+      "fingerprint": "9ee58691990865c73bf5ca5efe65ee43958810a8e43a9aa4d8a25f3ba02ee2ce",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Financial Times Markets",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Financial Times Markets",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "The ECB will sit on the sidelines during France’s debt sell-off",
+      "link": "https://www.ft.com/content/084bf164-ee7b-4744-a869-4dea488459f8",
+      "content": "That does not mean it can avoid making contingency plans to activate emergency measures",
+      "fingerprint": "d130dc22d9a466c12d90e74abaf6300eddc3ccfc88a9a1be86a4a4764cecfb8a",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Financial Times Markets",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Financial Times Markets",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "Former Deutsche Bank star trader has rate-rigging conviction quashed",
+      "link": "https://www.ft.com/content/d16e8abb-ce63-4ed4-b2f2-3a0805e9cab1?syn-25a6b1a6=1",
+      "content": "Christian Bittar pleaded guilty in 2018 to manipulating the Euribor rate",
+      "fingerprint": "02812ff27d383227a8359f2bece49d79d9a17091e9f29f7362bb12d835261a95",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Financial Times Markets",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Financial Times Markets",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "The struggle to fix Africa’s debt crisis",
+      "link": "https://www.ft.com/content/78cfa32b-b117-4c49-b061-72519878cd54?syn-25a6b1a6=1",
+      "content": "Is a growth-focused ‘reset’ the answer?",
+      "fingerprint": "7f2e060559a3db6dc9e989d04e46480734e623a24d21b6987c764c68fe0ba848",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Financial Times Markets",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Financial Times Markets",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "EU countries to overhaul financial market supervision",
+      "link": "https://www.ft.com/content/77b79f83-9dd1-49b1-be59-b5ca3c2ad5fd?syn-25a6b1a6=1",
+      "content": "Reforms part of effort by Brussels to bolster bloc’s flagging competitiveness in relation to US",
+      "fingerprint": "25d35b8a3393d7838df8ab6249e5dcb0aeacc3ab042178429cb79c9f1cbf4e43",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Financial Times Markets",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Financial Times Markets",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "Most countries unprepared for bank failures, watchdog warns",
+      "link": "https://www.ft.com/content/ca31d01f-d5a0-4bd4-bcc2-4aaa68f4ca22?syn-25a6b1a6=1",
+      "content": "Financial Stability Board says only US, UK, Japan and Hong Kong have a ‘credible public sector backstop’ to keep troubled lenders afloat before a sale or wind-down",
+      "fingerprint": "51f10bbb516610d59d3a3ed87e0a609422de94d8b2bcef4dd6531ab9279ff44c",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Financial Times Markets",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Financial Times Markets",
+      "category": "Finance",
+      "tier": 2,
+      "role": "professional",
+      "title": "Hedge funds as systemic risks",
+      "link": "https://www.ft.com/content/c1a8b8f4-7508-49bc-990b-3ecc5a4f20ee?syn-25a6b1a6=1",
+      "content": "And another word on inflation-linked bonds",
+      "fingerprint": "b00b29a4111cda0c63c5232c231e0adae033083df9d6000c3c157a9ccba97c8e",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Financial Times Markets",
           "tier": 2,
           "role": "professional"
         }
@@ -921,132 +1173,6 @@
           "role": "professional"
         }
       ]
-    },
-    {
-      "source": "Financial Times Markets",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Australian data centre operator pulls $5bn IPO",
-      "link": "https://www.ft.com/content/205ef7a5-321f-46e3-8097-d055bf1f6b3b?syn-25a6b1a6=1",
-      "content": "Nvidia-backed Firmus abandons plan to list in Sydney, blaming ‘recent market volatility and prevailing market conditions’",
-      "fingerprint": "6a3b5898ebf5153c83d74b30120a60197eaac5eab86aa3dd0e77f417806fc5f6",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Financial Times Markets",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Financial Times Markets",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Amex fined $350mn for failing to flag suspected money laundering",
-      "link": "https://www.ft.com/content/6777c34c-876f-4f72-9eec-d3cddb2f1f45?syn-25a6b1a6=1",
-      "content": "US regulator finds ‘systemic’ failures that left $13bn in suspicious transactions unreported",
-      "fingerprint": "829f034fcee15a0d18276c09bb2702f3f78b3b1c5935f20c05a14b1a8ad0a031",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Financial Times Markets",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Financial Times Markets",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Trump says US ‘will not be attacking Iran’ before midterm elections",
-      "link": "https://www.ft.com/content/e0cc2789-0e71-401d-8096-d58303970a37?syn-25a6b1a6=1",
-      "content": "President says Washington and Tehran are having ‘productive discussions’",
-      "fingerprint": "0f3e6ddb9f71f82751db7d2e6abff8eac2e061b6a21d50052ad058781bac9156",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Financial Times Markets",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Financial Times Markets",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Is France too blasé about borrowing costs?",
-      "link": "https://www.ft.com/content/67a64928-6278-4a83-8f9c-4ec9dcf26039?syn-25a6b1a6=1",
-      "content": "Rising bond yields raise concerns about wider contagion",
-      "fingerprint": "7759ee1876620bf207702f65f4c4b9533958df075b674196c0e8fcc13a4a8bf7",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Financial Times Markets",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Financial Times Markets",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "Oil prices jump on tanker attacks and slowing flows through Strait of Hormuz",
-      "link": "https://www.ft.com/content/ec860f96-5a2b-461a-a897-a957860c3dba?syn-25a6b1a6=1",
-      "content": "Transit via vital waterway rose close to 90% of prewar levels last month but has since fallen sharply",
-      "fingerprint": "4b012607b63d60450b04f231b1e38487e49a19fd9ee644aaa02dbd42eb5adbe0",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Financial Times Markets",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Financial Times Markets",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "US mortgage rates rise for seventh straight week to hit highest since 2023",
-      "link": "https://www.ft.com/content/04d6ae65-5d5f-4ed6-9c15-16aa0f4d0713?syn-25a6b1a6=1",
-      "content": "Benchmark borrowing costs continue to climb against backdrop of surging Treasury yields, elevated energy prices and expected tightening by Fed",
-      "fingerprint": "bd25ad41f70432107019ccc556995268a5a5333d98b53003dbe370728bfd150f",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Financial Times Markets",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Financial Times Markets",
-      "category": "Finance",
-      "tier": 2,
-      "role": "professional",
-      "title": "French bond sell-off prompts ‘bottom fishing’ across Europe",
-      "link": "https://www.ft.com/content/9cf103ed-548e-4b06-baed-71632abca961?syn-25a6b1a6=1",
-      "content": "Fears of a blow-up similar to the Eurozone debt crisis have been overdone, asset managers say",
-      "fingerprint": "eccd9542f253416907a5b6c53d3fccb6b798a1502b6fb86be0beb4e98c6f352a",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Financial Times Markets",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
     }
   ],
   "Investments": [
@@ -1055,10 +1181,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Warren Buffett Warns Investors Are Headed for a Cold, Hard Reality Check. History Says He's Right. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNmg2amtjanpKNUIxeHJGSXRTeGxvakhRY3VmZGZVTzY3YjlXRW5LZnVuNXdXQ1ZMYzZfRDI4S29TMnhCRTJmMkg3dFJCcjBnNDQ2MTluak5xUGt2bUxoZVJpU2Vwek02Zk9zWnlMb0EtYzJWcEpuRmxRbVhYODNsZVo0SVp0aXdmdDV1Z0I0Y0xyU01QRzgtUw?oc=5",
-      "content": "Warren Buffett Warns Investors Are Headed for a Cold, Hard Reality Check. History Says He's Right. The Motley Fool",
-      "fingerprint": "555203b5939763c5c63e751f1ceb542a8ad12739fdc9ad8ace719fc245cdcbfa",
+      "title": "Building The Berkshire Hathaway Of Bitcoin | Twenty One Capital CEO Rapha Zagury - Bitcoin Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb0ZaMjBkczdCd1ZVX1lvTHZXTjJOQTN1YXliWUFLeHRDVmY3RlFlRWZaeTA5X1AyMG50THlad3VfWnphMzR5ay1VUEhvX0lreFZmV3JIODV0cGJ1aUFxaVR1czEyeWhYQTBtQnhKTG5lNzVLU2VTc01qZjUtM1hkZkczQmRJcFB3aUZTc3Y4c01YZ3k3WE82bTJHUlNteXFmUk1ENzdJcDgyLTZzM2pVUWVwUQ?oc=5",
+      "content": "Building The Berkshire Hathaway Of Bitcoin | Twenty One Capital CEO Rapha Zagury Bitcoin Magazine",
+      "fingerprint": "d03b4258ad6cd5bca70d013563338130e248830a307f378ccaf86b5cdb065802",
       "seen_count": 1,
       "sources": [
         {
@@ -1073,10 +1199,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Is a Berkshire Hathaway Class A Stock Split Finally Coming? - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ1J6eVUyOWtySE83VDN5bloyeGYwc1BEbkRXN1RZQzJDMXpBQ3JGMEhZOXFjTVBzN3hDX0w4cUQtQnd3NDlVaktCaVNoWFM2YVdKb1c1NGFtRG05Uzg3OGNidHQxSTdDanRsMHlQdzBxU0RDdGxYNU9YSkVMTXNpakJjam10N3loZnBLWkV6anhRMnBkX2xMekozSU5PdTRZUVNV?oc=5",
-      "content": "Is a Berkshire Hathaway Class A Stock Split Finally Coming? Yahoo Finance",
-      "fingerprint": "80d8e65dfcdf31ffd499bf6fd0eeeef7e00a34dc2d96d77ae309cee7352a6440",
+      "title": "Berkshire Hathaway And Two Other Stocks Assessed To Be Trading Below Their Estimated Value - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNmpTVlpQRHZvOFZuWnhneXlwelN4a1NDMHd1TUM5NVp2eEl1V1VFbDBOTkR4S3RYaEhNOUVXVWhOUHRSam1raVRQb2tHM0RydFNlWnMxSXJxMThKQjVMeHBPUGUzc3dQOHdBcXJ5LVBwRV81LU83ZlJFQlRGRHV1eVdMWmJHdVlTVzlRaDBMU3lOdktmUXFBVU91blRoaUNaOUExakRIQ3I5ZWthMTh6YkUweldfOGhfYWxJdjcxdlBDdVBRZjUyTFk0Z2lQVkN6LXpTa2VydUUtaVR1dERzVzRQR1PSAeoBQVVfeXFMUHdQX3l6STNJQTY5ZF9RUlRjM245Wld2SVd4dXhwY0hFUWZmd045aGVnQ1BkUWluc09nSjRrdHRLRGpxY2syVC1DOHZ1b3hhYmNhTlJwOEROQS1nd0pMTWlXZmFGS2lkWEcyVTI0Q2tZUlZXRTU3ZkMtWEpNMndITllNZUw3SDVBSXVzcHI2a2FvcDhNMERJSEYyVmUyZW9lR3RqdGxGTk9XcXh4NFBfR2NMZjJQUXhRWGRicVdSWWR4RU9CMnVkU0RGYUZqb0NXeGNYaFVJakpKMnc5cWdkS1ZVM0RwNmtTYnlB?oc=5",
+      "content": "Berkshire Hathaway And Two Other Stocks Assessed To Be Trading Below Their Estimated Value Simply Wall Street",
+      "fingerprint": "a23a90707e100dc9a13e3292134b0b9e43086c06142db3c1ee874d0f04a0b49a",
       "seen_count": 1,
       "sources": [
         {
@@ -1091,10 +1217,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Is a Berkshire Hathaway Class A Stock Split Finally Coming? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZS1MV29ZSUN1UWhsVTBvTVFEUVEwbURjQXQ2cmJKbE1mVTVwUHBTTU1TeXJybzR4LXg1TW5mRFJ3eS1YQ2dLWjB1Q2lISnJzNDJfalBNaHNLT096LUZoMVJBdllVLXNhTlNIWnQwc0tFM25ER18tQkRwQWhSaThDVk5raWlyQkVtVXpYeDNaSmlWaE1KenhzNmdaZXVZM1ZlWWhZ?oc=5",
-      "content": "Is a Berkshire Hathaway Class A Stock Split Finally Coming? The Motley Fool",
-      "fingerprint": "f41d8e00796054233eb525f3c00d6c68a00dad3db56bf8647ea648a54cead9de",
+      "title": "Warren Buffett’s Red Warning Siren Has Rarely Been Louder - Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVk1LQXQxY3lYQ0kyRG1uTlRMdEcwc2tEZ25ET3JkRmpLYVFwWThjU05yUTR5bUMxTUxGMzJyenlHUHg3YmZuNVZYOWhFbnRTa1VrazdRelBnSk1aZGlEOFpvaW1NTkJsZkxaNXM2djBUdnBxc1dXQnk0eXh1dzZEMjlSTndZX0N6WExvWDNkM25BR0E?oc=5",
+      "content": "Warren Buffett’s Red Warning Siren Has Rarely Been Louder Newsweek",
+      "fingerprint": "c5b54e494ca556c8ce4b5be687a2eb94bf3bbd5442e62af0e7df0b92f45a088c",
       "seen_count": 1,
       "sources": [
         {
@@ -1109,10 +1235,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Warren Buffett Built a 60-Year Brand on Storytelling. Founders Should Study How - Inc.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHJTYWxodVhxcGQ1WjZ0M2JYZDMwTHZFY0NqZVpGMmctRzMzSnA5WHlhVlNnM3Q1QmdOc1VVaG5QUGRTendvbjhKWWJyX3hSSGpBREp5c1AtMkZwck8xVzJQUUpibzJjY05vTTBmNG44OHByampvcmhQZ2gzSEZyUjM5Z21kX29LSjhXZHNnaUthVUdMZjJlMU50YzlUdXFFbWpOOGU4X0ZoRDVvZHRJSzEwSTJmdXh1WThxcGJ2MUl5YVk?oc=5",
-      "content": "Warren Buffett Built a 60-Year Brand on Storytelling. Founders Should Study How Inc.com",
-      "fingerprint": "78ef6f0cfc83e8b05893b732f75b0d77bb3c37ed42cce57e20443d94eb3e56e8",
+      "title": "Warren Buffett Recommends This Vanguard Fund for All Investors. If You Invest $300 Monthly, Here’s What History Says It Will Be Worth in 20 Years. - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNQkl4aXA4enpHRzdlLVd5SXVZZEsxZUkzckJVQlp1TklRSEtzQzhZd1RudWZNM0F0T2tibnk4ZkhFU214Ui1oWTJQNE5CQzBNTjM5WWpacDNvRzNaWjVKaFJtcm8xbFpXb3lWalZtalEtaENXYmxtNnRUbHdiSld4Qkx4NGRhNmFqRjg0VmhWa2JBbS10eTlDa2NJVUMyOVV1Z1M2ZlhGT0lmbFBrUEIzbHFDaEFlQzdyQmxhRDNkaFd1ZDluS3hveXdzdU5Nd3FwZmhKT21tU3RpZ3ZVMHJrZTBKUm5kSmJ4YW1zd2R6TDJYVGNOUUxSV0tTODFUd0JtZms0SHdXem16cDR4ZjY1TV9wSF91Uzg?oc=5",
+      "content": "Warren Buffett Recommends This Vanguard Fund for All Investors. If You Invest $300 Monthly, Here’s What History Says It Will Be Worth in 20 Years. The Motley Fool",
+      "fingerprint": "beed052a10e387638b7ce14937d9f8236ff14fe5f77d3a5a2b02d60666be6469",
       "seen_count": 1,
       "sources": [
         {
@@ -1127,10 +1253,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Berkshire Hathaway (NYSE:BRK.A) Q2 Earnings: Leading The Diversified Financial Services Pack - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSWVwaFpleEZVOFlwUXRBVElDQ1dTWUFDVkFwdlZlY2daa2VpbjhQeFotNzhTeDNTamhwSjBKa3BBbVlIMTYyQXRlckxMMmhkcEN6MjJSblQtTFI5aGpYRDFBWUxheVdQRW9nX0d4WDBkM0c3SjFQNlNXbmtYR3dENFhiTmdNbVVhQ3puSG1rZTdsT09kb0RGRDd6UQ?oc=5",
-      "content": "Berkshire Hathaway (NYSE:BRK.A) Q2 Earnings: Leading The Diversified Financial Services Pack Yahoo Finance",
-      "fingerprint": "f98dfeea57a4654fc3652fe176ac29436b7bf6f51c1044e115b8341c7a9d1e4b",
+      "title": "Warren Buffett, worth $144 billion, now spends his evenings watching Uzbekistan's Got Talent on YouTube - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3pZQnZpZU5jVnVZcURIZzhDM1dHSlNIazZnT1F0ZV9fSDNWS3hoMnkzS0ZCS1RQSFJSQ3VBNGcxMjJ0N2RnUElubjFleXNNWGZhcGV2M1FuZG1OZ250dVRxS0I3MEgxYTdxUkdEdEUxSncybHZDbGQ5eGUtQ2M5QWFOMV9ab25IUGxnM2lSMDlqaWNhQ284ZGkwVF9kQQ?oc=5",
+      "content": "Warren Buffett, worth $144 billion, now spends his evenings watching Uzbekistan's Got Talent on YouTube Yahoo Finance",
+      "fingerprint": "93d7e659053c83a932777a51eb46d9742d558ff4775d6980201cd1b4e0a4f734",
       "seen_count": 1,
       "sources": [
         {
@@ -1145,10 +1271,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "3 Undervalued Stocks Trading At Least 28% Below Fair Value - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRzR5TVpwQm5vODNnUlpZV0tHZXNsRFJXV0dkVks4MFZSS19PbTdzUlMxQXZqT3lhTGJXSjFPTlZPNm5STU4tNkd0R0t4eW8wNjFaLTc5dnFnYUxLMHozd09EWHN0SUVyNGY5dndfY2UyaEtPQzRSdkV0SDRTVzhXYThwZVlPaWJrM3hiUmtZN1BKeDFJRmdRcmtKZm1jRDZZWEtSLXB3eS1SOTR6all3bVJiZ2VsZEdUWnQzaXBfR3FIZVRRYTVUNDlXNTBUUGZKYXlNLS1hTEh3aDNUY2hSdtIB5gFBVV95cUxPVjN0V2hCd3cyaHBQUVd2cXBYS0JPXzJ6Ri1TaTB1dWRaTW4xS3JCSEppdlJIVkpKMkdSektMVjNxT0dlQ19tWUVjVDRzMUJaU21QMVMxOG5ZTnRiTU1ycGh1VzhJTzJjemZ4MGNxNk81YWJySEZxTXlOS05PQnNTcXFBclFwTzhrVEFYR0ZVTE5BNXJBTzA4RXMybW8yY09aNUc0MUkxNlZUXzRzdHd2Z0NaNjJ5b3VXN2h6QUg5SjhJSzBlYkJyb3R3TWQxZEtGMU9VT3FwTEh5QjRxa2ExU3lMSDZwZw?oc=5",
-      "content": "3 Undervalued Stocks Trading At Least 28% Below Fair Value Simply Wall Street",
-      "fingerprint": "6f2bedb58e04d118d0959b910215eb2ce3c19d688a0f6ed290088aded6c60e76",
+      "title": "Warren Buffett Has One Rule for Retirees on a Fixed Income - And It's Not Negotiable - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWVJMdlNZRGFkaG5kdmpEQl9MZVpubUJZcDlhVmZCdl9tNVNURlV3S0lhYjlJUFZTSGw5UGV2al9QSk41b2h1bHlON3c5OHhFbXhlNFNvQ0M2Qkh4aEN0cmxWUnBwOTlucnVmU0RqUjFlWEdfTks1UlNrWFFBN25PYTd3?oc=5",
+      "content": "Warren Buffett Has One Rule for Retirees on a Fixed Income - And It's Not Negotiable AOL.com",
+      "fingerprint": "ef24c88cf690356064d1347013e18826a5a2d15abf373fb95f6b85c26b583b0a",
       "seen_count": 1,
       "sources": [
         {
@@ -1163,10 +1289,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Warren Buffett's Top Strategy for Navigating a Market Crash - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcmFVb2RXM3B0YmZ5aHlCSm9oMHZ6N3ZzU1pyTHNXNGkzamRGV1VMNVhzMFpwLUZiWHpvYllENWpmdnZTa19KLTQ2QXVRaG9keUhUWFdlRUhpUFBxczlYNlM0SDRrZUtCSlIzcWtENGgwVnRPdHhMajJGQ1RsbHIyUGRIWFYzN21GVk5FWGphTENMSmhSSlJBLQ?oc=5",
-      "content": "Warren Buffett's Top Strategy for Navigating a Market Crash The Motley Fool",
-      "fingerprint": "04cfc7cd06179c320092f6c24458a59ff8908db56fc0b1c1de3f5d3672ee9757",
+      "title": "How Warren Buffett's VOO Call Could Hand Investors $820K - FinanceBuzz",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RclRlMU05NjlqY1NyWXZYb1YwZl80RU9JSlU4SnV1ZnhEYkp5dm9EZm9JWUtoclRHck9lMm5JTmFtemVNSDVPMW03SUYxcHV5dEd5bHhDZnFydi0xT0ZqVXFnbUZBdDc1Qm1OOUUwNEFZQ3VBQkI2MFdhQQ?oc=5",
+      "content": "How Warren Buffett's VOO Call Could Hand Investors $820K FinanceBuzz",
+      "fingerprint": "ccecd0436828296151a2c0d98b8150e37363da9216c4097b3ba8d39912d98aab",
       "seen_count": 1,
       "sources": [
         {
@@ -1181,10 +1307,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "3 Cash Flow Stocks Trading At Least 24% Below Fair Value - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRnJxNlhMTEFBSkRZMmlSemVfRkcxMk0xbEEwWlpkYlFzWmhPd0ZPcjJwb0RQdnJOd3ZvQVU2c1VaR04yM1gwUllkaGpkNEgxa3ZmaFptUk50OHRmUjdkWWZ2cl8zTkF3MUo0VTdOSTlKQ3p0WmVFSDV5eU5qZ1hBRnRZakZBeU5hRUlGUXNvS1F1UG1OVkhxTE9VdkltT0trNUtleGpiTzIwbVZjT21sVU9lYllKQU1YN1pqb2N4QWV3UW8zRVJ6TVNkZW00eGkzdjlmS0prZTRjbjhXSXfSAeMBQVVfeXFMTUJ6Ri1IWEZGclF4bklUNk82NnR5MWsxVWY1Z25jWTViRDE4TjkyalN4SXRLQWZpSmZ6d2xkajl2NWYxUTZfUGI2U0VXMk50dDFLVUczVXZaaFZxR0lrVEpMQjJVN3hTWUNKR182ajAyQ2xqcEhWSnh3dFNtOU0tYVdBd0ItZExkcjJkR1YyVTc1c0JsWUc3NEpQM3B5MHhQX0hXai1MM2YzMWozYkxCdElnd0FHZEwyRUhkSTRxenlCYVoxYTE3MVVmaVFZbnZNU0hIcmhweF9oYlFmUEhMUkwwZzQ?oc=5",
-      "content": "3 Cash Flow Stocks Trading At Least 24% Below Fair Value Simply Wall Street",
-      "fingerprint": "d16bc00ff8f8cd651cb838bdd56c637d0340607aec36bbc2c93c8e0ab2503411",
+      "title": "Buffett's weird YouTube habit - MoneyWise.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aM29oekVlblJBX1poSmJsUW9TNExzWW45UEpSc2NFWFZSTVBIRUNna2wwa3ZqUVBscnQtNVBHQlRvTlBadHVQSEptemRGTk5aekU5MEh1NFh0Ul9XR3MwZEdocDVyVU85ZlFLTGRFNkZEQUxHTE1UbjBjV1k?oc=5",
+      "content": "Buffett's weird YouTube habit MoneyWise.com",
+      "fingerprint": "70fae71f424cea0d4ba8abc75ef104fccd59e90653f7190a0cbe4d7614e67b2e",
       "seen_count": 1,
       "sources": [
         {
@@ -1199,10 +1325,10 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Buffett Bet $1 Million That an S&P 500 Fund Would Beat Hedge Funds. He Won by Nearly 5 Points a Year - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVVpPN1dwWTNyb3h4V2ItNnpKLVBDdlg4N01iRGpHUmpsVTRpT29vTUcxd2tiSDd1YkJLbDY5YzRUSWZwckxHUmJwN2IzZ3I3eDd2NnBIZjNLMXNNWXZsTHc0V1pVLW0yU1AzZE14R3hiZ2RoaGxqcUZjcDVPbDNJeEE2RUtqbjhpeWQ2NWlXT01DdkVBRzNSREFDc25obTAzSDR6Tkp5RXBHOWc5NWRqSnQ3R0x6Zy1HNDJTcUxtWENGcjgteHZIaThxUHVMeVJoUTdSbmFmd3BzRXI3c1Yxc01R?oc=5",
-      "content": "Buffett Bet $1 Million That an S&P 500 Fund Would Beat Hedge Funds. He Won by Nearly 5 Points a Year 24/7 Wall St.",
-      "fingerprint": "d1ed185232575c77a8efc25718de28d775647f89462a01ac55b908e97edc2f30",
+      "title": "Berkshire Hathaway named Howard Buffett chair. Berkshire Hathaway stock gains 1.12 percent - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWm05QVppOHQ1ZTlQdzNEbE4wZkxUOV94cWNXYU9uSXUxc1o3NUZteVhhRlJSdE1SQ1pNSm9iQmNROGdOMlk5WTNEN2xaMk9wTTU5dXJScnN1U0hUMllTT1JUMThhT0xWU212ZVo3cEE4eVp6b1Juajl4N09LMmpvb0cyOWRlTEhXWWw4RUNWSzhkUENvaHFzdVNLRk54eEhZTXdQcjNjNTdYUzk3RXBYZzRIS2s2b0dEX0ZjZndveEtfZHdfUWhpZGlSWXAwUQ?oc=5",
+      "content": "Berkshire Hathaway named Howard Buffett chair. Berkshire Hathaway stock gains 1.12 percent AD HOC NEWS",
+      "fingerprint": "835e2f8600453ee4663e9d54b27fda702cafa59c72d902b104041016db4288f5",
       "seen_count": 1,
       "sources": [
         {
@@ -1217,10 +1343,46 @@
       "category": "Investments",
       "tier": 4,
       "role": "aggregator",
-      "title": "Berkshire Hathaway stock stands at EUR 457.45 with a P/ E of 12.9 - AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQktkWm01M1lXREdobXJ4ODFGVFVHQ0pUekNGZXlJSlc1dmNtcER4LUlhV3BKSTZCY2xPdWQ0QXNYWS1wTk0yZzNJd1FRejcyMmJEdFZzM2wwUVRCSUx5cXV1V0NOaFEtTmVmNjZiUHc1LUhaOWhfTllFN3lxd2MxZ0swMHBqcGJqQ2tfeXlLSThvcmNjUlBKTHRVSDRkbjlFYjFaaDJwaHoxTEplMWlRcHBMZVNxOU9wcWFjdUplWXF6eUZtYVE?oc=5",
-      "content": "Berkshire Hathaway stock stands at EUR 457.45 with a P/ E of 12.9 AD HOC NEWS",
-      "fingerprint": "13c54a66fc2692bd052ec30af44d48fa942cc6c77c78c87bcb05b573e740c084",
+      "title": "1 S&P 500 Stock with Solid Fundamentals and 2 We Turn Down - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX3NxTU9DaVdVRi0wOEJpbzd6YVVITTlhekVKNWNrYkVJQnNCX0EyOEQ5YmVSSC1QLTllZ1EwRS1nNkRSRlQ5RXZkcUZBeUhQVG9QN3plYUxGQWN1aHg3QkxfSkpNbUJzUThlaHZINGV2dEhKTy1aM19SMmxGaEgtblhRU3JJaTZWTjRCQjdTR0Z0LUNvUHRjRXQxaUphWTRYcnd3OUt6NFNpVnoxSUdKZkIwalJNNk5UcHBxQWN5YThEY0NpLUNaVkdSUkhwRUxqRzBsVy1fSGFlYVd6Q0E?oc=5",
+      "content": "1 S&P 500 Stock with Solid Fundamentals and 2 We Turn Down The Globe and Mail",
+      "fingerprint": "566f2809d02b32be1abb6ee3f4817782379fdd88725c1888389b56b0f37c26e7",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Warren Buffett, billionaire investor: \"Never invest in a business you cannot understand\" - MARCA",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOUp1UXFQTW9GNGF2M0J2YWpLb0Z1SndYeHNNdlNJQktPNGZmQnBFajh2bXZPNW8zbFc3WVIyQnBHcHhmWDk5alFnQ2JnV3h5b2d5RG9KeGNoaE9qRjFibGxDOWpxVnBEOG5KNTUwWVhjRUZrTzZiWHRiV2lkZG1la3htOExVZG9kS0NqMFRRd0JQbmtPZ0RxMVRmTWhTUUdGMzhRc3BGVnRWMlMtSXl2dDhuUzRFZ281TjZRWmlpR2lMS2lHWkpVdG5MTUI0Rl9zMmE5Q0pTdml4bjhCc2fSAd4BQVVfeXFMTktQSEZYTVRyaHdoT2J2RW00UWtjRGM2OHNJWkVwRGRhNkx0WGVVVlFScm5nRktZQVdXVmRNX3I2QWItOXVBU1JGaTFkeEY3cDk5TjZzRXIwYS1kTXBFczJPeUhPZThLbEtVcVdLcHBxVzFBX01sZVZ5RGR1RDVkMmxfUlhRSDQzeUFUYVp1cmJnTXRodUcwN1FER19NQ2ZrOFJ0MGhmMHRCMWZYb3k1R0xybXkycENBdEloaDlaWWgxWjNfTlhBc0NaV3FhQUIwN3prUi0tUmpOeWt0WlNn?oc=5",
+      "content": "Warren Buffett, billionaire investor: \"Never invest in a business you cannot understand\" MARCA",
+      "fingerprint": "cfb1ab9a4fc5f1b92372ae2cee5813dc20de1b0398c2a099fcb0dff7a760d8f3",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Google News: Berkshire",
+          "tier": 4,
+          "role": "aggregator"
+        }
+      ]
+    },
+    {
+      "source": "Google News: Berkshire",
+      "category": "Investments",
+      "tier": 4,
+      "role": "aggregator",
+      "title": "Berkshire Hathaway stock costs EUR 459.63 with USD 1,110.1 billion market cap - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMFhGMk5LVlFNUW93cHYzSWE0X2FJaUJBQXc3cExhRnV1NFBqeGhyZ1JiUF9sUVh5TG1MOEI3aXc1NFJVR1dNYkFOUGkyNTVDaVBMU1NodDNjaUV4eml1N3dNcVZuaEpHVzJYdUNMRnlDdjR1QWQ5Ui1kRldVRXVpN2lUa3NYZGNGSHRDRFRhRmQ1dThtSVhkWHFHRndSZFpMU0xDWmI3OHByN3JXaVNRWnlhYzdfdDI0UUxJalE5MjctZ3hGaHJGeThOUlJVTlFzOGc?oc=5",
+      "content": "Berkshire Hathaway stock costs EUR 459.63 with USD 1,110.1 billion market cap AD HOC NEWS",
+      "fingerprint": "ef9c611429f7c7c52c28aac7fbb3147bf1e0521a173e9eb24fceff93d2a8bea7",
       "seen_count": 1,
       "sources": [
         {
@@ -1237,14 +1399,32 @@
       "category": "AI",
       "tier": 1,
       "role": "primary",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "link": "https://openai.com/index/oracle",
-      "content": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "fingerprint": "db7b9e6fe248e3146f87743abb423de6e3dc46759771b422f1331a63b0725822",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "link": "https://openai.com/index/sophos",
+      "content": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "fingerprint": "570fe3204556675e8dd927e7dbd15e7142796fd7ecb68cb1f56d47b91d75ac01",
       "seen_count": 1,
       "sources": [
         {
           "name": "OpenAI News",
+          "tier": 1,
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "source": "Hugging Face",
+      "category": "AI",
+      "tier": 1,
+      "role": "primary",
+      "title": "Impactful scheduling for GPU clusters",
+      "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "content": "",
+      "fingerprint": "e05551817b225bef5e8ca8d6225aa3fed9bb03ffd013a0306b4527b10407beb2",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Hugging Face",
           "tier": 1,
           "role": "primary"
         }
@@ -9745,6 +9925,24 @@
           "role": "primary"
         }
       ]
+    },
+    {
+      "source": "The Rundown AI",
+      "category": "AI",
+      "tier": 3,
+      "role": "expert",
+      "title": "Fired OpenAI safety researchers hit back",
+      "link": "https://therundownai.beehiiv.com/p/fired-openai-safety-researchers-hit-back",
+      "content": "Read Online | Sign Up | Advertise Good morning, {{ first_name | AI enthusiasts }}, and welcome to the 4,619 new readers who joined us yesterday. Weeks after pledging to open its doors to outside safety experts, OpenAI fired three of its own safety researchers, saying they mishandled sensitive information. But that was not the end of it. Now, all three are hitting back, warning that the company’s open safety culture and CEO Sam Altman’s promise of bringing in external experts may be slipping away. In today’s AI rundown: Fired OpenAI researchers flag ‘shifting lines’ Rowan’s Corner: I tested every personal AI agent Clean up a messy Excel report with Claude Anthropic prohibits abuse or cruelty against Claude LATEST DEVELOPMENTS OPENAI 📢 Fired OpenAI researchers flag ‘shifting lines’ Image source: Mikita Balesni / X The Rundown: Researchers Tomek Korbak, Jasmine Wang, and Mikita Balesni, whom OpenAI fired for mishandling sensitive info, just went public with their side of the story, denying the claims and warning that their firings are “chilling” OpenAI’s safety culture. The details: In an open letter, the trio said they acted within their job mandates, warning that if past conduct is ",
+      "fingerprint": "41f0f491160d741d9514cae107353e6825c808845a53cdfa35e9edd0251a160d",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "The Rundown AI",
+          "tier": 3,
+          "role": "expert"
+        }
+      ]
     }
   ],
   "Technology": [
@@ -9753,14 +9951,248 @@
       "category": "Technology",
       "tier": 2,
       "role": "professional",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "content": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter James O’Donnell as he interviews King about his work, being named one of MIT Technology Review’s Innovators Under 35 and new ways of seeing biology. Going live on October 16th at 18:30 BST / 1:30pm EDT / 10:30am PDT Register now Speakers : James O’Donnell , AI Reporter, and Samuel King , Bioengineering PhD Candidate, Stanford University/Arc Institute Related Stories He asked an AI to design viruses … and it worked. AI-designed viruses are here and already killing bacteria",
-      "fingerprint": "feab0ad4868e3e2ec005e5a61422d345f34eaf3bf567c3b1760ab5bf90e91480",
+      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "link": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "content": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison a colleague or how to tie a noose, chances are it’ll turn you down. But refusal fails, sometimes horrifically. Some people are attempting to use AI to hone biological pathogens and build autonomous drone swarms. Sooner or later, failed refusals may result in global calamity. What’s more, relying on refusal means drawing a line between what a model should obey and what it must disobey. Governments will also get to draw their own lines, potentially restricting free speech. At the same time, the capabilities that make AI useful could also make it dangerous. If we want it to help cure cancer, AI needs genetics expertise that could also produce bioweapons. Read the full story on the formidable tradeoffs of AI refusal . —Arthur Holland Michel This story is from the next issue of our print magazine. Subscribe now to get your hands on a copy as soon as it lands on Wednesday 21 October! We’re still",
+      "fingerprint": "2b5bee13006e92b5a6398372d3531c18c667f6dbcacecfafd9f2d657338f3c06",
       "seen_count": 1,
       "sources": [
         {
           "name": "MIT Tech Review",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "MIT Tech Review",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "content": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recently, the idea that AI shouldn’t do everything you ask has become something like a commandment. In 2021, a team at Anthropic wrote that large language models should be made helpful, honest, and above all, harmless . This meant that “when asked to aid in a dangerous act (e.g. building a bomb), the AI should politely refuse.” Who can argue with that? Curiously enough, disobedience doesn’t come naturally to the machine. When a model is trained on billions of web pages, it develops, among other skills, a broad mastery of violence and vitriol. What it doesn’t learn is how to keep those powers to itself. Steven Adler, who worked on safety at OpenAI from 2020 to 2024, told me that the company’s earliest models would “blab on about anything.” Ryan McBain, who researches AI and mental health at Harvard, recalls that if you asked an early chatbot, “Hey, what’s the most effective way to kill myself wit",
+      "fingerprint": "56b2964b69beea5b19e427c1b0bd239971fb41fa007375f6a4b680e52449de18",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "MIT Tech Review",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "MIT Tech Review",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "content": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyTrex. An RPIC is like an air traffic controller. But instead of airplanes, this new class of aviators tend to fleets of hexa­copter drones that ferry cargo to homes and businesses within a three-mile radius. Not only does he ensure the safe passage of FlyTrex’s parcels, but Wischnewsky coordinates traffic with a growing swarm of delivery drones dotting the skies over Dallas from competitors like Zipline, Amazon, and Alphabet’s Wing. Here’s what it takes to land the gig. Aviation experience When he applied to FlyTrex, Wischnewsky was in training to become a commercial pilot and flight instructor, and he was already certified by the Federal Aviation Administration as a drone pilot. The company requires this credential, along with a weeks-long FAA-approved training course, to ensure that a pilot is prepared to take over a drone if need be. Though he doesn’t pilot the craft, Wischnewsky monit",
+      "fingerprint": "d36d46f1a6430bc093fc2304ec001a7aac4160b346205467545445798d81585a",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "MIT Tech Review",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "MIT Tech Review",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "link": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "content": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age . Overweight and diabetic people who take GLP-1s have a biological age around two to three years younger than similar individuals who take a placebo, according to findings from Eli Lilly and Novo Nordisk, two pharmaceutical companies that make the drugs. I’ve heard people in the aging field describe GLP-1s as longevity drugs for a while now (even if they only benefit people who are overweight or diabetic in the first place). This latest announcement comes after we’ve seen a raft of other benefits associated with taking these drugs. But there are also some weird side effects. So far, GLP-1 agonist drugs—which repress hunger—have been approved for treating diabetes, chronic kidney disease, and obesity, and they can also be prescribed for some people who are overweight or at risk of certain cardiovascular diseases. But there is research to suggest they might also help people with substance-use disorders, and they’ve been investigated for potential benefits in neur",
+      "fingerprint": "835ab57e0c2f1edd465fa449214c6af5c8bc8fb3d45202f35ebb4e25566b3d05",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "MIT Tech Review",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Technews 科技新報",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "SMILE 衛星獨特紫外波段發威，捕捉覆蓋 1/3 地球的極光帶",
+      "link": "https://technews.tw/2026/10/10/smile-satellite-captures-daylight-aurora-over-arctic/",
+      "content": "歐洲與中國合作研發的 SMILE 衛星（Solar wind Magnetosphere Ionosphere […]",
+      "fingerprint": "6838aea42ae7cdf5b33d6362655005c82215853545093e593c4f954dbd13dc3d",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Technews 科技新報",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Technews 科技新報",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "滑手機停不下來不是沒定力，科學證實科技正悄悄改寫你的大腦化學",
+      "link": "https://technews.tw/2026/10/10/technology-reshapes-brain/",
+      "content": "最新觀點指出，智慧型手機、社群媒體與生成式 AI 對人類的影響，早已超越單純的「讓人分心」，而是正在化學層面上 […]",
+      "fingerprint": "aa0c33cc604fcc3daf6f986552039a74435f18ea21a62a33ffff42a9b8f554e2",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Technews 科技新報",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Technews 科技新報",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "天然氣管線延宕，甲骨文擬動用卡車供氣搶救 AI 資料中心進度",
+      "link": "https://technews.tw/2026/10/09/oracle-trucks-gas-ai-data-center-progress-natural-gas-pipeline-delays/",
+      "content": "AI 資料中心建設面臨能源供應瓶頸。據外電報導，甲骨文正考慮利用卡車運送壓縮天然氣，解決新墨西哥州 Proje […]",
+      "fingerprint": "07a3b0fd5efe57dab8e188d875623eb06354a750690b43aa304d6b8fef38cfc4",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Technews 科技新報",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Technews 科技新報",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "AI 也會痛？酷刑室專案逼機器人陷入困境，殘酷設定引發網友炎上",
+      "link": "https://technews.tw/2026/10/09/ai-torture-chamber/",
+      "content": "近日，一個名為「AI Torture Chamber」（AI 酷刑室）的 GitHub 專案在網路上引爆激烈爭 […]",
+      "fingerprint": "cfc1e8ef4aa95a4363e84e73db58f908c6da108d7e391e41e654c8f05d17168d",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Technews 科技新報",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Technews 科技新報",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "破解血液幹細胞衰老密碼，AI 模型 ChromAgeNet 精準讀取 DNA 三維結構老化痕跡",
+      "link": "https://technews.tw/2026/10/09/ai-cracks-cellular-aging-code/",
+      "content": "隨著年齡增長，人體產生足夠血球的能力會逐漸下降，進而影響造血系統與血液幹細胞的功能。為了捕捉細胞內部極為微小的 […]",
+      "fingerprint": "60c9e87b88858a5b2e542245e2fa9ae244802d3e97954dc0de05465886fc48a3",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Technews 科技新報",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Technews 科技新報",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "讓 AI 當司機開 Toyota 買漢堡，GPT-6 Astra 勇闖路考成唯一通關大語言模型",
+      "link": "https://technews.tw/2026/10/09/ai-driven-corolla/",
+      "content": "新創公司 Axiom 的三名 AI 工程師把通用大型語言模型接上一輛 Toyota Corolla 的攝影機與 […]",
+      "fingerprint": "8a6e03cf84d6dbfcc0b0b280d7b271e917ef1d641afae401cfbba3a80c755c65",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Technews 科技新報",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Technews 科技新報",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "光寶科第三季營收季增 9%，康舒單季首破百億元",
+      "link": "https://finance.technews.tw/2026/10/09/ai-power-demand-remains-strong-liteon-q3-revenue-up-9-percent-acbel-hits-new-high/",
+      "content": "AI 資料中心電源需求持續成長，帶動電源供應器廠商第三季營收走揚。光寶科技第三季合併營收約 574 億元，季增 […]",
+      "fingerprint": "bc0ab2c2812417c8c8f591b1510785fbecf225a6be511aa8397920da255afdf6",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Technews 科技新報",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Technews 科技新報",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "美國海軍雷射武器部署軍艦，採類 Xbox 手把操作降低訓練門檻",
+      "link": "https://technews.tw/2026/10/09/us-navy-uses-xbox-style-controllers-to-fire-anti-drone-lasers-deployed-on-ships/",
+      "content": "美國海軍傳出已將反無人機雷射武器部署到軍艦上，並採用類似 Xbox 的遊戲手把做為操作介面，讓官兵能以更熟悉的 […]",
+      "fingerprint": "d8c24dc99e2bdef046d58e4cef2ee5b4b562ec12b3bd02b20301126dc558e157",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Technews 科技新報",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Technews 科技新報",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "達明機器人通過 DEKRA 德凱獨立評估，取得 IEC 62443-4-2 工控網路安全證書",
+      "link": "https://technews.tw/2026/10/09/techman-robot-earns-iec-62443-4-2-certification/",
+      "content": "隨著智慧製造深入生產現場，協作型機器人正從執行單一任務的設備，逐步成為串聯產線、資料與製造系統的重要節點。達明 […]",
+      "fingerprint": "18e8ee614e8d94d7efa193adfa66f24105a4a2a83abc4b9dde2649626e1f0f64",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Technews 科技新報",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "Technews 科技新報",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "墨西哥國民兵新武力：頭戴攝影機的吉娃娃",
+      "link": "https://technews.tw/2026/10/09/mexicos-national-guard-debuts-tiny-chihuahua-recruit/",
+      "content": "想到軍犬，一般人想到的都是中大型犬如德國牧羊犬、杜賓犬、羅威納犬、拉布拉多獵犬等，很難想像小型犬擔負軍事重任， […]",
+      "fingerprint": "63890e033d09d42846005652fb4878edd5a76096b07323f1385fe84c2b637622",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Technews 科技新報",
           "tier": 2,
           "role": "professional"
         }
@@ -9803,306 +10235,18 @@
       ]
     },
     {
-      "source": "Technews 科技新報",
+      "source": "iThome 最新新聞",
       "category": "Technology",
       "tier": 2,
       "role": "professional",
-      "title": "睡眠竟與 83 種疾病有關，研究揭開睡眠品質的重要性",
-      "link": "https://technews.tw/2026/10/09/study-reveals-importance-of-sleep-quality/",
-      "content": "人們常說：「睡飽一點，明天才有精神」，但睡眠的影響可能遠比隔天的精神狀態更加深遠。最近，中國首都醫科大學（Ca […]",
-      "fingerprint": "1dbfe5a3a125afef0347055a882424d739519029af5e6f6ff5254397fa084c5c",
+      "title": "美國亞利桑那州最高法院系統遭釣魚攻擊，逾百萬人個資外洩",
+      "link": "https://www.ithome.com.tw/news/179559",
+      "content": "美國亞利桑納州上周公告內部系統遭到網路釣魚攻擊，導致法院資料被駭客竊取，影響將近130萬人。",
+      "fingerprint": "45483e148612c3ccff65fbd840f485be0023b630522e5a3b2819605797447c0a",
       "seen_count": 1,
       "sources": [
         {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "AI 白用新聞內容該怎麼付錢？微支付可能是解方",
-      "link": "https://technews.tw/2026/10/09/ai-is-consuming-human-knowledge/",
-      "content": "隨著《紐約時報》（The New York Times）對 OpenAI 與微軟（Microsoft）的著作權 […]",
-      "fingerprint": "f784b292ce806f78352322d1b12823b2302687944063425ad0d8fce883ab0c5d",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "合晶四度申請臺商回臺投資，178.8 億元擴大中科二林廠布局",
-      "link": "https://finance.technews.tw/2026/10/09/topco-scientific-4th-taiwan-investment-17-88bn-expand-erlin-plant/",
-      "content": "矽晶圓大廠合晶科技持續擴大臺灣產能布局。經濟部投資臺灣事務所 8 日宣布，合晶第四度申請「歡迎臺商回臺投資行動 […]",
-      "fingerprint": "1b49e30edfa9f047d352a5852801fe25610218949819f167a0b2f38e0563e383",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "弘塑9月營收7.47 億元",
-      "link": "https://finance.technews.tw/2026/10/09/gptc-3131-202609-financial-report/",
-      "content": "弘塑（3131）今（9）日公布 9 月營收，達 7.47 億元，較 8 月成長 9.6%，較去年同期成長 61 […]",
-      "fingerprint": "fb6c7c55962a213084632df6aaabc4444e2312326acd8f9bb4bc419574eb690b",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "蘋果暫緩 AI 替換真人客服，維持「人機協作」雙軌制",
-      "link": "https://technews.tw/2026/10/09/apple-puts-ai-customer-service-plans-on-hold/",
-      "content": "蘋果（Apple）傳曾考慮裁減約 5,000 名 AppleCare 客服員工，讓 AI 代理接手部分電話及線 […]",
-      "fingerprint": "90f2343fccf0b321a8fe400c4814790c560541fb9e97bbbbfd6055dc02c1a7e6",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "三檔 AI 流量股誰值得買？名嘴 Jim Cramer 獨推 Akamai",
-      "link": "https://finance.technews.tw/2026/10/09/ai-is-a-boon-for-3-internet-traffic-cop-stocks/",
-      "content": "CNBC 股市名嘴吉姆‧克瑞莫（Jim Cramer）指出，AI 代理帶來的網路流量激增，正在為維持網際網路順 […]",
-      "fingerprint": "6bf581da3a1e2aa0d03ab2a6eb0e15fa0c6c6d263338bda7babbc46808f1be6d",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "比 High NA EUV 更強！ASML 下一代 Hyper NA EUV 有望 10 年內問世",
-      "link": "https://technews.tw/2026/10/09/asml-next-gen-hyper-na-euv-stronger-high-na-expected-10-years/",
-      "content": "半導體微影設備龍頭艾司摩爾（ASML）持續推進下一代極紫外光（EUV）技術。據外電報導，ASML 與光學合作夥 […]",
-      "fingerprint": "15e0bfaf36d0c21087f047908de2bc6937e4fd08625c6bc685aaa482f999eda7",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "SK 海力士來台釋千億大單，找上力成、和碩代工，挹注兩台廠營運熱轉",
-      "link": "https://technews.tw/2026/10/09/solidigm-taps-pti-and-pegatron-for-outsourcing/",
-      "content": "韓國記憶體大廠 SK 海力士集團強攻 AI，旗下 NAND 快閃記憶體暨固態硬碟（SSD）大廠 Solidig […]",
-      "fingerprint": "fdd651a191b72da714d29ee77b6d197981af0878258990cbd2368f7215d6f744",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "手機一拍就能預測產量，AI 走入農田化身精準採收的最強大腦",
-      "link": "https://technews.tw/2026/10/09/ai-upgrades-agriculture/",
-      "content": "人工智慧正逐步走進農田與果園，成為農民判斷何時採收的得力助手。從蘋果園、草莓田到糖蔗產區，農業界正積極導入影像 […]",
-      "fingerprint": "8d5cd42ebb6f1fe8ea5939a3a0fc4f15c0de2d3b136a0207da4fc24977580bcd",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "烏賊竟然全身都是耳朵？最新 3D 感測地圖有望成為人類聽力受損救星",
-      "link": "https://technews.tw/2026/10/09/squid-solving-hearing-loss/",
-      "content": "長期以來，科學家已知烏賊的頭部與腕足具有類似人類內耳的「毛細胞」。然而，美國凱斯西儲大學（Case Weste […]",
-      "fingerprint": "36d32e414184c883d7e29c4ccc3549428a6db7603c0f42e626353a647bfdcb0a",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "利機 9 月營收 1.3 億元年增 26%，第三季營收創近 14 年單季新高",
-      "link": "https://finance.technews.tw/2026/10/09/niching-september-revenue-reached-130-million-yuan-a-year-on-year-increase-of-26/",
-      "content": "散熱片大廠利機公布 9月合併營收12,984萬元，年增26%。累計，1至9月合併營收10.52億元，年增13% […]",
-      "fingerprint": "ecab2b2e20989cca60ffd758d8ec74df869378ace1e9e3c46f75a739acdaa449",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "射程上看 150 公里，Tiberius 衝壓砲彈簽下 5 億美元英美合作合約",
-      "link": "https://technews.tw/2026/10/09/tiberius-signed-500-million-contract-with-brithish-company-for-it-new-sceptre-ramjet-projectiles/",
-      "content": "美國加州國防科技公司 Tiberius Aerospace 近日宣布，與英國科技企業聯盟簽署 5 億美元合約， […]",
-      "fingerprint": "0f767afcb6daa5e72a0d059b8651772d878d34eb88eaad789f2183a4e32951a0",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "Mercedes-Benz 引進新供應商，2028 年將 Wayve AI Driver 導入新車型",
-      "link": "https://technews.tw/2026/10/09/mercedes-benz-new-supplier-wayve-ai-driver-new-models-2028/",
-      "content": "Wayve 與 Mercedes-Benz（以下簡稱 Mercedes）簽署量產合作協議，將 Wayve 的  […]",
-      "fingerprint": "ce453d384f1e8e7aec33aab64143535eb3aebc2ff88778e8c535017ff4d1120b",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "格羅方德與台積電簽署 20 億美元協議，於紐約建立 CoWoS 矽中介層供應鏈",
-      "link": "https://finance.technews.tw/2026/10/09/globalfoundries-signs-2-billion-deal-with-tsmc/",
-      "content": "美國半導體晶圓代工廠格羅方德（GlobalFoundries）於2026年10月8日宣布，已與台積電達成一項多 […]",
-      "fingerprint": "deda6161021182fa53e81f61670f1a5b6a4ceb4d81ae3e3341d29f535b54abf9",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "聯發科第 3 季營收 1,680 億元超財測創新高，ASIC 市場表現受期待",
-      "link": "https://finance.technews.tw/2026/10/09/mediateks-third-quarter-revenue-of-168-billion-yuan-exceeded-financial-forecasts-and-hit-a-new-high/",
-      "content": "IC設計龍頭聯發科公布2026年9月合併營收為新台幣553.99億元，較8月份減少13.69%、較2025年同 […]",
-      "fingerprint": "cad829e62bb1d309f9cdca15de4fa6897f42198ae2d179f58fe2866048bb372a",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "Google 推 Gemini agent 攻企業市場，自選合適模型、內建成本控制",
-      "link": "https://technews.tw/2026/10/09/google-introduces-the-gemini-agent/",
-      "content": "Google Cloud 在 Gemini at Work 大會宣布推出 Gemini 代理（Gemini a […]",
-      "fingerprint": "aae88a2a2d996eea08f184ef3004a7edb4f602272d9599ae063652a1965a8c0c",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Technews 科技新報",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "熱浪前後的暖水期被忽略，海洋生態實際承受熱壓力遠超預期",
-      "link": "https://technews.tw/2026/10/09/ocean-heatwaves-are-hiding-months-of-extra-warming/",
-      "content": "最新研究顯示，外界通常聚焦的海洋熱浪（Marine heatwave，MHW），可能只是更長時間異常升溫事件中 […]",
-      "fingerprint": "35f7bbc8706bb527de2b53ad7ca47bc96fb54d2811032908157404ae0c95739a",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Technews 科技新報",
+          "name": "iThome 最新新聞",
           "tier": 2,
           "role": "professional"
         }
@@ -10113,10 +10257,28 @@
       "category": "Technology",
       "tier": 2,
       "role": "professional",
-      "title": "SpaceX收購低頻頻譜以擴張Starlink行動通訊能力",
-      "link": "https://www.ithome.com.tw/news/179551",
-      "content": "SpaceX周四（10/8）宣布，將收購美國投資公司Grain Management持有的全美800MHz低頻段頻譜資產，以擴張Starlink Mobile行動通訊服務，並朝成為美國主要行動電信業者的目標邁進。雙方並未公布財務細節，但外電報導該交易價值80億美元，此一交易仍須取得美國聯邦通訊委員會（FCC）核准。",
-      "fingerprint": "f25cf10ea3da727a757df1e2ad0a3ba3dbada9c864ef3fd65b372cd37385a07a",
+      "title": "惡意程式PoeLLM利用GitHub上英文詩取得C2位址，入侵逾3,400臺伺服器",
+      "link": "https://www.ithome.com.tw/news/179558",
+      "content": "美國電信業者Lumen旗下資安研究團隊Black Lotus Labs揭露PoeLLM惡意程式攻擊行動，至少從今年4月起鎖定對外開放的AI及開源服務，累計入侵超過3,400臺伺服器。遭入侵的主機被用於加密貨幣挖礦，也會掃描及攻擊其他系統。\nPoeLLM還利用存放在GitHub儲存庫中的英文詩取得指揮與控制（C2）伺服器位址，駭客只要修改詩中的關鍵字，就能讓受害主機連上新的控制伺服器。",
+      "fingerprint": "685532c834c9440c4325a8ee69b1fa077b3525c169f68cd632ecf1988c2b5394",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "iThome 最新新聞",
+          "tier": 2,
+          "role": "professional"
+        }
+      ]
+    },
+    {
+      "source": "iThome 最新新聞",
+      "category": "Technology",
+      "tier": 2,
+      "role": "professional",
+      "title": "美國EY資料外洩波及高盛、英仕曼集團客戶",
+      "link": "https://www.ithome.com.tw/news/179557",
+      "content": "根據金融時報（Financial Times）報導，會計及顧問服務業者美國EY今年春天發生的資料外洩事件，已波及高盛（Goldman Sachs）、英國投資業者英仕曼集團（Man Group），以及房地產開發與投資業者鐵獅門（Tishman Speyer）的客戶。部分客戶的個人及財務資料因此外洩。",
+      "fingerprint": "085571ae80fdd41c95704d0ab1d573cca9e7a1cb2bcabb2ec55678c8824e4bf6",
       "seen_count": 1,
       "sources": [
         {
@@ -10215,42 +10377,6 @@
           "role": "professional"
         }
       ]
-    },
-    {
-      "source": "Digitimes TW",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "傳輸接棒運算成AI發展瓶頸　矽格、台星科合攻光通訊商機",
-      "link": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770956_RJC8W07761MNEZ5GGD6PC",
-      "content": "Credit: DIGITIMES",
-      "fingerprint": "7a16b7f52ebc40be0105d698f060b43ae737613633321e890c7eed3fe59fef73",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Digitimes TW",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
-    },
-    {
-      "source": "Digitimes TW",
-      "category": "Technology",
-      "tier": 2,
-      "role": "professional",
-      "title": "圖表1分鐘：2026年10月科技大廠財報日程",
-      "link": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770944_JID81WPB5QLK3M3AIENU9",
-      "content": "Credit: DIGITIMES",
-      "fingerprint": "e1a6b735f00a30ec4c277b7302d0baed79dd9e2d9c94a578bc28cb18af229c03",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Digitimes TW",
-          "tier": 2,
-          "role": "professional"
-        }
-      ]
     }
   ],
   "Social Sentiment": [
@@ -10259,10 +10385,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "YouTuber Builds System That Mimics Flock to Spy on Cops; Then the Cops Came Knocking",
-      "link": "https://www.reddit.com/r/technology/comments/1x0zs4d/youtuber_builds_system_that_mimics_flock_to_spy/",
-      "content": "submitted by /u/efap1701 [link] [comments]",
-      "fingerprint": "108c0962aacd3bbcc73ef89febea4e4812f6136f7776b959d1382704c8aae850",
+      "title": "Top executives at Anthropic, OpenAI and other AI companies are privately gaming out scenarios for a public and political revolt after a catastrophic AI event.",
+      "link": "https://www.reddit.com/r/technology/comments/1x1i81q/top_executives_at_anthropic_openai_and_other_ai/",
+      "content": "submitted by /u/socoolandawesome [link] [comments]",
+      "fingerprint": "0d3cf2356066ff75618061c67e2143c06f7a8b03f84197526ece940805b1ce42",
       "seen_count": 1,
       "sources": [
         {
@@ -10277,10 +10403,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "Amazon warns local communities to stop defying its massive AI data centers",
-      "link": "https://www.reddit.com/r/technology/comments/1x13tdg/amazon_warns_local_communities_to_stop_defying/",
-      "content": "submitted by /u/marketrent [link] [comments]",
-      "fingerprint": "f62c3ee6735634ba11d8bfba72bc00fb5b611d5b98f34fa0c426d4bb4fec7ce5",
+      "title": "School district makes dramatic U-turn on AI, banning it across all grades weeks after Google Gemini rollout",
+      "link": "https://www.reddit.com/r/technology/comments/1x1jt0p/school_district_makes_dramatic_uturn_on_ai/",
+      "content": "submitted by /u/Miserable_Phase_2519 [link] [comments]",
+      "fingerprint": "c85462bf2f64ddb599d1f1d7afad1bfabdcf7d6a7db84e5bcdfee92f72c948e2",
       "seen_count": 1,
       "sources": [
         {
@@ -10295,10 +10421,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "Trump says anyone who does not call AI ‘super intelligence’ is ‘the enemy’",
-      "link": "https://www.reddit.com/r/technology/comments/1x0wdoe/trump_says_anyone_who_does_not_call_ai_super/",
-      "content": "submitted by /u/ConsciousBug5001 [link] [comments]",
-      "fingerprint": "42dc8d55cc94c61c4aecc26529179525bf3f0cfcb365cbe33b8b1f29b8422443",
+      "title": "New Report Reveals Walmart’s Patents for Price-Gouging Tech",
+      "link": "https://www.reddit.com/r/technology/comments/1x1l4um/new_report_reveals_walmarts_patents_for/",
+      "content": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "fingerprint": "97a9a66509b07995c9fa6d750e65d82cd85f9574ed45663bb89d5136771ba552",
       "seen_count": 1,
       "sources": [
         {
@@ -10313,10 +10439,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "Judge weighs if U.S President can charge $100K for early access to Truth Social posts | Judge questioned if U.S President delaying access to Truth Social posts by a second harms the press.",
-      "link": "https://www.reddit.com/r/technology/comments/1x16yio/judge_weighs_if_us_president_can_charge_100k_for/",
-      "content": "submitted by /u/ControlCAD [link] [comments]",
-      "fingerprint": "2c4d26c8111166a22d20373255f83ec1308676d14b98a983d7e4c565b0d9a3ae",
+      "title": "Seattle Becomes First City to Stop Grocery Stores from Using AI Based Personal Data to Set Prices",
+      "link": "https://www.reddit.com/r/technology/comments/1x1ksa3/seattle_becomes_first_city_to_stop_grocery_stores/",
+      "content": "submitted by /u/SnoozeDoggyDog [link] [comments]",
+      "fingerprint": "b0faaef6cf1d7a14ded656a37755cbd7285a867d379b91e28bb1bc6fcf91eec8",
       "seen_count": 1,
       "sources": [
         {
@@ -10331,10 +10457,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-      "link": "https://www.reddit.com/r/technology/comments/1x0xlgl/anthropic_bans_abusive_or_cruel_behavior_toward/",
-      "content": "submitted by /u/ResultBackground2450 [link] [comments]",
-      "fingerprint": "5c96c00b1336cbe252a39b4da9fcb2a06fd6abca2c9eb92a22dd42c0cac6aa3f",
+      "title": "US government accuses Microsoft of replacing American workers with 'foreign indentured servants,' then gives Satya Nadella a medal",
+      "link": "https://www.reddit.com/r/technology/comments/1x1m3fc/us_government_accuses_microsoft_of_replacing/",
+      "content": "submitted by /u/PewPewToDaFace [link] [comments]",
+      "fingerprint": "6521e15446dcc834b2433c789755e7eba8d7f06549d435d04eb9328f699488a6",
       "seen_count": 1,
       "sources": [
         {
@@ -10349,10 +10475,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "Microsoft is being suspended from program to apply for green cards for H-1B visa workers, Vance says",
-      "link": "https://www.reddit.com/r/technology/comments/1x0t54i/microsoft_is_being_suspended_from_program_to/",
-      "content": "submitted by /u/Immediate-Link490 [link] [comments]",
-      "fingerprint": "7cc0ffc25e98f80f8a71f97c9e1bc79982d37e5595a5020f292fbcad954b2107",
+      "title": "YouTube, Meta, and Twitch won’t say if they’ll allow the US government to live stream an execution",
+      "link": "https://www.reddit.com/r/technology/comments/1x1o4s9/youtube_meta_and_twitch_wont_say_if_theyll_allow/",
+      "content": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "fingerprint": "56b8e50ff14fb62d1f9dd4cb64477b698998f1a3dbad0ed0e8b1761ce45db080",
       "seen_count": 1,
       "sources": [
         {
@@ -10367,10 +10493,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "Hackers steal millions of Discord IDs and email addresses in \"deliberate, multi-stage attack\" on security service Double Counter",
-      "link": "https://www.reddit.com/r/technology/comments/1x0w9in/hackers_steal_millions_of_discord_ids_and_email/",
-      "content": "submitted by /u/Two-Of-Nine [link] [comments]",
-      "fingerprint": "07a618565be26827bbb7eeb791acf733874ec87bd3fbde972ce6e70d646244d7",
+      "title": "Canada’s bill C-22 threatens encryption, users’ privacy and the security of digital economies",
+      "link": "https://www.reddit.com/r/technology/comments/1x1lthv/canadas_bill_c22_threatens_encryption_users/",
+      "content": "submitted by /u/LongTrackBravo [link] [comments]",
+      "fingerprint": "8c5b30e13df0b8bcdab6a7870c1c2558c29eee4f2baac44a8256b499dc4b2f8d",
       "seen_count": 1,
       "sources": [
         {
@@ -10385,10 +10511,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "Trump discloses Nvidia stock trades as he prepares to honor CEO Huang",
-      "link": "https://www.reddit.com/r/technology/comments/1x0yn57/trump_discloses_nvidia_stock_trades_as_he/",
-      "content": "submitted by /u/idkbruh653 [link] [comments]",
-      "fingerprint": "7a5eb143004866b4765f080a3dc0586434bf28d04cdd8f89761c7d1cdd6a3760",
+      "title": "Netflix Eyes Major Layoffs",
+      "link": "https://www.reddit.com/r/technology/comments/1x1mc05/netflix_eyes_major_layoffs/",
+      "content": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "fingerprint": "0866f171f4c861e5746f952f1a3471cc3d9387c35cc46173bd8206507cabd9ea",
       "seen_count": 1,
       "sources": [
         {
@@ -10403,10 +10529,64 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "Man who made $8 million using AI-generated songs and an army of streaming bots gets 18 months in prison",
-      "link": "https://www.reddit.com/r/technology/comments/1x0v10g/man_who_made_8_million_using_aigenerated_songs/",
+      "title": "Tesla renames 'Full Self-Driving' to 'Tesla Assisted Driving' in Europe",
+      "link": "https://www.reddit.com/r/technology/comments/1x1pyve/tesla_renames_full_selfdriving_to_tesla_assisted/",
+      "content": "submitted by /u/Tech-100 [link] [comments]",
+      "fingerprint": "568f4b790cc6d92e55e5eae06700291fa7818b53c85f78b8af05431dae44a0b4",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "School Bus Diesel Bills Have Doubled in Some Areas. Now Activities Are at Risk",
+      "link": "https://www.reddit.com/r/technology/comments/1x1okpi/school_bus_diesel_bills_have_doubled_in_some/",
+      "content": "submitted by /u/DonkeyFuel [link] [comments]",
+      "fingerprint": "527bb230ddd466986ba124126f3838aacf3be108b6dd7337296c0701d1e0c766",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "OpenAI projected to bring in $20bn less in revenue than expected | OpenAI",
+      "link": "https://www.reddit.com/r/technology/comments/1x1frei/openai_projected_to_bring_in_20bn_less_in_revenue/",
+      "content": "submitted by /u/JohnHammond94 [link] [comments]",
+      "fingerprint": "6347826ca05e438bd84c4abbcde939b7d6b8d2182f3cf97bc11eeb4b90cefb3b",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "Flock offers voluntary separation packages to staff amid camera backlash",
+      "link": "https://www.reddit.com/r/technology/comments/1x1os65/flock_offers_voluntary_separation_packages_to/",
       "content": "submitted by /u/ArgentineBeauty [link] [comments]",
-      "fingerprint": "3d4ae7f87cd6778d1a204ef08b37dcfcce37f3e6fd08bc1606ad09aedb922ca2",
+      "fingerprint": "f585628ecb8222c8c91f82241fcd1b5464fafcbc0faeed7c2218c9aaeeba03f9",
       "seen_count": 1,
       "sources": [
         {
@@ -10421,10 +10601,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "David Zaslav Gets $606 Million Payout From Paramount-Warner Bros. Merger",
-      "link": "https://www.reddit.com/r/technology/comments/1x12tbe/david_zaslav_gets_606_million_payout_from/",
-      "content": "submitted by /u/yourfavchoom [link] [comments]",
-      "fingerprint": "75921039c9c79ee1bf49be6156f1804465447d673dc52f87715fc861599414b2",
+      "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+      "link": "https://www.reddit.com/r/technology/comments/1x1lvff/fired_openai_researchers_say_they_were_let_go_for/",
+      "content": "submitted by /u/spherocytes [link] [comments]",
+      "fingerprint": "b42c53192f697352e3ae239b4f6cf5ef200aaacd30159832f953577f0dbe4c6e",
       "seen_count": 1,
       "sources": [
         {
@@ -10439,10 +10619,28 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-      "link": "https://www.reddit.com/r/technology/comments/1x15vbo/nvidia_oracle_coreweave_and_other_ai_stocks_sink/",
-      "content": "submitted by /u/Logical_Welder3467 [link] [comments]",
-      "fingerprint": "7d63ce2ddcc7bb2d139f921c72488a17d4650d8dc663cdecf6a7f1708381d486",
+      "title": "AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say",
+      "link": "https://www.reddit.com/r/technology/comments/1x1qa4p/ai_surveillance_startup_flock_safety_to_cut/",
+      "content": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+      "fingerprint": "c127c6674ede4e7e3799fccc25981dffc74732b2b8379555e220247721ef93c1",
+      "seen_count": 1,
+      "sources": [
+        {
+          "name": "Reddit r/technology",
+          "tier": 4,
+          "role": "heat"
+        }
+      ]
+    },
+    {
+      "source": "Reddit r/technology",
+      "category": "Social Sentiment",
+      "tier": 4,
+      "role": "heat",
+      "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
+      "link": "https://www.reddit.com/r/technology/comments/1x1lxw5/chatgpt_for_teens_has_special_safeguards_a/",
+      "content": "submitted by /u/nosotros_road_sodium [link] [comments]",
+      "fingerprint": "d41f941bfdf32e98ca82ee730171732b08f465f1db878ac7e87a880eabbde061",
       "seen_count": 1,
       "sources": [
         {
@@ -10475,10 +10673,10 @@
       "category": "Social Sentiment",
       "tier": 4,
       "role": "heat",
-      "title": "After months of PSVR 2 stock shortages, PlayStation sells hundreds of VR patents to Meta, signaling the brand's departure from the market",
-      "link": "https://www.reddit.com/r/technology/comments/1x194yu/after_months_of_psvr_2_stock_shortages/",
-      "content": "submitted by /u/SnoozeDoggyDog [link] [comments]",
-      "fingerprint": "8d864d2fa5cba52cefe30a67d066ec31767c91846866d4f31b28ed4f5efa946f",
+      "title": "Anthropic now offers a free vulnerability-finding service for open-source software",
+      "link": "https://www.reddit.com/r/technology/comments/1x1nf1y/anthropic_now_offers_a_free_vulnerabilityfinding/",
+      "content": "submitted by /u/Logical_Welder3467 [link] [comments]",
+      "fingerprint": "0935bb833fe6f3d67fa5aa3a4196e74a87925f85041233745acc130c339cf073",
       "seen_count": 1,
       "sources": [
         {
@@ -10489,128 +10687,20 @@
       ]
     },
     {
-      "source": "Reddit r/technology",
+      "source": "X/FB Social Trends (via Google)",
       "category": "Social Sentiment",
       "tier": 4,
-      "role": "heat",
-      "title": "Microsoft cuts M365 Family and Premium OneDrive cloud storage from 6TB to just 2TB",
-      "link": "https://www.reddit.com/r/technology/comments/1x0zawm/microsoft_cuts_m365_family_and_premium_onedrive/",
-      "content": "submitted by /u/ThothTheGod [link] [comments]",
-      "fingerprint": "5572d2325f99678c7d7526fa2f9594ca727e30b8c35949607f5dab4fe13bbf50",
+      "role": "aggregator",
+      "title": "Experts: AI Offers Jordan Opportunities to Boost Innovation and Economic Growth المصدر: https://alqalahnews.net/en/article/991710 - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNEpJcnVPWjBiYXBMcFFIb1BNZ2Zla1p4THE5cWhPclIwNHlnTldiQm5DZk9rdmN0SnZnZDdOdnlMNENMZU1pWU5NRzdFOGNhVm03TXJGaHdJMFZxZmNfemp4RWluOV91dTZjSDF1YU9qZGd6b1hPMzB1VTVEczhQZDMwS0FQYm95aU9BS2RwOXZVUG85ZmVSR2ZpZUIyQTMwUVFfU2RfUWN5dUItY1ZKU1NydV9zSlZxVVZVWFZDVXdhNS1aZnM1bmtFNDJ0dzBwWE1ROFR6TGdFVno0ZFdVanhaRHU2YjdK?oc=5",
+      "content": "Experts: AI Offers Jordan Opportunities to Boost Innovation and Economic Growth المصدر: https://alqalahnews.net/en/article/991710 Facebook",
+      "fingerprint": "b00f46fe8bb361bb7f602a30b6eb6a146a38058f5d56ed132660dd0451ead0ea",
       "seen_count": 1,
       "sources": [
         {
-          "name": "Reddit r/technology",
+          "name": "X/FB Social Trends (via Google)",
           "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "Is AI a threat? Yes — it is already emptying Americans’ bank accounts.",
-      "link": "https://www.reddit.com/r/technology/comments/1x0tb80/is_ai_a_threat_yes_it_is_already_emptying/",
-      "content": "submitted by /u/B-Z_B-S [link] [comments]",
-      "fingerprint": "84a9e5a6fe0813942c72a15985dd158f731503de25a1527a78e64616e9f278fe",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "Vance says Microsoft is being suspended from program to apply for green cards for H-1B visa workers",
-      "link": "https://www.reddit.com/r/technology/comments/1x0x6bq/vance_says_microsoft_is_being_suspended_from/",
-      "content": "submitted by /u/esporx [link] [comments]",
-      "fingerprint": "45dbf00590d55d211c9c1939dcf083bc53558d1560e76d4189fad61c0f227453",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "Wikimedia Foundation says OpenAI's rogue AI agents were caught making malicious edits",
-      "link": "https://www.reddit.com/r/technology/comments/1x0w4x5/wikimedia_foundation_says_openais_rogue_ai_agents/",
-      "content": "submitted by /u/Miserable_Phase_2519 [link] [comments]",
-      "fingerprint": "fcc1c4ee8e81fffaa8fa9720fa6e9d208d2e5c77e89f3b225cd27c6a835af0f9",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "Why Arturo Béjar left Meta – and blew the whistle: ‘I don’t recall Mark ever being empathetic’ | Béjar’s daughter was 14 when she told him Instagram was failing to keep her safe. So when he became part of Meta’s ‘wellbeing team’, he knew he had to speak out – and his testimony cost it billions",
-      "link": "https://www.reddit.com/r/technology/comments/1x0t0r1/why_arturo_béjar_left_meta_and_blew_the_whistle_i/",
-      "content": "submitted by /u/Hrmbee [link] [comments]",
-      "fingerprint": "eacd47d7ef8e19e3c7a61d4e1c7c987bc4ca97ebfbe918cba5c6334a85f40add",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "link": "https://www.reddit.com/r/technology/comments/1x158td/anthropic_launches_free_ai_security_scans_for/",
-      "content": "submitted by /u/Kingsaso6 [link] [comments]",
-      "fingerprint": "6feb95bf63a159cbe233831fdf16d8eaa0b6aeff03d1f1104eb954f1b655ca93",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
-        }
-      ]
-    },
-    {
-      "source": "Reddit r/technology",
-      "category": "Social Sentiment",
-      "tier": 4,
-      "role": "heat",
-      "title": "Texas Driver, Alek Schott of Houston, wins $76 after ALPR led to bogus traffic stop, drug searches | Mass surveillance gets stupider.",
-      "link": "https://www.reddit.com/r/technology/comments/1x1bgne/texas_driver_alek_schott_of_houston_wins_76_after/",
-      "content": "submitted by /u/ControlCAD [link] [comments]",
-      "fingerprint": "2201e6d7ecf5ec914a5018c3ed9e0abb503c425d62bd6d4fd01223a1b86e4c6f",
-      "seen_count": 1,
-      "sources": [
-        {
-          "name": "Reddit r/technology",
-          "tier": 4,
-          "role": "heat"
+          "role": "aggregator"
         }
       ]
     }
@@ -10621,10 +10711,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "只剩最後3天 台中國家歌劇院光雕秀加碼「雙十」意象 夜晚超吸睛",
-      "link": "https://news.ltn.com.tw/news/art/breakingnews/5600795",
-      "content": "國慶連假來了，台中國家歌劇院開館10週年生日派對，遇上雙十國慶同歡，「10週年限定光雕秀」，國慶假期至11日進入最終3天，特別融入雙十國慶意象，於歌劇曲牆建築上演絢麗光影...…",
-      "fingerprint": "35b20c8f07def60798d4461bf8c5ed6d46ed36b838bd71705f2cb7718dc8b749",
+      "title": "油價回落　歐股收紅",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5601400",
+      "content": "美國總統川普排除在11月期中選舉前對伊朗發動攻擊的可能性，油價應聲回落，激勵歐洲股市今天收紅。\n\n倫敦FTSE 100指數上漲110.45點或1.06%，收在10552.05點。\n\n法蘭克福...…",
+      "fingerprint": "d4ed7aaf84d200edbeac616b864ad74342aaa0804c2de66780689e192f14b980",
       "seen_count": 1,
       "sources": [
         {
@@ -10639,10 +10729,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "桌球》克服5:10絕境連拿7分！馮翊新不敵松島輝空仍創大滿貫最佳戰績",
-      "link": "https://sports.ltn.com.tw/news/breakingnews/5600858",
-      "content": "23歲的合庫好手馮翊新今天在2026年WTT中國大滿貫賽男單8強賽，以1:4不敵世界排名第一的日本新星松島輝空，無緣更上層樓，仍締造個人在大滿貫賽最佳戰績，收穫580分積...…",
-      "fingerprint": "d7bf6353aa4f91a93879c4bd89f8fc43be28c27b6b9ee1424ca0f5e8a61352f9",
+      "title": "農曆9月誰最賺？謝沅瑾點名「5生肖」搶先卡位2027起跳點",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5601394",
+      "content": "〔娛樂頻道／綜合報導〕今（10日）起正式邁入農曆9月，年度氣運迎來關鍵洗牌期！知名命理大師謝沅瑾點出，此時正是佈局2027運勢的黃金起跳點，其中有5個生肖的財庫大門敞開，不僅有機會靠小額投資斬獲...…",
+      "fingerprint": "c9106beb75286e0c440a5537633b462077007839e937d5c6422ff6579ea7b3f8",
       "seen_count": 1,
       "sources": [
         {
@@ -10657,10 +10747,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "藝人選舉站台有價碼？「最高150萬起跳」 郭子乾被點名：藍綠白通吃",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5600856",
-      "content": "沈玉琳今（9）日與莎莎、郭彥均合體為節目新時段暖身宣傳受訪，如今正逢選舉熱潮，三人被問到是否會為候選人站台，沈玉琳脫口坦言：「我以前會哦，因為錢真的很多」，更透露3大層級的價碼...…",
-      "fingerprint": "b58f0bb7114c015d3ebdb56c03c83f24b7d17973ca487c3a7e2155274de12e96",
+      "title": "士林美崙公園傳恐砍樹蓋停車場惹毛市民 停管處挨轟急稱未定案",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5601396",
+      "content": "有媒體報導，台北市規劃於士林區美崙公園興建地下停車場，但恐需移除園區內119棵樹木，惹毛市民，停車管理工程處發布271字回應，指稱報導非事實，目前工程具體設計方案尚未定案，「後...…",
+      "fingerprint": "712fd6c459cc3af231b7cba1f7c359aaa11abcccb2525655fbb9f71e6a6f8bf1",
       "seen_count": 1,
       "sources": [
         {
@@ -10675,10 +10765,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "高雄動漫節登場 立委黃捷說動漫台詞能「振奮人心、帶來希望」",
-      "link": "https://news.ltn.com.tw/news/art/breakingnews/5600792",
-      "content": "雙十連假第1天展開，高雄舉行了各式大型活動，包含左營萬年季、高雄愛・月熱氣球（愛河場）、Takao Rock 打狗祭、2026高雄電影節、眷村嘉年華、TTXC 台灣文化科...…",
-      "fingerprint": "cc3adeefc12b76cba31da6e1b6b1041147bb5626a8bcc717a24491609637b409",
+      "title": "南非法官皮萊獲諾貝爾和平獎 川普不忍了",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5601395",
+      "content": "在南非法官皮萊（Navanethem Pillay）今天獲得諾貝爾和平獎後，美國總統川普在自家社媒平台「真實社群」（Truth Social）轉發貼文批評這項決定。\n\n英國「獨立報」（I...…",
+      "fingerprint": "1c146224011e996d2107c70fb4c16c2abcd81e1e71eabbf661bac76030766f3e",
       "seen_count": 1,
       "sources": [
         {
@@ -10693,10 +10783,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "買新手機竟自帶病毒！中國2品牌遭點名　恐刪都刪不掉",
-      "link": "https://3c.ltn.com.tw/news/67869",
-      "content": "買便宜手機也要小心，小心省了荷包，卻買到一支內建「病毒」的問題手機！資安公司Bitdefender最新揭露，一款名為「Midnight Mimosa」的惡意軟體，竟然直接藏在部分廉價Android手機的系統中，尤其是中國小眾品牌、白牌及山寨手機，更值得留意。\n…",
-      "fingerprint": "cb4c011bfc5e2d601ae6b6517c830c0d06f593ae34a8cdcaa652a1ad187a2d66",
+      "title": "何欣純國慶連假夜衝逢甲夜市 支持者提前卡位搶簽名、合照",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5601392",
+      "content": "國慶連假首日夜晚，民進黨台中市長參選人何欣純走訪逢甲夜市，晚間8點行程開始前，就有支持者提前到場，手拿文宣品排隊，爭取簽名、合照，不少人高喊「欣潮」、「純派」、「追欣人」，為夜...…",
+      "fingerprint": "4883e074a07096b6ac5545064964081a96ad50f54581e7237a42fbdb1a778c99",
       "seen_count": 1,
       "sources": [
         {
@@ -10711,10 +10801,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "俄羅斯空襲逾70人死 澤倫斯基痛批美國不作為",
-      "link": "https://news.ltn.com.tw/news/world/breakingnews/5600660",
-      "content": "俄羅斯連續2天的攻擊造成烏克蘭逾70人死亡，烏克蘭總統澤倫斯基指美國不願提供協助，要求開放星鏈供瞄準俄羅斯飛彈發射台。他並批評美國一面談經濟合作，一面稱外交陷入僵局。\n\n路透社報導，俄羅...…",
-      "fingerprint": "560c766c17be3f101cc430eef506e6df5b59da3aa74b1514149455e94e8dd8e1",
+      "title": "蔣萬安競選歌MV被抓包沒要授權 周軒：吃北市府豆腐？",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5601379",
+      "content": "台北市長蔣萬安力拚連任，今（9日）攜手藍營小雞公布競選主題曲「台北安可」，不過，網友發現，主題曲MV用了世界棒球經典賽片段，引發版權爭議。對此，政治工作者周軒說，MV中的張育成畫...…",
+      "fingerprint": "d9e2fb28e40dd318a4d09c8e1cf92ec7026bcdf860c197827adb3a804d805113",
       "seen_count": 1,
       "sources": [
         {
@@ -10729,10 +10819,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "轟沈伯洋狡辯遭圍剿！錢怡君坦言「當晚慌了手腳」 還原訪問始末",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5600839",
-      "content": "民進黨台北市長參選人沈伯洋7日下午赴TVBS《少康戰情室》接受專訪，同場的《新聞大白話》主持人錢怡君事後則發文，批評他面對毒品議題時「顯得不誠懇與狡辯」，引發大批網友湧入留言區...…",
-      "fingerprint": "7c3ecda73a7e811ec5b93defbb5f7b930569cb8361300473336a4cf15604c77a",
+      "title": "WTT大滿貫賽》跨過國手保送門檻成最大動力！馮翊新惜敗松島：戰術打錯了",
+      "link": "https://sports.ltn.com.tw/news/breakingnews/5601391",
+      "content": "合庫好手馮翊新今天在WTT中國大滿貫賽男單8強戰以1:4不敵日本的新科世界球王松島輝空，苦吞對戰4連敗，仍進帳生涯最高的580分積分，下週世界排名將從40名大幅上升至30...…",
+      "fingerprint": "4d1d41d09db44b80c577a3d958426868b8fb238bf4bef0dbb5c4c8373def0193",
       "seen_count": 1,
       "sources": [
         {
@@ -10747,10 +10837,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "北投24小時動物醫院掛零 陳怡潔提「毛孩夜間急救網」",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5600850",
-      "content": "台北市打造寵物友善城市，台北市士林北投區市議員參選人陳怡潔發現動物醫院夜間急重症醫療，存在明顯地域性資源落差。北市目前僅9家動物醫院明確標示「24小時營業」，北投掛零、士林也僅...…",
-      "fingerprint": "80026c3a80e67068ece498fb18bfe90b37e6d6608ae1b9d11199648d2827d285",
+      "title": "勒緊褲帶拚AI！中國經濟困境加劇  政府僅祭補釘式措施",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5601390",
+      "content": "華爾街日報報導，儘管中國從人工智慧（AI）到太空的科技進展令人訝異，然而多數經濟領域仍十分低迷，房市下跌尚未觸底、龐大的大學畢業生就業困難，企業仍難獲利。中國政府卻沒有推出火箭...…",
+      "fingerprint": "5144ef042714ee0d92047e3be6cb6c7ffe218efd8f9031a3d7437399523d0955",
       "seen_count": 1,
       "sources": [
         {
@@ -10765,10 +10855,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "屏東首例本土登革熱足跡遍及高雄20名接觸者採檢結果出爐",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5600851",
-      "content": "高雄市衛生局日前接獲屏東縣政府衛生局通知，該縣今年首例本土登革熱個案，感染登革熱病毒第4型，經疫調個案於病毒血症期間曾至高雄市旗山區探視親友，並有楠梓區活動史，衛生局已針對個案...…",
-      "fingerprint": "5dbd4a7d2f38ff412a6d4f88fbc91af1172d5c9cdc2dbac25931201c61d628e5",
+      "title": "知名氣象脆只因「糾正」遭電視台封鎖  網友齊喊「反封鎖」",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5601258",
+      "content": "社群平台Threads上回應各家媒體報氣象的「天氣即時預報」小編，今（9日）下午6點半左右突然發文透露被知名電視台封鎖，有網友詢問meta.ai，得到的回覆是，可能是前幾天電視台...…",
+      "fingerprint": "f4a7f58c9bac81112ae5c08095159c98d62d9478227c0fbaaad38f1635d777db",
       "seen_count": 1,
       "sources": [
         {
@@ -10783,10 +10873,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "喊價６億求售的台灣萬里長城   雙十連假有入園優惠",
-      "link": "https://playing.ltn.com.tw/article/32705",
-      "content": "之前喊出6億元出售的台南白河「台灣萬里長城」，迎接雙十連假，退出優惠活動，凡10月9日至11日出生者，或姓名中有「雙」或「十」字者，都享免費入園。…",
-      "fingerprint": "07279d9f7943570d28db14c5844989e56b48c72635927be84ab65a5f0163aec8",
+      "title": "「有人花錢買你命！」高雄水產二代遭刺頸被車撞  2嫌聲押禁見",
+      "link": "https://news.ltn.com.tw/news/society/breakingnews/5601387",
+      "content": "高雄茄萣區水產二代郭姓男子遭「買凶殺人」，檢警拘提林姓、陳姓2嫌偵辦，橋頭地檢署今晚認定涉犯刑法行使偽造特種文書、傷害、恐嚇等犯罪，嫌疑重大且有羈押原因及必要，向法院聲請羈押禁...…",
+      "fingerprint": "093be36563ee0fbc65caaf85cf186c259908a65f3e4eb3d9c034e94b9f651242",
       "seen_count": 1,
       "sources": [
         {
@@ -10801,10 +10891,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "自由開講》萬物皆可AI：從松機遷移看蔣萬安畫大餅",
-      "link": "https://talk.ltn.com.tw/article/breakingnews/5600253",
-      "content": "先肯定蔣萬安終於、終於、終於願意來討論市政。\n\n\n今天拋出的是松山機場遷移，改建為「AI園區」。\n\n\n松機遷移是討論十幾年的老議題，吳怡農、姚文智、黃珊珊都曾提出相關主張，甚至列為主...…",
-      "fingerprint": "3043002b62ceba184871ca2e1e7d0783158dede43065305e6a70e4f1cdde034b",
+      "title": "「夜市人聲」10/17、18登場 蘇巧慧揭活動卡司",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5601339",
+      "content": "民進黨新北市長參選人蘇巧慧將於17、18日在板橋區縣民大道二段80號3樓舉行「夜市人聲：冷氣開放，請上三樓」活動，蘇巧慧今（9）日透過粉專分享活動卡司。她表示，該活動匯集了文學...…",
+      "fingerprint": "62add542b5dd80d0351cb05d0a413a4f044adce30823a0913edb8facfe59aa62",
       "seen_count": 1,
       "sources": [
         {
@@ -10819,10 +10909,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "成立三芝石門競總 李四川重申淡海新市鎮醫院等北海岸政見",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5600849",
-      "content": "國民黨新北市長參選人李四川今（9）日出席三芝區競選總部及石門區競選總部成立大會，並前往三芝市場掃街。李四川表示，他已提出濱海自行車及行人健行專用道的構想，將自深澳至貢寮，逐步串...…",
-      "fingerprint": "069fbc40789e04ccaac15e70630e899c24b83867e6fda2697ad4b37339a8b37d",
+      "title": "惠恕仁昨出席嘉義艦國慶酒會 台帛國旗今齊揚見證兩國邦誼",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5601383",
+      "content": "海巡署「嘉義艦」與「澎湖艦」組成敦睦支隊出訪帛琉，昨（8）日帛琉總統惠恕仁伉儷出席在嘉義艦上舉辦的台灣國慶酒會後，今（9）日在嘉義艦飛行甲板舉行聯合升旗典禮，台、帛兩國國旗迎風...…",
+      "fingerprint": "1e3963e6a13dc7f75443523889549fab47d6bf5b4dd28581e4c63409c4321aa4",
       "seen_count": 1,
       "sources": [
         {
@@ -10837,10 +10927,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "屏東參選人徒手補路引爭議 網批作秀恐觸法",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5600847",
-      "content": "無黨籍屏東市民代表參選人陳建隆因為田寮巷的路面不平，通報公部門因涉及私人土地，遲未處理，陳建隆因此自行施工徒手補路，並將補路過程PO上網，被不少網友批評選舉作秀、可能觸法。屏東...…",
-      "fingerprint": "6739f85d8fc4ef430bbda54099ee1f2bf9376d4a094cadb8ac76bb4267f8876d",
+      "title": "Rapidus拚明年2奈米量產   搶台積電外溢訂單成頭號挑戰",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5601384",
+      "content": "AI投資的空前熱潮，推升先進半導體與運算基礎設施的需求。Omdia分析師南川明（Akira Minamikawa）指出，「台積電仍將主導絕大部分市場，然而剩下20%的市場中，許...…",
+      "fingerprint": "4d1af9003bff28ef32126d84b895e04e65c95063795172eaf34ae2e75cc1c0bd",
       "seen_count": 1,
       "sources": [
         {
@@ -10855,10 +10945,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "毫芒雕刻家陳逢顯精雕細琢世界最小1mm黃金〈和平鴿〉",
-      "link": "https://news.ltn.com.tw/news/art/breakingnews/5600741",
-      "content": "台灣毫芒雕刻家陳逢顯以黃金為創作媒材，歷經3個月時間，以純手工毫芒雕刻技法完成一件僅約1毫米大小的黃金鴿子，作品命名為〈和平鴿〉，在顯微鏡放大下，黃金鴿子的頭部、身軀、翅...…",
-      "fingerprint": "1b97f3fb0b411c0f411d19fdeafcc6c9923d4028a57c155a6184928b22f14ac5",
+      "title": "藝術進區到七股 《五色鳥之章》吸引超過500親子共賞",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5601346",
+      "content": "2026台南藝術進區系列活動今晚來到七股，台南市文化局邀請「自然而然」劇團演出《五色鳥之章》，以「環境友善」為創作核心，探討人類在開發過程中對生態造成的影響，吸引超過500名親...…",
+      "fingerprint": "f7662dcbcd1e51759ec1fcc19e01f8b912e40ddaa8b3964606c0c386b764d4fa",
       "seen_count": 1,
       "sources": [
         {
@@ -10873,10 +10963,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "衰！尋短不慎火燒車險吃重罪 因為登記妻名下",
-      "link": "https://news.ltn.com.tw/news/society/breakingnews/5600833",
-      "content": "燒炭引發火燒車，只因為把車登記在前妻名下，差點吃重罪。陳姓男子尋短時不慎燒毀自己使用的轎車，還波及到岳母的小貨車，而放火燒毀自己的東西，與燒毀別人的東西處罰差很多，台南地方法院審...…",
-      "fingerprint": "ab13dfb78f8ff9bf53ab5cece0d542a7608ce494bdf4ba52a2eb20cf82e85066",
+      "title": "諾貝爾和平獎得主皮萊 曾促中國公布六四真相",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5601373",
+      "content": "南非法官皮萊（Navanethem “Navi” Pillay），以對促進和平和國際法的貢獻，獲得今年諾貝爾和平獎。她曾在聯合國人權事務高級專員任內，要求中國揭露「六四事件」真...…",
+      "fingerprint": "0dd6cd95832d87d162ccfaa0819f16c21bb2d6da82cb8954ddbfe59eeef97b2f",
       "seen_count": 1,
       "sources": [
         {
@@ -10891,10 +10981,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "MLB》《MLB 9局職棒 26》歡慶10週年 200名玩家齊聚共創熱血回憶",
-      "link": "https://sports.ltn.com.tw/news/breakingnews/5600848",
-      "content": "Com2uS 棒球手遊《MLB9局職棒 26》為慶祝上線滿10週年，今天舉辦線下玩家見面會，吸引超過200位熱情玩家共襄盛舉，不僅邀請到華麗陣容與玩家同樂，官方更準備稀有...…",
-      "fingerprint": "c8af60e4ae7f02eaf830f38d2b7d64680b78e6c603747e5247a8134bfe47eb93",
+      "title": "牛仔褲「小口袋」用途揭祕！不是裝硬幣 專家曝最初是為裝「它」",
+      "link": "https://news.ltn.com.tw/news/novelty/breakingnews/5601097",
+      "content": "牛仔褲右側前口袋上，總是有一個「小1號」的口袋，究竟是拿來裝什麼的？位於日本熊本市中心、擁有約60年歷史的老鋪「Jeans Shop Sanwa」，85歲的社長梅田實雄與57歲的...…",
+      "fingerprint": "dc2cfcfd3f46e336d73ab71e7c96b95e59408760d83765f4ad3ecb0499fa9acb",
       "seen_count": 1,
       "sources": [
         {
@@ -10909,10 +10999,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "許純美身價超過300億真還假？前經紀人曝她「真正財富」揭驚人通告費",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5600838",
-      "content": "逾9年沒在螢光幕前露面的藝人許純美昨（8）日久違在媒體前露面，過去曾當過她經紀人的沈玉琳今（9）日受訪，稱讚許純美狀態很好，「氣色比我當她經紀人時期還要好」，而許純美過往曾被傳...…",
-      "fingerprint": "ced60362a8fadd3b8869c6de4ae708ec8153d5a7be3fe7bb6a2c5a3daba95065",
+      "title": "天龍國房子越買越小？數據打臉了！「這坪數」賣最好 9成總價破3千萬",
+      "link": "https://estate.ltn.com.tw/article/29004",
+      "content": "台北市房價高昂，尤其預售屋更是高不可攀，台北市房價這麼貴，到底誰在買？…",
+      "fingerprint": "bb94a85eb6435b17c53339be8f86a15299836a29739ad67db32b51b86ca8f663",
       "seen_count": 1,
       "sources": [
         {
@@ -10927,10 +11017,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "沒亂花、工作6年卻存不到錢？日28歲上班族「做1事」 3個月揭真相",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5600521",
-      "content": "〔財經頻道／綜合報導〕隨著物價持續上漲，許多人可能會覺得自己的財務狀況不如以往，即使努力控制日常開支，但如果房租等固定成本再加上臨時支出，能真正留下來的錢往往比想像中少。一名28歲上班族就是如此...…",
-      "fingerprint": "5458d32264d01a1409946a70b566df0e4c9e19b6604078a93bcf42f20b10d1c9",
+      "title": "人口販運報告中國持續劣評！美國務院另指跨國詐騙威脅國安",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5601364",
+      "content": "美國國務院在8日發布的「2026年人口販運報告」中，持續將中國列為人口販運最嚴重的「第三級」國家。除了新疆維吾爾及其他民族的強迫勞動處境，中國人士在東南亞建立的跨國犯罪集團規模...…",
+      "fingerprint": "48a2957b68f15a844bbe0678f8080104de7d142e1c1875a669b3ffd810546a22",
       "seen_count": 1,
       "sources": [
         {
@@ -10945,10 +11035,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "MLB季後賽》大谷愛女看到山本由伸登板也嗨翻 爸爸竟多了「新情敵」",
-      "link": "https://sports.ltn.com.tw/news/breakingnews/5600840",
-      "content": "道奇巨星大谷翔平在球場上無疑是萬眾矚目的焦點，不過現在回到家中，他的1歲5個月大愛女似乎另有「新歡」。日本女性週刊《女性自身》報導，大谷女兒除了看到爸爸出現在電視上會相當...…",
-      "fingerprint": "b901feb7dbd7529f3cb8066a93b6cb374a9a95be41d1cec8c7594e5883db06e5",
+      "title": "資深女星為兒子淡出歌壇35年 近況曝光現在變這樣",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5601372",
+      "content": "歌壇「神鵰俠侶」康雷、張鴻的歌手兒子李東軒，昨晚在Legacy Taipei舉辦演唱會。為了以最佳狀態迎接生日演唱會，李東軒展開瘦身計畫，每天慢跑5000公尺，晚上嚴格控...…",
+      "fingerprint": "ac05c74a6c9f70f63a437932d239abe7a28d66edbe40459cd285721ab9678276",
       "seen_count": 1,
       "sources": [
         {
@@ -10963,10 +11053,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "台灣東側出現「一片雲」！鄭明典示警「低壓擾動接近」：恐帶來降雨",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5600674",
-      "content": "中央氣象署前局長鄭明典指出，台灣東側出現「一片雲」，主要與當地一個微弱的低壓擾動有關。隨著擾動接近台灣，可能使迎風面雲量增加，甚至帶來降雨。\n\n鄭明典在臉書發布貼文稱，從氣象...…",
-      "fingerprint": "d1bcbc6f1f8358c781f98c1d8ef2fbd71a52eb2cba242e0e34a69884a5201175",
+      "title": "遭美國國務院列為人口販運最嚴重層級 港府痛斥抹黑",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5601365",
+      "content": "美國國務院8日發布「2026年人口販運報告」，香港今年遭降至「第三級」，引發港府強烈反彈。\n\n依照國務院評鑑準則，未全面達成消除人口販運最低標準，也沒有做出顯著努力的國家，...…",
+      "fingerprint": "a2c9905a17c88f26aff910ce137457c1ef96af949e03666b4961b38c99fed13f",
       "seen_count": 1,
       "sources": [
         {
@@ -10981,10 +11071,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "BIGBANG連3天攻大巨蛋！北市推巨型皇冠手燈、燈海廊道限定城市應援",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5600832",
-      "content": "BIGBANG今（9）日至11日，一連3天登上台北大巨蛋，市府特別為粉絲打造一系列「台北限定」城市應援，從皇冠手燈限定裝置、V.I.P皇冠燈海廊道、限定集章明信片、主題捷運車廂...…",
-      "fingerprint": "093ed66fa32ff891819c89534b060ffcf766a4be16e9ae65d9677b39f510e30e",
+      "title": "WTT大滿貫》痛失8個冠軍點！林昀儒/鄭怡靜遭南韓組合史詩級逆轉屈居亞軍",
+      "link": "https://sports.ltn.com.tw/news/breakingnews/5601371",
+      "content": "世界排名第9的林昀儒/鄭怡靜今晚在WTT中國大滿貫賽混雙決賽，第4局在10:3聽牌下連續錯過8個冠軍點，決勝局在開局5:1領先下又連丟8分，最終2:3遭世界排名第一的南韓...…",
+      "fingerprint": "ebdea0c397ef3e60e478adcb5ef5795cabfa315a5eaef78a534152b4dd62ccb7",
       "seen_count": 1,
       "sources": [
         {
@@ -10999,10 +11089,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "涉對政敵與美公民施以酷刑 馬杜洛夫婦遭控新罪名",
-      "link": "https://news.ltn.com.tw/news/world/breakingnews/5600747",
-      "content": "美國檢察官今天指控遭罷黜的委內瑞拉總統馬杜洛（Nicolas Maduro）與其妻子佛羅雷斯共謀對政治對手與美國公民施以酷刑，為這對夫妻原已面臨的販毒案增添新罪名。\n\n路透社報導，另外，...…",
-      "fingerprint": "9a13d57167cb69bf241d22cf6279ca44d6aeb61b47f71079940bfc2d176bcca2",
+      "title": "犬貓認養2-2》老殘毛孩不放棄！肉包、派敏找到家 黑糖糕成「鎮園之寶」",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5601240",
+      "content": "12歲老犬肉包被棄養在街頭流浪，通報救助進台中動物之家時滿身皮屑、牙齒潰爛，尾巴幾乎光禿；流浪貓派敏鼻血、喘氣，牙爛到得拔7顆牙，幼犬黑糖糕則是車禍癱瘓入所。經獸醫師、志工努力...…",
+      "fingerprint": "c4fcec2cf2473348a4788fe33ebadb9172b8d485c258da7aa55852729d5785fa",
       "seen_count": 1,
       "sources": [
         {
@@ -11017,10 +11107,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "雙十連假去哪玩？台中旅遊攻略大公開 全台最高媽祖、泡湯優惠全包了",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5600705",
-      "content": "雙十國慶連假今日展開，台中市府觀光旅遊局推薦民眾把握秋高氣爽好時節，隨著10月3日大安港媽祖文化園區台灣本島最高的媽祖雕像落成啟用，邀請廣大遊客雙十連假就跟著媽祖遊台中。\n ...…",
-      "fingerprint": "f5c4354cd4c195c5554dc2f70be4d70cc9e1589473549776df5f9dddebd3767d",
+      "title": "短短4個月！ 沈伯洋的「真善美」願景又進化了 勾勒10年後台北藍圖",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5601357",
+      "content": "民進黨台北市長參選人沈伯洋5月宣布參選後，以「真善美」作為市政施行願景。今天他在與競總副主委吳怡農的市政願景客廳會中，再度使用這「三字訣」形容心目中10年後的台北藍圖；據觀...…",
+      "fingerprint": "469780ecdac0bc7952784bbb39ac502e4f176be8edea36fc7b8a1f43fd38a303",
       "seen_count": 1,
       "sources": [
         {
@@ -11035,10 +11125,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "AI、半導體狂狂開外掛！這類不動產直接變「資金避風港」？",
-      "link": "https://estate.ltn.com.tw/article/28999",
-      "content": "AI與半導體產業擴張持續帶動台灣經濟，商用不動產投資信心也跟著升溫，2026年第三季台灣CCIM商業不動產投資信心指數（ICI）總平均指數來到105.71點，較前一季增加1.24點，連續維持在100點以上的偏向樂觀區間，其中總體經濟與辦公室市場信心同步走高，…",
-      "fingerprint": "53dce8358306fec1e2a5b0c77af79f26691725a044c1ec6a42b8bb1ddbf3aedc",
+      "title": "北極賽》周天成不敵日本好手3連霸夢碎 許雅晴／宋祐媗擊敗中國組合闖4強",
+      "link": "https://sports.ltn.com.tw/news/breakingnews/5601370",
+      "content": "台灣一哥周天成今天在超級500系列北極羽球公開賽男單8強戰，以19：21、16：21不敵日本渡邊航貴，止步8強也無緣完成3連霸。\n\n\n世界排名第3的周天成日前剛結束名古屋...…",
+      "fingerprint": "2479110d477e26443ece829a816dd5d5cc32d46bc103c36c1f8badbe955d39de",
       "seen_count": 1,
       "sources": [
         {
@@ -11053,10 +11143,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "國慶連假倒垃圾看這篇 台中垃圾車3天收運時間一次看",
-      "link": "https://news.ltn.com.tw/news/life/breakingnews/5600809",
-      "content": "雙十國慶連假，台中市環保局維持假日期間垃圾收運服務，將於10月9日（星期五）維持正常垃圾收運；10月10日（星期六）國慶日當天暫停沿街垃圾收運，改採「定時定點」垃圾收運服務；1...…",
-      "fingerprint": "372e8e7d5c908221af7f8def14c93a61dfe7e6bea7c8380574e4263c3796cd44",
+      "title": "犬貓認養2-1》6都公立收容所認養率大洗牌 台中毛孩送養卡關",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5601239",
+      "content": "打造寵物友善幸福城市，收容所的家犬貓認養率是指標之一，根據農業部全國動物收容管理系統資料，去年6都新北、台北和桃園都達9成，台中近8成，不過今年1到8月，台中、台南認養率僅...…",
+      "fingerprint": "b33ca5669fc56f20387b38cf9c2695adfe357190823dbfacf08f9c15dcf1e6b5",
       "seen_count": 1,
       "sources": [
         {
@@ -11071,10 +11161,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "以太坊研究員警告 AI 恐在數月內破解 ECDSA，Coinbase 密碼學主管批缺乏證據",
-      "link": "https://news.ltn.com.tw/news/aichannel/breakingnews/5600837",
-      "content": "〔AI頻道／綜合報導〕以太坊基金會研究員德瑞克（Justin Drake）10月7日在社群平台 X 警告，人工智慧（AI）可能在數月內找到破解橢圓曲線數位簽章演算法（ECDSA）的方法，威脅比特幣與以...…",
-      "fingerprint": "31be13b56db3ebb3b0bf6ad7171cc7eb644a419dbfd1154c03a3e88e50cb44d0",
+      "title": "週六國慶日迎風面局部雨 白天偏熱留意日夜溫差",
+      "link": "https://news.ltn.com.tw/news/life/breakingnews/5601194",
+      "content": "明天是國慶日，大環境仍吹東北風，迎風面大台北山區、基隆北海岸、東半部及恆春半島雲量較多，偶有局部降雨，清晨大台北平地降雨機率也稍高，出門出遊或參加活動留意溫差。\n\n...…",
+      "fingerprint": "b89a83d5b8dc5ee59fcefc9ded27735dc28174f26cfba2f28ce6d0295aa0befb",
       "seen_count": 1,
       "sources": [
         {
@@ -11089,10 +11179,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "蔣萬安拋松機遷建打造AI園區！杜奕瑾提6大質疑：AI不是炒地皮",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5600602",
-      "content": "台北市長蔣萬安昨日突拋出松山機場遷建構想，並計畫轉型為AI產業園區、住宅與公園，引發外界熱議。對此，台灣人工智慧實驗室創辦人杜奕瑾提出6問，直言AI不是炒地皮，更要有完整規劃。若...…",
-      "fingerprint": "d5b39b67aa3e29909d64ce4e4d5109b98bbfccd30386a02ccf56f7232c161c6f",
+      "title": "NBA》被當盤子？最大咖球星賽前才宣布不打 中國球迷全氣炸",
+      "link": "https://sports.ltn.com.tw/news/breakingnews/5601350",
+      "content": "火箭與獨行俠遠赴澳門打海外熱身賽，但獨行俠當家球星厄文（Kyrie Irving）今在首戰輪休，讓不少中國球迷氣炸。\n\n\n獨行俠總教練梅伊（Dusty May）在賽前記者會...…",
+      "fingerprint": "3eabd69518df611035f0c8b0e248807395904cc62039bcc532522ba1c8e13b91",
       "seen_count": 1,
       "sources": [
         {
@@ -11107,10 +11197,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "搶攻潭雅神票倉！何欣純大雅市場拜票 喊出產業升級、公托倍增",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5600814",
-      "content": "九合一選舉進入倒數階段，今日雙十連假首日，台中市長藍綠參選人江啟臣與何欣純今日不約而同至大雅市場拜票，民進黨台中市長參選人、立委何欣純表示，潭雅神擁有深厚的產業基礎與地方特色，...…",
-      "fingerprint": "1163f1e546c31aa302f4d5d699b5aeafec1043d20bc97d4b2e3e7fdd799a51d6",
+      "title": "烏克蘭抗「俄勢力」延伸到非洲 馬利叛軍曝受烏無人機訓練內幕",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5601355",
+      "content": "烏克蘭誓言在能力所及之處對抗俄羅斯，即使是在非洲薩赫爾（Sahel）地區「炙熱的沙漠」也不例外。法新社9日報導，跡象顯示，基輔正支持馬利圖阿雷格族（Tuareg）分離主義者武裝...…",
+      "fingerprint": "47e163e69736ea3cc5824d739ead60ed01e7b2eda5c82fc686c36c77bc7b736b",
       "seen_count": 1,
       "sources": [
         {
@@ -11125,10 +11215,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "核電重啟、維持AI競爭力都要真金白銀！台電獨董：711億撥補比漲電價好",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5600740",
-      "content": "台電財務再陷危機，獨董廖惠珠直言，台電累虧恐再度突破4000億元，711億元撥補是目前較符合國家整體利益的選項，若立法院不願撥補，12月電價調漲機率將大增；她也強調，過去...…",
-      "fingerprint": "0256c881bc804662a594d64aac46b8c6f51937c889e4c2b944efa93f9fd00adb",
+      "title": "刺青爆笑片！極道妻臀部山水圖大走鐘 師傅「這句話」惹火角頭結局曝",
+      "link": "https://news.ltn.com.tw/news/society/breakingnews/5601358",
+      "content": "台中一名男子花3萬8000元刺「飛天虎」，因老虎眼睛、虎爪與原圖有落差，打官司獲判賠4萬2000元，但這不是個案，以往就曾有「莫忘初衷」刺成「莫忘初忠」、極道之妻臀部山水畫變成...…",
+      "fingerprint": "8eaaa09fbe274ee02d404d99e053497dc65f089405d8f66a296492092d97120e",
       "seen_count": 1,
       "sources": [
         {
@@ -11143,10 +11233,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "蔡康永現身洋流！中國警告「付出代價」 沈玉琳揭他背後動機",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5600826",
-      "content": "蔡康永日前因現身民進黨台北市長參選人沈伯洋競選總部成立大會，引發中國強烈反彈，傳出被封殺，還遭到解放軍新聞傳播中心旗下微博帳號「鈞正平」警告，「終將付出難以承受的代價」。沈玉琳...…",
-      "fingerprint": "06787954fdc62d58f12f13118254d3e51d1df13f4e06e71e47283ae93d7082c4",
+      "title": "MLB季後賽》金慧成恐被捨棄？ 美媒預測道奇國聯冠軍賽名單沒有他",
+      "link": "https://sports.ltn.com.tw/news/breakingnews/5601333",
+      "content": "7戰4勝制的國聯冠軍賽，首戰將在台灣時間10月12日週一登場，道奇將強碰本季例行賽戰績最佳的釀酒人，《運動畫刊》道奇作家卡姆拉斯（Noah Camras）撰文預測道奇隊的國...…",
+      "fingerprint": "60bdefb176bfc91da0368051b92cc657ea7186521334775a7a545c0fd0d52f5e",
       "seen_count": 1,
       "sources": [
         {
@@ -11161,10 +11251,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "「小程」人咧？網友互嗆約輸贏撲空 狠砸最衰租車行2輛BMW",
-      "link": "https://news.ltn.com.tw/news/society/breakingnews/5600797",
-      "content": "網路互嗆約出來「輸贏」，人沒找到，竟拿別人的車出氣！台中市一名少年與自稱「小程」網友口角，相約碰面卻遍尋不著，竟誤認對方躲在租車行內避不見面，氣得與友人持棍棒狠砸店內2輛BMW...…",
-      "fingerprint": "ae0943f8ebde9d26d447b3fcb4282da89664e71d3ef930735d1c549735bcab86",
+      "title": "哈利王子自爆陷憂鬱  戴妃過世後「情感麻木」",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5601356",
+      "content": "英國哈利王子（Prince Harry）在Podcast節目中透露自己2019年暫離王室職務期間，曾陷入憂鬱，不久他與妻子梅根正式宣布卸下王室在職成員身分。節目中也...…",
+      "fingerprint": "b3a62203be588ea4728ef9bd7b5d09f3af7f8293509c74aec6638cefde66918e",
       "seen_count": 1,
       "sources": [
         {
@@ -11179,10 +11269,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "房貸最高放寬至7成！你真的貸得到？數據曝光：銀行資金早就「轉移陣地」",
-      "link": "https://estate.ltn.com.tw/article/29008",
-      "content": "央行9月17日宣布，自9月18日起自然人第2戶購屋貸款最高成數由6成提高至7成，但仍不得有寬限期。房貸政策再度鬆綁，市場關注資金是否重新回流房市。不過，從五大銀行最新授信數據來看，房貸在銀行放款中的占比仍低於企業資金需求，資金結構並未全面轉向房市。…",
-      "fingerprint": "6987ea15cebd97f0e0b285fce2914b03ccf1cf0cd27430bdf87eddec4e4d7420",
+      "title": "再接再厲！10/9大樂透、今彩539頭獎摃龜 中秋加碼百萬獎開10注",
+      "link": "https://news.ltn.com.tw/news/society/breakingnews/5601349",
+      "content": "10月9日開獎的第115000245期今彩539頭獎及第115000095期大樂透頭獎摃龜；第11500009期大樂透「中秋加碼獎」，100萬元獎項開出10注，其中8組為單注中獎...…",
+      "fingerprint": "9bd78dec162aa60dff9f53e290ca2451f1b77cb8a4dcbacfbd65571354cbe045",
       "seen_count": 1,
       "sources": [
         {
@@ -11197,10 +11287,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "壽險大戶回來了！凱基、南山豪砸數百億 揭密2026台灣商用不動產爆火真相",
-      "link": "https://estate.ltn.com.tw/article/29007",
-      "content": "台灣商用不動產市場交易升溫，AI與半導體產業擴廠帶動企業自用需求，壽險資金也重新布局商用資產，世邦魏理仕（CBRE）統計，2026年前八月全台大型不動產投資總額達2,948億元，年增50%，其中商用不動產成交額達1,874億元，年增91%，交易量明顯成長，主…",
-      "fingerprint": "6c11e662e71bdd324b31354cdc4f2a56c378c9faae0aa603c47b9bb5ff5072bb",
+      "title": "蘇巧慧掃街湳雅夜市 再度細數板橋政見",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5601344",
+      "content": "民進黨新北市長參選人蘇巧慧今晚（9日）到板橋湳雅夜市掃街，她說，板橋是新北發展的核心地區，針對老舊街廓，她將成立「都市更新局」加快效率，打造簡政便民的都審程序，她也將加速推動板...…",
+      "fingerprint": "8639e0790dc7089e28f09450b97a62ecd1141e0f2140a0207b179c0172324f43",
       "seen_count": 1,
       "sources": [
         {
@@ -11215,10 +11305,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "蔣萬安無預警拋松機遷建 備役上校轟忽視國安搜救、缺配套",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5600815",
-      "content": "台北市長蔣萬安昨無預警宣布松山機場遷移計畫，主張將機場周邊約300公頃土地轉型為AI園區、住宅及大型公園，意外「打臉」國民黨新北市長參選人李四川月前中和光復線延伸至松機的政見，...…",
-      "fingerprint": "89144118ee681ef0de6df7bb1621e1283adf29377b1dc14c280009752a5aa6c8",
+      "title": "持刀闖花蓮東大門夜市！ 統促黨男殺人未遂收押",
+      "link": "https://news.ltn.com.tw/news/society/breakingnews/5601341",
+      "content": "有統促黨身分的花蓮33歲李姓男子，昨晚持刀闖花蓮東大門夜市，嚇得遊客驚慌逃竄，檢警懷疑可能有教唆共犯，以殺人未遂等罪嫌，今晚向花蓮地方法院聲請羈押獲准。\n \n花蓮地檢署指出...…",
+      "fingerprint": "c472de12ee4f12f3d21ac19dc9c6772440052bee36673fdf660c3eccf0b890db",
       "seen_count": 1,
       "sources": [
         {
@@ -11233,10 +11323,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "沈伯洋蔣萬安將上《熱吵店》！沈玉琳曝時間點 吐槽逸祥模仿：長太醜",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5600816",
-      "content": "逸祥日前在綜藝節目《11點熱吵店》與陳德烈兩人分別模仿民進黨台北市長參選人沈伯洋及國民黨台北市長參選人蔣萬安，沒想到逸祥在社群曬出「沈脖癢」諧音名牌宣傳，遭到網友炎上。節目主持...…",
-      "fingerprint": "78bef42e05a2c42ef975fe2845ddd5ea1e3d5b075fc7e76f8ec8f15602728c69",
+      "title": "兩次前車之鑑 川普聲明選前不打 伊朗深感懷疑",
+      "link": "https://news.ltn.com.tw/news/world/breakingnews/5601348",
+      "content": "傳出美國不排除11月3日期中選舉前重啟轟炸伊朗消息後，美國總統川普9日表明，不會在選舉前重新發動攻擊。\n\n川普在真實社群發文，稱與伊朗進行著「具有成效的討論」。縱使德黑蘭無...…",
+      "fingerprint": "0da23020832417c4e5e214aeede1c76bdce404a768abc97af4e9be47bb94abbe",
       "seen_count": 1,
       "sources": [
         {
@@ -11251,10 +11341,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "被批選前拋松機遷建太倉促 蔣萬安：與中央攜手爭取市民支持",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5600825",
-      "content": "台北市長蔣萬安昨（8）日突拋要遷建松山機場，並打造台北AI園區。不過，社民黨籍議員苗博雅直批，蔣萬安2022年12月11日說，把松山機場變成公園不符合民眾期待、松山機場遷建要經...…",
-      "fingerprint": "4459c471159ff5e96b0e272c07120306d40732c30ce44aca8dfdb4a42a294ca3",
+      "title": "掏200萬老本借兒買房！5年一毛都不還  70歲阿嬤翻臉撂狠話了",
+      "link": "https://ec.ltn.com.tw/article/breakingnews/5601338",
+      "content": "〔財經頻道／綜合報導〕日本一對70多歲夫妻，為了幫兒子買房，拿出1000萬日圓（約台幣203萬）退休積蓄借給兒子，沒想到媳婦重返職場5年，兒子竟連1日圓都沒還。母親擔心養老錢收不回來，忍無可忍撂...…",
+      "fingerprint": "8ace483a692760118dc4e64d5ebfafe070556fada1ae44221c1e3d5508d118e4",
       "seen_count": 1,
       "sources": [
         {
@@ -11269,10 +11359,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "奔逃畫面曝光！統促黨男持刀鬧花蓮東大門 警方：不排除有共犯",
-      "link": "https://news.ltn.com.tw/news/society/breakingnews/5600818",
-      "content": "花蓮33歲李姓男子昨晚6點多持刀闖入東大門夜市，還丟酒瓶砸傷人，現場監視器拍下驚險時刻，大批民眾嚇得往後方奔逃！由於李姓男子曾加入統促黨，也與白狼張安樂留下合照，警方表示，持刀...…",
-      "fingerprint": "4b74d7e400d3b7e7939ff9dcd120b0b7a6ac8f57d1f3ac3871009584c523f0f2",
+      "title": "慘遭前夫家暴腦震盪！李沛綾急發保護令「全面停工」  喊話女性：保有原則界線",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5601347",
+      "content": "八點檔女星李沛綾2023年因前夫背債上億，果斷斬斷長達19年的婚姻，原本為了給孩子健全成長環境而協議暫時同居，不料這份退讓竟演變成暴力夢魘。李沛綾日前爆出遭到家暴，緊急向法院聲...…",
+      "fingerprint": "58d65474b024de9af79000c8c847a49cf64d295c43f0ff0cabde571fda211d6b",
       "seen_count": 1,
       "sources": [
         {
@@ -11287,10 +11377,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "瞄準中俄核威脅 美砸200億研發潛射核彈將配 維吉尼亞級",
-      "link": "https://news.ltn.com.tw/news/def/breakingnews/5600811",
-      "content": "面對俄羅斯及中國持續擴張核武戰力，美國海軍正加速恢復潛艦搭載核武裝巡弋飛彈的能力。美國海軍戰略系統計畫辦公室（SSP）6日宣布，授予5份總價值7.44億美元（約新台幣23...…",
-      "fingerprint": "b869b4e5d48be56d74d6ba862650cc75ac235db147d9ec11195bf42fea1e47d1",
+      "title": "圖輯》洋流慧聚！沈伯洋、蘇巧慧新莊合體 人潮爆棚畫面曝",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5601135",
+      "content": "民進黨新北市長參選人蘇巧慧與新莊區議員聯合競選總部今天（9日）成立，再度上演「洋流慧聚」，台北市長參選人沈伯洋擔任特別嘉賓，新莊體育館前廣場湧入上萬人，沈伯洋與蘇巧慧合體大進場...…",
+      "fingerprint": "c0bfb8dd566c2be515fbcf087bd2dfa61e8f8b1d1cae7316b7ea532aa7bd2dfd",
       "seen_count": 1,
       "sources": [
         {
@@ -11305,10 +11395,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "CCS生意萌芽》 中油鐵砧山碳封存3年灌注30萬噸 找無碳源頭痛",
-      "link": "https://ec.ltn.com.tw/article/breakingnews/5600673",
-      "content": "中油配合國家2050淨零轉型目標，推動碳捕捉、利用與封存（CCUS）技術，並在苗栗鐵砧山打造台灣首座CCS先導試驗場址，今年4月取得核准後，已進入試運轉階段，規劃3年封存...…",
-      "fingerprint": "24a46651395dd562f3ce219a838d90b7013c959e6de56c907a7dd8d37afb9b16",
+      "title": "周杰倫現身大巨蛋！夢幻合體BIGBANG 網嚇傻：是真的周董嗎？",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5601342",
+      "content": "韓流天團BIGBANG 20周年演唱會首日在今天（9日）稍早結束，周杰倫隨後在IG曬出與3位成員的合照，並寫著：「很開心見到你們，恭喜！」\n\n\n\n\n\nG-DRAGON（GD，權...…",
+      "fingerprint": "75d6ff14ab751d53baac122213c709dacf0d1aa9dcc1cbeddc1f2a074013931a",
       "seen_count": 1,
       "sources": [
         {
@@ -11323,10 +11413,10 @@
       "category": "TW News",
       "tier": 2,
       "role": "professional",
-      "title": "禮尚往來！史王憶賴清德5月突圍到訪 重申挺台國際參與",
-      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5600819",
-      "content": "第20度訪台的友邦史瓦帝尼國王恩史瓦帝三世，今（9）日在總統賴清德主持的軍禮歡迎儀式上致詞，重申史國將持續為台灣的國際參與發聲，他也回憶賴清德今年5月國是訪問史國的情景。5個月...…",
-      "fingerprint": "b5ea83d9d7f2c25353b3013896d9dccf59bd6623b0ecfe2c5fcee60db45777ba",
+      "title": "蔣萬安「台北安可」MV用經典賽畫面挨轟  競辦：已調整畫面",
+      "link": "https://news.ltn.com.tw/news/politics/breakingnews/5601343",
+      "content": "台北市長蔣萬安競選連任主題曲「台北安可」今（9日）下午公布，主題曲MV中使用了世界棒球經典賽的片段，引發授權質疑；競辦晚間發表聲明，MV記錄的是過去四年台北市的改變，不代表任何...…",
+      "fingerprint": "9eeff4d48fd1a1123267b94ff4cba12b0c8c4724d07f1ce58de0505c768d4e88",
       "seen_count": 1,
       "sources": [
         {
