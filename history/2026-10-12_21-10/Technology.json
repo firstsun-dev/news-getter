@@ -1,0 +1,788 @@
+{
+  "category": "Technology",
+  "timestamp": "2026-10-12_21-10",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Mars may be a hellhole, but the moon is not far behind",
+      "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "The ecologist revealing the invisible networks that revive rainforests",
+      "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "The Download: moon city problems and drone traffic controllers",
+      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "太陽死後的太陽系，比想像中的更快崩解",
+      "url": "https://technews.tw/2026/10/12/the-solar-system-may-fall-apart-faster-than-expected-after-the-sun-dies/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "微軟 Maia 300 新晶片明年量產，關鍵運算 Chiplet 採台積電 N2P 製程",
+      "url": "https://technews.tw/2026/10/13/microsoft-maia-300-to-begin-production-deployments-in-2027/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "弘塑 9 月營收年增 61.8%，單季業績再創新高",
+      "url": "https://finance.technews.tw/2026/10/13/gptc-2026-sep-revenue/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "遠傳9月營收109.62 億元",
+      "url": "https://finance.technews.tw/2026/10/12/far-eastone-4904-202609-financial-report/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "台灣大9月營收174.12 億元",
+      "url": "https://finance.technews.tw/2026/10/12/twm-3045-202609-financial-report/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "告別停滯性通膨夢魘！美國學者以「前瞻性個體基礎」獲諾貝爾經濟學獎",
+      "url": "https://technews.tw/2026/10/12/hall-woodford/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "漢唐9月營收月減13.0%",
+      "url": "https://finance.technews.tw/2026/10/12/uis-2404-202609-financial-report/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "中華電9月營收月增4.7%",
+      "url": "https://finance.technews.tw/2026/10/12/cht-2412-202609-financial-report/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "華為新款 MPV 煞車踏板斷裂，中共官媒地方政府紛批評",
+      "url": "https://technews.tw/2026/10/12/huawei-new-mpv-brake-pedal-snaps-slammed-chinese-state-media-local-governments/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "金寶9月營收221.83 億元",
+      "url": "https://finance.technews.tw/2026/10/12/kinpo-2312-202609-financial-report/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "曾文生盼電業加速融入科技業決策，供電關鍵點名電網",
+      "url": "https://technews.tw/2026/10/12/tseng-wensheng-urges-power-industry-accelerate-tech-integration-decision-making-highlighting-power-grid-key-supply/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "WeMo 共享機車十週年，長租方案成為新寵兒",
+      "url": "https://technews.tw/2026/10/12/wemo-sharing-escooter/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "熬不過高溫與地形，美軍萬人演習暴露無人機實戰弱點",
+      "url": "https://technews.tw/2026/10/12/unable-to-withstand-high-temperatures-and-challenging-terrain-a-large-scale-u-s-military-exercise-exposed-the-combat-weaknesses-of-its-drones/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "日月光投控 9 月和第三季營收創高，AI 先進封測幫大忙",
+      "url": "https://finance.technews.tw/2026/10/12/ase-fr-2609-q3/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "成本僅有愛國者三分之一，Anduril 推出 Steelfin 模組化攔截彈",
+      "url": "https://technews.tw/2026/10/12/anduril-unveiled-new-low-cost-steelfin-interceptor/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "康控-KY9月營收1.89 億元",
+      "url": "https://finance.technews.tw/2026/10/12/concraft-4943-202609-financial-report/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "科嘉-KY9月營收月減12.0%",
+      "url": "https://finance.technews.tw/2026/10/12/ko-ja-5215-202609-financial-report/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "韓國泡麵出口額上看 20 億美元，辣味熱潮席捲全球",
+      "url": "https://technews.tw/2026/10/12/korean-instant-noodle-exports-surpass-2-billion-global-spicy-craze/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "眾達-KY9月營收2.32 億元",
+      "url": "https://finance.technews.tw/2026/10/12/pcl-4977-202609-financial-report/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "訊芯-KY9月營收7.17 億元",
+      "url": "https://finance.technews.tw/2026/10/12/shunsin-6451-202609-financial-report/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "台達電第三季營收逼近 2,000 億元，法人看好第四季雙位數季增",
+      "url": "https://finance.technews.tw/2026/10/12/delta-electronics-q3-revenue-nears-200-billion-record-high-q4-double-digit-growth/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "IMF：AI 投資潮撐全球經濟成長 3%，力抗能源衝擊",
+      "url": "https://technews.tw/2026/10/12/ai-investment-boom-supports-3-global-economic-growth/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "日月光投控9月營收月增7.2%",
+      "url": "https://finance.technews.tw/2026/10/12/aseh-3711-202609-financial-report/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "光罩9月營收月減1.2%",
+      "url": "https://finance.technews.tw/2026/10/12/tmc-2338-202609-financial-report/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "台達電9月營收654.00 億元",
+      "url": "https://finance.technews.tw/2026/10/12/delta-2308-202609-financial-report/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "台股企業獲利上看 40%！群益點名矽光子、低軌衛星引領第四季多頭",
+      "url": "https://finance.technews.tw/2026/10/12/pcb-ccl-asic/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "日本外務省強化機密管理，砸 30 億升級系統、標準比照五眼聯盟",
+      "url": "https://infosecu.technews.tw/2026/10/12/japan-foreign-ministry-enhances-classified-info-management-3-billion-yen-system-upgrade-five-eyes-standards/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI 需求點燃供需失衡，記憶體價格大漲驅動全球半導體營收狂增 119%",
+      "url": "https://finance.technews.tw/2026/10/12/soaring-memory-prices-drove-a-119-surge-in-global-semiconductor-revenue/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "決策模型 Microsoft-Decision-1 推出，以阿里 Qwen 為基礎挑戰低成本與判斷速度",
+      "url": "https://technews.tw/2026/10/12/microsoft-introduces-microsoft-decision-1/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "部分聯發科晶片手機藏資安風險，出廠前惡意程式就先入住了",
+      "url": "https://infosecu.technews.tw/2026/10/12/mediatek-low-end-android-phone-midnight-mimosa/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "韓國國產極音速滑翔載具首度試射成功，增添打擊北韓選項",
+      "url": "https://technews.tw/2026/10/12/south-korea-successfully-test-fired-their-hgv/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "跨入 8 吋主流規格 SiC 商機！廣運旗下盛新材料 10/15 登錄興櫃",
+      "url": "https://finance.technews.tw/2026/10/12/mainstream-specifications/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "台灣要電更要「零碳」電！淨零與能源雙展 10/14 揭示台廠突圍底牌",
+      "url": "https://finance.technews.tw/2026/10/12/zero-carbon/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "蘋果擴 iPhone Duo 產能，COO 親赴鴻海鄭州廠視察",
+      "url": "https://technews.tw/2026/10/12/iphone-duo-apple-coo-china/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "企業最強大腦對決貼心生活管家，OpenAI Dot 與 Meta Muse 核心差異一次看",
+      "url": "https://technews.tw/2026/10/12/openai-dot-vs-meta-muse-comparison/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "DRAM 缺貨潮延續！南亞科看好 Q4 毛利率再迎高峰，ASIC 專案已少量出貨",
+      "url": "https://technews.tw/2026/10/12/nanya-technology-2026-q3-financial-report-2/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "蘋果智慧家庭中樞 HomeView 細節曝光",
+      "url": "https://technews.tw/2026/10/12/apple-homeview/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "法債風波持續  專家：危機未擴散、歐市場具韌性",
+      "url": "https://finance.technews.tw/2026/10/12/why-frances-debt-woes-have-not-spooked-europe/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "聖暉*9月營收55.14 億元",
+      "url": "https://finance.technews.tw/2026/10/12/acter-5536-202609-financial-report/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI 預測能力可勝過人類專家，新創公司開啟科技商機",
+      "url": "https://finance.technews.tw/2026/10/12/ai-predictive-power-surpasses-experts-startups-tech-opportunities/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Mullvad共同創辦人政治捐款惹議，Tor暫停聯合宣傳但維持技術合作",
+      "url": "https://www.ithome.com.tw/news/179594",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Bun內建TypeScript型別檢查，官方測速最高達微軟編譯器6.4倍",
+      "url": "https://www.ithome.com.tw/news/179589",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "微軟Decision-1專攻AI代理決策，準確率83.5%領先同類模型",
+      "url": "https://www.ithome.com.tw/news/179586",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Telegram Desktop高風險漏洞可能導致帳號接管，研究人員已公開PoC",
+      "url": "https://www.ithome.com.tw/news/179598",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Citrix修補NetScaler重大等級的SAML漏洞",
+      "url": "https://www.ithome.com.tw/news/179578",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "特斯拉在歐洲將FSD改名為Tesla Assisted Driving，以推動歐盟核准",
+      "url": "https://www.ithome.com.tw/news/179577",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "DNS根區域時隔8年更換簽章金鑰，未更新信任錨恐使網站無法連線",
+      "url": "https://www.ithome.com.tw/news/179570",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "攻擊者利用WordPress兩款外掛XSS漏洞入侵網站，植入後門並建立隱藏的管理帳號，威脅逾50萬網站",
+      "url": "https://www.ithome.com.tw/news/179575",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "美司法部與FBI查封中國永信至誠科技兩款駭客工具，揭臺灣兩所大學曾遭Microscan掃描，後續被部署SoftEther VPN",
+      "url": "https://www.ithome.com.tw/news/179572",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "日本逮捕涉嫌勒索軟體組織Qilin核心成員，已引渡至德國",
+      "url": "https://www.ithome.com.tw/news/179573",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "中國駭客Flax Typhoon利用8個已知漏洞發動攻擊，美CISA要求聯邦機構緊急修補其中5個弱點",
+      "url": "https://www.ithome.com.tw/news/179574",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "緯致科技部分員工資訊遭未經授權存取",
+      "url": "https://www.ithome.com.tw/news/179569",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "JetBrains開源Mellum2.1模型，程式修復評測解決率從2%升至47%",
+      "url": "https://www.ithome.com.tw/news/179561",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "第三季全球PC出貨量衰退逾兩成，創3年半最大跌幅",
+      "url": "https://www.ithome.com.tw/news/179568",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "日本客服平臺業者Scala Communications遭駭，洩露多家客戶個資逾70萬",
+      "url": "https://www.ithome.com.tw/news/179566",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "日本三家旅行服務、系統業者爆資料外洩超過千萬",
+      "url": "https://www.ithome.com.tw/news/179565",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "微軟2027年4月起淘汰部分檔案API預先驗證網址，開發者須調整權杖驗證",
+      "url": "https://www.ithome.com.tw/news/179556",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "蘋果招募由NotebookLM前員工合組的AI podcast App公司Huxe",
+      "url": "https://www.ithome.com.tw/news/179564",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "韓國政府資料中心大火後，重訂系統分級與災難復原標準",
+      "url": "https://www.ithome.com.tw/news/179562",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "CISA揭露中國資安公司支援駭客攻擊，竊取多國組織敏感資料",
+      "url": "https://www.ithome.com.tw/news/179560",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "DIGITIMES Today：傳要台積電「包電廠」？| 三星非記憶體業務苦吞2兆韓元虧損？| 華為車面臨品牌考驗",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771220_HLJ382RB17QJ3W1QAPPOO",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Axis Communications攜手準線智慧科技 打造轄區AI防汛新標竿",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770997_FEX8XANVL4TV486DST0TP",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "西門子與台積公司攜手推進AI驅動的半導體設計自動化",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770878_CX19K32K6BZ4D4951TN82",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "微軟攜Anthropic深耕台灣開發社群  解析AI Agent破局落地",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770999_JEH8SY0ELW60L6835PE2N",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI Agent、Edge AI、Physical AI都在紅，企業到底該跟哪一個趨勢？",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771159_5WP21Y10488OPNLZV6978",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "貿澤電子與Amphenol CDI宣布簽訂全球代理協議",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771222_D6B19KKD3KBFQW1G20LTP",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "大聯大世平攜Molex以小型化連接器破解車載空間與高電流設計挑戰",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771171_Q5L0KG9O8BF2D90UBEYNE",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "微軟2奈米ASIC終出爐！　「四大天王」到齊引爆2027供應鏈動能",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771185_9SM0RNEO9AB11J4VOGIFT",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "南亞科LTA產能覆蓋率上看7成　屏東3D IC封測廠2028年下半投片",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771158_K462HUS04J89YY9C3ATGO",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "國科會廢除KPI制度　期勉學界投入低成功率研究",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771135_7UY0ZGCZ4MOI2Q4F268QA",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "台韓晶圓代工3Q26兩樣情　三星非記憶體業務估吞2兆韓元虧損",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771120_K410G27G3I2L8PL89XOI7",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "High-NA EUV接班人浮現　ASML Hyper NA挑戰5奈米單次曝光",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771091_MAVLX3KBL1P4O60U76GU3",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Lumentum喊AI光通訊嚴重供不應求　台廠3Q26營收報佳音",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771197_38001XRFLX33BX6FEMIIV",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "【漫圖秒懂】Musk排除台積電主導Terafab可能　英特爾14A合作不變",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770983_JO18ZT6N94QPHF2D9OIMH",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "FCC加速釋放頻譜　SpaceX、亞馬遜搶攻直連手機市場",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770963_I0VLREI85DQ8694Y352OP",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "記憶體3D的航程：技術的變革",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771177_XRD0MHYI8GE3P56PDLN07",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "飛機租賃商Avolon下單250架客機　波音與空巴瓜分大單",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771218_AA830OJJ05AX0596JELDS",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Claude測試又出包　白宮要求業者強制通報AI安全事件",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771182_7I82KN4L7Z7H0P3C6JDVE",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "日本新創Axelspace GRUS-3星座受挫　商業服務延後、2026年度財測下修",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770911_RBQLLA9E062QUQ20B5T3B",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "思特威募資人民幣32億元　車用CIS與機器人視覺成布局重點",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771121_ZIA2AUG11GD4JL2BIY23P",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "算力樞紐面臨供電挑戰　台灣綠電與電網調度尋新解方",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771221_H3B1E3S03ASMVV0O6NAG8",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "大進機械重整掀斷供隱憂　LGES傳調整ESS設備供應鏈",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771168_ING0B8CZ74Q4057NXBDT0",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "SpaceX布局D2D市場　監管門檻、電信商競爭挑戰在前",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771154_7182ZJCO4UNC015J8Q0M9",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "歐洲2026國防新創吸金破紀錄　美國資金助推無人機熱潮",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771000_WA91Y61MLCQEN31ID18D9",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "日本資安法規分階段上路　富士通、日立與NEC擴大資安布局",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771098_UAS1O4ZL83PV2G9FFEMVQ",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Trump Mobile遭駭客攻擊　3,615名用戶個資陷外洩危機",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771022_4J61G7QE1NDAYM3OOWKSW",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "美國暫停8家科技業者綠卡認證　Vance點名微軟、印度批其措辭",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771183_5O52EXYK7HPJAA4QHL8PJ",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "【Amy & Dr. Chip】AI會做事了　Anthropic傷腦筋出事誰背鍋",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770851_VP17KJF66IWX0305J8N8B",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "結構性挑戰未解　台面板廠跨足半導體成生存之戰",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771133_0R005MFM4P6D9Q2K71OVY",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "全球PC 3Q26出貨暴跌逾2成　庫存壓力與需求疲弱雙面夾擊",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771188_BNG02VIM9NA2YX7SVUOJU",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "全國電子不拚展店密度　DC大坪數店突破80間、強化數位會員經營",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771134_Z5K2ZJ972F7JUI5B9MFXN",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "【漫圖秒懂】Meta Muse讀光你的私訊　蘋果強化Mac存取控制",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770864_S8477CTU7P279Z3XS8AON",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "【動物農莊】Rapidus推出IC設計支援聯盟　助客戶加速2奈米晶片設計",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770701_75K8K1SPLBGN1U2NZDY8V",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI產能排擠拉長電容、電阻交期　台廠醞釀下一波漲價",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771165_V6U0VYLN7LQW8M4MG2RDY",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "iPhone 18新機點火　電信三雄9月營收獲利齊揚",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771174_4JJ24EHN69S7ZX50V8RX8",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "專訪新加坡政府CAIO何瑞敏（上）　如何看待新加坡AI國家戰略大方向？",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771204_3CT13TZL1W5X9N3WYI2DH",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "總統盼爭取諾貝爾獎　中研院院長指「無用之用」是關鍵",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771138_SIC2Q6DU28U8ZX9O70D5N",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "看準800萬輛市場　車麗屋拚全台最大一站式汽車服務平台",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771178_B8I0KXIF8O4RP57074X0N",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "傳產管理仍仰賴Excel　韓AI平台新創Hamada Labs瞄準台日製造業商機",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770855_Z1W950XE4BQIVL6913RE2",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "崔泰源上海喊話加速建廠　SK集團設AI研發中心深化在地布局",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771111_NM20LL9W22HTK30HQFW1E",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "玻璃基板TGV需求升溫　南韓YMT電鍍產能拚增至5倍",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771006_OS7107UGLKZBRK79THZRH",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "車市疲軟改押手機　華為砸重金拚自研晶片與作業系統",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771192_X7M2JG9O8W38E6329TR4V",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "歐洲AI自主遇考驗　本土搜尋引擎棄Mistral改用中國開源AI",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771003_N5X1P3C7LO8YE54RVGSOR",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "科技一分鐘：永久勞工認證（PERM）",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771236_V6J36UZA2NFI6T7M38GP3",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Starlink印度商業服務卡關　Elon Musk指責富豪Ambani從中作梗",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771161_VRG0OZZB7TCLJ50RIJ3EK",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "香港機場海陸空聯運衝大灣區　JAL鐵空接軌謀創物流新局",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770993_0R4LS5WB8KYF8M4M0UTAM",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "問界欲攻歐洲、尊界陷煞車零組件爭議　華為車面臨品牌考驗",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771099_N6QLLN1PL7GXL68U44R2U",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "科技1分鐘：光行有損，增益有方——半導體光放大器SOA",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771175_R2606RA58MKKFO40QLEE9",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "辨識AI偽造",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771176_54W2DT9G68W9U17TSSVD4",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI載板材料缺貨壓力趨緩　高階製程設備成下一擴產瓶頸",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771187_ZRW0HDSD9KX5L66GLGH40",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "借殼在地化瀕最後期限　中系車廠攻歐的三道隱形門檻",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771123_YUE0PF4P3EKCDM2PTKG40",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "富士通籌設新墨西哥州量子中心　瞄準HPC、AI混合運算",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771129_C8E2BHMY1L07VVL483R3K",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "國際CSP找上門　台塑新智能憑麥寮電力優勢跨足AIDC",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771157_V7F0IPUK6EHEDL6BW1C0B",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "【Amy & Dr. Chip】記憶體牛市要熄火？　關鍵其實是「能賺多久」",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770752_4QM85S2T43FY4Q33FBIYG",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "SpaceX收購800MHz頻譜　Starlink從天上打到地面挑戰美電信三雄",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771127_PIL0NTOR3NOUAX6CHKQ6G",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "SDC重啟A7布局　業界看好IT OLED勝過手機面板",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770691_ZIV7073R8Q70P722PUB9R",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "傳台積電出資「包電廠」　台電：仍屬概念性討論",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771156_Q030O8IV6LR9SL5S9W7EH",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "科技1分鐘：電鍍與整平劑（Leveler）運用",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771189_ZCX2NRFN7W4GL1LQMCBJE",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Anduril拿下18億美元合約　NGC2指揮網路挺進美軍太平洋部署",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771201_SUT3DH8LLJS4KR2VY56DL",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "科技1分鐘：違反美國337條款，會發生什麼事？",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771146_PH72TTQY3FSQI37XA79TI",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "理工人才湧入求職「舒適圈」　台大校長呼籲勿忘大學使命",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771137_ON42FN6P2MEZ7M8AYMOK4",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "【漫圖秒懂】蘋果搶攻智慧家庭　傳聯手樂金推門鎖、門鈴與恆溫器",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771008_XMLLFYLR1ZCKLG7CP7PEA",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "亞馬遜新平板告別Fire OS　導入Google Play迎戰iPad",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771208_RSI1BKU519EIV77NXA126",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "歐盟祭進口限量令逼在地化　中國車廠加速設置歐洲生產線",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771139_X8S2MTGL2ZP925LN73Q10",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "中國無人車搶進夜間物流，京東「白天配送、夜間補貨」單車營運成本降 2 成",
+      "url": "https://techorange.com/2026/10/12/china-s-delivery-robots-learning-tackle-night-shift/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "ASML 下一代 Hyper NA 瞄準 5 奈米解析度，EUV 技術還有多少微縮空間？",
+      "url": "https://techorange.com/2026/10/12/asml-zeiss-hyper-na-euv/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "當 AI 風險從幻覺轉為做錯事，TeamT5 剖析企業防線：治理先從「看得到」開始",
+      "url": "https://techorange.com/2026/10/12/teamt5-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+      "tier": 2,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
