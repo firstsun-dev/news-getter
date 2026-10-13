@@ -1,33 +1,16 @@
 {
   "meta": {
-    "timestamp": "2026-10-12 21-10",
-    "generated": "2026-10-12 21:18 UTC",
+    "timestamp": "2026-10-13 06-29",
+    "generated": "2026-10-13 06:39 UTC",
     "deep_count": 0,
-    "watch_count": 268,
-    "cat_count": 10
+    "watch_count": 276,
+    "cat_count": 7
   },
   "categories": [
     {
-      "name": "AI",
-      "anchor": "AI",
-      "archive_url": "./history/2026-10-12_21-10/index.html#AI",
-      "stories": [],
-      "watchlist": [
-        {
-          "title": "This AI factory builds tiny machines from code",
-          "url": "https://therundownai.beehiiv.com/p/this-ai-factory-builds-tiny-machines-from-code",
-          "tier": 3,
-          "seen_count": 1
-        }
-      ],
-      "no_signal": true,
-      "deep_count": 0,
-      "watch_count": 1
-    },
-    {
       "name": "Economics",
       "anchor": "Economics",
-      "archive_url": "./history/2026-10-12_21-10/index.html#Economics",
+      "archive_url": "./history/2026-10-13_06-29/index.html#Economics",
       "stories": [],
       "watchlist": [
         {
@@ -44,9 +27,69 @@
     {
       "name": "Finance",
       "anchor": "Finance",
-      "archive_url": "./history/2026-10-12_21-10/index.html#Finance",
+      "archive_url": "./history/2026-10-13_06-29/index.html#Finance",
       "stories": [],
       "watchlist": [
+        {
+          "title": "Romania’s inflation rises to 6.61% in September",
+          "url": "https://www.investing.com/news/economic-indicators/romanias-inflation-rises-to-661-in-september-93CH-4945503",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Philippines central bank forecasts 2026 current account deficit",
+          "url": "https://www.investing.com/news/economic-indicators/philippines-central-bank-forecasts-2026-current-account-deficit-93CH-4945511",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Japan PPI unexpectedly eases in Sept on stronger yen, cooling oil",
+          "url": "https://www.investing.com/news/economic-indicators/japan-ppi-unexpectedly-eases-in-sept-on-stronger-yen-cooling-oil-4945260",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "UK shoppers stay cautious as fuel costs bite, surveys show",
+          "url": "https://www.investing.com/news/economic-indicators/uk-shoppers-stay-cautious-as-fuel-costs-bite-surveys-show-4945255",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Oil falls as Russia diesel supply prospects counter Gulf supply risks",
+          "url": "https://www.investing.com/news/commodities-news/oil-ticks-lower-as-russia-diesel-supply-prospects-counter-gulf-supply-risks-4945271",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Gold rebounds as dollar retreats, Middle East tensions sustain inflation concerns",
+          "url": "https://www.investing.com/news/commodities-news/gold-slips-near-4160-as-middle-east-tensions-fuel-ratehike-concerns-4945298",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Saudi warning system stayed silent before deadly airport attacks",
+          "url": "https://www.investing.com/news/commodities-news/saudi-warning-system-stayed-silent-before-deadly-airport-attacks-4945258",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Russia says its diesel exports may exceed volumes announced by Trump",
+          "url": "https://www.investing.com/news/commodities-news/russia-says-its-diesel-exports-may-exceed-volumes-announced-by-trump-4945250",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Oil prices fall over 1% as Russia flags more diesel exports",
+          "url": "https://www.investing.com/news/commodities-news/oil-prices-fall-slightly-as-russia-flags-more-diesel-exports-4945270",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Gold prices muted amid firmer dollar and rising oil, ahead of CPI this week",
+          "url": "https://www.investing.com/news/commodities-news/gold-edges-higher-near-4200-as-traders-weigh-energy-truce-mideast-risks-4942969",
+          "tier": 2,
+          "seen_count": 1
+        },
         {
           "title": "Oil gains as deadly attack on Saudi airport outweighs Trump’s Russia diesel deal",
           "url": "https://www.investing.com/news/commodities-news/oil-prices-dip-after-trump-announces-russiaukraine-energy-ceasefire-4942934",
@@ -60,8 +103,14 @@
           "seen_count": 1
         },
         {
-          "title": "Six reasons Democrats may fall short of a midterm landslide in November",
-          "url": "https://www.investing.com/news/economic-indicators/six-reasons-democrats-may-fall-short-of-a-midterm-landslide-in-november-4943740",
+          "title": "Copper stalls at $6.80 resistance after Fibonacci bounce: Live",
+          "url": "https://www.investing.com/news/commodities-news/copper-pinned-at-673-fib-level-amid-breakout-risk-live-levels-93CH-4943296",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Chip stocks slide in wake of ‘casino’ comment by Broadcom boss",
+          "url": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
           "tier": 2,
           "seen_count": 1
         },
@@ -72,44 +121,44 @@
           "seen_count": 1
         },
         {
-          "title": "London Gas Oil nears H&S breakdown at $1,360: Live levels",
-          "url": "https://www.investing.com/news/commodities-news/london-gas-oil-tests-200sma-support-after-double-top-live-93CH-4943301",
+          "title": "China gets spiky on currencies",
+          "url": "https://www.ft.com/content/27be530d-2faf-43ce-874f-0e6e0802bee2?syn-25a6b1a6=1",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Copper stalls at $6.80 resistance after Fibonacci bounce: Live",
-          "url": "https://www.investing.com/news/commodities-news/copper-pinned-at-673-fib-level-amid-breakout-risk-live-levels-93CH-4943296",
+          "title": "Investors brave US Treasury rout to lock in highest yields in decades",
+          "url": "https://www.ft.com/content/6fa735a2-a590-4461-b092-920ba489e7a8?syn-25a6b1a6=1",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Crude Oil WTI tests $94.33 resistance in weak-trend trap: Live",
-          "url": "https://www.investing.com/news/commodities-news/crude-oil-wti-stuck-in-tight-range-near-91-live-levels-93CH-4943297",
+          "title": "Rising Treasury bill issuance puts pressure on short-term rates",
+          "url": "https://www.ft.com/content/f5ca22c7-8340-4189-8c40-224a1e16c5ef",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Silver consolidates in bearish flag near $60.42: Live levels",
-          "url": "https://www.investing.com/news/commodities-news/silver-tests-61706220-resistance-in-macro-downtrend-live-levels-93CH-4943300",
+          "title": "UK chances of keeping £3.8bn bitcoin haul rise after High Court ruling",
+          "url": "https://www.ft.com/content/bbe24952-d66f-480e-b0a8-94339d75bc48?syn-25a6b1a6=1",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Brent Oil stalls below $107-108 resistance: Live levels",
-          "url": "https://www.investing.com/news/commodities-news/brent-oil-stuck-in-1025010600-range-live-levels-93CH-4943298",
+          "title": "Sulphur scramble poses fresh threat to global food prices",
+          "url": "https://www.ft.com/content/e4ad9ed5-76e0-435c-a46f-6fe53ab1cedf?syn-25a6b1a6=1",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Gold trapped in $4,150-$4,250 range near $4,190: Live levels",
-          "url": "https://www.investing.com/news/commodities-news/gold-rejects-at-4245-resistance-on-5h-chart-live-levels-93CH-4943295",
+          "title": "Biotech start-ups turn to reverse mergers to fast-track listings",
+          "url": "https://www.ft.com/content/987c9d16-f77c-4307-a9a8-66d67da5f658?syn-25a6b1a6=1",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "European wheat futures rise as Algeria issues purchase tender",
-          "url": "https://www.investing.com/news/commodities-news/european-wheat-futures-rise-as-algeria-issues-purchase-tender-93CH-4945066",
+          "title": "France to raise stake in struggling miner Eramet",
+          "url": "https://www.ft.com/content/4d84b98b-bdbe-4e1c-a0b8-4dd0c814927b?syn-25a6b1a6=1",
           "tier": 2,
           "seen_count": 1
         },
@@ -130,33 +179,33 @@
           "url": "https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b?syn-25a6b1a6=1",
           "tier": 2,
           "seen_count": 1
-        },
-        {
-          "title": "Private equity puts string of UK high street names up for sale",
-          "url": "https://www.ft.com/content/48b8c4ce-b2bf-44e2-badf-8159a9d664e4?syn-25a6b1a6=1",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "FirstFT: Diesel prices slip after Trump announces ‘energy ceasefire’",
-          "url": "https://www.ft.com/content/7dc561ba-a386-479d-9633-9209b76b1812?syn-25a6b1a6=1",
-          "tier": 2,
-          "seen_count": 1
         }
       ],
       "no_signal": true,
       "deep_count": 0,
-      "watch_count": 16
+      "watch_count": 25
     },
     {
       "name": "Global",
       "anchor": "Global",
-      "archive_url": "./history/2026-10-12_21-10/index.html#Global",
+      "archive_url": "./history/2026-10-13_06-29/index.html#Global",
       "stories": [],
       "watchlist": [
         {
-          "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-          "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+          "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Breaking Bad actor RJ Mitte dies aged 34",
+          "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "One dead and several hurt after rollercoaster incident at Six Flags",
+          "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
@@ -167,8 +216,20 @@
           "seen_count": 1
         },
         {
-          "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-          "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+          "title": "The island where locals say data centres are taking their water",
+          "url": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Watch: US man eyes pumpkin world record after fifth contest win",
+          "url": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&at_campaign=rss",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
@@ -179,32 +240,38 @@
           "seen_count": 1
         },
         {
+          "title": "Immigration agents search congresswoman Ilhan Omar's home",
+          "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
           "title": "Fridges in French supermarkets hit by cyber attack",
           "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-          "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+          "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+          "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Thousands march to Indian Supreme Court to demand election chief resign",
-          "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+          "title": "Qantas flight grounded after bedbug outbreak",
+          "url": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Tom Cruise film Digger forecast to become one of Hollywood's biggest flops",
-          "url": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
+          "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+          "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "US detains man accused in multi-billion Venezuelan money laundering scheme",
-          "url": "https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss",
+          "title": "Boardroom feud tests trusted Indian business empire",
+          "url": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
@@ -215,20 +282,20 @@
           "seen_count": 1
         },
         {
-          "title": "Women's billion-dollar boom leaves players behind, says Fifpro",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo?at_medium=RSS&at_campaign=rss",
+          "title": "Where the US midterm elections will be won and lost",
+          "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Why the US is bringing back firing squads",
-          "url": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
+          "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
+          "url": "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-          "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
+          "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
@@ -239,25 +306,25 @@
           "seen_count": 1
         },
         {
-          "title": "Why is it so hard to fight the Houthis?",
-          "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
+          "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
+          "url": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         }
       ],
       "no_signal": true,
       "deep_count": 0,
-      "watch_count": 15
+      "watch_count": 20
     },
     {
       "name": "Investments",
       "anchor": "Investments",
-      "archive_url": "./history/2026-10-12_21-10/index.html#Investments",
+      "archive_url": "./history/2026-10-13_06-29/index.html#Investments",
       "stories": [],
       "watchlist": [
         {
-          "title": "Forget the Rest of the Market: Why Berkshire Hathaway Is My #1 Stock Pick - 24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSnVWd2t5WENTUkJTMHlzUHJxLWZFNUtrX0tROG9sTXNORGJsM29XVVU3bDh6OXlvUWRRMkNCaTl2a2JIZmxfak5Qc3JnLXE0NkNTdHYwZHpsRHNnTGZ4UW1UQ0FjTG1qcnVUYW83bXlPdlNJQTlVUERFeGNUOFl3X05rOEpySGZsZFp1OWhWMmtoaXJic29RUXFUejYtZy13WVJ0eXBjZV91V1BfOWVDZXNkTmZEUQ?oc=5",
+          "title": "Warren Buffett Bought This Magnificent Artificial Intelligence (AI) Stock a Year Ago. Here's Why It's Still a Buy Today. - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdlpRZ2kyazdNYi1HNzVmMWRabFlRVUNHb28yOEphakthbjdmdXctZjRVVG40TEZuN2lOMUgtRUdCY0pfeGhKVjAxNjIyQWZTbWZnOUdGd2p2OWhQUVdWQ3R3QUlnTXF4OThxdmU5S3JMQ3MwTDFYRkt4c2hnRVdaTkVPVkpBNDhMeF9ZNWk4UFlHSTFMRDd1MnU3N0pYcTFjMkV6SEZEcjEtRkk0?oc=5",
           "tier": 4,
           "seen_count": 1
         },
@@ -268,32 +335,8 @@
           "seen_count": 1
         },
         {
-          "title": "Warren Buffett Bought This Magnificent Artificial Intelligence (AI) Stock a Year Ago. Here's Why It's Still a Buy Today. - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdlpRZ2kyazdNYi1HNzVmMWRabFlRVUNHb28yOEphakthbjdmdXctZjRVVG40TEZuN2lOMUgtRUdCY0pfeGhKVjAxNjIyQWZTbWZnOUdGd2p2OWhQUVdWQ3R3QUlnTXF4OThxdmU5S3JMQ3MwTDFYRkt4c2hnRVdaTkVPVkpBNDhMeF9ZNWk4UFlHSTFMRDd1MnU3N0pYcTFjMkV6SEZEcjEtRkk0?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Berkshire Hathaway-owned NetJets to build new private terminal, hangar at Dallas Love Field - The Business Journals",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS2tlNllfOXh0U2t0aXFwMUFsS3pDb19TWGRPbURUbGtuZ1llOVcybkVpV2tKZUJ5TmV1Z1JlVGRhWTk3ZjVOdkVZUFNHWHNwN2lIZ1hMRzZiWFlyY2czem9OY2h4N29CSXkyVkFoVnVDZVRPQkV1dnk1S2FJVlVPZWhNSUxwbHNpaVRxUElORkZEWWs0?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Kelly Silver Assumes Dual Role as Chief Marketing Officer of Berkshire Hathaway HomeServices New England, New York, and Hudson Valley Properties and Berkshire Hathaway HomeServices Georgia Properties - Voice of Alexandria",
-          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPdFoyelFMOEt1akdYRE9lRWlRX1dybkdPYUlWdzFZaHlOb0c1em9yOGh5b1B4ZU13TFBiODVUbzdIRlhCUDZOVXNpajVuMWxRYnNFRlV1Wi1BQUM5Uk1ldUxyMTEzekFWZnlTRmRpQ2hHTGZ3NWNja1BNYWYwYXdxUVFiQnM1NUhuOWtTM0FPLV94Z3l1VHR3RTBzYUd2MTNVYTd6ZGVQLWNmdVVYVDJNTXpmaEh1QndHUUl1bnpqV1NmQjZ0cXFOSHExZkNiTU1MbkVCdGFlXzdUZUlzSHpvbG5kRHFsSTc1N2xNSnJfM3pKSTQyRDZMQ2kzX250RF8yWjNRcWo1b0FYb0lpMTRKUks0Y2tUZlU4YzI1aTUtWGRUMExCS3M4c3VKQXk5Y1VtTU1SQlVzTVo1UmN2?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
           "title": "Kelly Silver Assumes Dual Role as Chief Marketing Officer for Two BHHS Regional Giants - RISMedia",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnBuelZXZGNQd2U1cTA2T1BGcHZ0U2o4cnZ5eHhWeGVsbnZacFlQWGN5Y3VNazVaYXVyQ1k4MWJFTzU4U0dsODRHaTBncmNiLXFIS0NScDRER0l0VElIbzFZZkdrQlp3cVJKQWJrbENKeFRRQWlobk9UZmM1VmJiS28tSWNVaDE2MUhIQ1pFWkJPY1NfTHBQQ1BWOGE?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Berkshire Hathaway Maryland Cove Point LNG plant on track to exit outage, LSEG data - marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNjdVR3FsQzRtQS1EQ01jSUtSNVRIS2FqVVRRUUdrRENtdWpYUGVKOWZwaEhmYWc3WmpFTWJqbGJxMUFYckxxa1JUU1laNEwyX2RDU3pfN2tXUVMzTzV5RFZwYWhrVXR6S2dHQ25OWDJkY1ZTZTVvTTU2TlBNX1h6eFNxaEdCaF9xUXQxb3dBN0Z3cGRXa2FXekNyb21raUZ4bHM3Q25PaTU2VHBzcFNpTnVraVc2NEVNNXNfVWF1Yy0tSlpDYzU2azU2OVE5NzhB?oc=5",
           "tier": 4,
           "seen_count": 1
         },
@@ -304,110 +347,14 @@
           "seen_count": 1
         },
         {
-          "title": "Greg Noonan of Berkshire Hathaway HomeServices California Properties Presents Rare $21.5 Million Oceanfront Residence at North WindanSea - StreetInsider",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPb0pkZWFSdGo4SG9vVFdzbGNzUmRIekhLRXRLSDNKQzVyZE9LM0ZlTkk5MmltTVE3WmJVR0RWcU9iSWxNQ050alNWZnhuYnR5a1RSeXdxUHRKd05vOHJ3WjVXaWwtQ2NNV1FBc3RSc0N1czFTb3RTUmcxZkpzQXdZcUJCampqQnZJMDE1Y0F5aFFxZkdKRVNrN08xV01OX1ByWTh0QWNCTUN5bUJ5YWQ0MFc3ZnFQOHNIb21TODJXVWtHOHV6WVZhaldKZ25FTVhNVndlNzNOdGF4cGFDSnAzZTZEMnZVZmZMck9wUVRpcXFoalB0OThmSG5TZlloWHg1N3JXR053ZW1wNmhhczBJZUh5c25GamdGWDd3amptaVFhQQ?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Forget the Rest of the Market: Why Berkshire Hathaway Is My #1 Stock Pick - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWVdxY1Z0QkFtVzdUMWwzQzF0enhVV2lxckMyQzhISXFKT283SThrb3l1dGlSQ19ZcU8wRWFHWGxLNjY1elhiRUo2TENlb2ZoWUpqajZod3JyUm1wbE5aOFNIWVNBYk4yTnZfS3FveTF1TXRZWTZab2ZGRk9Sd3BRTEs1aklKMkppaDg1QVJhUUZuTWs1c2RtQmllbFhCUQ?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
           "title": "Warren Buffett Bought This Magnificent Artificial Intelligence (AI) Stock a Year Ago. Here's Why It's Still a Buy Today. - The Motley Fool",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSS1Mb0lpSGpEcWpOU1ZKd1RPQjJxeU9ZNjRxV2FkMk1TcE5EYm9WUDR3M3ZEQWlZa0dtVGxhUkJIU3pZX3ltQWktNXJGaE53UHBLRGs1cE16M01zZzI0Q3p4aTMxbElQZkE3VGZEcm5UdjczaE9fQmJfMV9RTkpIRC1KTDNKYmZmcFNtOWpIM2J6c0RhOXFF?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Warren Buffett Told His Wife's Trustee to Buy 1 Vanguard Fund. Here's What $300 a Month in It Becomes - 24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU092M2NVV1FQc3Y2SnpWaFdGbURmMlZteWItZjgtTXFGY3dkSElBSzFtNGdXVExDTU9abVhQdFBwMG1aVm9UakxMek5GOU5qcU1BQ01ldnllYmhjVy1MSmtCSnBhQkoxRHk0RGpUdFM5bjZEWEtDUG5kWnNiN05KQzlqa1JfN0FpZWhXd0Rfd2huX0pyWVlVT2lQX2drQ3FObmJ1X2E2d1hibjhoOUR0MHY1T1VYeDd6VGwwc2MyVHpyQ2RxLWdDS045MFNkUUZkR1hGalZBc3ZrV0VmMWVpX2VB?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Heed Warren Buffett's Advice: The Time to Be Fearful When Others Are Greedy Has Officially Arrived - The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX3d6Z0xGZUpPeThZb3VJZWtWcWVsaFlWOThfMUw5eGNqYkxlVU1hM1IxNkk0RW5zb3VjNloxcU9MZFJzb0tpQi04bEhVRUg0emE4cnd0anJKVTlYdlVhWGYyQWpyaGlSUUwtT2VpcUZNRXk2X1drU0dTWllxUEd4QmprdG90RkZnb3JQeXZOaWh6MWU1XzZQWU1fTThaZEt2VE9sSTVGVUVmdzlNQndwZnRvQlUzVTNGRVljMTRkcl8?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Heed Warren Buffett's Advice: The Time to Be Fearful When Others Are Greedy Has Officially Arrived - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVGRkWHNEd0MwNVhHSGFTeVVWaWJrb1lmUmttSWdjSlZoSFB0Q0dNV2dEaGp5R3Vxd0g3QkNubWxVTHhVM3BmQklYSFlaR0ZtdmIyNmFaX1ZZWjQ0eVBwSXZEX0xLYnJvVWhNMkxxbEc4TUhtVTJpVWJ3ejdKQmw4QkJnTXhqWjk2bzJsQUtocWRQNFUxZmc2VFhBNkViQQ?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "AI Bubble or Not, Warren Buffett Would Buy This Vanguard Index Fund - The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjd5cjZQYTJCNXlZaEQ2QjIwempZWnViOUFhUkRKY2dqRkhCc0lKblJxRUZLRVc4QVM0SzFkNnljTG9PeklPNFBvSXlwOGF1S0hLTTFDbU5VVnMydHUtWW45NmVoSE9BRldYLVg0YUxKNXhYNllmTXdIcUdtUzRZVkdRM0RRUUJia0lkNjI5Vkxxa3B3RV9zWg?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "The 6 Words From Buffett's Farewell Letter Every Investor Should Hear - The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSVBDQm1Yb2FSU0QyOE1uTEpFVVU1dWhXWThiU0JFYy0yRXUxRTVaOC1MblIybDVvc2JwR0dPZHNmYmhNZjYwRVR0Qnlvcnd6MUk5Q2FVb2FmN0V1bkNwaE04WVA0a1VtSllzVmdUdDF4UUU1SmtzTDhyQ2lvbldzMkNkUkN1UWtUS0toZ2pfVXlydFEx?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Warren Buffett Bought This Magnificent Artificial Intelligence (AI) Stock a Year Ago. Here's Why It's Still a Buy Today. - The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPSnVnb2F2WkkyOUNuZm5Fc0lZNEE4T3N2UlRRWmh4Wjc2OUhqbV9yVlZnRUxibVJlbkZWUjdrNW5jRGNQaVh4RUxZQjU0OEZvbWpiazRSMDJkelduOXB6bEtZcjliaTRhTzU4UWNVNkNtanBHN3ZsdUNoNVllUFJUU3Fac0I2OEVNX1c4WGdGd250U281REktdEZYT0R2cUltcDZaa0tSaE5EV1M3TTUxd2h0RmNmQXNIYnJEc0JiZk1xelpXREZkOERRaF85blpxNERPdllXQkd5dlhDa2xsVVVvLTcza2FNQzFEaUxuNWhfTnJDeXp6SWliakpOTi1ITURNakVWak4xcWVDM3BBY3NjQTdEdm1YXy1UOXlaS1ZPWjhPME1UdjRR?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Kelly Silver Assumes Dual Role as Chief Marketing Officer of Berkshire Hathaway HomeServices New England, New York, and Hudson Valley Properties and Berkshire Hathaway HomeServices Georgia Properties - The Joplin Globe",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOUVdEWWtLcFp3Q292WlExVzJxSGJ3R1M4TXIxVVJHc3dFR1NzV3lkVTNNelI0VDZ5WXNDNHNBcWRzWVRMRmhPWUNFVTN1UHZGVkh3bHdJQVdSN2VOV3cyQVRjc1MtbVZwRHY0WUlteFJpbXZQRHVVc1M1MC1Ndk9EWmZIUjFHQ2NBMmM1a0pTcGdrOEN3eFlObG1aU0lLcEw5MERuNEJHSkZ5RjF1cG1iYTFmVldxM2dweEI1RVAzdVlXbHBadC1Uekp2OGxCc1AzUUxNOHBaVXdRLWxmVWR6dTgzRjAweXRRck1uUGN3YktiSWsxQ0JUbnltZEIwdmU5LUJIS01RVU1JM2J6SXZ2bDhzem1aVTEyWlJSMldobVhIZmU4b1NaUXZZLW5iSHQx?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "CA-BERKSHIRE-HATHAWAY - Black Hills Pioneer",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY18tOWRWaVkxSmpES2x3SXJFSXUtNEpVLU5xOUhxOE5BUmg5WmxkNUhhVXNEeTdXems2TnVRV3dtcU9VcEM4aXdxS1ZiWFh1eWplNnhTTUdocWhXR2hhRXY4UXVHd3NPTE5UdThPbXpZVm42WHJFaWFQV21BSlRGUV94UzcyQVVuMTM5OHRwSm9mOXpPVm12YTNrSjljVE1vUHhrWnZ3U2M1ZUFMRXc?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "AI Bubble or Not, Warren Buffett Would Buy This Vanguard Index Fund - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONl82WFVyMTBKNTFGbUZWVnRsellFY2x5VWU0MFp1eE9MTnpia2pnSE55Qi1xOTBRYU1lZWNNTVBYNWIwZzR4dGhsTHZ1X0Q1STRaTncyX2g4LWRVYTBSUFZzaThlbFp4b0d5SDYxWXA4Rk1HOG9OclJ0X1BHQXJDMmNEVHJPaFBqbXYwR2F2bTBLRVpCbkdZcQ?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "The 6 Words From Buffett's Farewell Letter Every Investor Should Hear - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ1J2TVN0SDk3YzBxLXhQRFhESnd1N3Vwd0E3WE56YTkwbHZuYm1MNExLTmNVSW5lb2FRbUFoUDRlOTZRNW1aaXhQb3pudkVCbmhIRkZDMXYxVlFLeFdCdzkxLU02cE4yZTA4NC1BS1cyWEJSOXdRVVo4UWRSZDd0MmR1Vk44UTMyRHFwVmo5ZnJLX0xnNnI3eG9rSUtNUQ?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Announcing the 2026 Chicago Agents’ Choice Awards finalists - Chicago Agent Magazine",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMHh2MlE1Rm9RYnFMdmp4QUhIOVhjTktyNnMwaWw0U0RTMTNiRFE1bnNKZ3E3NTU5aFE0NlBrUmRER1JsSFVvSUV6RVFiWjhpTGlVSVNWR1pDSUJjWG1odGk3YUJ6c2dCZnZMaTA2Zi1Ub0dNYmp4VW5uSzRDVGFVdGl3S1hjQUE?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Greg Noonan of Berkshire Hathaway HomeServices California Properties Presents Rare $21.5 Million Oceanfront Residence at North WindanSea - The Joplin Globe",
-          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOdkxrOFV0YmxDQl9UdHhpQ1dPVEVTMVZSXzBNUlJVaWZOQ2xZS09IZUU5anlnb19EV2x3R295bHpZdHNLWFpFc3pGbnhLYzJmOW9zQzY5YS1kZHVybDB6S2JtVlY3U0Jlc3hrcHlhUEFzNWI4VjdfRWlyOHNvUG9vWG9Rc0RBTV9iMl9HTk54Zk1oWDYzNUhzZnI0ekxseFVpVjZqM0lTc2hCbTR5ajltQlBzYlZpZlRMU21XaC16ck1Md3FmbVd1aFR5dTg4TWZMTXhscE15UHotOW5nMFNSU08tOWF2QlY1NnZRNUlGNUFBdGR1dlZLcmdMYUdBZHRTSzd3N1dzRE5jWVhxZTQ3NGpyNEVTYXhqLTZCX0trM29JMUtJZ05BNFFtb054QXNCdXByZ3hKeTlxTlNlWkw3eA?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Why Is Berkshire Hathaway (NYSE:BRK.B) Sliding as Its Board Formalizes Succession? - Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORzF4TC1GclFVTXZLdWwwU2laUmxQenVLQzlGRDhULXFleUd5LVQwdUxaaTZGMzZVSC1HLW8yYmtIQnhrODRiX0xOSEROdno5SWFXWi1CR1NQMW5Ob3QyanRNX2lQU1lESXFDVXN4R2d3b19DOTkxaW1qZmlsVWdseElYR2ZJbkJyWUNhdkNXTUpqZUpleDNLTDZ2ZnF3NnFYMVc5LXFHa25oWkpQZVBPejFZMG82cVNNTlhhWVpB?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "NetJets continues expansion of private jet terminals - Private Jet Card Comparisons",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT0g5OXJha2E0OUY4ZFcwVHQzNmpTbUJ4V0VDMXJSelN5ZXdkOTdxcEFRTnl0ZEpsTlpLWk9TX184ekV1dkktRTNVRXRKZTRtZjR4eGk3NlFWSVRPYUpUNkdUNlpyRE82MkV5V0NzaDRPSllGUzVLQ0NQWUJuTFZOemhvYzh6czBPQTR1SEk3OUFQOEFfcEpFXzQ4YjRQUHZSMy1EaA?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Why is Warren Buffett's S&P 500 ETF strategy relevant as AI stock valuations rise and bubble fears grow? | Hindustan Times - Hindustan Times",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNmR1UEQxR0NwbWgxTFdtZnhVeHVnQl9WSUhaYXJZTktNYkFoN2REXzlNLTZodklMUlI2YWdZYms0MTFjMWhLYmhaTWFoZjQtWWRGODNJeEVXRHN3ZHVxSzJ0d3F6S2ExZEpNLXlLYWp3UEw3dUlaNktiejctM3RDaDl5TWl1Q3UxM2EydFJBeGRwRTdlLTQ1c2JESWhJSi1VMFltNGR4cjh3c2JOOXZTbWY3cXJSeVlsVjBhWlVCMnU2SG0zNkhjb1Mwa1FRZk5BVVZmeUk5bXY0SHNRelRPbVVyVXp5a0p3Tlc5VlVrOXNLRHFOOF9IOHFqN0NHN2hiaGRr0gGIAkFVX3lxTE9HbHY2WXFSVUpZd0E2N3FfcUZHT0hTdDRSM3dmcGtKUmNPNHM5Sy1mMEFkQkJOOXRxZ2ctRkM5bFZWd2doNmtDUUNfQWRpajNLbkxzR2J1aGZqZWlKWEtTb2hFQll1dnRzM01nNkRsODFHSzl4bmppRUxLM3pkdWwwZFhrUTJ6aFFfdEJhNENqOGVHaHlVcm9ORXlLRThNUl90N0ZYNzVVcTY1dldYcnFTUi1QVzZNY3I0ZTU4N1pJY0o2cHJDcFpXUnpYcWhkNmRYR1cyQk9tZ1A5U3BpMFctT00xT1EwZXdYdS1KN1piRXZ3eVdYZ2dzZVpSamJUcHR1dnpKN2FZNQ?oc=5",
+          "title": "Berkshire Hathaway-owned NetJets to build new private terminal, hangar at Dallas Love Field - The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS2tlNllfOXh0U2t0aXFwMUFsS3pDb19TWGRPbURUbGtuZ1llOVcybkVpV2tKZUJ5TmV1Z1JlVGRhWTk3ZjVOdkVZUFNHWHNwN2lIZ1hMRzZiWFlyY2czem9OY2h4N29CSXkyVkFoVnVDZVRPQkV1dnk1S2FJVlVPZWhNSUxwbHNpaVRxUElORkZEWWs0?oc=5",
           "tier": 4,
           "seen_count": 1
         },
@@ -418,32 +365,14 @@
           "seen_count": 1
         },
         {
-          "title": "AI Bubble or Not, Warren Buffett Would Buy This Vanguard Index Fund - The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORlNHZk9ZVTc3OUY0ckI0SWROR3VPWmF5Sng1WTFESGEzX1lKTUZoVDFHQ1VoX1pic1l4alBGR2lrcmJkNktUaTRRWklLYWtuZ19HcFczRVZYSmVWQ3lOVUxBQWMwMTJlcFdjQW5vSW1uaUY1X1YyU0VKSzZGOVJwdi1GUVFhejVYZXBNUHFkTEtlNVZYd1U0T2o2MFU0V0YwTExuUTVWSUx6RlhINFBJaVYtODRfeWRISXVMaWJ0UlRQSUVDTlhFcm9qQl9jVjY0YkRWNWc3OVZnSDVXZWc?oc=5",
+          "title": "Warren Buffett became a millionaire at 32. What he advises youth trying to copy his success - The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOV01KbzJYMkRoU0ttM3Y1QmhyM3Nnbnk2OUF0a3haYll0bGxabUF6bktjU0NZVHEyWjJObGljbGVzWnJQNmdyTk5obmVDVzRjVmVIb1FoTEllYzcwYk1LdEV0Yk41RG5ucDM1OGtFMkJoOGtFdjFObi1zdUx1XzRyZWlpMjdLWnNxeUhfMGY3a1g4TDVhektmZk94cnUtR2tDVXVSUU0tcXdVWk1qN1dOcGhMa2Uxa0YzTEdpeFRLRlRhZ1ZrVWlQdmFIanBudVlnRENyeVl0d1gwcGxpT1RzbHZyUUEyN2FTVkJjdDBuMS1waEFHNU5Z0gH8AUFVX3lxTE9wRm5fT3AzaG5FbmY4Rm1VaWNZVUZOTHdnb3dfNEx2ZnRrRmJVbXdlRVhvazR2QVZzQzBnMmtGUE9EVm5rRnZTeUdEdGdLUGltaVF2T2xFVWdOaXoySnowWXc1ak02eFJpQTNFSG5oUTA4OFppVU5HSmo1ZW9EMVBvZERsRDBPT1BicEk4elpULUF3bVVaWGdWUmE5aDh6X0ZtR2tqMWkzR2dSXzFndUt1Z29yR2R1Z2hUa3hxbHZSTnAzLUQ2MVhZaVNuLVhGN1g5aWdZbnZwUlg1Yk9jWHhTSTZGS3JoZTFMT3VSbU0yX25IQW54TEluYm5ubw?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Berkshire Hathaway stock after-hours at EUR 463.78 - ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZFhJWTVycmFwRXBIYms4aVZBNGY1cnRnRVVPVm5GM29pVXFodG9ndGxNeGFWSjVkRWlHcUs1aHFEM2hHNEJ4aGtKVk9oQ01DelFiTlZSVmxrckZxNnhMWWhmS3dwRlY0bVpseUF6eXZMMjRtVEp6NGstU0VoWUZHUEdQakl6OGZoZlRRMGo3NkM2ZDVlSzFkYUtxZEdyZEdtbC1JejZsY2pWN2liNXc?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Warren Buffett’s investing wisdom: 5 money lessons from his 2004 shareholder letter - Livemint",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNajhNZFhrSFFYdHdNaWVGenMxWDFPVlYyQnBFNWlScjItUXlqNnU2TE95ZUh6ZU5qbklyUXRwbC1TMGFTbzhvUWhxeEdHTTJNSzAxb2FXRVIya0trX25uaGNNcXRyVHJlS1k3NUtkS1R4TUN0cjZfUFJTQ0dkcktyUUtfNXVObzRNUVQ3M3Z1QkltaTkwMXM3MXVtOGJLXzdQLTFON1E0Q3ZtLXBCTTlaRjkyU0hzMllvUFpDNDMtelR0ZVlHa1d0RkpxamZqT2llc3NfV3dtNEpsYUxFRGFhLTZ2dG7SAeoBQVVfeXFMTVN3bWJkM241ZEd4RkUwZmxiWUdIS0JCQ2hGTEhqaFVTRDhEdGRBcWs4dHhhUkhwR09UamtJUm1nRXFScEkxT2dkbEdac3lDY3hHdGxfMUxSbHFVMTU2dDVNWlJSWlBWY3A1alhOcE5JNTVKcTRIcC0zTUNidUpZeUhOYkVpRjdDNWY3LUpyR3FYbnktOUNQNWNFaHEtMmtfMUFxUThrRms0ZzctYTg5cHF5c2NZVGhZLTBiWC1ONGZBVW1oblNCNnpIalZZYk1adk1vbE8wazFMZzE4dFdtT2hhM1FQYnlWN0tB?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Financial Stocks To Keep An Eye On - October 12th - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVNqOFcyaS1Pc3l4YmJJZGdvbndralk4dDdsdW1aNklnbEZwTVNld0xvMG9lR1R5UE1pSGUwZE53cFZnSlZRa3FvYzRWX1QwQkpXaVg4bllISnlvb0JqMU1oUE9kSk9EemRYTDdnU2s2c1M0MDBGVTVYZlZ1U0RpVW5Sdnc2VHI2eEdtcmdYM0FMQ3FtOFFYYnRHeGtkUFF0c21ORENpSklZQQ?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Domino’s Pizza Q3 Preview: Buffett Bought the Stock, Successor Sold, Could Earnings Show Who Was Right? - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcENQOVpSMjR2T0NRQTJ4d0QtNG5nVWRDRXJadlUxQ0NEMmVQY3FzSTd2VHN1TW9VaXNxR2hvWWJyeHJpX3gxajRZREJ0Mmhob18xeWhGaklUb3d6Xzh2TDJxUmVyTWpyZVFib21uU29laVlMTU1uVVNELWM0ckt6NWRGVjJXUzhHVXlkRDcyN2h6UG1TY3JsT3VIUlNqdmdXUTY2N1dsVTkxekFlbUVaaXJ2RGZ4MEU4Q3J5WTQwSXJMbXNONlRzR0VzRlBuUlZXVEZxN2c2d3NWOFpyVlpybmFXQUJHdlNDUEtSYUVaUQ?oc=5",
+          "title": "Why is Warren Buffett's S&P 500 ETF strategy relevant as AI stock valuations rise and bubble fears grow? | Hindustan Times - Hindustan Times",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNmR1UEQxR0NwbWgxTFdtZnhVeHVnQl9WSUhaYXJZTktNYkFoN2REXzlNLTZodklMUlI2YWdZYms0MTFjMWhLYmhaTWFoZjQtWWRGODNJeEVXRHN3ZHVxSzJ0d3F6S2ExZEpNLXlLYWp3UEw3dUlaNktiejctM3RDaDl5TWl1Q3UxM2EydFJBeGRwRTdlLTQ1c2JESWhJSi1VMFltNGR4cjh3c2JOOXZTbWY3cXJSeVlsVjBhWlVCMnU2SG0zNkhjb1Mwa1FRZk5BVVZmeUk5bXY0SHNRelRPbVVyVXp5a0p3Tlc5VlVrOXNLRHFOOF9IOHFqN0NHN2hiaGRr0gGIAkFVX3lxTE9HbHY2WXFSVUpZd0E2N3FfcUZHT0hTdDRSM3dmcGtKUmNPNHM5Sy1mMEFkQkJOOXRxZ2ctRkM5bFZWd2doNmtDUUNfQWRpajNLbkxzR2J1aGZqZWlKWEtTb2hFQll1dnRzM01nNkRsODFHSzl4bmppRUxLM3pkdWwwZFhrUTJ6aFFfdEJhNENqOGVHaHlVcm9ORXlLRThNUl90N0ZYNzVVcTY1dldYcnFTUi1QVzZNY3I0ZTU4N1pJY0o2cHJDcFpXUnpYcWhkNmRYR1cyQk9tZ1A5U3BpMFctT00xT1EwZXdYdS1KN1piRXZ3eVdYZ2dzZVpSamJUcHR1dnpKN2FZNQ?oc=5",
           "tier": 4,
           "seen_count": 1
         },
@@ -456,37 +385,20 @@
       ],
       "no_signal": true,
       "deep_count": 0,
-      "watch_count": 33
-    },
-    {
-      "name": "Product/Growth",
-      "anchor": "Product-Growth",
-      "archive_url": "./history/2026-10-12_21-10/index.html#Product-Growth",
-      "stories": [],
-      "watchlist": [
-        {
-          "title": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
-          "tier": 3,
-          "seen_count": 1
-        },
-        {
-          "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
-          "url": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
-          "tier": 3,
-          "seen_count": 1
-        }
-      ],
-      "no_signal": true,
-      "deep_count": 0,
-      "watch_count": 2
+      "watch_count": 10
     },
     {
       "name": "Social Sentiment",
       "anchor": "Social-Sentiment",
-      "archive_url": "./history/2026-10-12_21-10/index.html#Social-Sentiment",
+      "archive_url": "./history/2026-10-13_06-29/index.html#Social-Sentiment",
       "stories": [],
       "watchlist": [
+        {
+          "title": "Mark Zuckerberg's new toy is a parasite. Please don't fall into his latest trap.",
+          "url": "https://www.reddit.com/r/technology/comments/1x4fhrc/mark_zuckerbergs_new_toy_is_a_parasite_please/",
+          "tier": 4,
+          "seen_count": 1
+        },
         {
           "title": "Hackers turn supermarket fridges up to 122 degrees forcing stores to throw away food",
           "url": "https://www.reddit.com/r/technology/comments/1x47k5w/hackers_turn_supermarket_fridges_up_to_122/",
@@ -494,20 +406,14 @@
           "seen_count": 1
         },
         {
-          "title": "Ukraine Struck Yandex Data Centers, Russian Bots Went Silent—Now Questions Are Mounting",
-          "url": "https://www.reddit.com/r/technology/comments/1x3ys2p/ukraine_struck_yandex_data_centers_russian_bots/",
+          "title": "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline",
+          "url": "https://www.reddit.com/r/technology/comments/1x4ief0/ukrainian_drone_strikes_on_yandex_datacenters/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "People are rejoicing about the removal of Russian bots from social media – but the truth is far more complicated",
-          "url": "https://www.reddit.com/r/technology/comments/1x41voo/people_are_rejoicing_about_the_removal_of_russian/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "AI researchers are taking up smoking because they expect AI to cure cancer, says Palantir CTO",
-          "url": "https://www.reddit.com/r/technology/comments/1x43wzs/ai_researchers_are_taking_up_smoking_because_they/",
+          "title": "Russian military takes out more Ukrainian data centers",
+          "url": "https://www.reddit.com/r/technology/comments/1x4ih7w/russian_military_takes_out_more_ukrainian_data/",
           "tier": 4,
           "seen_count": 1
         },
@@ -518,38 +424,8 @@
           "seen_count": 1
         },
         {
-          "title": "Developer who vibe-coded free Adobe clones reveals apps to take down Microsoft Office next — and says 'there is no reason to save broken software' | TechRadar",
-          "url": "https://www.reddit.com/r/technology/comments/1x42mel/developer_who_vibecoded_free_adobe_clones_reveals/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "All AI is ‘compromised’ and has fewer rules than milk, Microsoft bosses say",
-          "url": "https://www.reddit.com/r/technology/comments/1x3yi9v/all_ai_is_compromised_and_has_fewer_rules_than/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Zelensky Warns China Is Helping Russia Develop Starlink Rival",
-          "url": "https://www.reddit.com/r/technology/comments/1x48p61/zelensky_warns_china_is_helping_russia_develop/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "'Unprecedented' Cyberattack cripples supermarket fridges across Europe as hackers activate automatic defrosting — delivery and store prices also impacted by incident",
-          "url": "https://www.reddit.com/r/technology/comments/1x3zu6d/unprecedented_cyberattack_cripples_supermarket/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "An engineer built a Flock-like camera to detect police cars, says officers visited him afterward",
-          "url": "https://www.reddit.com/r/technology/comments/1x4127b/an_engineer_built_a_flocklike_camera_to_detect/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "AI is less regulated than milk, says Microsoft president",
-          "url": "https://www.reddit.com/r/technology/comments/1x41ev4/ai_is_less_regulated_than_milk_says_microsoft/",
+          "title": "Co-founders of Palantir and defense tech firm Anduril are defending “public and brutal” executions.",
+          "url": "https://www.reddit.com/r/technology/comments/1x4nvek/cofounders_of_palantir_and_defense_tech_firm/",
           "tier": 4,
           "seen_count": 1
         },
@@ -560,26 +436,26 @@
           "seen_count": 1
         },
         {
-          "title": "Console market craters as Xbox 2026 sales crash 33% to the lowest since launch 25 years ago, PS5 2026 sales drop 25% — steep price hikes push Series X to $800 and PS5 Pro to $900",
-          "url": "https://www.reddit.com/r/technology/comments/1x3ve2q/console_market_craters_as_xbox_2026_sales_crash/",
+          "title": "Zelensky Warns China Is Helping Russia Develop Starlink Rival",
+          "url": "https://www.reddit.com/r/technology/comments/1x48p61/zelensky_warns_china_is_helping_russia_develop/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Gas vehicles fall under 50% of global new-auto sales for first time",
-          "url": "https://www.reddit.com/r/technology/comments/1x46r7t/gas_vehicles_fall_under_50_of_global_newauto/",
+          "title": "A New 'Super Ice' Is 10 Times Stronger, Bringing It Close to The Strength of Concrete",
+          "url": "https://www.reddit.com/r/technology/comments/1x4jv1u/a_new_super_ice_is_10_times_stronger_bringing_it/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Microsoft confirms its upcoming Edge feature collects user data but not for spying",
-          "url": "https://www.reddit.com/r/technology/comments/1x48q7d/microsoft_confirms_its_upcoming_edge_feature/",
+          "title": "Mark Zuckerberg says Meta has reached AI 'frontier' and rejects calls for slowdown",
+          "url": "https://www.reddit.com/r/technology/comments/1x4e6kt/mark_zuckerberg_says_meta_has_reached_ai_frontier/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Police are using AI to locate homes from a single interior photo, and even a picture of a washing machine can be enough",
-          "url": "https://www.reddit.com/r/technology/comments/1x45g9g/police_are_using_ai_to_locate_homes_from_a_single/",
+          "title": "Apple trails Samsung as global smartphone shipments hit a 13-year low",
+          "url": "https://www.reddit.com/r/technology/comments/1x4gs00/apple_trails_samsung_as_global_smartphone/",
           "tier": 4,
           "seen_count": 1
         },
@@ -590,14 +466,26 @@
           "seen_count": 1
         },
         {
-          "title": "Yandex Go down for 36 hours in Kazakhstan after drone hits Russian data center",
-          "url": "https://www.reddit.com/r/technology/comments/1x3wv5o/yandex_go_down_for_36_hours_in_kazakhstan_after/",
+          "title": "Police are using AI to locate homes from a single interior photo, and even a picture of a washing machine can be enough",
+          "url": "https://www.reddit.com/r/technology/comments/1x45g9g/police_are_using_ai_to_locate_homes_from_a_single/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Is The AI Boom Sustainable? The Debate Over Investment Returns, India's AI Future And Job Disruption Artificial Intelligence is attracting billions of dollars in global investments, but questions are emerging over the sustainability of the AI boom, the returns on i - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWFJvUTBHSUhjR0pZNG5fT3hCMEltUlBHT1VWQ0ZNSFhrRncwN3otY2NJY21YWGQ1aEk0bUZQMXhlZi0xQXpnaVVBN3FJOF9FazRIWk5hbEh6RmRoWUxNSWlteUJMYkZNY01VZUlJRzBlaEt2dU1weThHUDRya29RMnFsQTZveEwtY20tb1MxaTZhR1NrRF93akNHdVRuMUo2TWJzN0hzZU05QmxOX0JPTHJxaVVZQlJZcS1PWGVXQUJiOTZHR0FWZlZGdmVqSmlUaG9jVmc1WXNvaG8?oc=5",
+          "title": "Gas vehicles fall under 50% of global new-auto sales for first time",
+          "url": "https://www.reddit.com/r/technology/comments/1x46r7t/gas_vehicles_fall_under_50_of_global_newauto/",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "Hackers heat French supermarket fridges to 50C in large-scale cyber attack",
+          "url": "https://www.reddit.com/r/technology/comments/1x4f5ij/hackers_heat_french_supermarket_fridges_to_50c_in/",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "Microsoft confirms its upcoming Edge feature collects user data but not for spying",
+          "url": "https://www.reddit.com/r/technology/comments/1x48q7d/microsoft_confirms_its_upcoming_edge_feature/",
           "tier": 4,
           "seen_count": 1
         },
@@ -608,324 +496,271 @@
           "seen_count": 1
         },
         {
-          "title": "Asia’s remarkable economic rise was not an accident—it was the result of deliberate policy choices. But as the region faces demographic decline, artificial intelligence, and global fragmentation, leading policymakers warn that its future will depend on making e - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRGF5WExHTUVWOU9FQUllbDB1Vzh4OVE3SmgyX2NSVXJDeVBJdm1iaEdPeTlKUzdaeUZfaTZCdHRpcTJQMUdUS3d3YnNOenUyUmE2ZGV1LUNsSmJUbHZNSWpkTHM3WnJRZ0Y4SmwzeTYyNV9SUno4VkFKU3BFdTlTSndCTWEzR29ENmVKMm45MDZtclJ2bVlHajg4VlZBZlNQdF9IQXVyOV83cDlqVUF5bzFiUFEwSnVzLW1QcVk5V1NFRDNSSWtvNDZwTW1hbVlGQUdCeWVmaF9DWHVkRk1rMw?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Union Minister Piyush Goyal said India must embrace new-age technologies and train young people to use them effectively, rather than relying only on tools like ChatGPT. Speaking at Dilli Dialogue 2026, he stressed the need to improve efficiency and compet - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNXNJMXhYZkhKOHhidUhMbGZDWUxsNmE2T3pXcEJoamFYVV9kRDY3eWhOcWctVnVoS1lfdVFGV2J5ajFBbThmeXVPQnZFQk1vUVVyTGd4ei1na0VSYWRQUkxpVTg4MXNfRTRIUWR2NmgwZjVpUTNpc0FlUXl5LVRfNk5VdUFKWWlVWTBXWmRWX0V4MTBJV3pUWGNtTGpnelBhTDlOMFJfaE8xMjNEWFhVeUFVRGd0NXh1UnJXSHdmanBkR2NpYW5RX21MRVJzUmhYaXc0RG9HME44eGZtdkNpSQ?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
           "title": "OpenAI Bets Big on Dublin With 450 Jobs OpenAI is doubling down on Ireland, pledging 450 total roles and launching a new Applied AI Lab at its European headquarters in Dublin. The expansion comes as rivals pull back, with Meta and TikTok cutting jobs in - Facebook",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNUZjN1NmUzV4LVZPVi1rUWM5eWNFNUtTUjhKeVN2NEJCM1Utel92aHRBZEJkeXZQU3h0TDVGN28zaTJEcTNvWnJPUV9SN0IxdVJHc3RVVU9xdVMtSkk4OGVwUjc3bzh3V0p4c3M2NS00ZV9BNHF5RWpRZHRudm9VeUVtbUxiUk5fNkRPaFF0am1JT1lSdzVNdjlPR1dsaldMZWExcWVSYkpjdkxOWlRIN2p4WDJZQWtRNjdLOXcyc0J0RVFlanFXdjNYZDFBMGxvR0RhRlVmSQ?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "AI: 'A DEMAND SHOCK, INVESTMENT SHOCK' Strong investment in artificial intelligence (AI) infrastructure is helping sustain global economic growth at around 3%, benefiting many Asian economies that supply AI-related hardware, including Thailand, Intern - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNY2EyZ29IV2ZSU3gtdHRncWFlT0VPeUQzWEt2VmZVYU54VFU0dXlvTkZtd1NiY0F4ZVJpRUc1UHNoYkJtUnVrLVZNVTkzU1ZrdDhwTW9VcWRHS0VzRGZPVVlHS1RKRGxCS3FscjFfZTZOeU5rVWhPU3dSUjdPcVZVRTFXQnRGdHVoaG91WHVteUNxbEl2N1NvQl9UcWdGRWdTSzdSeWlpNlIyZGdETnlGZ05qcldwTGtIeEZUVllydzlMVEJTa1NyMHhlU0Y3UnMxX2gxbEdpc1ZaREt6SDFvbFEzSQ?oc=5",
+          "title": "OpenAI is doubling down on Dublin as Big Tech cuts jobs there: OpenAI is pledging 450 total jobs in Ireland and opening a new Applied AI Lab in Dublin — even as Meta and TikTok have been slashing roles in the same city. The move signals OpenAI's ambiti - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOXdXLUg1YlFST1NOQVdwUURBRThpWUVLVUUxdFZsMnppUWxQNjJDbHljM3B6eUNtTVJsVE9Kbm5aUVlMN3llVGs5djJNTkltNFI4WHQzX19oSzRUSkMzclJvM2VrV29kOHpfSXJaOU9yZDdOeXAxVkN2b1hfREtTeTNLbE94SktmZDhwU0hzNkU3VGxRWW5BMzkxcThIbXB1aTJveXRSTU9UN3llSGhEQkRLbDQ4ZXY5VnVjMEdtY0NDNWdTSzhfTFN0U2M0Tmduc3drbXpobw?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "The Nation Thailand. . World Bank and IMF back AI to create better jobs . Global economic leaders have called for practical artificial intelligence (AI) to create better jobs, boost productivity and support economic growth at the 2026 IMF–World Bank Annual Meet - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTXdzejFCUFZUcEZTVjZVRTFHSl9lUEZtRlRZR1MzeW1WSjZRR3laOVVGdTI5NlV5WGhpUUxjZVJDeUR4UjR4c21NZzlhazZyQWFtdGJVYmFLMkRzc0xVd2JLRjVZVnlUb3RNZVhiQ2l5cjN4QjBaZ0RjT3BZZ0tXSUdtMjNVbEZudEstMTV5T2w2eFdpa3lLeVE1T3pYNjFjZWNON256MmNyLXFpcmtCa1ZSLW9Za2pJdjJocVVOdFNGd2kxRzZCWUNMVFhLWjd6azNLUHdZSzU1T25HUWFlMjlrZw?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "IMF sees AI boom boosting Asian economic growth: Asia benefits from AI investment boom AI investment offsets pressure from energy supply shock Kripa Aryal has more with Rajni Kalra - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZzhuTzRQUDdnSXRHOHpNVnd4cHNaTDRqcDBSVnI4M0U1M1JSdkdzdHdSVElNZEZPV05OYkp1Vk9PNVRUVDd3TDJoNENFd2hIUGcyQmIxaTdQMGRtZzR3Y19jbFZHUU5mcEtjdUh0OGs1c3FEaS1hY1N3OW4tQl81WHltSXRvVHIzTHFGSy1Uc0ZqVi13dndISmVwX0ZXd2h6UkxqQTk4SVBRSmw4M2xVNGNaQ0JzRXg1S0RYVEZjVFpQRmltSlN0Qkp0d1FuNnN4LTE0?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Philippines and Singapore Push ASEAN’s Digital Economy AI Race With China and the US The Philippines is seeking to turn its 2026 ASEAN chairmanship into a foundation for deeper regional digital integration, with Singapore expected to drive implementati - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMTZXamJCQms2V2tjdmp5bVlKOTlUaC1mN3JqRUNNRmZiSUllbENQREZXTW1WZUVUU00xcHBHaTg4d25vV3VTRHFmN0dJSEM1Wm85cHZTWmp0UVI1b0htalVFZC1RdjJ3SVhKcGFSb0VUWEZuZGlxVnpQdUFhQ3pFWFRUUE9VeUVqYWdHdzVUTlVJOW9ZeXlhTjJoVmthbThTdHhuZ1RocWFhZVVGckdvQTd3RFkzdGZLZEdMUUhoR3YtbjRoTnd1OWlFaUJIN01STS1uU25RZVg2dWx3a1RHZmloSHM?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "World Bank says 'small AI' could generate enormous opportunities for developing countries - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRWNPQm5mVGhITE9uMUdpMkh6WDAtcVVBSzhuM2lJZUxqbjI4MXlFaW9QQjZLSkgydUhfSEpOaC1iVElKWTQ0YWxDaW1RWndlc2JUc2lJSi1Cd1RMSnljTFpHR0lSbTVaY3VtTWdKUEVYNXR0ZGhaWkppT3NtN1JzYWhWY2lHRjdZSjhibkN3MVZnVVgyVkw2cExfSlRMZnNQd1dadjlKVnktTGJkMUotc0tnSzhBYVNoTjZTMVZ6WjBGc3FxOHBIZmxVTWlWQXRjRGd2c2FYbVZOT0Z0dXc?oc=5",
+          "title": "OpenAI is doubling down on Dublin as Big Tech cuts jobs there OpenAI is pledging 450 total jobs in Ireland and opening a new Applied AI Lab in Dublin — even as Meta and TikTok have been slashing roles in the same city. The move signals OpenAI's ambitio - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOek4ycXJheU5fQThWUjQwS01qSlhsWVlVanFMQ1Jld1dUOVpSdWlaQWlsMEV4ZXppZnNHTVIzNE5fNnRrcWRqTTlERTFoRTNuS0NyYW90OEtBdEV6cFdSYkV6NWtWODNVRHduTUZoejA2WVZQSlg0Y21oMkhXU1lxUlVNV0ZBMmpyaUVhd2VRZzRXRnRYdC1KMXlLdUJQRXJVZ2hZVEpaWENnZERCQW5CYjBCSUg3MHpGN0Y3NWx4dG03ZzRTVFMwMTIwdVFLb0FCNEk5VWZVNA?oc=5",
           "tier": 4,
           "seen_count": 1
         }
       ],
       "no_signal": true,
       "deep_count": 0,
-      "watch_count": 28
-    },
-    {
-      "name": "Strategy",
-      "anchor": "Strategy",
-      "archive_url": "./history/2026-10-12_21-10/index.html#Strategy",
-      "stories": [],
-      "watchlist": [
-        {
-          "title": "Your Company Needs a Plan for the First 72 Hours After a Cyberattack",
-          "url": "http://feeds.harvardbusiness.org/2026/10/your-company-needs-a-plan-for-the-first-72-hours-after-a-cyberattack",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "Research: When Being Authentic Undermines Your Leadership",
-          "url": "http://feeds.harvardbusiness.org/2026/10/research-when-being-authentic-undermines-your-leadership",
-          "tier": 2,
-          "seen_count": 1
-        }
-      ],
-      "no_signal": true,
-      "deep_count": 0,
-      "watch_count": 2
+      "watch_count": 20
     },
     {
       "name": "TW News",
       "anchor": "TW-News",
-      "archive_url": "./history/2026-10-12_21-10/index.html#TW-News",
+      "archive_url": "./history/2026-10-13_06-29/index.html#TW-News",
       "stories": [],
       "watchlist": [
         {
-          "title": "俄烏和中東皆傳供應利空消息　國際油價走揚",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5604205",
+          "title": "沈伯洋抗認知戰經驗輸出日本！ 神戶自民黨團正式納入政策方針",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5604697",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "沙烏地首都機場延長關閉期限　航空業面臨嚴重衝擊",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5604204",
+          "title": "新北校園通APP擴大至幼兒園 一機整合聯絡簿、鮮奶兌換服務",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5604756",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Meta推AI模型Muse Wonder　稱能力媲美業界頂尖",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5604203",
+          "title": "一銀主辦承業生醫集團26.4億元  超額認貸1.3倍",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5604753",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "馬斯克砸3.66億美元挺共和黨　料成期中選舉最大金主",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5604201",
+          "title": "笑翻！徐巧芯被挖出曾狠酸蔣萬安 直說「我爸不是蔣孝嚴」",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604703",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "《TAIPEI TIMES》 US nonprofit designates Lala Mountain a dark sky site",
-          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5604148",
+          "title": "蔣萬安週四上黃國昌直播節目 黃國昌：平常心看待",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604736",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "《TAIPEI TIMES》 Taiwan condemns Beijing’s political coercion on diplomatic partners",
-          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5604147",
+          "title": "蕭景鴻身上只剩3塊錢怎麼辦？目標鎖定Toro 出奇招被笑翻",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5604751",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "《TAIPEI TIMES》 Taiwan closely monitoring China drills",
-          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5604149",
+          "title": "「台北大洋流」人潮照瘋傳微博！網拿周杰倫比較 認證「難造假」",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604683",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "《TAIPEI TIMES》 Six of new F-16s complete factory test",
-          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5604146",
+          "title": "黑面琵鷺來台南度冬了 2026保育季10/18日登場",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5604750",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "《TAIPEI TIMES》 Lin Yun-ju loses China Smash nailbiter",
-          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5604158",
+          "title": "67歲阿嬤開始在假日打工 背後原因讓老公兒子都愣住了",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5604242",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "《TAIPEI TIMES》 Taiwan to start exporting breeding cattle to Manila",
-          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5604157",
+          "title": "台積電營收成長再加速！外媒喊「最值得買進」理由全說了",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5604583",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "《TAIPEI TIMES》 Taiwan resumes processing visa applications for Moroccans",
-          "url": "https://news.ltn.com.tw/news/focus/breakingnews/5604150",
+          "title": "雷神「郊狼」改版用火箭動力 射程速度大幅提升專打高速無人機",
+          "url": "https://news.ltn.com.tw/news/def/breakingnews/5604734",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "拋棄狗血霸總劇情！中國官媒搶攻AI微短劇市場 「主旋律」洗腦再進化",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5604193",
+          "title": "澎湖扶輪之子獎助學金頒發  並分享勵志向上案例",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5604748",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "反嗆川普！青年運動警告美國勿介入葉門戰事 揚言痛擊美方區域利益",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5604197",
+          "title": "國民黨毒品議題抹黑沈伯洋還跨河點名她 蘇巧慧：民調顯示釀反效果",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604735",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "美期中選舉大灑幣！馬斯克捐逾2.76億美元 力保共和黨國會優勢",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5604188",
+          "title": "競選總部今開箱   賴瑞隆：選情瞬息萬變、會謹慎要衝刺",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604742",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "英相控革命衛隊策劃襲擊費爾福基地　伊朗官員否認",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5604196",
+          "title": "吳旭智提豆子埔溪ESG示範計畫 縣府將邀企業參與",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604714",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "美國民主黨眾議員歐瑪住家遭搜索　批川普政治恫嚇升級",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5604192",
+          "title": "小心老本被掏空！退休族6大浪費錢習慣曝光 很多人沒發現",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5604561",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "蔣萬安接著給黃國昌專訪 黃光芹嘆：飲鴆止渴",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604170",
+          "title": "LINE Premium再推6大新功能！通話錄製、無痕預覽將登場 上線時間曝光",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5604738",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "投資人樂觀看待企業財報季　歐洲股市收盤揚升",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5604186",
+          "title": "鄭朝方竹東競總成立感性演說 盼當返鄉青年為大家服務",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604725",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "為何沈伯洋幕僚無法當場決定10/31辯論？當天公開行程曝光！",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604121",
+          "title": "Suzuki Jimny 下一代研發中！日媒釋出更精緻外型 動力系統有望優化",
+          "url": "https://auto.ltn.com.tw/news/33150",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "未來30天「金水雙逆」拉警報！5星座狠賺一波 越亂越有錢",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5604162",
+          "title": "葉門叛軍炸到首都！ 沙國王儲驚傳在碉堡王宮間轉移「神隱6天」",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5604713",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "李登輝愛女曬洋流船員證力挺 沈伯洋曝阿輝伯1金句讓他每看必哭！",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604156",
+          "title": "彰市重陽敬老金「500變1000」差點吹了！ 公所鞠躬道歉後二讀過關",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5604720",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "網傳俄肺鼠疫蔓延中國多地 稱上海、重慶也淪陷 引發封城恐慌",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5604185",
+          "title": "「演奏吧！ 好土樂團」  10月31日在台中市葫蘆墩文化中心登場",
+          "url": "https://news.ltn.com.tw/news/art/breakingnews/5604573",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "桃園4年補助農業20億！桃園市農會、復興區農會同獲「金推獎」",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5604180",
+          "title": "手機愈來愈貴沒人買！全球出貨暴跌20%　創14年最慘紀錄",
+          "url": "https://3c.ltn.com.tw/news/67898",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "蛋黃區降價了？揭開「鄉鎮包圍城市」背後隱藏的房市真相！",
-          "url": "https://estate.ltn.com.tw/article/29024",
+          "title": "妻產後罹癌...金曲歌王結婚11年遇人生考驗「能不能到老都不知道」",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5604737",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "「妙蛙種子」台語竟然這樣念！ 「水獺媽媽巧巧話」番外篇腦洞大開",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604184",
+          "title": "藍委籲加速部落公法人落實「諮商同意權」 原民會：4部落試辦中、3年內有成果",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604712",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "美海軍擬部署低成本極音速飛彈防備台海衝突 對中國軍艦構成新挑戰",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5604178",
+          "title": "腸道發炎可能打破癌細胞休眠 研究：骨髓環境變化成關鍵",
+          "url": "https://health.ltn.com.tw/article/breakingnews/5604715",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "英軍基地疑淪恐攻目標 英相：極可能伊朗謀劃",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5604179",
+          "title": "勇擒捷運三鶯線持刀男！ 熱心民眾獲頒新北捷運終身免費卡",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5604721",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "蘇巧慧淡江大學演說 鼓勵青年參與城市發展",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604177",
+          "title": "韓職》韓華同日兩大動作！ 王彥程確定續留、柳志炫接掌兵符",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5604724",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "民眾黨險集體缺席江啟臣競總成立大會 江和樹大爆背後秘辛",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604175",
+          "title": "伙食費大砍7成！3寶媽揭超市購物5大地雷 買錯反而更花錢",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5604243",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "微軟推新一代AI晶片Maia 300 部分採台積電2奈米製程",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5604165",
+          "title": "8旬古董店老闆在家心臟衰竭惡化  醫院老年照護整合救了1命",
+          "url": "https://health.ltn.com.tw/article/breakingnews/5604711",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "桃園青年職涯計畫4年服務逾8000人 AI人才培育再升級",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5604174",
+          "title": "餐飲超商缺工嚴重籲開放移工 王令麟：台北先試辦",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5604709",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "盼了20年終於開通！平鎮車站正式啟用 新案2字頭搶客",
-          "url": "https://estate.ltn.com.tw/article/29021",
+          "title": "媽祖保佑！彰化身障男追媽祖失聯 警徹夜尋人揭暖心真相",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5604704",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "台灣媳婦突被日本兒子問起「沈伯洋」 還會用奶音喊「凍蒜」！",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604104",
+          "title": "劉建國拚雲林縣長 逾20個醫事團體組後援會高喊「凍蒜」力挺",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604705",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "賴清德恭喜中信兄弟挺進台灣大賽 謝謝統一獅奮戰到最後",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604164",
+          "title": "泛藍猛攻張淑娟案 蘇巧慧：我也被攻擊 對受傷的人「應該幫她走過這一段」",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604710",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "中職》關鍵戰敲雙安展現學長價值 詹子賢身兼「氣氛組」",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5604173",
+          "title": "去冰補滿要加價惹眾怒！星巴克推限時優惠滅火 網不買單：誰稀罕",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5604515",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "死神擦身過！基輔男子抬頭驚見俄無人機逼近 極速逃生影片曝光",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5604084",
+          "title": "台股大翻車！台積電領1347家下殺 指數收跌960點",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5604303",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "推動全面夥伴關係 李強通話紐西蘭總理：希望加快自貿協定談判",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5604132",
+          "title": "藍營質疑違法占用國有地辦造勢 黃世杰：事前依法申請",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604672",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "中職》統一獅今年球季結束 林岳平感謝球團給他長時間執教機會",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5604172",
+          "title": "出家人也酒駕！花蓮和尚撞車 稱天冷喝2杯取暖",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5604701",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "大鵬灣內外都能玩水上動力遊憩了？鵬管處推「藍旗海岸」邁首步",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5604163",
+          "title": "最新民調大勝李四川13.1％ 蘇巧慧直言「蠻震撼」：更要戒慎恐懼",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604693",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "中職》「今天不評論選手表現」 平野率兄弟連3年闖台灣大賽有感觸",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5604171",
+          "title": "邱靖雅促用長者照顧服務取代年金 楊文科計算稱有能力甚至可加碼發",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5604691",
           "tier": 2,
           "seen_count": 1
         }
@@ -937,384 +772,546 @@
     {
       "name": "Technology",
       "anchor": "Technology",
-      "archive_url": "./history/2026-10-12_21-10/index.html#Technology",
+      "archive_url": "./history/2026-10-13_06-29/index.html#Technology",
       "stories": [],
       "watchlist": [
         {
-          "title": "Mars may be a hellhole, but the moon is not far behind",
-          "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+          "title": "長鑫 DRAM 追兵  三星 SK 海力士崩跌、韓股 Sidecar",
+          "url": "https://technews.tw/2026/10/13/cxmt-breakthrough-sends-samsung-sk-hynix-tumbling/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "The ecologist revealing the invisible networks that revive rainforests",
-          "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+          "title": "鴻海 OCP 2026 秀 NVIDIA Vera Rubin 平台創新",
+          "url": "https://finance.technews.tw/2026/10/13/ocp-2026-foxconn/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "The Download: moon city problems and drone traffic controllers",
-          "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+          "title": "中國新能源車出口退稅紅利消減，專家：緩和外貿摩擦",
+          "url": "https://technews.tw/2026/10/13/china-nev-export-tax-rebates-cut-ease-trade-friction/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "太陽死後的太陽系，比想像中的更快崩解",
-          "url": "https://technews.tw/2026/10/12/the-solar-system-may-fall-apart-faster-than-expected-after-the-sun-dies/",
+          "title": "劍指腦傷、中風與腦霧！清大揭開「異野漆樹苷」神經修復雙重機制",
+          "url": "https://technews.tw/2026/10/13/monstera-epipremnoides/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "微軟 Maia 300 新晶片明年量產，關鍵運算 Chiplet 採台積電 N2P 製程",
-          "url": "https://technews.tw/2026/10/13/microsoft-maia-300-to-begin-production-deployments-in-2027/",
+          "title": "博通 CEO 批 AI 燒錢像打電玩、貝瑞轉發  馬斯克反駁",
+          "url": "https://finance.technews.tw/2026/10/13/broadcom-ceo-likens-many-ai-investors-to-casino-gamblers/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "弘塑 9 月營收年增 61.8%，單季業績再創新高",
-          "url": "https://finance.technews.tw/2026/10/13/gptc-2026-sep-revenue/",
+          "title": "神雲科技於 2026 OCP 全球高峰會聚焦開放 AI 基礎架構與全端創新，加速規模化部署",
+          "url": "https://technews.tw/2026/10/13/wiwynn-focuses-open-ai-infrastructure-full-stack-innovation-2026-ocp-global-summit-accelerating-large-scale-deployment/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "遠傳9月營收109.62 億元",
-          "url": "https://finance.technews.tw/2026/10/12/far-eastone-4904-202609-financial-report/",
+          "title": "Alphabet 20 年首見現金流轉負，無懼逆風豪擲 2 千億美元建 AI：落後才是最大風險",
+          "url": "https://finance.technews.tw/2026/10/13/alphabet-expands-ai-investment/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "台灣大9月營收174.12 億元",
-          "url": "https://finance.technews.tw/2026/10/12/twm-3045-202609-financial-report/",
+          "title": "日媒：Anthropic 日本首座資料中心擬設於大阪",
+          "url": "https://technews.tw/2026/10/13/japanese-media-report-anthropic-plans-first-data-center-japan-osaka/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "告別停滯性通膨夢魘！美國學者以「前瞻性個體基礎」獲諾貝爾經濟學獎",
-          "url": "https://technews.tw/2026/10/12/hall-woodford/",
+          "title": "深海淘金熱藏危機，某些海底礦石浮出水面恐自燃",
+          "url": "https://technews.tw/2026/10/13/seafloor-massive-sulfide-metal-nanocrystalline-marcasite-spontaneous-combustion/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "漢唐9月營收月減13.0%",
-          "url": "https://finance.technews.tw/2026/10/12/uis-2404-202609-financial-report/",
+          "title": "和碩於 OCP Global Summit 2026 展現從設計到部署 AI 基礎設施實力",
+          "url": "https://finance.technews.tw/2026/10/13/ocp-global-summit-2026-pegatron/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "中華電9月營收月增4.7%",
-          "url": "https://finance.technews.tw/2026/10/12/cht-2412-202609-financial-report/",
+          "title": "全球手機市場暴跌 20%，iPhone 第三季市占率創歷史新高",
+          "url": "https://technews.tw/2026/10/13/2026-q3-global-smartphone-market/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "華為新款 MPV 煞車踏板斷裂，中共官媒地方政府紛批評",
-          "url": "https://technews.tw/2026/10/12/huawei-new-mpv-brake-pedal-snaps-slammed-chinese-state-media-local-governments/",
+          "title": "高通大秀 AI 原生寬頻新技術，整合 Wi-Fi 8、5G Advanced 與邊緣 AI",
+          "url": "https://technews.tw/2026/10/13/qualcomm-network-x-2026-dragonwing-ai/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "金寶9月營收221.83 億元",
-          "url": "https://finance.technews.tw/2026/10/12/kinpo-2312-202609-financial-report/",
+          "title": "NASA 毅力號正式打破地球外星球駕駛距離紀錄，自動導航系統為最大功臣",
+          "url": "https://technews.tw/2026/10/13/nasas-perseverance-rover-sets-a-mars-driving-record/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "曾文生盼電業加速融入科技業決策，供電關鍵點名電網",
-          "url": "https://technews.tw/2026/10/12/tseng-wensheng-urges-power-industry-accelerate-tech-integration-decision-making-highlighting-power-grid-key-supply/",
+          "title": "未來五年晶圓需求持續成長！Yole 看好 CPO、玻璃基板與 800V 供電成下波技術焦點",
+          "url": "https://technews.tw/2026/10/13/semicon-west-yole-jean-christophe-eloy/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "WeMo 共享機車十週年，長租方案成為新寵兒",
-          "url": "https://technews.tw/2026/10/12/wemo-sharing-escooter/",
+          "title": "康舒光電案場突破百座，擴大表後儲能與 EMS 應用",
+          "url": "https://technews.tw/2026/10/13/kinsus-optronics-100-project-sites-expand-behind-meter-storage-ems-applications/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "熬不過高溫與地形，美軍萬人演習暴露無人機實戰弱點",
-          "url": "https://technews.tw/2026/10/12/unable-to-withstand-high-temperatures-and-challenging-terrain-a-large-scale-u-s-military-exercise-exposed-the-combat-weaknesses-of-its-drones/",
+          "title": "輝達 H200 訂單爆量急催台積電，中國 AI 巨頭陷算力荒砸重金出海尋求突圍",
+          "url": "https://technews.tw/2026/10/13/china-ai-chip-shortage-and-nvidia-production-expansion/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "日月光投控 9 月和第三季營收創高，AI 先進封測幫大忙",
-          "url": "https://finance.technews.tw/2026/10/12/ase-fr-2609-q3/",
+          "title": "紐時、經濟學人等媒體加入聯盟，防止 AI 未經授權使用新聞內容",
+          "url": "https://technews.tw/2026/10/13/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "成本僅有愛國者三分之一，Anduril 推出 Steelfin 模組化攔截彈",
-          "url": "https://technews.tw/2026/10/12/anduril-unveiled-new-low-cost-steelfin-interceptor/",
+          "title": "「開放軟體、專有晶片」劍指輝達，高通連環收購拚突圍 CUDA 生態圈",
+          "url": "https://technews.tw/2026/10/13/how-qualcomms-open-software-strategy-challenges-nvidia/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "康控-KY9月營收1.89 億元",
-          "url": "https://finance.technews.tw/2026/10/12/concraft-4943-202609-financial-report/",
+          "title": "格羅方德全新 FDX Fusion 平台挑戰 7 奈米級效能，主攻車用與邊緣 AI",
+          "url": "https://technews.tw/2026/10/13/globalfoundries-unveils-7nm-class-fdx-fusion-node/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "科嘉-KY9月營收月減12.0%",
-          "url": "https://finance.technews.tw/2026/10/12/ko-ja-5215-202609-financial-report/",
+          "title": "馬斯克憂中國量產力  RAM 恐受衝擊、SpaceX 是異數",
+          "url": "https://technews.tw/2026/10/13/elon-musk-china-mass-production-capacity-ram-impact-spacex-exception/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "韓國泡麵出口額上看 20 億美元，辣味熱潮席捲全球",
-          "url": "https://technews.tw/2026/10/12/korean-instant-noodle-exports-surpass-2-billion-global-spicy-craze/",
+          "title": "瑞典 2 萬名雙胞胎研究，螢幕時間不是青少年憂鬱主因",
+          "url": "https://technews.tw/2026/10/13/study-of-20000-swedish-twins-finds-mobile-phones-are-not-the-primary-cause-of-depression-in-adolescents/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "眾達-KY9月營收2.32 億元",
-          "url": "https://finance.technews.tw/2026/10/12/pcl-4977-202609-financial-report/",
+          "title": "2 萬歐元有找，Smart 雙人座純電車回來了",
+          "url": "https://technews.tw/2026/10/13/smart-for-two-ev-is-back/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "訊芯-KY9月營收7.17 億元",
-          "url": "https://finance.technews.tw/2026/10/12/shunsin-6451-202609-financial-report/",
+          "title": "Anthropic 也要培訓「前線部署工程師」，目標訓練萬名「AI 傳教士」將 Claude 切實導入企業經營",
+          "url": "https://technews.tw/2026/10/13/anthropic-invests-100m-to-train-fdes-and-seeks-these-5-key-attributes/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "台達電第三季營收逼近 2,000 億元，法人看好第四季雙位數季增",
-          "url": "https://finance.technews.tw/2026/10/12/delta-electronics-q3-revenue-nears-200-billion-record-high-q4-double-digit-growth/",
+          "title": "Meta 打造 Muse Wonder 新模型，結合主動記憶與專注能力強攻 AI Agent",
+          "url": "https://technews.tw/2026/10/13/meta-introduces-the-muse-wonder-series/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "IMF：AI 投資潮撐全球經濟成長 3%，力抗能源衝擊",
-          "url": "https://technews.tw/2026/10/12/ai-investment-boom-supports-3-global-economic-growth/",
+          "title": "能源管理法迎十年重大修法掀儲能熱！台灣電池協會能源週秀「全鏈整合」",
+          "url": "https://technews.tw/2026/10/13/energy-management/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "日月光投控9月營收月增7.2%",
-          "url": "https://finance.technews.tw/2026/10/12/aseh-3711-202609-financial-report/",
+          "title": "微軟老將轉戰 F1，Peter Lee 將擔任賓士車隊 AI 顧問",
+          "url": "https://technews.tw/2026/10/13/microsofts-departing-science-president-plans-to-join-mercedes-f1-team-as-ai-advisor/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "光罩9月營收月減1.2%",
-          "url": "https://finance.technews.tw/2026/10/12/tmc-2338-202609-financial-report/",
+          "title": "LVMH 財報遜預期  奢侈品產業復甦之路仍艱",
+          "url": "https://finance.technews.tw/2026/10/13/lvmh-earnings-miss-expectations/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "台達電9月營收654.00 億元",
-          "url": "https://finance.technews.tw/2026/10/12/delta-2308-202609-financial-report/",
+          "title": "不必戴笨重頭盔，日本科學家利用微型鏡片打造懸浮立體世界",
+          "url": "https://technews.tw/2026/10/13/no-need-for-bulky-headsets-japanese-scientists-use-microlenses-to-create-a-floating-3d-world/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "台股企業獲利上看 40%！群益點名矽光子、低軌衛星引領第四季多頭",
-          "url": "https://finance.technews.tw/2026/10/12/pcb-ccl-asic/",
+          "title": "輝達與思科合推全新 USFP 光學模組，大幅提升 AI 工廠網路頻寬",
+          "url": "https://technews.tw/2026/10/13/nvidia-and-cisco-introduce-usfp-optics-for-ai-fabrics/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "日本外務省強化機密管理，砸 30 億升級系統、標準比照五眼聯盟",
-          "url": "https://infosecu.technews.tw/2026/10/12/japan-foreign-ministry-enhances-classified-info-management-3-billion-yen-system-upgrade-five-eyes-standards/",
+          "title": "Epic 宣布全面捨棄手寫程式，迪士尼射擊新作轉向純 AI 產製流程",
+          "url": "https://technews.tw/2026/10/13/epic-games-delays-disney-shooter-game/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "AI 需求點燃供需失衡，記憶體價格大漲驅動全球半導體營收狂增 119%",
-          "url": "https://finance.technews.tw/2026/10/12/soaring-memory-prices-drove-a-119-surge-in-global-semiconductor-revenue/",
+          "title": "Google 雲端支出擴增  分析師看好 AVGO / MRVL 受惠",
+          "url": "https://finance.technews.tw/2026/10/13/buy-these-stocks-as-plays-on-googles-big-spending/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "決策模型 Microsoft-Decision-1 推出，以阿里 Qwen 為基礎挑戰低成本與判斷速度",
-          "url": "https://technews.tw/2026/10/12/microsoft-introduces-microsoft-decision-1/",
+          "title": "DeepSeek 傳巨額融資衝刺 IPO 同時不忘投資實體 AI 新創，以擴大影響力",
+          "url": "https://finance.technews.tw/2026/10/13/deepseek-leads-funding-for-ex-tencent-scientists-400-million-robot-ai-lab/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "部分聯發科晶片手機藏資安風險，出廠前惡意程式就先入住了",
-          "url": "https://infosecu.technews.tw/2026/10/12/mediatek-low-end-android-phone-midnight-mimosa/",
+          "title": "IMF 估台灣今年經濟成長逾 10%，亞太第一全球罕見雙位數成長",
+          "url": "https://technews.tw/2026/10/13/world-economic-outlook-taiwan-real-gdp/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "韓國國產極音速滑翔載具首度試射成功，增添打擊北韓選項",
-          "url": "https://technews.tw/2026/10/12/south-korea-successfully-test-fired-their-hgv/",
+          "title": "AI 認知落差已變「鋒利的漏斗」，全球僅 5 千人見識過真‧尖端技術",
+          "url": "https://technews.tw/2026/10/13/andrej-karpathy-says-this-ai-gap-is-widening/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "跨入 8 吋主流規格 SiC 商機！廣運旗下盛新材料 10/15 登錄興櫃",
-          "url": "https://finance.technews.tw/2026/10/12/mainstream-specifications/",
+          "title": "台泥股臨會通過 Cimpor 歐洲上市！張安平：水泥是 AI 發展堅實基礎",
+          "url": "https://finance.technews.tw/2026/10/13/cimpor-international-ipo/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "台灣要電更要「零碳」電！淨零與能源雙展 10/14 揭示台廠突圍底牌",
-          "url": "https://finance.technews.tw/2026/10/12/zero-carbon/",
+          "title": "TikTok 執行長周受資示警 AI 授權風險，預言兩三年內迎接科學大突破",
+          "url": "https://infosecu.technews.tw/2026/10/13/tiktok-ceo-warns-ai-agent-permission-risks/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "蘋果擴 iPhone Duo 產能，COO 親赴鴻海鄭州廠視察",
-          "url": "https://technews.tw/2026/10/12/iphone-duo-apple-coo-china/",
+          "title": "SIA 揭美晶片供應鏈安全假象：總部不等於產地，逾九成稀土仍受制中國",
+          "url": "https://technews.tw/2026/10/13/mapping-us-chip-supply-chain/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "企業最強大腦對決貼心生活管家，OpenAI Dot 與 Meta Muse 核心差異一次看",
-          "url": "https://technews.tw/2026/10/12/openai-dot-vs-meta-muse-comparison/",
+          "title": "華爾街日報：中國債務惡性循環，拖累經濟成長衝擊全球",
+          "url": "https://finance.technews.tw/2026/10/13/xis-superpower-ambitions-fuel-a-dangerous-debt-spiral-in-china/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "DRAM 缺貨潮延續！南亞科看好 Q4 毛利率再迎高峰，ASIC 專案已少量出貨",
-          "url": "https://technews.tw/2026/10/12/nanya-technology-2026-q3-financial-report-2/",
+          "title": "194 歲巨龜揭長壽祕密，研究：基因開關宛如 5 歲幼龜",
+          "url": "https://technews.tw/2026/10/13/194-year-old-giant-tortoise-reveals-secrets-of-longevity-study-finds-genetic-switches-resemble-those-of-a-5-year-old/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "蘋果智慧家庭中樞 HomeView 細節曝光",
-          "url": "https://technews.tw/2026/10/12/apple-homeview/",
+          "title": "電力設備需求點火，台達電、Bloom Energy 齊聚智慧能源週",
+          "url": "https://technews.tw/2026/10/13/ai-power-consumption-drives-up-demand-for-power-equipment-delta-electronics-bloom-energy-gather-smart-energy-week/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "法債風波持續  專家：危機未擴散、歐市場具韌性",
-          "url": "https://finance.technews.tw/2026/10/12/why-frances-debt-woes-have-not-spooked-europe/",
+          "title": "法國數百家超市冷凍/冷藏系統遭駭，溫度飆至50度",
+          "url": "https://www.ithome.com.tw/news/179633",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "聖暉*9月營收55.14 億元",
-          "url": "https://finance.technews.tw/2026/10/12/acter-5536-202609-financial-report/",
+          "title": "AMD推Agentic AI機櫃架構Helion，以CPU、GPU彈性配置鎖定不同Agent工作負載",
+          "url": "https://www.ithome.com.tw/news/179632",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "AI 預測能力可勝過人類專家，新創公司開啟科技商機",
-          "url": "https://finance.technews.tw/2026/10/12/ai-predictive-power-surpasses-experts-startups-tech-opportunities/",
+          "title": "因旗下模型擅自存取美政府網站，Anthropic暫停測試",
+          "url": "https://www.ithome.com.tw/news/179630",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Mullvad共同創辦人政治捐款惹議，Tor暫停聯合宣傳但維持技術合作",
-          "url": "https://www.ithome.com.tw/news/179594",
+          "title": "微軟發表Maia 300 AI晶片，2027年將成旗下主要推論系統",
+          "url": "https://www.ithome.com.tw/news/179629",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Bun內建TypeScript型別檢查，官方測速最高達微軟編譯器6.4倍",
-          "url": "https://www.ithome.com.tw/news/179589",
+          "title": "研究人員揭露Twitch瀏覽器外掛洩露近3.1萬用戶OAuth權杖",
+          "url": "https://www.ithome.com.tw/news/179628",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "微軟Decision-1專攻AI代理決策，準確率83.5%領先同類模型",
-          "url": "https://www.ithome.com.tw/news/179586",
+          "title": "企業數位大小章搬上手機！行動工商憑證如何改變驗證、簽章與授權管理",
+          "url": "https://www.ithome.com.tw/news/179617",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Telegram Desktop高風險漏洞可能導致帳號接管，研究人員已公開PoC",
-          "url": "https://www.ithome.com.tw/news/179598",
+          "title": "研究人員揭露逾1.6萬個Supabase資料庫暴露，恐洩漏敏感資料",
+          "url": "https://www.ithome.com.tw/news/179616",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Citrix修補NetScaler重大等級的SAML漏洞",
-          "url": "https://www.ithome.com.tw/news/179578",
+          "title": "駭客組織CyberXero濫用Claude Code攻擊WordPress網站，竊取近63萬烏克蘭用戶資料",
+          "url": "https://www.ithome.com.tw/news/179612",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "特斯拉在歐洲將FSD改名為Tesla Assisted Driving，以推動歐盟核准",
-          "url": "https://www.ithome.com.tw/news/179577",
+          "title": "HashiCorp封存Boundary社群版，既有部署不再獲原廠安全修補",
+          "url": "https://www.ithome.com.tw/news/179607",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "DNS根區域時隔8年更換簽章金鑰，未更新信任錨恐使網站無法連線",
-          "url": "https://www.ithome.com.tw/news/179570",
+          "title": "Meta推出前沿AI模型Muse Wonder，挑戰OpenAI與Anthropic",
+          "url": "https://www.ithome.com.tw/news/179608",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "攻擊者利用WordPress兩款外掛XSS漏洞入侵網站，植入後門並建立隱藏的管理帳號，威脅逾50萬網站",
-          "url": "https://www.ithome.com.tw/news/179575",
+          "title": "Kiteworks修補126個漏洞，包含可能導致系統遭接管的EPG滿分漏洞",
+          "url": "https://www.ithome.com.tw/news/179606",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "美司法部與FBI查封中國永信至誠科技兩款駭客工具，揭臺灣兩所大學曾遭Microscan掃描，後續被部署SoftEther VPN",
-          "url": "https://www.ithome.com.tw/news/179572",
+          "title": "WordPress網頁建構外掛Bricksforge存在滿分漏洞，傳出已遭積極利用",
+          "url": "https://www.ithome.com.tw/news/179605",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "日本逮捕涉嫌勒索軟體組織Qilin核心成員，已引渡至德國",
-          "url": "https://www.ithome.com.tw/news/179573",
+          "title": "政府推動主權AI，必須在第一天就內建AI治理",
+          "url": "https://www.ithome.com.tw/news/179603",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "中國駭客Flax Typhoon利用8個已知漏洞發動攻擊，美CISA要求聯邦機構緊急修補其中5個弱點",
-          "url": "https://www.ithome.com.tw/news/179574",
+          "title": "思科發布10月上半更新，修補NX-OS、APIC、Smart License逾30個資安漏洞",
+          "url": "https://www.ithome.com.tw/news/179592",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "緯致科技部分員工資訊遭未經授權存取",
-          "url": "https://www.ithome.com.tw/news/179569",
+          "title": "Google DevSite爆RCE漏洞，偽造Cookie即可觸發",
+          "url": "https://www.ithome.com.tw/news/179602",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "JetBrains開源Mellum2.1模型，程式修復評測解決率從2%升至47%",
-          "url": "https://www.ithome.com.tw/news/179561",
+          "title": "OpenSSF與OpenChain提軟體供應鏈安全指引，協助企業因應CRA等歐盟法規",
+          "url": "https://www.ithome.com.tw/news/179563",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "第三季全球PC出貨量衰退逾兩成，創3年半最大跌幅",
-          "url": "https://www.ithome.com.tw/news/179568",
+          "title": "Upwind併購AI資安新創Aegis，成立研究團隊擴大AI代理安全布局",
+          "url": "https://www.ithome.com.tw/news/179524",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "日本客服平臺業者Scala Communications遭駭，洩露多家客戶個資逾70萬",
-          "url": "https://www.ithome.com.tw/news/179566",
+          "title": "Python 3.15預設用UTF-8編碼，並新增延遲匯入機制",
+          "url": "https://www.ithome.com.tw/news/179600",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "日本三家旅行服務、系統業者爆資料外洩超過千萬",
-          "url": "https://www.ithome.com.tw/news/179565",
+          "title": "PQC轉型不只升級系統，澳洲ASD強調教育訓練與長期維護",
+          "url": "https://www.ithome.com.tw/news/179515",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "微軟2027年4月起淘汰部分檔案API預先驗證網址，開發者須調整權杖驗證",
-          "url": "https://www.ithome.com.tw/news/179556",
+          "title": "AI先進封測熱度加持　日月光3Q26營收站上2,000億大關",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771304_QJL2GFOQ1J0WDV3CXEOJQ",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "蘋果招募由NotebookLM前員工合組的AI podcast App公司Huxe",
-          "url": "https://www.ithome.com.tw/news/179564",
+          "title": "《不具名消息》SEP89 員工爽領百萬卻喊罷工？記憶體除了賺翻，還有哪些新消息？",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771332_34O2NIN64655G31B9TEGQ",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "韓國政府資料中心大火後，重訂系統分級與災難復原標準",
-          "url": "https://www.ithome.com.tw/news/179562",
+          "title": "台泥股臨會通過歐洲上市案　張安平：營運增加一隻腿",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771321_XPL4QNR11XU56T2MV5RC4",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "CISA揭露中國資安公司支援駭客攻擊，竊取多國組織敏感資料",
-          "url": "https://www.ithome.com.tw/news/179560",
+          "title": "前騰訊科學家創辦Winverse AI　傳DeepSeek領投種子輪",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771324_6SX23OJ93LYN8W3EC9PN3",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "都柏林迎科技投資　OpenAI歐盟總部擴編、設應用AI實驗室",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771299_PPM1M7QDL4MN75878TECI",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "台積電與GF合作擴產　建立美國本土首座矽中介層產線",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771298_FST1OWSPLTJ47S77ET44B",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "川普政府擬調派AI測試官員加入白宮　強化AI模型安全把關",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771284_M6R3LZ0K7GXYVL5PDIAXW",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "NTT Data洽建Anthropic日本首座資料中心　規模上看500MW",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771291_QKF328HI8KODEG2QJAVBH",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "TikTok周受資談AI發展　短期效益恐被高估、長期影響卻遭低估",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771310_Y91461J20V0TRB1B62HNU",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "中國算力荒找替代　2026年搶逾100萬顆NVIDIA遊戲、工作站晶片",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771270_Q0L33MUY6PTIJJ1ZBHS1R",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Stellantis否認品牌分拆　促歐盟獎勵在地造車",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771289_E5Y1VSYT9HFQJD8V555Y3",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Meta推進個人超級智慧　Muse Wonder強化長期記憶與自主能力",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771280_FOB3MR5R73COSH1TIO056",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "iPhone Duo傳增單30%　排擠18 Pro推論遭質疑",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771295_3UD1WQXILQPP6R4T5PR5E",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "能源管理法修法引爆儲能需求　台灣電池協會凝聚技術拚差異化突圍",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771300_W2W4SMMALNA2SW1F8XUQ6",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "三星2奈米美國量產倒數　傳良率團隊已赴泰勒廠備戰2027投產",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771294_U2439RL78JOUR556BF17Q",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "IonQ砸13億美元收購Elisity　量子資安布局延伸至AI攻擊防禦",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771281_YWC1RTJX9HGM1F0Z2S1S4",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "歐姆龍砸6.75億美元併OnLogic　搶攻實體AI製造商機",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771276_T613YBVK6X68SJ7SH4FP3",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "神雲OCP聚焦全棧AI基礎架構　液冷與開放平台成主軸",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771297_WP41QXBCL32C3N6B4D5X8",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "中微尹志堯示警AI泡沫風險　提醒設備投資仍有週期波動",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771288_C6B1BMSB93BXH47UMREW4",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "IMF示警AI海嘯來襲　恐衝擊全球就業與稅收",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771272_DUX3O12T6HEXJM3C6YAYQ",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "吉利汽車進軍加拿大　2027年推首批車款、擴大北美布局",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771279_0121Y2C08W80KP8HK8UYT",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "華虹製程本土化邁大步　攜中系四大設備商加速導入量產",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771274_UL91YFBV8URIWA32X10QK",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "中國新能源車出口退稅降至9%　低價車利潤承壓、海外設廠誘因將增",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771265_C3L1DWNI75CCRN49M0RJ7",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "愛普完成逾4億美元GDR募資　三大產品強化營運動能",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771267_S5B1GYN770STQG6M4Q305",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "緯創、緯穎OCP聚焦AI運算與儲存　全液冷平台成主軸",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771290_XKK13MOVLONMCLLBOCH98",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "鴻海鄭州獨家組裝iPhone Duo　預售前夕蘋果COO訪廠關切產能狀況",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771248_KBD1QL8Y5AEH9D7CG6AYU",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "微軟2027年起大規模部署自研AI晶片　降低依賴NVIDIA GPU",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771257_TCW3BBJD4YOYYX8MNHS5Z",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "菲律賓能源工程專案挹注　亞通前3季合併營收年增132%",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771282_OU030BG27LJ0ZE3SKPDQD",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "英特爾陳立武示警AI硬體短缺恐再3年　代理式AI推升CPU需求",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771259_8RT12M1U6SHML289M0WM8",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "博通陳福陽示警AI下一關卡：資金瓶頸恐取代晶片、記憶體短缺",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771261_LM539LC45CMRMK2VJZXVG",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "為美國上市鋪路？　Solidigm延攬前高通主管任政府關係副總裁",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771260_XYC15EQJ7394PVLDTRKVR",
           "tier": 2,
           "seen_count": 1
         },
@@ -1325,20 +1322,32 @@
           "seen_count": 1
         },
         {
+          "title": "應材50億美元打造EPIC中心、串連五大晶片廠　重塑半導體材料到量產研發模式",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771258_PYD12R7G6L82E77Z3QF80",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "超微推Helion代理式AI機架　最高搭載3.2萬個CPU核心　鴻海、緯穎等供應鏈助攻",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771254_WD03DZ414JZT3F5I19LCQ",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
           "title": "Axis Communications攜手準線智慧科技 打造轄區AI防汛新標竿",
           "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770997_FEX8XANVL4TV486DST0TP",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "西門子與台積公司攜手推進AI驅動的半導體設計自動化",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770878_CX19K32K6BZ4D4951TN82",
+          "title": "微軟攜Anthropic深耕台灣開發社群  解析AI Agent破局落地",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770999_JEH8SY0ELW60L6835PE2N",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "微軟攜Anthropic深耕台灣開發社群  解析AI Agent破局落地",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770999_JEH8SY0ELW60L6835PE2N",
+          "title": "西門子與台積公司攜手推進AI驅動的半導體設計自動化",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770878_CX19K32K6BZ4D4951TN82",
           "tier": 2,
           "seen_count": 1
         },
@@ -1367,20 +1376,14 @@
           "seen_count": 1
         },
         {
-          "title": "南亞科LTA產能覆蓋率上看7成　屏東3D IC封測廠2028年下半投片",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771158_K462HUS04J89YY9C3ATGO",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
           "title": "國科會廢除KPI制度　期勉學界投入低成功率研究",
           "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771135_7UY0ZGCZ4MOI2Q4F268QA",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "台韓晶圓代工3Q26兩樣情　三星非記憶體業務估吞2兆韓元虧損",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771120_K410G27G3I2L8PL89XOI7",
+          "title": "南亞科LTA產能覆蓋率上看7成　屏東3D IC封測廠2028年下半投片",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771158_K462HUS04J89YY9C3ATGO",
           "tier": 2,
           "seen_count": 1
         },
@@ -1391,20 +1394,26 @@
           "seen_count": 1
         },
         {
+          "title": "台韓晶圓代工3Q26兩樣情　三星非記憶體業務估吞2兆韓元虧損",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771120_K410G27G3I2L8PL89XOI7",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
           "title": "Lumentum喊AI光通訊嚴重供不應求　台廠3Q26營收報佳音",
           "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771197_38001XRFLX33BX6FEMIIV",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "【漫圖秒懂】Musk排除台積電主導Terafab可能　英特爾14A合作不變",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770983_JO18ZT6N94QPHF2D9OIMH",
+          "title": "FCC加速釋放頻譜　SpaceX、亞馬遜搶攻直連手機市場",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770963_I0VLREI85DQ8694Y352OP",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "FCC加速釋放頻譜　SpaceX、亞馬遜搶攻直連手機市場",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770963_I0VLREI85DQ8694Y352OP",
+          "title": "【漫圖秒懂】Musk排除台積電主導Terafab可能　英特爾14A合作不變",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770983_JO18ZT6N94QPHF2D9OIMH",
           "tier": 2,
           "seen_count": 1
         },
@@ -1421,14 +1430,14 @@
           "seen_count": 1
         },
         {
-          "title": "Claude測試又出包　白宮要求業者強制通報AI安全事件",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771182_7I82KN4L7Z7H0P3C6JDVE",
+          "title": "日本新創Axelspace GRUS-3星座受挫　商業服務延後、2026年度財測下修",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770911_RBQLLA9E062QUQ20B5T3B",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "日本新創Axelspace GRUS-3星座受挫　商業服務延後、2026年度財測下修",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770911_RBQLLA9E062QUQ20B5T3B",
+          "title": "Claude測試又出包　白宮要求業者強制通報AI安全事件",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771182_7I82KN4L7Z7H0P3C6JDVE",
           "tier": 2,
           "seen_count": 1
         },
@@ -1439,14 +1448,14 @@
           "seen_count": 1
         },
         {
-          "title": "算力樞紐面臨供電挑戰　台灣綠電與電網調度尋新解方",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771221_H3B1E3S03ASMVV0O6NAG8",
+          "title": "大進機械重整掀斷供隱憂　LGES傳調整ESS設備供應鏈",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771168_ING0B8CZ74Q4057NXBDT0",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "大進機械重整掀斷供隱憂　LGES傳調整ESS設備供應鏈",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771168_ING0B8CZ74Q4057NXBDT0",
+          "title": "算力樞紐面臨供電挑戰　台灣綠電與電網調度尋新解方",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771221_H3B1E3S03ASMVV0O6NAG8",
           "tier": 2,
           "seen_count": 1
         },
@@ -1457,14 +1466,14 @@
           "seen_count": 1
         },
         {
-          "title": "歐洲2026國防新創吸金破紀錄　美國資金助推無人機熱潮",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771000_WA91Y61MLCQEN31ID18D9",
+          "title": "日本資安法規分階段上路　富士通、日立與NEC擴大資安布局",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771098_UAS1O4ZL83PV2G9FFEMVQ",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "日本資安法規分階段上路　富士通、日立與NEC擴大資安布局",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771098_UAS1O4ZL83PV2G9FFEMVQ",
+          "title": "歐洲2026國防新創吸金破紀錄　美國資金助推無人機熱潮",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771000_WA91Y61MLCQEN31ID18D9",
           "tier": 2,
           "seen_count": 1
         },
@@ -1493,26 +1502,26 @@
           "seen_count": 1
         },
         {
-          "title": "全球PC 3Q26出貨暴跌逾2成　庫存壓力與需求疲弱雙面夾擊",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771188_BNG02VIM9NA2YX7SVUOJU",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "全國電子不拚展店密度　DC大坪數店突破80間、強化數位會員經營",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771134_Z5K2ZJ972F7JUI5B9MFXN",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
           "title": "【漫圖秒懂】Meta Muse讀光你的私訊　蘋果強化Mac存取控制",
           "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770864_S8477CTU7P279Z3XS8AON",
           "tier": 2,
           "seen_count": 1
         },
         {
+          "title": "全球PC 3Q26出貨暴跌逾2成　庫存壓力與需求疲弱雙面夾擊",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771188_BNG02VIM9NA2YX7SVUOJU",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
           "title": "【動物農莊】Rapidus推出IC設計支援聯盟　助客戶加速2奈米晶片設計",
           "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770701_75K8K1SPLBGN1U2NZDY8V",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "全國電子不拚展店密度　DC大坪數店突破80間、強化數位會員經營",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771134_Z5K2ZJ972F7JUI5B9MFXN",
           "tier": 2,
           "seen_count": 1
         },
@@ -1529,14 +1538,14 @@
           "seen_count": 1
         },
         {
-          "title": "專訪新加坡政府CAIO何瑞敏（上）　如何看待新加坡AI國家戰略大方向？",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771204_3CT13TZL1W5X9N3WYI2DH",
+          "title": "總統盼爭取諾貝爾獎　中研院院長指「無用之用」是關鍵",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771138_SIC2Q6DU28U8ZX9O70D5N",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "總統盼爭取諾貝爾獎　中研院院長指「無用之用」是關鍵",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771138_SIC2Q6DU28U8ZX9O70D5N",
+          "title": "專訪新加坡政府CAIO何瑞敏（上）　如何看待新加坡AI國家戰略大方向？",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771204_3CT13TZL1W5X9N3WYI2DH",
           "tier": 2,
           "seen_count": 1
         },
@@ -1547,26 +1556,26 @@
           "seen_count": 1
         },
         {
-          "title": "傳產管理仍仰賴Excel　韓AI平台新創Hamada Labs瞄準台日製造業商機",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770855_Z1W950XE4BQIVL6913RE2",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
           "title": "崔泰源上海喊話加速建廠　SK集團設AI研發中心深化在地布局",
           "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771111_NM20LL9W22HTK30HQFW1E",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "玻璃基板TGV需求升溫　南韓YMT電鍍產能拚增至5倍",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771006_OS7107UGLKZBRK79THZRH",
+          "title": "傳產管理仍仰賴Excel　韓AI平台新創Hamada Labs瞄準台日製造業商機",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770855_Z1W950XE4BQIVL6913RE2",
           "tier": 2,
           "seen_count": 1
         },
         {
           "title": "車市疲軟改押手機　華為砸重金拚自研晶片與作業系統",
           "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771192_X7M2JG9O8W38E6329TR4V",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "玻璃基板TGV需求升溫　南韓YMT電鍍產能拚增至5倍",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771006_OS7107UGLKZBRK79THZRH",
           "tier": 2,
           "seen_count": 1
         },
@@ -1583,14 +1592,14 @@
           "seen_count": 1
         },
         {
-          "title": "Starlink印度商業服務卡關　Elon Musk指責富豪Ambani從中作梗",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771161_VRG0OZZB7TCLJ50RIJ3EK",
+          "title": "香港機場海陸空聯運衝大灣區　JAL鐵空接軌謀創物流新局",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770993_0R4LS5WB8KYF8M4M0UTAM",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "香港機場海陸空聯運衝大灣區　JAL鐵空接軌謀創物流新局",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770993_0R4LS5WB8KYF8M4M0UTAM",
+          "title": "Starlink印度商業服務卡關　Elon Musk指責富豪Ambani從中作梗",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771161_VRG0OZZB7TCLJ50RIJ3EK",
           "tier": 2,
           "seen_count": 1
         },
@@ -1619,14 +1628,14 @@
           "seen_count": 1
         },
         {
-          "title": "借殼在地化瀕最後期限　中系車廠攻歐的三道隱形門檻",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771123_YUE0PF4P3EKCDM2PTKG40",
+          "title": "富士通籌設新墨西哥州量子中心　瞄準HPC、AI混合運算",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771129_C8E2BHMY1L07VVL483R3K",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "富士通籌設新墨西哥州量子中心　瞄準HPC、AI混合運算",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771129_C8E2BHMY1L07VVL483R3K",
+          "title": "借殼在地化瀕最後期限　中系車廠攻歐的三道隱形門檻",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771123_YUE0PF4P3EKCDM2PTKG40",
           "tier": 2,
           "seen_count": 1
         },
@@ -1637,14 +1646,14 @@
           "seen_count": 1
         },
         {
-          "title": "【Amy & Dr. Chip】記憶體牛市要熄火？　關鍵其實是「能賺多久」",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770752_4QM85S2T43FY4Q33FBIYG",
+          "title": "SpaceX收購800MHz頻譜　Starlink從天上打到地面挑戰美電信三雄",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771127_PIL0NTOR3NOUAX6CHKQ6G",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "SpaceX收購800MHz頻譜　Starlink從天上打到地面挑戰美電信三雄",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771127_PIL0NTOR3NOUAX6CHKQ6G",
+          "title": "【Amy & Dr. Chip】記憶體牛市要熄火？　關鍵其實是「能賺多久」",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000770752_4QM85S2T43FY4Q33FBIYG",
           "tier": 2,
           "seen_count": 1
         },
@@ -1655,14 +1664,14 @@
           "seen_count": 1
         },
         {
-          "title": "傳台積電出資「包電廠」　台電：仍屬概念性討論",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771156_Q030O8IV6LR9SL5S9W7EH",
+          "title": "科技1分鐘：電鍍與整平劑（Leveler）運用",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771189_ZCX2NRFN7W4GL1LQMCBJE",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "科技1分鐘：電鍍與整平劑（Leveler）運用",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771189_ZCX2NRFN7W4GL1LQMCBJE",
+          "title": "傳台積電出資「包電廠」　台電：仍屬概念性討論",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000771156_Q030O8IV6LR9SL5S9W7EH",
           "tier": 2,
           "seen_count": 1
         },
@@ -1703,27 +1712,33 @@
           "seen_count": 1
         },
         {
-          "title": "中國無人車搶進夜間物流，京東「白天配送、夜間補貨」單車營運成本降 2 成",
-          "url": "https://techorange.com/2026/10/12/china-s-delivery-robots-learning-tackle-night-shift/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "title": "Meta 最強 AI 模型 Muse Wonder 登場，為何自認更適合個人與專業 Agent？",
+          "url": "https://techorange.com/2026/10/13/meta-muse-wonder-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "ASML 下一代 Hyper NA 瞄準 5 奈米解析度，EUV 技術還有多少微縮空間？",
-          "url": "https://techorange.com/2026/10/12/asml-zeiss-hyper-na-euv/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "title": "不蓋新廠，改造老廠：新創 Harmoni 用平板與 AI 改裝美國傳統工廠",
+          "url": "https://techorange.com/2026/10/13/americas-old-factories-with-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "當 AI 風險從幻覺轉為做錯事，TeamT5 剖析企業防線：治理先從「看得到」開始",
-          "url": "https://techorange.com/2026/10/12/teamt5-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "title": "機器人不一定要有五指靈巧手，Zinova 提出「工具智慧」概念開拓建築機器人新方向",
+          "url": "https://techorange.com/2026/10/13/zinova-tool-intelligence-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "麥當勞、Citi 都搶做廣告生意，零售媒體 RMN 爆發後面臨什麼難題？",
+          "url": "https://techorange.com/2026/10/13/rmn-boom-headaches-cmos/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "tier": 2,
           "seen_count": 1
         }
       ],
       "no_signal": true,
       "deep_count": 0,
-      "watch_count": 130
+      "watch_count": 160
     }
   ]
 }
