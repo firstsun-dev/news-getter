@@ -1,0 +1,14 @@
+{
+  "category": "AI",
+  "timestamp": "2026-10-14_04-30",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "tier": 1,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}

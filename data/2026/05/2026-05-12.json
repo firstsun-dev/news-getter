@@ -809,7 +809,7 @@
               "confidence": null,
               "heat": null,
               "fact_html": "",
-              "judgment_html": "<p>今日的資訊流反映出 AI 產業已進入<strong>「幻覺治理」與「架構深耕」</strong>的成熟期。我們觀察到：\n1.  <strong>結構化大於語義化</strong>：無論是加網格處理圖表，還是利用知識圖譜強化推理，結構化信號正在取代純文字 Prompt 成為提升效能的關鍵。\n2.  <strong>內部信號的價值</strong>：模型內部的隱藏狀態已被證明比外部輸出包含更多誠實的「錯誤意識」，如何挖掘這些信號是下一代可靠 AI 的關鍵。\n3.  <strong>垂直領域的韌性檢測</strong>：隨著 IndustryBench 與 MedMeta 等深度基準的出現，通用模型的優勢正在縮小，專業領域適配（Domain Adaptation）正成為企業競爭的主戰場。</p>\n<p>身為分析師，我建議關注 <strong>Model Context Protocol (MCP)</strong> 的普及程度，因為它正成為今日論文中 Agent 呼叫工具、連接物理設備與加固安全邊界的底層通用協議。</p>"
+              "judgment_html": "<p>今日的資訊流反映出 AI 產業已進入**「幻覺治理」與「架構深耕」**的成熟期。我們觀察到：\n1.  <strong>結構化大於語義化</strong>：無論是加網格處理圖表，還是利用知識圖譜強化推理，結構化信號正在取代純文字 Prompt 成為提升效能的關鍵。\n2.  <strong>內部信號的價值</strong>：模型內部的隱藏狀態已被證明比外部輸出包含更多誠實的「錯誤意識」，如何挖掘這些信號是下一代可靠 AI 的關鍵。\n3.  <strong>垂直領域的韌性檢測</strong>：隨著 IndustryBench 與 MedMeta 等深度基準的出現，通用模型的優勢正在縮小，專業領域適配（Domain Adaptation）正成為企業競爭的主戰場。</p>\n<p>身為分析師，我建議關注 <strong>Model Context Protocol (MCP)</strong> 的普及程度，因為它正成為今日論文中 Agent 呼叫工具、連接物理設備與加固安全邊界的底層通用協議。</p>"
             }
           ],
           "watchlist": [],
