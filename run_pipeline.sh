@@ -55,14 +55,14 @@ if [ "$MODE" = "data-only" ]; then
 fi
 
 echo "Step 4: Astro build → dist/..."
-if ! command -v npm >/dev/null 2>&1; then
-    echo "npm 未安裝，跳過 Astro build。"
+if ! command -v pnpm >/dev/null 2>&1; then
+    echo "pnpm 未安裝，跳過 Astro build。"
     exit 0
 fi
 cd astro-src
 if [ ! -d node_modules ]; then
-    npm ci
+    pnpm install --frozen-lockfile
 fi
-npm run build
+pnpm run build
 
 echo "=== Pipeline 執行完成 ==="
