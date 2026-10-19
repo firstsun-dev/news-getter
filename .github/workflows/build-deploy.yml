@@ -28,20 +28,25 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v6
+        with:
+          package_json_file: astro-src/package.json
+
       - name: Setup Node
         uses: actions/setup-node@v6
         with:
-          node-version: '22'
-          cache: npm
-          cache-dependency-path: astro-src/package-lock.json
+          node-version: '24'
+          cache: pnpm
+          cache-dependency-path: astro-src/pnpm-lock.yaml
 
       - name: Install deps
         working-directory: astro-src
-        run: npm ci
+        run: pnpm install --frozen-lockfile
 
       - name: Build
         working-directory: astro-src
-        run: npm run build
+        run: pnpm run build
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

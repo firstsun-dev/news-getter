@@ -22,7 +22,7 @@ PYTHONPATH=. python3 src/summarizer.py      # outputs summary.md + history/<time
 PYTHONPATH=. python3 src/build_site.py      # outputs data/site_data.json, data/history_index.json, data/YYYY/MM/*.json
 
 # Astro build (reads data/, bakes HTML into dist/)
-cd astro-src && npm ci && npm run build
+cd astro-src && pnpm install --frozen-lockfile && pnpm run build
 
 # Unit tests
 PYTHONPATH=. python3 -m unittest discover -s test -v
@@ -63,7 +63,7 @@ The Qwen endpoint is configured via the `QWEN_BASE_URL`/`QWEN_API_KEY`/`QWEN_MOD
 ## Deployment (two workflows)
 
 - **`data-fetch.yml`** (`.github/workflows/data-fetch.yml`): cron UTC 00:00 + 12:00 on the **self-hosted macOS runner** (needs network access to the Qwen endpoint at `firstsun-nas:14000`). Runs `./run_pipeline.sh data-only`, then commits `data/`, `summary.md`, `history/` to `main` and pushes. No-op commit when nothing changed.
-- **`build-deploy.yml`** (`.github/workflows/build-deploy.yml`): triggers on `push` to `main` touching `data/**` or `astro-src/**`. Runs on `ubuntu-latest`: `npm ci && npm run build` in `astro-src/`, then `actions/upload-pages-artifact` on `dist/` and `actions/deploy-pages` to publish. `dist/` is never committed.
+- **`build-deploy.yml`** (`.github/workflows/build-deploy.yml`): triggers on `push` to `main` touching `data/**` or `astro-src/**`. Runs on `ubuntu-latest`: `pnpm install --frozen-lockfile && pnpm run build` in `astro-src/`, then `actions/upload-pages-artifact` on `dist/` and `actions/deploy-pages` to publish. `dist/` is never committed.
 - **GitHub Pages source must be set to "GitHub Actions"** (Settings → Pages → Source), not a branch.
 
 The Qwen endpoint defaults to `http://firstsun-nas:14000/v1` (resolvable on the mac runner's local network). To target a different host, set `QWEN_BASE_URL`/`QWEN_API_KEY`/`QWEN_MODEL` env vars. The default API key matches the one in the kilo config.

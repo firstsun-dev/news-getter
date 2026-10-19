@@ -36,7 +36,7 @@ build_site.py  → data/site_data.json        ↓
 ## 兩個 GitHub Actions workflow
 
 - **`data-fetch.yml`** — cron UTC 00:00 + 12:00，跑在 **self-hosted macOS runner**（需要 Gemini binary）。執行 `./run_pipeline.sh data-only`，commit `data/`+`summary.md`+`history/` 到 `main`。無變更時 no-op。
-- **`build-deploy.yml`** — push 到 `main` 觸碰 `data/**` 或 `astro-src/**` 時觸發，跑在 `ubuntu-latest`：`npm ci && npm run build`，再以 `actions/upload-pages-artifact` + `actions/deploy-pages` 部署 `dist/`。`dist/` 永不進 git。
+- **`build-deploy.yml`** — push 到 `main` 觸碰 `data/**` 或 `astro-src/**` 時觸發，跑在 `ubuntu-latest`：`pnpm install --frozen-lockfile && pnpm run build`，再以 `actions/upload-pages-artifact` + `actions/deploy-pages` 部署 `dist/`。`dist/` 永不進 git。
 - **GitHub Pages Source 須設為「GitHub Actions」**（Settings → Pages → Source），不是分支。
 
 ## 本地執行
@@ -49,11 +49,11 @@ build_site.py  → data/site_data.json        ↓
 ./run_pipeline.sh data-only
 
 # 單獨跑 Astro build
-cd astro-src && npm ci && npm run build
+cd astro-src && pnpm install --frozen-lockfile && pnpm run build
 
 # 測試
 PYTHONPATH=. python3 -m unittest discover -s test -v   # Python
-cd astro-src && npm test                                # categoryHue (Node --test)
+cd astro-src && pnpm test                                # categoryHue (Node --test)
 ```
 
 ## 如何客製化
@@ -67,7 +67,7 @@ cd astro-src && npm test                                # categoryHue (Node --te
 
 - [Gemini CLI](https://github.com/google/gemini-cli) 已安裝並登入（資料抓取階段）。
 - Python 3.10+。
-- Node ≥ 22.12（Astro build 階段）。
+- Node ≥ 24 + pnpm 12.14.0（Astro build 階段）。
 
 ## 設計文件
 
