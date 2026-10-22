@@ -3968,6 +3968,3956 @@
           "watch_count": 134
         }
       ]
+    },
+    {
+      "time": "17:00",
+      "categories": [
+        {
+          "name": "AI",
+          "anchor": "AI",
+          "archive_url": "./history/2026-10-22_17-00/index.html#AI",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "AI finds a security hole in 70% of the web",
+              "url": "https://therundownai.beehiiv.com/p/ai-finds-a-security-hole-in-70-of-the-web",
+              "tier": 3,
+              "seen_count": 1
+            },
+            {
+              "title": "Claude’s personal agent",
+              "url": "https://www.bensbites.com/p/claudes-personal-agent",
+              "tier": 3,
+              "seen_count": 1
+            },
+            {
+              "title": "Ensemble forecasting with IBM Granite time-series models",
+              "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+              "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "What FDE means at OpenAI",
+              "url": "https://openai.com/index/forward-deployed-engineering-means",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
+              "url": "https://arxiv.org/abs/2610.28686",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
+              "url": "https://arxiv.org/abs/2610.28698",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
+              "url": "https://arxiv.org/abs/2610.28706",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
+              "url": "https://arxiv.org/abs/2610.28815",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
+              "url": "https://arxiv.org/abs/2610.28763",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
+              "url": "https://arxiv.org/abs/2610.28826",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis",
+              "url": "https://arxiv.org/abs/2610.28836",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Speedrunning Relational Foundation Model Pretraining",
+              "url": "https://arxiv.org/abs/2610.28855",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
+              "url": "https://arxiv.org/abs/2610.28875",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Fig: Automated Multiagent Behavior Elicitor",
+              "url": "https://arxiv.org/abs/2610.28891",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Hidden Messages Between Diffusion Language Model Agents: Causal Evidence for Latent Communication",
+              "url": "https://arxiv.org/abs/2610.28905",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "DiffResearch: Accelerating Deep Research with Diffusion Language Models",
+              "url": "https://arxiv.org/abs/2610.28909",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Simply Logical -- The First Three Decades",
+              "url": "https://arxiv.org/abs/2610.28912",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "D-Skill: Distilling Teacher Knowledge through Agent Skills",
+              "url": "https://arxiv.org/abs/2610.28914",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Back Up Before You Regret: Measuring Backup Awareness and Automating Backup in Coding Agents",
+              "url": "https://arxiv.org/abs/2610.28934",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Self-Improving Agents with World Model Predictive Paths",
+              "url": "https://arxiv.org/abs/2610.28945",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
+              "url": "https://arxiv.org/abs/2610.28982",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust",
+              "url": "https://arxiv.org/abs/2610.28987",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "An Evidence-Driven Multi-Agent Compound AI System for Head and Neck Proton Radiotherapy Planning",
+              "url": "https://arxiv.org/abs/2610.29010",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "AgentPolicyForge: From Executable Environments to Policy Benchmarks and Adaptive Guards",
+              "url": "https://arxiv.org/abs/2610.28989",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "GenXR-Bench: Benchmarking Coding Agents for Interactive XR Development",
+              "url": "https://arxiv.org/abs/2610.29014",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "GRAIL: From Saliency to Semantics in Time-Series Explanation",
+              "url": "https://arxiv.org/abs/2610.29036",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Inheritance as an Admission Test for LLM Prompt Merge Operators",
+              "url": "https://arxiv.org/abs/2610.29023",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "AutoFraming: Synthesizing Dynamic Frames of C Code with LLMs",
+              "url": "https://arxiv.org/abs/2610.29046",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Same Answer, Different Reasons: Trace-Level Divergence in Multilingual Large Language Models",
+              "url": "https://arxiv.org/abs/2610.29092",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Context-Augmented, Session-Calibrated Blood Pressure Tracking from Photoplethysmography",
+              "url": "https://arxiv.org/abs/2610.29091",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Does Every Instance Count Equally? Order Effects in LLM Multi-Instance Processing",
+              "url": "https://arxiv.org/abs/2610.29057",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "GRAM: Group-wise Rank-Aware Model Merging via Subspace Alignment",
+              "url": "https://arxiv.org/abs/2610.29110",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Recursive Self-Improvement on a Budget: Scoring Code Edits Before They Run",
+              "url": "https://arxiv.org/abs/2610.29121",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "StochIKM: Automated High-Fidelity Reconstruction of Individual Patient Data from Published Kaplan-Meier Curves",
+              "url": "https://arxiv.org/abs/2610.29122",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "NormTune: Norm-Guided Parameter-Efficient Fine-Tuning for Reasoning-Intensive Tasks",
+              "url": "https://arxiv.org/abs/2610.29134",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "LaVGuard: Selective Decoding for Contextual Value Drift",
+              "url": "https://arxiv.org/abs/2610.29135",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model",
+              "url": "https://arxiv.org/abs/2610.29139",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "TeachBack: Learning to Teach via Bidirectional Preference Optimization for On-Policy Self-Distillation",
+              "url": "https://arxiv.org/abs/2610.29167",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "From Scores to Safe Sets: Exact Safety--Constrained Decoding for Medication Recommendation",
+              "url": "https://arxiv.org/abs/2610.29228",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "When Multiple Choices Are Correct: Asymmetric Probability Allocation in Jev and Other Decision Models",
+              "url": "https://arxiv.org/abs/2610.29217",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "CrashGym: Measuring the Decision Value of Experimentation for LLM Agents in Counterfactual Market Crashes",
+              "url": "https://arxiv.org/abs/2610.29245",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "ARCANA: A Benchmark for Abstraction and Analogical Reasoning",
+              "url": "https://arxiv.org/abs/2610.29271",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Same Probabilities, Different Advice: Gain-Loss Framing Effects in High-Stakes LLM Decision Support",
+              "url": "https://arxiv.org/abs/2610.29294",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "LLM-Based Exogenous World Modeling for Dynamic Scheduling",
+              "url": "https://arxiv.org/abs/2610.29308",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "SpatialBrain: Spatial Intelligence Growing from Experience",
+              "url": "https://arxiv.org/abs/2610.29317",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "AgentMonopoly: Behavioral Patterns and Persona Control in LLM Agents",
+              "url": "https://arxiv.org/abs/2610.29330",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "From Prompts to Posteriors: Can LLM Agents Perform Bayesian Inference in Context?",
+              "url": "https://arxiv.org/abs/2610.29331",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "MERP: A Latent-Bottleneck Framework for Robust Multi-Modal Multi-Label Emotion Recognition",
+              "url": "https://arxiv.org/abs/2610.29430",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Solving Go under Positional Superko: Sound Proof Transfer and New Board Values",
+              "url": "https://arxiv.org/abs/2610.29414",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Events, Not Pixels: Where World Models Get the Return Wrong",
+              "url": "https://arxiv.org/abs/2610.29435",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "RubricOpt: Self-Revision of Semantic Rubrics for Preference Optimization",
+              "url": "https://arxiv.org/abs/2610.29491",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "PreCoMem: Predictive Cognitive Memory for Self-Evolving Long-Term Dialogue Agents",
+              "url": "https://arxiv.org/abs/2610.29467",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "An Exact 93-Move Solution to a Nonlocal Crystal-Exchange Puzzle",
+              "url": "https://arxiv.org/abs/2610.29493",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Parallel Thinking for Large Language Model with Path Diversity",
+              "url": "https://arxiv.org/abs/2610.29501",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "From Association to Decision Value: Testing Paired Instruction Dependence for VLA Corpus Selection",
+              "url": "https://arxiv.org/abs/2610.29646",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "TraceForge: Distilling with Your Own Thinking",
+              "url": "https://arxiv.org/abs/2610.29680",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "COMET: A coordinated multi-layer runtime monitoring framework for human-supervised AI-enabled safety systems",
+              "url": "https://arxiv.org/abs/2610.29816",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Real PMIDs, Wrong Papers: Harness Design for Biomedical Claim-Verification Agents",
+              "url": "https://arxiv.org/abs/2610.29812",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "UserSWE: Evaluating Coding Agents in Multi-Turn Conversations with Dynamic Users",
+              "url": "https://arxiv.org/abs/2610.29822",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "ToM2Vec: Continuous Theory-of-Mind Tokens for Multi-Agent Coordination",
+              "url": "https://arxiv.org/abs/2610.29934",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Commit or Abstain? System One Decision Models, LLMs, and Missing Legal Authority",
+              "url": "https://arxiv.org/abs/2610.29961",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "TIDE: Tree-Induced Fine-Grained Diagnostic Evaluation from Model Behaviors",
+              "url": "https://arxiv.org/abs/2610.29985",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "GuideEvolve: Self-Evolving Agent Framework with Expert Guidance and 3Ts Mechanisms",
+              "url": "https://arxiv.org/abs/2610.30017",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Robust Soft Skill Adaptation via Behavioral Localization in Tool-Using Agents",
+              "url": "https://arxiv.org/abs/2610.30041",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "HGM-Dual: Lineage-Aware Guided Agent Harness Optimization for Long-Horizon Planning",
+              "url": "https://arxiv.org/abs/2610.30042",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Which Differences Matter? Controlled Tests of Rule Transfer, Joint Reliability, and Information Use in Decision Models",
+              "url": "https://arxiv.org/abs/2610.30045",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Charts as Epistemic Actions for Experience-Driven Agentic Data Analysis",
+              "url": "https://arxiv.org/abs/2610.30072",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "First Passage Attention",
+              "url": "https://arxiv.org/abs/2610.22714",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Zero-Cost Detection of Fabricated Citations: A Staged Heuristic Approach for Computing Dissertation Assessment",
+              "url": "https://arxiv.org/abs/2610.28649",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "The CIDOC CRM Periodic Table: Documentation You Can Test to Support the Adoption of Scientific Research Ontologies for the Humanities",
+              "url": "https://arxiv.org/abs/2610.28650",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "What Git Does Not Record: Provenance Legibility in Two AI-Assisted Research Repositories",
+              "url": "https://arxiv.org/abs/2610.28655",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "FutureLens: Longitudinal Topic Patterns in Scholarly Text and Future-Work References",
+              "url": "https://arxiv.org/abs/2610.28656",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "CompLit: Scientific Literature Search Benchmarks Must Cover Implicit, Cumulative, and Unmet Needs",
+              "url": "https://arxiv.org/abs/2610.28658",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Beyond source attribution: Address authorship and comparability decisions in an LLM-built scholarly knowledge graph",
+              "url": "https://arxiv.org/abs/2610.28663",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Who Verifies the Builder? Toward Independent Assurance for Agent-Produced Software",
+              "url": "https://arxiv.org/abs/2610.28667",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Learning Checklists to Reduce Lottery Effects in Scientific Peer Review",
+              "url": "https://arxiv.org/abs/2610.28666",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "VHDLBench: Benchmarking and Fine-Tuning Large Language Models for VHDL-Based Chip Design",
+              "url": "https://arxiv.org/abs/2610.28676",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "VerifierBench: Benchmarking the Generation of Executable Verifiers for LLM Agents",
+              "url": "https://arxiv.org/abs/2610.28679",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Interaction-Gated Time-Frequency Learning for Parameter-Efficient PPG-Based Heart Rate Estimation",
+              "url": "https://arxiv.org/abs/2610.28693",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Reinforcement learning for hardware acceleration and system-level optimization on FPGA and integrated-circuit platforms: A survey",
+              "url": "https://arxiv.org/abs/2610.28699",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Offline Apprenticeship Learning for Human-Centric Environments",
+              "url": "https://arxiv.org/abs/2610.28716",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "STAR-XPC: Set Transformer for Estimating X-ray Transmission in Polymer Composites",
+              "url": "https://arxiv.org/abs/2610.28709",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "GPU-Accelerated Construction of the Gabriel Graph: Parallelization Strategies and Applications to Large-Margin Classification and Graph-Based Clustering",
+              "url": "https://arxiv.org/abs/2610.28759",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "SkillEval: Learning Interpretable Ability Profiles of LLMs via Cognitive Diagnosis Models",
+              "url": "https://arxiv.org/abs/2610.28767",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "ReAPO: Retry-Aware Policy Optimization for Efficient Exploration in LLM Reasoning",
+              "url": "https://arxiv.org/abs/2610.28770",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Second Thoughts: Exploring and Planning through Comparative Imagination in World Models",
+              "url": "https://arxiv.org/abs/2610.28779",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "ArcFlow: Training Flow Policies for Multiple Solver Budgets",
+              "url": "https://arxiv.org/abs/2610.28788",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "CALLIOPE: Private Insights into AI Use, Without Embeddings",
+              "url": "https://arxiv.org/abs/2610.28797",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Towards Realistic Models of Change: A Causal Perspective on Decision-Making and Dynamical Systems",
+              "url": "https://arxiv.org/abs/2610.28803",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Combining Long-Term Memory and LLMs Comes at a High Cost: From Prompt Injection to Persistent Compromise",
+              "url": "https://arxiv.org/abs/2610.28810",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Brittle by Design? Multi-Scenario Reinforcement Learning for Robust Mission Coordination in Systems of Systems",
+              "url": "https://arxiv.org/abs/2610.28818",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Where Should a Stuck Agent Spend Its Next Tokens? Causal Attribution of Inference-Time Resources",
+              "url": "https://arxiv.org/abs/2610.28834",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "When Do Gaussian Priors Fail? A Latent Geometry Investigation of RL Fine-Tuning",
+              "url": "https://arxiv.org/abs/2610.28849",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "How to Use Parallel Data for Multilingual Pretraining",
+              "url": "https://arxiv.org/abs/2610.28838",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "DualHeads: Reward-tilted few-step diffusion made simple",
+              "url": "https://arxiv.org/abs/2610.28858",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "inr2action: Encoding Robot Episodes as Neural Implicit Representations for Recall and Action",
+              "url": "https://arxiv.org/abs/2610.28882",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Agent AI Zarz\\k{a}dzaj\\k{a}cy Sieci\\k{a} Open RAN Zorientowana na U\\.zytkownika",
+              "url": "https://arxiv.org/abs/2610.28860",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "A General Topological Symmetry Index for Critical Orbits In Neural Network Loss Landscapes",
+              "url": "https://arxiv.org/abs/2610.28864",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "SANE: Automated Scorer-Specific Metamorphic Testing for LLM Judges",
+              "url": "https://arxiv.org/abs/2610.28886",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "JaxMARL-BC: Multi-Agent Reinforcement Learning for Macroeconomic Modelling, in Seconds",
+              "url": "https://arxiv.org/abs/2610.28907",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "RL-IF: Tracking Non-local Training Data Influence for Online Reinforcement Learning",
+              "url": "https://arxiv.org/abs/2610.28883",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "HyperDrone: Simulation-to-Reality Transfer at Millions of Frames per Second",
+              "url": "https://arxiv.org/abs/2610.28950",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "SLoSa: Small, Low-Power, and Safe Foundation Models for Robotic Task Planning",
+              "url": "https://arxiv.org/abs/2610.28955",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "StyleStream 2.0: Fast and Controllable Streaming Voice Style Conversion",
+              "url": "https://arxiv.org/abs/2610.28940",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning",
+              "url": "https://arxiv.org/abs/2610.28966",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Can Quantum Layers offer Performance and Security Advantages in Vision-Language Models?",
+              "url": "https://arxiv.org/abs/2610.28964",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Unit-Aware Differentially Private Quantum Machine Learning for Clinical and Wearable Health Data",
+              "url": "https://arxiv.org/abs/2610.28968",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "SSMCGM-Stream: A Streaming State-Space Model for Personalized Diabetes Management",
+              "url": "https://arxiv.org/abs/2610.28976",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Rethinking Time Series Tokenization from a Frequency Perspective",
+              "url": "https://arxiv.org/abs/2610.28997",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "From Weather to Enhanced Weathering: Weather Foundation Models for Carbon Dioxide Removal at Operational Scale",
+              "url": "https://arxiv.org/abs/2610.28973",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "VeriEvolve: Evaluator-First Evolution for Tool-Using Agents",
+              "url": "https://arxiv.org/abs/2610.29005",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Enhancing Cross-Grade Generalization in Banana Variety Classification via Hybrid CNN-Transformers and Knowledge Self-Distillation",
+              "url": "https://arxiv.org/abs/2610.29008",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "PHD-Hand: A Printable Humanoid Dexterous Hand with Linkage-Driven 3-DOA Digits",
+              "url": "https://arxiv.org/abs/2610.29030",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Our Own Jev: Typed Decisions in One Forward Pass, from an In-House Judge to Open LoRA Models",
+              "url": "https://arxiv.org/abs/2610.29052",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "HumanCentric-Scenes-AI: A Human-Curated Multimodal Dataset of AI-Generated Human-Centric Scenes Across Surveillance, Occupational Portraits, AI-Edited Images, and Short-Form Video",
+              "url": "https://arxiv.org/abs/2610.29045",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Distilling Multi-Teacher Scoring Principles for Unsupervised Time Series Anomaly Detection",
+              "url": "https://arxiv.org/abs/2610.29063",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "A Large-Scale Evaluation of Role-Enhanced Zero-Shot Chain-of-Thought Prompting",
+              "url": "https://arxiv.org/abs/2610.29073",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Value-Rectified Distillation for Flow-based Offline Reinforcement Learning",
+              "url": "https://arxiv.org/abs/2610.29075",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "ReSeg: Retraining-free segmentation of abdominal organs via generalizable semantic representation learning",
+              "url": "https://arxiv.org/abs/2610.29090",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Agentic Music Post-Production",
+              "url": "https://arxiv.org/abs/2610.29093",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "UNIVERS: Learning UNIversal Voxel-wise Embedding via Randomized Synthesis for generalizable one-shot landmark localization",
+              "url": "https://arxiv.org/abs/2610.29098",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Dual-Channel Contrastive Encoding of Sperm Whale Coda",
+              "url": "https://arxiv.org/abs/2610.29101",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "An Eco-Friendly Tourism Trip Planner Driven by Z-Number Uncertainty: Evidence from Baku, Dubai, Abu Dhabi, Tashkent, and Istanbul",
+              "url": "https://arxiv.org/abs/2610.29120",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Mitigating Reward Hacking in Realistic Scenarios Through Representation Engineering",
+              "url": "https://arxiv.org/abs/2610.29129",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "GRAFT: Restoring the Missing Sampling Interface in Continuous Diffusion Language Models",
+              "url": "https://arxiv.org/abs/2610.29136",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "From AI-Free Gates to AI-First Work: How Engineering Students in India Navigate University Education and Campus Placements Without AI Guidelines",
+              "url": "https://arxiv.org/abs/2610.29140",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "ORSMT: Unleashing the Potential of Satisfiability Modulo Theories for Semantic Verification and Repair in LLM-Based Optimization",
+              "url": "https://arxiv.org/abs/2610.29145",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Where Does Timbre Hide? Localizing Speaker Information in Speech Signals",
+              "url": "https://arxiv.org/abs/2610.29150",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "From Augmentation to Synthetic Evidence: Evaluating Generated Chest Radiographs at Dataset Intake",
+              "url": "https://arxiv.org/abs/2610.29152",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "AI-Based End-to-End Automotive Design and Software Development for SDVs",
+              "url": "https://arxiv.org/abs/2610.29160",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Why is AI-generated language so hard to understand?",
+              "url": "https://arxiv.org/abs/2610.29162",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "How Representational Priors Shape Generalization in World Action Models",
+              "url": "https://arxiv.org/abs/2610.29168",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "TrainBridge: Agentic NPU Training Optimization Guided by GPU Compilation Evidence",
+              "url": "https://arxiv.org/abs/2610.29171",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Conditional Flow Models Convert Epistemic Uncertainty into Apparent Aleatoric Variance",
+              "url": "https://arxiv.org/abs/2610.29172",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Correlated Failures of AI Approval Monitors",
+              "url": "https://arxiv.org/abs/2610.29178",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Resuming Vision-Language Inference across Onboard Interruptions",
+              "url": "https://arxiv.org/abs/2610.29183",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "LTEM: LLM-Friendly Table-Enhanced Markdown for Table Understanding and Generation",
+              "url": "https://arxiv.org/abs/2610.29188",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Huayu-Global: Skillful real-time quasi-global precipitation retrieval",
+              "url": "https://arxiv.org/abs/2610.29213",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Beyond Binary Labels: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics",
+              "url": "https://arxiv.org/abs/2610.29225",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "MOSAIC: An Omni-Modal Benchmark for Long-Term Memory and Cross-Modal Reasoning in Conversational Agents",
+              "url": "https://arxiv.org/abs/2610.29249",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Hierarchical Masked Diffusion Language Models",
+              "url": "https://arxiv.org/abs/2610.29255",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "CRAB: Cuboid-based Representation for As-built BIM from Point Clouds",
+              "url": "https://arxiv.org/abs/2610.29257",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Flat-RLVR: Sharpness-Aware Reinforcement Learning with Verifiable Rewards for Reasoning Capacity in LLMs",
+              "url": "https://arxiv.org/abs/2610.29281",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Latent space configuration for neural network finetuning, fast ranking, and embedding dimensionality reduction",
+              "url": "https://arxiv.org/abs/2610.29295",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "When Are We Near Nash? Certifying Solutions in General-Sum Games",
+              "url": "https://arxiv.org/abs/2610.29300",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "YingLan: A Multimodal Ocean Foundation Model for Unified Representation Learning from Heterogeneous Observations",
+              "url": "https://arxiv.org/abs/2610.29313",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "OpenMAP-HIE: Pathology Informed Score-based Diffusion Model for Unsupervised Neonatal Hypoxic-Ischemic Encephalopathy Lesion Segmentation",
+              "url": "https://arxiv.org/abs/2610.29322",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "ChronoSynth: Constraint-Aware Question Synthesis over Temporal Knowledge Graphs",
+              "url": "https://arxiv.org/abs/2610.29339",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Memory-Centric Continual Learning for AI Agents",
+              "url": "https://arxiv.org/abs/2610.29357",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Reading the Mask: Descriptor-Grounded BI-RADS Rationale Generation for Breast MRI Segmentation",
+              "url": "https://arxiv.org/abs/2610.29358",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Parallelizable Probabilistic Latent Reasoning for Diverse Reasoning Trajectories",
+              "url": "https://arxiv.org/abs/2610.29385",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "LLMSeg: Training-Free Text-Prompted Image Segmentation with B-Splines",
+              "url": "https://arxiv.org/abs/2610.29409",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Beyond Small Talk: Modeling Disclosure Trajectories in Human-AI Conversation",
+              "url": "https://arxiv.org/abs/2610.29413",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "RegoMender: A Multi-agent Framework for Automated Rego Policy Repair",
+              "url": "https://arxiv.org/abs/2610.29456",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Harness Scaling for Generalizable Agentic Reinforcement Learning",
+              "url": "https://arxiv.org/abs/2610.29458",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "OmniSimulator: Aligning Small Language Models for Authentic Heterogeneous Behavior Modeling",
+              "url": "https://arxiv.org/abs/2610.29472",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Generative Modeling via Nonlinear Schr\\\"odinger Bridges and Branching Diffusions",
+              "url": "https://arxiv.org/abs/2610.29476",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "A Strong MoE Is All You Need for Process Supervision",
+              "url": "https://arxiv.org/abs/2610.29498",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Keeping Time vs. Understanding Time: Neither Alone Explains Temporal Reasoning in LLMs",
+              "url": "https://arxiv.org/abs/2610.29507",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Rethinking Agentic Model Orchestration for Time Series Forecasting",
+              "url": "https://arxiv.org/abs/2610.29504",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Mitigating Query Shortcuts in Chain-of-Thought with Context-Aware Decoding",
+              "url": "https://arxiv.org/abs/2610.29518",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Are Joint-Embedding Predictive Objectives Effective for Longitudinal EHRs?",
+              "url": "https://arxiv.org/abs/2610.29528",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Block Diffusion for Longitudinal EHR: Accuracy, Efficiency, and Representation Trade-offs",
+              "url": "https://arxiv.org/abs/2610.29533",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Stochastic Pruning of the DPO Computation Graph: 1.4x Faster Training and Lower Peak Memory",
+              "url": "https://arxiv.org/abs/2610.29538",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "The Reflexivity Threshold: A Phase Transition for Multi-Agent Performative Prediction",
+              "url": "https://arxiv.org/abs/2610.29577",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Improved Training of Strong Stochastic Flow Maps",
+              "url": "https://arxiv.org/abs/2610.29605",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Overview of CHIP 2026 Shared Task 1: Patient-Specific Phenotype Concept Recognition in Full-Text Biomedical Literature",
+              "url": "https://arxiv.org/abs/2610.29606",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "An interpretable deep learning method for early hepatocellular carcinoma diagnosis on multiphase CT",
+              "url": "https://arxiv.org/abs/2610.29616",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "FogTTA: Online Test-Time Adaptation for Robust Transformer-based Object Detection in Foggy Weather",
+              "url": "https://arxiv.org/abs/2610.29618",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Formalizing Cooperation and Competition: An AI-Assisted Mathematical Addendum to a 2018 Planning Thesis",
+              "url": "https://arxiv.org/abs/2610.29637",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Conflicted Records: Typed Adversarial Contracts for Auditable LLM Output Quality Enforcement",
+              "url": "https://arxiv.org/abs/2610.29669",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Lineage-Aware Search Control for LLM-Based Evolutionary Factor Mining",
+              "url": "https://arxiv.org/abs/2610.29663",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Toward Recursive Self-Improvement in Physical AI",
+              "url": "https://arxiv.org/abs/2610.29677",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Scaling Multilingual Pretraining of Pixel Language Models",
+              "url": "https://arxiv.org/abs/2610.29681",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Bio-Inspired Auditory Processing: Coupling Parallel Resonate-and-Fire Dynamics with Ternary Recurrent Networks for Speech Recognition",
+              "url": "https://arxiv.org/abs/2610.29720",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Retrieval Augmented Generation Compositionality",
+              "url": "https://arxiv.org/abs/2610.29722",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Metamodel-Guided LLM Decoding for Consistent DSL Generation",
+              "url": "https://arxiv.org/abs/2610.29749",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "SAKURA: Serving Attention Key-Value State Under Rate Adaptation for Private Image Editing on Phones",
+              "url": "https://arxiv.org/abs/2610.29733",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Structure-Aware Message Passing on Petri Nets through Directed Walks and Incidence Diffusion",
+              "url": "https://arxiv.org/abs/2610.29725",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Where Do LLMs Learn to Recommend AI?",
+              "url": "https://arxiv.org/abs/2610.29785",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Robot Generalization Beyond Volume: The Diversity Path via Zero-Shot Capabilities",
+              "url": "https://arxiv.org/abs/2610.29829",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "MemoryTax: The Bitter Lesson of Agent Memory",
+              "url": "https://arxiv.org/abs/2610.29823",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "S-EDL: Eliciting Self-Evidence from Sequence Likelihoods for Semantic Calibration of LLMs",
+              "url": "https://arxiv.org/abs/2610.29832",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Broadband Mid-Wave Infrared Imaging Enabled by All-Silicon Hyperboloid Metalens",
+              "url": "https://arxiv.org/abs/2610.29841",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Every Part Has Its Role: Part-of-Speech Effects in LLM Post-Training",
+              "url": "https://arxiv.org/abs/2610.29843",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "PAUSE: Search-Free Steering of Coding Agents Before Their First Source-Code Edit",
+              "url": "https://arxiv.org/abs/2610.29870",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Asking a Multimodal LLM Whether Someone Fell: Zero-Shot Screening of Low-Resolution Thermal Video in a Laboratory and an Occupied Home",
+              "url": "https://arxiv.org/abs/2610.29913",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language Models",
+              "url": "https://arxiv.org/abs/2610.29895",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Unintended Side Effects of Value Training in LLMs",
+              "url": "https://arxiv.org/abs/2610.29922",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Privacy in Context Is Being Overlooked in the Age of General-Purpose LLMs",
+              "url": "https://arxiv.org/abs/2610.29925",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Your Benchmark Is an Empirical Measure Over Difficulty",
+              "url": "https://arxiv.org/abs/2610.29927",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Graph Topology Meets Energy-Driven Pathfinding: Preserving Contextual Consistency in Retrieval-Augmented Generation",
+              "url": "https://arxiv.org/abs/2610.29933",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "CulturalRiddles: A Multicultural Benchmark of Riddles",
+              "url": "https://arxiv.org/abs/2610.29968",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "FaultGene: LLM-Assisted Fault-Augmented Test Generation for Hardware-in-the-Loop Validation of Autonomous Driving Systems",
+              "url": "https://arxiv.org/abs/2610.29969",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "HiddenLens: A Multi-Layer LLM Framework for Detecting and Resolving Hidden Assumptions in Software Requirements",
+              "url": "https://arxiv.org/abs/2610.29996",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Building Auditable AI Text Detectors with Sparse Autoencoders",
+              "url": "https://arxiv.org/abs/2610.30006",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Every Alarm Has a Cause: An Open Generator of Telecom Alarm Storms with Exact Root Causes, Bound to NORIA-O, RFC 8632 and TMF642",
+              "url": "https://arxiv.org/abs/2610.30004",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Agent Behavior Maps: Locating Agents by What They Would Do, Without Running Them",
+              "url": "https://arxiv.org/abs/2610.30014",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Stationarity Constraints Improve Both Energies and Densities of Machine-Learned Exchange-Correlation Functionals",
+              "url": "https://arxiv.org/abs/2610.30022",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Code Comprehensor: Hierarchical Documentation and Cross-Modal Retrieval for Large Repositories",
+              "url": "https://arxiv.org/abs/2610.30016",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "What the Author Wrote, What the Agent Reads: Silent Cue Loss in Enterprise Document Ingestion",
+              "url": "https://arxiv.org/abs/2610.30026",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "SWE-DIVE: Multi-Turn Coding Agent Evaluation with Dynamic User Simulation",
+              "url": "https://arxiv.org/abs/2610.30047",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation",
+              "url": "https://arxiv.org/abs/2610.30044",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks",
+              "url": "https://arxiv.org/abs/2610.30051",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation",
+              "url": "https://arxiv.org/abs/2610.30097",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization",
+              "url": "https://arxiv.org/abs/2610.30074",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Differentially Private Sparse Reward Estimation with Preference Feedback",
+              "url": "https://arxiv.org/abs/2610.30099",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Asymmetric On-Policy Distillation Learns In-Context Exploration",
+              "url": "https://arxiv.org/abs/2610.30105",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "BatchBench: Benchmarking AI Robustness to Batch Effects and Domain Shift in Biomedical Images - A JUMP Cell Painting Leaderboard",
+              "url": "https://arxiv.org/abs/2610.30104",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
+              "url": "https://arxiv.org/abs/2610.30108",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "The End of Consensus Research?",
+              "url": "https://arxiv.org/abs/2610.30114",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+              "url": "https://arxiv.org/abs/2610.30113",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Environment Duels: A Microcosm of LLM Co-Evolution",
+              "url": "https://arxiv.org/abs/2610.30116",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+              "url": "https://arxiv.org/abs/2610.30128",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
+              "url": "https://arxiv.org/abs/2610.30125",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Generative Artificial Intelligence for Internet of Things Computing: A Systematic Survey",
+              "url": "https://arxiv.org/abs/2504.07635",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "PRISM: Prompt-Refined In-Context System Modelling for Financial Retrieval",
+              "url": "https://arxiv.org/abs/2511.14130",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Synthesis and Verification of Register Automata over Data Sequences (Technical Report)",
+              "url": "https://arxiv.org/abs/2511.19100",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Replayable Financial Agents: A Determinism-Faithfulness Assurance Harness for Tool-Using LLM Agents",
+              "url": "https://arxiv.org/abs/2601.15322",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "2-Step Agent: How a Bayesian Decision Maker Learns from AI-Decision Support",
+              "url": "https://arxiv.org/abs/2602.21889",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "A Theoretical Analysis of Why Masked Diffusion Models Mitigate the Reversal Curse",
+              "url": "https://arxiv.org/abs/2602.02133",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "The Alien Space of Science: Sampling Coherent but Cognitively Unavailable Research Directions",
+              "url": "https://arxiv.org/abs/2603.01092",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "FactReview: Evidence-Grounded Peer Review with Execution-Based Claim Verification",
+              "url": "https://arxiv.org/abs/2604.04074",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Accurate and Efficient Multi-Channel Time Series Forecasting via Sparse Attention Mechanism",
+              "url": "https://arxiv.org/abs/2603.18712",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Adaptive auditing of AI systems with anytime-valid guarantees",
+              "url": "https://arxiv.org/abs/2605.07002",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Proposals and challenges for zero-knowledge verification of frontier AI training",
+              "url": "https://arxiv.org/abs/2606.05433",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "WindINR: Latent-State INR for Fast Local Wind Query and Correction in Complex Terrain",
+              "url": "https://arxiv.org/abs/2605.09511",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
+              "url": "https://arxiv.org/abs/2606.06523",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Rethinking Synthetic Rationale Supervision for Disease Prediction",
+              "url": "https://arxiv.org/abs/2606.10279",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "TNODEV: Toolbox for Neural ODE Verification",
+              "url": "https://arxiv.org/abs/2606.16567",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Beyond Accuracy: Measuring Logical Compliance of Predictive Models",
+              "url": "https://arxiv.org/abs/2606.20208",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "DFAH-Bench: What Agreement Leaves Unmeasured in Financial Agents",
+              "url": "https://arxiv.org/abs/2607.20491",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "DeepLook: Uncertainty-Guided Branching with Lookahead Confidence for Efficient Reasoning",
+              "url": "https://arxiv.org/abs/2607.22602",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "CTBench: Evaluating Troubleshooting Capabilities of AI Agents in Realistic Telecom Network Operations",
+              "url": "https://arxiv.org/abs/2608.12002",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement",
+              "url": "https://arxiv.org/abs/2608.14590",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Language Models Give Group-Linked Fields the Wrong Weight",
+              "url": "https://arxiv.org/abs/2608.22887",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "From Atomic to Agentic: Towards Interpretable Evaluation of LLMs' Agentic Mathematical Capabilities",
+              "url": "https://arxiv.org/abs/2608.26950",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Interface-Induced Trajectory Censoring",
+              "url": "https://arxiv.org/abs/2609.03966",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "World Models Under Asynchronous Sensor Observations",
+              "url": "https://arxiv.org/abs/2609.07299",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Adaptive Entangled Neurons in the Brain and Natural Intelligence Simulations for Artificial General Intelligence",
+              "url": "https://arxiv.org/abs/2609.09226",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "An auditable conditional-strategy framework for open-ended decision-making in complex lung cancer",
+              "url": "https://arxiv.org/abs/2609.29381",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records",
+              "url": "https://arxiv.org/abs/2609.17631",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "EHRAdapt: Adapting Pretrained Language Models to Electronic Health Records with Semantic Priors for Rare Clinical Events",
+              "url": "https://arxiv.org/abs/2609.34007",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "AdaGuard: An Adaptive Guard Model with User-defined Policies",
+              "url": "https://arxiv.org/abs/2609.34241",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Predictor-Guided Latent Space Codon Optimization for Maximizing Protein Expression",
+              "url": "https://arxiv.org/abs/2610.03098",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "RocketAgent: A Long-Horizon Engineering Agent for Multidisciplinary Design of Liquid-Rocket Thrust Chambers",
+              "url": "https://arxiv.org/abs/2610.06044",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Estimating Great Expectations Under Autoregressive Language Models with Potentials",
+              "url": "https://arxiv.org/abs/2610.11399",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
+              "url": "https://arxiv.org/abs/2610.10513",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "HiPPT: Physiology-Grounded Wearable PPG Representation Learning via Multi-Scope Text Alignment",
+              "url": "https://arxiv.org/abs/2610.14489",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "SFT Leaves a Reproducible Signature in Activation Geometry: Calibrating Post-Training Interpretability Against Run-to-Run Noise",
+              "url": "https://arxiv.org/abs/2610.17093",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "MADDIE: Multi-Agent Drug Discovery Engine",
+              "url": "https://arxiv.org/abs/2610.16975",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "AssetForge: Asset-Augmented Task Synthesis for Business Automation Agents",
+              "url": "https://arxiv.org/abs/2610.18330",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills",
+              "url": "https://arxiv.org/abs/2610.20926",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Incentivizing Tool-Use Reinforcement Learning for Post-Arrival Emergency Care Prediction",
+              "url": "https://arxiv.org/abs/2610.21449",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "LOADBench: A Large Open Analog Dataset and Benchmark for Machine Learning in IC Design",
+              "url": "https://arxiv.org/abs/2610.21591",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds",
+              "url": "https://arxiv.org/abs/2610.24061",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
+              "url": "https://arxiv.org/abs/2610.23670",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "HybridResearcher: Bridging the Structured-Unstructured Boundary for Deep Research Agents",
+              "url": "https://arxiv.org/abs/2610.24899",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "When Form Changes but Logic Doesn't: Building Logic-invariant LLMs through Logical Structure",
+              "url": "https://arxiv.org/abs/2610.25402",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse",
+              "url": "https://arxiv.org/abs/2610.25043",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "REFLEX: RNA Ensemble Generation via Flexibility-Calibrated Stochastic Bridge",
+              "url": "https://arxiv.org/abs/2610.26261",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Learning What to Remember: Resource-Efficient Self-Improvement for Lifelong Agents",
+              "url": "https://arxiv.org/abs/2610.26453",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Evolving Self-tuning Benchmarks for Long-Horizon Tool Use",
+              "url": "https://arxiv.org/abs/2610.27307",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Act on Your Behalf, Beyond Your Authorization: Benchmarking LLM Agent Authorization Alignment",
+              "url": "https://arxiv.org/abs/2610.27548",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "AI-driven Prices for Externalities and Sustainability in Production Markets",
+              "url": "https://arxiv.org/abs/2106.06060",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Automatic Differentiation with Constraints in Forward and Inverse Problems",
+              "url": "https://arxiv.org/abs/2610.27888",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Allocating Indivisible Goods to Strategic Agents: Pure Nash Equilibria and Fairness",
+              "url": "https://arxiv.org/abs/2109.08644",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Optimized Conformal Selection: Powerful Selective Inference After Data-Dependent Score Construction",
+              "url": "https://arxiv.org/abs/2411.17983",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "AnnoCaseLaw: Legal Annotation Benchmark of Civil Negligence",
+              "url": "https://arxiv.org/abs/2503.00128",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Quantifying Symptom Causality in Clinical Decision Making: An Exploration Using CausaLM",
+              "url": "https://arxiv.org/abs/2503.19394",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Learning to Interfere in Non-Orthogonal Multiple-Access Joint Source-Channel Coding",
+              "url": "https://arxiv.org/abs/2504.03690",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Quantum-Inspired Optimization Process for Data Imputation",
+              "url": "https://arxiv.org/abs/2505.04841",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Remote Rowhammer Attack using Adversarial Observations on Federated Learning Clients",
+              "url": "https://arxiv.org/abs/2505.06335",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Quality-Diversity Red-Teaming: Automated Generation of High-Quality and Diverse Attackers for Large Language Models",
+              "url": "https://arxiv.org/abs/2506.07121",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Effects of Theory of Mind and Prosocial Beliefs on Steering Human-Aligned Behaviors of LLMs in Ultimatum Games",
+              "url": "https://arxiv.org/abs/2505.24255",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Spatiotemporal Reconstruction of Global Radiation from Sparse Sensor Sequences",
+              "url": "https://arxiv.org/abs/2506.12045",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "AgriVLN: Vision-and-Language Navigation for Agricultural Robots",
+              "url": "https://arxiv.org/abs/2508.07406",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Energy-Based Transfer for Reinforcement Learning",
+              "url": "https://arxiv.org/abs/2506.16590",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "UniPrompt-CL: Efficient Single-Inference Continual Learning for Medical Image Classification",
+              "url": "https://arxiv.org/abs/2508.10954",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Can synthetic data reproduce real-world findings in epidemiology? A replication study using adversarial random forests",
+              "url": "https://arxiv.org/abs/2508.14936",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures",
+              "url": "https://arxiv.org/abs/2509.25045",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "AFFORD2ACT: How Far Can Sparse Keypoints Go for Robot Manipulation?",
+              "url": "https://arxiv.org/abs/2510.01433",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Protecting De-identified Documents from Search-based Linkage Attacks",
+              "url": "https://arxiv.org/abs/2510.06383",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Sculpting the Latent Space: Disentanglement with WAE-MMD and Programmable Priors",
+              "url": "https://arxiv.org/abs/2510.11953",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Structured Temporal Causality for Interpretable Multivariate Time Series Anomaly Detection",
+              "url": "https://arxiv.org/abs/2510.16511",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Operon: Incremental Construction of Ragged Data via Named Dimensions",
+              "url": "https://arxiv.org/abs/2511.16080",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Align, Don't Blend: Orthogonal Supervision Disentanglement As the Key to Generalizable AI-Generated Image Detection",
+              "url": "https://arxiv.org/abs/2512.06746",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Algorithmic Reflectivity in Large Language Models: Methodological Study of Linguistic Structure in Mentalization",
+              "url": "https://arxiv.org/abs/2512.08945",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Evolutionary BP+OSD Decoding for Low-Latency Quantum Error Correction",
+              "url": "https://arxiv.org/abs/2512.18273",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "RubRIX: Rubric-Driven Risk Mitigation in Caregiver-AI Interactions",
+              "url": "https://arxiv.org/abs/2601.13235",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Disentangling generalization and memorization in large language models using chess",
+              "url": "https://arxiv.org/abs/2601.16823",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "From Fuzzy to Exact: The Halo Architecture for Infinite-Depth Reasoning via Rational Arithmetic",
+              "url": "https://arxiv.org/abs/2601.18702",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Does Centralized Learning Help Embodied Agents Coordinate, and When Can a Tabular Study Tell?",
+              "url": "https://arxiv.org/abs/2601.17454",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Machine Unlearning in Low-Dimensional Feature Subspace",
+              "url": "https://arxiv.org/abs/2601.22456",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Graph-Theoretic Formulation of Hamiltonian and Ground-State Sign Structures in Heisenberg Antiferromagnets",
+              "url": "https://arxiv.org/abs/2602.04943",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Controlling Output Rankings in LLM-Based Search via Generative Engine Optimization",
+              "url": "https://arxiv.org/abs/2602.03608",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "HealthMamba: An Uncertainty-aware Spatiotemporal Graph State Space Model for Effective and Reliable Healthcare Facility Visit Prediction",
+              "url": "https://arxiv.org/abs/2602.05286",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Analyzing and Improving Chain-of-Thought Monitorability Through Information Theory",
+              "url": "https://arxiv.org/abs/2602.18297",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Data-Free Finite-Volume Convolutional Neural Networks for Steady Compressible Euler Flow around a Circular Cylinder",
+              "url": "https://arxiv.org/abs/2603.01001",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "RuleSmith: Multi-Agent LLMs for Automated Game Balancing",
+              "url": "https://arxiv.org/abs/2602.06232",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "StructLens: A Structural Lens for Language Models via Maximum Spanning Trees",
+              "url": "https://arxiv.org/abs/2603.03328",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "MICA: Multi-granularity Intertemporal Credit Assignment for Long-Horizon Emotional Support Dialogue",
+              "url": "https://arxiv.org/abs/2603.06194",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "SYNAPSE: Framework for Neuron Analysis and Perturbation in Sequence Encoding",
+              "url": "https://arxiv.org/abs/2603.08424",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "MCLR: Improving Conditional Modeling via Inter-Class Likelihood-Ratio Maximization and Unifying Classifier-Free Guidance with Alignment Objectives",
+              "url": "https://arxiv.org/abs/2603.22364",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "The Stepwise Informativeness Assumption: When Do Entropy Dynamics Track Reasoning Correctness in LLMs?",
+              "url": "https://arxiv.org/abs/2604.06192",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Generalization and Scaling Laws for Mixture-of-Experts Transformers",
+              "url": "https://arxiv.org/abs/2604.09175",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "It Takes a Forum: Resources & Stakeholders Sustaining the Online Synthetic Non-Consensual Intimate Image Creation Ecosystem",
+              "url": "https://arxiv.org/abs/2604.12190",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "On the Expressive Power and Limitations of Multi-Layer SSMs",
+              "url": "https://arxiv.org/abs/2604.14501",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Fine-Tuning Small Reasoning Models for Quantum Field Theory",
+              "url": "https://arxiv.org/abs/2604.18936",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "On the Complementarity of Quantum and Classical Features: Adaptive Hybrid Quantum-Classical Feature Fusion for Breast Cancer Classification",
+              "url": "https://arxiv.org/abs/2604.22903",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "SUDP: Secret-Use Delegation Protocol for Agentic Systems",
+              "url": "https://arxiv.org/abs/2604.24920",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "ProMORNA: An End-to-End Generative Framework for Full-Length mRNA Design",
+              "url": "https://arxiv.org/abs/2605.01513",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Dooly: Configuration-Agnostic, Redundancy-Aware Profiling for LLM Inference Simulation",
+              "url": "https://arxiv.org/abs/2605.07985",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Path-Coupled Bellman Flows for Distributional Reinforcement Learning",
+              "url": "https://arxiv.org/abs/2605.08253",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Deep Reasoning in General Purpose Agents via Structured Meta-Cognition",
+              "url": "https://arxiv.org/abs/2605.11388",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Biological Context Does Not Reliably Improve LLM-Guided Experimental Optimization",
+              "url": "https://arxiv.org/abs/2605.15341",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Feedback World Model Enables Precise Guidance of Diffusion Policy",
+              "url": "https://arxiv.org/abs/2605.15705",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "CAVE: A Structured Credit Assignment Approach for Fragmented Visual Evidence Reasoning",
+              "url": "https://arxiv.org/abs/2605.16416",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "DualView: Adaptive Local-Global Fusion for Multi-Hop Document Reranking",
+              "url": "https://arxiv.org/abs/2605.18767",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Learning Altruistic Collaboration in Heterogeneous Multi-Team Systems",
+              "url": "https://arxiv.org/abs/2605.21723",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "From Theory to Decision Rule: Calibrating the Noisy-Label Crossover for Vision-Language Model Weak Supervision Across Three Medical-Imaging Benchmarks",
+              "url": "https://arxiv.org/abs/2605.24771",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Metropolis-Scale Resilient and Trustworthy Traffic Flow Inference Using Multi-Source Data",
+              "url": "https://arxiv.org/abs/2605.25004",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models",
+              "url": "https://arxiv.org/abs/2606.05737",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "InfoQuant: Shaping Activation Distributions for Low-Bit LLM Quantization",
+              "url": "https://arxiv.org/abs/2605.26175",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Closing the Sim-to-Real Gap: An Evaluation Framework for Autonomous Cyber Defense Configuration of Commercial EDR",
+              "url": "https://arxiv.org/abs/2606.08168",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "EHRNote-ChatQA: A Benchmark for Evidence-Grounded Multi-Turn Clinical Question Answering over Longitudinal Discharge Summaries",
+              "url": "https://arxiv.org/abs/2606.15735",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Latent Bridges for Multi-Table Question Answering",
+              "url": "https://arxiv.org/abs/2606.28916",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Mixture-of-Control: State-Aware Fine-Tuning for Transformer-based Models",
+              "url": "https://arxiv.org/abs/2606.31397",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "To Retain or to Adapt? Generalizing Continual Learning",
+              "url": "https://arxiv.org/abs/2607.05609",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "ASPIRE: Agentic /Skills Discovery for Robotics",
+              "url": "https://arxiv.org/abs/2607.00272",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Conditional Optimal Bridge for Riemannian Activation Steering",
+              "url": "https://arxiv.org/abs/2607.10517",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Flout at Your Own Risk: LLMs Struggle with Pragmatic Cooperativity Under Epistemic Asymmetry",
+              "url": "https://arxiv.org/abs/2607.11053",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "What Transfers from Text to Vision? Capability Scaling Laws and Transfer Dynamics for VLMs",
+              "url": "https://arxiv.org/abs/2608.00013",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "On the Role of Citations in Preference Data",
+              "url": "https://arxiv.org/abs/2608.21376",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "DrugReason: Dynamic Multi-View Reasoning over Knowledge Graph and Language Evidence for Drug Repurposing",
+              "url": "https://arxiv.org/abs/2609.06779",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "CPR for LLMs: Critical-Point Routing against Catastrophic Forgetting in Domain Adaptation",
+              "url": "https://arxiv.org/abs/2608.30158",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Causal Discovery via Transformed Low-Rank Quantile Surfaces",
+              "url": "https://arxiv.org/abs/2609.16931",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference",
+              "url": "https://arxiv.org/abs/2609.19104",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Long-horizon autoformalization of a core theorem underlying MIP* = RE",
+              "url": "https://arxiv.org/abs/2609.19814",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "HarnessPAI: An Evolving Harness for Physical AI",
+              "url": "https://arxiv.org/abs/2609.29166",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Agentic Video Understanding: A Survey",
+              "url": "https://arxiv.org/abs/2609.31713",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "EyeVQA: Benchmarking Ophthalmic Vision-Language Models from Recognition to Spatial Grounding",
+              "url": "https://arxiv.org/abs/2609.32352",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "CoSec: Benchmarking Agent Security in Communities",
+              "url": "https://arxiv.org/abs/2609.34790",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Interpretable but Fragile? Robustness of Concept Bottlenecks under Geometric-Semantic Perturbations",
+              "url": "https://arxiv.org/abs/2609.38625",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Alignment via Training Against Probes Without Losing Monitorability",
+              "url": "https://arxiv.org/abs/2609.38645",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "A Generalisation Signal Need Not Be a Model-Selection Signal",
+              "url": "https://arxiv.org/abs/2609.39099",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "A rubric landscape for evaluating clinical reasoning in large language models: what exists, what is missing, and what needs to be combined",
+              "url": "https://arxiv.org/abs/2610.01938",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Robot Learning with Visual Predicted Force",
+              "url": "https://arxiv.org/abs/2610.04741",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Scaling Verifiable Environments for Long-horizon Work Agents",
+              "url": "https://arxiv.org/abs/2610.04906",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "RoboCap: A New Platform for Egocentric Robot Learning",
+              "url": "https://arxiv.org/abs/2610.07217",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Minimal Witness Reinforcement Learning",
+              "url": "https://arxiv.org/abs/2610.07226",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "One-Slide Calibration of Pathology Foundation Models",
+              "url": "https://arxiv.org/abs/2610.08944",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "REMORY: Learning Residual Memory for Context Compaction",
+              "url": "https://arxiv.org/abs/2610.11287",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Telling FIBS: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+              "url": "https://arxiv.org/abs/2610.12445",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Is a 9B Decision Foundation Model Needed for Symptom-to-Disease Classification? Fine-Tuning Clef-Flash Against TF-IDF Baselines",
+              "url": "https://arxiv.org/abs/2610.15029",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Exploring Jailbreak Vulnerability Across Depth-Based Dynamic Inference in Large Language Models",
+              "url": "https://arxiv.org/abs/2610.15207",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Pessimistic Latent Task-aware Optimization for Robust Offline Meta-Reinforcement Learning",
+              "url": "https://arxiv.org/abs/2610.15428",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "When Agent Evaluation Becomes Unreliable: An Empirical Study of Oracle Failures and Configuration-Dependent Measurement in an LLM Agent Benchmark",
+              "url": "https://arxiv.org/abs/2610.16067",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "WeGR: Towards Unified Generative Retrieval via Behavior-aware Tokenization and Preference Alignment",
+              "url": "https://arxiv.org/abs/2610.16979",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Just Respect the Semantics: Image-Token Compression via Pre-LLM Semantic Variable-Resolution Tokenization and In-LLM Relevance Pruning",
+              "url": "https://arxiv.org/abs/2610.18690",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "FoveaVLA: Foveation Actions Replace the Wrist Camera in VLAs",
+              "url": "https://arxiv.org/abs/2610.20064",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "DialFork: Going Beyond Factuality to Evaluate Procedural Hallucination in Conversational Agents",
+              "url": "https://arxiv.org/abs/2610.21561",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Model Capacity Frontier: A Development Framework for LLM-Supported Social Simulation",
+              "url": "https://arxiv.org/abs/2610.24168",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "TrustAgent-RFF: Agentic Diagnostic Planning for Reliable RF Fingerprinting under Domain Shift",
+              "url": "https://arxiv.org/abs/2610.24930",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Self-organizing reinforcement learning: a learner-free swarm approaches the explore-exploit optimum",
+              "url": "https://arxiv.org/abs/2610.25113",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "DiaLong: Benchmarking Reminiscence in Long-Context Dialogues",
+              "url": "https://arxiv.org/abs/2610.25463",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "PaceVLA: Adaptive Temporal Action Quantization in Vision-Language-Action Models",
+              "url": "https://arxiv.org/abs/2610.25961",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Mitigating Reward Hacking in Preference Reward Models with Evolving Penalties",
+              "url": "https://arxiv.org/abs/2610.26496",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "AfriBED: a Speech Recognition Bias Evaluation Dataset for Low Resource African Languages",
+              "url": "https://arxiv.org/abs/2610.26821",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Beyond Policy Discrepancy: Capability-Aware Multi-Teacher On-Policy Distillation",
+              "url": "https://arxiv.org/abs/2610.26950",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Theorem prover Arend",
+              "url": "https://arxiv.org/abs/2610.27264",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "S$^2$-MAS: A Society-Scale Multi-Agent Simulation Framework with 500 Million Household Persona Agents",
+              "url": "https://arxiv.org/abs/2610.27746",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "RayCo4D: Ray-Conditioned Continuous Motion Model for Monocular 4D Dynamic Reconstruction",
+              "url": "https://arxiv.org/abs/2610.28351",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "CountVideoBench: A Benchmark to Evaluate Prediction Biases on the Object Counting task by Video-Language Models",
+              "url": "https://arxiv.org/abs/2610.28356",
+              "tier": 1,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 375
+        },
+        {
+          "name": "Economics",
+          "anchor": "Economics",
+          "archive_url": "./history/2026-10-22_17-00/index.html#Economics",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "Brazil’s weird economy needs serious reform",
+              "url": "https://www.economist.com/finance-and-economics/2026/10/22/brazils-weird-economy-needs-serious-reform",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Sam Bankman-Fried says he has paid his debts",
+              "url": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "New research tries to defuse the “China shock”",
+              "url": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "AI compute is the new oil—and needs a new market",
+              "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+              "tier": 2,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 4
+        },
+        {
+          "name": "Finance",
+          "anchor": "Finance",
+          "archive_url": "./history/2026-10-22_17-00/index.html#Finance",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "Natural gas storage rises less than forecast, impacts market sentiment",
+              "url": "https://www.investing.com/news/economic-indicators/natural-gas-storage-rises-less-than-forecast-impacts-market-sentiment-93CH-4966745",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "The midterm election outcomes that could shape Trump’s final two years",
+              "url": "https://www.investing.com/news/economic-indicators/the-midterm-election-outcomes-that-could-shape-trumps-final-two-years-4967002",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Euro zone consumer confidence falls to -17.9 in October",
+              "url": "https://www.investing.com/news/economic-indicators/euro-zone-consumer-confidence-falls-to-179-in-october-4966691",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Jobless Claims Drop Below Expectations, Indicating Labor Market Strength",
+              "url": "https://www.investing.com/news/economic-indicators/jobless-claims-drop-below-expectations-indicating-labor-market-strength-93CH-4966028",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "As Americans eat out less, paper towel maker Essity feels the pinch",
+              "url": "https://www.investing.com/news/economic-indicators/as-americans-eat-out-less-paper-towel-maker-essity-feels-the-pinch-4965123",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "UK factory output expected to stabilise, CBI survey shows",
+              "url": "https://www.investing.com/news/economic-indicators/uk-factory-output-expected-to-stabilise-cbi-survey-shows-4965272",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "New Zealand inflation cools more than expected in Q3",
+              "url": "https://www.investing.com/news/economic-indicators/new-zealand-inflation-cools-more-than-expected-in-q3-4964581",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Saudi Aramco tells staff to evacuate Dhahran as clashes with Yemen’s Houthis continue",
+              "url": "https://www.investing.com/news/commodities-news/saudi-aramco-tells-staff-to-evacuate-dhahran-as-clashes-with-yemens-houthis-continue-4965766",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Venezuela eyes Qatar bridge loan to clear IDB arrears, sources say",
+              "url": "https://www.investing.com/news/commodities-news/venezuela-eyes-qatar-bridge-loan-to-clear-idb-arrears-sources-say-4967021",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "ARA gasoline stocks drop to lowest level since September 2021",
+              "url": "https://www.investing.com/news/commodities-news/ara-gasoline-stocks-drop-to-lowest-level-since-september-2021-93CH-4966793",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Explainer-What is Shamonda virus and what are the risks to humans and animals?",
+              "url": "https://www.investing.com/news/commodities-news/explainerwhat-is-shamonda-virus-and-what-are-the-risks-to-humans-and-animals-4966786",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "France reports first human case of livestock virus Shamonda after patient dies",
+              "url": "https://www.investing.com/news/commodities-news/france-reports-first-human-case-of-livestock-virus-shamonda-after-patient-dies-4966761",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "US to award $389 million in R&D funds for power semiconductors, critical materials",
+              "url": "https://www.investing.com/news/commodities-news/us-to-award-389-million-in-rd-funds-for-power-semiconductors-critical-materials-4966265",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Oil prices rise as Mideast tensions fuel supply disruption fears",
+              "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-as-meast-tensions-fuel-fears-of-supply-disruptions-4964479",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Gold slides as Middle East tensions fuel oil price jump, inflation fears",
+              "url": "https://www.investing.com/news/commodities-news/gold-falls-near-4115-as-saudi-attacks-fuel-inflation-fed-outlook-in-focus-4964496",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Cuba’s public transport plunges to all-time low amid US fuel blockade, minister says",
+              "url": "https://www.investing.com/news/commodities-news/cubas-public-transport-plunges-to-alltime-low-amid-us-fuel-blockade-minister-says-4965643",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Creditors to Sanjeev Gupta’s first UK steel plant appoint liquidators",
+              "url": "https://www.ft.com/content/63ed58ac-f9ef-41b7-a172-dc540337b698?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Morning Bid: Rattled by oil, tech and France",
+              "url": "https://www.investing.com/news/commodities-news/morning-bid-rattled-by-oil-tech-and-france-4965376",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Could Anthropic’s IPO be a turning point for AI? You asked, we answered",
+              "url": "https://www.ft.com/content/8cdf338e-d472-460c-8642-a8f033b99462?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Would you take out a mortgage backed by bitcoin?",
+              "url": "https://www.ft.com/content/42176f60-b2fd-431c-9f2c-e7e015b07315?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Meta sell-off drags US tech stocks lower as AI spending fears flare up",
+              "url": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Britain secures gas supply from Belgium before winter crunch",
+              "url": "https://www.ft.com/content/a88ac504-4d86-4f27-a1e9-cf63db032ab5?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Shell and Exxon’s $8bn UK chemicals unit put up for sale",
+              "url": "https://www.ft.com/content/2d4876ae-c707-4df5-a3ae-ae3268343ef2?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "A bond is like a party balloon",
+              "url": "https://www.ft.com/content/7cd54d93-eff8-413a-896a-4fe5583147d7",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Why climate could soon move back up the global agenda",
+              "url": "https://www.ft.com/content/e6185f87-0f7a-4e95-80db-94462133c266?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Europe’s bracing reality on US bond yields",
+              "url": "https://www.ft.com/content/92e1700d-7990-4c6a-bd3f-63685df2fdf6?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Europe’s underrated digital trailblazing",
+              "url": "https://www.ft.com/content/120fad19-1279-4e3c-8f60-2319acc21d11?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Hyperscalers and how to rate them",
+              "url": "https://www.ft.com/content/9b1d9f37-bab2-448a-8a1a-e41c12bf9952?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "‘Eat. Sleep. Securitize. Repeat.’",
+              "url": "https://www.ft.com/content/7092a3c3-e62d-47d8-bb2d-757e38fd2346?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "India mounts costly defence of rupee",
+              "url": "https://www.ft.com/content/4577cc43-d98b-43fc-8183-72777286ab80?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Big private equity backers call for greater scrutiny of sweetheart deals",
+              "url": "https://www.ft.com/content/531d1ff7-c0b5-427a-87d1-9372c3cf87d3?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "A dangerous threat to UK company rules must be scrapped",
+              "url": "https://www.ft.com/content/d64695ae-09ab-4fe6-bc68-44085edc2bc2?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Accountants fear £1.2bn hit from UK plan to exempt midsized groups from audits",
+              "url": "https://www.ft.com/content/490cfe91-f63c-430f-9f1f-418cb09dea4d?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Australian iron ore miner warns of production slowdown without China deal",
+              "url": "https://www.ft.com/content/835e37e2-d4a4-4428-ab96-583640cf42bd?syn-25a6b1a6=1",
+              "tier": 2,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 34
+        },
+        {
+          "name": "Global",
+          "anchor": "Global",
+          "archive_url": "./history/2026-10-22_17-00/index.html#Global",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+              "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Crowd of 50 beats foreigner to death in South Africa",
+              "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+              "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "At least four dead after storm brings flooding to southern France",
+              "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
+              "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
+              "url": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+              "url": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Two European women held captive for more than a year in Niger freed in Libya",
+              "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+              "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "French weekend protests to be limited to union demos only, says Macron",
+              "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
+              "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
+              "url": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "YouTuber arrested after popular Indian finance influencer's suicide",
+              "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+              "url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "El Salvador's president threatens Haitian gangs over military hostages",
+              "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "First human case of Shamonda virus detected in France, officials say",
+              "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Grandparent hugging consent ad pulled after criticism",
+              "url": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "How do Israel's elections work and who are the main contenders?",
+              "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "US embassy accuses Canada of election meddling ahead of midterms",
+              "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "No order, no seat: Starbucks China rolls out new store policy",
+              "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Damaging hail pelts Phoenix in rare storm",
+              "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Moment man rescued from sinking car by Australian TV reporter",
+              "url": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "AI discovered a massive cyber-security flaw - here's what happened",
+              "url": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+              "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "How Arab parties could hold critical balance of power in Israeli election",
+              "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "What is PHP and why did it spark a global cyber-security scramble?",
+              "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "New York City reconsiders a classic attraction: are horse-drawn carriages abuse?",
+              "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Men Are Experiencing More Job Growth Than Women in AI-Exposed Occupations",
+              "url": "https://www.pewresearch.org/short-reads/2026/10/22/men-are-experiencing-more-job-growth-than-women-in-ai-exposed-occupations/",
+              "tier": 1,
+              "seen_count": 1
+            },
+            {
+              "title": "Women, Work and Caregiving Through the Arc of Family Life",
+              "url": "https://www.pewresearch.org/social-trends/2026/10/22/women-work-and-caregiving-through-the-arc-of-family-life/",
+              "tier": 1,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 29
+        },
+        {
+          "name": "Investments",
+          "anchor": "Investments",
+          "archive_url": "./history/2026-10-22_17-00/index.html#Investments",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "Berkshire Finally Topped Its Pre-Buffett-Exit Peak - Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZV96cW9STksxZ0hjWFNDbDZTWXVicUhzeFdQaVo0eXZSUmx2clZ4MGxmd3hiOUtkcUoyZzFQVW5jc2VPUlpMeDNWdENpS0FtRXA3bEc3cWdLbm0tVDl1WGdMQWNLNnNvS0dVRGY2ejRvUUpiTHZhalRSLTN4ZElsRGFNNi1lX0R4aXhTLTMzWEZuVU1jLXNkR29SbDRuYmJjakU0?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "SpaceX: A Futuristic Berkshire Hathaway, or Just a Mess? - WSJ",
+              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb1RMMm9xckt1YnNRZXdCUWFQVUh4aGlIUnBCbGJLbnFWdTBkcTV4ZWlxbkFiTHJuaGJBZWRtMFhTS19EYkdzUDg1ak9idms4S0RjemJLeE16OFBaTnlFb2lyMElKOGFkVWNtUnZLRklOSXhMdnplQl8yUWNObHRDbFJZcjVTSFNHbG1FZEZQN2c?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Berkshire Hathaway Class B Shares Hit a New High as the Market Recognizes Defensive Value in the Post-Buffett Era - NAI500",
+              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdDZFNEhIdmU4RjJ0c3Y3YnFGZEQxNm5tVXJOMnA3VkRrbzJ1c3FaWVNVZU5MWE4tWVQ0SFZyZDNDakk3d3FtWi1YeFhpTlFmMmc2Znp1bnlPb0F5bHlOR2hUZ0h6M0UzRF96Q1dyaDZ0eExiWmJ6Y1YwbTdTUzJuWUg4a2FGUktVbUJ0S0Q3a0JzZkYwSzlDZ096WnJwWF9ZRXdjV3daSmRtSlY3U0praHdoeDgxUzF1cTVNdktSYlVlTE8tTjJIQU41cE5EWWhxOXN1Q0hxX1lDUUxMNF80?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Berkshire Finally Topped Its Pre-Buffett-Exit Peak - 24/7 Wall St.",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmpEWjluZ3g2MFJHTFRqSE9iMGNSdk92ejY2aU9BaGR0VDNCcTRYdTBvS09YZm5BX2JiSy1BZUpuUUJFOHVESWhhYlI0NFhvYTg3dmd2ZTdYU2VPd2dXU3Z0SnRTT0VuYll3TU9SeHNoYktCV3QzNlJWZW5CdFg2OEJlcXdoU1NGblpTbXZTNmdNVDIwQ19GRXRR?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett Who? Berkshire Stock Hits Records as These Holdings Drive Gains Under Greg Abel - Benzinga",
+              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNGxkSDlYbVlveVVyNDFKaHBiU2QzeHdsd3puVlBPVW53ZnZicHh6aFJCZTQ4S3JIOUxMbDVDTWw0Q2FXcDNoNjB2dFA3VXk5eW5vd1R3NHlkLVlzcTlxWlhrVEZuSWNqV2ZkdVdlQjFjTHlxVFJKRUpsUTZvSmtCUGs3amxvWWxMenlscjRqUW9fSEFyOV9sMlFpNjlYa3QxLVZjZUxkY2FSSTBGQVJZVWZwRmFMLWgyQkJJOXZBRGdYZw?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Can Berkshire Hathaway (BRK.A) Stay Below Fair Value After Its 87% Run? - Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdGZGVW1tb2VRWENsb0ZQWkJ0a3lWbWc3UzJSa2YtLTRHNTR3bG9STC1KY1RKSFIzRE84Wm5FSFJvdldCN2lkR0w3RXBSXzJuWWhiMmkwZHV4VW5fVkN5M21pRC1qRUxpekdZMmJWeUVQcTFyZW05NHBmZTlmaFZmN2dMMWNLSHhoVXZ5WmxsSFRLWUREaTBhb2c2amd5Snc?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Greg Abel Says Every Point of BNSF Profit Margin Adds About $230 Million of Cash Flow for Berkshire Hathaway - The Motley Fool",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTjNnd0pSOE9PSjJVRU9Nam53QmQwV3pXeWhGT0syT1o2a0dJSDJPVy1xejM3ZDRja2NDQ0EwdVNJczI3VVVWZjlHRWxNckZTMUV2eFdEVUljREF6UlpZRWpBajJ2cE1pZ2M3SUJDY0NDaV91TGNwSUdCYlE3ZTFhSDgxSmJqNXFHc1JzRk1yT3BGeTI1RFE?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Greg Abel Says Every Point of BNSF Profit Margin Adds About $230 Million of Cash Flow for Berkshire Hathaway - Yahoo Finance",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY0NVYmxjVmpCblRldEE1QVVaaXdWazBlWHdTUTZDOTVFdk9UamlxcFZFYW1aak1kSHA1Z0lJWnkwWkJJQ19CdFlVeF9hZGI5UGR3ZTFOM0FKVVFfdk02NEIxM2h1bE1LNHNjQllLSkJZVXZKSW45NEVycGxnenczZFk3U1JXdkNNWUt3UU1hM3ZJT1k0d1E?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "UBS Adjusts Price Target on Berkshire Hathaway to $942,405 From $906,011, Maintains Buy Rating - www.marketscreener.com",
+              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX3hEOVppUWxlUEQ3U2VQY01oNUJMXzBVU3RWZ0JaaUdVemV3YUZvd3dIMlQtUW50V1Q0clRtZV9nYWpnWGhKSVZ3N0t1TlBjdzhmMjZtUmdHZTEyWG5QV0JLUVQyeVFKU1RHaXdZTks0eXJuaEM5ODM1YUVoYUoxeE9PcVo0OGJrZWxsWmFGR193SW1UYlk2Z0stTV9pRTJPbk5YQU40emotR1k4aXpFUUgzRTlNQzFhVTNwNklUOUxBVjFvekd4aFMwUlBxSmJRWVRSVXRfeG9EczRE?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "\"Berkshire Hathaway has plunged 50% on three occasions, yet it remains one of the most successful investments of my life!\" In his later years, Charlie Munger reflected deeply: \"I've come to regard rationality almost as a kind of faith…\" - 富途牛牛",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc09vQnpHOUV2anVNa3F4aHpYZVZXamp1djlDY3Nhb1AyZDJoUDNNLUJhRWxRVnRtRG5ac3A5WFVvOVVYdHBweHQ4TGw0T0trUUlKTTFBZ3E3RGpxaUxydkVLc3B3dHp3YkJZWW5qbUxaUldYQ1FvM3J5bUZwVmVHaEQ2SHFrNW1hSC1UMnJOOUpVM0JpVmdyM2EtYmxxVnFwcUE4eA?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Berkshire Hathaway Stock Hits Record High: $360 Billion Cash Generates Interest Income, UBS Lifts Target to $942,000 - TradingKey",
+              "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS044V1VralZtM21JUW5uWXpzOVplRFlsUHgxZkZnNEd3QTd1SjFtVXRMb3p1UFpOTXhTYlZnUkdkN09xc1I0VnBBR1JnSzZSR2g0elZkeTBkdGdJSkM1eEZpUjBER0xWemw5UjFFVVZ1SFRERzJfX3ZMdklnSE5yeVFJbUhJdDJVVENKUmxXQ1U3eDEwVmhBbVc4Y3dhOERkR2g0bng1MU0wd1g4R2RELVRfUWc4SGNBUHhZUWlsSUtSVkNFMjdzTm4ybC1UWEpoeDVVTTYyWFBST2RsWEFPVi1QU2xkUW9S?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Your castle awaits in Richfield for $875,000: House of the Week - Cleveland.com",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaXB3VGFROFI4SGxmYzVWd2xyM19hbTRMQzFIdjduUnY0U2dMZjdPOEo4Z3dZTlRxbGVYcVhjTEljUzJQS0VRU1BfV3EwWGlmQXlIY29tOHVGd3JYVXBLMXlFZDlTa2pxemRycHE3d0EyMHpkZkRtWGdsMzZMcjBSM0o2RzEzU0RmMlBxTmtkV3ROSnk0QWpBd0FONWRRSGNETTFVc243c3BIOXN0bEI0a2laMA?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Berkshire Is the Anti-AI Trade. It Owns Apple and Google. - Business Model Analyst",
+              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORmZ0ZzVIc3lfdWVVX2Z1NEVoUTRwQzB5NWlfb3BUdzl6dW1US2djbG9LN1JWWnFNWTYtRVlnTzFqQmxwZ3hRdWZpVkNaWG1ZZThHR1JGOHZvRlpsU3NyLURrQnNqMWEtOUR5OWFfdlVxRmJ4VDVxaHVsLU82Z1Uyc0xlV3drd1hS?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Why Wall Street is selling chip stocks and buying Berkshire: Is Buffett’s old-school stock the new hedge a - The Economic Times",
+              "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOOVV2cHA1eTlJQ1ZwUDZTMXVlUHNEZ0hxVUNoUkMtSk5HcnhHNWxzcTU1aEFWcEJoVFJvekd5VVVKNld5TnU2R29EcWJidGh6UXIxOG9RSXd6S1UtRDR1c0xISE1lN1ctMXI5NmhNR2VlRURjSnI5bDdGM181LXduUmY1NnlnVGVaTkotV1pjcDl1S0RHMU5mZlJISHBzX0hfbDhwWktJUGhXdGF2enptQW5HQlRqeU5rQ3p1V2p1NXNlZUlRUTBzU1NOd1ZyTHN2NVpyVkJHNnMzNTVPY01NYlIzbnR4LWNRVHJYWWp6S0x2YTZlRUhWejRYcVk2SWxIcnlmQkwyR0diWWtqa2ZEWXhZQkJxSWt5UWxTLVl6eVpoNGhHb3hCbGpMWlVaVjl0S2JGd0ZjOFRyQTladlgzX0o4MVpOa1XSAcwCQVVfeXFMUGQ0MHdyX2U0ZVRkaXFJVy1qUTEwRFBWQ2NiSG9haFVVRDlYaGd5NkRoMTRhREMxVm01ZjlyeFVJQ0hIcFFvUGlDdzEwM1Bqd0lNSkZhMVd3NmsxT19CS3A0ZHVnaVVZaWRDbmFRbmZnYTZOUEZYYzJfY3pFWWtCbEN1dzFSVV9QcW5ZUTllbnZQeU9jNnV6OG9CX2txUEE2VlNnaDBWNlo1ZHctTlFvOFZvSlhqT2tPeE9KUjZBUklpV2RyZTExVGNsZWI1Y3dEX2UxV2xqSWUxVUZaUndmZWEyejJ4VzhfQzlKaVFqelRvN3pISEh2XzliVE5aWktsX2JFS3ZkRXRnRVFxWTdWVmhwTmJTUHBpSTEwREFxa0hQTFVoeE9QSGlBSFlMQmZPdDBZNmZBY3E4b2F2am1teW56OHhvWjNBZHp6emQ?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Warren Buffett once offered $25 for all Bitcoin. Here’s its value now - www.thestreet.com",
+              "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMUZBbFFXR2pPS2pxRUpnT08ycnZRSmJvOEhWZ3VrYjg1Rm1MWG5ReGM3SEVnU0E4OU95V2tnbXNKMFlJdndCaVRlU0c1VEpUTXQ2bEFwNkRSU3I4VDI0a1dLSXVBUWlWWElEZ3ZOZURzWHo5ZmFhb2RJUVQzSkRjQzFxOUpVcTVPR1Y5NU9iNWREcXkxaU9VQ3ZpZkctbThFS0E3WThKWndrMnlk?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "These billionaires have ties to New York. See who's on Forbes' 400 list - Democrat and Chronicle",
+              "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNa3VZUzl0Z20zWFRWTXk5N053V3JxMnozYTc5Q1ZzRXQ0dWhWdW5TU0JQa0ZMUUtBTUIwYzRfOG45TjRTWXk0eHkweHVMZGEwT3laSDd4S2NkM2YyVlBERG5lZi1EeGcwa19PR1hMcVNHdDJJZ1hQeXNVTFZvWENzcVF6MWRfSHNyZXBZRU51dlNoamwydmprUXBkOVpmUDdwOEswRFZhRHlzS19PcHFsSmtiRVRzc3ZadkpBTlAzUkhBaUk?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Berkshire Surges 7% Amid Semiconductor Selloff — First \"Extreme Divergence\" Signal Since Dot-Com Bubble - finance.biggo.com",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiTDhkZDBRNnJKUGd3YXpUMGFvb2gwQ1JCSENzZ2ZZTkstZ3d0TWhiMlUybjZFcnUtX3FOUGlfVlViQXk1NV9Qby03NWJGd3JiWmRJZktfSVNmdnpndTFIRGpLVUN2S29KWVpaa0p3eVJ0ak1pT3c?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 17
+        },
+        {
+          "name": "Social Sentiment",
+          "anchor": "Social-Sentiment",
+          "archive_url": "./history/2026-10-22_17-00/index.html#Social-Sentiment",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre",
+              "url": "https://www.reddit.com/r/technology/comments/1xcg8as/pure_arrogance_anger_in_finland_as_google/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "New Bill Would Force Data Centers to Pay Their Own Power Costs",
+              "url": "https://www.reddit.com/r/technology/comments/1xcgsdb/new_bill_would_force_data_centers_to_pay_their/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "FCC chair warns media not to run the \"fake polls\" U.S President keeps complaining about | Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
+              "url": "https://www.reddit.com/r/technology/comments/1xcidny/fcc_chair_warns_media_not_to_run_the_fake_polls/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Getty Images files for bankruptcy amid AI competition and mounting debt",
+              "url": "https://www.reddit.com/r/technology/comments/1xckebv/getty_images_files_for_bankruptcy_amid_ai/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Zuckerberg told Meta directors he might leave California, where he could lose billions to a wealth tax. Meta answered with a new class of stock",
+              "url": "https://www.reddit.com/r/technology/comments/1xciloq/zuckerberg_told_meta_directors_he_might_leave/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "As billionaires fight a tax hike, Jensen Huang says paying $8 billion is a ‘privilege’: ‘I’m just afraid of being poor’",
+              "url": "https://www.reddit.com/r/technology/comments/1xc8jms/as_billionaires_fight_a_tax_hike_jensen_huang/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Larry Ellison pledged Oracle, Tesla and SpaceX stock for loans before son's Warner deal closed",
+              "url": "https://www.reddit.com/r/technology/comments/1xcfe4k/larry_ellison_pledged_oracle_tesla_and_spacex/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Ukraine’s strikes on Russian data centers disrupt key services and derail AI research",
+              "url": "https://www.reddit.com/r/technology/comments/1xcj2ls/ukraines_strikes_on_russian_data_centers_disrupt/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Airbnb limits chores for guests, sparking backlash from hosts | TechCrunch",
+              "url": "https://www.reddit.com/r/technology/comments/1xc7rhy/airbnb_limits_chores_for_guests_sparking_backlash/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Sony reportedly exits UHD Blu-ray player market",
+              "url": "https://www.reddit.com/r/technology/comments/1xcl3yj/sony_reportedly_exits_uhd_bluray_player_market/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Leaked private keys for eight CA certificates let any attacker impersonate any domain — billions of older devices and software installations may be vulnerable after round of fixes, patch yours immediately",
+              "url": "https://www.reddit.com/r/technology/comments/1xchuis/leaked_private_keys_for_eight_ca_certificates_let/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Cloudflare sees millions of exploit attempts after PHP disclosure",
+              "url": "https://www.reddit.com/r/technology/comments/1xcaqio/cloudflare_sees_millions_of_exploit_attempts/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Thanks to solar, France hits record 800 hours of negative, zero electricity prices",
+              "url": "https://www.reddit.com/r/technology/comments/1xcig0c/thanks_to_solar_france_hits_record_800_hours_of/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Google staff resign in backlash over its AI contracts with military",
+              "url": "https://www.reddit.com/r/technology/comments/1xcdnfk/google_staff_resign_in_backlash_over_its_ai/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Meta's Workforce Reduction: 12,000 Employees Laid Off Within One Year",
+              "url": "https://www.reddit.com/r/technology/comments/1xcgwum/metas_workforce_reduction_12000_employees_laid/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Unvetted AI agents are accessing U.S. bank accounts",
+              "url": "https://www.reddit.com/r/technology/comments/1xck2si/unvetted_ai_agents_are_accessing_us_bank_accounts/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Several Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List",
+              "url": "https://www.reddit.com/r/technology/comments/1xch58e/several_linux_kernel_vulnerabilities_accidentally/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "480,000 phishing emails sent from a PC hidden behind a fridge in a Japanese hotel room — Chinese couple arrested over fraud operation, scammers remotely leech Wi-Fi to target 2.4 million victims",
+              "url": "https://www.reddit.com/r/technology/comments/1xcf82l/480000_phishing_emails_sent_from_a_pc_hidden/",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "For all the noise, there is still little conclusive proof that AI adoption is driving real profitability and revenue growth in the global economy, while AI-related investment is expected to reach $1 trillion this year according to Goldman Sachs. Monocle Solutions - Facebook",
+              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYUdXVF9iN2JFUHZCZ0M0TmV6R1FZWHlNUE8wTEE0LTRTUGtxWExsbGsxQUcwTWtjOXVSelhyWEpXbG5yLWIwZjNlNVIzMHZGcUd1T1RobjVNTldsb3RkZWpXaVI3UVBCN2o3YVppeGhrMko0a2Z3Ym9aeDl1cUdCNjR2YXBPNWlmV1c5UmRxUl9RSkZUS19ONkVISmVSazlwVjVacXVfUGZRWW1ocGh6cEctd3NvS1A4d1prc0VtdFI5V2hUUno4V1R1NEJGaDVsRG5HY0h0TnAwWTc0?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "Nilesh Shah decodes the contrasting economic signals emerging from China and the US, from the CSI 300 Index and investor experience in China to liquidity, AI-led job creation, consumer spending and housing challenges in America. 👉 Watch D-kode Monthl - Facebook",
+              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbUdOS2p0TF9oMDFqM1ZKLXE4a2dmeklRQ1FoYjI1RzRQV2RfRmJ6cmNWWnd6am9FWmtzT2xTQmZldUhaRno1SjR3bE5vZFpJemNlUE9lMUFCZmlvRm1XVV8zLU0tMzZSWjBLaHcyRUtmX0ZuQnpWamJfaGF6MnhlaE52WFJCWlVrTkdqeE5hR0p2Ujk4Q0Nvdjc4M2JGQkl1WUtkUzVlQkhaZFBUQ0wxNlF0c1VhMUFacFktYlI4TDl4dzl3MXNGZ0g2SUNQd2xOZTAwWA?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            },
+            {
+              "title": "FG proposes shared AI computing infrastructure with Rwanda, Senegal, Kenya Bosun Tijani, minister of communications, innovation and digital economy, says Nigeria is proposing a shared artificial intelligence (AI) computing infrastructure with Rwanda, Sene - Facebook",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWUlXeng0NHdqSUpNVXJORjg5Vy1Pa2U4NTQtazRaOFFBWlQzUWNIN2UwZGFTQzBPaF9xQVBUcE5iLXJIN2M1VDQ3UEg1dkQ1TmExMjdPOFRVSTUtdGotWTJHc0dEZWxXZzBsSy1ma1dJQ3VQM2xjZnZNT2JDUWdCQksyUnY2UXZqek4zUjBUNjlfSm9ib1NGS0t4VTd1T2hjbE0zVEdFUmFUc1dFcmhzYVlUcVRMbndyNjFXallWMjhZbENMbUVBb0JSbGdMN3hrLUtISXRYcw?oc=5",
+              "tier": 4,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 21
+        },
+        {
+          "name": "Strategy",
+          "anchor": "Strategy",
+          "archive_url": "./history/2026-10-22_17-00/index.html#Strategy",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "Leaders Need to Grapple with Employee Ambivalence on AI",
+              "url": "http://feeds.harvardbusiness.org/2026/10/leaders-need-to-grapple-with-employee-ambivalence-on-ai",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Our Favorite Management Tips on Delegating Effectively",
+              "url": "http://feeds.harvardbusiness.org/2026/10/our-favorite-management-tips-on-delegating",
+              "tier": 2,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 2
+        },
+        {
+          "name": "TW News",
+          "anchor": "TW-News",
+          "archive_url": "./history/2026-10-22_17-00/index.html#TW-News",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "別鐵齒！2026末班水逆撞薔琵 12星座「做對這事」旺到年底",
+              "url": "https://ent.ltn.com.tw/news/breakingnews/5615735",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "企業財報與油價衝擊市場情緒　歐股收黑",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5615800",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "颱風薔琵強度再減弱　23日晚間至24日清晨降雨明顯",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5615798",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "高雄海成抽水站增設抽水機 提升抽排量能3成",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5615788",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "防堵中國插旗！澳洲砸重金與東帝汶簽署防務協議 加碼贈3艘巡邏船",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5615789",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "竹北停車場充電樁深夜「發爐」 火舌竄出畫面曝",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5615792",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "颱風來亂！鈴蘭通散步納涼會週五前夜祭、週六活動取消",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5615785",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "翁山蘇姬近況照曝光！遭拘5年多   緬甸軍方首次獲准與兒通話",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5615784",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "原民博物館國際論壇新北登場 學者專家共探原民文化復振",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5615770",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "中國西藏巴青縣發生規模7地震 震源深度10公里",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5615780",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "4天後剉咧等？台積電ADR大暴跌 台指期夜盤一度狂殺500點",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5615779",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "加強衛星監控、保護海底電纜！歐盟發布新北極戰略 中國批冷戰思維",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5615783",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "催生金門「高粱藝術節」 胡璉基金會舉辦藝術日深度展現高粱六味",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5615773",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "金門明天上班上課  縣選委會：候選人抽籤照常舉行",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5615778",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "5G爆斷網災情！中華電信：晚間10點恢復正常了",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5615782",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "高薪徵才藏陷阱！刑事局偵破5起國人運毒案 販毒集團用來設斷點",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5615768",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "葉林傳10/25競總成立大會取消 省下經費全捐贈公益",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5615781",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "趙少康專訪》蘇巧慧談新北主體性 質疑李四川政見超乎理解",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5615717",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "「空軍愛迪生」籌辦科普列車屏東2站  4國高中交換生也來闖關",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5615755",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "台中首座全民運動館開幕 「東哥」黃忠義示範打擊",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5615744",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "2026全球最紅迷因歌〈INMU KING〉遭YouTube無預警下架",
+              "url": "https://news.ltn.com.tw/news/novelty/breakingnews/5615451",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "住飯店櫃台唸出「1數字」立刻要求換房！不是奧客而是保命",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5615775",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "薔琵颱風來襲 台北市8米以上道路紅黃線開放停車",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5615767",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "奉命「撞飛上引擎蓋、斷手腳住院」 黃逸豪遭跨境鎮壓4嫌收押1交保",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5615769",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "逆轉！花縣議員周駿宥酒駕判刑被禁參選 北高行裁准暫列候選人",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5615756",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "剛生完扛金鐘主持！陳庭妮吃早餐遇阿姨「真實反應」超催淚：台北最溫暖的地方",
+              "url": "https://ent.ltn.com.tw/news/breakingnews/5615772",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "林口長庚明天門診暫停 住院、急診及透析照常",
+              "url": "https://health.ltn.com.tw/article/breakingnews/5615707",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "台北市風雨增強時間曝 文山、南港慎防豪雨",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5615752",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "蘇花路廊10/23上午6點起只出不進 8點預警性封路",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5615766",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "路樹砸機車害女癱瘓！中市府國賠近千萬轉向包商求償二審再吞敗",
+              "url": "https://news.ltn.com.tw/news/society/breakingnews/5615624",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "颱風夜手機斷網！中華電信5G爆災情　網哀號新北重災區",
+              "url": "https://3c.ltn.com.tw/news/68030",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "高雄全民運奪41金122獎牌 17人次破大會紀錄",
+              "url": "https://sports.ltn.com.tw/news/breakingnews/5615684",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "桌球》削球名將橋本帆乃香獨拿2點！日本逆轉中國女團勇奪第4冠",
+              "url": "https://sports.ltn.com.tw/news/breakingnews/5615758",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "10歲女童安置檢討「沒作為」 北市社會局預算、局長特別費送協商",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5615582",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "薔琵颱風強風吹不停 台中災害應變中心升級一級開設",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5615748",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "法國賽》3局大戰扳倒一哥周天成！戚又仁闖進8強",
+              "url": "https://sports.ltn.com.tw/news/breakingnews/5615763",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "AI支出疑慮升溫！美股4大指數重挫  費半跌幅逾5％",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5615754",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "趙少康專訪直白問蘇貞昌是選戰資產或負債？蘇巧慧直言「這句」",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5615704",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "薔琵颱風逼近 台中巨蛋等重大工程導入智慧水位偵測設備",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5615664",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "國政問AI？南韓偵查首長列席國務會議挨批 李在明：我問過Gemini",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5615745",
+              "tier": 2,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 40
+        },
+        {
+          "name": "Technology",
+          "anchor": "Technology",
+          "archive_url": "./history/2026-10-22_17-00/index.html#Technology",
+          "stories": [],
+          "watchlist": [
+            {
+              "title": "The Download: computing’s next leap and permafrost’s climate threat",
+              "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Making the case for context-aware AI",
+              "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Three things you should know about permafrost",
+              "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "黃仁勳籲歐洲加快腳步、別過度依賴監管，盼德國以物理 AI 突圍",
+              "url": "https://technews.tw/2026/10/22/jensen-huang-has-a-message-for-europe/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Google 執行長皮查伊靠 AI 代理團隊掌握公司動態，每天可省下大把時間",
+              "url": "https://finance.technews.tw/2026/10/22/sundar-pichai-explains-how-a-team-of-ai-agents-helps-him-run-the-company/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "AI’s hidden storage bill: What inference leaves behind",
+              "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "擁抱 AI 代理購物，沃爾瑪與亞馬遜策略大不同",
+              "url": "https://technews.tw/2026/10/22/walmart-amazon-divergent-approaches-ai-agent-shopping/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "神盾集團攜手法國 SiPearl 策略合作，布局全球高效能運算市場",
+              "url": "https://finance.technews.tw/2026/10/22/aegis-group-and-french-company-sipearl-form-a-strategic-partnership/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "日本 9 月外國遊客數，中國大減 44.5%、台灣逆勢成長 13%",
+              "url": "https://technews.tw/2026/10/22/japan-foreign-visitors-september-china-plunges-44-5-taiwan-grows-13/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "美光勞資協議內容曝光！季分潤、調薪、勞退 10% 再加碼三天有薪假",
+              "url": "https://finance.technews.tw/2026/10/22/microns-labor-agreement-details-revealed/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "聯合再生連 14 年獲綠能獎肯定，TOPCon 電池轉換效率達 25.7%",
+              "url": "https://technews.tw/2026/10/22/united-renewable-energy-honored-14th-consecutive-year-green-energy-award-topcon-cell-efficiency-25-7/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "公股投信世紀四合一！第一金投信奪過半股權通吃兆豐、合庫、華南子公司",
+              "url": "https://finance.technews.tw/2026/10/22/publicly-owned-investment-trusts/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "結盟 PayPay 搶日客、串連 ShopBack 衝回饋！一卡通代收付重返 21 億元",
+              "url": "https://finance.technews.tw/2026/10/22/paypay-shopback/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "2035 年需要 1,509 架戰機，美國空軍：要不要買全新 F-16 還不急著決定",
+              "url": "https://technews.tw/2026/10/22/usaf-needs-1509-fighters-in-2035/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "PHP 爆兩大高風險漏洞、危險評分達 9.2，趨勢科技籲企業盡速修補",
+              "url": "https://infosecu.technews.tw/2026/10/22/php-loopholes-2/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "感測器廠宇田控制將登錄興櫃，前三季營收 2.74 億元達前一年 86%",
+              "url": "https://finance.technews.tw/2026/10/22/industrial-sensor-manufacturer-uda-control-will-be-listed-on-the-emerging-stock-market/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "傳統眼鏡需求旺  雷朋母公司財報佳、股價彈 15%",
+              "url": "https://finance.technews.tw/2026/10/22/essilorluxottica-beats-earnings-estimates-shares-jump-15/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "企業瘋 AI 轉型卻拿不出實績？SEC 執法轉向，財報成投資人最後防線",
+              "url": "https://finance.technews.tw/2026/10/22/sec-ai-washing-silence/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "迎向太空通訊新紀元！TAITRONICS 2026 產發署主題館亮眼登場，展現臺灣非地面網路尖端實力",
+              "url": "https://technews.tw/2026/10/22/taitronics-hestia-esa-ntn-ai/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "中國客戶棄華為昇騰搶買 RTX PRO 5500，輝達僅能滿足 5%~10% 市場需求",
+              "url": "https://technews.tw/2026/10/22/chinese-customers-are-abandoning-huaweis-ascend-and-rushing-to-buy-rtx-pro-5500/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Vantage 攜手 Heron 簽署逾 1 GW SST 產能協議",
+              "url": "https://technews.tw/2026/10/22/vantage-heron-1gw-sst-capacity-deal/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "iPhone Duo 明開賣，蘋果提前公布颱風假取機安排",
+              "url": "https://technews.tw/2026/10/22/iphone-duo-typhoon-day/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Muse 使用者破千萬人，祖克柏揭下一步擴張戰略",
+              "url": "https://technews.tw/2026/10/22/muse-agents-reach-over-10-million-users-in-the-us-and-canada/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "PHP 爆安全漏洞，資安署：修補無效才建議下架網頁",
+              "url": "https://infosecu.technews.tw/2026/10/22/php-vulnerability-forces-some-websites-offline-after-patches-fail/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "磁星如何形成？新模擬：低質量中子星相撞瞬間「打造」最強磁場天體",
+              "url": "https://technews.tw/2026/10/22/magnetar-neutron-star-tov-limit/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "劍指亞洲最大「數位牙科」生態圈！Zenyum 完成新一輪千萬美元注資",
+              "url": "https://finance.technews.tw/2026/10/22/digital-dentistry/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "中華電拚每年孵出一家新子公司，中華曜智接棒搶攻 AI 智慧影像商機",
+              "url": "https://finance.technews.tw/2026/10/22/cht-ai-vision/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "預估 2027 年 Server CPU 出貨年增破 40%，Arm-Based 產品市占持續擴大",
+              "url": "https://technews.tw/2026/10/22/2027-server-cpu-shipments-40-percent-growth-arm-based-market-share-expansion/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Kakao 宣布開源 AI 影像辨識模型：訓練效率提升 4 倍、延遲大幅降低逾 60%",
+              "url": "https://technews.tw/2026/10/22/kakao-open-sources-ai-image-model/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "行政院拍板 TISA 2.0 祭 2.4 萬免稅額！每年省稅 1,200 元、滿 60 歲提領免稅",
+              "url": "https://finance.technews.tw/2026/10/22/tax-exemption/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "法國暴動影響  家樂福大砍財測、股價慘摔 13%",
+              "url": "https://finance.technews.tw/2026/10/22/carrefour-slashes-forecast-shares-plunge-13/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "The Nuclear Company 宣布 Prosperity One 計畫，擬於肯塔基州劉易斯縣建設 6.6 吉瓦核電園區",
+              "url": "https://technews.tw/2026/10/22/the-nuclear-company-to-build-nuclear-energy-campus-in-lewis-county-kentucky/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "挑戰 OpenAI 霸主地位，中國 AI 新星 DeepSeek 傳狂吸 150 億美元天價融資",
+              "url": "https://technews.tw/2026/10/22/deepseek-secures-massive-funding/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "證交所創新板法規全面對齊一般板！林修銘曝四大亮點免簽風險預告書",
+              "url": "https://finance.technews.tw/2026/10/22/risk-warning/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "微軟：中國駭客入侵 ConnectWise，全球數百機構遭鎖定",
+              "url": "https://infosecu.technews.tw/2026/10/22/microsoft-chinese-hackers-infiltrated-connectwise-hundreds-global-organizations-targeted/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "eBay 宣布將再裁員 1,000人，約占全球員工總數 9%",
+              "url": "https://technews.tw/2026/10/22/ebay-to-slash-1000-more-jobs-around-9-percent-of-workforce/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "半導體設備商科林研發財測無驚喜  盤後挫近 7%",
+              "url": "https://finance.technews.tw/2026/10/22/lam-research-forecast-fails-to-impress-shares-drop-nearly-7-after-hours/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "韓央行連兩次升息後喊暫停  專家估 11 月會升",
+              "url": "https://finance.technews.tw/2026/10/22/bank-of-korea-holds-rates-experts-expect-november-hike/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "傳奇投資人示警 AI 算力泡沫  稱 GPU 如飛機座位",
+              "url": "https://finance.technews.tw/2026/10/22/ken-griffin-warns-of-ai-compute-bubble/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "奧特曼共同創辦 World 推出金融業真人驗證方案，Zoom 全面上線深偽偵測",
+              "url": "https://infosecu.technews.tw/2026/10/22/world-launches-world-id-suite-for-banks-makes-zoom-deepfake-check-generally-available/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "AI＋工業雙引擎  德州儀器 Q3 獲利猛增 77%",
+              "url": "https://finance.technews.tw/2026/10/22/texas-instruments-q3-profit-surges-77/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "取回半世紀前「排泄物」，美權威報告促 NASA 探索四大月球新熱點",
+              "url": "https://technews.tw/2026/10/22/experts-urge-nasa-recover-moon-excrement/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "AI 資料中心擴張恐讓德州空氣品質倒退 20 年，即使走淨零路線氮氧化物排放仍增 35%",
+              "url": "https://technews.tw/2026/10/22/data-centers-could-erase-decades-of-air-quality-gains/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "美食達人部分資訊系統遭駭客攻擊，美食-KY代子公司發布資安重訊",
+              "url": "https://www.ithome.com.tw/news/179898",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "日本明年 1 月縮減 EV 購車補助、最高砍 4 成",
+              "url": "https://technews.tw/2026/10/22/japan-to-scale-back-ev-subsidies-in-january/",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "俄羅斯社群媒體巨頭VK資料中心遭無人機襲擊，大量使用者通報服務異常",
+              "url": "https://www.ithome.com.tw/news/179902",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "科懋生技商城會員個資遭擷取，指出是委外服務商系統遭自動化攻擊",
+              "url": "https://www.ithome.com.tw/news/179900",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "清淨海生技接獲消費者反映疑似個資外洩，將與委外廠商共同釐清事件影響",
+              "url": "https://www.ithome.com.tw/news/179901",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "微軟開放Pylance切換型別檢查器，VS Code支援Meta Pyrefly",
+              "url": "https://www.ithome.com.tw/news/179894",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Oracle發布2026年10月關鍵修補更新，共修補1,209個漏洞",
+              "url": "https://www.ithome.com.tw/news/179899",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "OpenAI、Meta之後，Anthropic也推出主動式AI代理Claude Duet",
+              "url": "https://www.ithome.com.tw/news/179897",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "研究人員借助AI力量找出存在超過10年的資安漏洞PHP2Shell",
+              "url": "https://www.ithome.com.tw/news/179892",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "數發部：PHP重大漏洞影響約2.8萬個國內網站，約200個政府機關網站受影響，要求優先修補、必要時暫停服務",
+              "url": "https://www.ithome.com.tw/news/179891",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Salesforce臺灣將邁入第二年，觀察：AI Agent導入從試點走向企業流程，軟體使用入口正隨AI轉變",
+              "url": "https://www.ithome.com.tw/news/179895",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Amazon證實重大漏洞PHP2Shell在揭露前已遭駭客利用",
+              "url": "https://www.ithome.com.tw/news/179888",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "【資安日報】10月22日，PHP發布緊急安全更新，修補震驚全球的重大漏洞PHP2Shell",
+              "url": "https://www.ithome.com.tw/news/179889",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "CISA呼籲儘速修補PHP2Shell",
+              "url": "https://www.ithome.com.tw/news/179890",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "針對91APP資料庫遭非法存取事件，數產署已啟動行政檢查，釐清個資影響範圍",
+              "url": "https://www.ithome.com.tw/news/179873",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Node.js修補4項高風險漏洞，Brotli解壓縮錯誤恐讓駭客遠端執行程式碼",
+              "url": "https://www.ithome.com.tw/news/179887",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "勒索談判業者疑與駭客組織ShinyHunters勾結，協助經營勒索網站",
+              "url": "https://www.ithome.com.tw/news/179881",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "資安署針對PHP、Node.js、Go緊急更新提出警告，呼籲用戶儘速採取行動",
+              "url": "https://www.ithome.com.tw/news/179878",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "PHP2Shell漏洞已遭大規模攻擊嘗試，逾2,260萬個實例可能曝險",
+              "url": "https://www.ithome.com.tw/news/179884",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "加州學校測驗委外商遭駭，數百萬學生個資外洩",
+              "url": "https://www.ithome.com.tw/news/179877",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Fortinet同步修補多款產品漏洞，涵蓋5大產品系列及多個版本分支",
+              "url": "https://www.ithome.com.tw/news/179876",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Langflow重大遠端程式碼執行漏洞，已觀測逾3,400次攻擊嘗試",
+              "url": "https://www.ithome.com.tw/news/179875",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "PHP發布緊急安全更新，修補震驚全球的重大漏洞PHP2Shell",
+              "url": "https://www.ithome.com.tw/news/179870",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "印度數位憑證業者eMudhra中繼CA私密金鑰可被還原，瀏覽器緊急封鎖相關憑證",
+              "url": "https://www.ithome.com.tw/news/179851",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "微軟開源Scope評測平臺，追蹤AI程式開發代理的任務表現",
+              "url": "https://www.ithome.com.tw/news/179868",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "黃仁勳示警歐洲AI競爭力落後　籲德國善用製造優勢、擺脫監管束縛",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772293_2IQ3PKP986EO4C4S2M88N",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "DeepSeek傳完成人民幣千億元融資　寧德時代、騰訊成主要金主",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772367_XT52NAY97THAK56X1I97M",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "宇樹G1累計產量達1至2萬台　王興興：機器人普及需年產量千萬",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772372_4U42GI7V8ZX6JH120D6V9",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "日系車中國失勢衝擊供應鏈　小糸製作所再關湖北廠、產能縮至3分之1",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772297_E321ITV2LPQV6G6PQGAJD",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "程曦資訊23日掛牌上櫃　拚AI新業務2027擴大營收貢獻",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772416_HT038XO12PAKO15OH3NGL",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "《新聞聚焦》從電影開進現實？　Tesla新一代Roadster挑戰飛天想像",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772386_LXI4EF347L4JKZ7UV6L4X",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "台灣逾8成中小企使用AI　行銷與內容成擴大應用重點",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772399_XU42LT5JLM9HLH8UIDRD4",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "台英深化能源合作　聚焦離岸風電、電網韌性與CCUS",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772389_ER64R6EL7SMSH4LS3GUZP",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "產品表面變身互動介面　艾邁斯歐司朗光學壓力感測讓機器讀懂觸碰",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772360_RQ046G4P5TJ3AK1X98WSB",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "躍升台灣工具機第三大市場　「印度製造」帶動自動化紅利",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772393_OXS2NF5ZLVRB0A25IUV7X",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "仁寶與Verda擴大合作　大溪產能支援歐亞非AI雲部署",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772385_5PN4HRNX7MJQGU6RMH6X2",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "ASML、東京威力科創齊談資安　HITCON聚焦AI與半導體供應鏈防禦",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772382_TJW2NJ909IG9561LNTR9U",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "大合新UHMWPE防護結構通過台美抗彈測試　拓展海外市場",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772380_W2X2PUXF98IESXLDDJ06U",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "聯電攜手愛普攻AI晶片供電　DTC矽電容完成投片驗證、搶進先進封裝整合",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772378_3IB293JL8NG5UX7R05OT0",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "攜手NVIDIA共推產業模型　達梭系統GTC Berlin展示AI虛擬工廠",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772384_UCT4VSPA7XESB652V8AEC",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Oppo國際版Find X10亮相　高階手機戰力持續衝",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772358_VTN2GWXY61VY6O7EEY8DY",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "OpenAI高層捐款反監管團體　AI安全立場引發質疑",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772327_MUR4NQ7R1OX4V48F5C2Q6",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "ChatGPT Ads擴大至89國　OpenAI IPO前強化廣告營收",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772312_CJZ45RIN0M1NJ93J60PWL",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Elon Musk談Terafab布局　2027年中試產晶片、產值潛力上看全球前20大經濟體",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772335_CU42C4II4I62UI4AHH7KV",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "美國國防資金挺半導體在地化　川普宣布15億美元投資",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772336_RTN4MSXV2G23OB7XJHT0P",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "科林研發估2027年WFE破2千億美元　無塵室、零組件供應成瓶頸",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772310_QL62DLGE2HANFWLPNR22A",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "《路克相談室》EP66：台積電法說會沒說的3奈米故事、三星HBM基底晶片轉單分析、台積電A14 1H28就量產？",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772330_44E25VVI43JKI6LGM6Q5O",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "OpenAI模型打入三大雲端平台　Google Cloud企業客戶添新選擇",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772309_SKT4QREFLULBHILKY8O63",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "PLP、載板標準制定接連啟動　ADEPT Taiwan舉辦首次實體會議",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772338_VQ644ZCO2X4OQQ9TEH6VD",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "EA關閉BioWare工作室並取消新專案　預計裁員400人",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772324_BCG4WXO01Q8TY659PFNGJ",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "中華電成立中華曜智布局AI影像　簡志誠盼早日IPO",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772334_E952O5I54EZ7NE3MLVWZ7",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Tesla AI轉型理想碰上現實　資本支出縮水、Optimus量產恐延至2027年",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772305_3IG2EY6213K86243PXOWQ",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "蘋果自研通訊晶片邁向6G　高階工程師徵才首納LLM技能",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772329_III42HT61LP6F4LITNBJ6",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "樂金Innotek攜手NVIDIA　GTC柏林秀HSB感測方案",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772325_KO12FK6E33JIZV4WPROC1",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "OpenAI、Wiz揭露PHP嚴重資安漏洞　全球多個網站緊急下線",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772306_JBH21YA41L3XLH5RWQW57",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "《科技聽IC》AI狂飆，半導體跟得上嗎？SEMICON West揭示產業新戰局",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772333_0WT2VVAX4SNPS92E9YDED",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "SAP 3Q26營收首破百億歐元　AI加速雲端轉型、積壓訂單增26%",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772321_YCQ2EIM738K8HF04A52J8",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Bolt採用NVIDIA Alpamayo Stack　推動歐洲自動駕駛車隊部署",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772332_FVA298OG4AXLY1135HEMZ",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "美光打臉4F² DRAM稱「只是神話」　不參戰三星與長鑫競爭、押3D DRAM翻轉戰局",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772326_MBY4A32A1RHXZY7BEOQJ6",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "工業需求回溫　德儀3Q26資料中心營收近翻倍",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772308_FSR47JG2LI2JW19MOBDZS",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "晶片與遊戲先卡位、實體AI與氫能接棒　日本17項成長戰略制定執行計畫",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772304_YJI2PKNJ1VLAOI3TE8GB3",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "SK海力士啟動iHBM商用化布局　與供應鏈洽談HBM散熱新技術量產",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772322_50Q28NKF3CSTSC1Y6KKM9",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "iPhone Duo 23日正式開賣　台灣不提供現場現貨販售",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772319_X0W4816700PE4ULU816OE",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "中國人形機器人2026全年望破10萬台　宇樹新款H2-X再秀功夫",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772298_NIF1NMT3L7ONW07NQT7PZ",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "AI伺服器鈦銅產能增5成　JX金屬攜日本製鋼所擴產",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772303_5WN2W8W61SCJMR2VZCFFQ",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "中華創智成立週年通過ISO/IEC 27001國際資安認證 2027拼營收目標達成",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772289_L8P1H6WI9S9V798IEZ3V0",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "英特爾美國擴產新進展　Fab 62設備進場、俄亥俄廠仍落後5年",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772314_4YF4JBL301KUNM57XIXWB",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "掌握汽車電氣化商機 大聯大世平攜恩智浦推48V輕油電車整合方案",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772316_KFP2SHEV27GY1I5HF7GSF",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Muse用戶突破千萬　Meta拚2027年擴大AI變現",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772318_BD7424W00V7DOZ94H8XM3",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Meta 3Q26營收年增26%　上調全年資本支出下限",
+              "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772296_N7A35Y9G8VCSXH7MQ0VV6",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "8 成美國企業財務團隊用生成式 AI 管現金流，採用代理式 AI 卻只有 5%",
+              "url": "https://techorange.com/2026/10/22/artificial-intelligence-finance-embraces-gen-ai-autonomous-cash-management/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Amazon 擋 Muse、Walmart 卻為 AI 代理「開窗」：可設定消費上限、卡號不交給代理",
+              "url": "https://techorange.com/2026/10/22/walmart-agent-gateway-ai-shopping-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "AI 熱潮能回本嗎？Gartner 警告：逾 3.5 兆美元基礎設施投資 2030 年前恐面臨減損",
+              "url": "https://techorange.com/2026/10/22/gartner-ai-industry-facing-trillion-shortfall/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "PHP 多年未解的漏洞為何現在才緊急修補？歐洲政府、醫院預防性停站，台灣資安署示警",
+              "url": "https://techorange.com/2026/10/22/php-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "Anthropic 推主動式 AI 代理 Claude Duet：查發票、備薪資，付款簽約先問你",
+              "url": "https://techorange.com/2026/10/22/anthropic-claude-duet-proactive-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "tier": 2,
+              "seen_count": 1
+            },
+            {
+              "title": "不必專職資安團隊，專家列出中小企業現在就能做的低成本防詐做法",
+              "url": "https://techorange.com/2026/10/22/fight-ai-scams/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "tier": 2,
+              "seen_count": 1
+            }
+          ],
+          "no_signal": true,
+          "deep_count": 0,
+          "watch_count": 119
+        }
+      ]
     }
   ]
 }
