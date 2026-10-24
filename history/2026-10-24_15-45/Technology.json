@@ -1,0 +1,134 @@
+{
+  "category": "Technology",
+  "timestamp": "2026-10-24_15-45",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "沒有指令的 AI 都在做什麼？MIT 虛擬島嶼實驗：它們會玩耍、推理，甚至做實驗",
+      "url": "https://technews.tw/2026/10/24/researchers-stranded-an-ai-agent-on-a-virtual-island/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "非科學家團隊靠 Claude 設計抗蠍毒蛋白質，64 小時完成、實驗驗證成功",
+      "url": "https://technews.tw/2026/10/24/ai-does-the-lab-work/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Bloom Energy 財報創高卻重挫 11%，現金流引疑慮",
+      "url": "https://technews.tw/2026/10/24/bloom-energy-stock-plunges-over-11-despite-strong-earnings-cash-flow-turns-negative-ai-investment-concerns-emerge/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "肌肉內也有脂肪，累積過多可能影響健康",
+      "url": "https://technews.tw/2026/10/24/excess-intramuscular-fat-may-harm-health/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "美國砸 3.89 億美元扶植功率半導體，鎖定 AI 資料中心與核融合應用",
+      "url": "https://technews.tw/2026/10/24/us-invests-389-million-boost-power-semiconductors-ai-data-centers-nuclear-fusion-applications/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AMD 玩家福音！新模組讓 Radeon 也能跑 NVIDIA DLSS，首度解鎖光線重建",
+      "url": "https://technews.tw/2026/10/24/all-dlss-features-including-ray-reconstruction-have-been-ported-to-rdna-4-and-3/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Rockwell Automation 推出 FactoryTalk Conductor，一個專為工業自動化打造的 AI 原生協同調度平台",
+      "url": "https://technews.tw/2026/10/24/rockwell-automation-launches-factorytalk-conductor-ai-native-collaborative-orchestration-platform-built-for-industrial-automation/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37%",
+      "url": "https://technews.tw/2026/10/24/antidepressants-boost-cancer-immunotherapy/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "超導類神經網路晶片通過核融合測試，每秒即時分析百萬筆電漿資料",
+      "url": "https://technews.tw/2026/10/24/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-13/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "神經網路「沒那麼難懂」，OpenAI 前研究員 2.6 萬字長文引爆學界正反論戰",
+      "url": "https://technews.tw/2026/10/24/ai-world-stunned-breakthrough-unravels-neural-network-mystery/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "「非紅」標籤只是加分，台灣無人機突圍須先擠進大廠供應鏈",
+      "url": "https://technews.tw/2026/10/24/non-red-supply-chain-bonus-czech-taiwan-largest-drone-market-defense-startups-two-hurdles/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AWS 產能預訂至 2028 年，亞馬遜示警電力、記憶體短缺難解",
+      "url": "https://technews.tw/2026/10/24/aws-capacity-booked-2028-amazon-warns-power-memory-shortages/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Xbox Series X 成功跨界跑 PS5 遊戲，卻受限 5GB 記憶體天花板",
+      "url": "https://ccc.technews.tw/2026/10/24/xbox-series-x-successfully-runs-ps5-games/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "台積電明年營收能否破 8 兆？不只看輝達，更要看蘇姿丰",
+      "url": "https://technews.tw/2026/10/24/tsmc-revenue-exceed-8-trillion-next-year-nvidia-lisa-su/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI 資料中心缺電怎麼辦？輝達從用電端下手，DSX 最高省電 30%",
+      "url": "https://technews.tw/2026/10/24/nvidia-dsx-ai-data-center-power-shortage-30-percent-savings/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "科學家發現「抗凍」金屬，-253°C 極限低溫仍不脆裂",
+      "url": "https://technews.tw/2026/10/24/scientists-discover-extremely-low-temperature-antifreeze-metal/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "AI 投資疑慮未消、油價飆漲，美股三大指數全面收黑",
+      "url": "https://finance.technews.tw/2026/10/24/us-major-indices-lower-ai-doubts-oil-prices-surge/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "輝達 AI 工廠點將！矽品 CPO 產能拚增 30 倍，欣興、京元電迎擴產爆發期",
+      "url": "https://technews.tw/2026/10/24/nvidia-names-4-supply-chain-boost-production-shipments-kyec-unimicron-spil/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "Wi-Fi 也能當金屬探測器用！瑞典開發 AI 系統辨識隱藏手槍，準確率達 72.5%",
+      "url": "https://technews.tw/2026/10/24/researchers-train-ai-to-detect-concealed-handguns-using-wi-fi-signals/",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "PHP2Shell漏洞修補釋出兩天後，PHP基金會警告還有一個待修補的遠端程式碼執行漏洞",
+      "url": "https://www.ithome.com.tw/news/179943",
+      "tier": 2,
+      "seen_count": 1
+    },
+    {
+      "title": "週末新聞速寫：iPhone Duo大排長龍｜黃仁勳訪哈薩克｜OpenAI訓練模型不再上網｜月之暗面K3升級",
+      "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000772557_5T04EZUQ608BW06URZW0W",
+      "tier": 2,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
