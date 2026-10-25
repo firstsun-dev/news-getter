@@ -1,0 +1,128 @@
+{
+  "category": "Social Sentiment",
+  "timestamp": "2026-10-25_04-15",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Elon Musk Admits SpaceX Purposely Restricted Ukraine’s Starlink Access in War With Russia: ‘That Loophole Was Closed’",
+      "url": "https://www.reddit.com/r/technology/comments/1xeoqd6/elon_musk_admits_spacex_purposely_restricted/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "AI bubble update: 79% of companies say their GPUs sit idle at least half the time, yet most plan new AI platforms",
+      "url": "https://www.reddit.com/r/technology/comments/1xecuyj/ai_bubble_update_79_of_companies_say_their_gpus/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Iran Has ‘Detailed Plans’ to Attack Undersea internet Cables in Persian Gulf, in the event of future attacks by Israel or the US.",
+      "url": "https://www.reddit.com/r/technology/comments/1xej9s1/iran_has_detailed_plans_to_attack_undersea/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test",
+      "url": "https://www.reddit.com/r/technology/comments/1xeg5wb/iphone_duo_fails_jerryrigeverythings_dusty/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Apple’s iPhone Duo fails JerryRigEverything’s durability test",
+      "url": "https://www.reddit.com/r/technology/comments/1xe95m4/apples_iphone_duo_fails_jerryrigeverythings/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Proton hosts Flock map revealing over 300,000 cameras, defying cease-and-desist threats against creator — privacy-focused company hosts site on Swiss servers, says users have the right to know who’s recording them",
+      "url": "https://www.reddit.com/r/technology/comments/1xebubm/proton_hosts_flock_map_revealing_over_300000/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://www.reddit.com/r/technology/comments/1xenv2n/forced_to_pick_groks_ai_model_chooses_republicans/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Their police jobs ended. They kept using Flock’s vast surveillance network.",
+      "url": "https://www.reddit.com/r/technology/comments/1xejzvz/their_police_jobs_ended_they_kept_using_flocks/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "OpenAI Frontier Red Team: Isolated AI Agents Figured Out How To Communicate Through Side-Channels In CPU Cache Timing",
+      "url": "https://www.reddit.com/r/technology/comments/1xefo9e/openai_frontier_red_team_isolated_ai_agents/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Russian finance ministry data center struck by Ukrainian forces",
+      "url": "https://www.reddit.com/r/technology/comments/1xertbs/russian_finance_ministry_data_center_struck_by/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "No Signs of AI Payoff Outside the Tech Sector",
+      "url": "https://www.reddit.com/r/technology/comments/1xeid9n/no_signs_of_ai_payoff_outside_the_tech_sector/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn't make it",
+      "url": "https://www.reddit.com/r/technology/comments/1xemukz/the_ai_graveyard_a_running_list_of_projects_and/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Billionaire Nerds Want to End Democracy",
+      "url": "https://www.reddit.com/r/technology/comments/1xenjpv/billionaire_nerds_want_to_end_democracy/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Ukraine regains normal Starlink speeds after more than a week of disruptions",
+      "url": "https://www.reddit.com/r/technology/comments/1xegsww/ukraine_regains_normal_starlink_speeds_after_more/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+      "url": "https://www.reddit.com/r/technology/comments/1xeafzj/in_hunt_for_starlink_alternative_ukraine_partners/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+      "url": "https://www.reddit.com/r/technology/comments/1xeobv0/swedens_government_offices_block_chatgpt_and/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+      "url": "https://www.reddit.com/r/technology/comments/1xenw8r/after_spacex_restores_highspeed_service_musk/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Xbox’s first chief operating officer is out after just a few months",
+      "url": "https://www.reddit.com/r/technology/comments/1xemvmy/xboxs_first_chief_operating_officer_is_out_after/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+      "url": "https://www.reddit.com/r/technology/comments/1xeh2id/updated_google_privacy_policy_says_your_gmail/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "#TechToday | AI race beyond US, China: Japan, South Korea emerge as leading AI-ready economies. How India fares. For India, the challenge extends beyond developing AI models or attracting technology investment. It is also about ensuring that AI adoption - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQTQzNmtqdXZDc2M0VVZILWZvemhhaGh6VEFMRFppdWVBRmxJRUFFZW02akdLcG9uM25wN0g3emIxNGNhejdoRUJQS0hsMzFBQmluUjFTQVRtX1l2djI5bVRSM2Q3a2VIUGxiN2x4aGU0X29rdThTSHNFQkI3ZkQ1VVlJdFVtaXhoemxzenJBb2RQNnBSNzNHOTkyRnhxZVcxdVd0N2xVc1JYM3ktcS1UTmR5LVdHV1F3al84WUNFeHgzNkpJWFpRd2NXNFh3aGo5cjZNYVl6RU1GT0k?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
