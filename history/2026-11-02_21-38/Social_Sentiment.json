@@ -1,0 +1,158 @@
+{
+  "category": "Social Sentiment",
+  "timestamp": "2026-11-02_21-38",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Anthropic confirms new Claude Code limits to prevent game cloning — users report Opus 5.5 is also actively blocking reverse engineering tasks",
+      "url": "https://www.reddit.com/r/technology/comments/1xlwaqx/anthropic_confirms_new_claude_code_limits_to/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Supermarket freezers across Europe struck in second crippling cyberattack — hackers raise temperatures to 50 degrees Celsius in Belgium and Sweden, destroying food stocks",
+      "url": "https://www.reddit.com/r/technology/comments/1xlu8t2/supermarket_freezers_across_europe_struck_in/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
+      "url": "https://www.reddit.com/r/technology/comments/1xm178q/anthropics_internal_ai_use_valued_at_retail/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Proton Mail goes full AI slop, Tuta starts going AI slop",
+      "url": "https://www.reddit.com/r/technology/comments/1xm6tf2/proton_mail_goes_full_ai_slop_tuta_starts_going/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Hackers claim to have stolen 23TB of data from Russian statistics body, including Ukraine war casualty figures — Russian Federal State Statistics Service admits its servers were hit by coordinated cyberattacks",
+      "url": "https://www.reddit.com/r/technology/comments/1xlwbvu/hackers_claim_to_have_stolen_23tb_of_data_from/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "'America hates data centers,' new database reveals more than 90% of 10,000 public comments are negative, only 21% mention AI — 73% of meetings had no data center supporters, water is the number one concern",
+      "url": "https://www.reddit.com/r/technology/comments/1xm04g7/america_hates_data_centers_new_database_reveals/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Putin demands Russian data centers supply capacity to the state in wake of Ukraine drone attacks — 10% capacity must be available for state IT infrastructure with 24 hours' notice",
+      "url": "https://www.reddit.com/r/technology/comments/1xm56qt/putin_demands_russian_data_centers_supply/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "It’s time to block reckless AI IPOs and tax billionaires",
+      "url": "https://www.reddit.com/r/technology/comments/1xm2eti/its_time_to_block_reckless_ai_ipos_and_tax/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The Intel stock collapse is getting worse — and the $3.5 trillion chip rout is spreading",
+      "url": "https://www.reddit.com/r/technology/comments/1xm9jey/the_intel_stock_collapse_is_getting_worse_and_the/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Google data center wins approval in Minnesota after protests delay council vote twice — 200-acre project moves forward despite opposition from local residents, tech giant scales down project and drops $80 million tax break request",
+      "url": "https://www.reddit.com/r/technology/comments/1xlx2bo/google_data_center_wins_approval_in_minnesota/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Delivery robot ran a red light, crashed and fled the scene: Nine injured",
+      "url": "https://www.reddit.com/r/technology/comments/1xm6uq0/delivery_robot_ran_a_red_light_crashed_and_fled/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Almost half of all new Steam games use AI now",
+      "url": "https://www.reddit.com/r/technology/comments/1xm2zup/almost_half_of_all_new_steam_games_use_ai_now/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "SpaceX loses bid to dismiss lawsuit over xAI data center pollution — facility allegedly emits over 5,000 tons of nitrogen oxides and 47 tons of cancer-causing formaldehyde annually",
+      "url": "https://www.reddit.com/r/technology/comments/1xlwhhr/spacex_loses_bid_to_dismiss_lawsuit_over_xai_data/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "A per-gigabyte internet tax just squeaked through France's lower house",
+      "url": "https://www.reddit.com/r/technology/comments/1xlverf/a_pergigabyte_internet_tax_just_squeaked_through/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "No Bailouts, Just Confiscations: Nationalize The Artificial Intelligence Companies",
+      "url": "https://www.reddit.com/r/technology/comments/1xm8ro9/no_bailouts_just_confiscations_nationalize_the/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Spotify plans to let users remix artists' songs using AI next year, but it'll cost up to $5 extra per month",
+      "url": "https://www.reddit.com/r/technology/comments/1xlwkog/spotify_plans_to_let_users_remix_artists_songs/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Rivian’s ‘Boring’ Commercial Van Is Turning Into A Secret Weapon",
+      "url": "https://www.reddit.com/r/technology/comments/1xm387v/rivians_boring_commercial_van_is_turning_into_a/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "OpenAI's plan to make data centers less hated: Rename them \"compute campuses\"",
+      "url": "https://www.reddit.com/r/technology/comments/1xluq8v/openais_plan_to_make_data_centers_less_hated/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1 filing with the SEC",
+      "url": "https://www.reddit.com/r/technology/comments/1xm0956/anthropic_reports_17_billion_in_q3_revenue/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Ukraine, Russia Hit by Hacks Sending Fake Nuclear Attack Alerts",
+      "url": "https://www.reddit.com/r/technology/comments/1xlt60h/ukraine_russia_hit_by_hacks_sending_fake_nuclear/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Claude's New Feature Lets Employers Analyze Workers' AI Chats",
+      "url": "https://www.reddit.com/r/technology/comments/1xlu4h0/claudes_new_feature_lets_employers_analyze/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Anthropic posts $17B quarterly revenue but losses continue in fresh IPO filing",
+      "url": "https://www.reddit.com/r/technology/comments/1xm35pc/anthropic_posts_17b_quarterly_revenue_but_losses/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Entire Games Are Being Ripped Off By AI, And Things Are Only Going To Get Worse",
+      "url": "https://www.reddit.com/r/technology/comments/1xm6cje/entire_games_are_being_ripped_off_by_ai_and/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Artificial intelligence (AI) can reshape markets, yet its implications for competition remain under-explored. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUkFNeUJ1OW45aDF2eXB2dlhNdE1TU3ZDTGhzMWJtYTVnRlBlSUFhYlNzbGM3akpxUGRwbTlmMjFHWE1iaWhZeXVoRndNdmptLTBOUk5INXBseGl1ZHIyMHR6WFQ5cm41TFFVX2xEbHc1bUZPanI0S1NSeThhb1JxOThKemdhZEpTWXVKT3EwdDM1bS12OFNhcUxycURJYXl3ZjBxR3RtQzBNdGpSem5hX1hLTElGV3I4LUMtMWl6ZW5mbV91TC1SU0R4WXNDNUl6cG1oTWRGYW8?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "AI will transform Africa's economy when ______. Finish the sentence in the replies, then join us Nov 3 to hear what experts think. Register now: https://bit.ly/4Bq93A5 #AfricaEconomicUpdate - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWFVaUms1TjlQMnFVVnFlVkg0U0JBaWJBVmlGYmxaOC1xVmVOQ3VSZUZFRThWc3QtcmxlVzJZZGFVSkp0dkZWZzk3aEYwdk1BaFJOcDhxYS1zeUpXWXQwM0ZaRG1TbW0zSG15Q28wa2xPUTVKM1dsS0RlQllWaGZWVExSQ1VrOXJkZHJ6SXFfXzFPVXFqOVp0WEFrLUt0R29DZ1FtcXZpbGMzYm5Na2I1LTVWcUFXc0o2YU9tN2xPWWdIaUt5WFZmYTFkY0VOcmpCSW1fcWFkWDNFZGtIT1E?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}

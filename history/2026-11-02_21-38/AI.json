@@ -1,0 +1,26 @@
+{
+  "category": "AI",
+  "timestamp": "2026-11-02_21-38",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "AI backlash heads to the polls",
+      "url": "https://therundownai.beehiiv.com/p/ai-backlash-heads-to-the-polls",
+      "tier": 3,
+      "seen_count": 1
+    },
+    {
+      "title": "LifeVal",
+      "url": "https://openai.com/index/lifeval",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "tier": 1,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
