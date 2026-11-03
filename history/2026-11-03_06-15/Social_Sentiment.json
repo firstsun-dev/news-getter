@@ -1,0 +1,332 @@
+{
+  "category": "Social Sentiment",
+  "timestamp": "2026-11-03_06-15",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "The Intel stock collapse is getting worse — and the $3.5 trillion chip rout is spreading",
+      "url": "https://www.reddit.com/r/technology/comments/1xm9jey/the_intel_stock_collapse_is_getting_worse_and_the/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Anthropic's colossal pay packages cost the company more than $100,000 a month per employee",
+      "url": "https://www.reddit.com/r/technology/comments/1xmcpr7/anthropics_colossal_pay_packages_cost_the_company/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "iPhones Running iOS 26 Are Freezing FaceTime Calls When They Detect Nudity",
+      "url": "https://www.reddit.com/r/technology/comments/1xmiufw/iphones_running_ios_26_are_freezing_facetime/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The Number Of Innocent People Being Accused of Shoplifting by Faulty AI-Facial Recognition Systems Is Alarming",
+      "url": "https://www.reddit.com/r/technology/comments/1xmbuoh/the_number_of_innocent_people_being_accused_of/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Disney Plans Thousands of Layoffs, Targeting 20% Cost Savings",
+      "url": "https://www.reddit.com/r/technology/comments/1xmfwop/disney_plans_thousands_of_layoffs_targeting_20/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Proton Mail goes full AI slop, Tuta starts going AI slop",
+      "url": "https://www.reddit.com/r/technology/comments/1xm6tf2/proton_mail_goes_full_ai_slop_tuta_starts_going/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "No Bailouts, Just Confiscations: Nationalize The Artificial Intelligence Companies",
+      "url": "https://www.reddit.com/r/technology/comments/1xm8ro9/no_bailouts_just_confiscations_nationalize_the/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
+      "url": "https://www.reddit.com/r/technology/comments/1xm178q/anthropics_internal_ai_use_valued_at_retail/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "'America hates data centers,' new database reveals more than 90% of 10,000 public comments are negative, only 21% mention AI — 73% of meetings had no data center supporters, water is the number one concern",
+      "url": "https://www.reddit.com/r/technology/comments/1xm04g7/america_hates_data_centers_new_database_reveals/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Putin demands Russian data centers supply capacity to the state in wake of Ukraine drone attacks — 10% capacity must be available for state IT infrastructure with 24 hours' notice",
+      "url": "https://www.reddit.com/r/technology/comments/1xm56qt/putin_demands_russian_data_centers_supply/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "It’s time to block reckless AI IPOs and tax billionaires",
+      "url": "https://www.reddit.com/r/technology/comments/1xm2eti/its_time_to_block_reckless_ai_ipos_and_tax/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+      "url": "https://www.reddit.com/r/technology/comments/1xmdwvj/anthropic_warns_that_its_very_close_to_rsi/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Delivery robot ran a red light, crashed and fled the scene: Nine injured",
+      "url": "https://www.reddit.com/r/technology/comments/1xm6uq0/delivery_robot_ran_a_red_light_crashed_and_fled/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Cops bust botnet of 1.3M infected Android TV boxes",
+      "url": "https://www.reddit.com/r/technology/comments/1xmdn9c/cops_bust_botnet_of_13m_infected_android_tv_boxes/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "url": "https://www.reddit.com/r/technology/comments/1xmdf3r/if_hackers_can_take_control_of_a_supermarket/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Squarespace is laying off 19 percent of employees",
+      "url": "https://www.reddit.com/r/technology/comments/1xmf2ii/squarespace_is_laying_off_19_percent_of_employees/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Almost half of all new Steam games use AI now",
+      "url": "https://www.reddit.com/r/technology/comments/1xm2zup/almost_half_of_all_new_steam_games_use_ai_now/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "49.9% of All New Games Released on Steam in October Disclosed Using AI Content, up From 1.7% of Games in January 2024",
+      "url": "https://www.reddit.com/r/technology/comments/1xmd213/499_of_all_new_games_released_on_steam_in_october/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Rivian’s ‘Boring’ Commercial Van Is Turning Into A Secret Weapon",
+      "url": "https://www.reddit.com/r/technology/comments/1xm387v/rivians_boring_commercial_van_is_turning_into_a/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The International Monetary Fund (IMF) estimates that AI could add up to half a percentage point to annual global growth over the next decade, raising the average rate from 3% to 3.5%. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdV9LMUFZNjRrbFk0S1Z6NzhPdlM4cUNwOTZ3cVpZbGw2ZEpJWUJBTUpQVk9rOUxOQTI4M2JBLXZDVHQ3bXZsT2xHMkUwVEdaMXpwRXBsWXplN3hqckl0SFZOVVBEWDU2blY1aGdSUjR6dU1ITXJnaVEwbXNzNlpUWEVRVk9DLUxBMGkzVXVLLXozVGJ5ejNKekc2S1dqVGc2MlRrUmV2RS12LTcxd05qUlAxTUVkYkw5TFREZjU4TGJ2OGRIZjhHaTVZSlBzYl8xeDd6cmJxUVU5VWs?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Charles Payne. . Embracing AI. Rejecting the infrastructure behind it? Charles Payne takes on the pushback against data centers, arguing that America risks slowing its own economic momentum and giving China an opening in the race for AI leadership. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUVhVWGJQdUxXZUxwMmtlTlluQzRCcjhSRDhHQnZhZXozekg0eG9qRnROVU50VEpkZFhRaVZzQ0dxUFVydWtDaERfSnhJQlhIclVrQXhtd2RmWk9rek0xMW82RGRFOUE1Wkp6VExGcnhWMDE1R1NBT193TGJsY2xCR1pBX25hZUxKdjJ0YVNoNXRpcXh3UnlPYWVVVDYxbndlQk5OX2VXQjR6Zjdjck5yU3ZSQ2VGa05hcEVCR0Vhb1JIdGJnaHRkNExNT285b2FrZy1oSngwcG10U21RT0Zn?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Kevin O'Leary says AI is helping offset high energy costs as economy remains resilient - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY3RBSkJNb3hPNW5CZjkzMHRnV3BPRmdWTVMxME1aYmJTQWJnQUxRaWlKZGtqTlBIR2RucGNkeGVhWkd0YXY4RUM2VWpfNFQ1NndGenF5SmZ2bjVjYkJrbEtodmJQdTRJX0dhQ3dzaldHVVZPN2ttUTZtaUxBZkhxNHNNZnRrV3NYUm1GUTk4SG11Nmdndk1iMWtIZ25UYzZVVWQta0RhSWhOR1Y4VUtfUjJ0VTZvU2REa2dVVVVPV1dqSWlpa2RIR3R4dHpiQVVtNFcwdjhuSHJQLWs?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "COMMENTARY: Brutal AI selloff stirs recession fears: McGeever Click the link in the comments below ⬇️ - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdWFfUklnN1l3M2hJc2NIMllqbW1Ga2hpNTlxN3Q5VXlidkxjRTJFRFdHaUpzdjE4al84WkdiZzN0OUNHZDl5ekFQYVM4SXcwOFRNNVFrUnYtazJtZmdUa3MxUC0teVhJd0RvRFVxTGNQTDF6cUQ0TFVxZG02dVNBNUVSU2duMlFmaTI3MHFIZUN6ZnpjRmN4NXlZWDJ5TzlLNUR3N2NoZ004eDVSZEtYNEVoYmN3OGw2c292VVFLSDYyNFZRZ2wzZENmRlJLM3FBci1F?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Anthropic tells employers that Claude smart reports \"aren't designed and should not be used for evaluating individual performance or making employment decisions.\" https://bit.ly/3Uqy5P7 - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU0FFNHVZNkxqQ21NamdTYU9rb25wTUFmdmxxUVY3ZkI1bVowUTJ6cXlYVjliN1ZmVTJKRHdUcHpDWE5sd2RWMFJXQzV3YkZ6bHpwZTU2NE9MUEFqNVhnbklnLUVYUEVMUy1yS3F6QzhuamZtc2JTaUVxMU8ySERrWnFlZ1FZZWxfZUtWUWV6b2hNaVVNQTVkSmJxc1dia3lSZHJ1a1ZGWmRRSWRfTHcxYUtMeUtMbGlWTEdqaDZsXzhjMnVhUFp0R2k2MHBxcDM4dnBQQ0FqWUZCWVVTVXZKWjNMSmZUU3Fw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The threat of AI job displacement is real and we need solutions that will mitigate the harm. Our Federal Job Guarantee resolution will help America reach full employment & economic security. We need to act now before workers, families & entire communities s - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOWxGQUtFMXd0NXd4eDdKZXRqSERCeE8zNzN4WTZEdnZjbG5oTXF2NF9zbW45azRGSC1LOGg1Z2FDdlBYUTlHaEhTaUFGTHZOa2tBdC16eVRFTWRsdTJ1WnlLdHg0Qi12clhKOEJJZVZfN2VReThZa1czTDVmVjNQQzlNYmVNSmtVQVlfa0hNOExqSGtxVG56R2loOFV5VEhvTE1EWG1oTUFZTnRDTmY3UFhibGQ0VU5lQ0xkMk55UnBQOTFzYmtIcFd0NWdMR0treXpCTTR3elhZOUhvR0kwdQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "🏭 AI: Jensen Huang Calls It a New Industrial Revolution Speaking on ALL-IN-PODCAST, Jensen Huang compares AI with electricity and the internet. Electricity lets us power things, the internet helps us find information, and AI introduces a new way to ask ques - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLVlZa0ZoVkNURlhpZ2QtRGNrT1RUWTcyMmR0QS1WSmF2OE5YZTJJUUNINUFnX2dFcElaaUw2aWJnSllzN3hDNG9aVXlNcE1Dd2R2U2IzaUxkOUtDTXZYMlZGZVlnd2ljcWJmR0JJcDJ4Zzd6QzZsUFVPYWktTTduaThCQTByczVtQ3lwV3Z6WHNSVjB0ZW1rRkJVbkdUMU1yVmpvVFdRemJqZ092NW5OdFRLalJmVVBITVB2eG00UkNJdld0VldVbGNYOV85QkRjbFJpR01NOHd5bzg?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "COMMENTARY: Brutal AI selloff stirs recession fears Click the link in the comments below. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNUNld2NseHAwYkotYWxrU29ob3F1bndqTXB3aDRTWW43QnNpdzE2ZXJ3OHQ3aWszWjFZbmVLd1dNY1RnTDdRUjNja3FiQmd5MG5PUnluYXJJaWM0RUV0V2MxZTVsSW9hT1NlM0hEdk9zT0c2aDU5MG1HMWZuWXlyTVR6TTdIenRLLV82dmszSTF6Wmh4NTd2TGdGQVVfRWplRlNfQjQtODBMUGRoaG9KR0xySGh4d2puSWJjQjZfTEJLXzVsOHlnN1lIakNIdEkzQ0t3?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Who else benefits from the AI agent you’re training? Boston University Professor Michel Anteby says it’s worth asking. Your agent learns your habits, tricks and values, and once it’s trained, someone else might use it. And it might be out of your control. From Ent - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUnVHRGl1M2piMi1PV3hMWlVDcXRCSVNvQmFrRUxuNWVKQzNNb01jd2drNUJHQl9mUFRyU2I1SnVybS1GMzVTMVFwUnEyb0RNS09hY2I0ejZpY2hzZkNrMFNUbGFFTEVFdDdhWE9COXZEWUM2azVJbGZRTlEyeFlMbXh1LV9VZDNMakpoM3ViOU5IVWhiMlBXT2QyV2NfcGM1T1RQRFlOZ0VDbWFzci1vY2dDdHFweHYtZTVsVm54TlhBckpEM2loY1dOcFB2OUdjc0ZhLUpXY04zZw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "It was a pleasure to be part of the Global Wealth Conference 2026, where I had the opportunity to share my thoughts on “The New Wealth Frontier: AI Governance, Cybersecurity & Digital Trust.” We are witnessing a transformation in how wealth is created, how - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Pak9xelFtcWd6YkdNMVhoNWtaaGhXWC0xbExGWk5QQzlqT3k0WWlMNXMwVWo5OGF2MmlrUmdBS0RncTVpejVFV2p3TUstT1RrTEl3SEJ4OG5IaTJmUEt6UnI1YnJuek8tdWhEeXBGam54NURHSzdzbGVaaw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Artificial intelligence is helping fuel the stock market's growth. But as technology companies pour hundreds of billions of dollars into AI infrastructure, investors are increasingly questioning whether those investments will pay off. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMExYZkJhbEFIWDJCOVNRNTBQWXlSZ0tTZ3Roa3Q4QmE1WnhaWGFMaUV5NEFlaEVGeElabGttemcwdlA5N3BZaFRWd1h1d1AwMWF1OWNWbGtCS2paRkplZ05CYzNFOTdtQWtfN2I4U1l5SXZLMzhXV1dRZ0hxVzhWaXktcm5QSklWenFEMmk1c0ViQVJRbE1OMGx5TVhPb0ZJb3QzbXF1R3lhNE9SdFVQd0hHNlJWcTFHX2RqUzlGVnNuWW9VSkdqUXhONmlkZjlOOTJrYVpXUDMwZw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "AI can only remix what already exists. That’s the biggest opportunity of your lifetime. Every AI model is trained on what humans already made, it recombines the past at incredible speed, but the genuinely new idea still has one source. That’s not a limitation to m - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcEhkY0tYRkNHQVRiWkVUQzEzMmRjVnZkME5CZzlYLTU2R3FCdS1Uck9BTzJ4Q2FYRDdlNkNUSHBjaEJ5aU13dlRwdGhrY0hsSm5lb1VNSzRaSmVHXzcxLTZPYzVXMG1XcWJvMzhodUY2Wm14eTVyQlloazhlS0hCZEplODNjZmlPSFcxZjg3UnVtUjMyVDltdTFMb1NFWFRnYXlnTVFhQ3l3dVNNbE9va19BM0p0ZTBuSmpIejl3dExKOENWS29CbUcyYXhqclh0UjFsbFhleEZ5T0d0dzdIczVzS1o0Y3ZHYkE?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Germany wants to be an AI nation by 2030. The people who wrote the plan say the clock is already running. At Monday's Digital Summit in Berlin, the government's AI task force presented its final report. It is a set of targets, not a law. By 2030 it wants at least 80 - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPei1TdzdlN1IwNTFTcXpXODRlUThSQlRnejNBbTR5ZzFxVVNTWWtTM1pwNi04OElwcWwwb09qalh5TUlfQlktUTlyWnd3UnpPMER6eFFYcWNzMVo4aEdXUTRtRVhJSEE4UzdxSm84M0ZPcVlCY2k0QWhjOTlYclFLcmxwaUhOZnAxNFhtb0RodFJYYm5yc1RYODlNNGNrdWFkbjdvZmFhczByakdud0R1S0FYNWJsZDNYTmtWZG1DRno5dXN0elRnYWVoZGlFc19INnlYc3d4ZWVmQ1U?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Elon Musk says saving money for the future could become pointless — because AI, robots, and “super intelligent abundance” may make money itself irrelevant! The Tesla and SpaceX CEO believes future technology could provide abundant goods, services, a - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUE95djFFT3ZKcUxFcmZKQ0UzT1RmYThtZDJTVHhSTVRsU3lydk9sTnV4dnZ4MHE0QUhkYnRrcTV5TEpHUmZKSmFLSERLcXk0ckwyZ29BNklOSW5PWnFMSjhBdjFsQmZfYURPTHNYTnNhY1lyTWI2NTRNbEppRjVaOW5JM2dvOXZ5NHNETlJoSkpkcFNjY0Z6S1dzUFhGLUpIWGlfOTdaenBXMFh1dk96cTJnNDYwcGtmZWJaTjdodVh4SXNhNUVmWEVucWxFQ2lLMk4teWMzWQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "6 top AI picks from tech analyst Dan Ives #stocks - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelA2V0ZDTXZaX1hVcDRBS19CemV2ZlJLMmR0Q0MyYkd1ckQtLWlyMHpuWWZiOXRFLWwybVJoaDYyMDBKcWFLU1JYQjNPNEtEMzZuNTR5STg0YXgyZksyTGVDamx0M0ZRd3RtXzJBMXlyQ2tTOE8yZmt6VUM1VmZsc2dZaDJGMXl0V0haM3FuTm9oV3pxdXY4UWJDSjNESlRtWm1JUHVJZEV4Z0tWTnNMSUtn?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Malta’s AI and technology businesses could benefit from new tax incentives under Budget 2027👇 - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWS1CNFZYVF84dGhjbE42VFRUMTEyalctNFVSMzhESjhPR0kwOENLNzVrZ0twbEtpZno3VENFWTlXQVg5Sm1OcUpIY0NJc3JHSmFFcW12TGNtcE1fa19hMERycXNISllUU283UEVGNDNOamRYUXhyNjBkLURqd090akktTWk1NG9jVEhBeTdDd0hfVkVITXFXQUxDd21PbXYtY2hUNVFhOVdVUXB3MjdrM21rWl9PM0hZaHpfcENneGlTS0dkSGo2Z0pMYXZ2am5zVXpacXF5Yw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Businesses should invest in AI and robots to reduce dependency on imported labour. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTWZUZUhpRF94dkw1SnczbFRYcndPUE53emtQY1RMRWloMXVMaC10MUw2NlZNSTR1aEVvbm5mQ0JfcThtNmotYlg5RVpiVUNuYkE2T2JmaTdPV0JhVzV4bkpSUkQ5X05FYkJ2ejY5UUlBbGtYbmtpOWtGdUVBb2JIb0FsREFqVXdmQXBLVWhpM3NxNE44XzVzbHc5T204ZkZXeW5CLUFVTDhmZXV5R2h2ZzZhSnFnaVdPQjhkT3B3WnViR0V3UnFEOFYyMk14VVF6MXoyQWM5SVBUdTVUaHg4?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "These two Bloomberg charts point to two dynamics influencing the global economic and market outlook: • Markets' ability to digest large government debt issuance without pushing rates to growth-inhibiting levels. • Investors' willingness to keep both equity and - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONC1mWmpLMTJnZTJvd1ZMRXVqNl9nT1lEV1ZOWnNINnZjYWM5QVhWbEpKbXRMS2doUkpweG0xVDBXamFvYzh4T0luSkNCaWpka1dxM0V1QVFjbmxrUDJyLXhUUGVVOUJlRnlMN1JvVFhpVExUVDBUNGpfRENxX05md0xONkowWmJ6SzV1OEE3dUlzdFZZTmJ1WVl2bEZ0TnVXSGJKN1hzeWxCTm4yS1VkWmpMYnVQRVFxcFZoSlZzVzNGR0dJUGdaaXVWU19ZY2liZ1R0QQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Ole Miss to Host Statewide Conversation on AI Readiness Nov. 16 event brings together residents, industry, government leaders. https://www.thelocalvoice.net/oxford/?p=167235 - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZjVySlpyZnB2OVBFTEoxSFpZcmVKMFh5V1VBSWFqV25GSkpnbUM4Q2VabkJTcldnMFpmeWVmNjlKTzVpS3JiMm1LOUQxOTJ3NjNtTS0wdy05bndIVVgzcm5OclZQekRzc081NUFTRGhpQS01R2xrM1ZhNkdPT3NrWGpLQmhTSjNwVGJwdWRzYlV3SEpublQ0THB6enNLS3M3Y3lrQktiODJBYUl4TzJ3NWFDLVBBenROcmJYejRKUnhHdHRVeXMtTXN0Q2xUWlNRN3VTZmJpOGNjOVE?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "From unexpected interview confessions to AI-generated campaign videos, these are some of the moments getting everyone talking during the 2026 midterms. Which one caught you off guard? Follow What's Trending for more of what's taking over the internet! - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWmdST3ZyY2UxMFYzUDd0cXBFckE1RmFHS1R0XzlyMTJsMjFGWng1MllKc1dfckdJUzNZSmdzS1JYTHlueHl5MDZ6Q0VmeE5UbG1UNlpDRzRnREdjcUlreFh6RkZ6ellGZFNuUllTdUhTTHpoMXBQSmdDNWo3T1dXOEJqUXhpYVFWa001N0lsZjJtV0VGYmR6NW5ncTlyRlBLRFp0aFI4TzJWMzJhQWdZS2hTeWVWbkZNaUdxTTVXWUlLanpXbGVtQTlPZHp1V1ZvQTR6aTFsUGdubzg?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The global data centre industry is a key pillar of the digital economy, powering cloud computing, AI, enterprise technology and online services. This ranking showcases the world’s top 10 data centre companies by market capitalisation—with all ten companies - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUTI4bF9SOURVWGotei1XWmZ3bXhQT3g5dXpzdDJUMm0zVHg5elh5b3NmWlBaTE5kZFotRVZNYnY3SjFEU1JGdVl4WTkzX1VvTUhCdWpmeEl4NmhlaU9hVmVhZXFlYnctRFJkNVpaQUE2X1VNbGNJWTE4Ul92dkhTR2paaDdGMGxHbHlZSTViMWJFa2k3NXNjRjlIbTdBSHlyelVRLU9QV0E3SVRqdW41TTU4Wk9JRklHcXZvSDhIak5kZEg5WlRiZjdSemN1NGRPeU83VHhn?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Artificial intelligence is helping fuel the stock market's growth. But as technology companies pour hundreds of billions of dollars into AI infrastructure, investors are increasingly questioning whether those investments will pay off. https://bit.ly/4f9yXi2 - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMG4xeElCR0h6NEcwTTlKd3lTOVFZQlhGYjc3UDhfaG9vM2dXUThITUxjTmhfa19fVWZoaGhuSTdpOC1RcTBXVFgxRmZJTEp1WjZQaTdRcWVkUEEzdUdoVmRSLWhOUlFNWmtzQTM4ekVUSEN0NEUteE1zMjA4WElnc0E5LWQ0TW9nelRrd1JUYkJuZ2JHbG10cm5vYWg2LU1DWVplS0lKNDZfMU1xdEJqbWRCLUItTkQ2RVJQNEU3WFFNVDdzTFFRNWZhV0s1MnhOTVhpQTRSbWtfYjJk?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "In an address to Parliament, South Korean President Lee Jae-myung said Seoul will invest 21.3 trillion won, nearly twice this year’s amount, in AI and the three megaprojects of semiconductors, physical AI, and AI data centres. https://asia1.news/4evjngH #new - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbmNSYmhjTWd2b2dfbzlIc1BQb244MVpYSE5vTWdPZjEzSzVVMXYyVUFLb1R2cV9qcndsQUdodVBzVVBReDEwMXVGaUgxX1hIaUthcEZGdUJILW1UdUtMZXRMNXVsdVcwLXNyaVcxamdfSjMtNEswZWR0S3RBMi1sY0xkRzZ5SWJVOXphWWgtc1huWmxxZTEySXNtUldJUEhuNGVZaUZjUjhJTjdDaHRjRjlqRl9qdmE3aXhoSlJueExRT0dfVU9ULU0yNWw5dHVOQVh4d1dTbw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "OSU study: AI data centers could consume 1% of the world’s electricity by 2030 https://ottumwaradio.com/2026/11/osu-study-ai-data-centers-could-consume-1-of-the-worlds-electricity-by-2030/ - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOT2lOOXRDSkIxcHVESWowWVhBM0hVN2E5bnZVOXdlSXZaWjdTWXFLamlzNDdrNFU1OUNfaWdmYTExNHhERlhpbXRxd0owS3AzWFZtcS1VQzJMZHZjeVB3dWFmalU1YkZYaDBpanhIY1RXWU9uSWM5RmlJUHdlVmZKMVRvTGhCV3NydFNKcWoxa3l1RHhPUnA3S1poU0xXa216RjZsRHJxRUVKMDROWmhILWZOd09yUU9WSVNEU0YySTc0MlhWNEF0Ynl6RnBXanp0d0NB?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Prime Minister Albanese warns of global turmoil as he pushes AI controls, climate action and stronger Commonwealth unity at CHOGM Read more in comments 👇 The Prime Minsiter said the world was facing considerable pressure from military conflicts, econ - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLV9oV1FWVWU1MFAzYWktZHdwUXZSNlFsX2pCdmtIODA2N2lyV3RaSTQ5ekwxa191UXE3VTF4akJleG5XOGxUY2ZWbXVQMWxjNmFUSFFDbXhtb29OV29fbWMydUp3M1loYVllM3hoSDBUN0s4TnNYVW1BQVkwTVdlU2YwYlFWVnpEMlNIdm5RdFhicm1xeDlTLXRKWk85WFNoUmFEMkdjZjg5XzFIVDJ1dG82czNVNVZlZF9aZm9zam9SbS0ybW1pSHBqWTY5VjI1NHdPRDFidXA?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Artificial intelligence is helping fuel the stock market's growth. But as technology companies pour hundreds of billions of dollars into AI infrastructure, investors are increasingly questioning whether those investments will pay off. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY2JEOWptNlZHSDliZGNBdEpaMV9UdWppQ1RuUkV0RGlQVmRpcDBWT3NDYVJYZFBTX1RNT0x5bjRwREFpRlpZemJpS3RoZW81Z0VfMk9hU0pPUHJHWWNKLVVzZWZuYUFfVUxENUZna1BIcEoyN2pCNlk3aG42N0l2djdxMjVVUkIxSlE1RnVzXzlVaDhvR3FQVkRKVUMwOTFWM0p3TzlEaTdNVW5MdUhaQTZzdFFGNkhnbzJ1T3labEptSFJ3SGQ2bW9xX01xbjI4cWVIZUs5dw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "OpenAI chief executive Sam Altman said advanced AI models are now mostly smarter than the brightest scientists and capable of handling significant parts of white-collar jobs. Speaking on Monday at an energy conference in Abu Dhabi, he stressed that huma - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObUtsdUg0TXJnV1BUSWVsWGpkT0ExTEdnSG9FY0dyMndDMXFuZ0ptcTU0bzdxaklfbU1Sa19MSUQ4Ny1mZG95VWUzbVl6a2tPREpzWmpaNW5LUjI2OWZoZGtTd3M2RW0zT2RXeGVTazB1RG9TVnp6WVZTU2NsYVZaVHBrcVVReEppVDdhSjNpVUcydE9fa2JRdEhJQkJPdWpNU0dQc1VHMDBJbjE0UU9FcFRKUGhDNDdxQWplWERBcFJicDlEblRGUDRacmhHeUxtUF9OcnRTSFVBeVpZYkE?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Economic worries typically dominate midterm elections, and 2026 is no different. The affordability question, which directly ties to the economy and direction of the country, appears to be the core issue driving voter sentiment. What is notable this year is how 4 fo - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWUUwV1poWDVKbENmZHZiY3FzYnFEbzl1cC1LQl90NVpFSDl1NlctR1o3aTFfOTB2X280cE1fMjJ0Z3RCUU81ZXQ3WGtrV2FDWnIyWTE0NTBVc1M5amhaUjZYOTEzWUR1ZlJGSldvVGFRX2RRZURWaEE1czcyd1NDbjRvNHlocUxPVEpJQVlEdFN4UGtwSzUzLWx3UlI0X3BRQThHWGVQV2lCbHBzVWZJQlkxeWpDNkFYX2J4WkJ3MlE5WEJlMHFTa21DY0ptcU05M1JRN0tPaUVocEZxS0FjV0czTzhweVg1VUtJ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "#CXOConnect | The biggest revolution of our lives: Rajesh Jain on AI's exponential impact | Netcore Artificial intelligence is set to transform every business, every individual and every country. But what makes this revolution different from previous technological - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWmlhYWptbUpnQUszVldudjM2SjJDLWtwZnpPdXU0UEJ2U1IwcEY3OFJscHMwMWNuZ29jeVpVenVJZ1JQZkpfQkdhTC1DUlpzd3k0Y1I2emI4ZGJUbnlCdUl0dkc2Nko2QXR4RU1LVkxoSzRjT2FzdmpRclZ0WHM3SWFHakN1b2JaNFpLRk1LWEZOSEFMSFdEQVM2SzBrdHZONVFLZEx2bFdwZ3NSUGdEUlFKemp2N21pN1J1UkFDYjBWU3poTm15TmVuSlhWSDE2REhVWjJRV3h5QQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "One subscription for the assets and AI Tools your next creative brief needs. Video, fonts, music, templates & more—get Envato. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNenNYSGR6MUc5bkUtMkN0aXhSZGgzSDNKeEMxeXFHdkstU2xfcEl1ai1wb1YyTGZYRGNJRHg3VmtkeEp4UmtCZ0NiSFowQjZhTGtoWWhVMlZQTk5zR0lBOXNoY2pYOURsbmY5ZG9WaFB3VG4wRWpOVVdKakUxeDFhcmpRRXRxNzNXZmtEMUttYW9iRFN6ZXZkZzdlQW9ieDdGdlRxWTdGeFpHUE5fSnNWTnd2WWJJUUdaSExlMTRqUmJwQXlyaEVUM2dnOFJOM3hOUnc?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "How much of the stock market’s recent strength is tied to the AI boom? The Fact Check Team looks at the role artificial intelligence companies and investment are playing in the market and what the numbers show. READ MORE: https://bit.ly/4AdCl3P - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc3pBSkVHYWQ1RGlqeTl5OUtPdUR3LVBGSm9uTHFRTGNiSV9MT3Q1OFZ6S0NvVUNRSWdzNjZIZUtyYnNIOEljZU5FWU9OdWZEOU1rcEppXzJlSVFpLUlIZC1JZFVyQXRmY1AzOUl5S1ZzMXcxaEVjN2xUVzF5R1VkN3hLRFFpWHpaclFTb0tyR0RuMDZyVUtzckxoUlFtVS1iM3c0NnZTaDNZbmlPdWRuWW55MEtfM1ZmQ2JnTEw3RnlKb0RYaVlDcnp0dkRrRVNSZXl2dQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "HH Sheikh Khaled bin Mohamed bin Zayed Al Nahyan met with OpenAI CEO Sam Altman to discuss opportunities for advancing cooperation in artificial intelligence. #EmiratesNews #DubaiOneTv #UAE #Dubai #News - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORGlwU2FXTnp3YWF3bHQxQWNzSnhZR05pLXdvam1WeDF5RXVfNXFGOFBlYTMxMWYxdWN5NVVUSUdjTlh3d0ZsNjF1UGFqcmdvcXdjaExyNDZKNEp2czhuaS04OVVNR201dnlMLXIxNDVKSWNySkJVMlZQUDYzQUJwc2djUWpEbURENjNhS0NpdmUyQUJ3OUlrWXc4WGk4RTExYjVMaVRmVXZJMjlMS3g3dDEwR1p3dDJVVnR1R3IzWE1DenVxMTczQVlJcElKc0VheUNyT05qa0RWQQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "You may have noticed that we've been talking more about AI, robotics, and emerging technology lately, especially through W3GG Pulse. There's a reason for that. W3GG started with gaming and the belief that emerging technology could create meaningful opp - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUjhlWUN3VFRVMmtYcGNEWk9BbGxuOG5nLWNKWHV5UnFpV3BSejRuOGVsUnc5SDY5Y3ZmbWl1enRzLWNIY1Q3MktJQXZFOWQ5X3p1TG90VmllRnAyejVWMDY3MVR4SVNMNUtfdnFvVWVhZk9EX1dfVmxUT2RsRUl1V2pUdlRyMjBjLTc0MGtYdHNpenFSdnJBajJZZVY2ZmpwUUprWnNqbG1kVU9VaTl2MnUxWlA5YThsdlEzUk5oSzVZWi1ZMnNQWUZETWZwR0ozUlQ5MDhFZ2gwQQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "South Korea will double spending on AI and semiconductors in 2027 to a record high, the president said, pledging to use the technology to turn the military into a \"smart, elite force.\" | via ANC 24/7 Link to full story in the comments section. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVdLRFlWSDJzV3RrdzJ0Qk5aeGhVQ0t4cjdSdllFV2Q3NTlTYXBqUjZRTFRJTThpX2QtcDlLVXE4ZExxMzktVHlKUlZoSVBuQnhNcGZidXJoSjdsZU82WXNpY1JTWDhhTGNtMzM2dUZKcWNDUXJnQWdCS3dXcXA2NXEwR2FqUHc2UFF0NTlyNVJGeDZ4cmRmaS1GVGI4SUxfQU9US1pjU0t1dEd2Ny04TjZTbDVSSGF1WG5rOS1seUxYYkhEQUFDV25selY4WTZxVjRrRTlTaw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Technology IG. Technology IG · Original audio. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BMThrcmplXzZwcEx1TTkybGZHWlVhWFprdnFqcFB6N2xOTGhXVl9WbkR3RmpTd3pITF95eXZTdWxSQnNScjA3LTFkZmNLNWpkeDdvSWJsdWpNcnpRQWEtelJhcHVRbWdZcVA4Q00yZEVtcWc?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}

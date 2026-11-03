@@ -1,0 +1,26 @@
+{
+  "category": "AI",
+  "timestamp": "2026-11-03_06-15",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "tier": 1,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
