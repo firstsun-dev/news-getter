@@ -1,0 +1,386 @@
+{
+  "category": "Social Sentiment",
+  "timestamp": "2026-11-04_19-39",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Texas just went blue, and the tech bros are sad",
+      "url": "https://www.reddit.com/r/technology/comments/1xnrp17/texas_just_went_blue_and_the_tech_bros_are_sad/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "10 States With Data Centers on the Ballot All Voted to Ban Them",
+      "url": "https://www.reddit.com/r/technology/comments/1xnrvcr/10_states_with_data_centers_on_the_ballot_all/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Sam Altman Pulls Spectacular 180 After Unpopular Comments About RAM: 'It Is F**king Annoying'",
+      "url": "https://www.reddit.com/r/technology/comments/1xnt2ht/sam_altman_pulls_spectacular_180_after_unpopular/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Midterm Takeaways: Tech billionaires suffer horrible night as Democrats drub Republicans",
+      "url": "https://www.reddit.com/r/technology/comments/1xnjbg9/midterm_takeaways_tech_billionaires_suffer/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Tesla, SpaceX And AI Stocks Slide After Democrats Take Congress",
+      "url": "https://www.reddit.com/r/technology/comments/1xnpjl5/tesla_spacex_and_ai_stocks_slide_after_democrats/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Voters reject data centers in 40 local ballot initiatives",
+      "url": "https://www.reddit.com/r/technology/comments/1xnquh1/voters_reject_data_centers_in_40_local_ballot/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "AI stocks slide as Texas governor result raises data center risks",
+      "url": "https://www.reddit.com/r/technology/comments/1xnh94y/ai_stocks_slide_as_texas_governor_result_raises/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Disgruntled software developers start ambitious open-source revolt, using AI to clone common services — OccupySaaS AI-powered project wants to kick Auth0, Salesforce, and other pricy service-as-software to the curb",
+      "url": "https://www.reddit.com/r/technology/comments/1xnmcrg/disgruntled_software_developers_start_ambitious/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The Results Are In: Voters Hate Data Centers",
+      "url": "https://www.reddit.com/r/technology/comments/1xnvwqf/the_results_are_in_voters_hate_data_centers/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Flock Just Replaced a Camera My City Banned and Unplugged, Calling It 'Broken'",
+      "url": "https://www.reddit.com/r/technology/comments/1xnsgtc/flock_just_replaced_a_camera_my_city_banned_and/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Hackers Hijacked French Blood Plasma Freezers, Changing Temperature Settings From −30°C to 110°C",
+      "url": "https://www.reddit.com/r/technology/comments/1xnf7mc/hackers_hijacked_french_blood_plasma_freezers/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Humanoid robots fail supermarket jobs after “slacking off” and having ‘bad attitude’",
+      "url": "https://www.reddit.com/r/technology/comments/1xnusyp/humanoid_robots_fail_supermarket_jobs_after/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Google responds to political backlash over removing search from schools that ban AI",
+      "url": "https://www.reddit.com/r/technology/comments/1xngycd/google_responds_to_political_backlash_over/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "AI data centers comprehensively defeated at US midterm elections — 45 measures put on the ballot as Americans overwhelmingly vote against developments",
+      "url": "https://www.reddit.com/r/technology/comments/1xno00h/ai_data_centers_comprehensively_defeated_at_us/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "‘There Is One Fight’: American Voters Reject Tech Oligarchy | Tuesday's election was a wholesale rejection of Silicon Valley's worldview and AI-powered kleptocracy",
+      "url": "https://www.reddit.com/r/technology/comments/1xnvxzn/there_is_one_fight_american_voters_reject_tech/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Cyberattack wipes cloud data at major Russian hosting provider Beget",
+      "url": "https://www.reddit.com/r/technology/comments/1xnpag5/cyberattack_wipes_cloud_data_at_major_russian/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Hackers are using 'LLMjacking attacks' to hijack company AI usage and run up huge cloud bills",
+      "url": "https://www.reddit.com/r/technology/comments/1xno5mx/hackers_are_using_llmjacking_attacks_to_hijack/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Palantir sinks after earnings as analysts point to slowdown in total contract value",
+      "url": "https://www.reddit.com/r/technology/comments/1xnhkt9/palantir_sinks_after_earnings_as_analysts_point/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "BYD Sold More EVs in October Than the U.S. Did All Last Quarter",
+      "url": "https://www.reddit.com/r/technology/comments/1xnw9hy/byd_sold_more_evs_in_october_than_the_us_did_all/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Researchers Turned Off Tracking on a Vizio TV. It Kept Sending Data Anyway.",
+      "url": "https://www.reddit.com/r/technology/comments/1xnrubh/researchers_turned_off_tracking_on_a_vizio_tv_it/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Bluetooth Is Getting Nearly 4X Faster, Here’s What Changes for Your Earbuds, Smartwatch and Phone",
+      "url": "https://www.reddit.com/r/technology/comments/1xnsdad/bluetooth_is_getting_nearly_4x_faster_heres_what/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The Economic Times. . How #AI will level the playing field for all #businesses | Watch the full video here - https://youtu.be/Vq_HFfuKDdI - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVU9FSEsyQkN6bmFiVlRUMHc4b1NOZkhUMUY1YWRURkNpZm0yMXdhSXRBZ1dma3ZNaE54WFZBRmp0VklEaGEwVERfQXdVbGlfdl81ckdfcllqUEhIX25nZlBTSDU5R2R2dnVUcW9aYXpWUFBHUGxxdHpNNVNrWWVjSk9BTXZ4TFNVTXN6cQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "I have a trend prediction: There's a new job coming to the market. And no one is talking about it. CCO. Chief Conversation Officer. Here's why I think it's coming: We are forgetting how to talk. We text instead of call. We let AI write our emails. We'd rather send a v - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWlHUkFLOFRhdkk1UG90NE5yUWZNeDdoalZtZDE4QlNoWHk1QlowNnBjVjNQcXJzblQwVG9RUWp2Yl9tSldDcDZMZy1rRHNfTXBDbThZWHdyaGdJTXBsaDlnWklxMTJZZ0F3aG1VTmJPNFRwT3d5Q1dmcnpkUExxV21wWFlieXJmQUZhWVpWOEVwMU8wMGRtUGdHYzJUTTU3LUdFeUVSTk82c2NkeFdBY2NWMlY0dFoyOElHM1E1dE1OZk1GWU5sUXFnMmRVMDJoZGlJa2RvcmI?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "UAE Shoppers Embrace AI, but Merchants Lag on Readiness - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPME85OWI2Q3pYTWwtZUY1eWxsYUFOUEhqak01bWVuNEctVnczbzhMSnRRZHZZcXY1YkNDYXRhWjhYWVVrNmZsT2ROdWgway13bkt1M0NiOWI0U1ZyTHdpLXJSblkwWjk1QmFxQ3FrZ0gtQnRrSENBZzNIaXFmREM2VUNGTlN0UUpTSmJncWg3SUJETV9SaWNKTXVJOXJha3FKRnpGTUN6bUdMYWx4cld0X2R5S2E?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Americans are not just uneasy about AI. They have now ranked it beside sickness, money collapse, war, and corrupt officials. Chapman University's 2026 Survey of American Fears put two AI concerns inside the top 10 for the first time. AI damaging the political - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQREY1UFlkcGh0b3dnRHFuOXJ1aktRV1pXV0xOQXpseWtpbDFuVVBpYjlzM2g4Z3pibzgySjJKVXV5dVJpeXI1S2o0aklmc3RVQ2U5SHY5Ull5NFdmcVNmSXd4N3g3MTcyMWVrRmlsSE4zZXMxZGp1bE95ZnFfZXRIZUFMOFZsZjNjQ2xSVkl5NUFGWVFYY1d6dDMyRmpvTXVOd0lVSHZBdVJURkxsZmxrU3lyeHo3SHR5N1dqa3ktWXotaDhpVy1kMzFycC11Z1M2cFc5MFc0V1d2SHgxNkF2bWJPbw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "How will AI and demographic change reshape the future of work? Join the IMF, the Peterson Institute for International Economics, OECD, and the World Bank Group for a two-day hybrid conference bringing together leading economists, policymakers, and pract - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZnNTV2l5akY2WmJpcVRjbUo4alV5dElqcEF1OW9oNW1jYkhCUmRrYmdkQjhoQ1VGanVPVm1vUzRGMW12NTRmcU9TZ04wUVNkUjA0aGQ3dTE3aDBfZDdfeTJoR3dRSlZMQzJuRnc5SFQ1dDA2eXJuTFBRcVc0anFVNmExMnF4WTI5U2ZuenBZMHFBVXRKMkNHcmxzdEMyb0wtNTRkZXFRaVY5UFI4WEVuUVRmQUtMNElVRm1TY0ZZd1BkLUp5STBiZ1UxNDZZQQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The AI boom’s role in the bull run on Wall Street and other stock markets around the world is well documented. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZmdoRjZiUlQ4U3hWbTIyYXRNWGdCZks5N0tMM0ozeG1OYmhLTmRhOGlLbW85TFUxUlJTZUFaUU5uQ3hUeXNfX09PZFJjZnRCMGZEV1hmVnFTQXJnY3BMclFOaUF4LVg4Rkp4U2FfX2VTamt4ZzR0LWFydE9uck8yVGdJWTQwNzd1eU16b21fRW04M3hjdjdPZU1LRk9fZEpPT3MyclM1U2UySVY2elVjTnNEV1NvbHV4eklCT0ZZR25Xck1kS2VvclBJajJ6VHBsRmZJTUJuYWZhanc?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "How can AI tokens from China power a studio in Malaysia? A single #AItoken generated in south China's Shantou is helping power scenes, characters and effects at a studio in Kuala Lumpur, thousands of kilometers away. That's a new digital thread across #A - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSG5kLWFRUlVLQnhhSkNFemNEMXpzZWRsdExCUU1VY0JVcDFTVDBqTVhMU0lZMXJNUHF3ZUlZQUNreFlRWS1GSXZ0dVNvQnJlQWNCNzREUm54al9OOF9DZG9lcGdPYjBvNlhwYjJJb3lUOFp2S1hLNUVJaFVzOE9nc2tEOS02RDRGZFkwd0ZzckQxa3NlcnZtVDZZdE04Unh5V29ORU9HVVA4Z2FqN3dOOC1wQjROd3JjS3h6Nml5NmtjSmhFS244YVBfMUt5Ni0ydm1QdGJUaExRdDlsQm9aYkxhRGc?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "AI: A Threat or an Opportunity? Let’s find out in a conversation with Hungary’s Ambassador to Pakistan as we explore whether AI is a threat to humanity or an opportunity to transform the future. #PakObserverPodcast #AI #ArtificialIntelligence - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNXh1ajA0Q3QwLWpzR2p5UTZ0MU9KUTI0VkRQS1luSFgxcUhOR3V1czhuTHNqMXhpMUZWUEVpeW9obDRQMFJuZ3lDaDZJYm5VLUNwUDZZLVo2S0hadzRlVUdhNzNaZXR6UXg3VFluR1ZtWE4tU2t1dloyX2hDT21WbEhrQmlyOHNOaXpWNy1MLWxyM2VLSkFVdmRaMDU2UmtCWC1TTERMLWY4eDcxZHpWampsdkM2WkhmOXA2eW1iMHh3VWF2MFNITk5sSnFlQk5ZTTZzT0FrXzU?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc2xMT1Q3Y3R2Uk1QUUxmRU16ZmNuLTNqX2I3eWFXdk9fZ2FiNlUyQkMwemE3NnZ5MFhfTzZVMVRVQlBsSkYyOGZQS05RT3FPekpDSEdaSEpPNklIR20tSjNFcUF0T0U2RndEU2hRcy1QNlExdmJiVVpCSGdhaUkwS09vMk9vdDdxbjB4TERZQ21SckhWc25XYUFwcnFxNWFFZW41dWNNUE1Ec3FxWnN5QXVyTWJQRWVkLW1TTF91dkhpTjB3WHg4VXhmc1I3ZV9n?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Fertility rates are worryingly low across many rich and developing countries. Shrinking populations will dampen economic growth despite AI's advances - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVGJZeDFobTY1aVhJOWx5MkVXbjU1X1lHRW5mMDEtZ0VPcGl5QnVyWU83MU5hT3o5QlZ2Q0pOSEltSlowcEE5WG9idHpVSWhQQmlNVDBCZlNYMEJVaVNSenh4YVpzbTViV0FYNWJPdFNJR3NUc2ViRWtUbHMtX1ZSOVZiU2w2SzItakJlMzZnemYzUTdsTkRmaFp0T2lCbEVzRlRpR0ZMYUtnUkdXMERnYVhRQ2VjMHRhWVI1SFZLTjhJSndFY1VEUi1CNGpodFlDdzhxQ0VaU2lyR1lmYjFz?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "How quickly do people trust AI with their money? Nearly 40% of Instinct users connect a credit card within three weeks of using it, founder Noah Shinn says. https://bit.ly/4BJCHAG - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQ0lWblF5TXFzZThvVWtqaVJHRFpleDZzd2U4RVNoejlEUnpfQUdkWWt1NXQ0Z25MQ1BnTEhLYlVrWDliUHRxRGJlUDZrSDN1b1RFaVp1Zi1QR3VTaFhxQ2tiRlVXck1GOXBtZE5RaFlDV3dXWGUtWlB4enNYUVNleWtvMF9HMHEtYlhYYnVVbGFaQXZJY0x0RVN6NGJObVR6NFdBNjZNMjFpNFRxemtFbGg2Z29ENzE4Rm9TMkVEMVhNbUhxN2M5ZjlUMTQ2YkZ4Y2pPWWk3OXVQWDl5RXc?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "GKI’s 2026 survey found that small businesses led AI adoption, while manufacturers and construction firms reported some of the biggest gains. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc09FdnViZkEyemJUQTJtdHh1WG1IdE8zMzZRcEd2eERURHMta2FaUmdnS29uQV9CQ1d4S2NrOXl6X0xoTHctNmRGRWdJU3FWUHpiYjZsWTQ3TEhxbDhUUUYtN2MwSnAyWFVadnVwQ3pDXzlvX3FMZElrdXQ1UlMxNmpuLXNsU194QllvYjc2cktLUnVIQWJPOTRvVFNRZ2ctQ3lESU56QXZLcndOanQ5aEthSEFVX1lvVUI5RGVBM0FwV0FmUjBiN1U1bXdPREZSaC0zaXFfdkFZdw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "🌍 Globalization just reached a record high. Despite the uncertainty dominating many headlines, connections across borders continue to grow through trade, capital, information and people. One unexpected reason? AI. 🤖 From servers to semiconductors, the in - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQblUxSmpJdWNybE1lWGZnanJXdTNKbGUzU010R0dONk1JNHZKbjhwUElvbVExMEZSOGFzb0FlMGhuY0ZzcUxERXhYUzNzN1ZucXA5eHdLcXFRMDZvS0FXSzdPZlhlRldZVVo5cHdPUi1WeTNrS3czOXhQWGRiZndNQ0dEUDY4Z1A3QnM1UGRqN01DaHVVaTA1MXcxMGIzSmtFZmpTemFpajFmRFBRWmswX2tyVkF5OS1sVDB0R1M1SDRZRFFwS21ka3dTVlFZUQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Global stocks and dollar slide as Democratic wins stoke AI fears - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVjgxek5nRUVISGN0NUt2S0JBak1ZbHBxQU50ZFJmRWhDZVp5Z2JneXFUdEdEdF9nR3p6QV94dllCVWl2amlEZUZfM3M1dl81UThnTURQM0FwaGhnWFh1d00wLXE0b3J3Y0EtRjg3MGhTbVpxNm16VjRIWG1oZ0FQOS1TTkVyMUJOYXVGckRCRUVpUnVQMnJLN1dsMUtsX3lWY0pmSGc4a2FsNHp5UlJHVjluc0VvMWV6MGZsR2hSU3B4ek16RkxB?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "'A Democratic win in the US Midterms could slow AI capacity expansion in the US' Uday Kotak, Founder & Director of Kotak Mahindra Bank cautions against banking on an anti-AI trade to support Indian markets, as the US growth narrative faces pressure. Spea - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT05NMFFHazhSWUZEejlxOUZlSFBvempFMTBQekxVS0RuM2tUWU1MMlctcEt5X3FLRkVOTWo5THR2NDJBUGs5UE01dkF1bERrTl8tcE1UMHhXQ1ZNZGprTEhoQlJQVjh5NnFrd1BmbFA4ekZkY2kyZGEyYTdMM1hzWkpOYXBLZFk0UmROWjBtTmFIZkN0UmRiUmtoTFctaDFzdGJvY0V5TXM2cno4WUQzeElUTnpubG4taHZtQ3dBd0otZUdiQThVaHo3MTlDWjZsNjFQSFRZdXhTemM?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "#AI systems can pass lab tests and still cause harm. Three priorities for AI safety after deployment: capability-based rules, incident reporting and proof. https://www.weforum.org/stories/artificial-intelligence/ai-safety-depends-on-what-happens-after-the-lab?utm - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTFRYc21Xbkh3b3RBTlNpWUR0ZnNBYlQ5MFd0Mnl3QWFkdWU0d2ktVldvVDhidGJ3dEdDRmExaDZZS0dZeTMtMzZhQlhNOFNZTk5yTGxncFktbnZGbzhWUDgtUno5aXVteUI1WjFSUXhyLWdtSFBobUF4QWdrS3BseXlTbGpxV2drSEtDYlA5dVBFU2RkN1ZUQy1CYmMxYVFhVkNXRWdqaFRaNGExNFBHdXJOWXVZdDNqaWhvekNzcXBRM092aDU5NzRDYzdjbUV2TFI5cG1mRmZZUUlCYkhhMW5R?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Michael Page report identifies 18 sectors hiring specialist talent, with AI engineers, finance chiefs, healthcare professionals and project leaders among the sought-after roles - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb195dXViU0I4clZtXzdLTVZwUmVZbTFlWG95ekRoRC1IRjZqTEZYcmFFdXpWaW5ZMm1NSzI0dVRBLUNjYnRRd2ZCRXB1TTlLemZ0Uk1FQmhHRkktbWdMYjAtT29BRk8yUThEcmxyakllQUpUWlZvX0FyNXBmUkVCTjBDTDg5T1EtLUtCU3MtcHFEY0Y5WkJ3Q2xLWUlnbHpFZ1Z2bzJMUE5JV3hlWnA3ZzFlMnR1Z0NjVEEwcW8zcUtMZG01MGp3bXBKdDhLSVJQNGRjd3VPaExjdw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "🌐 Bridging the Digital Divide, Sharing the Benefits of AI! At the 2026 World Internet Conference Wuzhen Summit, Chinese Premier Li Qiang emphasized China's commitment to supporting digital development in the Global South. 🇨🇳 “China will actively implem - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcXpYMzhpNXdPM2Z2eXVXYmJyY193ams5NTBIMU5EWjJhUDRUTkpnS0ZiMTkzR1F0N1p1c3Nwa1FRcjNvNmk4c0VhTlNoYzJLTHJLeDlJVTRwNnVpdEFRZnl6QXdfaWdXbnh3N3RQU3Zjek4wa3QwalM0V1gxSVhaU25NZi1tWmdhME5BODVvdmF4M0Zjbk9tc0tSNlczYUJMQ3VUYXZjakdPRTFvZUVLNjJrWHk4NFJRZW9KZUw2Y3F4WXFDNkFjbENiRUhnZE5qbDRkdVNEeXMta0YzeUE?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Here’s why the democrats win & trumps loss in election is a short term negative for the US market, the global AI story and positive for India! (1) Today close to 35% of US market cap is companies investing in AI, if something happens to AI, Markets in US will get - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR2FGLWNuM1V0MEthTFpvek42RWtkSk5DVzBnLXlVOXEtWDdVMzIzZlE1WnVSd19wMnNSeTA0Mk1pZDVHQnhVRV94WC10RUM2R0V1VFJuRngzRWVwZGRPd3NsSFcyX0pjV1BNMnZuUzVuSWZMaTNJRmhMMUI2b29zWS1iREVlelFiamxlWTZORkMzalBzYlJkX2VZel9GQk1KanhUYmptYTl0blQzLWQwVkYzWUxwZmYtNHlWbjgxNVRfVkIyQ0FfNkY4QVRIOUhzY3J2ZFg3WHc?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Artificial Intelligence is changing the world of work, and Ghana cannot afford to be left behind. Businesses are adopting technology to improve efficiency, reduce costs and increase productivity. While this development creates opportunities, it also raises legitim - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KMFRSMnFTLVRTYlM3N3ZyVU52eHZuRWlObTF5Uk11MzBQQTB4Z2RaUDBEbXZUSE8yc0Y4XzVzSU4tSDRlYVNnaUh5M3g2RW9xbUFGcUltTFdWb0hoRlRYVDlaY1psYVJoWEdSUFdzU3BwVVBaSDMwSkplYw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "is this another type of job that will be lost to ai? from the BBC: Kenya's ghost writers help students abroad succeed - but never get credit themselves. When Oxford sociology professor Patricia Kingori first found out about so-called 'shadow scholars', she had to k - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15QndlbFVzcEZDd05Mc2tyTGE3dElDcXUxeC1Uc2hmbTVtSFZDYndlaVhyVnAtcW5vd3BPU3ZYVXYzUGttakJkOFNMNWhGcHlmTXZ1cEJyaFJBX1drTG9oSW1UTy1fVUZ3cTVnTHpPaUZoWWN2?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "🇺🇸🇦🇸 Democratic Victory Could Benefit Asia’s Economy in 2027 A weaker US dollar, lower oil prices and declining interest rates could give Asian economies a major boost following the Democrats’ midterm victory. India, Southeast Asia and other regional ma - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX3dXOUUtTnBLNVQ1VWRHT0x1WnREWlhZWHpKT3RUNHdoSGg3aWNIc3AwZGdldEVtZFZIN21yaFBzU1Ewb3VNMFJSUlVUemFuWjBFODFkd2FfV3hyc1JVT2pXRHpYWk1MNEEyZnVHcm9FNEthRG81VlVtNjJjZnZvd3hCVjU1WkZVSWdJMC1nUV9XLTdDdWVJaVY0a3J1bWdsWVFFT1BPanQyTWdHS1JtazJUM3lHZ3hTODdEYlFpV1A1YlkyYWhNVEl3T1N6aHlSVHFvT3hLWGlwSVQ4VFlJ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Bloomberg. . The media must stop covering tech giants and CEOs so blindly, argues economist Daron Acemoglu. Listen at bit.ly/4fwjedT or watch The Mishal Husain Show at bloomberg.com/videos - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNY3pIUTdMLXF1S3k5d3RYWnlZZ2ZrS2FNUjZHRjU0OWt5SElfWjBWekxzZ0F3V0ZrVlVSbF9xTzNLLVllTG5uNmpabkFER2RNamZhQkxJcnR6b2dtdGlwdllhRHVkOXBtckktYlc1ckhsZk1IWEhiX0xwU19yblZkeEU0QVBCaGpIRFk1dEh1X0dmX2pIYVdscjFBMlo3RmUtUDUyeUJDR1hZRldEbVI2N1dndHhFc3hUMUFyLVZzcGotSGRocjlmSzF2MDRtMlNxNC1kUllBQU5CRnpZVllUQ1N3?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "AI is becoming part of everyday life faster than a lot of people expected. From classrooms and workplaces to customer service and entertainment, it's already changing how things operate. Do you think AI will ultimately make everyday life easier, or are we beco - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUE44Zi1Gd3o3OXpZWFVBaWhObG1NckZISmFmcmlrSWtlTzJpS0tLc0VocWVyMkQ0Q1dnbEl5ckdCT1FTeW9GVmVDUkljVGxOQjVwZ1RkUHZpWkVXY1RvdUlRamtXQ1ppS0lwNU9BRi16aDFqU05LWGJ1eWFfVkpzVnpZVENBdjkxWDlZRmpjM25ZVnR5cXpYVmJrOHVvNE1LXzRWMGNVWUhITFM2TzE3SkgxeGtyU1pSeXBmUXlXSS1LOEoyMjZNY3dndkdNNG8xX3Y0eTRXTTd1eTV0?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The recent hiccup in the AI trade represents a great buying opportunity for certain names in the space, according to David Katz, the chief investment officer at Matrix Asset Advisers. https://bit.ly/48xsdH7 - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUWhub1lhM1FaX00yT2ZIRUJkNmRJVlp2Z3hwNE11U0JvYkVHWUkzV0xydzhIU0FVbWlFUlNIeWJlei1QYzg2eERwLWlvT29nNFNwRlpfSnY5R2xIdWxBMnVBb2xNcTZtSlRnWWRiQVFTZ2NsNm56b1dDX2lfU1Z6RmJlSDhDNHdHNXBXQnlSSjM0VGo3RG1VQWloVnN4MDJjOE5wNU91QktOaWlVZGc2dDN2RXJXaXhIaGZ6S0JlZTN3QTlpMWVlRUNiN1NweHFKdWM0X0l5d1dvUUxMRTVndlRwZ1JBcDd4?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "💰 ELON MUSK SAYS SAVING MONEY FOR THE FUTURE IS ‘POINTLESS’ AS AI COULD MAKE EVERYONE WEALTHY Elon Musk, whose estimated net worth stands at $868 billion, has sparked debate after suggesting that saving money for the distant futur - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVjQ3TmJ6NWxNd0FubmJReGdKeXdBaG9tRkczUzZIWV9SaWFkNFphNUZpdUVsUWFHLWc0eDJwYUtWcGZVWHRtTXpIVlMyaGV5MkZjazgwSi1BRURIVXBEcU9iRFQ2NmtpX3haN1lPMTdQb2t0ZHROYldnRUZFelhxVVBHU05tRm9sZU5xXzkxSmdPZlFKbFRrNWEzbTY4ckJ3YzlBb0xYVGg4LTBfcTI3ZXB5bzI3M0YtVzNaRU04OFY5bWVUZTFIb0VHc0RPRTJwU3h5T01EcFE?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Schrödinger's Election: AI Data Centers Were on the Ballot Even When They Weren't - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdnpKUjItYzU4QnRqaTlSS2VHbktPVGZkSEdBekdIeXZTMnFva3NWUTF6ZDhwamxINGdMbDRRLW1YcnZhUURjVXAySHJmUEhhQWNrOUhBNVVtZHI1Q1ZKb0gxRURCVE1XUWJDV3lFcFA0SEUwVWpyY1RGSEhhZGllR3VZSzRTel9zUGtYZE5RbUYtZUZvTjQyS3VvVktIdFZib3FiMmo3dlhHMU5jU1d3dGdpQk13VnF0alF2dnQtNWNYWElUTW5iVFV2aDBDUThBaEllNkNVOA?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "There’s more to local AI than chatbots. | ICYMI, read more. ⬇️ - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVzNKUkw2V2NVQUZ2aVNBLWRXWk82bHVaTWg3MHBCTld6UGJnR2RBTnEtZ2NHeEdNdVpySWxoX1NmZ2UzcU1ZZWhtNGgwUllycDBmdHJpS1h1TnROZmk3b2VZX3BlZy1ncFE2YnZOS0pJWW9Nb1NjZkMzcVJxLUd4NS1fUzBtUVNtTzJtZUxwZ1pfZllydlptQV9jeDhBZ2dhaklOQXZPRTlDenBfV2tpSlpmOFNUQUFfLTZicGhhNzZPQ2I1bXc?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Stocks are moving higher after the midterms, but AI data center names aren’t joining the party. Diane King Hall walks through the market reaction and why the election results could add volatility to the AI trade. History also paints an interesting picture for what c - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQmF1OF9XaFdOSlBrOTg2Q1UtNlVXY2hKaGhSQ3NYOHhjY0RpaG5TeC00RHcyb2F5UXdKZ0xvVmNKdGREWEZOSTBJeVBpaEs0dU5tcFhTc2tvbmdKYmtudDgyR0lOX0lJWFVhZVRyZEg1UVhLc0t3aGFjelkxczE4ckJOZVRGMUJqeDk1eEltNlBtcTBZcTBBUnNrcVBJVnQ3cGZfY1R6a05uSDhZQ3pNMHJBbS00d2FMcWdGaUcwLUIyXy1BdDZqSzJva3JLQ1dLYVJtZTlxM3h0aTg?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "How quickly do people trust AI with their money? Nearly 40% of Instinct users connect a credit card within three weeks of using it, founder Noah Shinn says. https://bit.ly/4BAYn1I - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObUxRSUZfV2xoT1VOWVB1YjE3Z2xaa1lvREJJVFFFbFMzcHZXazNxSkQ5WDY3Y0E1Y1hSVmF1aFNYdTBYQWlSQ1BoTHpNZ1ROTC1hTTJ4bmh0c0ZzWXVXU1k4YmR0bHktTlg1WEJuUDlnOUNKRXRMZ3ZYTWRFVkh2dFBxS1VPZ2FWOTF1UHpfMThJMVAxNjlmRWQ0U3BMZEJ0cDI1M1JHZHRneDlnM1BfRjBjR0tqdm83Ulc0c201QzdZVS1GT0ZjVnlZZkQ0VEktV0RkUERZVno?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Conversational AI reached a remarkable milestone. OpenAI's usage timeline places ChatGPT at about 100 million weekly active users in November 2023, roughly a year after its launch. That's a historical adoption figure—not a claim that it still holds every app- - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcWNKVnFrenRLSF92cmp6M3dBaWotb2szcFl4WnRDOXZ1SzNjVmZjRHRDeXFMcnBfRVNlaFVvVWdSNVQ4OURsOTlRRl9vei1hdjZMM2k3c1Nla0NfZ0xmMm5hUWc4SHQtRVhGR2J5eE9pWE50SmxHQ0t3N3UxRkxtSWNRRjh6Njl2QmprSGlzdTBGS1hfSkxWb0JoMUV0SUhRcWdsZXh0bGdvaVdPRVYxXy1aTmhDMl8zNm1TbC1FNDkxLU9fNUY1emRwWmN1b3ByM2tFM240cGI1Zw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "ICYMI: Anthropic's IPO gives founders iron-grip control — and shareholders little say: NYC's top pension official is sounding the alarm on Anthropic's planned IPO, warning that its governance structure hands founders and an independent trust sweeping control - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSHcteXBfa1dLTklYdEZzVHVBamZmRlU0dkd5cE40Mjk3SU5JUTdGNV9XX0c4VE5WaTMyY0VoYnk5UmgwcnlaakNRSHFvTkpBNHg2eE1wTEVfd0ZKMlJDbVFfVEdKZmxranB0QnVWdlAxVnc3dGdlUGQwVWlmaG96RUVqYzVMM0lHSV8zQjNFbmJvbF9OaXhyNWNoR2s0eUhmRWlLZ2pJV1R5elU5c2FtLUFXamVqbC1GX3ZKNjQ5bzUyS1ZYX0hka3FTMmpGNGVtTFY5LTBpMA?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "From Iran war to cost of living and AI, here's a summary of what voters told the exit polls and what Americans searched for on Google ahead of the US elections. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOenBJdDg0dVVPeWdrMnlVbEFrYkRZYXZkX1hLRkNYblNnd1U2SHR2aXpHV0dFV2luZXU3Szd3N1FCaGloOHBBVzhjUjdKZkpfbndtNmtNTm9OWGpTVEEyWVBIeU9LeFpBeG5wRlhnTnJ1Q0dad3NxQkk5MVZoRTBZOHFFazJxZWt3R2Fxd3E5MVByTmFjU0tUakF3cVZrbmFrZ195ZXk0VHNFU3VaLWN0a21ROHU1R2NXWjJfcWd6QU5LNlVMZ2d1T3FHWXdhTnVEcF9tYmVGN0RyVlpucWc?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "#TheArabianStories | The National Digital Economy Programme (2021–2025) also recorded more than RO 127 million in funding for emerging technology companies, while investment deals and projects at COMEX 2025 reached RO 116 million, marking a 45 - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd0VYMlBLaHM1NENSY2lkRHZsdDdLbEFQd1V6cVJURVZoTnphbDh3NmNMMkotOGJWSHlPSWNNakVNVTBBeXFEZHlNaDNPb3RBWVVxZ0ZuMm0za0swY3hsNW9pbTB5N0tlYUo5M21QMXktUTBhRklNV2hsdEVkenlWdGJySENacTBScE1fbHBRZHRVSG5LU1pXZWlfRU0zMC1DWnBzWEFubXVzakNBWF9mbHFTSzVXdnZoamJPcGJhNEJNdF9hekQ1bVRmS2k2RlNWcHNYQ2ljSGxXeHo0eEo3dA?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "S&P Global said manufacturing growth remained “comfortably above trend” in October, though it said its PMI softened a bit from September’s 52-month high of 55.9. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY2pHMm1lZ3p6N2hwOEd3YW1PTlZsS0QzNTlZdVBVdGFWcEVMdHB0RFNHcXlWQ3FuejVZZzVHYTdYN2JydnJud2NkUVFfWGdFVjMzcUV1am9ETmM3QkFERjdXSHp4Ujc3VU9EWWtoYk1wbFFOazNTeXFVcm0tT0R5WXRSaVhaTElaUG5tWHJnUXVXSDZNM1FkY1doLXlaTjNLREFfT203TTRwT1hOUWR1bWRiQVd6X19tOWZDcXJOOTMyMy1xX3dpR1pNNkg3NmhMa2c?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Voters in at least 29 jurisdictions across the country passed bans or restrictions on data centers Tuesday, reflecting the widespread public revulsion to the facilities and adding to the growing pushback on the ambitions of the AI industry. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUVZKSllDOUktbl9OUWxNYmpFaTBhWEZjcjZLSEhONFNJLVZuT0l5OFRFUGFCYzU3S1p3VTBHVURwUVRacHNGZEdVR01GTFEwUmh1bkpyZFlhcnNMaXBQUEpfNzVkalZqQUo3Zm1sYkxXUkQ2U1BZX1BibDdGcXF6S3k4eERuT1A0enh6T0pfSjdHLWpNUlNqa1NYVzRqcnlqVHlEalhpUzJ3dUZ4ODhpQTJXUnlTZmROOE9IVlFUR0ZWZWFfeWt4aHhjUUpVOVJ6SmVqZlZBYmlueEpT?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The economy looks fantastic if you close your eyes 🙈 Donald Trump has offered a glowing assessment of how things are going, claiming that anyone paying attention can see the progress. Brushing off ongoing debate over living costs and economic pressure, - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPXzIxSjRnUEZKanYxMDkwbFg5amdZR1RlbTdITGZqS1pnTkxGR21BNlU3WXd3VE5fV0pua2xlLUxlN0hoSU1kb1V0VWJubHhWS3lES3Y2djFXOUtWX3pwWFhITmd3MGYzTWtiSzFMNFlXQ1prek5kc3NlaVlWeVowTjIwYVFDenBGOVdXeWZ0UU45ZjI4ckNReGxLRnp4MHBqbVlucDFBUlhVQVBvelZoMF9IblNSYzNDOGE4aEJfZURuaENDNF9PeHduT3U0SE9jdWU4cmZLb3h0cWF5WkE?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "DeKoder. . Democrats have won both the House and Senate. But could the political shift in Washington change the direction of global markets? In this episode of Value for Money, Madan Sabnavis, Chief Economist at Bank of Baroda, and Peter Cardillo, Chief - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY3IydmdDWXFUaTV2WUR3cjEwRnVRQUx0UEdCQXRUbVk0Q2xZc0ZJTW1MTmlrb3FCT1hBWkp6MlVlMWZYLUVLYklubkVqSUdWMVJ3RjJJa2Y1RTVpclBQU3VOZGY4ZnF4RUh1VVpzX01Zd1hqZ0pHRlBBYVFNWDBGNjhEdFpEcmc4RTVpVTFwaHlfSG96U1JicHJXa0FiQVZlT1B2YmstUXNDNVN3RGt3ajA1Z3BIMVE4VnJCRWlzajlZeVhmbi1ZVm9lZlhiTm02ZTBOajBSUQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "AI data center stocks came under pressure as Democrats — seen as proponents of moratoriums on the buildout — won big in midterm elections and in key technology hubs like Texas. More: cnb.cx/3Wrulxl - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRl96ajhrYUtXd0RyTVpyd1Q2RjZ5NGJzOWxhQ0R5RV9UYXRkNThDSHZoRGsxUG5pUmpsRHpNZEg4N044UzB3REh3WTU0TzdqTWRRWU1pcV9INHhDeU1hd050MFctaVUzTXg1aHR4a2x3Q2pOVlIyLTZPRnRSSUliYUl2dXp4cHdEaTlEUmdxY0gzUmpEUXNaSTYxMzdwNlluWFVVUnZmaVAwMFJwWFdEMFJncWtzX1kwelVBRlFWaU1EV3M3eElSSF9lREdHT28?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "From Samundri to Germany | AI Entrepreneur Success Story | Farman Ali | Shams Ul Haq discover the inspiring success story of Farman Ali, CEO of Symufolk, who overcame business challenges to build an international AI and technology company. In this spe - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUXRuNHpQeDZvb1hEVGpibHRNQ0JoUE1fV3g0Ukl5RGdTekNGa2hhYk1Cci1hZFpZbEx4dEJZNG5zZkYxTW9FWWRGRFVBcTU0anQzLTZ3eHJaWU8tYU9MUU9CYk5abGl5UDE0dUVMMHhzWXozSmd3UWM0VUc5eTN2ZHJnX0w0OEg3RE1RaU95Sm9JZW9FTllrY3FITFFHRk5nMWVlWC1oRzFZUVRQNmJxdDRGanljYlVFRXprcTI0Wk5fWno1TjdWc2ppaElnT0ZOeFlPdw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Inflation measures how quickly prices rise. Ghana’s rate has fallen from 40.4% in October 2022 to 5.5% in October 2026. For our compatriots, this means less pressure on household budgets, making it easier to plan everyday spending. #NewEconomy #Budge - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90elFHRVRSYTV0RHd6cGlOS2lveUlzQkVtQlZHNk9xOE14WWhkZ0d0cGlaRmFrWm5maEpVMmhGYVBNVkdyQjgyUTU4UU45QjJQUDlvcS1UUml2UExqTU1Ob2FqaXBPUWNKamhBQ1hUM2VoU3A5UGMzSzdKQQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Your next salary offer might depend on how desperate an AI thinks you are—not how qualified you are. A controversial practice known as “surveillance wages” is raising serious concerns about the future of employment. According to a 2026 MarketWatch invest - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNN2JpcVIyZEpDeVpJZ3c1bFlnSG1fZ3F3M3FJZUpDLUhZa3g0ZXg2WGI4V3FQVERGOE9uYi1OWDl1cWpXakxDU1d4d21PYUxDMmg0SUhkNUZ6bWREZ2g2V0xISmRFZXFENm5oWXJsT2piOXZTUTVXcXlzb3ZoTVhCRjJyZnR0SHlzVThmb2ctekd3NGpGWVdHd2JhMUNWVlRnNFJIZXZUNVQ4R3ZpZHNUcjh1NHQ3X1pseU9JWEdXX1ZPSFRsWDh5RWFQVUJWeDRHQXJEWk5OLURxTWdJMGs4?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
