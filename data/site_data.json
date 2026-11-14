@@ -1,324 +1,235 @@
 {
   "meta": {
-    "timestamp": "2026-11-14 05-55",
-    "generated": "2026-11-14 05:59 UTC",
+    "timestamp": "2026-11-14 17-52",
+    "generated": "2026-11-14 17:56 UTC",
     "deep_count": 0,
-    "watch_count": 158,
-    "cat_count": 8
+    "watch_count": 140,
+    "cat_count": 6
   },
   "categories": [
     {
-      "name": "AI",
-      "anchor": "AI",
-      "archive_url": "./history/2026-11-14_05-55/index.html#AI",
-      "stories": [],
-      "watchlist": [
-        {
-          "title": "Introducing ChatGPT Wallet",
-          "url": "https://openai.com/index/introducing-chatgpt-wallet",
-          "tier": 1,
-          "seen_count": 1
-        },
-        {
-          "title": "XYBench: Helping with the problem behind the question",
-          "url": "https://huggingface.co/blog/allenai/xybench",
-          "tier": 1,
-          "seen_count": 1
-        },
-        {
-          "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "tier": 1,
-          "seen_count": 1
-        }
-      ],
-      "no_signal": true,
-      "deep_count": 0,
-      "watch_count": 3
-    },
-    {
       "name": "Finance",
       "anchor": "Finance",
-      "archive_url": "./history/2026-11-14_05-55/index.html#Finance",
+      "archive_url": "./history/2026-11-14_17-52/index.html#Finance",
       "stories": [],
       "watchlist": [
         {
-          "title": "Natural gas storage report shows lower-than-expected inventory increase",
-          "url": "https://www.investing.com/news/economic-indicators/natural-gas-storage-report-shows-lowerthanexpected-inventory-increase-93CH-5026089",
+          "title": "Goldman Sachs just slashed its 2027 gold forecast. Here are the new numbers",
+          "url": "https://www.investing.com/news/commodities-news/goldman-sachs-just-slashed-its-2027-gold-forecast-here-are-the-new-numbers-5027310",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Oil prices fall over 2% for the week amid easing fears of fresh U.S.-Iran fighting",
-          "url": "https://www.investing.com/news/commodities-news/oil-prices-hold-gains-as-trump-sidelines-vance-from-iran-diplomacy-5023781",
+          "title": "After midterm sweep, Democrats split over Trump, cost-cutting agenda",
+          "url": "https://www.investing.com/news/economic-indicators/after-midterm-sweep-democrats-split-over-trump-costcutting-agenda-5027405",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Foreign investors head to Caracas amid political transition in Venezuela, US",
-          "url": "https://www.investing.com/news/economic-indicators/foreign-investors-head-to-caracas-amid-political-transition-in-venezuela-us-5026411",
+          "title": "As smog hangs over Lahore, Pakistan’s new pollution squad races to douse stubble fires",
+          "url": "https://www.investing.com/news/commodities-news/as-smog-hangs-over-lahore-pakistans-new-pollution-squad-races-to-douse-stubble-fires-5027213",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Spot gold posts worst week since March amid jump in Fed rate hike expectations",
-          "url": "https://www.investing.com/news/commodities-news/gold-languishes-near-13month-low-as-96-oil-fuels-bets-on-bigger-fed-hikes-5023860",
+          "title": "Chart of the Week: The great market rotation",
+          "url": "https://www.ft.com/content/936376d1-4a69-4a3c-8975-3c55e9cb9d42?syn-25a6b1a6=1",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Tin backwardation widens on LME as exchange stocks fall 60% since June",
-          "url": "https://www.investing.com/news/commodities-news/tin-backwardation-widens-on-lme-as-exchange-stocks-fall-60-since-june-93CH-5026445",
+          "title": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
+          "url": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Venezuela to send extra gas output to Colombia by 2028",
-          "url": "https://www.investing.com/news/commodities-news/venezuela-to-send-extra-gas-output-to-colombia-by-2028-93CH-5026526",
+          "title": "Hedge fund woes expose the dangers of hot money once again",
+          "url": "https://www.ft.com/content/7c60b026-23ff-4b50-8a2b-7e9614ef7970",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Oil market positioning risks: surplus, shipping attacks, and spillover into rates and equities",
-          "url": "https://www.investing.com/news/stock-market-news/oil-market-positioning-risks-surplus-shipping-attacks-and-spillover-into-rates-and-equities-93CH-5026424",
+          "title": "Treat prediction markets like futures trading",
+          "url": "https://www.ft.com/content/b5bdf7c5-242b-4078-b3fd-a86b488d5a3a",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Soybean futures hit two-week high on supply concerns",
-          "url": "https://www.investing.com/news/commodities-news/soybean-futures-hit-twoweek-high-on-supply-concerns-93CH-5026381",
+          "title": "How bonds got interesting again",
+          "url": "https://www.ft.com/content/3f89c87c-4bc4-40db-8c15-1957079917f3?syn-25a6b1a6=1",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Aluminum pricing overhaul planned by US regulator",
-          "url": "https://www.investing.com/news/commodities-news/aluminum-pricing-overhaul-planned-by-us-regulator-93CH-5026382",
+          "title": "China’s beaten-down tech stocks could offer AI with a little less drama",
+          "url": "https://www.ft.com/content/1505df5d-14e0-4095-8a88-fd23a165a821?syn-25a6b1a6=1",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Baltic dry bulk shipping index falls on weaker capesize rates",
-          "url": "https://www.investing.com/news/commodities-news/baltic-dry-bulk-shipping-index-falls-on-weaker-capesize-rates-93CH-5026166",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "US extends shipping law waiver 90 days, to allow freer movement of oil, commodities",
-          "url": "https://www.investing.com/news/commodities-news/us-extends-shipping-law-waiver-90-days-to-allow-freer-movement-of-oil-commodities-5026364",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
-          "url": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "US securities watchdog plans to loosen rules for executive pay disclosure",
-          "url": "https://www.ft.com/content/de634392-47bd-4a21-938a-77620aeb3d17?syn-25a6b1a6=1",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "US Treasuries record worst week since Trump’s ‘liberation day’",
-          "url": "https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def?syn-25a6b1a6=1",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "Global oil markets swing to surplus as Gulf shipments rebound",
-          "url": "https://www.ft.com/content/20b68fe2-9d60-4c0c-b714-1f3e03015823?syn-25a6b1a6=1",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "AI believers hold the line after Nvidia ructions",
-          "url": "https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "Anthropic’s Amodei ‘not super fussed’ about market turmoil ahead of IPO",
-          "url": "https://www.ft.com/content/4b7b83d7-7fea-4ce2-bfe3-4f2cf75b1d82?syn-25a6b1a6=1",
+          "title": "What Europe’s rising public debt means for your portfolio",
+          "url": "https://www.ft.com/content/45684ea3-dba8-476b-8667-2cdbdb5dfd8d",
           "tier": 2,
           "seen_count": 1
         }
       ],
       "no_signal": true,
       "deep_count": 0,
-      "watch_count": 17
+      "watch_count": 10
     },
     {
       "name": "Global",
       "anchor": "Global",
-      "archive_url": "./history/2026-11-14_05-55/index.html#Global",
+      "archive_url": "./history/2026-11-14_17-52/index.html#Global",
       "stories": [],
       "watchlist": [
         {
-          "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+          "title": "What we know about the ground stop and what to do if you're affected",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-          "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+          "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+          "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+          "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Setback for SpaceX Starship rocket's double-catch test",
+          "title": "Italy fines Meta €805m over accessing users' photos",
+          "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Second catch attempt for SpaceX Starship rocket",
           "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-          "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+          "title": "Microsoft says services fully restored after day-long global outage",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-          "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+          "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+          "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-          "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "Democratic Senate leader Schumer set to face leadership challenge",
-          "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+          "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
           "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "At least 24 killed after bus collides with truck in north-east India",
-          "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-          "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
-          "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-          "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-          "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-          "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "Where Americans Get News Relates to How They Engage in Public Life",
-          "url": "https://www.pewresearch.org/short-reads/2026/11/13/where-americans-get-news-relates-to-how-they-engage-in-public-life/",
+          "title": "📸🚗 What we know about Flock cameras",
+          "url": "https://www.pewresearch.org/newsletter/weekly-roundup/weekly-11-14-26/",
           "tier": 1,
-          "seen_count": 1
-        },
-        {
-          "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-          "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-          "tier": 2,
           "seen_count": 1
         }
       ],
       "no_signal": true,
       "deep_count": 0,
-      "watch_count": 18
+      "watch_count": 11
     },
     {
       "name": "Investments",
       "anchor": "Investments",
-      "archive_url": "./history/2026-11-14_05-55/index.html#Investments",
+      "archive_url": "./history/2026-11-14_17-52/index.html#Investments",
       "stories": [],
       "watchlist": [
         {
-          "title": "Berkshire Hathaway Laid The Blueprint For Right Capital Empire (NYSE:BRK.A) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVm9ydXRvbkI2eENmbVlqcVBOY3hIaHgtOVQ0U0tuQ3czRUxlWGIxT2ZkQ3Q3emZNR1NZZUNNMU9HYnpuLUdZaDM3alhleXM0SzBjNEFSUlhJMC1mRVJTYV90MFNucnpCY0o3TURYSGJsaXp0bmJYbzg4OHdHNEYwMzQwdE5FYW1TbGpVVjFRNEY5N0h6U2RjOXNPdkl2ZzJnN29WeHFB?oc=5",
+          "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19% - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUV4NF9lbkt0WEpneTdsTUFfMDE2dklud1lnVnFPR0YtWGNTck9NbUNJZHk2WWtIeERxXzQ5VWdUTzNDNGRnb2Npd3h0SEp2aVc2VmszQ2lXUjVjZ1lrMEtoSTRYdXJFM0d1TnNNV0ROV1R5VFN5RjJoZjgtWlZBM0lsVnpydV82a1BVQmZibTdaNDA0WFpQMklSaHMwZEtmZ0FhSHM3a0VLQXpwTHFBRHVFMWFaRGZ10gG-AUFVX3lxTE0ycGVWQ2xHWWV0U2xFdWpmbkZiWVhMR2tlQy0wNFlvMXZ0ejlHU0IyNE85Yk0wSjdXODRpSTF4MkZJYXpqMTBSRlZFakhHTjdGSXNpcFZKRHVNcWk0YW5EanM4cW1iYU1oR29PVVYyODUwajRjSjZiR0VFdDdlbWZkUXFXanNTby1fYl9hdkFzVHFKUy1lQXZlUkNzRWNENElhUXBfU0Z1NVdpcXZwM0RVRXpTT3BtQy11QnFGc0E?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Warren Buffett said one skill made him ‘physically ill’ until a $100 course changed his life - TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSjdrcXROQlZKdVpkMlUyeldCVTRhczVpTGRHd1h4U04zX1dVRnQtVVhyOVZiRHFWZldYdERvdzdSMVF5TjEzOC1PSWdGeVhuX3dfQzB2YWZMUGw5SHdoQ3Y3eF9SMGFyNlhCbk9hMTVZOEtlVkpQOWNrQkw5MGpIQnBXanZzNlU1OWF6MVNvNEN3WDNrS0E0ejdDM0ltbkw5LWdwd0hiWQ?oc=5",
+          "title": "Warren Buffett Said This 1 Mistake Cost Berkshire About $10 Billion. Here’s How Investors Can Avoid It. - The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQ2VvWmZQcmNVV3lHZFpmWTctYmJOVWRqY3dyV3pSZmI0ZEhBMW44dzQtMVBBeUJwaDhkaElyOTNpSlBQRUtNc09JeVRhbTJ2YlVHdFFlamV1YVF5TEU2X1NreUk2WkI2Mm9uSVd6LUdZUVphQjlpMTdMZXhaSVVmSm14RVdEQ1JJTnF6NG1VUWthY1FpTG1vRFhJWC1rSlJSOUd0eWlPNV9RekJDNzVITU9KOHZtLUlpRVBuVkhwRzhRMWw5WXdTS0wyRUM4R0E0aTZjaERLWm5nelBCdVNQdUdranBNNWZPNE9wZUFjNFJ5SVU3cHNhUUh1VnlaR0FZcG5Wb3h5akgxemVWWmpFV3VFakVDZw?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Berkshire Hathaway (BRK.A) Stock Fair Value Edges Higher After Split Analyst Revisions - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVGJZYUROQlVVN3JGd0N3NVdBaTBZOU9yYUVQakVGa1Nua3pDS1J1N1U2TDJIZmFxUVV6Y1Y1bXNJTS1NcXhZblpGa2Z4RUZob3NWS2x2WDZua1IxNzlJa2trQVpFZkx3MnFCZ2dCZ2hVOFFMeC1rTmJKSWVvRWQ2cHoxcUd0d0MtT0R2NEVOWFREWk1rQlF2Ml9ETVJ1ZTQ?oc=5",
+          "title": "Warren Buffett Issued His Starkest Warning About the Stock Market in Years. Here's What History Says Comes Next. - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUZfeDBBaDdsRmN6TnJEc01FMnloVkxNNTNBS0taMEhnN0h4V2FBSTA0cFdOSm9TMmdNcDdwNDdfUjd2R0xLSkZqc0dFaERYU0Z4ODVUTDJoQkpqVTBpQ2JvTGJZT3BiQld0Q3IyVWNSSllGbmVOYmJ3Tk1aUWEwZ3doT1NIX195WnpNeTYxYmE1NkhzU0xuNDRYdlc3bjdlX09fSWpn?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Forget the \"Magnificent Seven.\" Berkshire Hathaway Could Be the Better Long-Term Bet. - The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRjlrQ3dPVlpsbHI5dXk4d2ZSV1pHUF81dGNKZWJSZ3F6UkhOeGk3c3pRVkk0T1FZUmNGakVKbGVZdDZlTkR1WjF6RWFNb0FJNFNSNG5WeGQzUU80bWYycmVIRy01VExTUTlkdXZjMHNxcW1CTXc4OGZQck92czBBb2xObDFhTXVYMnBkY0ljWEZlcDJSV3FORkZuVFBkVzhhdVRPd2Z5X0JyMVpMMi1xeUx1NThIaFR6NHRsWG1aQmtPdw?oc=5",
+          "title": "Warren Buffett Said This 1 Mistake Cost Berkshire About $10 Billion. Here’s How Investors Can Avoid It. - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjZFWU16NEY4emNFQlpaaW9wU1dpNHp1QnMzdjA5b2cyOWdvOW5udWllSTJsdndGSjFVaXRjTzZNOU9UVUFPZEwzYmlvMEdnN2ZQU2NjdmhKajF0ZzlldE9TdDJoTVlxMVdoYkZoQXFMRTVsSnN2UlIwakgxekpOS0UwZHVCTlFzWUJiaEhmSmh4YldmQy16VG1n?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Forget the \"Magnificent Seven.\" Berkshire Hathaway Could Be the Better Long-Term Bet. - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPajQ5ZzJXa0RlNXlFNjNDaTNTal95TmV1SlBMdjV0V2tqZjZpSFJEVkxBZXNodzM5ck9VVjNrQ3I5UGlCNWFmQUpJNERyTlNxWm03QVpvdlB0SXlqd0hBUDNvcDVoMEI2bzBwZlp6YXg2SmZPRzQtVHRxTkV5Ui00WlhEZzRUdFpCSm9tbDM4dm5EYnVOQXF3RWxEQ2NOV1hrVktOeGQ4ZWc5dVZ0?oc=5",
+          "title": "Warren Buffett Said This 1 Mistake Cost Berkshire About $10 Billion. Here’s How Investors Can Avoid It. - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVU82Mk5XVmpDSkFlc1pJZFVVcHB5VE9lX1dNQkhxM0FOX1VXQmVPN2Y1QXNSdXFybWRaTDJpMkw2bkNoQ0h0eFcyTVNJQ19MaFN4UEp3ZVppSnN0TjhoZWZ0elM1MVJpV2ZIMjNZeEdkanc3aXJJeFNIcDZSa3hDYVAwcXJzQS1mQnFJaEZuSFpkcVlPOXFZQ2l4Qjk3U090ZzdUNFZXMWotSEpzR1dWa2hMZ0NqdmVBYjJnTW1jZGdib2hjelVOZDQ4ZTUtM1JNcmg2WlBYeXNaVXZiSVRR?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Bending Spoons: \"The Berkshire Hathaway Of Software\"; Sell (NASDAQ:BSP) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYUJMMWgwVHBFWE1TWDZOaTJMMlI0VEVGN0JqSk9OYkZhU1pZVTlUUGtaZkVHc0ZBNGxEaEFFWjY0S3JYaFh1SUJhUUUySHdKZEhEYURWZDJWM2h5WF9BMUtDaHRrSmFXUnJ2UllEMXVDbkRXR3BDVzdfYlVsQV9vbENvTkZ0UDNfNkFOMW94QU9oT0FRc3NVY2ZIRQ?oc=5",
+          "title": "Warren Buffett's Berkshire Compounded at More Than 19% a Year Over Six Decades, Nearly Double the S&P 500's 10% Return. Can Investors Still Apply That Playbook Today? - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZjFNM2JJTjZnZlc5M2ktUWxsVURBZXpmclRJanJjZ2dOb1BaNXU2c3NPRXNYdnQxNTU5T0liYWlVWF9Pdm5YMEVNaGZLeEdhVnc0ejBGOG5jcUt4U3pEYW5OM0NseG11dGN1cjh4SV8tcFp6TjJ2RHBPWlBMTVNheVVoSzhxR0dtcnNGVkZ2dXNvSjJvTUlSd3BzamdWZk8tNV9WR0JmNUNvek84UjFSNUJDdWdMZVBvdktxZDFUSVMwUEJ4YUJydzlTTlRac1NnRndJQlVzMGhzUmdRaU1WV1ZaVGdNR3M2cTNtYTJuODhtdXNHT3FocDh2LW5sUFh4aVNRMmVUQ3BlUTlOZWZlMnFVSlY0R1ZMazliUVlVVFN6RUVOVHpqWA?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "3 Favorite Warren Buffett Stocks Hit Record Highs As Nvidia Sinks - Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUwyNXJTU19Db3JsNEpHUXVTMHAxRmtQTG91SV92UExLZnlSQ0QzM3JLRnhsUF9Vd1g4X3hLSWhJdjRSenVFYTV5NWs1N0tqbmZGN0gyYnhNOWd1SV9hNjI5ZXN2ZmhnaG1XZWNENDdHMTZwT29ZYno4WEZ5YWFkdTFRQlBKdUFmWUJVcF9VNk5ZMWJKa2VZZXdTT0hXZWJvbmc?oc=5",
+          "title": "3 Consumer Compounders That Fit Warren Buffett's Playbook. I'd Hold Them Forever. - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbjV0UXY3RDZ1SzBmUzJHV3B5M3VhYUpDSnNHNVBwZHcxVTJYZ0lESFZkY3BBeTc5amVuanVHLW9ncWRjN2ZNaG9aajVPeFRXUWVROWlhOHYxN3kyYnVGOUhzMWtTbHViSU9WaXVHZnB2MTRtLU5vYVp2X2ZFMjFFYTd6THhxc2xEQXJiVmJrSkJkQ1pFY3lIUQ?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Berkshire Hathaway Is Sitting on $357 Billion in Cash. Retirees Can Learn From That Cushion - AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWm9kVnhsdzFBR2lXaDVtMzZ1M256bjBZOGhBMGFWTDNodWtxLU01MHdOZFc4QXE3aXNqS1RWZ09EZEh6ZTFrTVZVLVZiVGRLRmRyNWM3REZUcE1NTkR2NHBZRjNHeFRieXhsQ2swS01MZ0hpZUlocFFlWHF3SktIdUFkMFBiOHJCbkE?oc=5",
+          "title": "Warren Buffett Issued His Starkest Warning About the Stock Market in Years. Here's What History Says Comes Next. - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDIzOGRCZG5xWUV1V2E5WWZDZUFQXzdMckQ5WElndk16MVFfeVFzOHA4a2Rna0tTWFJuRHFzNjNkeWNiZWMxby1OQWU1akpfMVQ0TmxJRkF4SlNDb0pUXzlFejRFOS15WDkzemVlYkhwQUFJQmNxVkwza3lvTXc3TmFMVnBSYmJYQzlfRjU3T1dRaFJaYlJLMnhXTmw1RE1yMW9vSTZORDVOOXFqeUNHekUzbGRwNERCT2dSV0d4YnM?oc=5",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "Berkshire Hathaway shares extend fourth-quarter rally as bond sale and portfolio filing draw focus - Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUQ5Q1dCWHZnQXJsSWZ5U1YtS1UyZWcxaktTQ1AzbmJxVVBjTnhiRUlWMG9BQVk0ZVFXU2Njd1JodXo5QjZDWm5wZWk3bk5QdkRYcHVFUjF1QlJhRDVlSDAzVXJVb1F6Mnc3LURCaDdINDlwNWRYMnNqSEVXYjBnWlBpN1Y3VXJZTnJWWnM1MGtibVlYUWFyWg?oc=5",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "Berkshire Hathaway shares rise 19.1% since start of quarter — CNBC - UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWlMaGIyUmlNQ192YlpxMnJBUDdqdUhvMVZlbnp5bWhrWTVoZmZPcndpdlRtbVdWTlBVTzVpR3hxVnA0Y2xncDMza1h1eEIxWTM4YWtrQzdDcUk4LUxvSHhaWHhTSkF5UXJlMzdYeVQ3SjFnVW1FNExGWWEza3NVNS10V2VjQ2ZycnFKeFhZR05xRTJzQ2w0enZhdUdCZ0JlWWVF?oc=5",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "Card Networks Like Visa and Mastercard Don't Take Credit Losses. American Express Does. Here's Why That Matters for the Stock. - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTnY5N2s2RWNsM0R1Ul85QnNPVWRJSnlZYXVWdkkxTVptcjVmZE9yNXY3cWhEdEJEX1VDWWlpTXlKeUlVYkhsZ0U4a3NTTUlyeVloNHpaQmw3ek9JdF93b2FxS09wb1AzUWdRWDlaa1ZYMGJWT1QyRDY3WTNXYzMxOTVYTkpEUTlnS0M3WGZHSQ?oc=5",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "Warren Buffett’s ‘Be Greedy’ Advice Came With a Catch in 2008 - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa1pNR3ZpSFluX0xLS201aHpoR3FrQWhlS3R3UW00M2xPZ1dPa0hhOFZjSzdkSEs1TWpBUkRhMS1BbzhxSnBqaUJLMHpLc0pBYVJCcmUxb0d6SFpwdVNBTnNTeTRiMmhMLVF6aDhmVnZackhNMVVVeGU0UzEzSG9kcGtNTQ?oc=5",
           "tier": 4,
           "seen_count": 1
         },
@@ -329,109 +240,43 @@
           "seen_count": 1
         },
         {
-          "title": "Berkshire vs. Travelers: Which Insurance Stock Has More Upside? - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbk9xT2ZYQ1RnMUdpRzRMUmtQNllrU0N5Y1hZYkpPNWtCQmxYT2p4OGN5SW8xak9yUVpkcWdoc0VVSUhCYnY1dUl3dmI4WXQtUmJ2MTRhSlRPLVpxUzJXWjFTQXd6ZUZtbUZtZmlKQXNwYkhqVEJxSlo3WlJNUEh0cXpHckxQQ0NpSGpaZlVRVDdVRlI1X2FYeWhwcVR2UmdLcy1SZlB1cm02b3pmLTc5eEpvNXpSdjg?oc=5",
+          "title": "3 Consumer Compounders That Fit Warren Buffett's Playbook. I'd Hold Them Forever. - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLWtRYXY2cy1rX2pMcTZ1WUlDc2hkUHVaLS1PR0Q0cmhlZjNLLVlBTzktZFBBSDkxUGpJMUllblhleWJ6NTlTNWxNekY3RTJNS2ZWc3hkeWs2T2Fha2tJTmVMM0Z0SmM5T081MnlsUUJ6VXE0QVhLV2xnREM1UXdOWHkyVQ?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Warren Buffett’s 90/10 rule to invest for retirement: Does it still hold up today? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY1JSWDFMZ3p2WDRRQ2tEQ3FGa1kxMi1BTEhjeDNVZ1BtYko0RnRRTGNFMDA3UUpSYXB5MWd0REVuM0pKRGJ4SFRZb3Jrbl9xSzd0TTdUVUdSdFFPUzZicEtGaDBDbzJmM3NhYktPMEo0dkIxWmJ5RXpUblEwTjJocHNDcEYwaXo5cnFXQTBHZ0tQa1lBSkplY0FHM29lREdXRHVCLXdTSzZvM3Q5R3N4eDZzWXZxNWZLY2F5OU5rVWxCMXlIZGVOdWVON2tpWF9XcVVESTVKWEZzY2xSZk5nZ3RzQnJ1RnFWS1E?oc=5",
+          "title": "📊 PRO: This Week in Visuals - App Economy Insights",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wTG82bWdhRlZfLTVFTVc4aDZnYUdPTlYtbnUzT3FGTU1iOUprRmVCYmJ5QTFQdnFHT1JWYk52ejdLdTlUOGpIU1BzODF1TGl5TkpWSEtIbTg2Wi0wcW5vZy1fdXQ5WUcxSDEzd1ZpT0dFcFU?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "TD Cowen Adjusts Berkshire Hathaway Price Target to $834,000 From $792,000 - marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVDdPN1JWdU9qUWFkTFdTbDNpcHdTdFBWZUhZQkZDSllwRkc5dkVnaTByOGxpYmdfMkp2aTQxTjNXVlVXamtyUUFnWTNvNEVfVGlfajNOMzRvUFpHYzY3WVdUVk5vUVlQZ0VWMFJVN291M05LTkw2azZELW5KMkt6b2NWbHg4LWN5YXFsZUJiVW5TQ1hoQXV1ZkszVXo0U0czMEVzbGhrOG50MG10aElYNWhmSzJPZGNBUWZ2VTRhVjJuWlE?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "BRK.B: Berkshire prices ¥182.3 billion in five-tranche yen notes - Quantisnow",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVEZtcXoyVzRNZFZEOGoxdlJsMTlQZjQzbXFHbVJJT0U0TDJHUEdSRFVhdmxRMlFvRlFJeUpmMk1kV1ZBeUhyeTA5NWR1SWlqdi1GcXBsRWhiTEs4elZTNmk4MjdibS1HSFJCWklTb0lzc2ppM0RHaEhFSlBBZTFfczlxNy14SWdMRjdPQ0lfaWU?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Berkshire Hathaway (BRK.A) Stock May Trade At A Discount On Record Buybacks - Simply Wall St",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWWFHZVN1VW9HajM1OTJGdGd3SWszYm9vdXlMbDRfYnVGYk1Mb1ZDWm43LUxBWllNMUpBZmZpYWF5VkhzOGxwNS12TkVJV0pIeWRKb2xZcTdRTlN3VHdrU25ZMXBLTmo1NVlUdDF4X2V4YXNHazBCWm1rdWdKVHdUeksxVHYxdGtPRW1JV0dMS1Z3V19qVkFrU1NKWDgzRnhKT3pLWU5pc0NjYXE1M0pxb1BaeE1ZaFMtX0Y1dGhMRUlSbUU4OWNMelQtZ01IbFNldFNIUmJlbkdfQ2R2MkdPdDFyRTHSAeoBQVVfeXFMUFd5Z3Y4a01aUGFEWGkyUzF4T1U0MV9fNTRNb0JxYmJrYWpXUEhMTnh3cE9TN1ZvR0Z5akRzbG1PQkRjZUdXbnZWTlM5Nnl0R21YMlJfcnpJTkxGdTQ1N0xJWDEtckQyOVFfU2kzcWt1OThiRTRfaS1UOWtGenRjS3JYdWFTUTRhZ3VmV2ZuSUR5Yzc1NDEtRTQyM1VfakpqTEpoZENzSmlPNUV4U3dWbjVsN29iZ3ktZS1sUzdUOEJCc0JRdnJ6TUlqZnNlSVEwdUtNLWFlM1Q2YTFQek5hUzNENWZwT3AxSUdB?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Berkshire Hathaway HomeServices The Preferred Realty Expands 'Dream… Innovate… Grow' Program with New Educator Grants Alongside Annual Scholarships - PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxORTVmdTR1a2FzSGtoUlotVk5EMGhMbTlzek5ldE9VTGV3QTR0dEJYZXVXd1FqRzBDam0tenpJX3JPUkN1RFhsdmk1eVJka0NuM1o5cXhQcTV4Q09weFpfT1M0WDVsc2tfMmxtNmRHQmhLM0Q4ZTBQb0JOLWFob0puaW9rUG1SUTJERjRKSXVXdVVydVJIdDlCb09LMlY1bnRnd1gyUWlmaU94eFIzSzNKbmQ1dXMzeTM0Tl9vYW1lU2Z4WUNoR3lmV25TRXc4aUhrelhKSGFUdzNnRW1fUFVjUXVXaU5CSXh3UUp6TTNiOU5yRTA0NzZIeHJBVjJod0FIUVRIZ2ZjSGNpTjRTY2REdTRYa0RwVkdiRzJlaWZRNmRpTVhwUHc?oc=5",
-          "tier": 4,
+          "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
+          "url": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
+          "tier": 2,
           "seen_count": 1
         }
       ],
       "no_signal": true,
       "deep_count": 0,
-      "watch_count": 15
+      "watch_count": 16
     },
     {
       "name": "Social Sentiment",
       "anchor": "Social-Sentiment",
-      "archive_url": "./history/2026-11-14_05-55/index.html#Social-Sentiment",
+      "archive_url": "./history/2026-11-14_17-52/index.html#Social-Sentiment",
       "stories": [],
       "watchlist": [
         {
-          "title": "Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb",
-          "url": "https://www.reddit.com/r/technology/comments/1xvnevv/live_updates_no_timeline_for_resolving_nationwide/",
+          "title": "Thousands more flights canceled as Duffy warns the FAA's aging system could fail again",
+          "url": "https://www.reddit.com/r/technology/comments/1xw6t73/thousands_more_flights_canceled_as_duffy_warns/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
-          "url": "https://www.reddit.com/r/technology/comments/1xvjsxv/faa_issues_nationwide_ground_stop_due_to/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "When Will the FAA Ground Stop End? Here's What We Know So Far",
-          "url": "https://www.reddit.com/r/technology/comments/1xvmakd/when_will_the_faa_ground_stop_end_heres_what_we/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "FAA issues nationwide ground stop for all flights",
-          "url": "https://www.reddit.com/r/technology/comments/1xvk949/faa_issues_nationwide_ground_stop_for_all_flights/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-          "url": "https://www.reddit.com/r/technology/comments/1xvsezb/nvidia_allegedly_engineered_scarcity_by_funding/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "FAA launched new AI air traffic tool three days before national ground stop",
-          "url": "https://www.reddit.com/r/technology/comments/1xvowp2/faa_launched_new_ai_air_traffic_tool_three_days/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "NYTimes: FAA Ground Stop Lifted",
-          "url": "https://www.reddit.com/r/technology/comments/1xvppm2/nytimes_faa_ground_stop_lifted/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "FAA SMART AI system vendor and Microsoft both say ground stop isn't their fault",
-          "url": "https://www.reddit.com/r/technology/comments/1xvo5kz/faa_smart_ai_system_vendor_and_microsoft_both_say/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Live updates: Homeland Security secretary says ‘major engineering defect’ took place",
-          "url": "https://www.reddit.com/r/technology/comments/1xvqaol/live_updates_homeland_security_secretary_says/",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Mass smuggling of up to 1.5 million Nvidia AI GPUs could be the underlying cause of Jensen Huang's departure, leading analysts claim — more than 1.5 gigawatts of banned chips tracked to China despite export controls",
-          "url": "https://www.reddit.com/r/technology/comments/1xvpr68/mass_smuggling_of_up_to_15_million_nvidia_ai_gpus/",
+          "title": "SpaceX not being honest about ‘political’ reasons for slowing Starshield, says Zelenskyy",
+          "url": "https://www.reddit.com/r/technology/comments/1xw2euh/spacex_not_being_honest_about_political_reasons/",
           "tier": 4,
           "seen_count": 1
         },
@@ -442,38 +287,38 @@
           "seen_count": 1
         },
         {
-          "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
-          "url": "https://www.reddit.com/r/technology/comments/1xvp1jn/jensen_huang_basically_lit_more_than_1_trillion/",
+          "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal broke",
+          "url": "https://www.reddit.com/r/technology/comments/1xvvahe/nvidia_director_sold_nearly_1b_in_stock_weeks/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Before His Ouster, Jensen Huang Belittled the Executive Replacing Him",
-          "url": "https://www.reddit.com/r/technology/comments/1xvdhsg/before_his_ouster_jensen_huang_belittled_the/",
+          "title": "Will we ever get the truth for the Microsoft outage?",
+          "url": "https://www.reddit.com/r/technology/comments/1xvzktn/will_we_ever_get_the_truth_for_the_microsoft/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "National Weather Service reports nationwide radar website outage amid FAA ground stop",
-          "url": "https://www.reddit.com/r/technology/comments/1xvlnto/national_weather_service_reports_nationwide_radar/",
+          "title": "Outage at HR platform Workday locks millions of employees out of their account",
+          "url": "https://www.reddit.com/r/technology/comments/1xw0nu6/outage_at_hr_platform_workday_locks_millions_of/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "This Week, the FAA Rolled Out AI Air Traffic Management. Then It Grounded Flights Nationwide",
-          "url": "https://www.reddit.com/r/technology/comments/1xvrcj8/this_week_the_faa_rolled_out_ai_air_traffic/",
+          "title": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+          "url": "https://www.reddit.com/r/technology/comments/1xvsezb/nvidia_allegedly_engineered_scarcity_by_funding/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "FAA investigating whether new AI technology contributed to nationwide ground stop",
-          "url": "https://www.reddit.com/r/technology/comments/1xvnpgg/faa_investigating_whether_new_ai_technology/",
+          "title": "U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible — ‘I think it is important that anyone at the company there be held accountable for that’",
+          "url": "https://www.reddit.com/r/technology/comments/1xw5flq/us_treasury_secretary_questions_whether_nvidia/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "US National Weather Service says its radars operating normally",
-          "url": "https://www.reddit.com/r/technology/comments/1xvnpvs/us_national_weather_service_says_its_radars/",
+          "title": "A network crash grounded every flight in the US, only the third time in history",
+          "url": "https://www.reddit.com/r/technology/comments/1xw1bdr/a_network_crash_grounded_every_flight_in_the_us/",
           "tier": 4,
           "seen_count": 1
         },
@@ -484,14 +329,32 @@
           "seen_count": 1
         },
         {
-          "title": "Quote of the day by former GTA 6 and Red Dead Redemption 2 artist David O'Reilly: Sony and Microsoft can’t compete with Rockstar because “they do not care about making game products”",
-          "url": "https://www.reddit.com/r/technology/comments/1xvda3w/quote_of_the_day_by_former_gta_6_and_red_dead/",
+          "title": "Company Behind FAA’s New AI-Powered ATC Tool Denies It Caused Nationwide Flight Chaos",
+          "url": "https://www.reddit.com/r/technology/comments/1xvyado/company_behind_faas_new_aipowered_atc_tool_denies/",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "North Korea steals $400m from US tech workers in video call scam",
-          "url": "https://www.reddit.com/r/technology/comments/1xvj6ch/north_korea_steals_400m_from_us_tech_workers_in/",
+          "title": "Slate Is Selling A $30 paper atlas 'Screenless GPS' For Its Low-Tech EV Truck",
+          "url": "https://www.reddit.com/r/technology/comments/1xw4kwi/slate_is_selling_a_30_paper_atlas_screenless_gps/",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "Italy's data protection agency fined Meta Platforms $887 million after finding the company had accessed Android users' photographs and videos without obtaining ​their consent or informing them.",
+          "url": "https://www.reddit.com/r/technology/comments/1xw2am3/italys_data_protection_agency_fined_meta/",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "Contractor turns a Milwaukee Hackzall into a portable Ethernet untwister after facing job requiring 50,000 custom Cat6 cables — built with 3D-printed parts and a toggle clamp, straightens pairs in two seconds",
+          "url": "https://www.reddit.com/r/technology/comments/1xw4aet/contractor_turns_a_milwaukee_hackzall_into_a/",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "Old tech blamed for the ground stop that caused flight chaos: 'It got overloaded'",
+          "url": "https://www.reddit.com/r/technology/comments/1xvt2fi/old_tech_blamed_for_the_ground_stop_that_caused/",
           "tier": 4,
           "seen_count": 1
         },
@@ -502,38 +365,32 @@
           "seen_count": 1
         },
         {
-          "title": "Fired… but you get to keep the MacBook? 💻 Canva’s layoff package, the 1.35 lakh+ tech job cuts of 2026, and how to stay job-ready in the AI era. Has AI changed your work? Tell us in the comments 👇 #iSmartShiva #TechLayoffs #Canva #AIJobs #ITJobs - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVFVCRkNvS3dQUEdRMnZZczlISk1ZaG1qR2tKRnBfVHlaYkE5ak1jeEh0b2U3cjZfancyU1BNMWRVZlRMU2twTVFMck5CNmZ2QjFuV3I5Z1V3Q284T294eTdRaVdPcHRzYWsxT3o4X09MNjRJM05YS1NLOU1ZYXNZQmNwQkpWZHh0SFZSdmNTdEk4cHRySVVNZld2UTdMVlRCamRWU1l4blVvMlg3T01WQ0lLenlNWGRZWFdCQUc0cEFrTjg3ZnZla1k2MWs0WS1pU3ZnRGJDcW9GQU5Fcmc?oc=5",
+          "title": "\"There are literally no jobs that will not be affected by AI. We are talking about an entire fundamental societal and economic shift.\" Read more: https://www.buzzfeed.com/victoriavouloumanos/jobs-and-industries-impacted-by-ai?ref=bffbbuzzfeedtech&utm_sour - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR1I2akc3YVVLMmNsZjdabVBCTnZ4S1hMWEY5LTVBd2E4cUY0QnRPbVlFY083WURyVUxvMVREbjd3YlJicGhWMjVxRjVaYmU0WEJtdnhsQUZwcnpOUC1mRG44aXBkZlNDb3VyX3BBN09LTXZkNkkydVVZeXgyUUhGQW5fX2lCcFhVOFlaTDVvM2hHZmpwVk16dFhHUWV2cHpvX2RMWWIzU1YzTEt4M2N6dk1uU2VhV3RJeEdPTzV0TE96UTV1c25ZRFFselY0bTBROVpUVEd5TWlpUQ?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "AI and cloud companies are becoming an important part of the UK's economic growth. New figures from the Office for National Statistics show the UK economy grew by 0.7% in the third quarter of 2026, with computer programming and consultancy among the s - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fbi1wU3FidXp2NGVDRlN0MWNqc2o3aEJkUEc3RmZmYTc4WUVPaVlQendMLWh2LTgzaE0tVlFISnp6S2p1d2FIMmY4WlJMN0lGQXQzTERNeW5ncEFHN21xVHMxTThzSnYwdVktQVJVdk5PaFhfQldXRTVKVQ?oc=5",
+          "title": "Is artificial intelligence taking over American jobs? As AI becomes more common in the workplace, workers are raising concerns about job security and how difficult it could be to find new employment. - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMmxDLW1NQnhCSW5QaHdibE1Zd3RETGdSVWgwRkpTOE5BcVI1c1dzN3JGOUZ2SlBvZUhhMmxPa2hIWHc0dG9YNkhPTzEtelVRRC0taG9LbE9teGF3N1JrSGVXNXZ1RFE3U2xSdlh1Z2xFRXpoaUxLR2hSWlduQ0QtYXJnWWJLTXJCM3lsbGdYaThjTkhBUU92T2VHZlF5NzZ1V1FOQmFNQWFhQ0daQzJhVFpwM1F4enFsNVBiUDZBMHZQYUpFYk4yVG5VQUNxTEFuaWFyeUdR?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Bloomberg. . While US AI companies are struggling with a public image problem, Chinese attitudes towards AI are generally more positive with the government leading the charge to turn its rural and inland regions into AI-driven manufacturing hubs. Brad Ston - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLVkxT1doaUlTVmRLemVGVTN0dnk0Y2R3NGxuSTY2dHJfWjlzLWNEWFdhZUN6VDByS3ZOaFVYajlRYlRkR205T1Foc1BQQ2xjMi1saGlWNHBqc2pDWmxPY0JBU0x2WE5xR24wWS1HZ01faDNxU0xVZXZ2S2E0aFJVbGlHV1MtWGdnbGJqOER6SXhnY1pXWWxzV2JENVR6RkJkZ1lCUjJ2ZUlHQjNGcEpxUU9tRlJlbkgzNzkyeFd3Y1VWV3lOYnJFNnc2ZWtGaWc2cEhhVEVpT0pVUmZwR2dXT3dR?oc=5",
+          "title": "The dominance of Chinese manufacturing and the rise of AI could create new economic imbalances and strains on a massive scale warns Yasheng Huang. - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLWFqV2tTWUVLYUU2Z2dUaGZCT2hXWkFieko4UVJQOTlZUWRScDFNSlFKdkJqUktRTXZUWXFXX0JUT2QwX1AtS0IxN1l2SzNkNGkxeUVOT1dySTE5a09ZdklRX2ZRUUFVbENMdTdpck8tdFdCbUZWNWFSVFMtdllHejBOY2s4ajJlakhSeWJBSW5VaFhlWTBYSW9TVDZiMS1jZC1EYVo1YUJtejRGSGZuQ3U4S002Y253MnFUSmtrNXFJWFlzTzFlVkF5aS1ZM2M?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Even with an AI boom, it still takes too long and costs too much to build big things in the U.S. - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbTh3SXBpd053Z2h5X0RZS0gzZTVyODhZSnAzME1hLTZWZ3JxN1hTTHlGZ1RSQVhYTE11VnlTcnJTbWlfRXlzM2txdFQ1Y3FsZFY0dHlacExyejJCS1dvTWhsdEkwamFzaVpLRi04V2JMOHM3UE5DckRoanh6VGl3ZTg1bGphNGJnMFBjb3hoNHJremZwUWFQSmZxWmU1aWtxR05mWkdPc3I2Wk9LTEFJTGNYN3lxd1BxTDU5T1BCUjZscTNZSWtnRW43N2hrZw?oc=5",
+          "title": "China's AI Industry Loses 'Ally,' Rushes to Stockpile Chips 👉 Read the full story: https://news.sbs.co.kr/english/article.do?news_id=N1008846053 #SBSNews #Korea - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWktQb3JwWU1PQmNPdE54YjlDbDlQVkJPYlRmZTZtY3FrOEZEZjc2T0FOTG5UVm5hSUMwa2VyOE93dFNsSk16cVhvbVZOemFNWWo4Mm1NR1IwNUVtYlVsRjVaMHpmUWdZNXNIczY2SFVVaWhMaVBwdmdZZ1NYbmpHR0pLVTBNQWdWX290Qlh6Z3kwUmZIRWl5elAtbWR3RThtQ1dleXl1bk5BdV9CRjZKTDd6S28tRWJ4dHlRMExlTzdUakNqRWJWVXdfZE42SkdMaWVNbQ?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Artificial intelligence is transforming the American workplace, but it's also raising a difficult question: Are companies replacing workers with technology, and what happens to the people whose jobs disappear? - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcl90dVNuUDdaLTNCVXpURzF1cmdTalJMbkY0VkZNZ21lMzdDYXRESFRYN3JkSXJUMlJNRzVHTlhFVmczV3ZSNFp1SDlMdWliRzdZb0RlenllRUs5dTFmeEYxNUxkYU11djI3NkZwQUdRUDl4MHUtNTdTbmJ1YzZ1bXhWN0NoczV5dWpxLWtyMERGUFUxOFBNM3p4clZabUlBNVA3OFpJZTZpdUFGYVV1WVRrOC1UVW5MSWN6MlNWS2F5eDdpeGxiRWFQOUxFODNUWUxoWVZqeWRhUQ?oc=5",
-          "tier": 4,
-          "seen_count": 1
-        },
-        {
-          "title": "Artificial intelligence is transforming the American workplace, but it's also raising a difficult question: Are companies replacing workers with technology, and what happens to the people whose jobs disappear? - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa01OeTJTZ05uU0J0RFVGeXJCYUItUUNHT2hJZm5rdDhGR0tKdTFzYndxOXJiNHRPcm82N2ZvZzYxTmstaEdRWmJqSG5RYnM4a3o1QUt1MHFWYlNxRUZIWGQ4dm5pRWVZc3NHZHlRTXlrQmhFdDNoMmR2YmdqOWU5OTZoMWtEWDE5djBVczdBdEhCM3lLQUZTVTJUSUJzWHZ3ZnNXaVhHRU9SSjRWZ1ZKV08wOXNfSjVWUl9yNkQzRnhKUmpJUHFqQ01TS25DbGx6VFhDb0Vn?oc=5",
+          "title": "This was made by one of the AI Film Making Training students and it's a first time video, using free tools for that matter too ☺️ Oya o, did she try?? Give her a score from 1 to 10 in the comment 👇 #mandyrachael #creatoreconomy #aifilmmaking #aivideos #aitra - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZDlWNUlQZzBqMHpBWWs4Rmo1X3dKLTdnY1AzRUVXZDd2dGRqTHg0OUVNbEI5X3lrT1hiaWhBVDZkUkRTNkZGMjd4bHpuWUx1RGI3WVdWa1gwQm5OeXNfSXBEdzBobnNDbGdMaDVBZ0E4OVJ3X01hMkd2V0dhNDc3ZnJ2QUxwc3JldzV4RTl4NnA5YTh5MGZUNTJCeV9VY21vWlNxZVg5UmFEOFNxYVJwUTlyVXpubkZTRVRSMUoxejktaGpxdmR5bEEzWWJqV0E0Nzk3MXgxYmo1dkQy?oc=5",
           "tier": 4,
           "seen_count": 1
         },
@@ -544,8 +401,20 @@
           "seen_count": 1
         },
         {
-          "title": "After the enlightening panel about how innovation/AI may be transforming the music industry, I knew you had to hear this! SALON DES INDUSTRIES MUSICALES D’AFRIQUE FRANCOPHONE #SIMA2026 #MusiqueAfricaine #BNTravel #BNinCotonou - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNG5GLWF3eEZuNmJHMVUzTU8wdkhJNE1RWnVKd1hvTzM4cG5scUpBNDRHaWJKRWttNFZucmZLcmxMRGdpR015SVhfeXFLTzRXUUF3QWxtc0hLNE9tS0M3cGxJdUhRcE5jV3NUMlJyMTBmRm1JckdqU2t4M2xORkdjWjNwck1hTFJTaGFveVdSUThWQWh4S3VLdjVfY2puMWk3UFRTYUlWRjAwN3lielY5c3B3ZmR0eWpaVkRRaHlEazBEY0V2TUpfaEZiWE94akdEdDNxOVE1QQ?oc=5",
+          "title": "Has the AI frenzy fizzled out? Find out in the latest issue of MoneyWeek magazine, out now! Get your first 6 issues of the MoneyWeek magazine for free: https://moneyweek.visitlink.me/9uO2Sc - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOUNKbV9PV3N1SmdwR3RJRm5XcU1Ed2xTLVQ4bkVadWMyOHl4RVJ1b3dVSXhxaXl0eUJuNDUxWUpIOWp4VG9YRkRMMHFvTGE0Tmp4VVRBcWNzYUxZUlIybTZ0bGE4UUkwZGU3ZWRvZUpKYjBIRDhGZ3pWRF9VRC1VbzQycG1FYWxXWkV4RWJqS09hcEJlalRBVUM5MlBKQVFaYXFEUVdLdmpoLVRfZERFeTVJMlBQTDBwaXhaRjY0aGlKOS1pLUloaUVIQ0hFNW9QM1d5MldyRUk?oc=5",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "\"There are literally no jobs that will not be affected by AI. We are talking about an entire fundamental societal and economic shift.\" Read more: https://www.buzzfeed.com/victoriavouloumanos/jobs-and-industries-impacted-by-ai?ref=bffbbuzzfeed&utm_source=d - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOFRIelFYZVpoT0M5X0FpUDhyMkF6YnluZGY2U3JPNXpCZG9jcGtPeHZDbG9ybXF2ajJXM2R5RExnV3BvS1JkdGt5TnlYeGp6LUtZM3REUlJ4ME9VdUJFdzJNMFhINFgtdV9MN1E2Q3c2aU5KVlpSN3RJeXYtSlpNdWZoMTVoOUJKN241MjNobmlHcmJxOEdIcnlJbl9SWVUwLUJKTy1ZRVlqMk1WbFZOZTdXYkF0ZU5HUENISE9ncFB2a2QzbF8xM2RlZkNVanBmOHJ5eg?oc=5",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "#HTLS2026 ✨| “We are increasingly, in a sense, digging our own grave with this technology.” Stuart Russell on the dangers of AI systems that can be directed towards harmful ends. 📺 Watch LIVE on YouTube. #HTLeadershipSummit #NewRulesNewRealities | - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOGNCQmV4Ti1sM3BKSmxycUs5ay1wNHdLWDlaenZvaFpwZnBNTktNRENRaTNyTkNSZjVNOHhkQlFuaDBJdWdpOHhlZnd0ZkZTclpMMUhaX3ZFWTdJSG5yZ3lNNTlKR1dmYTJjWm4wS0EtYmdkTnVBTjh5Mk9mUktoYWM5enR4WnM4RGpocFZFWGI4M0o4bHN3Q2h2a1FWbUJsNmlBVmNoRUZnb2g2eWc1SUxXdnh4VHNZcDVlNkFpb0U4Y2lHS0VXdHItSXRiNXZhcC1fZVF0Z3FCT3V1?oc=5",
           "tier": 4,
           "seen_count": 1
         },
@@ -556,8 +425,14 @@
           "seen_count": 1
         },
         {
-          "title": "Bloomberg Opinion. . What unholy strain of consultant speak is “delayering”? Corporate managements are using the term and other euphemisms for job cuts or hiring freezes far more in the age of AI, Jonathan Levin says. Read more: https://www.bloomberg.co - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONTA3eGU4cDZ5cVJOeEpoSmg5OW50cE1EbVRFc1ZqRWQzRjhQd3ZtS0R1RC1QQzE2ak5hYl93dV9wcGxURjYyTDAxcERCdTdjVXJFVmljR2ZVLTJkb3B4N25yMDJEdHZMRkhma3ZvYlV2ckdMYkNNdTR2MDM4dUpqa1BCd3prQk5SSF90UHNyM1QwN3d1NDVxeWRRcWRISThVdjlKWmJLWDJieTVBTDZkekw1YVdicnlxOXhwRG14dnZnbkY0ZlFwWVZKdk1semZLOXdKTmVLZjFDN2pDR0syWA?oc=5",
+          "title": "Anthropic's IPO could shatter every record in the books: The AI company behind Claude is targeting a $90+ billion raise that would outpace SpaceX, Meta, and every U.S. IPO in history — all in the same year. If underwriters exercise their full option, the deal co - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWFRKeDVpSlE5bDllc0lBVGF4UEtSMFBzdXFiNWJEYnJadHpfUjBHb2NIajFQeUktc2RVTUNSTTV0MjlHeVYyNUVXLTROM0hKdzNKaDBXM0x1Z3hNNm9IZlZoVm8zRUo1aEdiWWxnOHVVYTNxN0Myb0dRc1hTVEZKT1JBVUdPdFNoOWZaMHRLNEF0ZHM5QkdTamJlZ18tYkFzTXg0MmhsVW50YUh5ODNVSEV4WTc5cm05aDgwaExMVmhyMkx5aDM1a2JVR2RZTGNvTWVQOHlzYw?oc=5",
+          "tier": 4,
+          "seen_count": 1
+        },
+        {
+          "title": "Saudi AI firm Shaffra helps firms save up to 800,000 work hours using digital employees - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM083cUJuTEJyZ0pVelYxYzFjeXNXUnAxMEJ4LXdCUW05dmw3LVlXVFFRcG11dFFtVy1SY0RZUm0tUWFlWDlXZy1DWUN6ZlNOR2x1dF9PdklxNFJ0MG04Y2hqT3BVTW5xNzhkSE1zYlBCSlAyZ2FzYkx2MUVrVU42eWhWWHVzMFlydEl4dWN4VHRpcU1KQXA1OUg0V3lZSGFESV9MT3VYdTdkckxJZ2tUR1d6MmhYUW5KU1VRQ1MwaGxSWkUwME5yblEzUkExaHJ1eWVlOA?oc=5",
           "tier": 4,
           "seen_count": 1
         },
@@ -568,360 +443,337 @@
           "seen_count": 1
         },
         {
-          "title": "Does the future belong to the most powerful AI… or the cheapest AI that's good enough? - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPXzIxQlNjSUtlWUl2c2RqRklESHQ0c3lyY2JlT2UydFEwZXNFeTQ4ampVRXJULTRuc19kUHIwOFNQdVhJMFAyaWE0NFpJdDVJeDhjMWhQVklKdHYySkxLQTNZcVRvUm5fMFA0QnZVM1NZckRrckZJU1NqeUdWSHpWQzR0UDhPeXdBUDBJalFISkdOMGZuRFJPNk9OZTJ0dWw4ZFBhajZNWWJMYzZZd2phZWlwVUlWSkl2WDB0NFI5RU5IRWx3UDljWENmUXVPTVVWSUR1Q2hkdFpBRFpSek5V?oc=5",
+          "title": "Ahead of the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting in Shenzhen, China, India Today's Gaurav Sawant gives us a closer look at the futuristic AI-powered robots. Designed to assist with public safety and law enforcement, t - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSUxxZGJsVzZwaXZGemtXUlJGYWt4bFMyMk1hUFdNYTZrYTAxRXJtVjdFdEdleVcyRm9rZnZvWGJLQjVfTDZsS196R2FYLU5nd2J0MlZJbUV0SGZaMVE4WmdRSzJ5UWtjWkNSWnN2SGdFOTF4bDVQTXV6X1AzYUFFV0I1VXpSWlZOWTJmNVVMMG05dGF3S2VQQzlYUEpRXzA0NmVzY0JZb1BwSjJ0TVhBNHptZEV2NmZCN3lyVE54THdjNU5DMVFBcWlvOFVxZTBQdFk0RnFSdw?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "AI gets the blame for tech layoffs — but the real reasons are messier Nearly 110,000 tech jobs are gone in 2026, and companies keep blaming AI — but the actual causes range from data center debt to years of over-hiring. A close look at Oracle, Microsoft, Dis - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc2dvdlA5aV9yNVlSRUoyM3ZVMmJWTlppcEljTFFLTmpQckhPTHdZNGx2cUhkRy1xeWczQWpWbGw2cmd2aWc1LXl6NF9WeG4xMTFGckFTQ3hDT3B5dlNjS25Ba1YtR1lsYzF2b2MxaVdtcS02T1B4WUJmSnBhemZreC1wNVc0ejM1RDdZd1BzY1BmbVhNLVhaZEpRREtLd29wQjhTa2VHSDNQSUU4WlllRVp0aFk5Z1ZOTjNyR2hKZnpPajNrc2gyTVYtcEtMSEZ6UlYyUWp0SQ?oc=5",
+          "title": "These 6 battered AI stocks could bounce back big, an analyst says - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX2JPd05HOG1MVklYVEZmLWFucUczOWxvd2ZPUDI2aVJvM1BDdDJRMjBGbWxhMEZDbnFQaGVTQWxiODVaMjl0Q2ZlQ0VQWGFnTHlNYndTV3hJUUNVRkhJeGdmSnNiSFFXSWdJNXZQT2ZWbGNmU1A0VGIydktUV3hPQWxfUTRtSWpjQUh4M29FOWYyUTd1S21fTU5WbDhPWWV2VXdMUGJFRC1wcF92aFduQUJvc2xxQi1UaGZjTmtPc1RWMXM?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "AI isn't going anywhere, but what does that mean for the future of jobs? On Let’s Talk Local, Congresswoman Beth Van Duyne discusses how AI could transform the workforce, create new opportunities, and why getting comfortable with this technology is more i - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV00zYmtoX3NLRDhOWUhVQ3lKRGc2Y082U0J4M21MYXdfRWN2TjBwa1VINkRPVWltVFJuR0M3MlcwTmpXY0Q4ZHV6LWIzWkFucjk0Q2hHLWtFUmtZLUh6cE5lay02Z0VsOFExU0lEc0U1ZUx1dnU1OFl5dExUVTI1eWduVkVSUElvS1NTMExPVUZnd2NKc3I4MHNMSUF5d1ZnVElad3FxNmZQRXN3bXlfSmllWGV2eWRBY0VRbUFkakxMUW1YSWQ5RTA3RW9BNjVDUzBCWTlPTE02Q3dSN2Fv?oc=5",
+          "title": "Ranking the Best New Tech of 2026 - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUlYYWNSX2hFakRMYnRxVEc3dlQxLXVqREVnS2xTQ0E1ejBpeHdKUkRBX2JjX3N6UG91Q1hpd01FYVYwU3VQTG9fVEhIbnNIODVpZFRSN2plZnlFMm1YdTJUeFNaNDBfbFVHYTg0a21XNXpFTERfcEFWX1hfOFpGVjRyLW1yekc1TzlKV00yQjdnWHRrb2JBeVN5RGwtYm8?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Why is Anthropic going public now? CEO Dario Amodei told JPMorgan Chase CEO Jamie Dimon it comes down to having enough cash on hand to keep investing in computing power, with market timing a lesser concern. - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSXdSYk0xdjZxeGlwRTVyVHNkT29EQ2RfRGJHUWRUTi1XQVpiV3ZpUl9TSGEtdU9WQnRWZ2hJNkZKSXh6V3REdWFrQkdLQlhEclB4dHVESnlveHVicjZvVmc1bmd3V2tJajJKVW9IUXV3RkpTWjlBTzJKbWg0V1AxYmswTTExYzQ1bHV2dlY0SXJ3RmFkS3VsQ2dKempCdll6TnV1X2FBRndXbFQ5Y2RTUDEtcTI5endfUENwbm5jSi1DVjhFV2ZkR2JEUjhwUV9YVVRYdGhzVUIzdw?oc=5",
+          "title": "\"There's no question\" AI will pop. TensorX CEO, Tim Grant, breaks down why the AI correction has already begun. Can It Scale? 🎧 Available on all podcast platforms. - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRWtHZ29hNXZHcUZGVG03Y1FremhhSEs4OEN2QzljVEstZEdBRHU3bG8tWmZQLUc5TEdWY2pJZjZ2S0puZUt0Qzk0X1Fwd2JuWFNnYWUzdTNIS0JaOXJvc0NJQWdfYUwzeUZOQWNTRUt4bWV2UWVzbGd2MXI1blZ0SVBrbTVIc2cxZTRtNTRmV2Q2bU05YVkyOXBRN1dSdDJnbDZxbjIyR296Zlo3RndjX2hXSU16ZG1wRVlya2JWX0hjUDM4Y09scWUxZkpXX203SlppNU9fQlZpc3ln?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "CNBC Fast Money. . With markets closing out a volatile week, where do we go from here? @pboockvar shares his take on why investors “need to diversify away from the AI trade”: - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZmJwNnU0cU9MaklaNElqZGlLY2NNeGRId2IyS0FaNTRwYmp6Ny1nV05aNnpoUjFXNDh6bVRJNmdTNnFPQldNV19aM0V1b0poYW5DUjFJMUhJS0RDZTdtaS1YdGY4bkl6UzFaYVFWeFA4eXFwRjNWemRlZkZJVDdmcFZtdzJSY2lILW1XSlFZOUZHZW8?oc=5",
+          "title": "🔗: https://bit.ly/4zD20D3 The number of U.S. workers who say they have experienced a workplace reversal that could signal a new trend in the labor force: their employer replaced them with AI, only to ask them to return later. - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQODJzeXlJY2cyRjRSRFRscExQcUhLeGRxVHNxdlVPOU9lZEc1Wm16ZEdTN1FEQUZtaTJ1a0drS2thalF4U1dzNFBDV2QxTEl3YXZkdWhMM2dGTEY2UnhCcnltcTE5RjR4N01pUEo2ZWZIQWNYai1QOXpHcXF0Y240TTNlNTZCR2o1Y21Dd0ZPWTJkR0IzellmcHVjb0RGWk5QQ3NIa3hxYkZtbnctWUdkeGY3ZUFlMmdyX0VUVVE5SXhxVVhBcm5zaklGajk4ZTdlSTdoMWRVTjhvMEZCN1E?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "In his latest memo, the Oaktree founder said that rapid progress and development of AI puts large incumbents at risk of disruption from competitors. (Credit: Getty Images) - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZGdhNXRwM0hOcU93d1pmQmpQMFpYRE9qX05qREZ6WUtfN1JQbVNVZ3ZxX0Uyc0JLMklCdVYzQ3RZVExCekJmQ2JfblBUWXFNU0NMZElkU0c3SktPc21ybXRrZWVVMjU2cTJPU1BrZm45LWtIMHVFbzJnd20yLUhMZEZSamxqaXlkVGZvVUNSbUdWWWxMZ0JpSGVOT1NxalNIc0JsejVfYmlZcjFpa3NmOS16WnpkVUVYMWJsNXhScFl1QW9Ydm9nLUFuSGY1N2pST2FVcURnUENKY0d3TlE?oc=5",
+          "title": "𝗣𝗮𝘅 𝗬𝗼𝘂𝗿 𝗧𝗵𝗶𝗻𝗴𝘀 𝗳𝗼𝗿 𝗦𝗶𝗹𝗶𝗰𝗼𝗻 𝗗𝗿𝗲𝗮𝗺𝘀 𝘛𝘰 𝘥𝘳𝘦𝘢𝘮 𝘪𝘴 𝘰𝘯𝘦 𝘵𝘩𝘪𝘯𝘨. 𝘛𝘰 𝘱𝘢𝘤𝘬 𝘧𝘰𝘳 𝘵𝘩𝘦 𝘥𝘳𝘦𝘢𝘮 𝘪𝘴 𝘢𝘯𝘰𝘵𝘩𝘦𝘳. In the sprawling landscapes of New Clark City, Tarlac, the national government is preparing to build the proposed United States - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMinwlBVV95cUxPbV8zRlBPam9SNXJnbFdEOGJBYnM5ejlXNWQ2ZU9yNFJwZDZPMnRnRzVnMTBIOHAyeXRDeURHcjhsUTlhZlNpWl81c01kZWFqRXJGMXFrV3ktLWg0M1lKRGo1N1hyeG5HZk16QTlabEFBS3VHaUhCOFNHdF80akIwOGN5ZFpQV1JuaEZoR3B5Z2lpUEdDYXF0MHBoSHBOZ0xzQ3FiT2ZyYm1ERkMxQlU0YUpfMko5al9Tc0M5OVh5TFZzNnFRbUkzZDR0VWJoNk90YnhZcWl6bUc2VU90SVNBS0dBUWpybl9MTDhtYnFUX2dWUEZ5SU43NlU4VHdza0pTNmNjS1l1QlZIcjJUdmlpbW5CX1lGVDFBcnVWV0tHR1F3cV9zRmgwcWZvbm9rVzhUbUtHOXhGcV9mNkYzY29WWl90Y0pkdzN4S3lkQ0xvZW04ZUM3MVJSYldmYXlIUVpXdzJkWmtJeS1BWG0zUnJPS2pBaVRZVVRHSy1fT0JLZS1YeEhYNFl4R05nOWxRUk84RXNZZnpYVkloRFA1LTJoQjltQVhPTzhCQ1g0Ykh6cktjdi1SeV92VjhzLWdpQ0VTbHh5ZlBjR2xRQkthaDNLcEMxbC1BNWp5SFBkWk9OWXZUbU1FNVVYMXZpQnhwdzV6QUxVWU9pckdrS3dzN1V2RHZzV2VCUnBzemZNdy1IR0xuemhNa0VqU3VpQ0RiZGpmYnd0SlhYSktLd0I5MElYNXJUVXZFbjZER0I1d0VCeVVHbncxMC1tY3VIbURmT3NiWG9HdV91Q0x4M2lHSXUzUjh4bGFZanExMlY4UGhiNnl5WFZRbzJjM0tWYWQ3d3JWY1ZGUFI2NHhNS2tERnRKbVloUXp4WDRuRF9mQ0V6bmF3blg3cFJVamJXMHl1S09qLVFNbldRS1ZCTXI3dHZFNTJvaGltcTdtTmJ5aUVOQ24yeW12Q2RXTzJYVXRYR2tmZlFnZ3V5U1pYT1g5VTl4QXlGeW9OWWp0SzRMd3VrNVVETkVkb0RaX29CYU1OY2NFSzlQQ09ZX0tfLVpZSDVJek43cWNLMllwTWhVd05nVHdMWkQ1SnNTZ2VjQnJtVTllVG10V0E3enBmNWR1UjYzV1liNHAwdXc0b2ZGeGdJUHhTcDkzazR6VDBrcDNEblBFTjUzeGpOZmxaQmJjTmpxSGp5OTd6MXJ6YjNPQ1NBLTNnemRaUU1obmlWYnhRX2FvVXI4WEJnWTJORDFVUzUyWjFzdzRzOWkyV0gzXzVWX0hxQWxqcXFSSG5IenZzeUhGdzhFRXV0Qm1MNHpDSU1WUHp2aUFhZTNSTElxODBCaW1JLURiZ2hJTlZiRUN5NlJrbkw2MGRYbWMwajBQMXBKeVlfY0FPeTVXNnRHUEFYY3REM1YwU3UwazBSRUpESWowOGktSDJQazd4ZlNzSlBQLXlJbHg3TjFBZUh4TTFLYzVLNnlqXzZ1VDM5YllyR1prQTZLWnRBOVFFcFZheWRXSEZKSDV1bHpfdTY1U29PNUFEWVdWNEpJWjZVRlJEcVFjYWpMN0JPWThzSFFhalBZ?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead Click the link in the comments below. - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUHVBWk1DRTBoa3VJVTNUZGhndmV0bWF0aE5tbGdTampVOWNSQW9vcGVSbUpUYnZCT2g3N3Z2N0ZTbVFRbHRPTkhDdUdFdVdtSmN3YWc4YVROWHFxZEttaTY2UXVWY2FDbmNfX2t2a3dvdmo3MHJYSWxkYUpRUFdVU0F0b3ZoSXhVUEtPUEZKRTJkVGNMY1RSSXozMTF0cUNBaldVbzAyNEJMdEZXWHA2ejN6YVdzRTRTNlRPWlljUjNjc1p4ekRDSGpXUXhjQ1NBMlgw?oc=5",
+          "title": "Hindustan Times. . India must build AI models rooted in its own languages and cultural context instead of relying on systems trained primarily on English-language data, says Stuart Russell at #HTLS2026 ✨ 📺 Watch LIVE on YouTube. #HTLeadershipSummit # - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaFMzUlZDZV8wM213eXdZRy1NR2RENm5RTnNUUFhoMkNiRVpNRjc5dUxmYm52YTVadWdKR0xaUGdwbmZkT3pHM085dFliZ1I2LUlqOHE3X1FfeWFOVUZZLVpKdXhsZC1kamI3VHkwakF3ZmdiVVlvbWc0cENWVVVhbmZPcGJQRkVLT3lqa2ttZmpLUGhIU3Q3Sk0tc2ZPX3ZIQ3lTUmJ3WXBwS2VzcU5VdkJjY01GWmR4RW9PbUR4TXNSem1saVQ4SXAxV2pXaVI1X0tVdWpzeTJ0bUhFT2c?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Markets are struggling to figure out an important question: how do you price AI? Find out what goes into the calculation on this week's Reuters Econ World podcast https://reut.rs/4zbERq3 - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQkpxcU5nTmZDNjVEQ1dTT1Nkei03QVZ2UVlPUXpwdFFETWNsM0FQYzQ0VFZvX2ZrVGVLMWxQdXdGakU3TUZyV2JXV2g1aXRuWVpDLTZqbXRmN1V4Y1gtZ3ctLXFCbUFLMXZnZm1xTmJUc3EzQVpEU3NsUWtraVRJUEdmczd1dFRMWGYzUW9aOEtsdzJjZkU2RzNKRnZRb2l0X2dHQ2pLN1c2dFQ0MkdIcFJNYi0xeUVqdW5wc1cwZFFOMnZDMFlKMkVrLU1iMy1ENzE4?oc=5",
+          "title": "What if AI taking away jobs could actually be a good thing? This powerful campaign, \"I Want AI to Take My Job\", turns the conversation around artificial intelligence into a thought-provoking message about child labour. Instead of focusing on how AI could repla - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUnA5TmZIU3NQWHJoV2NsMmZEY3F6bGl0RXVqWU9tMm1WR1BWZTd0RDBjV0JqN0JrS2lVTjVIdWZ6Y3k3NEVxQ29IMmNGM1J3amNnZzdSamtBNnZBTnR3eHlsSy02RjJmbVdjZlpreG1mMWYxYTJPZHN0V0FaNjVlYXIxQm9GazFJN3VrY3pFNWNLeUpxM2pfejhrenBrZk9IZ0N3Y2hYMHR1bUlULWJ5SWZmZk56QU9iMjY1UGtCSjdheloyNko3WGRzVnJScjliMGYwZWZXTHR6WnY1?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Artificial intelligence is transforming the American workplace, but it's also raising a difficult question: Are companies replacing workers with technology, and what happens to the people whose jobs disappear? - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ2YzVm1qRUhZTmtKODBIMWtRemdtb09LUkt3bWxaTlk0UWpqb2JjZEgxRUZFdEdZaTR0ZnFBUzB3UkE3OWxlaDcxN01lS29CWGVPU2t5M2dNUmhHSURWZGVvaHVxNTBIMXNkUE11RFkwRGVQRWFXY2tGQ01lX1dNaXJpZ1J5TUc2cE1TWXhMODZWUmZ5QXlQVHpRRXB5QVNJVlpFc1FoR3hLc19KX1BLcHAzWFdOWWNQODdqY1ozZzBITVNYV2xjcWphSFRtV18xUXRYWUxZaw?oc=5",
+          "title": "Nvidia-backed Nscale needs more cash — right before its IPO: Nscale, the AI data center company backed by Nvidia, has disclosed it must raise additional financing to cover obligations it legally can't walk back — and that's happening as it pushes toward a U. - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOREZ6T1NBc2lWb0Q2V0tneXZ1SUhmd1MzMkt2U0JQdkcyZ211VnQyU2pmWkpNcGlWOVlOZDR4bnVZenFqZUNCTTFlTE5BWkd2YmZlRWpvbUZBVlBVQTJpQkI3ai1mWG9JUWpmRm5UNkdXLUFRRTNnZmVyLUxYdzRWSF9jcVN1cnNfV1g1Wk5RX2JrT3NtV0hkYVNfVHplREo2RWJUVFFSQXRiNm9FV1EyU2JpVjBFNFdkNUtRSDFqQjBuNndEaVJSUEFoY2tMZ3M5WlFaeXpqQQ?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "Anthropic CEO Dario Amodei details AI compute costs, IPO plans, and its cash buffer strategy with JPMorgan CEO Jamie Dimon. (Credit: Getty Images) - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcjBJaXVQbnNfRDRpVkpNajNSQThvaWlPcHZua2hVaXo1d1V0UzRoZFp2OTUtS0ZscS1oV3dVYlViV0NqeFVpWEkxSG4yQkFLOGhIQWhXZkpSU3FuQ20teHlZVjBsQURLdjdZUHREWTh4ZTJQV2tESHphdTRvd2ROeVBac2NHUXM1MTdVN3lRZ2hLY1Yzb09CLXVZZVY5VkZleXFzeGV2SGZ5VkVjeDJvYjJfQnBKU1RVdkwyRG1WWmZqTDdGU0NRNHlwX0FLSXN0Tmg0SVN3eXA?oc=5",
+          "title": "JUST IN: President Ferdinand R. Marcos, Jr. has signed Executive Order No. 131, adopting a national artificial intelligence (AI) governance framework and creating the National Artificial Intelligence Council, the Palace said. The measure seeks to guide AI dev - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcGFoY1NubjlYb1pOT2oyalhfc2R6SEp5ZlNYaEtNcEMyMDVCcloxU1hmYVhnRGYwbDdNVzc2WFJ0UmNmQ0tFRWFZT1JrbjRpV1pTVEgtX3hzRmlEd0FxdHBlcE5KYVdyVmJxZk5qQUtXdU9kanVFZmVyemNiX1BPUmRlMnQwM1hwX2RlZHZPblJ2S0NtdGRXSzJsdTYzaGl6ZkM1YXhVQnVKREQ0MzVnSFFYTElvaWJiYUFySFpyNWRoWERPRl8xVlZCNWtkREdoZkRYOQ?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "AI rockets to top of worries about financial system in latest Fed survey Click the link in the comments below. - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTGduTUQwbThjZnZRblhWcG82aWY5YWVvY2RIUjJtaXo1amU2SEF5bUh3b3V1TkktODZtM0tRblZyYTdTVHoxTFBhbnZ1TGhoVGhTMW1LdWJlM1h5Y3pCY2pPbXMwaW5kaUF0UTRKY29lZF9qRVBwQjNFVFNDUVYtZm1CbmxaSWZCQmFRM1BwZW1ySVJsZTQycmNYdEZnZmdMQmMtTVczRTZzYmYyWUpSaHJCU3lkR1NlaGRzM2RCVzEwTXhIcjJ2UVhkU2tpNmNzamp3?oc=5",
+          "title": "Nvidia has said U.S. export controls have effectively shut it out of China's AI data-center market, but a Reuters review has identified more than $3 billion in Chinese computing projects built around the American chipmaker's restricted processors. - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTWNwNnd2NTMzV3BCRVhyb1BLWmMwTkM1anRvdklNT0JuYjBmRy1yR19hUlRadzVvazZaUjFkT0liTmpfV05BRU9rQlM4WlBtenVqRktSMEdkZjktRHJmYlpiQ0cxclI1THA0WjN2amZFZ09kOThXOWthdDVQZTlzVk9GS0pJNVFZRGpTX1FWTFdGeG91Z3U2Q0ZFR1lIQW9sMGxrSkF5YVZjQzhrQTRuS3R5OGZ4QWhSSlByZmZ1OC1vMzRPX1ZfcERITjBGeVRFMlFqZUZB?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "By now, you’ve probably heard the news that Nvidia’s co-founder and CEO has resigned following investigations into multiple extramarital affairs. It’s a huge deal for the entire AI economy. So, how did Nvidia become such a giant in the first place? - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMGlZeU1aei11Uk1HVFo4ei10OWpRUnl2ZFRxQjYwYzY5OWFJTU1wTE5MYU1NRHZHTVUtRm1MWFdJVEJSbHloMHMtRy1fTzdyWGJIREQwSk02dGNWREFDQ1FjaTBhQmlHMlBQTmZBLS1jNXpIZ01yTzRTenZtRE1SakpjY2ZIZjZYTmdiMVNzYjRESUZwNmJtbFBiQ1MtSDVmOEFpak9oVkpBNHpHdFdSTEczam5PUzNIZXlWS3FiQ2dReGcxT0VPcXdhcGgtMUZMWTVvVDF6M1RPWm5K?oc=5",
+          "title": "Zack Shutt. . ChatGPT's CEO Says The Demand Was Double Counted - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZHozQU9qSl9UU1EteXl5SFhMZTIxOGhPai1DLWRHMmZkVUF3V3Jjamd0Q3lFTlktWW84b2o1X1JpeEowM2MzV1F0b01BTmxZY2FMTFVidmp5blphcTZIbktSNkFmdU1VTGhpN1RHWjQ3WjJlbWQwekM4THA5b2o0VC1KUThjaVhxYW9GbmpoY2VDUFB6V2hJQnR0RHpCM3hjSjJsY0FpLUJKbGNpT1Bj?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "While US AI companies are struggling with a public image problem, Chinese attitudes towards AI are generally more positive with the government leading the charge to turn its rural and inland regions into AI-driven manufacturing hubs. Brad Stone joins Stacey - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVXdVWWFrOU1IXzdpU0JKQ0U3RzhaYkM1X3I5TG5ZVlVtX2FTZmdLUWxhTE9UWjVlMXZScWd6WHFRM1VBMmdPcUM1Z3FuWnc4elZ2U0hPOGRqRHZTQ2lHdk5nNTVoMjdPMjNZd1g5UVNWWERGcWpwNDZZNmM2aGFuSnZQZ2RHQ0hfak1Rb0k1YTROZ3ZWYUtlajFUZjY0U0MxNklwcVVYd3VnVkhBeEh2RUl5a2tXeEF3bjQwUDQ5eFlVTk1CbW5OUXFxaGloNDZkOFZGemJPU2ZGZVE4dlNrbg?oc=5",
+          "title": "#China's development of cutting-edge technologies like #AI and their applications in the elderly care sector impressed Philip O'Keefe, a professor from Australia. He hopes that as the digital literacy of Chinese #seniors improves in the future, the use of AI can b - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTy1XbE1HRTNaUTJsNDBHVXVoQTJVSlQzWnY2WFBxYWRzT1JIWFp2SW1tdEtiU0E1VXcwdC16cDFLaHdSM1gxOHdiMmc5eEc5MUVnZUxkZzdhcmFnVTV5cTlZeFRhNHdlSlhhNUgyanpSOVBtQXQ2ZFQ0bHZNZG0zMTZyTF84VThjR1NzS2xaOXI2cXdMN212c0RmODZETFdCcnZBUVZ0UFpQd3dFc0l1WW5IMzNXYjVDODQ0dTFnZ01wZnRiNHBYS0ZoSnI4ckpaWjVTaWItMnQ?oc=5",
           "tier": 4,
           "seen_count": 1
         },
         {
-          "title": "New study projects META's economic impact for the next 25 years to triple Grow NELA initial prediction - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeGQ0dUg4RUdYN3pYM2loWTFvYnpOa0dtNzFDdW9ndUhEbVMxQU9rcUFlWV9NMXdtUDkwWndHYnIzSVZ2N0dVTVBSN0xBcUNfYTVMby1TbHZZN25LTHoxek5hT3VwbEduUWFLTGJJWG95WGRjbWUyRlN0QVI4bGMzSHZFTnVNYkI5QjN0R2tzVGdOQkJFS040dDVtbkpXT0YwZHVrcmdWNktWUzRpNkNZS2RyVWhESDMtT0ViSHpZcFFGNmV1RjV6S3VEMV82VERTc1lpRV93?oc=5",
+          "title": "Thailand’s Investment surges 28% in Q3 . Ekniti Nitithanprapas, Minister of Finance and Deputy Prime Minister of Thailand, noted Thailand’s actual investment surged 28% year-on-year in Q3, marking three consecutive quarters of double-digit growth, as the g - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVGRZMWljR294ejNjUmo0M2NINzlHM2luYV83M1dPcnVMUFJtM0IyU0tNTExGY3FtMHBjTGNkOEVzblpEUElJa1h0cDhvY1hGM0lOSGx1ZWZkektQSFZYNUZxbUZmWTNjWEVnckljaXI2NTFCcUdtTzZNNlNhdDhLWTJHeTJrMTV6NkZPaVUzcHpKS3ZpLWdSZjRScHRkaXBDSjl2cWh2aG54d05PZ2RVclZsTk1pMk9qV3laZ0NFbS1SOEVOWGlMSVM3S19BRENrWURibjFHQUlQTEUwUmc0eHlR?oc=5",
           "tier": 4,
           "seen_count": 1
         }
       ],
       "no_signal": true,
       "deep_count": 0,
-      "watch_count": 46
-    },
-    {
-      "name": "Strategy",
-      "anchor": "Strategy",
-      "archive_url": "./history/2026-11-14_05-55/index.html#Strategy",
-      "stories": [],
-      "watchlist": [
-        {
-          "title": "How Nvidia Can Move Forward Without Its Founder",
-          "url": "http://feeds.harvardbusiness.org/2026/11/how-nvidia-can-move-forward-without-its-founder",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "How Boards Detect and Prevent Internal Misconduct",
-          "url": "http://feeds.harvardbusiness.org/2026/11/how-boards-detect-and-prevent-internal-misconduct",
-          "tier": 2,
-          "seen_count": 1
-        }
-      ],
-      "no_signal": true,
-      "deep_count": 0,
-      "watch_count": 2
+      "watch_count": 43
     },
     {
       "name": "TW News",
       "anchor": "TW-News",
-      "archive_url": "./history/2026-11-14_05-55/index.html#TW-News",
+      "archive_url": "./history/2026-11-14_17-52/index.html#TW-News",
       "stories": [],
       "watchlist": [
         {
-          "title": "墾丁住宿夜驚魂！半夜猛轉門把「借廁所」 警到場揭荒謬真相",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5640590",
+          "title": "11月中場「強運王」出爐！雨揚報喜「3生肖」一路旺到跨年",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5641076",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "沈伯洋遭抹黃「曾與女性上摩鐵」四叉貓揪出造謠者建議報警提告",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640492",
+          "title": "4隻流浪犬追殺梅花鹿 高雄祕境觀音湖驚悚畫面曝",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5641119",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "張嘉郡衝刺選戰 斗六西市場掃街拜票",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640589",
+          "title": "雨彈漏夜轟炸 5縣市慎防大雨",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5641137",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "逾半數購物AI代理不及格  Visa示警消費風險",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5640588",
+          "title": "洋流祭彩蛋！網友拜福德宮參巧遇沈伯洋 揭感動內幕",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641116",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "林國漳推TPASS政見一卡到底、月票1500元 通勤族讚便利實惠",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640583",
+          "title": "黃仁勳離開輝達才一天 矽谷預期他將重返權力核心",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5640913",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "太空戰》台灣最缺哪種太空能力？ 美廠點名「情監偵、通訊韌性」",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640575",
+          "title": "台裔潘君達當選聯邦眾議員：須確保台海和平 美國仍是現狀保障者",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641038",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "帶「順報」出席公辦政見會 沈伯洋曝今上午秘密行程",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640579",
+          "title": "爆蔣萬安「東發號」未及時付錢挨告  議員許淑華：尊重、配合調查",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641111",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "亞冠賽》日本大勝澳洲助攻台灣隊 最新晉級劇本出爐！",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5640572",
+          "title": "沈伯洋超愛玩FF14！自爆是公會會長 還跟副會長一起掃街",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641113",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "高雄「內門惡地芭蕉」創下拍賣天價每公斤300元",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5640585",
+          "title": "金門酒廠攜手良金企業贊助反毒、反酒駕籃賽 14隊為公益拚了！",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5641105",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "黃仁勳下台才一天！發跡餐廳馬上拆除紀念牌 創業傳奇一夜成空",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5640532",
+          "title": "SJ厲旭首登台北國家音樂廳！飆唱交響版「小王子」 高音燃爆全場",
+          "url": "https://news.ltn.com.tw/news/art/breakingnews/5641087",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "用鏡頭翻轉偏見！移民署短影音競賽揭曉16獎 華山成果展登場",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5640574",
+          "title": "確診病例飆新高！美國26年麻疹清零國地位被撤銷",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641109",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "亞冠賽》「到日本住幾個月我會變很粗」 台灣隊20歲左投首度出國大開眼界",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5640578",
+          "title": "民眾黨議員台上痛罵「執政黨」 網驚：台北市長蔣萬安欸",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640862",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "被嫌唱歌不是強項仍硬上！楊祐寧為戲開金口狂催眠「在KTV」 愛妻現身盯場看熱鬧",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5640569",
+          "title": "盧秀燕為李四川站台 讚小川哥有三帥：言之有物、反應機智 還有「長得帥」",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641108",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "（直擊）台粉好煩惱！風間俊介強撞山下智久 喊活久見：開心你們選了我",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5640556",
+          "title": "中捷模擬行動電源自燃複合式災害演練  逼真場景強化第一線應變力",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5641035",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "路透：黃仁勳曾為黃樂婚外情「誤導」輝達法務長等公司高層",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5640548",
+          "title": "高雄大學研發EWOVA首進越南！台越學童相隔1500公里跨國共學",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5641016",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "花蓮首座純有機大豆加工廠開幕 「大農幫小農」解決產銷難題",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5640565",
+          "title": "圖輯》李珠珢穿上富邦勇士應援戰袍 開場舞+中場演出超甜美",
+          "url": "https://sports.ltn.com.tw/news/breakingnews/5641030",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "高球》手感燙！俞俊安奧斯汀錦標賽次輪獵鷹 排名衝上第2名",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5640573",
+          "title": "坐緊急出口座位不能點酒？ 聯航空服員瞎掰規定遭客訴",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5640932",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "基泰大直施工圖被埋了  許淑華要求北市府全面清查其他建案",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640563",
+          "title": "蔡英文竹市輔選莊競程 市議員劉崇顯發文：謝謝蔡實實照顧全新竹的孩子",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641100",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "本田家族豪華版 Civic Type R 升級登場！追加全新特仕版致敬經典傳奇",
-          "url": "https://auto.ltn.com.tw/news/33444",
+          "title": "蘇巧慧遭撞斷門牙先安慰大家 吳沛憶曝：她永遠把自己放在最後",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641101",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "辣翻！安芝儇出首本寫真 「濕身透視」被看光",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5640564",
+          "title": "嘉義水上仙草柔軟節 展現在地產業創意魅力",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5641008",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "名家分享~呂昱》當年不肯投降，今天卻忙著勸降？",
-          "url": "https://talk.ltn.com.tw/article/breakingnews/5640499",
+          "title": "打擊AI冒用聲音與肖像！日本擬修法嚴管 唯獨「這些」排除管制",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5640885",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "美海軍550架F/A-18擬全部延壽 尋新廠商分擔升級",
-          "url": "https://news.ltn.com.tw/news/def/breakingnews/5640456",
+          "title": "蔣萬安東發號用餐風波 詹為元提告許淑華「意圖使人不當選」",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641106",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "網傳5萬人連署盼黃仁勳重返輝達 大咖名單曝光、馬斯克衝第一",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5640384",
+          "title": "搶攻澎湖新住民票源 吳淑瑾允當選後設諮詢委員會",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641010",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "南投鄉代選舉買票1樁腳收押 2村長候選人涉幽靈人口1交保",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640559",
+          "title": "華夏科大最後一次校慶  台科大接手華夏校區打造AI與半導體基地",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5640978",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "吳欣岱緊追高喊「挺性侵」 陳宥丞重申：支持退選",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640553",
+          "title": "合體柯文哲、黃國昌 張善政：打造藍白合模範縣市",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641094",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "中國衛星能「抓星」拖離、補燃料 美商：台灣須掌握太空動態",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640552",
+          "title": "南投客運進駐水湳轉運中心  持TPASS台中到日月潭坐免驚",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5641067",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "選前黃金週末鄭麗文陪魏平政掃市場   藍營里長稱很多人同情魏平政",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640545",
+          "title": "《星村有喜事》屏東遺構公園熱鬧開席 重現眷村溫暖人情味",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5641012",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "全台最大支手燈震撼點燈  陳其邁點亮26公尺巨型耶誕樹",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5640550",
+          "title": "億載金城150週年 手機闖關解鎖古城歷史換限量徽章",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5640835",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "印度巴士與卡車迎面相撞 至少26死",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5640515",
+          "title": "彩繪、油畫、寫生、串珠…… 黑面琵鷺保育季藝術展熱鬧開幕",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5640897",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "又錯過！何時公開幫魏平政站台？王惠美笑回：這樣就沒神秘感了",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640547",
+          "title": "屏東肉圓節今明登場 綠蕉清蒸肉圓吸睛",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5641001",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "手機自己傳LINE？Google Gemini擴大新功能　134款App曝光",
-          "url": "https://3c.ltn.com.tw/news/68290",
+          "title": "看不下去？徐巧芯「罵街式」批沈伯洋 盧秀燕突出手搶大聲公喊口號",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640783",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "NBA》最多領先43分！馬刺血洗沒有柯瑞的勇士 狂掃11連勝追上湖人",
-          "url": "https://sports.ltn.com.tw/news/breakingnews/5640546",
+          "title": "葉竹林《好澎友》馬公音樂晚會因雨改室內 湧入逾300人",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641044",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "內幕曝！攔截到黃仁勳婚外情訊息 美國官員罕見要求「揭露姓名」",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5640535",
+          "title": "枯水期以來單日最大降雨 曾文水庫小進補",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5641095",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "台北市長選舉政見會今14：00登場  沈伯洋、蔣萬安等6候選人政見對決",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640328",
+          "title": "市民要照顧市長？ 李四川喊話「沒幫我照顧好蔣萬安」 掀網熱議",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640894",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "拆掉癌細胞防護牆！胰臟癌動物實驗新藥顯威 75％腫瘤完全消失",
-          "url": "https://health.ltn.com.tw/article/breakingnews/5640544",
+          "title": "東發號用餐爭議  夜市自治會會長：蔣辦先給2000元轉付  店家婉拒收款",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5641089",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "吳思瑤證實許多洋流包船因公文取消 新北市府駁：何來施壓？",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640533",
+          "title": "蘇巧慧造勢遭撞右門牙斷半截 牙醫：恐傷及牙神經應速就醫",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5641099",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "北市府稱基泰大直「施工圖」被埋了！業內人士全炸鍋：把人當白痴",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640487",
+          "title": "高雄百年「紅磚事務所」重見風華 打造人貓共融文化空間",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5641062",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "健康網》40歲後疲累、睡不好 不只男性更年期 醫揭這些疾病也有關",
-          "url": "https://health.ltn.com.tw/article/breakingnews/5638768",
+          "title": "週日鋒面通過雨區曝 基隆宜蘭防較大雨勢",
+          "url": "https://news.ltn.com.tw/news/life/breakingnews/5640879",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "北投市場鷹架倒塌何時復工？蔣萬安：安全無虞才放行",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5640530",
+          "title": "強碰洋流祭！火球祭首日塞爆3萬人 超狂卡司曝光",
+          "url": "https://ent.ltn.com.tw/news/breakingnews/5641097",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "竹市總圖蓋4年多進度未半 市民羨慕竹縣總圖、竹北星際館啟用",
-          "url": "https://news.ltn.com.tw/news/life/breakingnews/5640521",
+          "title": "川普赴中國前先訪菲  出席美日印澳「四方安全對話」峰會",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5641059",
           "tier": 2,
           "seen_count": 1
         }
@@ -933,18 +785,84 @@
     {
       "name": "Technology",
       "anchor": "Technology",
-      "archive_url": "./history/2026-11-14_05-55/index.html#Technology",
+      "archive_url": "./history/2026-11-14_17-52/index.html#Technology",
       "stories": [],
       "watchlist": [
         {
-          "title": "塔麻可吉 30 週年：曾慘賠 60 億日圓，萬代如何讓電子雞活過三個世代？",
-          "url": "https://technews.tw/2026/11/14/tamagotchi-30th-anniversary-suffered-6-billion-jpy-loss-how-bandai-kept-digital-pet-alive-three-generations/",
+          "title": "減重手術對第二型糖尿病療效最佳，14 年追蹤緩解率達六成",
+          "url": "https://technews.tw/2026/11/14/could-type-2-diabetes-be-reversed-14-year-study-reveals-remarkable-results/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "靠藻類呼吸與光合作用驅動，迷你機械手臂可抓球、放橡膠圈",
-          "url": "https://technews.tw/2026/11/14/these-robotic-arms-are-powered-by-algae/",
+          "title": "就算從未誕生生命，地球仍能靠地質循環維持數十億年宜居環境",
+          "url": "https://technews.tw/2026/11/15/scientists-simulated-what-earth-would-be-like-if-life-never-existed/",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "AI 問診漸成主流但侵蝕大眾信任感，醫病關係仍是最重要核心",
+          "url": "https://technews.tw/2026/11/15/in-the-ai-era-can-we-preserve-humanity-in-healthcare/",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "微軟全球當機，傳真機、電話、藍牙成企業救命三寶",
+          "url": "https://technews.tw/2026/11/14/microsoft-365-fax-machine-phone-call-bluetooth/",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "特斯拉前能源主管創立 Lunar Energy，以可堆疊電池與雙向充電器挑戰 Powerwall",
+          "url": "https://technews.tw/2026/11/14/the-biggest-threat-to-teslas-home-battery-business-is-its-ex-chief/",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "宛如 40 年前賈伯斯遭逼宮重演：黃仁勳深陷地緣政治風暴，輝達帝國面臨權力危機",
+          "url": "https://finance.technews.tw/2026/11/14/chinese-media-state-machinery-targets-jensen-huang-personal-conduct-political-persecution/",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "吃素的貓咪比較不容易過胖？大型調查發現值得進一步研究的現象",
+          "url": "https://technews.tw/2026/11/14/can-vegan-cat-food-really-help-prevent-obesity/",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Nvidia 接班人傳鎖定 Arm 執行長，昔日收購對象如今成救兵？",
+          "url": "https://finance.technews.tw/2026/11/14/nvidia-arm-rene-haas/",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "韋伯望遠鏡發現 130 億年前原始星系，含氧量僅太陽 1/240",
+          "url": "https://technews.tw/2026/11/14/james-webb-discovers-a-nearly-pristine-galaxy-from-the-dawn-of-the-universe/",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "馬斯克加入聲援黃仁勳行列，表態簽署請願書盼重返 Nvidia",
+          "url": "https://finance.technews.tw/2026/11/14/elon-musk-jensen-huang/",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "廣達梁次震看 AI 後市：無懼黃仁勳風波與政策變數，投資建設「箭在弦上」",
+          "url": "https://technews.tw/2026/11/14/quanta-liang-cizhen-sees-no-impact-on-ai-from-jensen-huang-controversy/",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "AI 加速長壽研究，科學家從血液與基因中找出延緩老化的線索",
+          "url": "https://technews.tw/2026/11/14/ai-could-help-us-live-much-longer/",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "Rockwell Automation 推出 LogixEdge 控制器，加速軟體定義自動化",
+          "url": "https://technews.tw/2026/11/14/rockwell-automation-logixedge-controller-accelerates-software-defined-automation/",
           "tier": 2,
           "seen_count": 1
         },
@@ -955,8 +873,14 @@
           "seen_count": 1
         },
         {
-          "title": "資料駐留不再是法務雜事，已成企業擴張戰略一環",
-          "url": "https://finance.technews.tw/2026/11/14/why-data-residency-is-an-ai-strategy-decision-not-a-compliance-one/",
+          "title": "CAIM1 與 Lutra 推「防偽相機」，以區塊鏈為照片建立數位身分證",
+          "url": "https://infosecu.technews.tw/2026/11/14/caim1-ai-anti-counterfeiting-camera/",
+          "tier": 2,
+          "seen_count": 1
+        },
+        {
+          "title": "靠藻類呼吸與光合作用驅動，迷你機械手臂可抓球、放橡膠圈",
+          "url": "https://technews.tw/2026/11/14/these-robotic-arms-are-powered-by-algae/",
           "tier": 2,
           "seen_count": 1
         },
@@ -967,81 +891,27 @@
           "seen_count": 1
         },
         {
-          "title": "美國期中選舉使美台股市劇烈震盪，專家揭三大訊號台股還有機會上 5 萬點",
-          "url": "https://finance.technews.tw/2026/11/14/ai-stocks-plunge-rebound-taiwan-stock-market-50000-points-experts-reveal-3-signals/",
+          "title": "塔麻可吉 30 週年：曾慘賠 60 億日圓，萬代如何讓電子雞活過三個世代？",
+          "url": "https://technews.tw/2026/11/14/tamagotchi-30th-anniversary-suffered-6-billion-jpy-loss-how-bandai-kept-digital-pet-alive-three-generations/",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "又是軟體更新惹得禍？FAA 航管系統異常、美全國航班停飛",
-          "url": "https://technews.tw/2026/11/14/faa-all-flights-were-grounded/",
+          "title": "AI趨勢周報第294期：AI Agent不只要會看圖，Google新Benchmark直接考專業工作實戰",
+          "url": "https://www.ithome.com.tw/news/180507",
           "tier": 2,
           "seen_count": 1
         },
         {
-          "title": "AI 代理進駐銀行，美國監理機關要求：能追蹤、能稽核、能關機",
-          "url": "https://finance.technews.tw/2026/11/14/how-ai-might-be-deployed-for-better-bank-supervision/",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "微軟全球當機逾 24 小時給不出恢復時間表，台金融公司得回歸傳真機確認交易",
-          "url": "https://technews.tw/2026/11/14/microsoft-outage-lasts-over-24-hours/",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "輝達助攻矽品登峰！從 CoWoS 代工邁向 CPO 新藍海，研發老將揭密十年技術布局",
-          "url": "https://finance.technews.tw/2026/11/14/ase-tech-holding-growth-accelerates-nvidia-spil-cowos-cpo-strategic-planning-new-segments/",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "黃仁勳風波延燒！黃樂參與創立的 Megaspeed 是中國取得輝達 GPU 的祕密管道？",
-          "url": "https://finance.technews.tw/2026/11/14/what-is-megaspeed/",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "基因編輯有望終結「慢性病藥罐子」？專家示警：永久性介入恐藏不可逆風險",
-          "url": "https://technews.tw/2026/11/14/potential-risks-challenges-gene-editing-medical-treatments/",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "波音重心轉向六代機，美國海軍另尋超級大黃蜂延壽產能",
-          "url": "https://technews.tw/2026/11/14/us-navy-is-searching-other-companies-for-upgrading-fa-18ef-and-ea-18g-fleets/",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "唾液檢測掌握生理時鐘，德國新創 TimeTeller 助癌症治療精準掌握「給藥時機」",
-          "url": "https://technews.tw/2026/11/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "哈伯太空望遠鏡凝視 M30，追溯銀河系早期歷史",
-          "url": "https://technews.tw/2026/11/14/hubble-peers-into-m30-to-trace-the-milky-ways-early-history/",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "黃仁勳卸任揭NVIDIA接班難題　高度集中管理模式面臨考驗",
-          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000774660_G2P5U1KU7YGBW2LJ2SAGR",
-          "tier": 2,
-          "seen_count": 1
-        },
-        {
-          "title": "【Gartner 2027 十大科技趨勢報告】AI 開發工具引爆軟體極度豐富，2030 年 80% 新軟體將轉為「用完即拋」",
-          "url": "https://techorange.com/2026/11/14/gartner-trends-for-2027/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "title": "週末新聞速寫：中美俄三方深圳會談即將登場｜傳Arm CEO列入NVIDIA接班人選｜美國會要求黃仁勳出席聽證",
+          "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000774803_6F87MM3J1X70U121CQ1DH",
           "tier": 2,
           "seen_count": 1
         }
       ],
       "no_signal": true,
       "deep_count": 0,
-      "watch_count": 17
+      "watch_count": 20
     }
   ]
 }
