@@ -1,0 +1,44 @@
+{
+  "category": "AI",
+  "timestamp": "2026-11-16_21-53",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Jensen Huang weighs a comeback at Nvidia",
+      "url": "https://therundownai.beehiiv.com/p/jensen-huang-weighs-a-comeback-at-nvidia",
+      "tier": 3,
+      "seen_count": 1
+    },
+    {
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "tier": 1,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
