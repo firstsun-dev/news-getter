@@ -1,0 +1,326 @@
+{
+  "category": "Social Sentiment",
+  "timestamp": "2026-11-16_05-57",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Intel sued by shareholders following 29% stock plunge",
+      "url": "https://www.reddit.com/r/technology/comments/1xxe75e/intel_sued_by_shareholders_following_29_stock/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+      "url": "https://www.reddit.com/r/technology/comments/1xx4f37/reddits_traffic_is_down_13_partly_thanks_to_ai/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "url": "https://www.reddit.com/r/technology/comments/1xx7xlz/vulcan_rocket_fails_destroying_40_amazon_leo/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Donald Trump breaks silence on nationwide grounding of all flights, blames Biden",
+      "url": "https://www.reddit.com/r/technology/comments/1xwyipo/donald_trump_breaks_silence_on_nationwide/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies / Tech supporters lobby chipmaker’s board to reinstate former CEO after he resigned following affair with alleged Chinese spy",
+      "url": "https://www.reddit.com/r/technology/comments/1xx4ou6/jensen_huang_discusses_comeback_as_nvidia_ceo/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests — email warning system fails, 40 first responders deployed for triage, four hospitalized",
+      "url": "https://www.reddit.com/r/technology/comments/1xwynlx/microsoft_365_outage_leads_to_chlorine_gas/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows | AI (artificial intelligence)",
+      "url": "https://www.reddit.com/r/technology/comments/1xxddvt/reports_of_airelated_child_sexual_abuse_material/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM collusion plausible after 500% price surge — says chipmakers acted like ‘hawks flying in formation'",
+      "url": "https://www.reddit.com/r/technology/comments/1xx0o28/judge_denies_motion_to_dismiss_dram_pricefixing/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China",
+      "url": "https://www.reddit.com/r/technology/comments/1xxh1wn/fda_rejects_closely_watched_lung_cancer_drug_from/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Nvidia RTX 5090 stock returns to Newegg with 21 models — but scarcity pricing keeps the cheapest air-cooled cards at least three times MSRP",
+      "url": "https://www.reddit.com/r/technology/comments/1xxb1uh/nvidia_rtx_5090_stock_returns_to_newegg_with_21/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "MAGA turns on Lutnick amid China spy scandal",
+      "url": "https://www.reddit.com/r/technology/comments/1xwz586/maga_turns_on_lutnick_amid_china_spy_scandal/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "China Covered Desert Land With Solar Panels – Researchers Found 126% More Carbon in the Soil",
+      "url": "https://www.reddit.com/r/technology/comments/1xxbdsk/china_covered_desert_land_with_solar_panels/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made",
+      "url": "https://www.reddit.com/r/technology/comments/1xxeqhb/vice_city_was_the_gta_that_established_rockstars/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Windows now runs on the iPhone Duo without a jailbreak",
+      "url": "https://www.reddit.com/r/technology/comments/1xx4epg/windows_now_runs_on_the_iphone_duo_without_a/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
+      "url": "https://www.reddit.com/r/technology/comments/1xxc2aq/prove_you_are_not_a_robot_how_the_captcha_scam/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Jensen Huang Discusses Comeback as Nvidia CEO",
+      "url": "https://www.reddit.com/r/technology/comments/1xx5up2/jensen_huang_discusses_comeback_as_nvidia_ceo/",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "#NSTBusinessTimes Global economic growth is expected to slow over the next two years as geopolitical tensions, trade disruptions and uncertainty surrounding the artificial intelligence (AI) boom threaten to undermine an otherwise resilient global economy, - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbmRULXotZ3VYOVFia1BoU0x3UVpPaURZY0k1RmpjWnluTzMtLXlSTmppWlRIVDQ3MDFLY0x1d2FSb0VYT0xoMnktRTR5Qng4UkVXVkFvN0dKV1ZNeGhYcDhKQklzRmtlenA5azFzRE1yUmw2X2g1TXJlbTB0a19ER3A5b0QwcW40NHRkNjY3MTJ0U0l6U2FZOWg5MGNXaVczVWZzY1FwakpvUU9qWmk2THdPajF4N1ZlSmVmWFRBYjdoR2pDX3pwRXZ3anlRblppY2pwUzBn?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Indian equities have largely sat out the AI boom. Now that investors are re-evaluating the technology’s prospects, however, India has gained - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORWlkVHg2Z2VkOWxnRjRaOTR2R3lNMVVOWGxjQTRyU3VEcVVDQ3pOWmttOExMVk1OWVF0OVJYZzhJNGtwQ1N6VjB6YTNmcnlYZDRDWmNscWlKTTduZWpIT1V4UlEtaWVoRXRGMDlYeWl1UjFxRUY2LTB0N1NJQjB4U2xVQUwwMmtXcXlMdmt4ckcyNU1PZGQzMVNQX0h0elVrbHJVZ3BMdl9hdHRsLUdsNVFaZzdwd3d2aEdJSWEtZkxxMmhvTjZBay0tMld4Y2J0UURrRHkyN0dfdw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "“…the purpose of AI is to replace an enormous number of workers. Which means that mass unemployment is not an unfortunate unintended consequence of this technology: mass unemployment is the product that’s being sold.” - Richard Denniss speaks to Th - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPclJhalZDSHJIREFFa2lNSG9obWc1Mzhual8tdHB2bi1iaVZfZHRjZ2wxdmZCTk5UdW0xZ0tUTUdua2p0dno3ZV85Z2p3OHR5RXBOOWYzY29PM1NwUXpqYTBzNG01ZzJyaVdKT3c5cTg2NjdXdGkydl9sZjlGNEFKV3k3QzVBVUJ5emRUTkswcFA0dm9haE1JTWEzaW1kQkJRR2U4VTZsRl9VMjZnUWIyWlVwVlhFZHhmSzBXMGEyaEZfclRtTm9VMVBOc1ZXZEc1aFkwSlZlSlBfZmFUUWdpaHdZWTFKQQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "President Cyril Ramaphosa's efforts to 'understand AI': South African leader is in California, the United States, to \"deepen South Africa's understanding of the rapidly evolving global AI ecosystem and explore opportunities to leverage emerging technologies to - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUGVidEE1aFhnc3BYVlNRb0VCazZwRlh3X1NsemtfVGJaWUhDVW1DVXF0WWlvTVVQSkx1ZmJKeUdVbXNhTDdfSU1ISDgxOXhlZEVVVG9KYlpDbGFHVDRkSGs2NWJ5Ulowd01kb0hCcnB4ZmFiWkNCRnQ1bjBlUFhnUzc4dlZ4dTB3dU5vZTNwYWkwamxkMlhPUF9INm5MZTRDRlkzUm5qVkNMcXFfeDNjcEZJSHRRakMyYnBqamtfang2Yl9CNFlyZEkyQXpLTXhOZm1KaDR3?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The artificial intelligence (AI) trade that has powered the stock market rally in recent times faces two major tests this week, with quarterly results from semiconductor giant Nvidia and the highly anticipated initial public offering (IPO) of Anthropic set to gauge inve - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSnUwdkY2OTNWWnlsRUhwT1RUWjc3cFlYZVJQSjczZWE4OXg3S0Q4ejJmeG01RDFmLUZOWExuSXNCM3Z3X3B3LTNwSlRTY1hnQ1NLN0I3bGJCeEZZdDdmeUlDaFc5SHotZjhrU29RbjJ1YW05Mk42bmdZYlRaQUxac1hRTDRDa1ROdWExOTdlSTM3bDJfM1dhNzFyTkhGZy1qcTZ2V0tWYzFJLV9mRVBXZk5fWGJvYjJvTDZJZVVBQU50RUVmMGx4Vlp5eUVJXzRvZFFOU1lB?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "As the US midterm elections showed, data centres are as popular as a heat rash. But there are people in Australia using mind boggling logic to say this is an opportunity for our country - like we need to import those problems. Data centre investment in Australia - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMkd3dHkyTHBsZl9oNEtYcFI4dUx2YldDQTZGMEpqQzFMSjNCT1FiSERmYXFVbGVxVkNQSk5RY3BzZXlob3NRcERMWEg0d19FeDhPeU1BUmxjNW1EZFNGTlVwNV9UZVNSNllzN2dVZTlzNmxNajlpVEJRRWJGdVBKVFhQTGE5bUE1dmtLYXM5blA2bnZMRk9mREF6UEFMZTRwTGw3ZkFfTUpmT3hnT3pFdjVGeDJmZGhvQXNJbGJFX3RER1NQNHhyUUtyWjRLd2NSbHFj?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Insight: Inside China's drive to build an AI-native generation Click the link in the comments below. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZzJuRnNiSzJGQmE1QmVOZS12NGJEOUhNc0pZRktIeVk1NkFyNzlOMmZWcHBTZDhGZzFvY2ZaeEVUZzFfM183cmtfVjBsN0F6MWw1bk1jaFpMN2VKRTEzR2lTQU05Q1ZLanZHaXZ0dDN6bDFqNEl4MXN5R0drbWZpeFFUbkU1TGZESlYzX3gyczRTX1o0ei1rdFZJYTNBRGJvVURTOG5xOGVNUmdNUzhnLXRHUlE3VXFHTnRoWk9iWVF2dkxHX09rSUlHenhyWGRnaDZN?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Southeast Asian governments are competing to attract investments in artificial intelligence and digital infrastructure. But building and operating data centers requires substantial amounts of electricity and water, putting pressure on countries to ensure they have - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR0dIMUd1LWZFTEUtNmIxV0d1RDEySnhNWl9aWWFpR1lJb3BnSTVGbFVtaWcycGV3bEV1bU1RRHBfbzNUQ3NTR0hOMjlqZnljY1R4MTBHcVZMUzdPNHdndnAtamRHbm9fY2FxNkwweGluTDgzMUtoLU9lMFIzdEx6X1hBek5GaDQ0TlZtbXJRQXZFT2dMWE80eVJxNXJ6elc5RUVFSndTNFNqcWNiSkQwcHBiZHJNcUs0dFdlR200dHhwMkhXUGRpNzVKTWdjallCODhfUGpnR2NQUQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "As the US midterm elections showed, data centres are as popular as a heat rash. But there are people in Australia using mind boggling logic to say this is an opportunity for our country - like we need to import those problems. Data centre investment in Australia - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVmNnMmlRQWZoY0JaWmZMUFJzSm5lYnQ0MWljYzRvMzRjN0xvaXBCOXdnOWdLZ28tZDgtTWV1X3hkakZCazVhb0RWVzcxWDBWQms0Z1RKU2t0VFBQc0JNWlI5THo3U25SMktWaTBtSEY4NnQyMVVJcENWb3hZZE11LWlVc3RTeFJxT1V6bkFkSWlRU2loSUtTZDdZbjN3U2Q1UVFGb1p3UHJwUWVTWE1MOE03RGZRYmpaQ3h1SFllZnQ4UWRibzU3VDZkTWJuT0FRUHc?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "To kick off the first J.P. Morgan APAC Technology, Innovation and Growth Conference. We caught up with Mark Fiteny, co-head of International Technology Investment Banking, to hear his perspective on what’s next for the tech sector. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOUh2bFktaHFxSzhXQUk0RGdzSFZmQS1kdTMtVmx3UEJEMGc3RTRGOXVGRE5EV3pVbVFKLUk5TzJnbU45OUFVOFBGalZpSjMzbjZfMWNXT0R5dTUtY1YtSzdLN3JfeUwydHdYLVAyaGJjbmpMNnNGbjc5NkptcVhLTUNKdEtSNVFHRWdNZ0R1dzV1RGQxXzd0QXQtR25FUjVIcl8wOTRvUmFvZ2FNeU10ck0wSk9vWGhrbi03VjJnOHBFak5qWWZRZ2JOWFFadzBfUFVONkpB?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Vietnam Today. . In China, the gig economy - a model based on short-term, flexible work - is growing rapidly, providing a source of income for hundreds of millions of workers amid the country's economic transition. But this massive shift is also putting pressure - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONjVaOV90SFRCbEtXVU5pSGZFa3VLcHdJNF9HeXp1WmVZb3lfSHR5MDg0NFI3aVJqVHdtTU82dmYyVUpua0dfU0YtWmRrUmVxcHN3bWVaNlUxaVpHSTdkeTZNUkg3NUFrMm4wRDZBVkFuLS1WSDdLTHRNaDNTMTV0YmduR2tDVkxodkVDVGFTN2FnR3cxWFl4Y0hTRDdKT2RiMW5DeUJBalY0VGFmYmRwcVJfZGxKcmxJSEd2X2Vhc3BJN0N1V2g1QTQ1QTNfSWFiZWJzeVlDWkxrXzlocnpmNjlVNnBsT2psR0dQYw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Nine African creators have been recognized for AI innovations in gaming, video and music at Afreximbank’s CANEX Create-Thon 2026 in #Lagos. The competition attracted 6,000 creators from 43 countries, showcasing Africa’s growing digital creativity. With $ - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdFRxdzA0bU5NN09mb2tYblNGQndpTUo2QXM5ZDUzZXUxVUNfYmdieDUyaDFCajFUZmwwUDdWc0gyM2gteXkzSVlVWlRXTlJ2Ry14NGFyYUhHNHB2eUVEWDJQNkFyeVl2NE9iUVlBU25QX2daMzdqcHYzOUxGNW5NVTVVQ1E1Uy1la0J5OXhWbUhtLWNWVG9kTnVvMy1NTm1mU2xLcG9iZFN0Yjl3TlAyY2VhVFVkdWpMR3hKZm4tSDY3MmJpek5FajRhSjJuMXAzWFRpMl9WM3p0UQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "🇿🇦His Excellency President Cyril Ramaphosa engages with the South African delegation ahead of a week-long Artificial Intelligence (AI) learning programme in Silicon Valley, California. https://www.youtube.com/live/Bo0OFQpkJnw?si=adnHHuM__IQw7lqz # - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRlNMYmt6cmlPVzZzcGZfWWctaFpyTVRRdmdyUFFPM0xXS1hRTzhFZmlHeC04M1J4Y0pWUTBBYjExRFFUbWd6cWh5U1JKdFdjY0F6c1Zwc3N5a1NNRGc3VU41N1BsOUI3b04zZ3hSVjl2eWhSMmVPMW1LQXg0dF9qZ2M3aDZET2w2Uno3ZTFoUHptZzJHTVhQQ0tLc01iOU1INzh5V2ZBOEVWWDdjcVAzNVpNY1l6MzN5eXljQXpwX29jSUxtS0hoa3dHWjVsXzJhUHpLRkpGbUVJdw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "China clears trillion-dollar mark. Its January–October trade surplus reached US$1.04tn as AI-linked exports accelerated. Read full article: https://internationalfinance.com/trading/chinas-trade-surplus-tops-usd-1-trillion-as-ai-exports-offset-weak-domestic-dema - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcU5UeUhHaEJpcVpXXy1xdnBZNmxyaGJ0NVMtVFN5bTMtOVZBWmZVV3RTSUNRM08xM0dYQ00zNk5vV0VGdVlFRlVpeUlHTktDRW1CbzN5Sk5VdG9nXzBqajNQR29HRjFkNGpEdHZZSHczOVpvUjI0R3MtVDVhRE84VU1DZjRqR3NrQ1RGYVMxSUlRRjVKbk5OaS1Fdlhpc29RNGtITTRjajFTZ2UxZE54dThlenpMeVlDbnNzX2ttWjhkRjBORTNGY0U0NzFWWUlONy15eWJaSUlyOGE1UWNXRnllV1J0WHRUZkdGWkl2WQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "After seeing first-hand how artificial intelligence can transform hiring, tech exec Clara Shih started the New Work Foundation to help young people build careers using AI, rather than be replaced by it. https://www.forbes.com/sites/courtney-connley-hampton/202 - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOHphcmpiM01ub3RqVnczdDRoMDlfV2ZkcDByaXdCZVlVeUNhUE9VNWRMajRLYW1KUEp1WU1QZXNPSzZZLWZkOFlwSUFWM1RPcWJEbDNWZWcta21mX1FvaEQ1cnVHWF9HU2g0R0pQNTJnR3lXNDUzRXpDY1pmWlFrTEczcmpVNnJDNllkTmp6T1VDZUpOVWhYS21CYnlCMzV3RE1zSjkwRlZhU1VlaG11S1UydGFGUTBDLXdrQzR5alUzOXNUbTg0U29udzM3RmxOUnc?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "In this #askian, Ian Bremmer looks at the fallout from Nvidia CEO Jensen Huang’s resignation and what it reveals about the challenges facing the US in its competition with China over artificial intelligence. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeFdyd1FSRXRoeVR0Ml93YUdva2U4OGNrWldTNGo5bjIxWGd6dW14My1XVDgyR0x3ZldRX014Z19zYU91ZTNua2wtbnhKTmlfSHhRa3FkVEp5YW4wYU1VWWowSHRIaWJqRll5QzVkY3JfVzRqUUxPazY2V3hrS0lab1R4Slhia1VZZlYtVTlrNmR0WnBKaVdkYjVXMFRvN2R3WklYallTNU5QQ2ZteVRHWlVoeVdlSWJiY2xnMUk3YkRaLXh3c1pldzdhV19UNDRDbXFWaDI4cw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The Information. . The news cycle is not slowing down any time soon. Get clarity on what's happening in tech & finance. Our best deal of the year is now live. Get 25% off for 2 years and save up to $500: https://thein.fo/4AtBzzF - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZFZCUHlfSVdqV3FfVlZvR213UTNCUVgyNWJPZ3R1SUFDRkp5cVBJS0owa1NFajBhMXdxNjVRZG9wQTg1U1ROTWJCem5aVHFPM1h6c1JYcWRDT2FZbk1BMXBCbWRxWFYzNzJrb2hYbjlhTEQ5dkVlNTBUR2p0bHZJd0d6OTBVX3pNWEtGaXNZYnJRazFNQ2U5aHU1b18wMXVwVXhBWlNKVjBoWG5qZEI1S0FmUUhOUWdhREdUci1lcUZ0d3VpMl9hZVVrQXJiZEZVRTZzdzZZMlZFQ19hOVZfMThn?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "US stocks closed lower as a pullback in big AI-focused companies weighed on the market, capping a turbulent week on Wall Street. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT3hsOG5PVm5GOVVTa3I2RHJodjRMcGZaNkZPZzZIVElZNVRtYkZxSUh2TnhJVHBTdUZEVzY0UEhndVpWOU81c2ZiRXBibjN3ZHVMWEVuR1lHVzVBWjhDQ3M4eS1GT1ppZ2Q4TzhOVkpWbWVlbmJJUVU5Vmg5M2NYSXZxaDZWZ3JzQWVDUGtBdmMxeDBFZEpYUUkxZnNELUNacEZzX2lCY1otSkxtNDgtQ0Z1OUN0NThqenE5dmZocWprLWo4TnBVRF9lR2lXTmdPRnhRTGxIMHY1czhJQkxGZ2Z0VQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "AI changed employment. Accurate? - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEMkxHLTdSTW9wMXFMMnlPOGotbkNoZjNCY0czdGNqVUhDTkJtVERuU0xQbVBRUmY4QndXOUFJXzMwZDdURU43QndZMERFSG5vTXk3azVmYlFTZ2l5blVxbTB6ZDBzMkFIYURyQzRReGlSX3JmS3pOZmRKektlQQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Jensen Huang became the face of the AI boom, but he didn't build his reputation alone. Silicon Valley investors, executives and the media helped turn Nvidia's CEO into a larger-than-life figure—and his downfall may expose the risks of that mythmaking. Read - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVm1TT01jS1ZJYVZUY0Q4Ui1XcWc4ZzNGVmVMUWcwLW5MeU9lYVNvaWs3XzRqR19rUXJ3azh6UHJ1Z0Q1a3JkNjZCenV4ZTNxV1NEdU00VXRtUFRFbVltcUVpNVZlYk1HeERQemV2SDViQnhHdUpuQThOdGlIN3c2anpON0FZaUo4c1FfU2FzTHVLVWhWQkVmXzZSR1Zsd01zb0FubWtLR0pSQVU4VldBa2hZRk1MTXlTeTIyLUVFRTlkRGlSdjZpNkFjcjJxcW5KLWM0RVZxS1NPeU43SlZFMw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "WION. . #WorldBusinessWatch | GTA VI puts attention economy to the test For years, businesses have measured what consumers buy. But one of the biggest economic questions around a major cultural event may be far simpler: Where are people spending th - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUndSRWJqZW4ydHcxbUhUTElFeE9MQ0hiSDN2Ync0bUlobk5Dcm9lN2twN3BJUFpCbGdQaVJjam0yV3dDX3gxZEstODA1UWE5cnpSUkFYZ3Nlb1U5Y0hKbHRaZ2otaEZLbEtraFFhUDFhNEpBQ293dHVsRm9xQjBpa3o1bU5WQVFUUWlRZVRfLWxNMGZCeW9MS2ItdGtXcnI2cEdYdS1kVS01d3hRVFZVenBCWjhPWGtWVU04MGZsVDBZTzkyaE1sU2tMWlhVYmx0bkVINA?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The AI Revolution Is Just Getting Started Comment “MARKET” & we’lI DM you the link to the conversation You can watch the latest episode of Market Mondays featuring Peter Tuchman on Earn Your Leisure YouTube & all outlets - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTzB3eXA0V2k5WXA4aFJwUkxMaTFGR3Z3WUhfUFNXckxFbzVySDBQZTY3Y0NRN2ZBdng4ZlBUOVNmN0NlcDVXeHI5eGowNFVEeV90WFBJeGtVcG9LYW9mdG05dWRhcHZmRzRsamlEcHRpQXJGM21LQVk2ZmotaUZ3TU9pRWJTZUppcmt1VjY2QkJNaE40d2xiZEh5YXFOOGRsU01YX1pIcUhybGZreDYtcnJSZ3VyM0EySDJfMGlWczRCMnBtUkhMU1FnalJudURVbWhJNldJSWhuaHVvOUE?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "In this episode of “The Opinions,” the economist Natasha Sarin breaks down Anthropic’s impending I.P.O. and explores how misaligned agents could cause “significant economic harm, not just for investors, but for all of us.” - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbHNEWi0wWEplSjZfdVFpbmQwTW05d0ZBazdpLXVOM0o1dFBKM3o3dERpaWFZQVhtNmNlYWdQWVp2dHpwZWZVNkNmTGh0dkV4Nnc2U0UzM3hKZ0wyTmRZUWQ5bGMyblZ6MjIxMHBpQVdBS25MZkVqR2dEcTZ6YU1tOWxTX2lmX3AxdnFnYWdMSzVlUHVScU5XT0k1TUZzcWU4S0JTd0pyenRPYXVNQUtHbTBGV1NRVnVMaHNzYzMtS2sxRHNaV0pmUG50R2hSOTRqZnhVVXhoUQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Anthropic's Claude drew more than 15 times as many downloads in India in July-Sept as it did a year earlier, while ChatGPT downloads fell 21%. Claude also climbed two spots to third in India's app-spending rankings, overtaking Instagram and YouTube, acc - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVBfN2ZqZ3o3ZGNibnRva0tKRUctejk1eUhYWnRjSlJkYjY2MXZvejhHTXVISTlTWlk5NkZUT3o2QV9RUTV6R1FrSjMzTGRwWEhlX3diaGxMaE56dktfSUxXSnRCZXR6c1o2OGd3Q3JsblNzdUhrLTg4NDVWRExxSWo4NV90MGU4RWNUNGJOMHdhY3dxWE5CcDZlUXFMSkpKMHpUeFh5MkJNT0huaGhTZHNRaFZGUmdyRFhPUmx1NWVoMnZkUFA5NW1YZlgyc1VDWjY1UlE2OA?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "China Daily Hong Kong. . With headwinds impeding global economic progress in 2023, Joe Ngai, chairman of McKinsey Greater China, put forward the thesis that “the next China is still China”. He stressed that China’s vast consumer market, complete industri - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUnY5Y1ZaNjRaVWlicDVBNGRMZVktUkNReTdtQVBlWFA3WFRLeVVsOHlHZ2hNdG91Q0pWeF9IYllNbVpsQkMyTjdsV1Q1QlJLR1pnaWFSQ0tFd01WWGE3UEZPREtZNDcwNUV6WHpxZWpwOVR6YV9xdngyVUx1MzE0N0hGb1B3VjRiUV9LaHctN0xuSVM3djg4Q3VBczkyUWFPaXlSQ2VocFI0M0hLam14cHg2UEVfQmlLMUtQMFpYMGhSNmpiQnlEU3hoSUhiWHdhZXE0WW5VVWNSV2NMMkVjZnNLck8?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Jensen Huang eyes Nvidia return as ally plans ‘war room’: Report Read here 👉 https://indianexpress.com/article/world/jensen-huang-weighs-return-nvidia-ceo-elon-musk-silicon-valley-allies-war-room-10964798/?utm_term=Autofeed&utm_medium=echobox - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONWtMQTVrVmRTZ2YwaHRNSTJjUlpzeGFLQkwyZXk0Q0VvbUt2eVc3VERTdmY5QmlHSkZuQ3VXSVZTOTVDNUJWZTNFV05BVDdkY0kxRTBLQ2Y0Z2NUanM4VzhhM0s2bHI1MjRpbDVJLV90RGRuNTYtQkF1MEJzeFFOYjBoQUFqX0tSSDdiYzcyOWdXcmlhVXBtSGFINEdZRjV2cUFPb1lIWjBaXzBmckhYLVVXbVNPYm9GQ0pPd1AzeGhISWxqUUZhUG1zYU0zQkk5?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Saudi backing. Global AI ambitions. 🇸🇦🤖🚀 Prosperity7 Ventures joins Rox’s $100M funding round, taking the AI company’s valuation to $1.3 BILLION! 💰📈 Its mission? Helping businesses turn AI into smarter sales. ⚡ #SaudiTimes #SaudiArabia #ArtificialIntelli - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQalBMeTRZZGFGLUFxWTNNNUpiOGpOZnlaTlFZT3M4d1F1MDNaNXdCcXNTZHFZdlQtOWxxN0lqa1dmS3YyS180Mzk3SGoxUnR2NjRMNHdlS0FwMzdxZ2Z1Y0NVeld2UWVWa01JOWswdVQwdFVNREZWaW9JdjJDRGhfM1VaSm02eDhGX3lkaV9GWnFRMkRKWnRITktrZ0R0eUdQZkplS2JnLURNdFRxMXVuaUc0SzZaczlkUk16UzhNSVd3WFprc0NtZXpmQ3M2ZXVPVlJYTkVQUQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "🇪🇺 Donald Tusk warns: Europe risks losing the AI race to the US and China! 🇺🇸🇨🇳 Polish Prime Minister Donald Tusk calls on all 27 EU countries to join forces instead of competing and investing separately. 🚀 Build world-class AI research centres. 🏭 Turn inn - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM19qNmZQVnZLUmtBRnRsX01YZFFNWVUtNDBTaElpTUlOS3ZnXzlrX3M1bFBZSVVXLTNDNnRHZ1RDUGY3d1BucUx3ajFwLWNBMkM5R0VfSjlUc1RFRnQ1cE5OZ2gxVEQ4R2tzWnJUdlBmMnVyY0pyTGZLV0ItWTlTS0hlTEtFOTYzNEtkemhRNldCd05zYzY2UEs0UHAxTGRybXNRdVVVcHViLXg4czdYcjRYTmVGX3EyVURmcEF4Y0l5QzNRem1uUzR1SE9IMUd6Q3V3YXpGejk5dw?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "VICE News. . Where democracy breaks down. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkFmaTE1Q2lwcm1ha2N0VkRsbWlpOC0wRFN1OFplUHNfZC1mWWFMNVhZSDdyRW1Id2xqOVZvSThJMmZPQzRDQVpTUVZvcFY4N3lfQy1RT21FcjI4M0FhYnNDNlJiVGRORXBxdVJrUWNoalJFYWg2TGJfLTRlY1ZfYlpVcUk0NTB4UTlvMGpWekJoUE9wUGRtaW1jN2JYR1I4LVpBY0l1RkRCQ2c?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "🔗: https://bit.ly/4ioTWyn Seven people quit OpenAI to co-found Anthropic in January 2021. Five-and-a-half years later, each of them owns almost exactly the same slice of the AI company that just officially released its paperwork for an initial public offering. - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcGZzdkwtSXNCZGxSYkJlUDJuYVBmci1ZS2JYMmxVNGF6Q3o0Z3A5dHdENzVEZlZ0bUJ6WU5MejQxd080SUdaLXhiajJmVnNIR3d2X0ZjVF9rd1k0c25xS2M1UHpaMnVBS0NlVHYyWUtGdVB2cm5hdjFWZHVPREhsWlY1VW1qSUJmUXFLMldsclZ0dmwxX1FobTFKM0djQ3A0bU9tNmNkRV9yc2tpT21WMkp4Q0NHT3VVMVFKNHRTd1lORDZFVkdOcERLcjA2M1QyLVFNd19kYVJaNlpKTWc?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Largest AI companies by market capitalization - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFE3M3gyUDRKUEJoZ1B3U1R0RGo2SVM5S2FYZW1ybkkxRVM4SHJvOUFEZ2Z5NkhuSERKMlhOYXE0LVpXY1R2czcyUUY5U2NwLV9mbmVOaWpmLW5GS2tUMDZBRXdsekFtc24zYk5hSVg5blljX0tYcjNxVXhJM1RfYTljLTBvZl9vdnh6OV9iTlF5UEd2bVFsWkFFaW1oUnlESHh3WUo4T1VHcTZuMENOSg?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The headlines focus on scandal. The bigger question is who controls the technologies shaping our economies, security and future. An opinion on why Fiji must pursue technological sovereignty in the AI age. #FijiSun #AIAge #TechEra #Opinion - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQTZfNE5naTBMVjVRZUx3T1h2MVQ0R2hJXy16OTcySkZmMEVkVGMzbjFhVjllaE5fbnNnVk9vMXFUU3Q0TExCbGg3QWpOdm43TGhGV0NpZzh6VG5zdUZ6Z0lETGVGaUJ4dVE3QUM2VkxJQkFTdzNYREZRTG5FQ2NpbmFxX0thV3hoUXowa1V1Y0YtSktTMUxZYUowdkNwekJUYWMzT0RaZVluRTFYdnkxVTFuRDk3Nl80ZzNOZTNBMmt2ZDVVdzhSNDlPM09WT1FiU2lv?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "China.org.cn. . For 35 years, China has grown alongside APEC as the Asia-Pacific became one of the world's most dynamic economic regions. Today, however, rising trade barriers, shifting supply chains and rapid technological change are putting that connec - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ1llUEx4dmlsSUw3ZkVlVmFtRlgxMURSMUpVcC1FSmZ1QmpGaURaelhtSTY3MDkxeGlrSWsxb21WVWN6bE16SUJYY096VzNnY1pXc2FhcVhGX3l3eklneGtrSUN0ZDJiX0xpd3RVeF9DR1UzTEFzSkNnbnU2THlnSDZsY1hmQ3doazNBSUtjN3VER2lVYkVtMGVTNi1NVFhsSzg4SkNmZVBiNFREbTFFNnZ2eW1PNm1reWZsSmRabXBkVEhBSGZGa3Zad2dQXzRPa0VhMmdtejY?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Markets move in cycles, and sector leadership changes with them. 📈 Discover how the Bajaj Finserv Business Cycle Fund follows multiple market cycles to identify sectors and industries that may benefit as market conditions evolve. 🎯 NFO opens on 20th Nove - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQ3VfWGkzbW1rVnc5elp6YWhXaHd0SzZwTElaek5WUTFETHhrbHhRMWtiNXNFNUUyZFV3X1pWQ2YxNlhfOEdvc1U2eWtkV1dPU3ZNb1ZWSnVJZGgwMm9HRUVOMHNQWUZlZFN0Sjd3ZWlpdkF6azhJTEVxVzFJUFh4OHBaVmktQVJvYWp1NGV2NUc2Q1liaWhKTmhHNjVDMEo0d1dxalAtaE9oeThfN1BkSG9GTWdyVk9ZdXlyVXhzQzZvQTFxQlVPNE50Y2JnWXhFZkNlU3FFVGtRZnpqMXkxQ05vNWhsNUtr?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "Foreign investors have rushed back to India after a long absence. And it is not only AI that is tempting them back bit.ly/4zQp15u Photo: Alamy - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUGwxYjBnbUx0ZVdTUFRiNW5aZXI4SmhtWXVtemVyVlhBVU0xcld1LVhpeDd5dDJCWHlvZHlaeDc3V0xPTFY1LWFaNktha2ZkajhpcFZrZ3l6bUFuWDVQQlBmZ2VjNGxzdjF6OThwTkVqNnRHbjZRVk95eWZsdmRBdWRWTzRIMGdEcllLbmdSZHRYanVIYW03MkM1MmttWlFVQ0pGWmR0SmFvT0I4S2NGNzFobkZSVE0xalZPajM4OXlNRjI4X01ORFd3d2pfQWNqS2JYQjVIRXVsQQ?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "At least 30% of Microsoft’s new code is now written by AI, CEO Satya Nadella has said. The internet quickly noticed that’s not far from the percentage of its employees laid off this year, says this writer after the global outage. https://cna.asia/4zn1gAO - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX1NPYjJKWTdJcF9XRzBZdHFRanEzajQ5QThrWkQ2WVd4Wm03YTlDck1ITFRjUXJyRUtuMGJNckg1MDRnSkYtQmo3OVlVa0IyMFBfRWlFMUFWSVA2LXJQeThhZk42YWwyQzJmUmxuM3VlVnN6LVd2OXc4TERnNEk1MlN2ekM4RDhCV2ZWT0ZkTmZxaEJ3ZlRpdVZBZjZ3SHE3S3Q1V19PU0hCcUxvRlVRS01wTXVLNTQzTVZpRHQzNHZGdm9kaTdCc0k1LTF4Q2ZSaExqMENDMXAtMjRtZFE?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    },
+    {
+      "title": "The Trump administration plans to designate more than two dozen artificial intelligence companies, including Nvidia, Amazon, Microsoft, OpenAI and Anthropic, as US 'national champions', according to a Wall Street Journal report. The initiative aims to help A - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSFFvNG8wc01faXp3T1pneUhVRHhFM2lwbTFSOUtCb0tTWWRfY3o5VGtEY2tiRzdDMUR2QzY2M3NUTmIxZ0U1MXdXbHV4TW9sT3NJaXhoakdrUUdlc19ZVnZRaG8ySDFmZUxLc1o3RG1zZ3lkVkFnYjJwMXpzanNTSnVDdGQyS3NzcWk5ZDNrR1pDM0pwQ3BkcXdhS2RKeEU2ajYxRERTYmQtd2dObkpBbGtIMjhMMWUxYV9uMkZoa0ZVc3N5MU1KeFlCbUQtU2lEanlEWTQwOWo?oc=5",
+      "tier": 4,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
