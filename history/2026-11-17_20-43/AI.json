@@ -1,0 +1,26 @@
+{
+  "category": "AI",
+  "timestamp": "2026-11-17_20-43",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "California takes OpenAI to court",
+      "url": "https://therundownai.beehiiv.com/p/california-takes-openai-to-court",
+      "tier": 3,
+      "seen_count": 1
+    },
+    {
+      "title": "Productiv-icky",
+      "url": "https://www.bensbites.com/p/productiv-icky",
+      "tier": 3,
+      "seen_count": 1
+    },
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "tier": 1,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
