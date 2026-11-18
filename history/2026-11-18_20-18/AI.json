@@ -1,0 +1,38 @@
+{
+  "category": "AI",
+  "timestamp": "2026-11-18_20-18",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "OpenAI’s newest release lands to rough reviews",
+      "url": "https://therundownai.beehiiv.com/p/openai-newest-release-lands-to-rough-reviews",
+      "tier": 3,
+      "seen_count": 1
+    },
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "tier": 1,
+      "seen_count": 1
+    },
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "tier": 1,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
