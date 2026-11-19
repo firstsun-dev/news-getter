@@ -1,0 +1,26 @@
+{
+  "category": "AI",
+  "timestamp": "2026-11-19_20-22",
+  "stories": [],
+  "watchlist": [
+    {
+      "title": "Google’s shipping spree continues with Neon",
+      "url": "https://therundownai.beehiiv.com/p/google-shipping-spree-continues-with-neon",
+      "tier": 3,
+      "seen_count": 1
+    },
+    {
+      "title": "My wife thinks AI is a person",
+      "url": "https://www.bensbites.com/p/my-wife-thinks-ai-is-a-person",
+      "tier": 3,
+      "seen_count": 1
+    },
+    {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "tier": 1,
+      "seen_count": 1
+    }
+  ],
+  "no_signal": true
+}
