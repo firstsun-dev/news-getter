@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-11-25",
+    "runs": [
+      {
+        "time": "08:00",
+        "categories": [
+          "AI",
+          "Economics",
+          "Finance",
+          "Global",
+          "Investments",
+          "Social Sentiment",
+          "TW News",
+          "Technology"
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-22",
     "runs": [
       {
